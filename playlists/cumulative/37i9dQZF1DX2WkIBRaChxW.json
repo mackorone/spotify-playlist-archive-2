@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Brent Faiyaz.",
+  "description": "What's happening in r&b, right now \u2013 featuring Coco Jones.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 223498,
       "name": "BACK IN MY ARMS",
       "url": "https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI"
@@ -3474,7 +3474,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 151951,
       "name": "Body So Tea",
       "url": "https://open.spotify.com/track/2V1ne5a2MBngWduIph5pqg"
@@ -5087,6 +5087,24 @@
     },
     {
       "album": {
+        "name": "Eric Bellinger",
+        "url": "https://open.spotify.com/album/3uzbUHpvDp6O2bfpOLE1Yf"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/6InOh4KLVmqBTYMJx8vtRp"
       },
@@ -5886,7 +5904,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 159700,
       "name": "Cry Ugly",
       "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
@@ -6531,6 +6549,28 @@
     },
     {
       "album": {
+        "name": "Didn't Mean To Turn You On (with Rochelle Jordan)",
+        "url": "https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Didn't Mean To Turn You On - with Rochelle Jordan",
+      "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -7090,7 +7130,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 224920,
       "name": "Don\u2019t Break Her Heart",
       "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
@@ -7428,6 +7468,24 @@
       "duration_ms": 214080,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc"
     },
     {
       "album": {
@@ -8858,6 +8916,28 @@
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
+    },
+    {
+      "album": {
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
     },
     {
       "album": {
@@ -11665,6 +11745,24 @@
     },
     {
       "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "I can\u2019t be high around you anymore",
+      "url": "https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb"
+    },
+    {
+      "album": {
         "name": "I Choose U (feat. RINI)",
         "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
       },
@@ -11932,6 +12030,24 @@
       "duration_ms": 189357,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O"
+    },
+    {
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "I Only Look to You",
+      "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
     },
     {
       "album": {
@@ -15377,6 +15493,24 @@
     },
     {
       "album": {
+        "name": "Love Me Through",
+        "url": "https://open.spotify.com/album/3WJbf13X3slcKq32jRt4FO"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203221,
+      "name": "Love Me Through",
+      "url": "https://open.spotify.com/track/5pN3nwpjwFR08G9ZwaCVk9"
+    },
+    {
+      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -16118,7 +16252,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 182586,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
@@ -18402,7 +18536,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 176297,
       "name": "Nowhere Fast",
       "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
@@ -20054,7 +20188,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 232114,
       "name": "Physical (feat.Tink)",
       "url": "https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7"
@@ -21574,7 +21708,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 158476,
       "name": "Recommend",
       "url": "https://open.spotify.com/track/5AKMns2BAQCuZUlVZr5GGD"
@@ -24860,7 +24994,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 195851,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq"
@@ -25650,6 +25784,24 @@
       "duration_ms": 229838,
       "name": "Taking Off",
       "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
+    },
+    {
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178702,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
     },
     {
       "album": {
@@ -30304,6 +30456,24 @@
       "duration_ms": 168106,
       "name": "You Ain't The Only One",
       "url": "https://open.spotify.com/track/2PYmLWYQKcyiDoduL1ewVO"
+    },
+    {
+      "album": {
+        "name": "Under the Same Sky",
+        "url": "https://open.spotify.com/album/0rXmFmuQm7cbb2NuPHF8lS"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161525,
+      "name": "You Found Her",
+      "url": "https://open.spotify.com/track/5JSyd3ormliZCoveePc63H"
     },
     {
       "album": {

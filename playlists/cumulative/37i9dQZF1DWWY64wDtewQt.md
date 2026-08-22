@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-892 songs - 1 day 8 hr 4 min
+893 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [RAPTURE](https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [RAPTURE](https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g) | 2:44 | 2023-02-10 | 2025-04-03 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-13 | 2026-02-07 |
 | [RAVEN](https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [SKETS](https://open.spotify.com/artist/32JsKOhKT1joCOXoIhVGVY) | [RAVEN](https://open.spotify.com/album/4YmcshR0vxXqn8h20qXCMS) | 2:26 | 2022-07-08 | 2023-01-06 |
+| [Raya \- Slowed](https://open.spotify.com/track/0z85gew8SrMCbKobMWvSCL) | [Zericxxn](https://open.spotify.com/artist/4mhYvxWXU1KTZsZr9g6aKS) | [Raya \(Versions\)](https://open.spotify.com/album/51DHF9OrbqPNHZp666YID0) | 1:49 | 2026-08-21 |  |
 | [READY TO ROLL](https://open.spotify.com/track/3NgLazauGQsHnGzj9vInyF) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN) | [OG PHONK, Vol\. 2](https://open.spotify.com/album/0DT0JroJde45L5CqD3xFfR) | 1:53 | 2024-08-09 | 2024-08-31 |
 | [REAL MOONSHINE FUNK \- Super Slowed](https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO) | [DJ ROBE](https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP), [TRXSHBXY](https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ) | [REAL MOONSHINE FUNK](https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D) | 1:34 | 2025-04-02 | 2025-10-18 |
 | [REASON TO LIVE](https://open.spotify.com/track/4ct6fY3UwHrY4IJIasEDfl) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [REASON TO LIVE](https://open.spotify.com/album/4nmSaKjoJkZH1Agf5brNku) | 3:12 | 2022-02-04 | 2022-06-04 |
@@ -719,7 +720,7 @@
 | [See U](https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [See U](https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0) | 2:50 | 2022-09-16 | 2022-11-19 |
 | [See u \- Extended Version](https://open.spotify.com/track/52EXsoQrmBuAGyd0kX3Np4) | [V21](https://open.spotify.com/artist/67ALWf0iCYJTWxLJEvUJwk) | [See u \(Extended Version\)](https://open.spotify.com/album/6qziqd8C0BQzZsSsT573Zs) | 2:00 | 2021-08-27 | 2022-01-15 |
 | [SEMPERO \- Slowed](https://open.spotify.com/track/54veCY5M8Y9k92idKlJZ44) | [QMIIR](https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP) | [SEMPERO](https://open.spotify.com/album/5zw0PxWKfHqKvnsVW3CvtF) | 2:04 | 2025-09-12 | 2026-02-07 |
-| [SENTA MARIA VAI X BEAT ABSURDO \- Slowed](https://open.spotify.com/track/2TRBDAcApCXLIbqoFD8q14) | [IMARO](https://open.spotify.com/artist/49mGI97erh26mewRTJtAZr), [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [Mc Furdunço](https://open.spotify.com/artist/13ctfpnIHOyVFw11WHuvFj), [MC Gil Do Andaraí](https://open.spotify.com/artist/084A1ahogQHTEUa9mSCNCg) | [SENTA MARIA VAI X BEAT ABSURDO](https://open.spotify.com/album/1gljOCfATDpKElvnGOJrTo) | 1:51 | 2025-04-11 |  |
+| [SENTA MARIA VAI X BEAT ABSURDO \- Slowed](https://open.spotify.com/track/2TRBDAcApCXLIbqoFD8q14) | [IMARO](https://open.spotify.com/artist/49mGI97erh26mewRTJtAZr), [DJ EXE](https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi), [Mc Furdunço](https://open.spotify.com/artist/13ctfpnIHOyVFw11WHuvFj), [MC Gil Do Andaraí](https://open.spotify.com/artist/084A1ahogQHTEUa9mSCNCg) | [SENTA MARIA VAI X BEAT ABSURDO](https://open.spotify.com/album/1gljOCfATDpKElvnGOJrTo) | 1:51 | 2025-04-11 | 2026-08-22 |
 | [SEQUÊNCIA DA DZ7](https://open.spotify.com/track/0LnhfmhxSYLfur8Hr8eZ4T) | [Senius](https://open.spotify.com/artist/4egM8NbZRoRManQ8fLoF98) | [SEQUÊNCIA DA DZ7](https://open.spotify.com/album/7i0vC3NWcFICEO3WPVYmk0) | 1:59 | 2023-06-16 | 2024-03-16 |
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-06-16 | 2024-03-15 |
 | [Sequência da Dz7](https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ) | 1:59 | 2023-06-16 | 2024-03-10 |

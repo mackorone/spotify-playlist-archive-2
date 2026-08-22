@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Faheem uddin Hunzai
 
-1,338 songs - 2 day 23 hr 39 min
+1,339 songs - 2 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Bhaag](https://open.spotify.com/track/1J6yFcIPZ5IOSb33kMOGvu) | [Maheer Babar](https://open.spotify.com/artist/4FO5ytRpH31ATKZM9EPYT1), [Abstract Khan](https://open.spotify.com/artist/4JhItX81adXNpershjxuZ3) | [Bhaag](https://open.spotify.com/album/6yAu6sya9wWjRMcqwkQjoI) | 2:06 | 2024-05-09 | 2024-09-06 |
 | [Bhanwray](https://open.spotify.com/track/7hd4hJvT4sRKt6ZODGIbRR) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9), [Joshua Savio](https://open.spotify.com/artist/0de1SZQ5sOAmgVK3vtfUt9) | [Bhanwray](https://open.spotify.com/album/7FLHPPyX759sAHlYblf8fw) | 4:10 | 2024-01-26 | 2025-06-30 |
 | [Bhool](https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Bhool](https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9) | 4:04 | 2025-01-28 | 2025-10-04 |
+| [Bhool Gaya](https://open.spotify.com/track/3GfPzRWJWyJZbl25NaatiW) | [izhaar Ali](https://open.spotify.com/artist/3Q2R81iiDAi2VKmbYvjpol) | [Bhool Gaya](https://open.spotify.com/album/0iL1P0t5Rth9zRWpB7VWy0) | 4:06 | 2026-08-21 |  |
 | [Bhool Jao Na](https://open.spotify.com/track/1QYVG2BXSG8PJl4Fs6VMZu) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8), [inayat](https://open.spotify.com/artist/4bGgNLkDRJdh8wHKUGlBUK), [Eman Hussain](https://open.spotify.com/artist/3WvawwapCtlplnzq7dpmqC) | [Bhool Jao Na](https://open.spotify.com/album/4dUYuXiNkPfJJG5tNXRkTF) | 2:35 | 2023-07-14 | 2023-09-02 |
 | [Bhool Nahi](https://open.spotify.com/track/7a0nFCjGdRWZUkEwDvdtSn) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Bhool Nahi](https://open.spotify.com/album/3m6kRxCVzKzGNttpkpLY2v) | 3:04 | 2026-04-03 | 2026-08-15 |
 | [Bhoola](https://open.spotify.com/track/1tu2kfE4UWlxyGqJQNkgmT) | [Hamza Akhund](https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq) | [Bhoola](https://open.spotify.com/album/44rLZfcM9MN87XVSDk0GCi) | 2:56 | 2022-09-23 | 2022-10-27 |

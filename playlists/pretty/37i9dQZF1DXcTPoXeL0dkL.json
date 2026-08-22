@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 226164,
+  "num_followers": 226196,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRCVYF6R07oW4bp2kElcQO78Mem",
+  "snapshot_id": "AAAAAF74D+HvRcLrlpokgRmxpDATsLF0",
   "tracks": [
     {
       "added_at": "2025-06-06 05:39:08",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 300786,
-      "name": "Me Ilusione",
-      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Una Leyenda - Los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/03XL7CFgk3mkfzwvJm6Wlw"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 259473,
       "name": "Me Toc\u00f3 Perderte",
       "url": "https://open.spotify.com/track/6nmqpo8xhxYF6ILwsWIbaV"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 294640,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
@@ -523,8 +539,8 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "\u2026Que viva el vallenato!",
-        "url": "https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28"
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
       },
       "artists": [
         {
@@ -532,25 +548,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 294640,
-      "name": "Si Tu Amor No Vuelve",
-      "url": "https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
+      "duration_ms": 300786,
+      "name": "Me Ilusione",
+      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -583,6 +583,22 @@
       "duration_ms": 315862,
       "name": "10 Razones para Amarte",
       "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "Homenaje",
+        "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
+      },
+      "artists": [
+        {
+          "name": "Estrellas Vallenatas",
+          "url": "https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -835,22 +851,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Homenaje",
-        "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
-      },
-      "artists": [
-        {
-          "name": "Estrellas Vallenatas",
-          "url": "https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        },
-        {
-          "name": "Los Gigantes",
-          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
-        }
-      ],
-      "duration_ms": 246726,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Diomedes Diaz, La Ventana Marroncita y 15 \u00c9xitos M\u00e1s!",
         "url": "https://open.spotify.com/album/4bqctdZq7FUy0C397pcguV"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 275040,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/0pPJL3LP1YRXlalklDNwpt"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Los Gigantes",
+          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
+        }
+      ],
+      "duration_ms": 246726,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Perd\u00f3name la Vida",
-      "url": "https://open.spotify.com/track/1MdKgwGs2hW1cJUzsIxWVV"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Lo Mejor 17 Grandes Exitos",
         "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 300333,
       "name": "Sin Medir Distancias",
       "url": "https://open.spotify.com/track/01hWPDDBph6Lndib76j8mn"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Perd\u00f3name la Vida",
+      "url": "https://open.spotify.com/track/1MdKgwGs2hW1cJUzsIxWVV"
     },
     {
       "added_at": "2025-06-06 05:39:08",

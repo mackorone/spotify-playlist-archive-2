@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💖 Sissal
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,900 likes - 109 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,908 likes - 109 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 108 | [Kærlighed & Kildevand](https://open.spotify.com/track/5KVgLz2vx6LGnCR3I3xpJV) | [barejegvarmig](https://open.spotify.com/artist/2jd9z4iry5iB6Ue1pt6HVH) | [Kærlighed & Kildevand](https://open.spotify.com/album/1yZj2pHkRzRdmaUp0DKMsi) | 2:44 |
 | 109 | [I Know It's Wrong](https://open.spotify.com/track/7kjmxkch7Kq6JG7MJU0kXw) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [I Know It's Wrong](https://open.spotify.com/album/1xvcKcI9fNsE0IBHpK5GdG) | 2:52 |
 
-Snapshot ID: `AAAAAJ3yETDuxXUcy51NfRfL9ezdVkVH`
+Snapshot ID: `AAAAADtCWPROBv3dZw20UpVB8gH3OHlD`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Carly Rae Jepsen ",
+  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: yung kai",
   "name": "\u6700Hit\u897f\u6d0b\u699c",
   "tracks": [
     {
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 207085,
       "name": "Alive (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 191926,
       "name": "Certified Lover Girl",
       "url": "https://open.spotify.com/track/5YEkMWE1gDq8NJm0ZpRy22"
@@ -5080,6 +5080,24 @@
       "duration_ms": 215000,
       "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
       "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+    },
+    {
+      "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127740,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
     },
     {
       "album": {
@@ -6808,7 +6826,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 217696,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
@@ -8537,6 +8555,24 @@
     },
     {
       "album": {
+        "name": "feel myself",
+        "url": "https://open.spotify.com/album/75MbI0WOFQN8D05YuvqWhj"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137053,
+      "name": "feel myself",
+      "url": "https://open.spotify.com/track/66RpXf6th846Q3g9tbPxzG"
+    },
+    {
+      "album": {
         "name": "feel the same (sped up)",
         "url": "https://open.spotify.com/album/3zfTd0IoMYBZ5v70d6pEql"
       },
@@ -9752,7 +9788,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 152979,
       "name": "GIRLS (feat. Kehlani) - Remix",
       "url": "https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV"
@@ -10992,6 +11028,28 @@
       "duration_ms": 237045,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso"
+    },
+    {
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158792,
+      "name": "Heaven Baby (feat. ZAYN)",
+      "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
     },
     {
       "album": {
@@ -12427,6 +12485,24 @@
     },
     {
       "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217205,
+      "name": "I Can\u2019t Wait",
+      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
+    },
+    {
+      "album": {
         "name": "I CONDEMN",
         "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
       },
@@ -12714,7 +12790,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 149364,
       "name": "I Just Got Mad",
       "url": "https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7"
@@ -13018,6 +13094,24 @@
       "duration_ms": 238000,
       "name": "I Stopped Trying (feat. Delaney Bailey)",
       "url": "https://open.spotify.com/track/0KeS6KyWgySn91XyzMtKwe"
+    },
+    {
+      "album": {
+        "name": "i think of you the most",
+        "url": "https://open.spotify.com/album/6qpHLyez8QjIfaQOU8NghJ"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197407,
+      "name": "i think of you the most",
+      "url": "https://open.spotify.com/track/2pr7yL0mr8Dnm2nlnqPMin"
     },
     {
       "album": {
@@ -20014,7 +20108,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 209800,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/4Rp718wkIlPZtZuRPYP5qd"
@@ -22205,6 +22299,24 @@
     },
     {
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+    },
+    {
+      "album": {
         "name": "Toy With Me",
         "url": "https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H"
       },
@@ -23913,6 +24025,24 @@
     },
     {
       "album": {
+        "name": "Stay Gone",
+        "url": "https://open.spotify.com/album/0fAfTDRDjfWjs4YryqQARn"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267159,
+      "name": "Stay Gone",
+      "url": "https://open.spotify.com/track/2arjC99T7tiLwCpSFklmmO"
+    },
+    {
+      "album": {
         "name": "Stay With Me (feat. Hikaru Utada)",
         "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
       },
@@ -24650,7 +24780,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 176774,
       "name": "Swimming In Jeans",
       "url": "https://open.spotify.com/track/1aRUn0iZxcHJWvAcwXjesg"
@@ -25974,6 +26104,24 @@
       "duration_ms": 215709,
       "name": "The Time Of My Life",
       "url": "https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ"
+    },
+    {
+      "album": {
+        "name": "The User's Guide to Being Human",
+        "url": "https://open.spotify.com/album/0cY57f2PZcmGaJ2KOYP7NC"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251444,
+      "name": "The User's Guide to Being Human",
+      "url": "https://open.spotify.com/track/19Ncbvfd46WOEjYb42FAb7"
     },
     {
       "album": {
@@ -28138,7 +28286,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 140266,
       "name": "WHAT ELSE?",
       "url": "https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF"

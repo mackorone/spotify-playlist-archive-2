@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Vera Blue
 
-2,974 songs - 6 day 9 hr 51 min
+2,975 songs - 6 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Blisters & Sunburn](https://open.spotify.com/track/3pTPIi9dpiFlUGtDxth4Vh) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/2DqmwinrAEOEPYoS1p63qu) | 2:31 | 2025-06-06 | 2025-07-25 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-22 | 2025-06-27 |
 | [Bloodstream](https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bloodstream](https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH) | 3:31 | 2024-02-08 | 2024-03-08 |
+| [Bloody Paradise](https://open.spotify.com/track/0lkDoxNvtLUNZcWnm9f8lF) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS \(Chinese Ver.\)](https://open.spotify.com/album/7LhAjABx06c9Zf6yIEcA4N) | 2:11 | 2026-08-21 |  |
 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 | 2023-06-15 | 2023-07-07 |
 | [Blow My Mind](https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Blow My Mind](https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w) | 2:57 | 2026-03-12 | 2026-04-10 |
 | [Blue](https://open.spotify.com/track/0fCinAYjVQavPmbcjwNuU7) | [Jasmine Clarke](https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc) | [Blue](https://open.spotify.com/album/2BjwH17GT8pEq7sowWPH74) | 2:26 | 2025-04-24 | 2025-05-30 |

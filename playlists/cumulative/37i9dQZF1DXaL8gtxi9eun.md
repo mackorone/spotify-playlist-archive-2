@@ -2,9 +2,9 @@
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: مُسلِم
+> كل ما هو جديد في عالم البوب المصري\. الغلاف: ويقز
 
-517 songs - 1 day 6 hr 40 min
+519 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Ehtirami](https://open.spotify.com/track/6G7ZvwAVPFyBLwYtBZeIk8) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Ehtirami](https://open.spotify.com/album/3yvKVLjqfhqsPoUliqRAkW) | 3:49 | 2023-05-17 | 2023-05-26 |
 | [Eih Mastakfitsh](https://open.spotify.com/track/4FdE80MQin0VNEucCOyx7V) | [Hamada Majrshi](https://open.spotify.com/artist/56dos4HeHr1HpSmROilHHb) | [Eih Mastakfitsh](https://open.spotify.com/album/18vY1101trpdjYEOalqpPE) | 4:16 | 2026-07-13 | 2026-08-07 |
 | [EKDEB W OUL](https://open.spotify.com/track/160pEuFoT79CDoQf4q4MDv) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1) | [EKDEB W OUL](https://open.spotify.com/album/4ywsfJ6EGEtwg6TjmnY5MS) | 3:22 | 2026-08-17 |  |
+| [El Ayah](https://open.spotify.com/track/2dG8oLvpO61OsmDo2U1Oy8) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Ayah](https://open.spotify.com/album/30NGKVgfo8xRh6UugCieTv) | 3:30 | 2026-08-21 |  |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 | 2023-05-18 |
 | [El Dahab](https://open.spotify.com/track/7mrLcboFABy7lyKCYxgimY) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [El Dahab](https://open.spotify.com/album/5Edgo5uHVbQVkYzRTYrO60) | 3:09 | 2024-04-11 | 2024-08-10 |
 | [El Donya Ray2a](https://open.spotify.com/track/6NWF2mXdfLwRZ4jkX6rL6S) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [El Donya Ray2a](https://open.spotify.com/album/5RLLHfOvHrCcbENPjdjOxX) | 3:01 | 2025-07-17 | 2026-04-09 |
@@ -507,6 +508,7 @@
 | [هي حكاية](https://open.spotify.com/track/6xfNtpD91E67pos5nC4YlF) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [هي حكاية](https://open.spotify.com/album/1S0tU3wayCissjqOuroaYF) | 3:03 | 2024-01-25 | 2024-02-18 |
 | [هيبدأ يتكلم](https://open.spotify.com/track/1WZj20KRIEm6EyJwbtt2kf) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [هيبدأ يتكلم](https://open.spotify.com/album/0T84o5dPeM7uRabHJVioSs) | 2:46 | 2023-09-22 | 2024-01-05 |
 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 | 2024-01-12 | 2026-07-07 |
+| [هيرجعلي](https://open.spotify.com/track/0wfov9xTSmfPuMod6yer54) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [هيرجعلي](https://open.spotify.com/album/0lgmOqDGkzl2UpihGKLnlG) | 2:55 | 2026-08-21 |  |
 | [و افتكرت](https://open.spotify.com/track/2ZYxLGcohgsKpor8pGMc0o) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ناويها](https://open.spotify.com/album/1I8Klnu5XE2py8zIsz842u) | 4:13 | 2025-12-30 | 2026-07-07 |
 | [وأخيراً](https://open.spotify.com/track/7AO6kqczRPDNo413Vru343) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [وأخيراً](https://open.spotify.com/album/5Fz2kCmYaHsPSmWfbfBye5) | 3:05 | 2026-04-08 | 2026-07-14 |
 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 | 2025-03-12 | 2026-07-07 |

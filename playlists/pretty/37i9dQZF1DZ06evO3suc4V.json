@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 11210,
+  "num_followers": 11212,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABkiUusxVpOplx5+2zz9Rs7",
+  "snapshot_id": "aoZDgAAAAADBD0iiyI866INCVp+lcllD",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
@@ -711,38 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Love Is Blind",
-      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "Deep In The World",
-      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Healing Component",
         "url": "https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 237045,
       "name": "Communicate",
       "url": "https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "Deep In The World",
+      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
     },
     {
       "added_at": null,

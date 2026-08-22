@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Creepy Nuts \*👉 <a href="https://spice.eplus.jp/articles/348327">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,158 likes - 95 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,163 likes - 95 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 94 | [2061年のラヴソング](https://open.spotify.com/track/5l36f1uCryn5bGVKtyLgDj) | [交換日記](https://open.spotify.com/artist/5srPmfSLUne3B9WF3RrJZe) | [2061年のラヴソング](https://open.spotify.com/album/1IGg3Bucwz8FAXBFGkkcXw) | 5:44 |
 | 95 | [歩くメランコリー](https://open.spotify.com/track/675VTDEKssbaXgjDbyFXGe) | [キズナ](https://open.spotify.com/artist/3ivoNDU9tOTa2R7XqiIFFk) | [歩くメランコリー](https://open.spotify.com/album/4UtA34OTdQKjKhWSMWdCv6) | 3:53 |
 
-Snapshot ID: `AAAAAG0rtH+6gUPslV8vDDPfLQn5qI84`
+Snapshot ID: `AAAAADdtNedP9ZA4JEYI4yz+JA2u7499`

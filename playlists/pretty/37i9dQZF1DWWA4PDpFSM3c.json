@@ -1,12 +1,12 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 109463,
+  "num_followers": 109501,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABYbWSeDoHH+aXjkvLDCxtW/IXbj",
+  "snapshot_id": "AAAAACxxfm97aGFFClpqH0NSL+UYhB/r",
   "tracks": [
     {
       "added_at": "2022-09-02 08:32:31",
@@ -593,26 +593,6 @@
       "url": "https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l"
     },
     {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Sirivennela (From \"Shyam Singha Roy\") - Single",
-        "url": "https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        }
-      ],
-      "duration_ms": 253595,
-      "name": "Sirivennela (From \"Shyam Singha Roy\")",
-      "url": "https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR"
-    },
-    {
       "added_at": "2024-09-10 05:46:22",
       "album": {
         "name": "Ela (From \"Sopathulu\")",
@@ -635,6 +615,26 @@
       "duration_ms": 228224,
       "name": "Ela (From \"Sopathulu\")",
       "url": "https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Sirivennela (From \"Shyam Singha Roy\") - Single",
+        "url": "https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        }
+      ],
+      "duration_ms": 253595,
+      "name": "Sirivennela (From \"Shyam Singha Roy\")",
+      "url": "https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR"
     },
     {
       "added_at": "2025-09-22 10:53:22",
@@ -735,6 +735,34 @@
       "duration_ms": 249350,
       "name": "Sandurude Solipayee",
       "url": "https://open.spotify.com/track/7bdzsT5MWe4GjML96k9vYZ"
+    },
+    {
+      "added_at": "2026-08-20 13:22:21",
+      "album": {
+        "name": "Manasa Vacha (From \"EPIC - First Semester\")",
+        "url": "https://open.spotify.com/album/4KHl5TXoatovr60Azo3ZCW"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Sri Harsha Emani",
+          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
+        }
+      ],
+      "duration_ms": 255833,
+      "name": "Manasa Vacha (From \"EPIC - First Semester\")",
+      "url": "https://open.spotify.com/track/7JDM8eLX09fLkhBYxCLVAD"
     },
     {
       "added_at": "2024-04-04 10:09:10",
@@ -995,22 +1023,6 @@
       "duration_ms": 255292,
       "name": "Chandrullo Unde",
       "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
-    },
-    {
-      "added_at": "2021-05-18 09:57:44",
-      "album": {
-        "name": "Geetha Govindam",
-        "url": "https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Yenti Yenti",
-      "url": "https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT"
     }
   ],
   "unique_name": "Mellow Telugu",

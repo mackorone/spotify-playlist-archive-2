@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,560 likes - 345 songs - 21 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,561 likes - 345 songs - 21 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -290,8 +290,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 280 | [Treasure \- Acoustic Version](https://open.spotify.com/track/2cXjZJGfTGZLPFFKLpbSgo) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs, Vol.1](https://open.spotify.com/album/7f8XKrpjldzXBpnkkzmFyY) | 3:24 |
 | 281 | [Green Card](https://open.spotify.com/track/6J7vprT8CB5vy5KA1KIwgY) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Wish Bone](https://open.spotify.com/album/0ohYHaVFBYh7qYI5zXbvD6) | 4:08 |
 | 282 | [Godzillionaire](https://open.spotify.com/track/2OQXPBsZcPpmyoyTkFFf6p) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:55 |
-| 283 | [Insidiously](https://open.spotify.com/track/5TG35p7Ns9LJYa7Wkfcujf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 8:50 |
-| 284 | [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 |
+| 283 | [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 |
+| 284 | [Insidiously](https://open.spotify.com/track/5TG35p7Ns9LJYa7Wkfcujf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 8:50 |
 | 285 | [Dim The Lights](https://open.spotify.com/track/7EvMgSKZFwMKyu7IhvBlC8) | [Creep](https://open.spotify.com/artist/7uxdd0kdUdXLwkJKBQkVtP) | [Echoes](https://open.spotify.com/album/7N2cWgNd4fFlaMKmiK61N5) | 3:26 |
 | 286 | [EKG](https://open.spotify.com/track/55S2afBJphP7SDXpvy3MJb) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 2:32 |
 | 287 | [Blame \- Remix](https://open.spotify.com/track/4YpFggSyngPlmanTE8N1wx) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [100 Gym & Fitness Workout Hits! Playlist](https://open.spotify.com/album/2dtcOB8BUBr0QPjTBvn2VF) | 4:23 |
@@ -354,4 +354,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 344 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 345 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcaHJAAAAADMD6bWeNb5uNXYjC1aKStz`
+Snapshot ID: `AcaMxAAAAAA61yDQoV2y6MbMPinNk1zH`

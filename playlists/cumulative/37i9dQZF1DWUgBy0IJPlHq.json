@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Sierra Ferrell",
+  "description": "A new shade of Country. Cover: Brandon Flowers",
   "name": "Indigo",
   "tracks": [
     {
@@ -866,7 +866,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 164048,
       "name": "Already Left",
       "url": "https://open.spotify.com/track/30tdAa1CpF0GmV4Mm2dccQ"
@@ -1852,6 +1852,24 @@
       "duration_ms": 209830,
       "name": "Bleached",
       "url": "https://open.spotify.com/track/3jS8Om0jcb87Fw4HZrrgyl"
+    },
+    {
+      "album": {
+        "name": "Bleeding Heart",
+        "url": "https://open.spotify.com/album/2D4VbBFGvjd6bN8C2tp4ei"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/3HMxuGjEVs3sPgnzQjTaPR"
     },
     {
       "album": {
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 160235,
       "name": "Damn In Love",
       "url": "https://open.spotify.com/track/07sI89bsMQfWjKxLzvRY8D"
@@ -3720,6 +3738,24 @@
       "duration_ms": 220307,
       "name": "Dear Miss Loretta",
       "url": "https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu"
+    },
+    {
+      "album": {
+        "name": "Death To Fake Flowers",
+        "url": "https://open.spotify.com/album/0uMQlJL9ON1TjW6pCwPMb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Jordan",
+          "url": "https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228709,
+      "name": "Death To Fake Flowers",
+      "url": "https://open.spotify.com/track/6WTXXewnf2dtFpoFMXySNQ"
     },
     {
       "album": {
@@ -4028,6 +4064,24 @@
       "duration_ms": 295243,
       "name": "Distance to Close",
       "url": "https://open.spotify.com/track/64KQdbkSWBRTLtj2O3Geoj"
+    },
+    {
+      "album": {
+        "name": "THRASHER",
+        "url": "https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "Does It Ever Cross Your Mind?",
+      "url": "https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a"
     },
     {
       "album": {
@@ -4534,7 +4588,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213461,
       "name": "Edna Strange",
       "url": "https://open.spotify.com/track/6QIvpqNhl2AotxHG61wXpr"
@@ -5835,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170199,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte"
+    },
+    {
+      "album": {
         "name": "Long Way From Home",
         "url": "https://open.spotify.com/album/38plQlvslkwDwrEciLLEzx"
       },
@@ -5864,7 +5936,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 274883,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6N4U9GMgF5tUZhCzHXMibG"
@@ -6838,6 +6910,24 @@
       "duration_ms": 203346,
       "name": "Honey on My Tongue",
       "url": "https://open.spotify.com/track/3gyGu4q61wFw4gSPBkkU1P"
+    },
+    {
+      "album": {
+        "name": "Honeybee",
+        "url": "https://open.spotify.com/album/05yCO36BxR7tvTmCvSc97i"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250481,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/6HzG8729XKZYHL7s30IbKb"
     },
     {
       "album": {
@@ -8639,6 +8729,24 @@
     },
     {
       "album": {
+        "name": "Lonely USA",
+        "url": "https://open.spotify.com/album/2bgN3BMK5nkFxJfj5KdwvD"
+      },
+      "artists": [
+        {
+          "name": "Meels",
+          "url": "https://open.spotify.com/artist/5AH6zdOi1I9eHP2jlUHLnq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "Lonely USA",
+      "url": "https://open.spotify.com/track/2xYHykIg6PTj9KmXiY0SCN"
+    },
+    {
+      "album": {
         "name": "Lonesome Drifter",
         "url": "https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB"
       },
@@ -9840,7 +9948,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 184185,
       "name": "Never Kissed a Cowboy",
       "url": "https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1"
@@ -10440,7 +10548,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 177600,
       "name": "Out West",
       "url": "https://open.spotify.com/track/1mftpk7MAIdq89RRnICK26"

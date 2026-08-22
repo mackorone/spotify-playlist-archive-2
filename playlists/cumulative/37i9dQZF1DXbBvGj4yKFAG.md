@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-274 songs - 14 hr 25 min
+277 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Lexapro](https://open.spotify.com/track/3qw28AcPSxvL7aajVd1TL7) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:26 | 2023-06-30 | 2024-04-19 |
 | [Lightning](https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Lightning](https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk) | 3:15 | 2023-07-14 | 2024-04-17 |
 | [Like You Do](https://open.spotify.com/track/6bpWedLJqI8q0xMqJT88HP) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Like You Do](https://open.spotify.com/album/1qtek4ncBDO5HYjOrbUTbX) | 3:55 | 2023-04-11 | 2023-06-03 |
+| [losing](https://open.spotify.com/track/3foBwRLT4JpfChHjJj2Ow0) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [losing](https://open.spotify.com/album/3wCiKIdsK37rlymuaanCV7) | 2:51 | 2026-08-21 |  |
 | [Love Letters](https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Love Letters](https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep) | 3:16 | 2023-04-14 | 2023-06-06 |
 | [lover's spit plays in the background](https://open.spotify.com/track/3FeEyEmOP3MjmlRkaOGKMo) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [sentiment](https://open.spotify.com/album/7wY1x2M7Nq7hpnwliqmwDU) | 4:02 | 2024-04-16 |  |
 | [lover's spit plays in the background](https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [lover's spit plays in the background](https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A) | 4:02 | 2024-04-16 | 2024-04-19 |
@@ -179,6 +180,7 @@
 | [No One Will Find Us There](https://open.spotify.com/track/3qJk6yCcdJjC5pxPwjubrO) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [I Saw The TV Glow \(Original Motion Picture Score\)](https://open.spotify.com/album/2lrjzHRTMnuEZO00d9JS72) | 1:23 | 2024-05-17 | 2026-06-05 |
 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 | 2023-02-24 | 2023-04-12 |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2023-02-09 | 2023-05-17 |
+| [No Winner](https://open.spotify.com/track/4Njbnrf99RO5OCnMYwjdEr) | [Arthur Fabbro](https://open.spotify.com/artist/7dSv2A4jJ1WvsGmmO6roh4) | [No Winner](https://open.spotify.com/album/2ct6NXPP5qcVosqwQbzwTJ) | 2:40 | 2026-08-21 |  |
 | [Noise](https://open.spotify.com/track/3M3ZGMLBVdBKRLkandKONJ) | [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [I'M OK NO I'M NOT](https://open.spotify.com/album/5UniBmaoxyjTUwBgOS165S) | 3:53 | 2023-04-14 | 2023-07-01 |
 | [O.K.](https://open.spotify.com/track/3079KgxQ0kntfz3qTunWq6) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Grade Pending](https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP) | 1:42 | 2023-02-09 | 2023-05-17 |
 | [ocean deep](https://open.spotify.com/track/0NUL2x96GaWjD5z96ZuAgo) | [mellorush](https://open.spotify.com/artist/0agE92MYgcat5Ff87uXV8A), [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [ocean deep](https://open.spotify.com/album/55astp5uQOL5hpOEP2Qa12) | 2:48 | 2025-07-04 |  |
@@ -207,6 +209,7 @@
 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 | 2023-02-09 | 2023-05-17 |
 | [See Through](https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9) | [Bedlocked](https://open.spotify.com/artist/7wgq6QJrXri0Mn31MCZmnt) | [Bedlocked](https://open.spotify.com/album/7A0OdpSoqCpNMX8SbzbKKO) | 3:09 | 2023-04-11 | 2026-03-14 |
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2023-02-09 | 2026-05-09 |
+| [Silver](https://open.spotify.com/track/3vNfyV7eeceVZGjBIan5Kv) | [Lover](https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z) | [Silver](https://open.spotify.com/album/6av4T66RvMiGH1SaEqYDAH) | 3:44 | 2026-08-21 |  |
 | [skin](https://open.spotify.com/track/4D15H9FTw5zG1dMMBfQD1e) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [skin](https://open.spotify.com/album/29iYKOWHrTz5kAMWT8ick9) | 3:20 | 2023-09-21 |  |
 | [sky \- demo](https://open.spotify.com/track/0I1z4sDLVZsNMcwu0M7FQH) | [Stages Of Grief](https://open.spotify.com/artist/40sfn8oXO5ptn9ktivtJ7V), [Blood Estate](https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF) | [Rarities](https://open.spotify.com/album/3xYPAeV0hTyrrWQUDU8NoF) | 2:11 | 2024-04-16 |  |
 | [Sleep Walking](https://open.spotify.com/track/5n9ahkGyDNRv7HD2ng7sAJ) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [Sleep Walking](https://open.spotify.com/album/2djkjUvLdBkJMvt33GuW6L) | 3:19 | 2023-05-12 |  |

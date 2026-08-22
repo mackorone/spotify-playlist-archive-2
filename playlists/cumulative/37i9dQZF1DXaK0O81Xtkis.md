@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Will Linley
+> a little indie, a little pop, soda featuring Thomas Day
 
-1,650 songs - 3 day 10 hr 28 min
+1,654 songs - 3 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [blue jeans](https://open.spotify.com/track/5Nk82YLD9otZms5mjke3ks) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [blue jeans](https://open.spotify.com/album/14hGFRqfSaqnzEqw6kwrLh) | 2:37 | 2026-05-29 | 2026-08-15 |
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-21 | 2024-08-17 |
 | [blue skies and open roads](https://open.spotify.com/track/65rcllOhsYoCKyP6Y4eooM) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [blue skies and open roads](https://open.spotify.com/album/31TnDB0qUMm5UFWL9LSVXn) | 3:25 | 2025-01-24 | 2025-04-12 |
-| [Bluish](https://open.spotify.com/track/4z6uxjuQNiEHfBiPGbqqJ8) | [Father Of Peace](https://open.spotify.com/artist/27nYMwQ6QyHV76mzwXarkO) | [Bluish](https://open.spotify.com/album/49CGtCKtpP9F9lJ2TjVq1u) | 2:31 | 2026-05-15 |  |
+| [Bluish](https://open.spotify.com/track/4z6uxjuQNiEHfBiPGbqqJ8) | [Father Of Peace](https://open.spotify.com/artist/27nYMwQ6QyHV76mzwXarkO) | [Bluish](https://open.spotify.com/album/49CGtCKtpP9F9lJ2TjVq1u) | 2:31 | 2026-05-15 | 2026-08-22 |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 | 2022-09-17 |
 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-22 | 2026-03-28 |
 | [body goes](https://open.spotify.com/track/5UiYm9CRlk2h4IHX1112nF) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [body goes](https://open.spotify.com/album/3BfU5W65mj2eQAR2JjHrVU) | 2:20 | 2022-02-11 | 2022-02-26 |
@@ -402,7 +402,7 @@
 | [Do it all again](https://open.spotify.com/track/6KRahtk4lAdLFOs8btjSdT) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Do it all again](https://open.spotify.com/album/0FvRb3KcuAEvc62SmHQJvL) | 2:30 | 2026-06-12 |  |
 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 | 2026-03-20 | 2026-05-16 |
 | [DOES GOD HOLD GRUDGES?](https://open.spotify.com/track/2aQWVAmzgGljv8a7PJteXC) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [DOES GOD HOLD GRUDGES?](https://open.spotify.com/album/1SONYFzZkgDYC0fNqmWoVY) | 2:43 | 2026-04-24 | 2026-07-11 |
-| [does it still mean something?](https://open.spotify.com/track/6wOnFsTCN2e8owgWdn3HJ1) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [only if it matters](https://open.spotify.com/album/3iYDC93uCzrNFoX87zbWZl) | 3:48 | 2026-05-22 |  |
+| [does it still mean something?](https://open.spotify.com/track/6wOnFsTCN2e8owgWdn3HJ1) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [only if it matters](https://open.spotify.com/album/3iYDC93uCzrNFoX87zbWZl) | 3:48 | 2026-05-22 | 2026-08-22 |
 | [Dog](https://open.spotify.com/track/1zFHYaaONgPobW6xRGfHO6) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Dog](https://open.spotify.com/album/3hgcOIKEyNobZgWQx37S4R) | 3:15 | 2025-02-28 | 2025-04-12 |
 | [Don't](https://open.spotify.com/track/2q9YHakYN697yPpEitqybk) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Don't](https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS) | 3:02 | 2023-01-27 | 2023-03-25 |
 | [don't blow the candles out](https://open.spotify.com/track/5F8TjzFBjOK6zCwZZY44b8) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [don't blow the candles out](https://open.spotify.com/album/0N6eI2jcaJSrX1K50gR05j) | 3:22 | 2025-04-11 | 2025-06-07 |
@@ -736,6 +736,7 @@
 | [I Think I Like You](https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:02 | 2022-03-18 | 2022-08-27 |
 | [I Think You Should Go](https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [BLIND](https://open.spotify.com/album/3KwHPX5p6O8VgJVoL5YgWj) | 2:23 | 2024-03-01 | 2024-04-27 |
 | [I thought that i'd know by now](https://open.spotify.com/track/7yd3WBefexIk6jtlXJr0HN) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [i thought that i'd know by now](https://open.spotify.com/album/6T7nzcZGGzuhuhLfSKffyE) | 2:54 | 2024-08-02 | 2024-10-19 |
+| [i wanna be your girl](https://open.spotify.com/track/1KATxDmHw5rFg1REMU8wDM) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [i wanna be your girl](https://open.spotify.com/album/5iydIH1mBG1llsm8dH4E3E) | 2:27 | 2026-08-21 |  |
 | [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 | 2023-03-31 | 2023-04-25 |
 | [I Want You Here All The Time](https://open.spotify.com/track/2riJzFiqt8w0g7xkIhRapl) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [I Want You Here All The Time](https://open.spotify.com/album/2jCfOYLFdUjHGHMhpoSfRn) | 2:53 | 2025-06-20 | 2025-08-30 |
 | [I Wanted to Keep You](https://open.spotify.com/track/4H5QTP8dcCF43mplpAja28) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [I Wanted to Keep You](https://open.spotify.com/album/1fCPIcTrS1wkX529mzWDWw) | 2:48 | 2021-10-29 | 2021-12-25 |
@@ -870,7 +871,7 @@
 | [Like 1999](https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:24 | 2022-04-01 | 2022-04-09 |
 | [like i do](https://open.spotify.com/track/3iAAC224KxF61iaV8TLOvP) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [like i do](https://open.spotify.com/album/0I2MvADSXNqeeRIDhU5oyf) | 2:54 | 2023-07-14 | 2023-07-29 |
 | [Like the Holidays](https://open.spotify.com/track/0BfItkSeBQM1qXUXT1EJ06) | [The Astronomers](https://open.spotify.com/artist/3jx7HGyoa2APekVbiXZvFh) | [Like the Holidays](https://open.spotify.com/album/2duFauhPjyHqN05fpWfD61) | 2:59 | 2022-07-08 | 2022-08-27 |
-| [Like you mean it](https://open.spotify.com/track/4DCz1jb9Me9dn12CqqFk6N) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Like you mean it](https://open.spotify.com/album/798jmpqSH0IYejKbp7mtRd) | 2:27 | 2026-05-15 |  |
+| [Like you mean it](https://open.spotify.com/track/4DCz1jb9Me9dn12CqqFk6N) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Like you mean it](https://open.spotify.com/album/798jmpqSH0IYejKbp7mtRd) | 2:27 | 2026-05-15 | 2026-08-22 |
 | [LIMBO](https://open.spotify.com/track/0vgsQOziTKE4oaSu8TkGs7) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [MARCO!](https://open.spotify.com/album/012M45feGa1rFDG0iiywJA) | 2:14 | 2023-06-30 | 2023-07-29 |
 | [Limelight](https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Limelight](https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId) | 3:00 | 2023-07-14 | 2024-01-05 |
 | [lips](https://open.spotify.com/track/2wQ7cDLALd9OlYMEkhtgwx) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [lips](https://open.spotify.com/album/4E8mMaltzJAmoAPciU7S3b) | 2:38 | 2025-05-30 | 2025-08-02 |
@@ -976,7 +977,7 @@
 | [miss misery](https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [miss misery](https://open.spotify.com/album/3AOmVaNza6c5sfnjDeYDVk) | 2:59 | 2023-02-17 | 2023-04-25 |
 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 | 2025-07-25 | 2025-08-09 |
 | [Miss Sunshine](https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Miss Sunshine](https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq) | 3:23 | 2025-02-24 | 2025-04-12 |
-| [MISS U](https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [MISS U](https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24) | 2:31 | 2026-05-15 |  |
+| [MISS U](https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [MISS U](https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24) | 2:31 | 2026-05-15 | 2026-08-22 |
 | [Miss You](https://open.spotify.com/track/6ocMXJqpkBP7KNFNUDLSUN) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Miss You](https://open.spotify.com/album/7h32RpEtJz3qqo4a4AjPet) | 2:47 | 2024-01-05 | 2024-03-30 |
 | [Miss You To Death](https://open.spotify.com/track/6zWwKrs73j2M9dbpbXDBLz) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Buccaneers: S2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3a2JlqYjwpN3Wck0IuA4HS) | 2:52 | 2025-06-20 | 2025-09-06 |
 | [Mistake](https://open.spotify.com/track/3cKEPwsUlavywIrz3yjfw4) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [Mistake](https://open.spotify.com/album/0C9TJmoKVNAcdnQxr6BmHh) | 2:28 | 2022-10-07 | 2023-03-04 |
@@ -1499,6 +1500,7 @@
 | [TRENDSETTER](https://open.spotify.com/track/2IoQzlp7Q43spYYriDyHn9) | [DXRKNOVA](https://open.spotify.com/artist/4P8JfVa8eBo9subUetsNRV), [jvstblake](https://open.spotify.com/artist/5SxRN6YmVzqVecObct98Zj) | [TRENDSETTER](https://open.spotify.com/album/7yAP8wmCWTfXZd21167KIp) | 2:46 | 2024-04-19 | 2024-04-27 |
 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 | 2022-11-11 | 2023-02-11 |
 | [trust exercises](https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [trust exercises](https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8) | 3:34 | 2023-10-13 | 2024-01-05 |
+| [Trust Issues](https://open.spotify.com/track/3x1skiBubyZ3qVZkmfKm0S) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Trust Issues](https://open.spotify.com/album/5wCMKrwR9fDu0zlrxyxy3v) | 2:50 | 2026-08-22 |  |
 | [Try](https://open.spotify.com/track/5gqGq4xbGAypDUD6YZVIUG) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Try](https://open.spotify.com/album/2R40H2ayJTqBjqHWLvYuTp) | 2:16 | 2024-02-23 | 2024-04-19 |
 | [Tuesday](https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Till Next Time](https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT) | 2:08 | 2023-06-23 | 2023-09-09 |
 | [Tunnel Vision](https://open.spotify.com/track/0OUyKkP7ZWv0RgiGur1cCR) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Tunnel Vision](https://open.spotify.com/album/5JMEkkyal1BkdnChE76AzY) | 3:24 | 2024-12-13 | 2025-01-25 |
@@ -1566,6 +1568,7 @@
 | [Wes Anderson](https://open.spotify.com/track/20U991Kupnf6EwVGxFshgJ) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Wes Anderson](https://open.spotify.com/album/7EcpVfeDmP8W7TKIEGypgE) | 2:47 | 2023-09-08 | 2023-10-07 |
 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 | 2022-05-27 | 2022-06-04 |
 | [westside](https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [westside](https://open.spotify.com/album/6AJNR5UT0Cf3xF1q1FaIsc) | 3:02 | 2026-04-03 | 2026-05-23 |
+| [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 | 2026-08-21 |  |
 | [What Am I Missing?](https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [What Am I Missing?](https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg) | 2:52 | 2023-04-21 | 2023-07-01 |
 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 | 2025-03-28 | 2025-06-07 |
 | [what do i know?](https://open.spotify.com/track/1mbZ7V8SgPERXLtc9UDQLR) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [sunflower](https://open.spotify.com/album/573GcKaNUsjIUQ0Calzfc1) | 2:48 | 2025-06-27 | 2025-08-30 |
@@ -1606,6 +1609,7 @@
 | [Wild Things](https://open.spotify.com/track/24HWZczGAczojNdUnupoo4) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv) | 3:36 | 2024-03-01 | 2024-04-27 |
 | [Wild Things](https://open.spotify.com/track/5zSblOkvmMVYmaXbDRXbFg) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/2bcXBtpp2hrgJrCqbi06PA) | 3:36 | 2024-03-15 | 2024-04-19 |
 | [wildflower](https://open.spotify.com/track/2PtPgifaaf3zple5JmOu0m) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [wildflower](https://open.spotify.com/album/2Tbw2822fUUCPECiVspPM4) | 3:00 | 2025-01-03 | 2025-04-12 |
+| [will you be coming around?](https://open.spotify.com/track/1nsj01MrKqdLb0dVPUqTG2) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [will you be coming around?](https://open.spotify.com/album/4K7Uw9hrsjMBsatjmmBXCq) | 2:49 | 2026-08-21 |  |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2021-12-24 | 2022-02-26 |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-12-23 | 2023-01-06 |
 | [Wisdom Tooth](https://open.spotify.com/track/30Pw9cCYhfokrNRFQ6rz3d) | [Jack Kane](https://open.spotify.com/artist/5c6qUocQoL2xgqwBpolpMi) | [Wisdom Tooth](https://open.spotify.com/album/1MwkXWhTaIJmm6qZOEMUDr) | 2:58 | 2025-09-27 | 2026-01-17 |

@@ -1,29 +1,13 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19844,
+  "num_followers": 19845,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAAM+9I0jK8H+1nFpMcq7CZi",
+  "snapshot_id": "aoZDgAAAAADq9aMO03a5VR/6v1S1L/eE",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 499266,
-      "name": "Kindred Spirit",
-      "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 354973,
       "name": "Uno",
       "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 499266,
+      "name": "Kindred Spirit",
+      "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
     },
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 478520,
-      "name": "Lovesong from the Mountains",
-      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 581226,
       "name": "Illumination of the Heart",
       "url": "https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 478520,
+      "name": "Lovesong from the Mountains",
+      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 272653,
-      "name": "Hands of Love",
-      "url": "https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 420546,
       "name": "Four",
       "url": "https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 272653,
+      "name": "Hands of Love",
+      "url": "https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 572853,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 522013,
       "name": "Huit",
       "url": "https://open.spotify.com/track/2BfQ8b6lOmOCohyKzhbiyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "Coucher de Lune",
+      "url": "https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe"
     },
     {
       "added_at": null,
@@ -291,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Coucher de Lune",
-      "url": "https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
       },
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 514080,
-      "name": "Koyasan",
-      "url": "https://open.spotify.com/track/5lV4TxufL1Sq5zfC8Gz2CZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illumination of the Heart",
         "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 566813,
       "name": "Schein und Widerschein",
       "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 514080,
+      "name": "Koyasan",
+      "url": "https://open.spotify.com/track/5lV4TxufL1Sq5zfC8Gz2CZ"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Love",
-        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 486893,
-      "name": "Still Stones of Silence",
-      "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illumination of the Heart",
         "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 587746,
       "name": "Matamua",
       "url": "https://open.spotify.com/track/472kQ99QrEpFLaLBUglVF3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 486893,
+      "name": "Still Stones of Silence",
+      "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Love",
-        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 433706,
-      "name": "Love's Winged Messenger",
-      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sea and Silence",
         "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 807853,
       "name": "Sea and Silence",
       "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 433706,
+      "name": "Love's Winged Messenger",
+      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 458373,
+      "name": "Tonglen",
+      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "East of the Full Moon",
         "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
       },
@@ -555,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
       },
       "artists": [
         {
@@ -564,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 458373,
-      "name": "Tonglen",
-      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
+      "duration_ms": 321786,
+      "name": "Morning Light Silhouettes 2",
+      "url": "https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Love",
-        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 321786,
-      "name": "Morning Light Silhouettes 2",
-      "url": "https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spiritual Healing",
         "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 406586,
-      "name": "Moon-Silvered Clouds",
-      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bamboo Forest",
         "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 349133,
       "name": "Kyoto Garden",
       "url": "https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 406586,
+      "name": "Moon-Silvered Clouds",
+      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc"
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 518626,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65"
+      "duration_ms": 450480,
+      "name": "Dawn Mist - The Temple",
+      "url": "https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiritual Healing",
-        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 450480,
-      "name": "Dawn Mist - The Temple",
-      "url": "https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2"
+      "duration_ms": 518626,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65"
     },
     {
       "added_at": null,

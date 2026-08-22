@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 427204,
+  "num_followers": 427214,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQ8RNWg+tbJC9vfZOn7lkyNpuPs",
+  "snapshot_id": "AAAAAPzwoy55uyPecXwZ3mEE5VWTlMD4",
   "tracks": [
     {
       "added_at": "2026-07-24 15:37:17",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "A Roar Of Southern Clouds",
         "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 185933,
       "name": "A Primera Vista",
       "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Timidez (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 289154,
       "name": "Al Vac\u00edo",
       "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Tan temperamental",
+      "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
         "name": "Flaca",
         "url": "https://open.spotify.com/album/69ooyiugiCWS2jheDxBfYs"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Artificio",
-        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Tan temperamental",
-      "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1235,22 +1251,6 @@
       "duration_ms": 178630,
       "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
       "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Ramma + Cindy Cats - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
-      },
-      "artists": [
-        {
-          "name": "Ramma",
-          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
-        },
-        {
-          "name": "Cindy Cats",
-          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
-        }
-      ],
-      "duration_ms": 229729,
-      "name": "cuando pase la tormenta - Spotify Sessions",
-      "url": "https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "Me Entrego",
         "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 207000,
       "name": "Me Entrego",
       "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Ramma + Cindy Cats - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        },
+        {
+          "name": "Cindy Cats",
+          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
+        }
+      ],
+      "duration_ms": 229729,
+      "name": "cuando pase la tormenta - Spotify Sessions",
+      "url": "https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "El Mundo Siempre Estuvo Dividido en Dos",
-        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
         }
       ],
-      "duration_ms": 125156,
-      "name": "El Mundo Siempre Estuvo Dividido en Dos",
-      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+      "duration_ms": 159741,
+      "name": "Por el Bien de los Dos",
+      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
+        "name": "El Mundo Siempre Estuvo Dividido en Dos",
+        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "El Mundo Siempre Estuvo Dividido en Dos",
+      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 217609,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
-      },
-      "artists": [
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        }
-      ],
-      "duration_ms": 159741,
-      "name": "Por el Bien de los Dos",
-      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

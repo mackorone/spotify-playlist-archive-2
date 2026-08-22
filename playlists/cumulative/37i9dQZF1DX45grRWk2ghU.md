@@ -4,7 +4,7 @@
 
 > Every Lollapalooza a new main pop girl rises
 
-190 songs - 9 hr 38 min
+191 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [POP GIRL](https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [POP GIRL](https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d) | 2:34 | 2025-03-21 | 2026-01-15 |
 | [Pop Star \- Chaeyoung Remix](https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Chaeyoung](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [Pop Star \(Chaeyoung Remix\)](https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0) | 3:28 | 2023-10-27 | 2023-12-09 |
 | [Popular](https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 4:01 | 2024-11-22 | 2026-03-07 |
-| [Poser](https://open.spotify.com/track/5YandKtJP8NChZW4CDSFj1) | [ilykimchi](https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb) | [Poser](https://open.spotify.com/album/4jSSgjHPTpw3x6jnNbVD1d) | 1:59 | 2026-05-15 |  |
+| [Poser](https://open.spotify.com/track/5YandKtJP8NChZW4CDSFj1) | [ilykimchi](https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb) | [Poser](https://open.spotify.com/album/4jSSgjHPTpw3x6jnNbVD1d) | 1:59 | 2026-05-15 | 2026-08-22 |
 | [Pretty Poison](https://open.spotify.com/track/4Vf2kHjHvLPqSJ02H3IFrN) | [Summer Davis](https://open.spotify.com/artist/4PdIr6mcRRryO5vUUHvlpb) | [Pretty Poison](https://open.spotify.com/album/30kd0zsWPmZX52ImIlOawx) | 2:20 | 2025-08-29 | 2025-09-23 |
 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 | 2023-07-07 | 2024-04-19 |
 | [PROVENZA \- REMIX](https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:07 | 2023-08-11 | 2024-05-09 |
@@ -172,6 +172,7 @@
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2024-01-12 |  |
 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 | 2023-07-07 |  |
 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 | 2023-09-22 | 2024-12-21 |
+| [this apartment](https://open.spotify.com/track/44WI75qwTNeUMPLd1rwIOT) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [this apartment](https://open.spotify.com/album/2rawtQtPzx4wYOJLgFMudd) | 2:41 | 2026-08-21 |  |
 | [THIS IS FOR](https://open.spotify.com/track/1GMGVYS12lGWK9UWMJ2iZP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 2:11 | 2025-07-18 |  |
 | [Thot Shit](https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 3:04 | 2023-06-13 |  |
 | [Tia Tamera \(feat\. Rico Nasty\)](https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 3:31 | 2023-06-13 |  |

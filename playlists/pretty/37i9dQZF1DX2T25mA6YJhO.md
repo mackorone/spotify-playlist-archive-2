@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Dear Joanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,494 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,523 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [Chocolate con churros](https://open.spotify.com/track/0f72l5yzchl8b3RQn9yJUr) | [The Patos](https://open.spotify.com/artist/3Xk9UO4CGub2pd4l9G8Srw) | [Chocolate con churros](https://open.spotify.com/album/3gZ6SpSzhk9cqDedQq7Zmq) | 2:05 |
 | 100 | [Moreno Albañil](https://open.spotify.com/track/0iFbCBsfJEiY5SJOOE1ddZ) | [Orina](https://open.spotify.com/artist/2hKjDkYnFqGKQrGsgYI4TJ) | [Moreno Albañil](https://open.spotify.com/album/3JpPgTC7u1IAexMDHmtcK5) | 3:30 |
 
-Snapshot ID: `AAAAAH9YgLkVZG7ID3gwdUJPz3r5+InV`
+Snapshot ID: `AAAAAMP8sVajd9EcBm+YIh9ghTmNa5Fh`

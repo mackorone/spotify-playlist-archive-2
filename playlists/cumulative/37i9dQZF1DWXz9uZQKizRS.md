@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Frank Leen
 
-1,824 songs - 4 day 6 hr 55 min
+1,825 songs - 4 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [Mam talent](https://open.spotify.com/track/7yRAd07H8Khf9qVZhFSyeO) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mam talent](https://open.spotify.com/album/3elZnF5IQwic5oaEoGAP2A) | 3:34 | 2025-07-03 | 2025-09-19 |
 | [Mam tyle szczęścia](https://open.spotify.com/track/7N1F1ZKJrrNsM2OGrOkJwQ) | [Lucas Flint](https://open.spotify.com/artist/6hDQK58Mp46BJ8mCVR8ToK) | [Mam tyle szczęścia](https://open.spotify.com/album/1vmoOQSW6tUDzDqNE6aRin) | 3:32 | 2024-07-25 | 2024-08-23 |
 | [Mam Wolną Rękę](https://open.spotify.com/track/2tBzOo9hbf6ppebMLMPEgp) | [pawlack](https://open.spotify.com/artist/4haIEVW7UmdASyascyUk3t) | [Jeszcze Raz](https://open.spotify.com/album/5WbHUkf7xU5JBD3H2BDNEs) | 3:04 | 2025-06-26 | 2025-08-08 |
+| [Mama's Car](https://open.spotify.com/track/1916LFOLD6clD6v1nzW3w0) | [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API), [Marek Pędziwiatr](https://open.spotify.com/artist/285rwNDOrGIgleNASuWyXr), [Wiktoria Jakubowska](https://open.spotify.com/artist/03B9rUpfuSXCXbSS3OmFZG), [Tymon Kosma](https://open.spotify.com/artist/6eZJuqPbaYUJ5Hypwuge7j), [Max Mucha](https://open.spotify.com/artist/2RqS1rvJaijxztXzwzAihD) | [Mama's Car](https://open.spotify.com/album/6l4chdP6cC1dtkmKlKk7zQ) | 3:13 | 2026-08-20 |  |
 | [MAMONY MILION](https://open.spotify.com/track/53camPfa0Fd8y1WzUcRjkP) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [MAMONY MILION](https://open.spotify.com/album/1Webw1M55Xd9Rr1n51Qk70) | 3:19 | 2025-02-27 | 2025-06-06 |
 | [MAMY CZAS](https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh) | [NEWSKIN](https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [MAMY CZAS](https://open.spotify.com/album/2UNYyT3D4fSiWT8H5er3uH) | 3:45 | 2025-08-21 | 2025-10-31 |
 | [Mamy to we krwi](https://open.spotify.com/track/2rk7LstRLdd4wGQpVgXbtJ) | [Jacko Brango](https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV), [radek.baranovsky](https://open.spotify.com/artist/15yqOjT21W03wGgIdhXWud) | [Mamy to we krwi](https://open.spotify.com/album/2HF3YripRR09mqzh3H05vi) | 3:11 | 2024-09-12 | 2024-10-04 |

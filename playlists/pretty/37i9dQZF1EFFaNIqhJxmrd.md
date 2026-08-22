@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 44 | [Wicked Rhythm](https://open.spotify.com/track/4nqYQNGEozDAAHgr7mpdpD) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:00 |
 | 45 | [Five Times \(Acoustic\)](https://open.spotify.com/track/3V03591pqKBD8r9vOOs29Z) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Five Times \(Acoustic\)](https://open.spotify.com/album/5eFyFbPBSGkQMIANPn4tkf) | 3:53 |
 | 46 | [Mad Woman](https://open.spotify.com/track/6SScgnks6GJUzSDx8BgCEB) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:47 |
-| 47 | [Nowhere](https://open.spotify.com/track/1EfSY6vpLYxpB0Yvzb3kUR) | [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Nowhere](https://open.spotify.com/album/3wqkLsMBNhwECtY6YWXsIN) | 3:08 |
-| 48 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 |
+| 47 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 |
+| 48 | [Nowhere](https://open.spotify.com/track/1EfSY6vpLYxpB0Yvzb3kUR) | [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Nowhere](https://open.spotify.com/album/3wqkLsMBNhwECtY6YWXsIN) | 3:08 |
 | 49 | [Jealous \(feat\. Harper\)](https://open.spotify.com/track/077qQHjUTzQVDbhWjDzSoz) | [TRXD](https://open.spotify.com/artist/29JlvmcJaB2Iv1dQZ8Jd8F), [Harper](https://open.spotify.com/artist/0nLSQ7A3JaZfFTH0D4381m) | [Jealous \(feat\. Harper\)](https://open.spotify.com/album/7ABu6SQQwNvzOTSE6gRUEu) | 3:11 |
 | 50 | [Som ingenting](https://open.spotify.com/track/2oPPmVyjDeZhPLQG6yywyn) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Som ingenting](https://open.spotify.com/album/7Eus0A4YWW0EutXbZUdYu1) | 4:09 |
 | 51 | [Kids On The Run](https://open.spotify.com/track/1KlMVhdZocTOtVd8YEQ1IO) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Kids On The Run](https://open.spotify.com/album/433AXIDMBatkEVdvSJ39ut) | 3:29 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 116 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 | 117 | [kärlek \(is not enough\)](https://open.spotify.com/track/1Oy70R2c04QKHyssE4ZBHj) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [kärlek \(is not enough\)](https://open.spotify.com/album/3BIYIXIDa88Wu6uLhiKzql) | 2:53 |
 
-Snapshot ID: `AcaHTAAAAAAggSIjCmia8lrnwOW9uufv`
+Snapshot ID: `AcaM7AAAAABy9+uXWIIYM7SPVRkSO983`

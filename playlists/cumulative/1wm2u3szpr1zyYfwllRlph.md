@@ -4,7 +4,7 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-281 songs - 14 hr 5 min
+282 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Hutia](https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu) | [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Hutia](https://open.spotify.com/album/540Xn6IgSM5VWHXfoqAGS9) | 2:51 | 2026-01-26 |  |
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 | 2026-01-27 |  |
 | [i need u](https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [i need u](https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt) | 3:45 | 2026-04-03 |  |
+| [I Need Your Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:54 | 2026-08-21 |  |
 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 | 2026-01-26 |  |
 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 | 2026-04-17 | 2026-04-25 |
 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 | 2025-07-18 | 2025-09-13 |
@@ -229,7 +230,7 @@
 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-03-20 |  |
 | [somebody else](https://open.spotify.com/track/6aInSNYXYd5fSDZN5zX6Tc) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ) | [somebody else](https://open.spotify.com/album/1hHndqjMpJ426F7xFruQ2z) | 2:11 | 2025-07-18 | 2026-01-28 |
 | [Somebody Knows](https://open.spotify.com/track/6ggn3nOmgJSGnA4FlGQVRc) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Somebody Knows](https://open.spotify.com/album/4fUdu5HvnHpYHPYonFVox5) | 3:48 | 2025-12-08 | 2026-04-11 |
-| [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/track/4vbuk1D3adU4GjFLAjIYwQ) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/album/3uZ42zrAW1vonT8olC4Dui) | 2:31 | 2026-06-12 |  |
+| [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/track/4vbuk1D3adU4GjFLAjIYwQ) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/album/3uZ42zrAW1vonT8olC4Dui) | 2:31 | 2026-06-12 | 2026-08-22 |
 | [Spaces](https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Spaces](https://open.spotify.com/album/4PRxkv5xFKdjAp2CNPmgct) | 3:00 | 2025-09-12 |  |
 | [Spill My Liquor](https://open.spotify.com/track/5QYzGkONWgCQreMLSrnxd9) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Spill My Liquor](https://open.spotify.com/album/7L9Jr8azDGQBn8TJ6JWOx7) | 3:09 | 2025-07-18 | 2026-01-28 |
 | [Spill My Liquor \- Samm Remix](https://open.spotify.com/track/1x4xR3EZObHLBvBs9B4oS0) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Spill My Liquor \(Samm Remix\)](https://open.spotify.com/album/29h6SkbBIUNEFY8X8bx9uQ) | 3:50 | 2025-07-18 | 2026-02-14 |

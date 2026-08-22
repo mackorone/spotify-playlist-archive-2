@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,346 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,465 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Fine \(feat\. Kyle Richh\)](https://open.spotify.com/track/78tYvq3qUChpt8GSsd1AcU) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Fine \(feat\. Kyle Richh\)](https://open.spotify.com/album/2MuKZbf0TkWILo01rP2asf) | 1:57 |
 | 40 | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/track/2o0quqVps5WtMhiuzswkV1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/album/7mHQPzJhoPrrQsO9eXSwOy) | 2:48 |
 
-Snapshot ID: `AAAAAPcDwOTjqCic2LqzTvaVbpXssTfu`
+Snapshot ID: `AAAAAD7hlrki63u7rOuc0MFoWjobdnEH`

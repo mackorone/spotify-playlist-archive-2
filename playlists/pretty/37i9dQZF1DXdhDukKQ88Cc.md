@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀 YAWO på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,800 likes - 53 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,798 likes - 53 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 24 | [Big Ben](https://open.spotify.com/track/4yl1Ce1RQlBlmKMDaxOfjb) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Big Ben](https://open.spotify.com/album/40Ttu4VLHdw6a6g4DlPW0L) | 2:17 |
 | 25 | [Blown Away](https://open.spotify.com/track/7lKdAx2mblLAAMtoKYdlJU) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Blown Away](https://open.spotify.com/album/2mK0bEG2WgniiFWZwykyV8) | 2:12 |
 | 26 | [Hvis væggene kunne tale](https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Den lange vej](https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf) | 2:58 |
-| 27 | [Track 5](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 0:00 |
+| 27 | [Gemen](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 2:29 |
 | 28 | [DZEKO](https://open.spotify.com/track/5fep7kj81mJBXJKG383AQl) | [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa) | [DZEKO](https://open.spotify.com/album/3LvPv1YK7r6meo0Hhqk75G) | 2:24 |
 | 29 | [Europa Favela](https://open.spotify.com/track/1I5iwGQHP4ZCgE8GGsq47v) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Europa Favela](https://open.spotify.com/album/3ZGcvfGVeXqF8YxCwfUNid) | 3:14 |
 | 30 | [Ivrig](https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Ivrig](https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa) | 2:48 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 52 | [fuck frejlev](https://open.spotify.com/track/4NRc74wcetGguuuGrg28h1) | [yungholgi](https://open.spotify.com/artist/5VCUpUqOArU81gOjm8SBHS), [legobygger123](https://open.spotify.com/artist/0u0haqHdqzbTCF5bCYo2hs) | [fuck frejlev](https://open.spotify.com/album/6SvDMejT078Zo10WIk426L) | 2:24 |
 | 53 | [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 |
 
-Snapshot ID: `AAAAAKL5zyFo41FK3e1tJ0aOXEXwrJ7s`
+Snapshot ID: `AAAAAMiFVWIf7pFmWGUXoVfhdpQXw7vw`

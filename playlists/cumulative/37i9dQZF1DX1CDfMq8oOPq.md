@@ -4,7 +4,7 @@
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-394 songs - 18 hr 29 min
+395 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,8 +374,9 @@
 | [Tipo Anitta](https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Tipo Anitta](https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC) | 2:31 | 2023-07-14 | 2023-10-21 |
 | [Tonight](https://open.spotify.com/track/7kuYGMg1bWRI9qhAh1sAWq) | [Pérola kenia](https://open.spotify.com/artist/3NWZS5KLAa68c19lUTHtui), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS), [Lady Ebony](https://open.spotify.com/artist/6o9CjwTAQKA8G0UE2KEJFS) | [Tonight](https://open.spotify.com/album/5JWiLjK3ldDHbGBGxsJ1xA) | 3:00 | 2022-07-08 | 2022-08-27 |
 | [tranquila & Calma](https://open.spotify.com/track/4NC1JnWuLIo0Dfds2SQ674) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Tranquila & calma](https://open.spotify.com/album/5SiQ8k3NEpybLBG6SW0bRv) | 2:28 | 2025-11-30 |  |
+| [TRAPSTAR](https://open.spotify.com/track/7mm7xz3BqY0vPnrvYGLchv) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Uris](https://open.spotify.com/artist/21E1PaxkHnKuTf58fRkE8Y), [Sussa](https://open.spotify.com/artist/63T4kVGFi1RkWNQ9hnZzP5) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 2:02 | 2026-08-21 |  |
 | [Trik Trik](https://open.spotify.com/track/0RrCvxhHeL45xX9VZqzZbn) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Trik Trik](https://open.spotify.com/album/06vB960YqXyLlWcR8xZmpw) | 3:03 | 2024-07-15 | 2024-10-12 |
-| [tropa do espanca sub](https://open.spotify.com/track/3RJJAT1dCpGU2h6ovjSlVS) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf) | [tropa do espanca sub](https://open.spotify.com/album/0Pmiifu72WdrZcj5LwiB9U) | 2:54 | 2026-03-13 |  |
+| [tropa do espanca sub](https://open.spotify.com/track/3RJJAT1dCpGU2h6ovjSlVS) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf) | [tropa do espanca sub](https://open.spotify.com/album/0Pmiifu72WdrZcj5LwiB9U) | 2:54 | 2026-03-13 | 2026-08-22 |
 | [Tropa do Mantém](https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Tropa do Mantém](https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ) | 2:44 | 2023-03-10 | 2024-05-04 |
 | [TUA BITCH](https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ) | [Tua Bitch](https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY) | 3:13 | 2023-08-04 | 2023-08-19 |
 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 | 2022-10-08 | 2023-09-30 |

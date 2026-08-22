@@ -4,7 +4,7 @@
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-227 songs - 12 hr 41 min
+229 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Piel de Leon](https://open.spotify.com/track/75iX6XU6KBkiSo27beYQcU) | [Los Criollos](https://open.spotify.com/artist/1TsCyGV3RvaqP5liAwEwkK) | [La otra cara de Jujuy](https://open.spotify.com/album/1VtGeBT0FGkEDrhMMG3FY9) | 3:18 | 2026-07-20 |  |
 | [Por el Contrario](https://open.spotify.com/track/5uHrRzzW3hTtYKG8JSpPNg) | [Carlita Celeste](https://open.spotify.com/artist/2LWkwFDTAKh7zZwVAdvmH6) | [Por el Contrario](https://open.spotify.com/album/7mqC06N49AoHgs4MaZNsXm) | 3:47 | 2024-08-16 | 2026-07-21 |
 | [Por El Contrario](https://open.spotify.com/track/4u1j5q4bDebICgwPyrZ2P6) | [Tunay](https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4), [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Por El Contrario](https://open.spotify.com/album/7FQW7bnaVRgPTVPM6Z71WY) | 3:46 | 2024-11-22 | 2026-07-21 |
+| [Por lo que yo te quiero](https://open.spotify.com/track/7I8GWKDofbsFxltT7c4YNy) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT), [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Por lo que yo te quiero](https://open.spotify.com/album/63pauWBOOFrUirzHVQjsl6) | 3:42 | 2026-08-21 |  |
 | [Por Tu Querer](https://open.spotify.com/track/6cyjG51eS5wNBClG2ggkPX) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Por Tu Querer](https://open.spotify.com/album/5DFw7CUGXg9RiMxU1NVGke) | 2:29 | 2023-10-05 | 2026-07-21 |
 | [Primavera \(with Franco Luciani\)](https://open.spotify.com/track/3Bg0CkhlKicxlarJMubrju) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Franco Luciani](https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 5:04 | 2021-12-31 | 2026-07-21 |
 | [Punto Final / ¿Qué Hacemos, Qué Hacemos?](https://open.spotify.com/track/3k9UeD2AVJwGo9APj2hAHP) | [Tunay](https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4) | [Punto Final / ¿Qué Hacemos, Qué Hacemos?](https://open.spotify.com/album/1DQaUVcbnHQb8DQzROrJie) | 3:45 | 2026-08-10 |  |
@@ -180,6 +181,7 @@
 | [Que Sera](https://open.spotify.com/track/270lnckxo5HCb4NYAdEFax) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Huellas](https://open.spotify.com/album/59RmLq2pm4dD9cCceDMjaS) | 4:28 | 2024-11-22 | 2026-07-21 |
 | [Que Yo Te Amo](https://open.spotify.com/track/3qut159EmPY8wvP7b1wHCc) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Alvaro Teruel](https://open.spotify.com/artist/0dCALQ1TpALyNQq6fOyvEn) | [Presente](https://open.spotify.com/album/4NpT9XBd4k7vJDteRA2ZxD) | 3:42 | 2024-09-26 | 2026-07-21 |
 | [Que Yo Te Amo](https://open.spotify.com/track/4knZMJHoBcXE0qm6pe2yoe) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Alvaro Teruel](https://open.spotify.com/artist/0dCALQ1TpALyNQq6fOyvEn) | [Que Yo Te Amo](https://open.spotify.com/album/6rFvoF7weNJ2HIlzLJUTFw) | 3:42 | 2024-08-16 | 2024-11-16 |
+| [Quien Me Devuelve el Tiempo](https://open.spotify.com/track/1Zub35gN713TsTSaLnl4m8) | [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Quien Me Devuelve el Tiempo](https://open.spotify.com/album/1VEGG9ujs2GBx13EojKGEM) | 2:45 | 2026-08-21 |  |
 | [Quiéreme \(Capaz de Tudo\)](https://open.spotify.com/track/5iePevAtESGQehKoPgauq8) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD), [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Quiéreme \(Capaz de Tudo\)](https://open.spotify.com/album/52yJUnLTzlHqRsOPIyumhS) | 3:44 | 2023-10-20 | 2026-02-21 |
 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 | 2021-12-31 | 2023-11-11 |
 | [Río](https://open.spotify.com/track/6gLpELrs5XY17BCwryawRv) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Pitín Zalazar](https://open.spotify.com/artist/7waf4UygCUUvNwHz7i6oYW) | [Eco](https://open.spotify.com/album/3ejrQS0tgyUNG2WyHRoNJA) | 2:58 | 2023-10-05 | 2024-11-16 |

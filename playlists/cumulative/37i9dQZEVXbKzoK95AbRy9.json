@@ -4242,7 +4242,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213191,
       "name": "Deixe Me Ir (feat. Pablo Martins) - Ac\u00fastico 1Kilo",
       "url": "https://open.spotify.com/track/6JKkP9ABQzYZUFSKSVDKIc"
@@ -5774,7 +5774,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 162406,
       "name": "Eu N\u00e3o Sou Terapia - Ao Vivo",
       "url": "https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men"
@@ -8702,7 +8702,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
       "url": "https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI"
@@ -9750,7 +9750,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 181099,
       "name": "Mulher Nunca Foi Pra Menino - Ao Vivo",
       "url": "https://open.spotify.com/track/60fJy1RTf7LaxcKbiX2oeq"
@@ -10572,7 +10572,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 135925,
       "name": "N\u00e3o Namora - Ao Vivo",
       "url": "https://open.spotify.com/track/7DO7aEQDT3nqPOHlyrFB7X"
@@ -12151,6 +12151,28 @@
     },
     {
       "album": {
+        "name": "POR A\u00cd",
+        "url": "https://open.spotify.com/album/7oxea6o25CZCKVfAKsAo1N"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "POR A\u00cd",
+      "url": "https://open.spotify.com/track/1ocTWahzsZ73RWU0fSyAYs"
+    },
+    {
+      "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
         "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
       },
@@ -12216,6 +12238,28 @@
       "duration_ms": 162461,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l"
+    },
+    {
+      "album": {
+        "name": "Postinho de Gasolina",
+        "url": "https://open.spotify.com/album/5LEVnXg3usIhjeS7HAadfs"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143371,
+      "name": "Postinho de Gasolina",
+      "url": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB"
     },
     {
       "album": {
@@ -16444,6 +16488,28 @@
       "duration_ms": 138008,
       "name": "UM PALMO - Ao Vivo",
       "url": "https://open.spotify.com/track/2ciksfz6WZKfqoMVrWq8Vb"
+    },
+    {
+      "album": {
+        "name": "Um Pe\u00e3o Desse",
+        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127161,
+      "name": "Um Pe\u00e3o Desse",
+      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
     },
     {
       "album": {

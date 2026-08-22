@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2015. Cover: Tame Impala\n\n\n\n\n\n",
-  "num_followers": 85413,
+  "num_followers": 85432,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACzuU3Uola+hnukxPkwWbQVqFzjW",
+  "snapshot_id": "AAAAAKuDgtsFd3tvqUuD1A75pzKG+E2/",
   "tracks": [
     {
       "added_at": "2024-03-18 13:24:52",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 257573,
-      "name": "High By The Beach",
-      "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y"
+      "duration_ms": 224740,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
       "artists": [
         {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 224740,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
+      "duration_ms": 257573,
+      "name": "High By The Beach",
+      "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Sunset Lover",
-        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 237792,
-      "name": "Sunset Lover",
-      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 260986,
       "name": "American Money",
       "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Sunset Lover",
+        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 237792,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 300720,
+      "name": "What Went Down",
+      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 180119,
       "name": "Technicolour Beat",
       "url": "https://open.spotify.com/track/5pLpkaIRobcvPnUmclNv6o"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 300720,
-      "name": "What Went Down",
-      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
+      "duration_ms": 278200,
+      "name": "Green & Gold",
+      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Yours, Dreamily,",
-        "url": "https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Put a Flower in Your Pocket",
-      "url": "https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 293468,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Yours, Dreamily,",
+        "url": "https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Put a Flower in Your Pocket",
+      "url": "https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Sound & Color",
-        "url": "https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 232546,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 205129,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Sound & Color",
-        "url": "https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Sound & Color",
-      "url": "https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Every Open Eye",
         "url": "https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 237546,
       "name": "Leave A Trace",
       "url": "https://open.spotify.com/track/37N1YBZEiOyXK4R9h23RW4"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Sound & Color",
+      "url": "https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "White Gloves",
-      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 264523,
       "name": "Flesh without Blood",
       "url": "https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "White Gloves",
+      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 198337,
+      "name": "California",
+      "url": "https://open.spotify.com/track/3zxqTbepxLQesm41y2NoE4"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Christine And The Queens",
         "url": "https://open.spotify.com/album/6icxSA6dVp16bBXaeAMSYG"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/0mQnLhHH5WwRc5gtnzLtK6"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 284130,
-      "name": "The Only Thing",
-      "url": "https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr"
     },
     {
       "added_at": "2024-03-18 13:24:52",

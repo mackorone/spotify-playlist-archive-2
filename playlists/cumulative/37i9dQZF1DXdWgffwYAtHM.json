@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Joguei no Grupo",
+        "url": "https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9"
+      },
+      "artists": [
+        {
+          "name": "Joguei no Grupo",
+          "url": "https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4673856,
+      "name": "#157 - Todas as Nossas Personalidades com Fernando Pedrosa - Joguei no Grupo ",
+      "url": "https://open.spotify.com/episode/36f9G9ZjSD4CKdFq2UWtZT"
+    },
+    {
+      "album": {
         "name": "At\u00e9 a\u00ed, ok!",
         "url": "https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth"
       },
@@ -5114,24 +5132,6 @@
       "duration_ms": 7384448,
       "name": "THE LAST OF US TROUXE OS ZUMBIS DE VOLTA! QUAIS OS MELHORES? \ud83e\udddf \u2013 DON #35",
       "url": "https://open.spotify.com/episode/79oA6XYUsu7BEPH9gZvvfd"
-    },
-    {
-      "album": {
-        "name": "Joguei no Grupo",
-        "url": "https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9"
-      },
-      "artists": [
-        {
-          "name": "Joguei no Grupo",
-          "url": "https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9"
-        }
-      ],
-      "date_added": "2026-08-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 4673856,
-      "name": "Todas as Nossas Personalidades com Fernando Pedrosa - Joguei no Grupo ",
-      "url": "https://open.spotify.com/episode/36f9G9ZjSD4CKdFq2UWtZT"
     },
     {
       "album": {

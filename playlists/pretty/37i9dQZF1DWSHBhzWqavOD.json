@@ -1,12 +1,12 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 27052,
+  "num_followers": 27132,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFhJ5FM2llV5AKt3jZOhw5NC9zeF",
+  "snapshot_id": "AAAAAOOkBkINPkJm15xEqQJI4EtXbMZg",
   "tracks": [
     {
       "added_at": "2026-06-30 14:51:43",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3CJiho39iutZrDxQG5Vubl"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Vuka (feat. Thukuthela)",
         "url": "https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 327451,
       "name": "Vuka (feat. Thukuthela)",
       "url": "https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3CJiho39iutZrDxQG5Vubl"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Juvie",
-        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/0AFiYwKCOujgiuK0zlXpjb"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Da Revolution",
         "url": "https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 268213,
       "name": "Kiss Your Hand (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Juvie",
+        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/0AFiYwKCOujgiuK0zlXpjb"
     },
     {
       "added_at": "2026-06-30 14:51:43",

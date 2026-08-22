@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 6785,
+  "num_followers": 6783,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAACgFxImyBLsIkwpsMALL0Gj",
+  "snapshot_id": "aoZDgAAAAAC4SC68L+R18GtgaY68ob4j",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 260079,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Knebworth 1996 (Live)",
-        "url": "https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 310251,
-      "name": "My Big Mouth (Live at Knebworth, 10 August '96)",
-      "url": "https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF"
     },
     {
       "added_at": null,

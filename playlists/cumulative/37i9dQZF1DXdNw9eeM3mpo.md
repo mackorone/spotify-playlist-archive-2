@@ -2,9 +2,9 @@
 
 ### [Ska Latino ](https://open.spotify.com/playlist/37i9dQZF1DXdNw9eeM3mpo)
 
-> 100% ska en español\. Los Calzones en portada.
+> 100% ska en español\. La Tremenda Korte en portada.
 
-445 songs - 1 day 2 hr 32 min
+447 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Añejo W](https://open.spotify.com/track/2G1xuAHETbSHApZEjJcnMm) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/2XzZ528v4ZOvjmR9XBdECB) | 5:03 | 2021-12-21 | 2022-07-29 |
 | [Añejo W](https://open.spotify.com/track/1mOhRdYfCMLbyzrQPPcGMG) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 5:03 | 2021-12-21 | 2023-07-08 |
 | [Bailando Como Mono](https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 3:06 | 2021-12-21 | 2023-04-22 |
+| [Baile Brutal](https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Baile Brutal](https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y) | 3:30 | 2026-08-21 |  |
 | [Bateo Lloré](https://open.spotify.com/track/4PY6RFuPknAxAyn98HhSxZ) | [Chino y su Gala](https://open.spotify.com/artist/46RKlE0Lg8gsmglaMTNRSM) | [Segunda Entrega de Versiones Conmemorativas](https://open.spotify.com/album/00BKyFR8WRyGQs9nFu0HNL) | 4:25 | 2024-10-29 | 2024-12-13 |
 | [Better Times Are Coming](https://open.spotify.com/track/0lOTlOKnmUEDphNpmpj4LQ) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Better Times Are Coming](https://open.spotify.com/album/0YbGmlwz42fGa6Dk86bf7x) | 3:17 | 2022-04-22 | 2022-07-02 |
 | [Bicolor](https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI) | [EXILIOS](https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE) | [Sueños de Carpa](https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x) | 4:07 | 2021-12-21 | 2023-04-22 |
@@ -253,6 +254,7 @@
 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 | 2021-12-21 |  |
 | [Nada Terminó](https://open.spotify.com/track/5Z6ziouufeQDvKaCd95kFu) | [The Kluba](https://open.spotify.com/artist/4jcoNJ3EK15v1bRSxNFh3Z) | [Amor, Odio y Ruido](https://open.spotify.com/album/6i7YUFXvBi0gCegDrtfFU3) | 4:10 | 2021-12-21 | 2022-02-19 |
 | [Ni Un Segundo Más](https://open.spotify.com/track/4UnXfxtpUp5TRgYiWLBB2W) | [Camiseta 22](https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf), [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Ni Un Segundo Más](https://open.spotify.com/album/6bN09QGl9EMUQZjZJhH787) | 3:04 | 2025-04-04 | 2026-01-04 |
+| [No Doy Mi Alma](https://open.spotify.com/track/2uXmcfX65KAZ52UAHNCOOE) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [No Doy Mi Alma](https://open.spotify.com/album/4BuLndHzup4SXgcdgHmfb6) | 3:47 | 2026-08-21 |  |
 | [No Eres Para Mi](https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG), [Joselo Osses](https://open.spotify.com/artist/61vEn9mndXCZpborSO45uP) | [No Eres Para Mi](https://open.spotify.com/album/1mIAzoKLHHfGCfkpknVX2A) | 3:12 | 2026-05-01 |  |
 | [No Me Haces Falta \(Delante de Ti\)](https://open.spotify.com/track/4bK7KN7WMdNKpcEjmtM6G3) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [No Me Haces Falta \(Delante de Ti\)](https://open.spotify.com/album/1pouDmroacmOF6nwZd6lJ9) | 3:53 | 2021-12-21 | 2022-07-28 |
 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 | 2021-12-21 |  |
@@ -304,7 +306,7 @@
 | [Que Carajos Hago Aquí?](https://open.spotify.com/track/28UC4tHKTtsCQ83pwlf7Be) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk) | [Que Carajos Hago Aquí?](https://open.spotify.com/album/1t1JAgTHN6iRqyGM1gPad3) | 3:07 | 2025-03-04 | 2025-05-16 |
 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 | 2021-12-21 |  |
 | [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 | 2023-09-15 |  |
-| [Que Se Joda el Amor](https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Que Se Joda el Amor](https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt) | 2:31 | 2024-02-23 |  |
+| [Que Se Joda el Amor](https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Que Se Joda el Amor](https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt) | 2:31 | 2024-02-23 | 2026-08-22 |
 | [Que te vaya bien.](https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp) | [Las Mambas Mx](https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G) | [Que te vaya bien.](https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me) | 4:39 | 2024-05-03 | 2024-06-26 |
 | [Queda en Esta Noche](https://open.spotify.com/track/1PA14CUHy7pwikmVZCCuj7) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Queda en Esta Noche](https://open.spotify.com/album/3o3B8TKeUGTX2aNaNKcWZU) | 2:29 | 2021-12-21 | 2022-07-29 |
 | [Quereme Así](https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Chanchos Amigos](https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY) | 4:22 | 2021-12-21 |  |
@@ -402,7 +404,7 @@
 | [Tiran Bombas](https://open.spotify.com/track/1mWukoi0qibt7ejatbGPKW) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Los Intocables](https://open.spotify.com/album/0S4yC2DkQoKjw55hqehYTJ) | 3:03 | 2021-12-21 | 2022-03-07 |
 | [Tocando Fondo](https://open.spotify.com/track/3p8EcRVUPb6y2P04ep5vag) | [Ska Beat City](https://open.spotify.com/artist/4ZrOD7qBmuKV06QXkC9j6o), [Mavi Díaz](https://open.spotify.com/artist/4vxmDBcHT1ibxYBYKirIaW) | [Tocando Fondo](https://open.spotify.com/album/4odxo1WkylfY4tnzNYRl3t) | 3:45 | 2021-12-21 | 2022-02-23 |
 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 | 2022-09-29 | 2026-02-07 |
-| [Todo Crazy](https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [Todo Crazy](https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a) | 2:55 | 2025-01-10 |  |
+| [Todo Crazy](https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [Todo Crazy](https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a) | 2:55 | 2025-01-10 | 2026-08-22 |
 | [Todo Lo Que Sube](https://open.spotify.com/track/26hHZPHrNp12BTrq430u78) | [LaNuestra](https://open.spotify.com/artist/5BwGhYFDQSAfXkSSFGAPkC) | [Todo Lo Que Sube](https://open.spotify.com/album/6IbyN4aEkhnapmICyDajvl) | 3:46 | 2026-07-03 |  |
 | [Todo me recuerda a ti](https://open.spotify.com/track/0id59vSiBNpJR2FFtXNs6E) | [Olmont](https://open.spotify.com/artist/48lZM974DsZhWQ0TanouFW) | [Todo me recuerda a ti](https://open.spotify.com/album/2RsY27hzTgZKEn70ttT3zm) | 3:29 | 2025-01-10 | 2025-03-12 |
 | [Todo va lento](https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP) | [Guachupé](https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K) | [El Club del Amigo](https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB) | 3:30 | 2021-12-21 | 2023-04-22 |

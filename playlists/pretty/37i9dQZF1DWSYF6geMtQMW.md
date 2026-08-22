@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר:שאקירה ובורנה בוי
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,557 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,649 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 22 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 23 | [hate that i made you love me](https://open.spotify.com/track/3pY25LQJWfvvxdHhSg8ucj) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/6HWIDxWLkXE2MzQB8iXN9T) | 3:17 |
 | 24 | [היא לא יודעת למה](https://open.spotify.com/track/6Ma5wr8hndGkkjsk9rgVKS) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 3](https://open.spotify.com/album/16r1AhCbAHBrumtC2LOKW2) | 3:57 |
-| 25 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
+| 25 | [Dracula \(with JENNIE\)](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(with JENNIE\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 26 | [נווה הדרים](https://open.spotify.com/track/3E8a4zr8OUM4MIU7t9SGI7) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נווה הדרים](https://open.spotify.com/album/2NMpP0JNrgwYP7qyqJ26ne) | 3:11 |
 | 27 | [איש הפלא](https://open.spotify.com/track/21lNFbYE1iSBYtNcW2U8Vm) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [איש הפלא](https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A) | 3:10 |
 | 28 | [מדאם + יכולה לבד \- לייב אצטדיון ר"ג](https://open.spotify.com/track/021JhGP2MLS2q7tYp4V0ZL) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מדאם + יכולה לבד \(לייב אצטדיון ר"ג\)](https://open.spotify.com/album/4wJKQnrhfkfSem5fXrWzbY) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [כולי תפילה](https://open.spotify.com/track/7pdniD9t65ZEuULdrpm7Sn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Meydad Tasa](https://open.spotify.com/artist/3UJvSl87KCeQdagMKQ4zMZ) | [כולי תפילה](https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce) | 2:45 |
 | 50 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
 
-Snapshot ID: `AAAAABcOCNwY0qZBzyzs2aQKBk2lrRfr`
+Snapshot ID: `AAAAALbFm/V3AhDdDoS23Hu9RT/q9f+i`

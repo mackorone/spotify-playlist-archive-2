@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: Niko Eme",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: Aline Barros y Danny Gokey",
   "name": "Todas Novedades Cristianas",
   "tracks": [
     {
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 185142,
       "name": "ALABALE",
       "url": "https://open.spotify.com/track/5OC1b8xqnl0eFO4eDeOHUQ"
@@ -9470,7 +9470,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 206375,
       "name": "Brillar",
       "url": "https://open.spotify.com/track/7q02ySHYXAizz6nWSR9Y9s"
@@ -9900,7 +9900,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 148000,
       "name": "Buenos Dias",
       "url": "https://open.spotify.com/track/6URpPTnBA16pHpFF1jQ146"
@@ -13447,6 +13447,28 @@
     },
     {
       "album": {
+        "name": "Con Yahweh 357",
+        "url": "https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD"
+      },
+      "artists": [
+        {
+          "name": "Lenny357",
+          "url": "https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse"
+        },
+        {
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132127,
+      "name": "Con Yahweh 357",
+      "url": "https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj"
+    },
+    {
+      "album": {
         "name": "Conectao",
         "url": "https://open.spotify.com/album/1fo3maaIHMFeNjeR1KrtKF"
       },
@@ -16725,6 +16747,24 @@
     },
     {
       "album": {
+        "name": "Cu\u00e1n Grande Es Dios",
+        "url": "https://open.spotify.com/album/6Xqmf3qC5ARboLU1oliigC"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366561,
+      "name": "Cu\u00e1n Grande Es Dios",
+      "url": "https://open.spotify.com/track/0Cjra6CgmdHMEVODU0xpdx"
+    },
+    {
+      "album": {
         "name": "Cu\u00e1nto Te Amo",
         "url": "https://open.spotify.com/album/5d0sMnrH3htZ0VbppRhrJ6"
       },
@@ -19863,6 +19903,44 @@
     },
     {
       "album": {
+        "name": "Dios De Generaciones (Live)",
+        "url": "https://open.spotify.com/album/5IK3Ti27bfQM0LEnCPNQ7O"
+      },
+      "artists": [
+        {
+          "name": "Ammi Worship",
+          "url": "https://open.spotify.com/artist/5n1TEfMQLyrLCad5qFzVxg"
+        },
+        {
+          "name": "David Scarpeta",
+          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
+        },
+        {
+          "name": "Julian Delgado",
+          "url": "https://open.spotify.com/artist/5kC8gcdT9bWaTaVA58YUu9"
+        },
+        {
+          "name": "Ingrid Osorio",
+          "url": "https://open.spotify.com/artist/6lTyGux9gIPGFI06v1opCo"
+        },
+        {
+          "name": "Andr\u00e9s Hoyos",
+          "url": "https://open.spotify.com/artist/1YlQyklV36opA6Wgiy9oZ4"
+        },
+        {
+          "name": "Ammi Collective",
+          "url": "https://open.spotify.com/artist/2dOr4j0TWivU7iny1vKL8M"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249006,
+      "name": "Dios De Generaciones - Live",
+      "url": "https://open.spotify.com/track/6OXCiucXgCxK8iBWhD25iI"
+    },
+    {
+      "album": {
         "name": "Dios de Gloria (Live)",
         "url": "https://open.spotify.com/album/5idkvPZXLQYtvqPxq1sHHo"
       },
@@ -19882,6 +19960,28 @@
       "duration_ms": 331989,
       "name": "Dios de Gloria (Live)",
       "url": "https://open.spotify.com/track/42cLRZQbnFgAzjpMQCs3gR"
+    },
+    {
+      "album": {
+        "name": "Dios De Milagros (En Vivo Desde M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6Mags1nOOjDgrLzhba75MM"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366554,
+      "name": "Dios De Milagros - En Vivo Desde M\u00e9xico",
+      "url": "https://open.spotify.com/track/1v2lsV9SYQc0KbRkOLEJzk"
     },
     {
       "album": {
@@ -20418,7 +20518,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 208588,
       "name": "Dios Me Llama",
       "url": "https://open.spotify.com/track/0le8QzSmGJbA7WoIKE0AK0"
@@ -20440,6 +20540,24 @@
       "duration_ms": 249946,
       "name": "Dios no falla",
       "url": "https://open.spotify.com/track/3S5I3dUEg8VUZE7oO5WEhM"
+    },
+    {
+      "album": {
+        "name": "Dios no falla (Acustico)",
+        "url": "https://open.spotify.com/album/7kXXieoeMmcqWJfbc6pYVf"
+      },
+      "artists": [
+        {
+          "name": "Esteban Music",
+          "url": "https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169293,
+      "name": "Dios no falla - Acustico",
+      "url": "https://open.spotify.com/track/3MtSQsU2cESeDk3ZU5RMIZ"
     },
     {
       "album": {
@@ -30095,6 +30213,24 @@
     },
     {
       "album": {
+        "name": "fotos q duelen",
+        "url": "https://open.spotify.com/album/0A1cGcqCOvllaHMgl7GQVE"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146560,
+      "name": "fotos q duelen",
+      "url": "https://open.spotify.com/track/6SUpld3sGDM1YGDs6toroZ"
+    },
+    {
+      "album": {
         "name": "Frecuencia",
         "url": "https://open.spotify.com/album/33OHsD72AVXkQ2PjdcXkIw"
       },
@@ -34780,7 +34916,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 387000,
       "name": "Hebreos 9",
       "url": "https://open.spotify.com/track/6fv1nSqO13MLDD14IKoUjj"
@@ -35292,7 +35428,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 210815,
       "name": "Hijo Amado",
       "url": "https://open.spotify.com/track/3vjqng7cPHfDhB5lLxAQrX"
@@ -38336,6 +38472,28 @@
       "duration_ms": 222066,
       "name": "Jevov\u00e1, Se\u00f1or De Los Cielos",
       "url": "https://open.spotify.com/track/5dcHssbOxIWSo7QFOYr3WW"
+    },
+    {
+      "album": {
+        "name": "JIREH",
+        "url": "https://open.spotify.com/album/7Lw58tKNgakUJhkwc42Vq3"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Daniela Calveti",
+          "url": "https://open.spotify.com/artist/5pZVqNscC5Q47N9qHH3UUy"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 815790,
+      "name": "JIREH",
+      "url": "https://open.spotify.com/track/0dGqR5pwPkzn39Y2v3vdxy"
     },
     {
       "album": {
@@ -42122,7 +42280,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 222947,
       "name": "Lluvia de Gracia",
       "url": "https://open.spotify.com/track/6fgbhYV5F4ZUwYxCTrciEg"
@@ -53013,6 +53171,28 @@
     },
     {
       "album": {
+        "name": "No Hay Nadie Como T\u00fa (Grabado en Vivo)",
+        "url": "https://open.spotify.com/album/0L5r3tFhmTUOK4xSGzsb69"
+      },
+      "artists": [
+        {
+          "name": "Iglesia Rey De Reyes & Claudio Freidzon",
+          "url": "https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360503,
+      "name": "No Hay Nadie Como T\u00fa - Grabado en Vivo",
+      "url": "https://open.spotify.com/track/40ZappJvh6TSozwEcjhodT"
+    },
+    {
+      "album": {
         "name": "No Hay Nombre M\u00e1s Alto",
         "url": "https://open.spotify.com/album/609TW7fzrRrJwOHOfk4PZE"
       },
@@ -54483,6 +54663,24 @@
     },
     {
       "album": {
+        "name": "No Tengas Miedo (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0kNbWLA45GNDBBmrSRmeHM"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "No Tengas Miedo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7eq6q36ycXThzR2d5KES0V"
+    },
+    {
+      "album": {
         "name": "No Tengas Temor",
         "url": "https://open.spotify.com/album/7sFkTbKby4xYd1oaORHUU5"
       },
@@ -55630,7 +55828,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213913,
       "name": "Nunca Solo (Round 2)",
       "url": "https://open.spotify.com/track/124RIsPYniZlBT5RW3nUWC"
@@ -57436,7 +57634,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 190451,
       "name": "Para Bien",
       "url": "https://open.spotify.com/track/71CuOH9Sp2lXSgsvqabjML"
@@ -58704,7 +58902,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 180137,
       "name": "Perfume A Tus Pies - Remix",
       "url": "https://open.spotify.com/track/07BEDJmCz0BiaZcR7piNoU"
@@ -64319,6 +64517,28 @@
     },
     {
       "album": {
+        "name": "Rey De Gloria",
+        "url": "https://open.spotify.com/album/1HQxC9wHwxHTqOTtQoGIlc"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268416,
+      "name": "Rey De Gloria",
+      "url": "https://open.spotify.com/track/3NjPKX1NUbTgpJ89Fks4LF"
+    },
+    {
+      "album": {
         "name": "Rey de Gloria",
         "url": "https://open.spotify.com/album/0DMvovhhKmsUX4zPvuPK9L"
       },
@@ -66930,7 +67150,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 156000,
       "name": "Se Nos Dio",
       "url": "https://open.spotify.com/track/4yH2D6mZuwKTSCfFrv9lQW"
@@ -69708,7 +69928,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 176422,
       "name": "SOL - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0yUWNxEaoXo7h8zqqQBmVw"
@@ -72301,6 +72521,24 @@
     },
     {
       "album": {
+        "name": "S\u00ed, s\u00ed, pero t\u00fa no",
+        "url": "https://open.spotify.com/album/4YwEaCJKjQgjuHGpEXWeW8"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Deliser",
+          "url": "https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138378,
+      "name": "S\u00ed, s\u00ed, pero t\u00fa no",
+      "url": "https://open.spotify.com/track/5i0Y969PgGUQtTUntMcjg6"
+    },
+    {
+      "album": {
         "name": "S\u00edgueme",
         "url": "https://open.spotify.com/album/1G3q7qNdVG3V4zHPIBohbv"
       },
@@ -73014,6 +73252,28 @@
       "duration_ms": 387600,
       "name": "Te Alabar\u00e9 mi Buen Jes\u00fas - En Vivo",
       "url": "https://open.spotify.com/track/3rcYNFZlaglnTk7AyDJVh8"
+    },
+    {
+      "album": {
+        "name": "Te Amar\u00e9",
+        "url": "https://open.spotify.com/album/6sic9NkP6FlVSQCeGOb3vB"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Rony Padilla",
+          "url": "https://open.spotify.com/artist/1bzrNrmDKVJFm41AosAYDv"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/6nrAgrba3IuTVKii7OFHBm"
     },
     {
       "album": {

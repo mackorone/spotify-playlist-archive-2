@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,672 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,774 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [WHATCHA DOIN](https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHATCHA DOIN](https://open.spotify.com/album/5bUWg5P0OFvGtGT0ePJsEb) | 3:22 |
 | 50 | [BUGS LIFE](https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [BUGS LIFE](https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t) | 2:59 |
 
-Snapshot ID: `AAAAAPHeXTMw9WVLzpYf3WB4GCwddewi`
+Snapshot ID: `AAAAAOCi7Lit/HvHu+n5hKGRq1YxRr7N`

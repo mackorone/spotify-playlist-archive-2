@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,446 likes - 113 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,444 likes - 113 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 112 | [Little Baby](https://open.spotify.com/track/1o9KJTCD9peGTcpTuOZUgr) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Little Baby](https://open.spotify.com/album/0462xOskGKu151ffkZJhgk) | 2:40 |
 | 113 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 |
 
-Snapshot ID: `AAAAADCqutByhJJfhqHJGP5ew54dt/qb`
+Snapshot ID: `AAAAAHzZ1Qpn4aN6HDQMcH8pxH9mI/Hq`

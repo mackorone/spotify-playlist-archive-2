@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-315 songs - 18 hr 0 min
+317 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Thinkin Bout You](https://open.spotify.com/track/3wMVL7iZdvszycJRjf3B5u) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Frank Ocean](https://open.spotify.com/album/5avXjcLakcGZFsVSDfE4m3) | 3:09 | 2025-04-25 |  |
 | [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 | 2021-11-19 |  |
 | [Thinking Out Loud](https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [10](https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB) | 3:52 | 2023-01-09 | 2024-04-19 |
+| [This Hell \(Arr\. For String Quartet by Maya Magub\)](https://open.spotify.com/track/6Ilxx9LyaBMNNJ5jJM4VGx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Lauren Amber Aquilina](https://open.spotify.com/artist/5ISwGfKjX5JeJvn3JZ8F3F), [Maya Magub](https://open.spotify.com/artist/1oGX73DWQVzJ5BcNDd9hG2), [RmX Quartet](https://open.spotify.com/artist/1BmTCGXIPn3IYeqNy1ZbiI) | [This Hell \(Arr\. For String Quartet by Maya Magub\)](https://open.spotify.com/album/4OyxBW2ec9hcuRgE2jmWXK) | 3:58 | 2026-08-21 |  |
 | [this is me trying](https://open.spotify.com/track/7h1G8bUI9Os7rTI8HHKzN1) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [this is me trying](https://open.spotify.com/album/4cwNkvcj70OZcVECs51k1i) | 2:58 | 2024-10-18 |  |
 | [Titanium](https://open.spotify.com/track/0upg8RVqoy93lgnKweJIgL) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Electric Air](https://open.spotify.com/album/1NclbYhtOpfC89I4tGhme2) | 3:46 | 2021-11-19 | 2024-02-10 |
 | [Titanium \- David Guetta](https://open.spotify.com/track/4X54FzF8cMJVMdMTpg79zE) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Electric Air](https://open.spotify.com/album/6G1BNEaFS6wJ1dPB5qMY4h) | 3:46 | 2022-07-08 | 2023-11-03 |
@@ -313,6 +314,7 @@
 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 | 2021-11-19 | 2026-02-03 |
 | [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/track/7LGBfT64FWyA89weAT04gV) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/album/7qJhOyhu04GZiiO9wJJjW5) | 5:06 | 2024-07-12 |  |
 | [Wonderful \(Arr\. Piano\) \- From "Wicked"](https://open.spotify.com/track/5jpHIWxs6opHRy4QtEDTQW) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wonderful \(Arr\. Piano\) \[From "Wicked"\]](https://open.spotify.com/album/6ZA3tp9Lg7oNKiULQQED3O) | 1:52 | 2025-11-28 |  |
+| [Wonderwall](https://open.spotify.com/track/12lapyvy3TYVMYpnVjUI3S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Oasis: Decadence And Vanity](https://open.spotify.com/album/1VMVw7itSnrB5u7GULJMCZ) | 4:15 | 2026-08-21 |  |
 | [Wonderwall \- Symphony Orchestra Version](https://open.spotify.com/track/4Zp1YMyksiSOy90WzvCsiP) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Wonderwall \(Symphony Orchestra Version\)](https://open.spotify.com/album/0U75KBm7BpaxiI2GY3rFN0) | 3:29 | 2025-09-26 |  |
 | [Wrecking Ball \(Arr\. Stephan Moccio for Piano\)](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2021-11-19 |  |
 | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/track/3LP5CtYASoBvrr697nINRt) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/album/0C8D8jXhUgK827Bl3GG32m) | 4:31 | 2025-05-16 |  |

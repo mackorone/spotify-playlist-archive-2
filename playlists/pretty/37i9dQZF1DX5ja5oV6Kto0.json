@@ -1,12 +1,12 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro fusion music: Artsalghul ",
-  "num_followers": 113184,
+  "num_followers": 113296,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJSKHetTQkvTWGZnm3DWsJQZoEn",
+  "snapshot_id": "AAAAADWFjxQIfdWEpF045FFDy2UHYLC+",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:44",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "tyla",
-        "url": "https://open.spotify.com/album/7ypQZocQ0GRlxeGs8z1oJk"
-      },
-      "artists": [
-        {
-          "name": "Mayordre",
-          "url": "https://open.spotify.com/artist/0AIHXBRjcweqHDS595ZM4T"
-        },
-        {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "tyla",
-      "url": "https://open.spotify.com/track/13lk0e1B4qsyWzZFaeX16x"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
         "name": "2 l1t",
         "url": "https://open.spotify.com/album/4auxhB5qT1Wsp2CqYvV3E4"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 117410,
       "name": "ar1gato 2 you",
       "url": "https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
+        "name": "tyla",
+        "url": "https://open.spotify.com/album/7ypQZocQ0GRlxeGs8z1oJk"
+      },
+      "artists": [
+        {
+          "name": "Mayordre",
+          "url": "https://open.spotify.com/artist/0AIHXBRjcweqHDS595ZM4T"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "tyla",
+      "url": "https://open.spotify.com/track/13lk0e1B4qsyWzZFaeX16x"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
+        "name": "ghanamu$tgo",
+        "url": "https://open.spotify.com/album/0a085Ir8NI4ezgglf0Cs3L"
+      },
+      "artists": [
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 117410,
+      "name": "ghanamu$tgo",
+      "url": "https://open.spotify.com/track/0ZUHbz1wLbdOOnl0lVih23"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
         "name": "Stop It",
         "url": "https://open.spotify.com/album/2SsU7ZWMzTVM5y4Od5A0Xi"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "ghanamu$tgo",
-        "url": "https://open.spotify.com/album/0a085Ir8NI4ezgglf0Cs3L"
+        "name": "RICK OWENS & GIVENCHY",
+        "url": "https://open.spotify.com/album/59lMRhoxHV8cVChH9l735Z"
       },
       "artists": [
         {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
         }
       ],
-      "duration_ms": 117410,
-      "name": "ghanamu$tgo",
-      "url": "https://open.spotify.com/track/0ZUHbz1wLbdOOnl0lVih23"
+      "duration_ms": 134960,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/7BWjBUUdElPrt810wy2pKb"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -763,22 +779,6 @@
       "duration_ms": 112741,
       "name": "#toomuchswag",
       "url": "https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
-        "name": "RICK OWENS & GIVENCHY",
-        "url": "https://open.spotify.com/album/59lMRhoxHV8cVChH9l735Z"
-      },
-      "artists": [
-        {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
-        }
-      ],
-      "duration_ms": 134960,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/7BWjBUUdElPrt810wy2pKb"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "EGER",
-        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
+        "name": "Awilo",
+        "url": "https://open.spotify.com/album/6ULG4B8cSKQ4pLV2LYTEr0"
       },
       "artists": [
         {
-          "name": "Egertton",
-          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Obokhian",
-      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
+      "duration_ms": 147500,
+      "name": "Awilo",
+      "url": "https://open.spotify.com/track/0gQ2zMMal8jm7XyVtbtqEh"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -931,6 +931,22 @@
       "duration_ms": 199487,
       "name": "PRETTY WOMAN (WICKED)",
       "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
+        "name": "EGER",
+        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
+      },
+      "artists": [
+        {
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Obokhian",
+      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -995,18 +1011,18 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "Awilo",
-        "url": "https://open.spotify.com/album/6ULG4B8cSKQ4pLV2LYTEr0"
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
       },
       "artists": [
         {
-          "name": "Yartti",
-          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 147500,
-      "name": "Awilo",
-      "url": "https://open.spotify.com/track/0gQ2zMMal8jm7XyVtbtqEh"
+      "duration_ms": 165415,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "Greedy",
-        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 165415,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 235636,
       "name": "Heaven On Earth",
       "url": "https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
-      },
-      "artists": [
-        {
-          "name": "Amaeya",
-          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "BE",
-      "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -1095,22 +1079,34 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "No Crumbs",
-        "url": "https://open.spotify.com/album/2g6BzKvlN2Dze9LC9ccAyE"
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
       },
       "artists": [
         {
-          "name": "Skinny Skater",
-          "url": "https://open.spotify.com/artist/1GS3dN5V15qDZV5Qqi9Bm1"
-        },
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
         }
       ],
-      "duration_ms": 157555,
-      "name": "No Crumbs",
-      "url": "https://open.spotify.com/track/6hl0gUi8PKxQ7I8e6FiY9l"
+      "duration_ms": 154285,
+      "name": "BE",
+      "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
+        "name": "SANGO, IGI NLA",
+        "url": "https://open.spotify.com/album/3XKvhjUxVF4swGgFiFr2zA"
+      },
+      "artists": [
+        {
+          "name": "Teledalase",
+          "url": "https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "SANGO, IGI NLA",
+      "url": "https://open.spotify.com/track/0wpqpuIgFYhd5WCZEF61RE"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -1131,18 +1127,38 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "SANGO, IGI NLA",
-        "url": "https://open.spotify.com/album/3XKvhjUxVF4swGgFiFr2zA"
+        "name": "No Crumbs",
+        "url": "https://open.spotify.com/album/2g6BzKvlN2Dze9LC9ccAyE"
       },
       "artists": [
         {
-          "name": "Teledalase",
-          "url": "https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe"
+          "name": "Skinny Skater",
+          "url": "https://open.spotify.com/artist/1GS3dN5V15qDZV5Qqi9Bm1"
+        },
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 236500,
-      "name": "SANGO, IGI NLA",
-      "url": "https://open.spotify.com/track/0wpqpuIgFYhd5WCZEF61RE"
+      "duration_ms": 157555,
+      "name": "No Crumbs",
+      "url": "https://open.spotify.com/track/6hl0gUi8PKxQ7I8e6FiY9l"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
+        "name": "MR MONEY",
+        "url": "https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI"
+      },
+      "artists": [
+        {
+          "name": "T\u00d6ME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "duration_ms": 153931,
+      "name": "MR MONEY",
+      "url": "https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "MR MONEY",
-        "url": "https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI"
-      },
-      "artists": [
-        {
-          "name": "T\u00d6ME",
-          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
-        }
-      ],
-      "duration_ms": 153931,
-      "name": "MR MONEY",
-      "url": "https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
         "name": "Sunset Drive",
         "url": "https://open.spotify.com/album/03XuTpwc98BUxIAGRumQcE"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "SAY Yours",
-        "url": "https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv"
-      },
-      "artists": [
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "TNGHT",
-      "url": "https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
         "name": "OLORIN PACK",
         "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
+        "name": "SAY Yours",
+        "url": "https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "TNGHT",
+      "url": "https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
+        "name": "Popstar Party",
+        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Popstar Party",
+      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
         "name": "After",
         "url": "https://open.spotify.com/album/5TsaHCdkZC6xhapMnZgKh2"
       },
@@ -1343,6 +1359,22 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
+        "name": "LUCKY UU",
+        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+      },
+      "artists": [
+        {
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "The Midnight Wanderer",
+      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
         "name": "Diamond in a Process",
         "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
       },
@@ -1359,34 +1391,18 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "Popstar Party",
-        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
+        "name": "Don't Go Far",
+        "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
       },
       "artists": [
         {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
         }
       ],
-      "duration_ms": 188764,
-      "name": "Popstar Party",
-      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
-        "name": "LUCKY UU",
-        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
-      },
-      "artists": [
-        {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "The Midnight Wanderer",
-      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+      "duration_ms": 198260,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -1407,22 +1423,6 @@
       "duration_ms": 181714,
       "name": "Serial Kisser",
       "url": "https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
-        "name": "Don't Go Far",
-        "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
-      },
-      "artists": [
-        {
-          "name": "Falana",
-          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "Only Water (Feat. Lady Donli)",
-        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
       },
       "artists": [
         {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        },
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Only Water (Feat. Lady Donli)",
-      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

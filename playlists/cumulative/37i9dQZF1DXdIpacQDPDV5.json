@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Canada's best dance hits, featuring deadmau5",
+  "description": "Canada's best dance hits, featuring jigitz",
   "name": "mint Canada",
   "tracks": [
     {
@@ -9133,6 +9133,36 @@
     },
     {
       "album": {
+        "name": "Do For Love",
+        "url": "https://open.spotify.com/album/0wOR43qEKPvjAgY8Nk06hb"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193691,
+      "name": "Do For Love",
+      "url": "https://open.spotify.com/track/4IvvBFEmQxWgDcvi5Jn6r0"
+    },
+    {
+      "album": {
         "name": "Do It Better (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
       },
@@ -9636,7 +9666,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 192000,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
@@ -15309,6 +15339,24 @@
     },
     {
       "album": {
+        "name": "Greyscale",
+        "url": "https://open.spotify.com/album/2pL7bw5G3JkcR5ckIaidOC"
+      },
+      "artists": [
+        {
+          "name": "Paper Skies",
+          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172177,
+      "name": "HANDS GO HIGHER",
+      "url": "https://open.spotify.com/track/0I0N6qLlaOttw24Cdfe1mO"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/6EwceabziOOptW7N7tT626"
       },
@@ -16238,7 +16286,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 241904,
       "name": "Hero",
       "url": "https://open.spotify.com/track/6LeBZ4J5hIDUxbuY90BulN"
@@ -16376,6 +16424,32 @@
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
+    },
+    {
+      "album": {
+        "name": "High In Ibiza",
+        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "High In Ibiza",
+      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
     },
     {
       "album": {
@@ -25962,7 +26036,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 182109,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/0U62uEAcEBfWab5CyQLaEg"
@@ -26496,6 +26570,28 @@
       "duration_ms": 186046,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
+    },
+    {
+      "album": {
+        "name": "DRAMATICA",
+        "url": "https://open.spotify.com/album/5s7lBP5aR25szIK5o0yk2y"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "MY MY MY",
+      "url": "https://open.spotify.com/track/3GYv23rXigfEB2Sw6WbCPx"
     },
     {
       "album": {
@@ -27374,6 +27470,28 @@
       "duration_ms": 222840,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/64jx6PV3hXstEZ7hggGeKw"
+    },
+    {
+      "album": {
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/2VFS1Gyx1f9abu19Nf7kRd"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197241,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA"
     },
     {
       "album": {
@@ -29739,6 +29857,24 @@
     },
     {
       "album": {
+        "name": "This Feels Electric",
+        "url": "https://open.spotify.com/album/5wVMgbiP4k8becROzG6pxv"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Outside Is Nice",
+      "url": "https://open.spotify.com/track/5C8dvXZlhJy6HUW0pQMMVI"
+    },
+    {
+      "album": {
         "name": "Outside Of Love",
         "url": "https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3"
       },
@@ -30018,7 +30154,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 199072,
       "name": "Party Time (feat. Aatig)",
       "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
@@ -34282,7 +34418,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 212000,
       "name": "Science (feat. Stevie Appleton) - Radio Edit",
       "url": "https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny"
@@ -34474,6 +34610,28 @@
       "duration_ms": 163451,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0"
+    },
+    {
+      "album": {
+        "name": "50 ballerinas",
+        "url": "https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "seeing stars",
+      "url": "https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x"
     },
     {
       "album": {
@@ -35736,7 +35894,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 201296,
       "name": "Silver Lines (feat. Emily Warren)",
       "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
@@ -40958,7 +41116,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 258142,
       "name": "Time Is A Circle",
       "url": "https://open.spotify.com/track/6BM7Pp03CzVHSKk6NHlK3e"

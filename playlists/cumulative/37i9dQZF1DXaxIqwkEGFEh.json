@@ -3589,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "Back Ina Yams",
+        "url": "https://open.spotify.com/album/3Im4ZrfIpsHbKCjWF0WcuQ"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159091,
+      "name": "Back Ina Yams",
+      "url": "https://open.spotify.com/track/2kR8IcqxFHrAKwtoqeFqnP"
+    },
+    {
+      "album": {
         "name": "P.S.T.",
         "url": "https://open.spotify.com/album/6EpuvCHlBBkhmZgR59HWS1"
       },
@@ -4171,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Smaxk Season 3: Banks House",
+        "url": "https://open.spotify.com/album/3vZYcW43m917t5kEMY79bZ"
+      },
+      "artists": [
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125360,
+      "name": "BANKS HOUSE",
+      "url": "https://open.spotify.com/track/343vv9P4uUcG62UlpMOvUI"
+    },
+    {
+      "album": {
         "name": "Bar 4 Bar",
         "url": "https://open.spotify.com/album/3DBYhS3AIQJh8CwFAhopA8"
       },
@@ -4655,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123960,
+      "name": "BIG 5",
+      "url": "https://open.spotify.com/track/5S5gF7ujCupq2bmZMhAvmJ"
+    },
+    {
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD"
       },
@@ -5054,7 +5108,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 192400,
       "name": "Bigger Than the Program",
       "url": "https://open.spotify.com/track/4gcBKIBEiqCN8u7kqeS4JA"
@@ -9330,7 +9384,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 123870,
       "name": "D-Boy Knots",
       "url": "https://open.spotify.com/track/50PINq04j4Uk3kySkBO0QI"
@@ -9518,6 +9572,24 @@
       "duration_ms": 265305,
       "name": "dangerous",
       "url": "https://open.spotify.com/track/0fyP96TikhD9sM4eKqw5Yp"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/6uEhz14onmTeG75KcEslrz"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130060,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5u23lYCEC204fHSWPa4Dke"
     },
     {
       "album": {
@@ -12945,6 +13017,24 @@
     },
     {
       "album": {
+        "name": "Finna Drop (Tour)",
+        "url": "https://open.spotify.com/album/67eIunevBrIiFgPlZqrOpV"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189252,
+      "name": "Finna Drop (Tour)",
+      "url": "https://open.spotify.com/track/5qAwvMQsGQnBCicP2vcCRg"
+    },
+    {
+      "album": {
         "name": "Finsta (feat. Big Boogie)",
         "url": "https://open.spotify.com/album/6vefuCd9t3K2Vwj9fNj1fG"
       },
@@ -14244,7 +14334,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 138000,
       "name": "Fuck ICE",
       "url": "https://open.spotify.com/track/17gruJALXacfb0xDOXqZNK"
@@ -17800,7 +17890,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 146865,
       "name": "High Rank",
       "url": "https://open.spotify.com/track/2NK4T2AcaYmPrCqmRbzFmQ"
@@ -20618,6 +20708,24 @@
       "duration_ms": 130000,
       "name": "Intro",
       "url": "https://open.spotify.com/track/1PzcLrRXKewxlcnnmeo42F"
+    },
+    {
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/1SH4HVfGORmSVbQCrVWVwj"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188263,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1ulcnjDqL2iJKqEteiMmkt"
     },
     {
       "album": {
@@ -23975,6 +24083,24 @@
     },
     {
       "album": {
+        "name": "Lost It All",
+        "url": "https://open.spotify.com/album/0s80ZpM4YLvh1Mwrspg8yb"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87336,
+      "name": "Lost It All",
+      "url": "https://open.spotify.com/track/5lxJQfIXZpwtgWxFjeCGWy"
+    },
+    {
+      "album": {
         "name": "Codeine Cowboy",
         "url": "https://open.spotify.com/album/2qKLRkLcQeq5Pa79KJgsf8"
       },
@@ -26304,7 +26430,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 148531,
       "name": "Morning",
       "url": "https://open.spotify.com/track/1x0ykrMmeGQQsNctVG3RpX"
@@ -28226,6 +28352,24 @@
       "duration_ms": 170319,
       "name": "no ig (with Benji Blue Bills)",
       "url": "https://open.spotify.com/track/6XyyymEFt7ttoCZIW91hDs"
+    },
+    {
+      "album": {
+        "name": "No Jewelry",
+        "url": "https://open.spotify.com/album/0RGOEqf7QipQMAwwj8EH4R"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147795,
+      "name": "No Jewelry",
+      "url": "https://open.spotify.com/track/6RyEBPz0Xi0Zn6T66gBbSJ"
     },
     {
       "album": {
@@ -35497,6 +35641,24 @@
     },
     {
       "album": {
+        "name": "S-C-O-O-M",
+        "url": "https://open.spotify.com/album/6WGE1GpeVLfGmuLkEmGs1U"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "S-C-O-O-M",
+      "url": "https://open.spotify.com/track/7DjF8JYCVbVcYE7PuwogNM"
+    },
+    {
+      "album": {
         "name": "S.I.P",
         "url": "https://open.spotify.com/album/6r0EFFUcZl45ChVwCjr5jF"
       },
@@ -37108,7 +37270,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 187013,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/0lvsPMru2v8WzadA3t4Poi"
@@ -37842,7 +38004,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 125360,
       "name": "Smaxk Or Die (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/37PWu4Av27EVfKwx2UVJA1"
@@ -38365,6 +38527,24 @@
     },
     {
       "album": {
+        "name": "Speak On Fortune",
+        "url": "https://open.spotify.com/album/28SdaVcvNKIkHtu5AfQxmH"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Speak On Fortune",
+      "url": "https://open.spotify.com/track/7vAoG7GKT0EWHXppouTWWl"
+    },
+    {
+      "album": {
         "name": "Special (feat. OhGeesy)",
         "url": "https://open.spotify.com/album/3DW538fBEe0ld2Oj4SIgK1"
       },
@@ -38774,7 +38954,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 145720,
       "name": "SRT MUZIK",
       "url": "https://open.spotify.com/track/7kzsle7jaCKQh7am9nete7"
@@ -38884,6 +39064,24 @@
       "duration_ms": 211667,
       "name": "Standin On Top Of Shit",
       "url": "https://open.spotify.com/track/6tR2v1xWlI0YokTsmdqnfw"
+    },
+    {
+      "album": {
+        "name": "The Price Of Fame",
+        "url": "https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166133,
+      "name": "Standing on It",
+      "url": "https://open.spotify.com/track/764bnTCXLpQY73bNB5uZDL"
     },
     {
       "album": {
@@ -39628,7 +39826,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 181601,
       "name": "Stir",
       "url": "https://open.spotify.com/track/0f0OY656GeTJz81wgUcGfw"
@@ -42352,7 +42550,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 166987,
       "name": "Til The World End (feat. Lil Yee)",
       "url": "https://open.spotify.com/track/6W3neM9mrS7rrMRBGDiGw5"
@@ -47248,7 +47446,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 186988,
       "name": "WTF Goin (Feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5uFVodx5ppCFWjyQXkgCrD"

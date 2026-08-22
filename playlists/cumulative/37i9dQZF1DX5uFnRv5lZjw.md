@@ -4,7 +4,7 @@
 
 > doom scrolling is out, off\-grid is in.
 
-130 songs - 5 hr 30 min
+132 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bloom Later](https://open.spotify.com/track/0IoJYjMhJhOiwXqnkkBWoJ) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Bloom Later](https://open.spotify.com/album/4UugupuV93QB32rdUWZciN) | 3:00 | 2026-05-29 |  |
 | [Blue sea](https://open.spotify.com/track/6AMrAH1lwUxY538AjW3psv) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Blue sea](https://open.spotify.com/album/3GMcRS0oOuCxBhkHHrwO9w) | 2:44 | 2025-08-05 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/23xsPaiiJQ0StFj9NmTcHG) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Can't Be Replaced](https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi) | 2:23 | 2025-03-07 |  |
+| [Clair de Lune Variation \(After Suite Bergamasque CD 82/L.75: III\. Clair de Lune\)](https://open.spotify.com/track/3MB6PEhgViZUiTc6u9Esod) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Clair de Lune Variation \(After Suite Bergamasque CD 82/L.75: III\. Clair de Lune\)](https://open.spotify.com/album/6fXix6kDoCq46NqJvssuAF) | 1:45 | 2026-08-21 |  |
 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 | 2025-04-09 |  |
 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 | 2025-03-07 |  |
 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 | 2025-04-02 | 2026-05-30 |
@@ -110,6 +111,7 @@
 | [Strangely Familiar](https://open.spotify.com/track/2nsOZMaNxxtd79bJ7dbxLb) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Strangely Familiar](https://open.spotify.com/album/0690iOy21OddNlV3HRLEgD) | 3:22 | 2025-05-13 |  |
 | [stronghold](https://open.spotify.com/track/5jG7oYc2pE5KptTutOzQWQ) | [Elarune](https://open.spotify.com/artist/0AGFEF0rviLWBlKn1DBeUu) | [stronghold](https://open.spotify.com/album/64ddUi0c1mXgTZhKIzUT0Z) | 2:05 | 2025-09-17 |  |
 | [Stronghold](https://open.spotify.com/track/7u88VSbgr8shaE8AEQgxWr) | [Eldur Hæettu](https://open.spotify.com/artist/1lGzKi0vUzzzT5b2U4CMHC) | [Stronghold](https://open.spotify.com/album/0sgtGomrGyyVDpMka5CFAK) | 2:51 | 2025-03-07 |  |
+| [Sula bassana \- Excerpt II](https://open.spotify.com/track/4gLfPQ5wKTjH6wpx74Irdr) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [Sula bassana](https://open.spotify.com/album/1cvq1mlUEqgHkRQFpmx3AG) | 2:43 | 2026-08-21 |  |
 | [Sunflower](https://open.spotify.com/track/7gcHVrqiSXb2vhLKvze7Ub) | [Kuro Yama](https://open.spotify.com/artist/1cS2AwtXloMGmieZSnIJ9d) | [Sunflower](https://open.spotify.com/album/1WMJxArpMCKdWDKFie4azg) | 2:21 | 2025-03-07 |  |
 | [Sunny](https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Sunny](https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I) | 2:00 | 2025-04-02 |  |
 | [Tagliamento](https://open.spotify.com/track/6WjNhHHsG4i2n4dpk8ANrm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Tagliamento](https://open.spotify.com/album/3UvMj1JE5OP9VhMxwEbf5I) | 2:19 | 2025-05-13 |  |

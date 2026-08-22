@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: True Blue
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: GB
 
-316 songs - 18 hr 17 min
+321 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Ethereal Security Guard](https://open.spotify.com/track/07gwWQtFu0O7QWIQbHORmp) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Ethereal Security Guard](https://open.spotify.com/album/2DM184JFwecL8z2s8F2moi) | 6:36 | 2025-05-22 | 2026-02-07 |
 | [Even God Gets Stuck In Devotion](https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp) | [Dagmar Zuniga](https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q), [Austyn Wohlers](https://open.spotify.com/artist/6yL8bLQAdDDudryKDoxsHB) | [in filth your mystery is kingdom / far smile peasant in yellow music](https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO) | 3:36 | 2026-03-05 |  |
 | [Exit Vendor](https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:04 | 2025-09-19 |  |
+| [Falling](https://open.spotify.com/track/0fThTgVxDDxhVlKFFxWmJh) | [POiSON GiRL FRiEND](https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl) | [reprises](https://open.spotify.com/album/7e139dy9f2osNgjowaJogS) | 4:17 | 2026-08-21 |  |
 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 | 2025-06-19 |  |
 | [Fantasy \(feat\. Quiet Light\)](https://open.spotify.com/track/05CNzSWoeewEVtr7gdf0Gg) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Fantasy \(feat\. Quiet Light\)](https://open.spotify.com/album/5kEvOqYjONAOd9t8PqawHV) | 1:52 | 2025-10-10 | 2026-03-20 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 | 2025-11-08 |
@@ -180,6 +181,7 @@
 | [Love90](https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Going Nowhere](https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf) | 2:58 | 2025-03-13 | 2026-04-24 |
 | [lts here](https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:34 | 2026-05-15 |  |
 | [Là\-bas](https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Là\-bas](https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb) | 4:06 | 2025-08-18 | 2026-03-07 |
+| [Materia 2](https://open.spotify.com/track/2himf8TV8sUuWubzxheznr) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Materia 2](https://open.spotify.com/album/50FtBje95gQC5omlp0HL4I) | 4:48 | 2026-08-21 |  |
 | [Maybe..](https://open.spotify.com/track/4q6Dn8XcJUoSdp9dRUHS62) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [born to sing](https://open.spotify.com/album/7JGeqFHADaNviwVE5xqfAW) | 2:52 | 2025-03-13 | 2025-08-09 |
 | [Mindflower](https://open.spotify.com/track/57hqFySP2QJFuudulgBeZB) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy) | [Mindflower](https://open.spotify.com/album/1ksHR5EpvXQiCAyasSLpEK) | 4:14 | 2025-08-08 |  |
 | [Miracle](https://open.spotify.com/track/3ndJHdQHWFer3JbMZuUXQI) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Idol Melodies](https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT) | 2:55 | 2026-03-05 |  |
@@ -199,6 +201,7 @@
 | [Not Offended](https://open.spotify.com/track/4wDTwzp2JuuD4UKAP2jrD8) | [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Not Offended](https://open.spotify.com/album/68o9R9l54MZKYsV0xD5zR0) | 3:05 | 2025-06-19 | 2026-03-07 |
 | [not yet](https://open.spotify.com/track/1gU7Z66t6Urh6tnefEi9lr) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [nightmare intercom](https://open.spotify.com/album/2ten2ozCkcuMgpWNYWwOBC) | 3:21 | 2026-01-16 |  |
 | [Nothing's Really Over, Not With Anyone](https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Catharsis](https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm) | 2:22 | 2025-03-13 | 2025-09-13 |
+| [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 | 2026-08-21 |  |
 | [Numb](https://open.spotify.com/track/3R3gSrDHRnAu0ZMxXPaqd4) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Numb](https://open.spotify.com/album/4hUxwuyEjww2DH1RrdIqlK) | 2:53 | 2026-01-23 |  |
 | [nursed](https://open.spotify.com/track/0eHAj1orKqxcYybWXMB8ue) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [lure](https://open.spotify.com/album/4EM9lezjSIAyCMNd6v0oRg) | 3:00 | 2026-05-08 |  |
 | [Ocean Apart](https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 3:11 | 2025-06-26 |  |
@@ -209,6 +212,7 @@
 | [Oscillate](https://open.spotify.com/track/7MvbfqjUGQAjlLRGVxxBFs) | [Niko Demus](https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD), [Merely](https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7), [MFM](https://open.spotify.com/artist/5xvA0mjmeF1CxB12bjWR8l) | [Oscillate](https://open.spotify.com/album/4MBW1DczWB3jKb0pcdUosd) | 4:10 | 2026-02-06 |  |
 | [Our Relativity](https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Desert Window](https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy) | 5:27 | 2025-09-26 | 2026-05-01 |
 | [Perfectly Blue](https://open.spotify.com/track/2TmoPdRP4g4L6RFMNI7Q1w) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Perfectly Blue](https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2) | 3:23 | 2025-03-13 | 2025-05-16 |
+| [Pipe Dream](https://open.spotify.com/track/5C3OWPfMnUxeJUdnuz9u1a) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Herzsprung](https://open.spotify.com/album/0bOMbuBlJbKyajSoFMJxf1) | 3:01 | 2026-08-21 |  |
 | [Place Like Home](https://open.spotify.com/track/5mQqlb1fRJ2pt3NKocO2cQ) | [Alana Markel](https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY) | [I Love You](https://open.spotify.com/album/5iMuYMgn6229IR2g1221Vs) | 2:50 | 2026-04-23 |  |
 | [Play](https://open.spotify.com/track/4EbKAHT7I23BeXQFJ041Ls) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Play](https://open.spotify.com/album/6ftc3vTUK6umbu9YvAtXJo) | 4:34 | 2025-06-06 | 2025-09-06 |
 | [Player](https://open.spotify.com/track/2ijSauaN6TX94b8VRSdn1j) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 2:51 | 2025-03-13 | 2026-01-31 |
@@ -273,6 +277,7 @@
 | [Tell Me](https://open.spotify.com/track/5xrJQz0agpmgf0Y3ZQYtw5) | [SY3](https://open.spotify.com/artist/3knZSaPAzRgjzuwcvsGBHw) | [Tell Me](https://open.spotify.com/album/1f6iPT6ez7BxIQyiqVEmOn) | 4:12 | 2026-01-30 |  |
 | [The Age of Innocence](https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 2:06 | 2026-05-08 |  |
 | [The artist is absent \- 89 seconds rewrite](https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The artist is absent](https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk) | 2:35 | 2025-04-03 | 2026-04-24 |
+| [The Clown](https://open.spotify.com/track/3L6FAwlwKr6XcWZdlOY3XL) | [Albert Hertz](https://open.spotify.com/artist/6nTy38O80YuaVktNRoGPhK), [Soho Rezanejad](https://open.spotify.com/artist/5gEoe0kGMZJytho1bf9PfE) | [The Clown](https://open.spotify.com/album/6PNFpRiw8S8mSXSNBetYUz) | 2:56 | 2026-08-21 |  |
 | [The Coward Forgets His Nightmare](https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [The Coward Forgets His Nightmare](https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A) | 3:32 | 2025-10-03 |  |
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
 | [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 | 2025-04-24 | 2026-05-09 |

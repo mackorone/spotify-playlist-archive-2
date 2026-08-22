@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIaM67b4XUMM6kVC8ySOk/JypsOc",
+  "snapshot_id": "AAAAAJjwRH7Xn0hJXjdmvlzjxnR7hvAB",
   "tracks": [
     {
       "added_at": "2026-08-03 21:14:45",
@@ -671,30 +671,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "The House Is Burning [homies begged]",
-        "url": "https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "RIP Young (feat. Project Pat & Juicy J) - Remix",
-      "url": "https://open.spotify.com/track/6GUiCjtZGTvgUKKm1w9mwG"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "No Way Out",
         "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 325733,
       "name": "Young G's (feat. The Notorious B.I.G. & Jay-Z)",
       "url": "https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "The House Is Burning [homies begged]",
+        "url": "https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "RIP Young (feat. Project Pat & Juicy J) - Remix",
+      "url": "https://open.spotify.com/track/6GUiCjtZGTvgUKKm1w9mwG"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1687,46 +1687,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "COMMUNITY",
-        "url": "https://open.spotify.com/album/0XAZV2Q7q57anNWzQPARET"
-      },
-      "artists": [
-        {
-          "name": "NARCY",
-          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
-        },
-        {
-          "name": "Niko Is",
-          "url": "https://open.spotify.com/artist/7Ci28o541njEn2byuNfjfs"
-        },
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "Dave Chappelle",
-          "url": "https://open.spotify.com/artist/504DdVupqJJUEkzmHzJEfs"
-        },
-        {
-          "name": "Mo Amer",
-          "url": "https://open.spotify.com/artist/3vpLWyYdXNnZx3eJKrwxz7"
-        },
-        {
-          "name": "Donnell Rawlings",
-          "url": "https://open.spotify.com/artist/5nvjpU3Y7L6Hpe54QuvDjy"
-        },
-        {
-          "name": "Issa Ali",
-          "url": "https://open.spotify.com/artist/6VRdQzjxhLf81RwMrEba9W"
-        }
-      ],
-      "duration_ms": 319180,
-      "name": "COMMUNITY",
-      "url": "https://open.spotify.com/track/3IDL1MuZlqnTBsfljKA0Jd"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -1771,6 +1731,46 @@
       "duration_ms": 315102,
       "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
       "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "COMMUNITY",
+        "url": "https://open.spotify.com/album/0XAZV2Q7q57anNWzQPARET"
+      },
+      "artists": [
+        {
+          "name": "NARCY",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        },
+        {
+          "name": "Niko Is",
+          "url": "https://open.spotify.com/artist/7Ci28o541njEn2byuNfjfs"
+        },
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Dave Chappelle",
+          "url": "https://open.spotify.com/artist/504DdVupqJJUEkzmHzJEfs"
+        },
+        {
+          "name": "Mo Amer",
+          "url": "https://open.spotify.com/artist/3vpLWyYdXNnZx3eJKrwxz7"
+        },
+        {
+          "name": "Donnell Rawlings",
+          "url": "https://open.spotify.com/artist/5nvjpU3Y7L6Hpe54QuvDjy"
+        },
+        {
+          "name": "Issa Ali",
+          "url": "https://open.spotify.com/artist/6VRdQzjxhLf81RwMrEba9W"
+        }
+      ],
+      "duration_ms": 319180,
+      "name": "COMMUNITY",
+      "url": "https://open.spotify.com/track/3IDL1MuZlqnTBsfljKA0Jd"
     },
     {
       "added_at": "2026-08-03 21:14:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,934 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,933 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 23 | [Everytime I See My Baby \- Remastered](https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:41 |
 | 24 | [Didn't I Blow Your Mind This Time \- Re\-Recorded In Stereo](https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 3:24 |
 | 25 | [A Lover's Concerto](https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:14 |
-| 26 | [Love Won't Let Me Wait](https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best of The Delfonics](https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2) | 3:30 |
-| 27 | [I Don't Want To Make You Wait \- Digitally Remastered 1997](https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 3:16 |
+| 26 | [I Don't Want To Make You Wait \- Digitally Remastered 1997](https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 3:16 |
+| 27 | [Love Won't Let Me Wait](https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best of The Delfonics](https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2) | 3:30 |
 | 28 | [Baby I Miss You](https://open.spotify.com/track/1HkAiVdzgttlbrxvgFIlwh) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:21 |
 | 29 | [You've Been Untrue](https://open.spotify.com/track/4CbNwQ6eB1Zokn6c2JWLBB) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Cameo Parkway 1957\-1967](https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo) | 2:42 |
 | 30 | [Lying To Myself](https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:01 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 37 | [Round & Round](https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:11 |
 | 38 | [The Same Things That Make You Laugh](https://open.spotify.com/track/4M9NPX9foQIqwOE2waGE9C) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Rarities](https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G) | 4:29 |
 | 39 | [Face It Girl, It's Over \- Remastered](https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:56 |
-| 40 | [Strangers Again](https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Today All Platinium](https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U) | 3:39 |
-| 41 | [Silently](https://open.spotify.com/track/5C9qWjHTa94hQC1oy9gCu7) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 2:37 |
+| 40 | [Silently](https://open.spotify.com/track/5C9qWjHTa94hQC1oy9gCu7) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 2:37 |
+| 41 | [Strangers Again](https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Today All Platinium](https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U) | 3:39 |
 | 42 | [Don't Leave Me \- Mono](https://open.spotify.com/track/5cT3urMCKhWjDLuwbOlDCT) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [You'll Get Enough / Don't Leave Me](https://open.spotify.com/album/5MHFNla5ukhyIFeha527Db) | 2:58 |
 | 43 | [Let It Be Me \- Remastered](https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:20 |
-| 44 | [Can't Go On Living](https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 3:10 |
+| 44 | [Seventeen \(And In Love\)](https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:21 |
 | 45 | [Love’s Melody](https://open.spotify.com/track/3T4GjP2tnpfd5dMF59tuQ2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 2:38 |
 | 46 | [You'll Get Enough](https://open.spotify.com/track/1ymwGUQASmibQznKLokoha) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [You'll Get Enough / Don't Leave Me](https://open.spotify.com/album/5MHFNla5ukhyIFeha527Db) | 2:21 |
 | 47 | [Tell Him](https://open.spotify.com/track/5IzBPXm8czCS3AH49gurKo) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Rarities](https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G) | 4:48 |
-| 48 | [Seventeen \(And In Love\)](https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:21 |
+| 48 | [Can't Go On Living](https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 3:10 |
 | 49 | [Lost Without You](https://open.spotify.com/track/2CBq0T7YKG6kQXHDxve0Q1) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 3:02 |
 | 50 | [Can't Get Over Losing You](https://open.spotify.com/track/7ejLrBSdqORsHcMDCd26RO) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:30 |
 
-Snapshot ID: `aoTyAAAAAADQp5P5Ogap5zWqr/nAOBFA`
+Snapshot ID: `aoZDgAAAAAD47cLa1ckYALVrQlN3HvcN`

@@ -1,12 +1,12 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1858488,
+  "num_followers": 1858345,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMvA4nVgowhfPDFZL+qA73tG/ucB",
+  "snapshot_id": "AAAAAHknwJkVQiJeXd3a10xeCYQbmd4n",
   "tracks": [
     {
       "added_at": "2026-05-08 04:03:11",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 287893,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Si T\u00fa Me Besas",
-        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 260920,
-      "name": "Si T\u00fa Me Besas",
-      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Si T\u00fa Me Besas",
+        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 260920,
+      "name": "Si T\u00fa Me Besas",
+      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 374840,
       "name": "La Pantera Mambo",
       "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -883,6 +867,22 @@
       "duration_ms": 179890,
       "name": "Incomprendido",
       "url": "https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Soy La Candela",
-        "url": "https://open.spotify.com/album/7yx4SxwUnCKxIecRpCGkR5"
-      },
-      "artists": [
-        {
-          "name": "Edwin Bonilla",
-          "url": "https://open.spotify.com/artist/2bf5VxFC3tr25BxumNDQxM"
-        }
-      ],
-      "duration_ms": 341760,
-      "name": "Cuenta Bien",
-      "url": "https://open.spotify.com/track/5uAUdYqKxwofLV0p47ED5Y"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
         "name": "Cali Buenaventura",
         "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 198238,
       "name": "Cali Buenaventura",
       "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
+        "name": "Soy La Candela",
+        "url": "https://open.spotify.com/album/7yx4SxwUnCKxIecRpCGkR5"
+      },
+      "artists": [
+        {
+          "name": "Edwin Bonilla",
+          "url": "https://open.spotify.com/artist/2bf5VxFC3tr25BxumNDQxM"
+        }
+      ],
+      "duration_ms": 341760,
+      "name": "Cuenta Bien",
+      "url": "https://open.spotify.com/track/5uAUdYqKxwofLV0p47ED5Y"
     },
     {
       "added_at": "2026-05-08 04:03:11",

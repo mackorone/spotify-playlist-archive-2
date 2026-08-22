@@ -9253,6 +9253,28 @@
     },
     {
       "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/2LZ8w7CdbXOTkk0er6wIY8"
+      },
+      "artists": [
+        {
+          "name": "Croell",
+          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+        },
+        {
+          "name": "PITM",
+          "url": "https://open.spotify.com/artist/7hWYWkg5JHsiMGOoiDSKRl"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129230,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/3ImaPVVJm8phgbg0Z8rLEE"
+    },
+    {
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/22dzgMMw0XZX52GMzg7Xyw"
       },

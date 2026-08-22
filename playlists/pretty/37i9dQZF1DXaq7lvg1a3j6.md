@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 
 > Let these songs soundtrack your busy wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,059 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,100 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 | 49 | [The Punjaabban Song](https://open.spotify.com/track/4vjVTc6cqDwZJ40ILlEpEx) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:19 |
 | 50 | [Tooh](https://open.spotify.com/track/23Dpwemmuf6nYSzR9sUJ9M) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Mamta Sharma](https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4) | [Tooh](https://open.spotify.com/album/7ivSWCu9WuArhLWHOUDLbQ) | 4:20 |
 
-Snapshot ID: `AAAAAH8qwltBnzLcsXcpykzosah7IuDf`
+Snapshot ID: `AAAAAIUah4Y7D0ogl56CRgQ80JW+3AK9`

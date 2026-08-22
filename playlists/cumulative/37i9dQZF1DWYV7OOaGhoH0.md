@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Billy Strings
+> The best in folk & acoustic today featuring music from Ken Pomeroy
 
-878 songs - 2 day 6 hr 12 min
+880 songs - 2 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Hold My Hand](https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hold My Hand](https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4) | 5:01 | 2022-09-02 | 2023-01-06 |
 | [Hold On](https://open.spotify.com/track/4wYCasaUMf0fz0ZNgrehHr) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y), [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hold On](https://open.spotify.com/album/2aBkncK675ajfbL7AkRjiH) | 3:04 | 2023-08-11 | 2024-05-18 |
 | [Hold On Tight](https://open.spotify.com/track/0sRBcoVl0ATZXLXh8XgTav) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Hold On Tight](https://open.spotify.com/album/5inHddOP6qsCmPu2zGlqyu) | 3:13 | 2024-05-03 | 2024-08-10 |
-| [Hold On To The Light](https://open.spotify.com/track/0T4lcpAprQ7CXjNdYCZ3vp) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hold On To The Light](https://open.spotify.com/album/0znG5vLsfp5W8CSbPdoY4i) | 3:48 | 2025-11-14 |  |
+| [Hold On To The Light](https://open.spotify.com/track/0T4lcpAprQ7CXjNdYCZ3vp) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hold On To The Light](https://open.spotify.com/album/0znG5vLsfp5W8CSbPdoY4i) | 3:48 | 2025-11-14 | 2026-08-22 |
 | [Holdup](https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Holdup](https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk) | 2:35 | 2023-05-12 | 2024-03-09 |
 | [Holy Mountain](https://open.spotify.com/track/5styQSSHZtSg4BPfEqiqw7) | [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Donde Los Terremotos: Songs from and Inspired by the Film](https://open.spotify.com/album/0gcM0ST0KNf9v3ua0rnpkf) | 5:32 | 2022-06-17 | 2022-08-27 |
 | [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 | 2023-01-13 | 2023-07-01 |
@@ -466,6 +466,7 @@
 | [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 | 2024-12-06 | 2025-09-13 |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2022-07-29 | 2023-03-25 |
 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 | 2022-04-15 | 2022-06-25 |
+| [Los Andes](https://open.spotify.com/track/3HGlaKMMFsTEaat5TZ9vJF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Andes](https://open.spotify.com/album/0tXFnX1VTSiM89BsX7nvMZ) | 3:31 | 2026-08-21 |  |
 | [Los Angeles](https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Los Angeles / Grandmother](https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj) | 3:57 | 2025-09-19 | 2025-09-23 |
 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 | 2025-09-22 |  |
 | [Los Ojos Del Cóndor](https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Ojos Del Cóndor](https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ) | 3:32 | 2026-07-17 |  |
@@ -649,6 +650,7 @@
 | [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-24 | 2022-10-22 |
 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 | 2025-10-17 |  |
 | [Self Sabotage](https://open.spotify.com/track/1a9YC2FLdQSfqNU9ebIJIw) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Mantras](https://open.spotify.com/album/6gmHatBTdcFoIujxwHuZir) | 3:52 | 2024-04-05 | 2024-04-27 |
+| [Sentimental Lady](https://open.spotify.com/track/2ejbcu8msr3kkmX1HvDYaT) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Tonight's News](https://open.spotify.com/album/6RhTHR04fDUA0WeRdhsxSq) | 3:05 | 2026-08-21 |  |
 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-07-21 | 2024-03-30 |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 | 2023-11-11 |
 | [She'll Change](https://open.spotify.com/track/3d3mxvxLxdBtW5OYLV7faR) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [She'll Change](https://open.spotify.com/album/6wYpaSgmMDzyfQxNmcTIXf) | 2:41 | 2021-12-10 | 2022-01-29 |

@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 346981,
+  "num_followers": 347005,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHP/HEV7v1qPz73pwJ3p6UpRYqLk",
+  "snapshot_id": "AAAAAJgUeznXI4llIWtU4x/e427BQmS2",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Exit simulation",
-        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 104337,
-      "name": "Procedurally Generated Corridor",
-      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Street Smarts",
         "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 86400,
       "name": "Telefunken",
       "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Exit simulation",
+        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 104337,
+      "name": "Procedurally Generated Corridor",
+      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Polygon Paradise",
+        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave Club",
+          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
+        }
+      ],
+      "duration_ms": 140678,
+      "name": "Monogon",
+      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "You're no one",
         "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "You Got The Groove",
-        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
-      },
-      "artists": [
-        {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "You Got The Groove - slow + reverbed",
-      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Cry Again",
         "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Polygon Paradise",
-        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
+        "name": "You Got The Groove",
+        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
       },
       "artists": [
         {
-          "name": "Vaporwave Club",
-          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
         }
       ],
-      "duration_ms": 140678,
-      "name": "Monogon",
-      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
+      "duration_ms": 237333,
+      "name": "You Got The Groove - slow + reverbed",
+      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Fire Magic",
+        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
+      },
+      "artists": [
+        {
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Fire Magic",
+      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Iconic Bitch",
         "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fire Magic",
-        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
       "artists": [
         {
-          "name": "Virtual Mage",
-          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Fire Magic",
-      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1519,22 +1535,6 @@
       "duration_ms": 219428,
       "name": "Glass Mind",
       "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
-      },
-      "artists": [
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dxys Xff",
-        "url": "https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d"
-      },
-      "artists": [
-        {
-          "name": "Teams",
-          "url": "https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ"
-        }
-      ],
-      "duration_ms": 326373,
-      "name": "Stunts",
-      "url": "https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Fever Dream (slowed + reverb)",
         "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Dxys Xff",
+        "url": "https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d"
+      },
+      "artists": [
+        {
+          "name": "Teams",
+          "url": "https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ"
+        }
+      ],
+      "duration_ms": 326373,
+      "name": "Stunts",
+      "url": "https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
         "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 277570,
       "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
       "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Tropics 1",
+        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
+      },
+      "artists": [
+        {
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "Spring Water",
+      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1695,22 +1711,6 @@
       "duration_ms": 107604,
       "name": "Playback",
       "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Tropics 1",
-        "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
-      },
-      "artists": [
-        {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "Spring Water",
-      "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
     },
     {
       "added_at": "2023-07-18 02:19:19",

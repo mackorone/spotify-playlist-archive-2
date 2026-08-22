@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,666 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,706 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Hold On To Hope](https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Armand Hutton](https://open.spotify.com/artist/2tTTLk0nX4eKLe7H2o1nAA) | [Hip Hope For Kids!](https://open.spotify.com/album/6EV4fFV1l6P6s43QQSlBCo) | 1:19 |
 | 50 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 |
 
-Snapshot ID: `AAAAAI7sZkF+RMgr62N3HBwbsQEDDavN`
+Snapshot ID: `AAAAALWHLHobLH4/ZuFAjkPw06j9kkmf`

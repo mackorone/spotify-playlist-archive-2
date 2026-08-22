@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: fellow fellow",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SEA.,Saran",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 226000,
       "name": "all in",
       "url": "https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 232534,
       "name": "If You Don\u2019t Mean It (\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14 \u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e34\u0e14)",
       "url": "https://open.spotify.com/track/2d3fZAlYyt6xqPkL9U9h1f"
@@ -5304,7 +5304,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 220615,
       "name": "TORNADO",
       "url": "https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF"
@@ -5904,7 +5904,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 169411,
       "name": "Your Candy",
       "url": "https://open.spotify.com/track/4U1QLVuGWbfx4SM1YkdFi4"
@@ -6698,6 +6698,28 @@
       "duration_ms": 195639,
       "name": "\u0e04\u0e07\u0e14\u0e35\u0e16\u0e49\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e02\u0e32 (Desire)",
       "url": "https://open.spotify.com/track/3nvn1t6aZ4ocg4tqxxVtBn"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e02\u0e35\u0e49\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08 (My Fault)",
+        "url": "https://open.spotify.com/album/38wk9eBZQTsIF456u4iYdQ"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203382,
+      "name": "\u0e04\u0e19\u0e02\u0e35\u0e49\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08 (My Fault)",
+      "url": "https://open.spotify.com/track/4HrrcUbJrVsI5dkmDTNc1R"
     },
     {
       "album": {
@@ -11875,6 +11897,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e31\u0e19\u0e21\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e01\u0e47\u0e40\u0e08\u0e2d (one more time)",
+        "url": "https://open.spotify.com/album/3AuLOLw8hZibvQVq0ka1YU"
+      },
+      "artists": [
+        {
+          "name": "guncharlie",
+          "url": "https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211475,
+      "name": "\u0e2b\u0e31\u0e19\u0e21\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e01\u0e47\u0e40\u0e08\u0e2d (one more time)",
+      "url": "https://open.spotify.com/track/6Vn0fT4Z7Pm9rU3n3QMuoP"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e1f\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
         "url": "https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up"
       },
@@ -12284,6 +12324,28 @@
       "duration_ms": 204000,
       "name": "\u0e2d\u0e32\u0e08\u0e44\u0e21\u0e48\u0e16\u0e36\u0e07\u0e04\u0e23\u0e32\u0e27 (right ?)",
       "url": "https://open.spotify.com/track/66vg1i9irdGiIpVsjWj5Sl"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e32\u0e23\u0e21\u0e13\u0e4c\u0e2a\u0e35\u0e40\u0e17\u0e32",
+        "url": "https://open.spotify.com/album/7jQYQQHdNM8t72aFTVrcgs"
+      },
+      "artists": [
+        {
+          "name": "SEA.",
+          "url": "https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "\u0e2d\u0e32\u0e23\u0e21\u0e13\u0e4c\u0e2a\u0e35\u0e40\u0e17\u0e32",
+      "url": "https://open.spotify.com/track/3gxK6ehmktiz8QRElreh5S"
     },
     {
       "album": {
@@ -14335,6 +14397,28 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e14\u0e49\u0e42\u0e1b\u0e23\u0e14\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (Upside Down)",
+        "url": "https://open.spotify.com/album/3UomWRkUyNpaIbeBxE5wOL"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        },
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271578,
+      "name": "\u0e44\u0e14\u0e49\u0e42\u0e1b\u0e23\u0e14\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (Upside Down)",
+      "url": "https://open.spotify.com/track/2Lvp0KYwXrU1L9OHQNA5Be"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e1b\u0e15\u0e35\u0e49 (Roll With Me) [From 'GELTY (GELBOYS VARIETY)']",
         "url": "https://open.spotify.com/album/0bGQTSy0Sd6i22QUBmD2jP"
       },
@@ -14456,7 +14540,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 206341,
       "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
       "url": "https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY"
@@ -14576,6 +14660,24 @@
       "duration_ms": 280000,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e44\u0e2b\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (starlost.)",
       "url": "https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs"
     },
     {
       "album": {

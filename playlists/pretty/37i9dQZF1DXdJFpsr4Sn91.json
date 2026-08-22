@@ -1,12 +1,12 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59720,
+  "num_followers": 59718,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABKrIW+WJw0X7+gtTgUxMNfHGKXn",
+  "snapshot_id": "AAAAANgqYyUTW/X+PDzXCTHvhicQR1oe",
   "tracks": [
     {
       "added_at": "2026-08-20 21:00:38",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Sulhanen",
-        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
-      },
-      "artists": [
-        {
-          "name": "Aleksanteri Hakaniemi",
-          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Sulhanen",
-      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "Amarantti",
         "url": "https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 212096,
       "name": "Amarantti",
       "url": "https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Sulhanen",
+        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Sulhanen",
+      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Ymp\u00e4ri maailmaa",
-        "url": "https://open.spotify.com/album/3PPoGONHbrijon7eHSJkFR"
-      },
-      "artists": [
-        {
-          "name": "AB",
-          "url": "https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Ymp\u00e4ri maailmaa",
-      "url": "https://open.spotify.com/track/78k4zRWQ3gfREahzHXZCor"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "Olosuhteet",
         "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 188810,
       "name": "Olosuhteet",
       "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Ymp\u00e4ri maailmaa",
+        "url": "https://open.spotify.com/album/3PPoGONHbrijon7eHSJkFR"
+      },
+      "artists": [
+        {
+          "name": "AB",
+          "url": "https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Ymp\u00e4ri maailmaa",
+      "url": "https://open.spotify.com/track/78k4zRWQ3gfREahzHXZCor"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Camouflage",
-        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
-      },
-      "artists": [
-        {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Talking Heads",
-      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "Kev\u00e4tkiima",
         "url": "https://open.spotify.com/album/0IcYHhXS5oi0F6sJmgy0pT"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 153110,
       "name": "Kev\u00e4tkiima",
       "url": "https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Talking Heads",
+      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Lehmitytt\u00f6",
-        "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
-      },
-      "artists": [
-        {
-          "name": "Katariina Juselius",
-          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
-        }
-      ],
-      "duration_ms": 195564,
-      "name": "Lehmitytt\u00f6",
-      "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "Tee Mulle Mit\u00e4 Vaan",
         "url": "https://open.spotify.com/album/5J5jLCfdxzp2fqbDUzW3Dj"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 228852,
       "name": "Tee Mulle Mit\u00e4 Vaan",
       "url": "https://open.spotify.com/track/225v95FOaSABtxkvndBTzk"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Lehmitytt\u00f6",
+        "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
+      },
+      "artists": [
+        {
+          "name": "Katariina Juselius",
+          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
+        }
+      ],
+      "duration_ms": 195564,
+      "name": "Lehmitytt\u00f6",
+      "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Stiigerihai",
-        "url": "https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8"
-      },
-      "artists": [
-        {
-          "name": "STIG",
-          "url": "https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd"
-        }
-      ],
-      "duration_ms": 155573,
-      "name": "Stiigerihai",
-      "url": "https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "110%",
         "url": "https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 181985,
       "name": "110%",
       "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Stiigerihai",
+        "url": "https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8"
+      },
+      "artists": [
+        {
+          "name": "STIG",
+          "url": "https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd"
+        }
+      ],
+      "duration_ms": 155573,
+      "name": "Stiigerihai",
+      "url": "https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC"
     },
     {
       "added_at": "2026-08-20 21:00:38",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,560 songs - 5 day 12 hr 14 min
+2,561 songs - 5 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Actually Romantic](https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:43 | 2025-10-04 | 2025-10-19 |
 | [Actually Romantic](https://open.spotify.com/track/6ZSxG2QvGmwXbTfn7iDq7a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 2:43 | 2025-10-08 | 2025-10-12 |
 | [ADHD](https://open.spotify.com/track/3KeL0bKLO1mlkQsTJ6H1oj) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [LILLA](https://open.spotify.com/album/3NxQsReEqYKsD1vanJhFGA) | 2:56 | 2026-08-15 | 2026-08-17 |
-| [Adrenalin](https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:58 | 2026-05-09 |  |
+| [Adrenalin](https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:58 | 2026-05-09 | 2026-08-22 |
 | [Advokat](https://open.spotify.com/track/5XfdafM0Av4FbRGucp3Dhl) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 2:45 | 2021-05-30 | 2021-06-13 |
 | [Aerosol](https://open.spotify.com/track/0FXz5HSVciam4DyXqbZJ4e) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 3:48 | 2023-05-13 | 2023-05-27 |
 | [AFIA](https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFIA](https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1) | 2:28 | 2024-09-28 | 2024-10-03 |
@@ -1306,6 +1306,7 @@
 | [Kastrup Freestyle](https://open.spotify.com/track/7wq3KkTArpwCzCXv72myB0) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kastrup Freestyle](https://open.spotify.com/album/72cSZLP1lfkwwuyTmFDfmU) | 2:35 | 2026-05-11 | 2026-05-16 |
 | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/track/2jBvbnYDmG01ocNv1AZhHM) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/album/7FG45mLhsw5ejuaCg6Folx) | 2:10 | 2025-06-28 | 2025-07-04 |
 | [Kawasaki \(feat\. Sivas\)](https://open.spotify.com/track/220dE38G3g9iQ0i2Bmdxfl) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Kawasaki \(feat\. Sivas\)](https://open.spotify.com/album/7vGLTc5YIhuAInYNuInHzg) | 2:08 | 2021-06-06 | 2021-06-13 |
+| [KBH](https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [KBH](https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB) | 2:55 | 2026-08-21 |  |
 | [Keem \(feat\. Benny Jamz\)](https://open.spotify.com/track/5mFQvwwjVjy1cO0HxxbsoR) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [24](https://open.spotify.com/album/4Z47LEsa5VjVEVB34qlHc8) | 3:15 | 2025-05-31 | 2025-06-15 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-30 |
 | [Keep My Spirit Alive](https://open.spotify.com/track/4IlOyxGATYUp7YVy5zrSW8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:41 | 2021-08-31 | 2021-09-04 |

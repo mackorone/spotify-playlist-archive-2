@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73215,
+  "num_followers": 73214,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEfI6DIb/o26gK9Dueo0FIekH2r+",
+  "snapshot_id": "AAAAAL0qiFwOk+4eNE17eVJr3ruC2bFc",
   "tracks": [
     {
       "added_at": "2026-08-07 14:24:16",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Apaixonado",
-        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
-      },
-      "artists": [
-        {
-          "name": "Thiago Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
-        }
-      ],
-      "duration_ms": 279412,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 151578,
       "name": "Sexto Sentido",
       "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
+      },
+      "artists": [
+        {
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
+        }
+      ],
+      "duration_ms": 279412,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
         "name": "V\u00edcios q eu gosto",
         "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 152571,
       "name": "V\u00edcios q eu gosto",
       "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2026-08-07 14:24:16",

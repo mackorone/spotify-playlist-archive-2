@@ -2719,6 +2719,36 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/2Ivj87ZpYPeIt57s4kgrsZ"
+      },
+      "artists": [
+        {
+          "name": "Zulu Queens",
+          "url": "https://open.spotify.com/artist/5csAaiFcC1qKkVPgUJfXID"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261076,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/36eEND5G3RbI4XD7Xupnmv"
+    },
+    {
+      "album": {
         "name": "Dithapelo",
         "url": "https://open.spotify.com/album/0tIHP5qsfQrfxI5Z5kunWz"
       },

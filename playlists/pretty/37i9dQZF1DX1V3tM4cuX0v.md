@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 > 50 найгарячіших пісень в Україні\. Обкладинка: DOROFEEVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,582 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,589 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 2 | [Маргарита](https://open.spotify.com/track/4TlI6xqjE9pogjuJ2JlbZX) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Маргарита](https://open.spotify.com/album/2hgkQQkTFgZLOiv9KrV2Zr) | 3:31 |
 | 3 | [Кольє](https://open.spotify.com/track/2i7Nqa6jMW2qXA8w2iJs9s) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Кольє](https://open.spotify.com/album/75fYZKItTQwTzALEIuHOjk) | 3:21 |
 | 4 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
-| 5 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
+| 5 | [Dracula \(with JENNIE\)](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(with JENNIE\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 6 | [КРИЛА ЛЕЛЕКИ](https://open.spotify.com/track/5KoAIiBQdZJYhbtxwQ1Nvb) | [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [КРИЛА ЛЕЛЕКИ](https://open.spotify.com/album/71teZep0gqgDwEVSKqesvf) | 3:18 |
 | 7 | [Не складається](https://open.spotify.com/track/2Vv2butM4lUAJFcQJusFof) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Не складається](https://open.spotify.com/album/1e043cqReHkbrPd6VRLNTN) | 3:31 |
 | 8 | [На нашій вулиці](https://open.spotify.com/track/2p24QXCT3LdHAmHYWI09p2) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [На нашій вулиці](https://open.spotify.com/album/01MIRzy0nQbc9VwZ1dl8zW) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 50 | [Зірочка палай](https://open.spotify.com/track/4J7GqAqdOfYrcOKJIp4m8U) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Зірочка палай](https://open.spotify.com/album/0Q3gO9yOWmX5yrGf1DrVHe) | 2:08 |
 
-Snapshot ID: `AAAAAOQv3wP3ukNJoq6GnbcvM1t302jV`
+Snapshot ID: `AAAAAC1URSIKu8cuTJI07We9lc9DaZv6`

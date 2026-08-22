@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,056 likes - 120 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,143 likes - 120 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 119 | [Got It](https://open.spotify.com/track/2WEFQ6Kzv5xYESusk6ep6U) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Got It](https://open.spotify.com/album/5TgsDWAcxaDr8cMBJGdtFE) | 2:47 |
 | 120 | [Purity](https://open.spotify.com/track/7aJuvgHmhNay1VK8HjAV7a) | [Half Tone](https://open.spotify.com/artist/2AQalBCbiCK7zUReGcIzA8) | [Purity](https://open.spotify.com/album/4QqtXAD5kZTTtWMTrw2Rlx) | 2:29 |
 
-Snapshot ID: `AAAAANf106kLKg8MsN12CA9demZduQ+X`
+Snapshot ID: `AAAAACJSL/G/1iZ1tIV2veZXTTVTyLs7`

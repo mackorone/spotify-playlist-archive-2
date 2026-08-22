@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 828757,
+  "num_followers": 828740,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL5Q28NS4WhjKU/A3f9EVelV7Gcf",
+  "snapshot_id": "AAAAAGvdB98AR7erz9XjRA2+UrpNjeo3",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:32",
@@ -1339,6 +1339,30 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "Remonta",
+        "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "Sem Nome, Mas Com Endere\u00e7o",
+      "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "Ef\u00eamera",
         "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
       },
@@ -1375,22 +1399,6 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
         "name": "Me Chama de Gato Que Eu Sou Sua",
         "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
       },
@@ -1423,6 +1431,22 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "Alian\u00e7a",
         "url": "https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM"
       },
@@ -1435,50 +1459,6 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "Remonta",
-        "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
-      },
-      "artists": [
-        {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Caramelows",
-          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "Sem Nome, Mas Com Endere\u00e7o",
-      "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -1499,6 +1479,22 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 231616,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "Medo Bobo",
         "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
       },
@@ -1515,18 +1511,22 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 231616,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
     },
     {
       "added_at": "2026-08-07 03:00:32",

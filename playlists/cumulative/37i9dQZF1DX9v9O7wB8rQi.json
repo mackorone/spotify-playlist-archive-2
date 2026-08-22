@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "po-ai feat. Mirai Moriyama",
+        "url": "https://open.spotify.com/album/0NLOU5Ig2OGAxxJwRqCPb4"
+      },
+      "artists": [
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        },
+        {
+          "name": "Mirai Moriyama",
+          "url": "https://open.spotify.com/artist/510z2RL7VI7kusI6amRaPq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218030,
+      "name": "po-ai feat. Mirai Moriyama",
+      "url": "https://open.spotify.com/track/3QaKwZt5c1EK0DaUqkr7N3"
+    },
+    {
+      "album": {
         "name": "\u653b\u6bbb\u6a5f\u52d5\u968a S.A.C. Solid State Society\u3000O.S.T.",
         "url": "https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH"
       },

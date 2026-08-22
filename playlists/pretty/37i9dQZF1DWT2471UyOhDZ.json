@@ -1,12 +1,12 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Westside Cowboy ",
-  "num_followers": 93574,
+  "num_followers": 93565,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANTQq02s10hgAluiqPkgtWkDIRGu",
+  "snapshot_id": "AAAAAJ9uewsp++9KpBAL2+An4noL6OSU",
   "tracks": [
     {
       "added_at": "2026-08-20 23:00:35",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Violins",
-      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "Puppet - Taken From Peaky Blinders: The Immortal Man (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD"
       },
@@ -559,18 +543,34 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Nosedive",
-        "url": "https://open.spotify.com/album/6qY5K6aLJkQFfd6mwTnTka"
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
       },
       "artists": [
         {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 339424,
-      "name": "Nosedive",
-      "url": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "Massive Champion",
+        "url": "https://open.spotify.com/album/0mL98BOnYAVFSCYV9x5ZXK"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "Lentils",
+      "url": "https://open.spotify.com/track/6lrXjOMYPjbyKozRybtQxo"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "Nosedive",
+        "url": "https://open.spotify.com/album/6qY5K6aLJkQFfd6mwTnTka"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 339424,
+      "name": "Nosedive",
+      "url": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
@@ -607,6 +623,22 @@
       "duration_ms": 227070,
       "name": "Words",
       "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 170473,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -631,38 +663,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Massive Champion",
-        "url": "https://open.spotify.com/album/0mL98BOnYAVFSCYV9x5ZXK"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "Lentils",
-      "url": "https://open.spotify.com/track/6lrXjOMYPjbyKozRybtQxo"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 170473,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "The Banjo Song",
         "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+        "name": "Heaven Knows You're Lonely",
+        "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
       },
       "artists": [
         {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
         }
       ],
-      "duration_ms": 173493,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
+      "duration_ms": 181773,
+      "name": "Heaven Knows You're Lonely",
+      "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Heaven Knows You're Lonely",
-        "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
       },
       "artists": [
         {
-          "name": "Dylan John Thomas",
-          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Heaven Knows You're Lonely",
-      "url": "https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e"
+      "duration_ms": 173493,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -755,6 +755,22 @@
       "duration_ms": 173987,
       "name": "Canyons",
       "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "haven\u2019t found love.",
+        "url": "https://open.spotify.com/album/5adelMOkx04sITILgdP5tw"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 176324,
+      "name": "haven\u2019t found love.",
+      "url": "https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -779,18 +795,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "haven\u2019t found love.",
-        "url": "https://open.spotify.com/album/5adelMOkx04sITILgdP5tw"
+        "name": "Things Take Time",
+        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
       },
       "artists": [
         {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
         }
       ],
-      "duration_ms": 176324,
-      "name": "haven\u2019t found love.",
-      "url": "https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske"
+      "duration_ms": 194000,
+      "name": "Things Take Time",
+      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -811,22 +827,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "Something Else to Give",
         "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
       },
@@ -843,18 +843,34 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Tunnels",
-        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
       },
       "artists": [
         {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 168265,
-      "name": "Tunnels",
-      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "3310",
+        "url": "https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 182286,
+      "name": "3310",
+      "url": "https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -875,6 +891,22 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 168265,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji"
       },
@@ -891,6 +923,22 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "Nothing Happens Twice",
+        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 222395,
+      "name": "Nothing Happens Twice",
+      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "New Beginnings",
         "url": "https://open.spotify.com/album/1nxl2vB89z0kQIWvh7LZWA"
       },
@@ -903,22 +951,6 @@
       "duration_ms": 207166,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/26KwVbIh7uWnHBfEVfVar8"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "Things Take Time",
-        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Things Take Time",
-      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -951,22 +983,6 @@
       "duration_ms": 212760,
       "name": "Cap In Hand",
       "url": "https://open.spotify.com/track/7FZQ2rD9dTDt8GY3zJostK"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "Nothing Happens Twice",
-        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 222395,
-      "name": "Nothing Happens Twice",
-      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Get Up and Dance",
-        "url": "https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
       },
       "artists": [
         {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 261243,
-      "name": "Get Up and Dance",
-      "url": "https://open.spotify.com/track/4hGBY8lwQbg6UojWNmeJC1"
+      "duration_ms": 210301,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
+        "name": "Get Up and Dance",
+        "url": "https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
         }
       ],
-      "duration_ms": 210301,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
+      "duration_ms": 261243,
+      "name": "Get Up and Dance",
+      "url": "https://open.spotify.com/track/4hGBY8lwQbg6UojWNmeJC1"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1159,22 +1175,6 @@
       "duration_ms": 236223,
       "name": "Illinois Again",
       "url": "https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "3310",
-        "url": "https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 182286,
-      "name": "3310",
-      "url": "https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "Disappearing Act",
+        "url": "https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 179328,
+      "name": "Disappearing Act",
+      "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "Cameos",
         "url": "https://open.spotify.com/album/1Uts53saLs17xjrNjZ1STw"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "The Ground Above",
-        "url": "https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS"
+        "name": "Sleeping",
+        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
       },
       "artists": [
         {
-          "name": "Beth Orton",
-          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 401920,
-      "name": "Cigarette Curls",
-      "url": "https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0"
+      "duration_ms": 212391,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1371,6 +1387,22 @@
       "duration_ms": 382508,
       "name": "Just Can't Wait",
       "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "The Ground Above",
+        "url": "https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS"
+      },
+      "artists": [
+        {
+          "name": "Beth Orton",
+          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+        }
+      ],
+      "duration_ms": 401920,
+      "name": "Cigarette Curls",
+      "url": "https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1395,22 +1427,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "i'm not joking",
-        "url": "https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 234605,
-      "name": "i'm not joking",
-      "url": "https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "To The Sandals",
         "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Sleeping",
-        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
+        "name": "i'm not joking",
+        "url": "https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 212391,
-      "name": "Sleeping",
-      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
+      "duration_ms": 234605,
+      "name": "i'm not joking",
+      "url": "https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "For Love of Grace & the Hereafter",
-        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 223925,
-      "name": "mother-of-pearl",
-      "url": "https://open.spotify.com/track/2wLvZ92HRFS410a00f96Hk"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 212373,
       "name": "Tina",
       "url": "https://open.spotify.com/track/7uFif00qArtq2USCkQEGac"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "For Love of Grace & the Hereafter",
+        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 223925,
+      "name": "mother-of-pearl",
+      "url": "https://open.spotify.com/track/2wLvZ92HRFS410a00f96Hk"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1631,34 +1647,6 @@
       "duration_ms": 143592,
       "name": "Portal",
       "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "Flags",
-        "url": "https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH"
-      },
-      "artists": [
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
-        },
-        {
-          "name": "Grian Chatten",
-          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
-        },
-        {
-          "name": "Kae Tempest",
-          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
-        }
-      ],
-      "duration_ms": 306537,
-      "name": "Flags",
-      "url": "https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO"
     }
   ],
   "unique_name": "The Listening Post",

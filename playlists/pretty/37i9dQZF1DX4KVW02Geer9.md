@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Daichi Yamamoto
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 下中洋介
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,199 likes - 147 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,209 likes - 147 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [1999 \(feat\. Misaki Umei\) \- Spotify BLUE? It's Okay Ver.](https://open.spotify.com/track/7woM66J2gfgVSxdEyeCFZ0) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO) | [1999 \(feat\. Misaki Umei\) \[Spotify BLUE? It's Okay Ver.\]](https://open.spotify.com/album/0tps3YAwOCWUwGcSATzeue) | 3:45 |
-| 2 | [Rainy Harbor](https://open.spotify.com/track/4PFc9pO2CZz8oKDxk8v40c) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [SHIMONAKA](https://open.spotify.com/album/5pcwfegc4RVnoWDV5T8MUa) | 2:50 |
+| 1 | [Rainy Harbor](https://open.spotify.com/track/4PFc9pO2CZz8oKDxk8v40c) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [SHIMONAKA](https://open.spotify.com/album/5pcwfegc4RVnoWDV5T8MUa) | 2:50 |
+| 2 | [1999 \(feat\. Misaki Umei\) \- Spotify BLUE? It's Okay Ver.](https://open.spotify.com/track/7woM66J2gfgVSxdEyeCFZ0) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO) | [1999 \(feat\. Misaki Umei\) \[Spotify BLUE? It's Okay Ver.\]](https://open.spotify.com/album/0tps3YAwOCWUwGcSATzeue) | 3:45 |
 | 3 | [Erica](https://open.spotify.com/track/2Z9pLISmDkBYca5vV3ZGQe) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Erica](https://open.spotify.com/album/2za32h1tOcCNzlTqpMiUXB) | 5:08 |
 | 4 | [kopfkino](https://open.spotify.com/track/20ZQW7lVjcw1XP7LWtJLeB) | [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47) | [kopfkino](https://open.spotify.com/album/5E2B6rVoK14lDOjYsXQHSN) | 3:03 |
 | 5 | [Promise](https://open.spotify.com/track/7xia6ZCAVUJv33LvFpcLig) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Promise](https://open.spotify.com/album/3EoYDo2Kxva9WXrk4iRN5O) | 2:40 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 146 | [HOURS:AFTER](https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [HOURS:AFTER](https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI) | 3:50 |
 | 147 | [Within Me](https://open.spotify.com/track/7H0KBslgob52P0haWSUoFL) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Within Me](https://open.spotify.com/album/4Q6bfiZbfA7fnuURrTZbKd) | 3:09 |
 
-Snapshot ID: `AAAAAK0vIw7Fa3RxszjT5vyMq6XlUbpm`
+Snapshot ID: `AAAAAE/qfEBgdr9/E+PbBcv+vMzPm5XQ`

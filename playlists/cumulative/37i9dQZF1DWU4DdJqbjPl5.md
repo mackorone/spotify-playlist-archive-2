@@ -4,7 +4,7 @@
 
 > Intersection of R&B and afrobeats\. Cover: Ayra Starr
 
-626 songs - 1 day 8 hr 40 min
+626 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2023-12-08 | 2024-12-07 |
 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 | 2026-02-20 |  |
 | [Money](https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Money](https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj) | 3:26 | 2025-02-19 | 2025-09-19 |
+| [More Room](https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Some Strings Attached](https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs) | 3:00 | 2026-08-21 |  |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2023-07-28 |
 | [MOVE \- JEJELY](https://open.spotify.com/track/4kY4RxO6ipwXgzlhT51GPz) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [MOVE \(JEJELY\)](https://open.spotify.com/album/08dIQqGU3AI0CRBJ2D2rTd) | 2:35 | 2025-12-12 | 2026-02-20 |
 | [Muah \(Soulmates\)](https://open.spotify.com/track/6hrH0mb1qQsd4VRxssKa6p) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:15 | 2025-03-28 | 2026-04-17 |
@@ -564,7 +565,6 @@
 | [Touché coulé \(feat\. Louzio, Tazeboy & Team Paiya\)](https://open.spotify.com/track/6LX6p2kiEzDHBcIJFHQt15) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk) | [CYCLE](https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB) | 3:42 | 2026-03-13 | 2026-03-20 |
 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 | 2022-03-11 | 2022-11-15 |
 | [Toxic Arms](https://open.spotify.com/track/4I2IFTF3PzcpnP3q6J2GHS) | [Itha](https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Let's Draw](https://open.spotify.com/album/3CdHQ0q84k7otucAHiUAPa) | 4:47 | 2026-03-06 | 2026-03-20 |
-| [Track 10](https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Some Strings Attached](https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs) | 0:00 | 2026-08-21 |  |
 | [treat u right](https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [treat u right](https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE) | 2:57 | 2026-07-03 |  |
 | [True Love](https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [True Love](https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5) | 2:50 | 2023-11-07 | 2024-10-26 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 | 2024-03-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Eves Laurent, Jack, Langa en Siggy & D1ns\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,192 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,165 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 15 | [Voor Het Eerst](https://open.spotify.com/track/27xG981cofM82r8BEdmxgf) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Voor Het Eerst](https://open.spotify.com/album/6qG6LyFEHQ20nA75IxTft9) | 3:11 |
 | 16 | [Stupid \(Move It\)](https://open.spotify.com/track/6kfsiJ3wSS97qM0oQxey2n) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Stupid \(Move It\)](https://open.spotify.com/album/6mw5Lz20a0Nrn0j18rc4pk) | 2:03 |
 | 17 | [Wayne Rooney](https://open.spotify.com/track/1uJdbQ7DSdrL7qsqTn6M3y) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wayne Rooney](https://open.spotify.com/album/3ez4U5BxI9wj7ulAFpw5GQ) | 2:11 |
-| 18 | [Track 2](https://open.spotify.com/track/7Lx9vBCgugFoceLB5vaIF3) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Praat van de Straat II](https://open.spotify.com/album/4MbPtKOIFIrsqED4DDBbYA) | 0:00 |
+| 18 | [Dieper Dan Rap](https://open.spotify.com/track/7Lx9vBCgugFoceLB5vaIF3) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd), [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG) | [Praat van de Straat II](https://open.spotify.com/album/4MbPtKOIFIrsqED4DDBbYA) | 4:45 |
 | 19 | [SOORT](https://open.spotify.com/track/0zVpWODG7CH9skI22fR146) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [SOORT](https://open.spotify.com/album/7yd9QC2t3BXH241IczbsKB) | 2:35 |
 | 20 | [GEILA FREESTYLE](https://open.spotify.com/track/3iXcxNl2DlKytXwXSvWNQB) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [DJ ROFFA \(LIVE @ FLEX FM\)](https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh) | 1:24 |
-| 21 | [GINZJ](https://open.spotify.com/track/3S9i54xADvbm7YJlHUbOPv) | [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [RpBeats](https://open.spotify.com/artist/0QFgzVSc2hOUMogdnRp9VJ) | [GINJZ](https://open.spotify.com/album/7bzpxq07dnFERpfI0B6TEC) | 3:08 |
+| 21 | [GINJZ](https://open.spotify.com/track/3S9i54xADvbm7YJlHUbOPv) | [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [RpBeats](https://open.spotify.com/artist/0QFgzVSc2hOUMogdnRp9VJ) | [GINJZ](https://open.spotify.com/album/7bzpxq07dnFERpfI0B6TEC) | 3:08 |
 | 22 | [Ladder](https://open.spotify.com/track/1bYJMWvBXwcbGJN8SoMqgV) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Ladder](https://open.spotify.com/album/1VZFghwiK19mWq0S6mWk3b) | 2:22 |
 | 23 | [Ik Zweer 't](https://open.spotify.com/track/2qkTKRVDvKWTZWcFgtVaWw) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Ik Zweer 't](https://open.spotify.com/album/0nJfeCcfsgIxrrFaVgYYPF) | 2:56 |
 | 24 | [UPSIDE DOWN](https://open.spotify.com/track/51PUb9m5TTwn8m5CPvLT6Z) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [UPSIDE DOWN](https://open.spotify.com/album/4fJcOavExGgD5LGjdQLxCP) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Skyline](https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Skyline](https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0) | 2:37 |
 | 60 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 
-Snapshot ID: `AAAAANOaPKNgBs+VVfqXYGu/MxthLN+z`
+Snapshot ID: `AAAAANcy5mcz03ZCreNAdZD2Im8oTyw/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,539 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,537 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 8 | [SESSO OCCASIONALE](https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [SESSO OCCASIONALE](https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6) | 3:15 |
 | 9 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
 | 10 | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu) | 3:28 |
-| 11 | [Allo stadio](https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [La Faccia Delle Donne](https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh) | 3:39 |
-| 12 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
+| 11 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
+| 12 | [Allo stadio](https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [La Faccia Delle Donne](https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh) | 3:39 |
 | 13 | [Papa Nero](https://open.spotify.com/track/1X3eAXBIhLIsD8krO81Vup) | [Pitura Freska](https://open.spotify.com/artist/7nDp1YwhqukHtWtiQeH0LD) | [GRAN CALMA](https://open.spotify.com/album/5HuowqKpNxqmuwSY0RLjaP) | 3:54 |
 | 14 | [L'assenzio \( the Power of Nothing\)](https://open.spotify.com/track/1yhr95Jd7uqh391cqQDrpx) | [Bluvertigo](https://open.spotify.com/artist/6q8FspLLQOHpabMMbEb8Vq) | [Pop Tools \(Alcune Fasi e Forme d'Onda\)](https://open.spotify.com/album/2NZmrYl2xI4xZSAOG2YRM7) | 3:53 |
 | 15 | [Gigante](https://open.spotify.com/track/7wfaa5eSB5e8L3iKTsFTql) | [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Pugili fragili](https://open.spotify.com/album/5tDFqVgQ2YMRlkA8tNQOof) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 49 | [Caffè nero bollente](https://open.spotify.com/track/7Mbuzp7QeQH35dHQeQDUz0) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Fiorella Mannoia](https://open.spotify.com/album/089iETyoc1V7iJyjo26cDK) | 4:26 |
 | 50 | [La terra dei cachi](https://open.spotify.com/track/7B1a9ZioRPIan2ejYapGxt) | [Elio e le Storie Tese](https://open.spotify.com/artist/61r4cE4aoOD50wPNhQ5fF7) | [Del meglio del nostro meglio Vol\. 1 \(remastered\)](https://open.spotify.com/album/05KkxDmNE4o75OO2Xnq9pQ) | 4:41 |
 
-Snapshot ID: `AAAAAAik5XuQ+vADg5vIjUWQq/HGegUv`
+Snapshot ID: `AAAAALwmyGlkbLp0S079fSna3Q9GbZCh`

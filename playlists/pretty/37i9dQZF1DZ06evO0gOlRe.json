@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 37325,
+  "num_followers": 37335,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAACZvP2AyuX9FvLgFYNRcyy6",
+  "snapshot_id": "aoZDgAAAAAAI9wz+vA4pb6CGaOtvCiJ3",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Lifetime",
-        "url": "https://open.spotify.com/album/2hcOXsZ8OPBtUtPdDeOh8t"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 161885,
-      "name": "Every Lifetime",
-      "url": "https://open.spotify.com/track/1Ng7KGDwVFvb07GIFWaOM3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 190873,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/43I6PQfwHbXMipL4mvb5Zf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Lifetime",
+        "url": "https://open.spotify.com/album/2hcOXsZ8OPBtUtPdDeOh8t"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 161885,
+      "name": "Every Lifetime",
+      "url": "https://open.spotify.com/track/1Ng7KGDwVFvb07GIFWaOM3"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "back to you",
         "url": "https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 169921,
       "name": "back to you",
       "url": "https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
     },
     {
       "added_at": null,

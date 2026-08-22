@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-02",
-  "description": "\u0e1f\u0e31\u0e07\u0e41\u0e25\u0e30\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22 \u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e14\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e41\u0e1a\u0e1a\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e48\u0e22\u0e21. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19:  BOWKYLION",
+  "description": "\u0e1f\u0e31\u0e07\u0e41\u0e25\u0e30\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22 \u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e14\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e41\u0e1a\u0e1a\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e48\u0e22\u0e21. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19:  Potato",
   "name": "\u0e09\u0e31\u0e19\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213718,
       "name": "BF",
       "url": "https://open.spotify.com/track/36zlZYQZQ6QpXwSxnBRAa0"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 187547,
       "name": "FLY",
       "url": "https://open.spotify.com/track/3b6Z9R6qkXA56Ymen3MMjf"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 244000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/01rXepgii5VjwHUaajNMmm"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 220615,
       "name": "TORNADO",
       "url": "https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF"
@@ -324,6 +324,24 @@
       "duration_ms": 214285,
       "name": "wanna be yours (\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01)",
       "url": "https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS"
+    },
+    {
+      "album": {
+        "name": "Your Candy",
+        "url": "https://open.spotify.com/album/2dnW7kR5DcFm6rjJmGmbBg"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Your Candy",
+      "url": "https://open.spotify.com/track/4U1QLVuGWbfx4SM1YkdFi4"
     },
     {
       "album": {
@@ -382,6 +400,24 @@
       "duration_ms": 250962,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e1b\u0e43\u0e0a\u0e49\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e41\u0e1a\u0e1a\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e1f\u0e49\u0e32\u0e2d\u0e27\u0e22\u0e1e\u0e23 (Dear friend)",
+        "url": "https://open.spotify.com/album/7qi6LshNnGjkqvuey0Bfjy"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144727,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e1f\u0e49\u0e32\u0e2d\u0e27\u0e22\u0e1e\u0e23 (Dear friend)",
+      "url": "https://open.spotify.com/track/0Rv76Bg0r2PSITMJyRDCWp"
     },
     {
       "album": {
@@ -603,6 +639,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
+        "url": "https://open.spotify.com/album/65gngJ6yLvU2BPzmAhgMQv"
+      },
+      "artists": [
+        {
+          "name": "Yes'sir Days",
+          "url": "https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283258,
+      "name": "\u0e17\u0e35\u0e48\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
+      "url": "https://open.spotify.com/track/0FnnwqW9QVZgoHfB5mH49V"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32\u0e02\u0e2d\u0e1a\u0e43\u0e08\u0e08\u0e23\u0e34\u0e07\u0e46",
         "url": "https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg"
       },
@@ -632,7 +686,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 236062,
       "name": "\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs"
@@ -748,6 +802,24 @@
       "duration_ms": 210612,
       "name": "\u0e21\u0e2d\u0e07 2568",
       "url": "https://open.spotify.com/track/4oOSJiNmrvZzhvr1OQPln2"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e1e\u0e2d\u0e14\u0e35 (enough)",
+        "url": "https://open.spotify.com/album/48vs0oAFIzF2SpovRwszy8"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e1e\u0e2d\u0e14\u0e35 (enough)",
+      "url": "https://open.spotify.com/track/3IEA2jlMYaWZV1yJtaOsJx"
     },
     {
       "album": {
@@ -925,6 +997,46 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e48\u0e32\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/05B3CNxSw7FXhhih5oVUvA"
+      },
+      "artists": [
+        {
+          "name": "Potato",
+          "url": "https://open.spotify.com/artist/6RQyog3L4JlA8t8Bf56otE"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e48\u0e32\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/33xutbbGww8qhZ0lVau77k"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e32\u0e23\u0e21\u0e13\u0e4c\u0e2a\u0e35\u0e40\u0e17\u0e32",
+        "url": "https://open.spotify.com/album/7jQYQQHdNM8t72aFTVrcgs"
+      },
+      "artists": [
+        {
+          "name": "SEA.",
+          "url": "https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "\u0e2d\u0e32\u0e23\u0e21\u0e13\u0e4c\u0e2a\u0e35\u0e40\u0e17\u0e32",
+      "url": "https://open.spotify.com/track/3gxK6ehmktiz8QRElreh5S"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
         "url": "https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ"
       },
@@ -1034,7 +1146,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 192236,
       "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/1fdZwRR7WFgIWsUis4OKNi"

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Bad Girls Never Die",
+        "url": "https://open.spotify.com/album/1kUPbKp0C313Om6S26KLAk"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166463,
+      "name": "Bad Girls Never Die",
+      "url": "https://open.spotify.com/track/3yha8YHoOhBavQzBknq7dI"
+    },
+    {
+      "album": {
         "name": "Ribbed Music For The Numb Generation",
         "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 159000,
       "name": "Gangster's Wife",
       "url": "https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 193236,
       "name": "I'll come back to you",
       "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
@@ -2052,6 +2070,24 @@
       "duration_ms": 216500,
       "name": "Just for Fun",
       "url": "https://open.spotify.com/track/282p28Iff7PicfKaCpbl7F"
+    },
+    {
+      "album": {
+        "name": "Just One",
+        "url": "https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Just One",
+      "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
     },
     {
       "album": {

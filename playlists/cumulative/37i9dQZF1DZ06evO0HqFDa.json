@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "House of the Dragon: Season 3 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/6seVyaHqO605uSpXoFpamn"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155650,
+      "name": "Dark Hours",
+      "url": "https://open.spotify.com/track/6o0K5HyfPQ4L8jjXxIj9ks"
+    },
+    {
+      "album": {
         "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
         "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 172664,
       "name": "Maester",
       "url": "https://open.spotify.com/track/2Ift6YpqOCINgVYvGx8nVW"

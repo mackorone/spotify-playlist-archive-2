@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-527 songs - 1 day 7 hr 55 min
+528 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 | 2026-05-21 |  |
 | [Two in This Story](https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Two in This Story](https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW) | 3:54 | 2025-05-15 | 2025-08-12 |
 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2022-11-25 | 2023-01-10 |
+| [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 | 2026-08-21 |  |
 | [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2024-04-15 | 2025-01-24 |
 | [Undercurrent \(Clean Heart\)](https://open.spotify.com/track/0qEoKoiXF17TblSsDJY0tX) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Undercurrent \(Clean Heart\)](https://open.spotify.com/album/4zhzWqq4gN1DAdMwQHi3UN) | 2:22 | 2026-02-06 | 2026-03-20 |
 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 | 2024-03-27 | 2024-04-16 |
@@ -504,7 +505,7 @@
 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 | 2025-08-28 | 2026-03-13 |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:15 | 2022-11-25 |  |
 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 | 2022-11-25 |  |
-| [Walls](https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Walls](https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY) | 3:12 | 2026-03-06 |  |
+| [Walls](https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Walls](https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY) | 3:12 | 2026-03-06 | 2026-08-22 |
 | [walls](https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [character development](https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj) | 0:55 | 2023-07-04 | 2023-09-09 |
 | [Wayside](https://open.spotify.com/track/109NQrpKCxKIBhV1tIFBFF) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [dasteWORLD](https://open.spotify.com/album/18UEbjDePvACIB4OUvaCvC) | 2:17 | 2025-02-27 | 2025-03-10 |
 | [weighted blanket.](https://open.spotify.com/track/2yMuWe0yy1XvwHFmRAQwk6) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [time to love, time to heal.](https://open.spotify.com/album/3E189BvbeAv4z08EMlr7h9) | 2:34 | 2025-05-23 | 2025-06-21 |

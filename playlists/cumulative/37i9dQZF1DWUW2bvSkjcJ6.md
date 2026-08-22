@@ -4,7 +4,7 @@
 
 > Neue Musik von makko, The Chainsmokers, Jorja Smith, Sido, Jazeek, Carly Rae Jepsen & vielen mehr!
 
-10,269 songs - 20 day 22 hr 20 min
+10,271 songs - 20 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3108,6 +3108,7 @@
 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2024-08-08 | 2024-08-16 |
 | [Fly Or Burn](https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Fly Or Burn](https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6) | 2:08 | 2025-06-05 | 2025-06-13 |
 | [Fly Through the Fire](https://open.spotify.com/track/4Wei9s8WPL1p9sOYWgNNcH) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Fly Through the Fire](https://open.spotify.com/album/6ekMwIhgxrTjkh9XNa0ruO) | 3:34 | 2026-07-16 | 2026-07-24 |
+| [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 | 2026-08-21 |  |
 | [Flying](https://open.spotify.com/track/0y00KtJDQ6jy4iHMs6P5fq) | [Victoria West](https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL) | [Flying](https://open.spotify.com/album/1a9b7KWurtHnoLfcOVIl8N) | 3:05 | 2026-04-09 | 2026-04-17 |
 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 | 2025-02-27 | 2025-03-07 |
 | [Flügel](https://open.spotify.com/track/07CSj6KCASPztkMp7oyFyX) | [MARNELE](https://open.spotify.com/artist/0IYqTMlpmVrLsnpyHyvbxv), [9inebro](https://open.spotify.com/artist/47YlbKJ9aZM3HVa0lUXHZ0) | [Flügel](https://open.spotify.com/album/25JimCbEnpXhLzOhp7An28) | 2:04 | 2025-10-23 | 2025-10-31 |
@@ -5803,6 +5804,7 @@
 | [Maria](https://open.spotify.com/track/0JGdBdHMigCmBvHsFUEejB) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Maria](https://open.spotify.com/album/2fCQXw53dKl4xN2ZGLNQ2p) | 2:21 | 2026-06-26 | 2026-07-03 |
 | [mariah](https://open.spotify.com/track/6hNqL8ihYM8NuJNBWPPu9M) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [songs i couldn't forget](https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef) | 2:48 | 2026-02-27 | 2026-03-06 |
 | [Mariah Carey](https://open.spotify.com/track/5dWeqYnHJXYFlUhm4DHBa2) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft III](https://open.spotify.com/album/2eFSxvxOTCXFeg0uR5uA3p) | 3:14 | 2026-04-16 | 2026-04-24 |
+| [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 | 2026-08-21 |  |
 | [mario kart](https://open.spotify.com/track/6Bbkxaxt5av7NGuVwqDkhS) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [mario kart](https://open.spotify.com/album/1cf3dx9ujIEByXV10I9dKl) | 2:48 | 2024-11-14 | 2024-11-22 |
 | [MARKETING](https://open.spotify.com/track/5CJqZDf8EhrgSy3sveyEdl) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [MARKETING](https://open.spotify.com/album/31Owsx1iTJpEgGBsnXheDs) | 2:07 | 2026-02-27 | 2026-03-06 |
 | [Marlboro Mann](https://open.spotify.com/track/35dP1MzINMO9ABzCQAO6sy) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Marlboro Mann](https://open.spotify.com/album/2L4bP14MasfkUuU8UpTKgB) | 2:56 | 2025-11-06 | 2025-11-14 |
@@ -9074,7 +9076,6 @@
 | [Toyota \(2016\)](https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Toyota \(2016\)](https://open.spotify.com/album/6Wq84hoViqD2GBVqqVAaQJ) | 2:39 | 2025-01-02 | 2025-01-10 |
 | [TP](https://open.spotify.com/track/3rDYrvKA6bLhp6llXm9vOd) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [TP](https://open.spotify.com/album/32BZEkw7xTwB8zLnsm78ph) | 2:14 | 2025-01-23 | 2025-01-31 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-30 | 2025-11-07 |
-| [Track 6](https://open.spotify.com/track/59SaHcYpMIsKmv380hE1wF) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Lotte](https://open.spotify.com/album/2lEMVmUh3kRP9qH2F0Rdw7) | 0:00 | 2026-08-20 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 | 2026-07-17 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-07-19 |
@@ -9945,6 +9946,7 @@
 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 | 2025-11-20 | 2025-11-28 |
 | [Wilde Kerle](https://open.spotify.com/track/4GhdUTioymdaBm97I2sZD5) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [MYT](https://open.spotify.com/artist/49zauyREeS0BA9layn9e6j) | [Wilde Kerle](https://open.spotify.com/album/0W1K3tFd1b8VN13cxPE7qr) | 2:17 | 2025-02-13 | 2025-02-21 |
 | [Wilde Nächte](https://open.spotify.com/track/4dsjSfMhnlF8LZEjw7eNUi) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Wilde Nächte](https://open.spotify.com/album/60f6Hx8yIyi3200SxeANNX) | 2:28 | 2025-05-15 | 2025-05-23 |
+| [wildes Kind](https://open.spotify.com/track/59SaHcYpMIsKmv380hE1wF) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Lotte](https://open.spotify.com/album/2lEMVmUh3kRP9qH2F0Rdw7) | 5:09 | 2026-08-20 |  |
 | [Wildfire](https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Wildfire](https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7) | 3:53 | 2026-02-27 | 2026-03-06 |
 | [Wildfire \(feat\. Michael Patrick Kelly\)](https://open.spotify.com/track/25Njz0bzkoPaqFgtWi0Tiq) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Wildfire \(feat\. Michael Patrick Kelly\)](https://open.spotify.com/album/59pQ7VqfUTE32oRuXOCbO7) | 2:50 | 2026-06-11 | 2026-06-19 |
 | [Wildflower](https://open.spotify.com/track/1bIeQdwWPefDKxD3VoZZ4W) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Wildflower](https://open.spotify.com/album/63L2QBBcKtrQHBEcLDKhRt) | 3:23 | 2025-10-16 | 2025-10-24 |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-886 songs - 1 day 20 hr 1 min
+888 songs - 1 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [BOUNCE!](https://open.spotify.com/track/0tDQdGzAuoz7H21SYlAyCj) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [BOUNCE!](https://open.spotify.com/album/2W9hlXiWGgzaeZ3N6LavPE) | 2:30 | 2022-06-17 | 2023-04-28 |
 | [Break My Heart](https://open.spotify.com/track/7f4Gk0qPZ3kOYLE1Nngilx) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [Break My Heart](https://open.spotify.com/album/7i5fZ6T70XUTzkd8xiR3p8) | 3:03 | 2024-10-18 |  |
 | [Break My Heart \- Rameses B Remix](https://open.spotify.com/track/3DdPuaXAXkZdSz63LWBQ1K) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Break My Heart \(Rameses B Remix\)](https://open.spotify.com/album/6pVHTzBF1mudj2ANSaZekz) | 3:07 | 2025-02-18 |  |
+| [Brighter Days](https://open.spotify.com/track/1gWDGqu0uFwZNTwRUj0uBa) | [HESTER](https://open.spotify.com/artist/1jCLTlhIUyR4NVuBjLBxAG) | [Brighter Days](https://open.spotify.com/album/04xWEBsF7o2LPP01DVffP3) | 3:00 | 2026-08-21 |  |
 | [Bring It Back](https://open.spotify.com/track/5ShOfO7H7GhaSH3m3UL8pg) | [Polygon](https://open.spotify.com/artist/5BGIoAtF2cwgcydpnUyFkF) | [Bring It Back](https://open.spotify.com/album/0mJoluase48Igg9q7tlDHx) | 3:25 | 2023-02-24 | 2023-12-14 |
 | [Bring Me Back](https://open.spotify.com/track/1AMvw3Z9htH6YBDLNiMHT3) | [Adikop](https://open.spotify.com/artist/1bmpgDPBBF9GapFDg7DGA4), [Nieulotni](https://open.spotify.com/artist/1d0vAkMFX8agTOeEQ7wTLo) | [Bring Me Back](https://open.spotify.com/album/687uy3Ih1r5of0gzr2PZgT) | 3:50 | 2024-07-05 | 2024-12-09 |
 | [Bring Me The Christmas Light](https://open.spotify.com/track/4umzhAz6dEmAyqKC4WXiwc) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Christmas Light](https://open.spotify.com/album/1BbVSrRnQoLZxH5tZkhiDt) | 4:35 | 2022-12-22 | 2022-12-29 |
@@ -545,6 +546,7 @@
 | [No Way](https://open.spotify.com/track/33Mk3ZTSKNn47PLGpczhVH) | [BIMINI](https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [No Way](https://open.spotify.com/album/2PSFaIGYfF0DgKy8Y9KWJ1) | 4:28 | 2023-12-13 | 2024-06-20 |
 | [No Way Back](https://open.spotify.com/track/4M5FGieNXYe8aZDnLehIJ8) | [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [Just Isac](https://open.spotify.com/artist/4WfRJXoLtLLCxbyOGBbzKV), [Custody](https://open.spotify.com/artist/7dzrpQi4ITF86WilQbPBr8) | [No Way Back](https://open.spotify.com/album/4rpSDrUxE8fzv247TUX9Da) | 2:39 | 2022-06-28 | 2023-04-28 |
 | [Nobody](https://open.spotify.com/track/2wsH9mYlpO698u3NOsD6Xw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody](https://open.spotify.com/album/5CyvFcv9b2H2dRpQ3EzI2M) | 3:10 | 2022-07-07 | 2023-04-28 |
+| [Nobody Around](https://open.spotify.com/track/0WGqG0Pg2Cyrj0FWBQS5s5) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody Around](https://open.spotify.com/album/0LIVRejBIFEyxlRoJjW2XE) | 3:18 | 2026-08-21 |  |
 | [Nobody Else](https://open.spotify.com/track/10u0qaODhMuvveoaaUtze2) | [Fryware](https://open.spotify.com/artist/5hvR80ZuQm5TWMu23iLqiQ), [Minnie](https://open.spotify.com/artist/2Rmz2lT1HgrTkKkeNR0kLd) | [Nobody Else](https://open.spotify.com/album/6DsCRRrTQ989S7B0vRGRUz) | 3:34 | 2025-10-28 |  |
 | [Nocturnal](https://open.spotify.com/track/0KzdemS6NXcJks5chfvN1J) | [Hyri](https://open.spotify.com/artist/4L5kfUu3gnBiLPv5mBfYB5) | [Nocturnal](https://open.spotify.com/album/5WT2jnZiwdU8Y3WHmpZZon) | 3:05 | 2023-12-13 | 2024-07-19 |
 | [Noel Electra](https://open.spotify.com/track/6flK1gDXbyzpNGXlhIwDTe) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Noel Electra](https://open.spotify.com/album/3MVENgkbmVLkocrojKcyhY) | 3:23 | 2025-01-03 |  |

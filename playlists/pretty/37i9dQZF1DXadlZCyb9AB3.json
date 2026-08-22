@@ -1,12 +1,12 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 213212,
+  "num_followers": 213246,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADuT4Vg7OcTguCbhHnYzOOdHdwRl",
+  "snapshot_id": "AAAAACLG9KSA7tvh2J3yzcF3QX0RtO0/",
   "tracks": [
     {
       "added_at": "2024-10-07 20:36:39",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "White Flag",
-        "url": "https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA"
-      },
-      "artists": [
-        {
-          "name": "Slutever",
-          "url": "https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "The Raincoats",
         "url": "https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 180600,
       "name": "Fairytale in the Supermarket",
       "url": "https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA"
+      },
+      "artists": [
+        {
+          "name": "Slutever",
+          "url": "https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "THICK",
-        "url": "https://open.spotify.com/album/3gfufUzwziwEigzdC507KP"
-      },
-      "artists": [
-        {
-          "name": "THICK",
-          "url": "https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli"
-        }
-      ],
-      "duration_ms": 84133,
-      "name": "Your Mom",
-      "url": "https://open.spotify.com/track/1RYYWpZAFqkRKAjyp8EKzW"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Soda Pop * Rip Off",
         "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 123240,
       "name": "What Kind of Monster Are You?",
       "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "THICK",
+        "url": "https://open.spotify.com/album/3gfufUzwziwEigzdC507KP"
+      },
+      "artists": [
+        {
+          "name": "THICK",
+          "url": "https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli"
+        }
+      ],
+      "duration_ms": 84133,
+      "name": "Your Mom",
+      "url": "https://open.spotify.com/track/1RYYWpZAFqkRKAjyp8EKzW"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Pleasure",
-        "url": "https://open.spotify.com/album/3X3iZ9MRMFk75oqiSpeKuV"
-      },
-      "artists": [
-        {
-          "name": "Girls At Our Best!",
-          "url": "https://open.spotify.com/artist/5DYT0cYfntdC8sxyIOAhiC"
-        }
-      ],
-      "duration_ms": 120573,
-      "name": "Getting Nowhere Fast",
-      "url": "https://open.spotify.com/track/0xF9xdi5cI0fi7ZgC7MrzZ"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Desperate, Scared, but Social",
         "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 111266,
       "name": "Mr. Moneybag$",
       "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/3X3iZ9MRMFk75oqiSpeKuV"
+      },
+      "artists": [
+        {
+          "name": "Girls At Our Best!",
+          "url": "https://open.spotify.com/artist/5DYT0cYfntdC8sxyIOAhiC"
+        }
+      ],
+      "duration_ms": 120573,
+      "name": "Getting Nowhere Fast",
+      "url": "https://open.spotify.com/track/0xF9xdi5cI0fi7ZgC7MrzZ"
     },
     {
       "added_at": "2024-10-07 20:36:39",

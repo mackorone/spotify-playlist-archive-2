@@ -1,12 +1,12 @@
 {
   "description": "New music from BIGBANG, Rex Orange County, Daniel Caesar, Syasya Rizal, Mohsein Kush and many more!",
-  "num_followers": 75176,
+  "num_followers": 75286,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEV0/JxB92L6f/4UoOfQ7Lrzczaj",
+  "snapshot_id": "AAAAAMM4t8hHT9FdM3EefEcelfXU30kJ",
   "tracks": [
     {
       "added_at": "2026-08-20 16:00:41",
@@ -43,6 +43,22 @@
       "duration_ms": 186000,
       "name": "Indecision (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
+    },
+    {
+      "added_at": "2026-08-21 04:02:39",
+      "album": {
+        "name": "THE SIN : BLISS",
+        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Bloody Paradise",
+      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
     },
     {
       "added_at": "2026-08-20 16:00:41",
@@ -249,6 +265,30 @@
       "url": "https://open.spotify.com/track/6okIdyrgbzJhh848VTzE3G"
     },
     {
+      "added_at": "2026-08-21 08:12:43",
+      "album": {
+        "name": "Sensational Vibist",
+        "url": "https://open.spotify.com/album/6RimKn2VJpQpef47LDWCgD"
+      },
+      "artists": [
+        {
+          "name": "CAASI 2000",
+          "url": "https://open.spotify.com/artist/4emN3gmcxxgota49G07i6G"
+        },
+        {
+          "name": "HOW1E",
+          "url": "https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB"
+        },
+        {
+          "name": "J308",
+          "url": "https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1"
+        }
+      ],
+      "duration_ms": 230943,
+      "name": "\u4eca\u665a\u7684\u9bae\u82b1(Flowers Tonight)",
+      "url": "https://open.spotify.com/track/1THiai8kMGv2ihNIZYYCep"
+    },
+    {
       "added_at": "2026-08-20 16:00:41",
       "album": {
         "name": "Long Way Home",
@@ -369,6 +409,42 @@
       "url": "https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU"
     },
     {
+      "added_at": "2026-08-21 04:02:39",
+      "album": {
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
+    },
+    {
+      "added_at": "2026-08-21 04:02:39",
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 159650,
+      "name": "Some of Your Love",
+      "url": "https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H"
+    },
+    {
       "added_at": "2026-08-20 16:00:41",
       "album": {
         "name": "Peace To Make",
@@ -415,6 +491,22 @@
       "duration_ms": 134533,
       "name": "bite the bullet",
       "url": "https://open.spotify.com/track/3k4CtUyfaSlBftplzCrkro"
+    },
+    {
+      "added_at": "2026-08-21 04:02:39",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
     },
     {
       "added_at": "2026-08-20 16:00:41",
@@ -757,7 +849,7 @@
       "artists": [
         {
           "name": "Baby Shark Boy",
-          "url": "https://open.spotify.com/artist/4XTUoQMNMWHw594fJARUYJ"
+          "url": "https://open.spotify.com/artist/7fBY8UN09eU9DSPuQv2AkI"
         },
         {
           "name": "Pinkfong",
@@ -1766,10 +1858,14 @@
         {
           "name": "TroyBoi",
           "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Drew Love",
+          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 201290,
+      "name": "Picante",
       "url": "https://open.spotify.com/track/2OieKfzEmyyTKZyBUsZAg4"
     },
     {

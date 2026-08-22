@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Raghav & Arjun, Taba Chake, Easy Wanderlings, Mali and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Antariksh, KhoslaRaghu, Akashdeep Sengupta and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 193269,
       "name": "Aarzoo",
       "url": "https://open.spotify.com/track/1YSKp5GEMppYRIagUPIs1H"
@@ -3614,6 +3614,32 @@
       "duration_ms": 244800,
       "name": "Barkha Bahaar",
       "url": "https://open.spotify.com/track/3RasEms9BsZBgdY25u5MVo"
+    },
+    {
+      "album": {
+        "name": "Barkha Pukaare",
+        "url": "https://open.spotify.com/album/1dhqAlDbPC9dL2xxJle5gT"
+      },
+      "artists": [
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158033,
+      "name": "Barkha Pukaare",
+      "url": "https://open.spotify.com/track/5GTP6COs9ljeMnzpB7BCia"
     },
     {
       "album": {
@@ -6856,7 +6882,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 200512,
       "name": "Dhoop",
       "url": "https://open.spotify.com/track/62XHNQFlRz62edjBpdoYt5"
@@ -7292,6 +7318,32 @@
       "duration_ms": 145043,
       "name": "Dil Ke Paas",
       "url": "https://open.spotify.com/track/4BTqk8zszA1CbQtLLAKrQC"
+    },
+    {
+      "album": {
+        "name": "Dil Ki Aawaaz",
+        "url": "https://open.spotify.com/album/30GTxONFoxRyJKHNSbfJ6P"
+      },
+      "artists": [
+        {
+          "name": "Antariksh",
+          "url": "https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l"
+        },
+        {
+          "name": "Rahul Ram",
+          "url": "https://open.spotify.com/artist/4YsCHNJZEUEYU3tfrgqODl"
+        },
+        {
+          "name": "Rohan Prasanna",
+          "url": "https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252792,
+      "name": "Dil Ki Aawaaz",
+      "url": "https://open.spotify.com/track/5VwkrvpiS1NlffoQ3PtPo4"
     },
     {
       "album": {
@@ -11720,7 +11772,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 228461,
       "name": "Ishq seekh lo",
       "url": "https://open.spotify.com/track/2pK4TD7tnmBO7c00yoNT94"
@@ -19570,6 +19622,24 @@
       "duration_ms": 243809,
       "name": "Milan",
       "url": "https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ"
+    },
+    {
+      "album": {
+        "name": "Mile Jo Sukoon",
+        "url": "https://open.spotify.com/album/5I3GFWibyWmYVYxXlOBGo9"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Mile Jo Sukoon",
+      "url": "https://open.spotify.com/track/4r4oQiB8CEOqeGugFAC0qJ"
     },
     {
       "album": {
@@ -31007,6 +31077,32 @@
     },
     {
       "album": {
+        "name": "Udaan",
+        "url": "https://open.spotify.com/album/1zS9wDxAVMqd7Z0J6kRJnB"
+      },
+      "artists": [
+        {
+          "name": "Rishabh Shah",
+          "url": "https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8"
+        },
+        {
+          "name": "Junaid Ahmed",
+          "url": "https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E"
+        },
+        {
+          "name": "Soham Majumdar",
+          "url": "https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181411,
+      "name": "Udaan",
+      "url": "https://open.spotify.com/track/4f8g7KCFVbrvavCZQNNMiz"
+    },
+    {
+      "album": {
         "name": "Udd Jaa Re",
         "url": "https://open.spotify.com/album/1UtISscye9zQhfgXFo7MEj"
       },
@@ -31508,7 +31604,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 179000,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6Ti4NOxpbQecIR7y3qlMy1"

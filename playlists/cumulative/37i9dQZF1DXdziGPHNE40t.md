@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some warm and slow Jazz
 
-769 songs - 1 day 21 hr 24 min
+770 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 | 2022-11-10 | 2022-11-13 |
 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2022-05-17 | 2025-07-16 |
 | [A Capriscious Stroll](https://open.spotify.com/track/7CnLK8jEEL1O7VcK2nHrx2) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [A Capriscious Stroll](https://open.spotify.com/album/10DBsEqIxXYAgK2bUXpaw4) | 3:24 | 2023-03-09 | 2024-08-07 |
-| [A Distant Gaze](https://open.spotify.com/track/2EiRsVWoLT9cycMLcduFIR) | [Jamie Wilkis](https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ) | [A Distant Gaze](https://open.spotify.com/album/5I8XuDRKboiZOMmDVlv5g8) | 2:31 | 2025-01-07 |  |
+| [A Distant Gaze](https://open.spotify.com/track/2EiRsVWoLT9cycMLcduFIR) | [Jamie Wilkis](https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ) | [A Distant Gaze](https://open.spotify.com/album/5I8XuDRKboiZOMmDVlv5g8) | 2:31 | 2025-01-07 | 2026-08-22 |
 | [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-13 | 2024-08-13 |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2022-05-31 | 2023-03-03 |
 | [A Golden Hue](https://open.spotify.com/track/3FjdR6CyPczqpQi6hG8tLp) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [A Golden Hue](https://open.spotify.com/album/3kTxzI9MZSEBWccFriUQif) | 3:35 | 2024-05-30 | 2024-08-27 |
@@ -345,6 +345,7 @@
 | [Late Bagatelle](https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Late Bagatelle](https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW) | 3:59 | 2023-08-17 | 2024-09-10 |
 | [Late Train Home](https://open.spotify.com/track/6ZEFPvqmmOHIlFcctqKkz3) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Late Train Home](https://open.spotify.com/album/2QAlvO6AqAYdSwjshvGE8h) | 3:21 | 2026-04-24 |  |
 | [Lately](https://open.spotify.com/track/2Yv5PViJgDuusnrMNh8DA0) | [Thomas Bennett](https://open.spotify.com/artist/5GuqShztxJJiHn0YWjjtyh) | [Lately](https://open.spotify.com/album/0gUm4JyHLjyIaXTDLJkveo) | 2:51 | 2024-08-26 | 2025-09-24 |
+| [Lately I’ve Been Thinking](https://open.spotify.com/track/3q9eeY3L9qTCByaoW0FDLP) | [Jamie Wilkis](https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ) | [Lately I’ve Been Thinking](https://open.spotify.com/album/2mZPxKY1nh8qHZtkQeWm68) | 4:02 | 2026-08-21 |  |
 | [Later And Later](https://open.spotify.com/track/2odZfZZd36vPy5nfuaLCmw) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Later And Later](https://open.spotify.com/album/1jfvvjvxU4HCh2UCTAt7i8) | 6:48 | 2023-12-08 | 2024-07-16 |
 | [Lawncrest](https://open.spotify.com/track/7GtIlcedoCC27tfrQKiMjW) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Lawncrest](https://open.spotify.com/album/6L7ok32BZjfUYhpyVLY5OH) | 3:57 | 2024-02-09 | 2024-10-08 |
 | [Le jardin de l'espoir](https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Le jardin de l'espoir](https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv) | 4:23 | 2023-02-23 | 2025-01-15 |
@@ -648,7 +649,7 @@
 | [The Quiet After](https://open.spotify.com/track/0ZXIyVbEAZc2nTRoSpjPV3) | [Jamie Wilkis](https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ) | [The Quiet After](https://open.spotify.com/album/6wm9Rb7JnBqY9TyBgnEKtx) | 3:16 | 2025-03-10 | 2026-05-09 |
 | [The Quiet Storm](https://open.spotify.com/track/5caSbCpxmMVfAdq6wt37nF) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [The Quiet Storm](https://open.spotify.com/album/3OySlk48UhMpqifx8IvIyH) | 3:48 | 2025-08-19 | 2026-03-19 |
 | [The Small Things](https://open.spotify.com/track/3Ifr0lmnOeTaCHDXuDMR25) | [Mareld Trio](https://open.spotify.com/artist/4uWLlqbaxT3HX5ucOLaiSJ) | [The Small Things](https://open.spotify.com/album/1N3NXLBOYThq2vZ6kfdGuF) | 2:47 | 2025-07-15 | 2025-09-24 |
-| [The Smell of Cedar](https://open.spotify.com/track/2UFsEgp0mHM8GJcwIDgxG3) | [Nova Paloma](https://open.spotify.com/artist/1nXvuFNRu3MCO4eatJt6Vf) | [The Smell of Cedar](https://open.spotify.com/album/1WKBR2zT7t57Bmqf01JUjz) | 3:53 | 2026-01-14 |  |
+| [The Smell of Cedar](https://open.spotify.com/track/2UFsEgp0mHM8GJcwIDgxG3) | [Nova Paloma](https://open.spotify.com/artist/1nXvuFNRu3MCO4eatJt6Vf) | [The Smell of Cedar](https://open.spotify.com/album/1WKBR2zT7t57Bmqf01JUjz) | 3:53 | 2026-01-14 | 2026-08-22 |
 | [The surf shirt](https://open.spotify.com/track/4J2kmDH5fJLInAO34TQq93) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The surf shirt](https://open.spotify.com/album/0ubI5Ens5d3TqeGafHcZ6r) | 3:04 | 2023-09-29 | 2025-07-16 |
 | [The Touch of Your Lips](https://open.spotify.com/track/0jXJ9u642pUSnPNchzYadK) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Under A Bridge and Dreaming](https://open.spotify.com/album/0ak7vmwVnS5VKDUqLYtUWB) | 2:36 | 2022-10-27 | 2024-07-02 |
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 | 2025-03-19 |

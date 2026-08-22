@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,308 likes - 64 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,325 likes - 64 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 63 | [Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 "Dresden" No\. 2: III\. Largo \(Arr\. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann\)](https://open.spotify.com/track/6ajRRfc2LHpk9Ln8tKIrf5) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Albrecht Mayer](https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW), [Sinfonia Varsovia](https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk), [Jakub Haufa](https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH), [Monika Razynska](https://open.spotify.com/artist/2uWiFtRGSmpMXFvaEEEd1z) | [New Seasons \- Händel für Oboe und Orchester](https://open.spotify.com/album/5J2GNmnNxDcPWpnP3E0lz4) | 3:01 |
 | 64 | [Peer Gynt, Op\. 23: Solveig's Song \(Arr\. for Violin and Piano by Charlie Siem\)](https://open.spotify.com/track/4ghT12J2hsyfn0JZ4RDWrf) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Itamar Golan](https://open.spotify.com/artist/2idBst8P3vn2RRBc3UOcwu) | [Vaughan Williams and Grieg: Violin Sonatas](https://open.spotify.com/album/0WufA4zaVLfu1VDwyyK8SZ) | 4:49 |
 
-Snapshot ID: `AAAAAFh1X1ep+6zGuRV7tBoVIR1BAsA5`
+Snapshot ID: `AAAAAJ+g/znX9QF3zIXEqBKEjfQC3z8z`

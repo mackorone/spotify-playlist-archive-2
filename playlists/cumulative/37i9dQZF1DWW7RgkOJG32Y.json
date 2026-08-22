@@ -2091,6 +2091,28 @@
     },
     {
       "album": {
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/4M14ePO4UooHzwWZNh2XPl"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158049,
+      "name": "Closing Time (with Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw"
+    },
+    {
+      "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
@@ -2499,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "ashley cooke",
+        "url": "https://open.spotify.com/album/5vNtvppAHCSsUdI9dBvqEy"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238811,
+      "name": "dance around it",
+      "url": "https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3"
+    },
+    {
+      "album": {
         "name": "Dance With You",
         "url": "https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp"
       },
@@ -2904,6 +2944,24 @@
       "duration_ms": 165920,
       "name": "Dirt Road Down",
       "url": "https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207146,
+      "name": "Dogs In Our Twenties",
+      "url": "https://open.spotify.com/track/3DDuRF9KnNbLOVB2l5WgIb"
     },
     {
       "album": {
@@ -3680,7 +3738,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 156613,
       "name": "Fool Proof",
       "url": "https://open.spotify.com/track/1NEGpZ8jOQurxwkAUHq5lD"
@@ -7276,7 +7334,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 186400,
       "name": "Marry You Again",
       "url": "https://open.spotify.com/track/7GW3ySPXF49BKJ6HQQ1FiJ"
@@ -8835,6 +8893,24 @@
     },
     {
       "album": {
+        "name": "Pouring",
+        "url": "https://open.spotify.com/album/4QQmW6sae4Zc48VoDFObQ5"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Pouring",
+      "url": "https://open.spotify.com/track/6x1RfhNMyXuopmGSCPcT4q"
+    },
+    {
+      "album": {
         "name": "Praise The Lord (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
       },
@@ -9364,7 +9440,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 201146,
       "name": "Say So",
       "url": "https://open.spotify.com/track/29cQXi1TarDW44CxOKfjuc"
@@ -11654,7 +11730,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 150133,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/0JeY4GvsnwccrpxqPbdnqC"
@@ -11806,6 +11882,28 @@
       "duration_ms": 218213,
       "name": "Way Down Yonder",
       "url": "https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6"
+    },
+    {
+      "album": {
+        "name": "Way To Go (feat. Brooks & Dunn)",
+        "url": "https://open.spotify.com/album/2EQVkWT5hD5K26KAxM94lX"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171053,
+      "name": "Way To Go (feat. Brooks & Dunn)",
+      "url": "https://open.spotify.com/track/3PB9kzyXlw9lvdsJsx0y25"
     },
     {
       "album": {
@@ -12610,7 +12708,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 166735,
       "name": "Woman",
       "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Pony Bradshaw",
+  "description": "Where roots meet what\u2019s next. Cover: Grace Potter",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 236022,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri"
@@ -10349,6 +10349,24 @@
     },
     {
       "album": {
+        "name": "Trespasser",
+        "url": "https://open.spotify.com/album/5LsTcgEL5o7ivH0CUeAgXm"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215486,
+      "name": "Main Street U.S.A.",
+      "url": "https://open.spotify.com/track/0vBLkHfCoJ7SEVyzDW86Co"
+    },
+    {
+      "album": {
         "name": "Inside Problems",
         "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
       },
@@ -12848,7 +12866,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 245016,
       "name": "Progress of Man (Bitcoin & Cattle)",
       "url": "https://open.spotify.com/track/5kyFUvN9MgbqyybaqkLC16"
@@ -14160,6 +14178,24 @@
       "duration_ms": 201626,
       "name": "See the Moon (featuring Lamar Williams Jr. and Sharisse Norman)",
       "url": "https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh"
+    },
+    {
+      "album": {
+        "name": "Tonight's News",
+        "url": "https://open.spotify.com/album/6RhTHR04fDUA0WeRdhsxSq"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Sentimental Lady",
+      "url": "https://open.spotify.com/track/2ejbcu8msr3kkmX1HvDYaT"
     },
     {
       "album": {
@@ -17631,6 +17667,24 @@
     },
     {
       "album": {
+        "name": "Waiting For A Train",
+        "url": "https://open.spotify.com/album/0YUd6LTBpjs6sdJhuW1tYt"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Waiting For A Train",
+      "url": "https://open.spotify.com/track/0CnayuKETYQIrJAgXaUB0p"
+    },
+    {
+      "album": {
         "name": "Wanna Be Loved",
         "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
       },
@@ -18406,7 +18460,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 215206,
       "name": "Wild and Clear and Blue",
       "url": "https://open.spotify.com/track/6OIvQ2YzNJ2tckkVkUqieI"

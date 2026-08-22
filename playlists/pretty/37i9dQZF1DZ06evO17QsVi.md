@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,823 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,235,902 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Playa Cardz Right](https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [A Different Me](https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4) | 4:51 |
 | 50 | [Living in Pain \(feat\. 2Pac, Mary J\. Blige & Nas\)](https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:01 |
 
-Snapshot ID: `aoTyAAAAAADFEJDsUvcOxCT6q7Uv8YV9`
+Snapshot ID: `aoZDgAAAAADNDmTE0qtlfG1QcfsrjK97`

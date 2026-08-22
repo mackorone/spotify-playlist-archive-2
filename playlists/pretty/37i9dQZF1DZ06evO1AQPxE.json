@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 194804,
+  "num_followers": 194814,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAAUo3xmYQG/7ZvZ/AtyofUL",
+  "snapshot_id": "aoZDgAAAAADpJCkxsKcWJD+TQ4omItk+",
   "tracks": [
     {
       "added_at": null,
@@ -208,13 +208,13 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 153360,
-      "name": "Route 66 (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR"
+      "duration_ms": 197031,
+      "name": "Already Best Friends (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
     },
     {
       "added_at": null,
@@ -280,13 +280,13 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 197031,
-      "name": "Already Best Friends (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
+      "duration_ms": 153360,
+      "name": "Route 66 (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 150275,
-      "name": "Tranquility",
-      "url": "https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 125217,
       "name": "SUNDOWN",
       "url": "https://open.spotify.com/track/0ipgd8PPFza3NNmN3Rn2uF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 150275,
+      "name": "Tranquility",
+      "url": "https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL"
     },
     {
       "added_at": null,

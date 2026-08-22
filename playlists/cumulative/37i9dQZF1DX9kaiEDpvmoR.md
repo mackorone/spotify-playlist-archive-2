@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-610 songs - 1 day 12 hr 1 min
+610 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Roll With The Punches](https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Roll With The Punches](https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES) | 3:58 | 2025-02-06 | 2026-02-13 |
 | [Roses](https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Roses](https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw) | 3:44 | 2025-10-30 | 2026-05-22 |
 | [Rosor](https://open.spotify.com/track/0aDYLomq2NbOuqniPSJ65T) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Rosor](https://open.spotify.com/album/2Ms7NYrOs79Q2N6M4C7D3S) | 3:45 | 2026-07-16 |  |
+| [Rullande muller](https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [9](https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7) | 4:26 | 2026-08-20 |  |
 | [Rush Of Blood](https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Rush Of Blood](https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ) | 3:22 | 2024-08-15 | 2025-01-03 |
 | [Rytmen av ett regn](https://open.spotify.com/track/284OgQhThXzkssDt6Hdreg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Rytmen av ett regn](https://open.spotify.com/album/5KUGbEBxb6DBveyI28Sstp) | 3:14 | 2024-06-27 | 2024-08-09 |
 | [Rädd för hundar](https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Rädd för hundar](https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t) | 4:11 | 2025-01-16 | 2025-05-30 |
@@ -536,7 +537,6 @@
 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 | 2025-09-18 |  |
 | [Todas nacemos con alas](https://open.spotify.com/track/2RsJaTRZ998FJIlvx4Vuk3) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Todas nacemos con alas](https://open.spotify.com/album/730wfoIiktQkZfLv6Y32KZ) | 3:04 | 2026-05-14 | 2026-06-07 |
 | [Tonårsland](https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tonårsland](https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9) | 3:10 | 2026-03-12 |  |
-| [Track 1](https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [9](https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7) | 0:00 | 2026-08-20 |  |
 | [Tre hjärtan](https://open.spotify.com/track/3L2rFytbqORYicZmWVAigP) | [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [Aster, atlas](https://open.spotify.com/album/1hFzEB9BFfUxnSlZtEiurd) | 3:15 | 2026-05-08 | 2026-06-18 |
 | [Tro](https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hemland](https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw) | 4:39 | 2025-09-25 | 2026-05-29 |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-04-25 |

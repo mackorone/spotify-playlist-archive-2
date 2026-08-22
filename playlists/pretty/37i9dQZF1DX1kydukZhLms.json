@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1565747,
+  "num_followers": 1565906,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFzHxdceDz2CRa5XWszLPQZsUa82",
+  "snapshot_id": "AAAAAMih5C0Ok5VsbMYdSo6AlfxXK5rM",
   "tracks": [
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Vol. 4 (2009 Remastered Version)",
         "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 237920,
       "name": "I Don't Care (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "A Tale That Wasn't Right",
-      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "The Essential Aerosmith",
-        "url": "https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG"
+        "name": "The Time of the Oath",
+        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 298093,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/6NSiHTnuDB3vwgJQF3bqJh"
+      "duration_ms": 234533,
+      "name": "Forever and One (Neverland)",
+      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
     }
   ],
   "unique_name": "Heavy Ballads",

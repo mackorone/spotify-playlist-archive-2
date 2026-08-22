@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,856 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,855 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 49 | [Touchin, Lovin \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Trigga \(Deluxe\)](https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP) | 3:41 |
 | 50 | [You The Boss](https://open.spotify.com/track/24XPxbzGwOlPKf1pdf1ZtW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [You The Boss](https://open.spotify.com/album/0zsPvg31izQ7kbbeF4arbL) | 4:40 |
 
-Snapshot ID: `aoTyAAAAAADbCacnA/uE5VHlg0oHLs6h`
+Snapshot ID: `aoZDgAAAAAAEqzuWiFfWKWqbb9I/B86G`

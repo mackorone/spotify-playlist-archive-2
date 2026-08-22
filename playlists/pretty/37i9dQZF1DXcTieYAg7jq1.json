@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: tig3r lewis",
-  "num_followers": 446449,
+  "num_followers": 446488,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZsVENuZGrSXxcfQL9RIdUDMJll",
+  "snapshot_id": "AAAAAFSC98u50EwPMwqKsTrmM5IhB4tL",
   "tracks": [
     {
       "added_at": "2026-08-14 04:00:12",
@@ -25,6 +25,54 @@
       "url": "https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T"
     },
     {
+      "added_at": "2026-08-21 04:02:22",
+      "album": {
+        "name": "LOVER GIRL",
+        "url": "https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 228291,
+      "name": "misunderstood",
+      "url": "https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0"
+    },
+    {
+      "added_at": "2026-08-21 04:02:22",
+      "album": {
+        "name": "jumping in",
+        "url": "https://open.spotify.com/album/72SmaeedSj75Z89ls7JW9O"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 182365,
+      "name": "jumping in",
+      "url": "https://open.spotify.com/track/1VkOwCb4bkYCwCFi4QyPAn"
+    },
+    {
+      "added_at": "2026-08-21 04:02:22",
+      "album": {
+        "name": "Heavenly Bodies",
+        "url": "https://open.spotify.com/album/3bEdIVHkADHY128d4jRy2i"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "This Must Be The End",
+      "url": "https://open.spotify.com/track/0xNmUTdY25XQocT9fcMCFk"
+    },
+    {
       "added_at": "2026-08-14 04:00:12",
       "album": {
         "name": "Sunshine",
@@ -39,22 +87,6 @@
       "duration_ms": 191003,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
-    },
-    {
-      "added_at": "2026-07-24 04:02:45",
-      "album": {
-        "name": "After The Love",
-        "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "After The Love",
-      "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
     },
     {
       "added_at": "2026-05-01 04:02:18",
@@ -73,36 +105,52 @@
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
-      "added_at": "2026-08-14 04:00:12",
+      "added_at": "2026-08-21 04:02:22",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2KTiBISlejXB7O09ct1Uga"
+        "name": "HOLLYWOODLAND",
+        "url": "https://open.spotify.com/album/5tFVKRNk4AmAywYFbgTyrz"
       },
       "artists": [
         {
-          "name": "Caitlin Byk",
-          "url": "https://open.spotify.com/artist/7HYi0cSMn8CBtilz99bXin"
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
         }
       ],
-      "duration_ms": 248203,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/1EQzwySOz9MxpbPIhzj5Mh"
+      "duration_ms": 167418,
+      "name": "HOLLYWOODLAND",
+      "url": "https://open.spotify.com/track/3hFGWEdCfGKSjyrbM3IPsi"
     },
     {
-      "added_at": "2026-07-31 04:01:15",
+      "added_at": "2026-07-24 04:02:45",
       "album": {
-        "name": "Puppet Show",
-        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
+        "name": "After The Love",
+        "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
       },
       "artists": [
         {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 182665,
-      "name": "Puppet Show",
-      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+      "duration_ms": 220708,
+      "name": "After The Love",
+      "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
+    },
+    {
+      "added_at": "2026-08-21 04:02:22",
+      "album": {
+        "name": "Wet Rain",
+        "url": "https://open.spotify.com/album/1l7b2sstbxScfWqgBL2ycS"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Wet Rain",
+      "url": "https://open.spotify.com/track/4md6IV2vLvYYJ27NH5z5Tg"
     },
     {
       "added_at": "2026-08-07 17:46:39",
@@ -121,6 +169,38 @@
       "url": "https://open.spotify.com/track/5HXoQhJCu7Axg0J1pBsCj2"
     },
     {
+      "added_at": "2026-07-31 04:01:15",
+      "album": {
+        "name": "Puppet Show",
+        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 182665,
+      "name": "Puppet Show",
+      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+    },
+    {
+      "added_at": "2026-08-14 04:00:12",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2KTiBISlejXB7O09ct1Uga"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Byk",
+          "url": "https://open.spotify.com/artist/7HYi0cSMn8CBtilz99bXin"
+        }
+      ],
+      "duration_ms": 248203,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/1EQzwySOz9MxpbPIhzj5Mh"
+    },
+    {
       "added_at": "2026-07-21 19:31:47",
       "album": {
         "name": "Hangin' On",
@@ -135,22 +215,6 @@
       "duration_ms": 211619,
       "name": "Hangin' On",
       "url": "https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw"
-    },
-    {
-      "added_at": "2026-07-24 04:02:45",
-      "album": {
-        "name": "FOREVERMORE",
-        "url": "https://open.spotify.com/album/3EaDdJ617d0q6uLifk3klX"
-      },
-      "artists": [
-        {
-          "name": "Tiger La Flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
-        }
-      ],
-      "duration_ms": 182290,
-      "name": "FOREVERMORE",
-      "url": "https://open.spotify.com/track/04M4yfp7Khh9VrRZfv73a8"
     },
     {
       "added_at": "2026-08-07 17:46:39",
@@ -1571,62 +1635,6 @@
       "duration_ms": 255131,
       "name": "Big Star",
       "url": "https://open.spotify.com/track/4x08v04zVAsyVeeZskSDN3"
-    },
-    {
-      "added_at": "2025-08-22 04:00:12",
-      "album": {
-        "name": "BIG MONEY",
-        "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 251502,
-      "name": "LEAN ON MY LOVE (feat. Andra Day)",
-      "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
-    },
-    {
-      "added_at": "2025-08-11 18:49:44",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/1DFhkzjfsiKbFJUFKIh1g2"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 182039,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/5J5UBOJL9rNZ1atXS0RwR0"
-    },
-    {
-      "added_at": "2025-06-27 04:00:28",
-      "album": {
-        "name": "Summertime Blue",
-        "url": "https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 210296,
-      "name": "Summertime Blue",
-      "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
     }
   ],
   "unique_name": "Retro Pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,399 likes - 290 songs - 14 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,401 likes - 290 songs - 14 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 178 | [Same Old Story](https://open.spotify.com/track/1NC4U3Q0PAZgpTeawDeB5P) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 4:49 |
 | 179 | [You're Something New](https://open.spotify.com/track/6PrYru1Jj9hvVSV0mIj15N) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:53 |
 | 180 | [Morning Sun](https://open.spotify.com/track/2uddedLRPsf3pdOvCtP4A6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:32 |
-| 181 | [What I Gotta Do \(To Make You Jealous\)](https://open.spotify.com/track/3Teai99AZXsrvgQXq5SdJU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Playlist: The Best Of Little Eva](https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n) | 1:59 |
-| 182 | [Poor Little Rich Girl](https://open.spotify.com/track/4S0zRb7tpHSt4azAIDiuph) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [The Original Hits](https://open.spotify.com/album/7bdZkkSOAU2iy9fyzdP0ru) | 2:32 |
+| 181 | [Poor Little Rich Girl](https://open.spotify.com/track/4S0zRb7tpHSt4azAIDiuph) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [The Original Hits](https://open.spotify.com/album/7bdZkkSOAU2iy9fyzdP0ru) | 2:32 |
+| 182 | [What I Gotta Do \(To Make You Jealous\)](https://open.spotify.com/track/3Teai99AZXsrvgQXq5SdJU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Playlist: The Best Of Little Eva](https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n) | 1:59 |
 | 183 | [So Many Ways](https://open.spotify.com/track/1OqAdekmYUF0aLkgwWHXzy) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:11 |
 | 184 | [Honey and Wine \- 2003 Remaster](https://open.spotify.com/track/11qM9odmMGoDOfHMOM65se) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [In The Hollies Style \(Expanded Edition\)](https://open.spotify.com/album/1juitqjWhK1iPIQ6aSiuVc) | 2:29 |
 | 185 | [I've Got Bonnie](https://open.spotify.com/track/21iXuOwL7IQSqNevv4ClS0) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Essential Bobby Rydell](https://open.spotify.com/album/7vRQk7uoLNZncVFT2qqG0m) | 2:27 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcaHJAAAAAAwzMmrhBs1ZY8DAmXpSUEv`
+Snapshot ID: `AcaMxAAAAAC+5ton2E6OrU6g/7HrHSgB`

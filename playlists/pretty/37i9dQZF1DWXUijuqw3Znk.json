@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 994,
+  "num_followers": 1005,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKhr5C2o7bXbR/sr0W6DtM2lsuSQ",
+  "snapshot_id": "AAAAAGvzs2/KbfK3+7FJE4jCIahmHYzi",
   "tracks": [
     {
       "added_at": "2025-11-10 09:53:18",
@@ -291,38 +291,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Ghetto Superstars",
-        "url": "https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "300(prod. Cashbanger)",
-      "url": "https://open.spotify.com/track/3l6dINZbKWtAtHqVOIO1nh"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 223402,
-      "name": "Dali, Van, Picasso",
-      "url": "https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -347,6 +315,38 @@
       "duration_ms": 225506,
       "name": "The Beauty of Void (Feat. Jessi, JUSTHIS) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/65iHekI2A2NYREOyfmo97U"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 223402,
+      "name": "Dali, Van, Picasso",
+      "url": "https://open.spotify.com/track/1qF1S4e4WBw6nG1mglWfEH"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Ghetto Superstars",
+        "url": "https://open.spotify.com/album/5DYlWsxiiKkKHzrYO7DLnb"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "300(prod. Cashbanger)",
+      "url": "https://open.spotify.com/track/3l6dINZbKWtAtHqVOIO1nh"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -403,6 +403,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Kebee & MC Meta",
+          "url": "https://open.spotify.com/artist/3GBhjWz2r9Jd32b94VCGOI"
+        }
+      ],
+      "duration_ms": 313053,
+      "name": "\uc9c4\ud759 \uc18d\uc5d0\uc11c \ud53c\ub294 \uaf43 Flower from the Mud (feat. Kebee & MC Meta)",
+      "url": "https://open.spotify.com/track/3HQKOvG5jI7lLseS6ZT3ph"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 235186,
       "name": "iii (Feat. Basick, Kid Milli & Paloalto) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "The Real Me",
-        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Kebee & MC Meta",
-          "url": "https://open.spotify.com/artist/3GBhjWz2r9Jd32b94VCGOI"
-        }
-      ],
-      "duration_ms": 313053,
-      "name": "\uc9c4\ud759 \uc18d\uc5d0\uc11c \ud53c\ub294 \uaf43 Flower from the Mud (feat. Kebee & MC Meta)",
-      "url": "https://open.spotify.com/track/3HQKOvG5jI7lLseS6ZT3ph"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Up up and away",
+      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 247680,
       "name": "Holiday (Feat. lIlBOI, GIRIBOY) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Up up and away",
-      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "BLAZE",
-        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
-      },
-      "artists": [
-        {
-          "name": "DOHANSE",
-          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
-        },
-        {
-          "name": "BIGONE",
-          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
-        }
-      ],
-      "duration_ms": 131493,
-      "name": "SLASH (Feat. BIGONE)",
-      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
         "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 223178,
       "name": "\uc9c4\uc800\ub9ac (Feat. \ub9b4\ub7ec\ub9d0\uc988 (Leellamarz), \uc81c\ub124 \ub354 \uc9c8\ub77c(ZENE THE ZILLA))",
       "url": "https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "BLAZE",
+        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
+      },
+      "artists": [
+        {
+          "name": "DOHANSE",
+          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        }
+      ],
+      "duration_ms": 131493,
+      "name": "SLASH (Feat. BIGONE)",
+      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
-      },
-      "artists": [
-        {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        }
-      ],
-      "duration_ms": 161557,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Stargaze",
         "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 222232,
       "name": "Look What I Did (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "duration_ms": 161557,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        }
+      ],
+      "duration_ms": 148983,
+      "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+      "url": "https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 193174,
       "name": "It's Your Turn (Feat. Futuristic Swaver)",
       "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        }
-      ],
-      "duration_ms": 148983,
-      "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-      "url": "https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj"
     },
     {
       "added_at": "2025-11-10 09:53:18",

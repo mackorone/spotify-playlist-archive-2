@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 294216,
+  "num_followers": 294246,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADN9eChV2HWsHErUfr8Q0dfXAyk7",
+  "snapshot_id": "AAAAAC1DgqzSA+dz7lw4ThCYMOKje3kB",
   "tracks": [
     {
       "added_at": "2026-06-12 04:01:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 243263,
-      "name": "Loved",
-      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Light Shines Through",
         "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 258084,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 243263,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "To You EP",
-        "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 342604,
-      "name": "Lonely Romance",
-      "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Encores 2",
         "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 242000,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "To You EP",
+        "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 342604,
+      "name": "Lonely Romance",
+      "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
     },
     {
       "added_at": "2026-06-12 04:01:06",

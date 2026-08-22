@@ -2,7 +2,7 @@
 
 ### [New Music Friday Italia](https://open.spotify.com/playlist/37i9dQZF1DWVKDF4ycOESi)
 
-> Nuovi brani dei Fontaines D.C., Farruko,  KATSEYE, Jungle, HUGEL e tanti altri.
+> Nuovi brani delle ultime due settimane dei Fontaines D.C., Farruko,  KATSEYE, Jungle, HUGEL e tanti altri.
 
 10,107 songs - 21 day 7 hr 29 min
 

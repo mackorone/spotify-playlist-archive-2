@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,176 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,186 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 29 | [Klein, Klein Jongetje](https://open.spotify.com/track/1wTU7sJqqrDSFkcK1VCtAz) | [U\-niq](https://open.spotify.com/artist/15cp217nCdrUbiZ2m7wyAb), [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc) | [Rotterdam](https://open.spotify.com/album/2yeBzg1PXDkV7Iah1AMdLN) | 4:25 |
 | 30 | [Alleen](https://open.spotify.com/track/1RClBEEVn5SqHFM8gsyoXL) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Fresku](https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW) | 3:49 |
 | 31 | [Gekkenhuis FT\. Jawat](https://open.spotify.com/track/50Rr5oZu70pOqUQjvZewsh) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 6:07 |
-| 32 | [Colucci](https://open.spotify.com/track/6nUZPNbKCePGt0MdjwiTqE) | [Fakkelbrigade](https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r) | [Colucci Era \(Standard version\)](https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0) | 4:07 |
-| 33 | [Blijven rennen \(Feat\. Adje en Hef\)](https://open.spotify.com/track/5uxxDAWqVH20pHZjBLtFlz) | [Green Gang](https://open.spotify.com/artist/3iPRyEwKWTfDVgwUKL4X1p) | [Green Magic \- Flashbacks](https://open.spotify.com/album/7fNJXy3AmkLEUeXjBgeK3v) | 4:12 |
-| 34 | [Get Money](https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Hefvermogen](https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P) | 2:26 |
+| 32 | [Get Money](https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Hefvermogen](https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P) | 2:26 |
+| 33 | [Colucci](https://open.spotify.com/track/6nUZPNbKCePGt0MdjwiTqE) | [Fakkelbrigade](https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r) | [Colucci Era \(Standard version\)](https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0) | 4:07 |
+| 34 | [Blijven rennen \(Feat\. Adje en Hef\)](https://open.spotify.com/track/5uxxDAWqVH20pHZjBLtFlz) | [Green Gang](https://open.spotify.com/artist/3iPRyEwKWTfDVgwUKL4X1p) | [Green Magic \- Flashbacks](https://open.spotify.com/album/7fNJXy3AmkLEUeXjBgeK3v) | 4:12 |
 | 35 | [Wie Is Ut?](https://open.spotify.com/track/0wigYjF9exiXBoXN5Br2py) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:06 |
 | 36 | [Doag](https://open.spotify.com/track/0YUwC8n3xid9r0udhAhMNV) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS), [Kleine Viezerik](https://open.spotify.com/artist/6csZsTGgzYXAlEAoERKo4s), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 4:12 |
-| 37 | [Groen Gras](https://open.spotify.com/track/5wXlDrQxS9w7bYHH0XUTEA) | [Fakkelbrigade](https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r) | [Colucci Era \(Standard version\)](https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0) | 3:59 |
-| 38 | [Voor Dough](https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 3:45 |
+| 37 | [Voor Dough](https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 3:45 |
+| 38 | [Groen Gras](https://open.spotify.com/track/5wXlDrQxS9w7bYHH0XUTEA) | [Fakkelbrigade](https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r) | [Colucci Era \(Standard version\)](https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0) | 3:59 |
 | 39 | [U Wait](https://open.spotify.com/track/1p8zXLMnUsZa04rPs8FnL8) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 5:35 |
 | 40 | [Blam Blam](https://open.spotify.com/track/63ajJl52FOdeBYsUthJUyc) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Slapeloze Nachten](https://open.spotify.com/album/1HFoz1ACfQuTwhV9xwRAgL) | 2:55 |
-| 41 | [Mijn Hossel](https://open.spotify.com/track/3yIqk7jtR7frUAMhterXDN) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Jayh.nl](https://open.spotify.com/album/3piHncMB0TEczcyL2w39w8) | 4:17 |
-| 42 | [Succes](https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Succes/Ik Ben Twan](https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp) | 3:31 |
+| 41 | [Succes](https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Succes/Ik Ben Twan](https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp) | 3:31 |
+| 42 | [Mijn Hossel](https://open.spotify.com/track/3yIqk7jtR7frUAMhterXDN) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Jayh.nl](https://open.spotify.com/album/3piHncMB0TEczcyL2w39w8) | 4:17 |
 | 43 | [Trots](https://open.spotify.com/track/3yMOCMDQIRQglxHdjGfP7G) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Nooit Meer Terug](https://open.spotify.com/album/4Na1lbtiN4GSoNgY9Hrhvw) | 5:30 |
 | 44 | [Buschauffeur](https://open.spotify.com/track/3N1qohiQ5xPgoYg9m0McId) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Du Zoon](https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU) | 2:59 |
 | 45 | [Hindabuilding](https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH) | [Hydroboyz](https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv) | [Alleen Maar Nette Mensen](https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 99 | [On Top Of De](https://open.spotify.com/track/4VknnXlY83VkUGxblL06Uy) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Turk](https://open.spotify.com/artist/3CCnfGrTPgEJoHFk4UOe0O), [Spacekees](https://open.spotify.com/artist/4qGhPy6Sl7Efs3D7a230wM) | [Boulimia](https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV) | 4:01 |
 | 100 | [Classic](https://open.spotify.com/track/4CKgIyQKXXIo0qe9S19Rwu) | [VSOP](https://open.spotify.com/artist/0FTjNsMaGK9WXiBRjE3MgW) | [Huiswerk](https://open.spotify.com/album/6IlAcNdMHQbPbNGgVMXnr5) | 3:30 |
 
-Snapshot ID: `AAAAABc6E6hTGULd+o3utsFpdQ42lk1t`
+Snapshot ID: `AAAAAJ6NnNo6oycITCRr8Ju0QvEgwvsK`

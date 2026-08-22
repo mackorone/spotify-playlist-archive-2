@@ -1645,6 +1645,32 @@
     },
     {
       "album": {
+        "name": "Gimidi",
+        "url": "https://open.spotify.com/album/3FDRHQZ14TUixAZwwYLQXP"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154020,
+      "name": "Gimidi",
+      "url": "https://open.spotify.com/track/6wX0Jmo6ojeMXhFNTrzYuH"
+    },
+    {
+      "album": {
         "name": "En el Caribe Tambi\u00e9n Pasa Esto",
         "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
       },
@@ -2759,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Te Gusta Bellak",
+        "url": "https://open.spotify.com/album/2kBzFMmQGfB6mI218VBT4z"
+      },
+      "artists": [
+        {
+          "name": "EL RM",
+          "url": "https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150329,
+      "name": "Pegaito",
+      "url": "https://open.spotify.com/track/6BfLQqbPkcMgClaea4p3Nj"
+    },
+    {
+      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -3522,7 +3566,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 211891,
       "name": "Tierra de Promesas (Sierra Nevada)",
       "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
@@ -3668,7 +3712,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 246000,
       "name": "Un D\u00eda a la Vez",
       "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"

@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Destin Conrad
 
-1,244 songs - 2 day 12 hr 34 min
+1,245 songs - 2 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 | 2026-01-23 | 2026-02-13 |
 | [Closure \(feat\. Leigh\-Anne\)](https://open.spotify.com/track/1pEgkIlcPmDBuH4YQ5gMqS) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Comes to Light](https://open.spotify.com/album/081jLkJYWGp76MJTPu650Z) | 2:58 | 2026-06-25 | 2026-07-03 |
 | [Clueless](https://open.spotify.com/track/6MWJ2DehSpjVcbEPBcWt6c) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Clueless](https://open.spotify.com/album/5sI9wJpdAgJgWHFpQEkEiK) | 3:29 | 2026-06-25 | 2026-07-10 |
+| [Coachella](https://open.spotify.com/track/6wpNwhUGwP7eT8s7wjcJrZ) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Summer at Camp Lakepine](https://open.spotify.com/album/4Nip5JG2bdFpUyV7ghe0Kq) | 1:39 | 2026-08-20 |  |
 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 | 2026-07-02 | 2026-07-17 |
 | [Cocaine Clouds](https://open.spotify.com/track/3vVk0lbYWxxHJr9pmNq0Nw) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Can't Kill Bill](https://open.spotify.com/album/0n6vrs1qn3a1DKizAhwQFi) | 2:44 | 2026-06-18 | 2026-07-03 |
 | [COD 45](https://open.spotify.com/track/71ltpBLrLBld54DrnS9xLo) | [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI) | [COD 45](https://open.spotify.com/album/7G7jnlDyjW3rsx3XKcczNo) | 2:07 | 2026-03-20 | 2026-03-31 |
@@ -281,6 +282,7 @@
 | [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 | 2026-08-13 |  |
 | [Cyanide](https://open.spotify.com/track/26yJKtzmQLGRlhocFH18GL) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Eddy Luna](https://open.spotify.com/artist/7gnObZHxWlF5E82KGlKHMM) | [Cyanide](https://open.spotify.com/album/6JBPy3m6HnqK0daHMg21eV) | 3:02 | 2026-04-24 | 2026-05-01 |
 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 | 2026-02-13 | 2026-02-27 |
+| [DADAMAN](https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:41 | 2026-08-20 |  |
 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-05-15 | 2026-05-22 |
 | [Daily Duppy](https://open.spotify.com/track/5AIVDb3j3VmcwuPPNd4A8M) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Daily Duppy](https://open.spotify.com/album/0rZLiOiE4JIWUiIyvFmtPe) | 4:16 | 2025-12-19 | 2026-01-15 |
 | [DANCE](https://open.spotify.com/track/2pw9bd7acw8rPdcxLGpL41) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [DANCE](https://open.spotify.com/album/5kVjzpmViDmgajDe9Web8e) | 2:05 | 2026-02-27 | 2026-03-13 |
@@ -1132,7 +1134,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-03-20 |
-| [Track 10](https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 0:00 | 2026-08-20 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-27 |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-24 | 2026-05-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 
 > Sal Da Vinci ha vinto il festival di Sanremo 💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,115 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,980 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 | 57 | [Nei miei DM](https://open.spotify.com/track/2CvhzdXKzJ90JQj6iLg5qI) | [Blind](https://open.spotify.com/artist/5OHbkBRl9kGeloz8JjAwDP), [EL MA](https://open.spotify.com/artist/3UNrwyIzyGeIc8xXFYInEM), [SONIKO](https://open.spotify.com/artist/73DHfRZvWObprsw4AJV2bS) | [Nei miei DM](https://open.spotify.com/album/1Wp7sg5ihwxmd0DTVU9k9n) | 3:03 |
 | 58 | [MANIFESTAZIONE D'AMORE](https://open.spotify.com/track/4CVzKDQSP7dZOzca7vQvsH) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [MANIFESTAZIONE D'AMORE](https://open.spotify.com/album/15FtREzDJ4JZLRFxMMmeY3) | 3:04 |
 
-Snapshot ID: `AAAAANDpI7PlIt1eLf+nO3YaACl3rQYQ`
+Snapshot ID: `AAAAALznBLBvdnRaoNuarg1+v5WTkH2L`

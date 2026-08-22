@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Budi Doremi
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Bunga Citra Lestari, Josh Florentino
 
-754 songs - 2 day 0 hr 53 min
+759 songs - 2 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-02-01 | 2024-04-12 |
 | [Bulan, Bawa Aku Pulang](https://open.spotify.com/track/1G2CdAuRwr7Dem2CIZlYrt) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Pada Suatu Hari](https://open.spotify.com/album/39MV4REL0m6xugmD9K9cbr) | 4:04 | 2025-06-05 | 2025-07-25 |
 | [Bunga Abadi](https://open.spotify.com/track/0hPIuo3qZgyjDKJTI7xu8A) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Bunga Abadi](https://open.spotify.com/album/3mfUQStqcygHEOJjI7nZm4) | 4:03 | 2024-08-02 | 2025-02-14 |
+| [bunga bunga di barcelona](https://open.spotify.com/track/1z39Newld3bFC6zM9Fice5) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [bunga bunga di barcelona](https://open.spotify.com/album/52tBxrRKhr6Vx1xPOsoBjC) | 3:06 | 2026-08-21 |  |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2024-01-26 | 2024-07-27 |
 | [Bunga Jiwaku](https://open.spotify.com/track/2edAglJ6sNF8MmLkV8Dp0R) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Bunga Jiwaku](https://open.spotify.com/album/5zp9TCY4Nb0bhXbcEl5WsF) | 3:17 | 2025-02-06 | 2026-01-30 |
 | [BURN](https://open.spotify.com/track/1lHvpdx9FGyifdRfR9zfVV) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Agt.Widi](https://open.spotify.com/artist/2gdOJVgB3dIUddJJsozvhU) | [EKLEKTIKO](https://open.spotify.com/album/4ZuFIzhOThgSnHJeKZyfQ7) | 3:06 | 2026-05-21 | 2026-06-26 |
@@ -149,6 +150,7 @@
 | [CEO \(Menyala Queen\)](https://open.spotify.com/track/5dTGdrFASArfsRjVAslt3T) | [Toton Caribo](https://open.spotify.com/artist/0v1axjG0KwIz3aciZffFMu) | [CEO \(Menyala Queen\)](https://open.spotify.com/album/01l60f9C6y4AXBm62ItqxK) | 3:45 | 2026-06-11 | 2026-07-10 |
 | [Ceritaku Ceritamu](https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz) | [Katyana](https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Ceritaku Ceritamu](https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO) | 3:33 | 2026-07-16 |  |
 | [Ceritanya Jatuh Cinta](https://open.spotify.com/track/0f9J5rMcMhCQiPGSJHvr7G) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Ceritanya Jatuh Cinta](https://open.spotify.com/album/11Qt4sKWAfJBfQQwtbDox0) | 3:06 | 2026-07-02 |  |
+| [Ceritanya Jatuh Cinta \- Ceritanya Live Session](https://open.spotify.com/track/5SsH1Yw22yBGRCVRkzpc1c) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Ceritanya Jatuh Cinta \(Ceritanya Live Session\)](https://open.spotify.com/album/0iEYEZqvG6pH7X6fp5t5sG) | 3:07 | 2026-08-21 |  |
 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 | 2024-01-26 | 2024-03-22 |
 | [Cinta Aku Bisa Apa](https://open.spotify.com/track/4nJoJe7PspYQMpqYch5ADK) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Cinta Aku Bisa Apa](https://open.spotify.com/album/3AY29eYIsUotH4rFjzds3R) | 4:03 | 2024-01-26 | 2024-02-09 |
 | [Cinta dan Doa](https://open.spotify.com/track/5Q1W1dU9l03A1kql9HNQej) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Cinta dan Doa](https://open.spotify.com/album/2uoe88qo0Ngi2ObpN2FhP4) | 4:32 | 2026-02-19 | 2026-05-15 |
@@ -307,6 +309,7 @@
 | [Kamu Adalah](https://open.spotify.com/track/6tdlq9QCsOCI8KyBsPTLpb) | [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV), [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kamu Adalah](https://open.spotify.com/album/4weKO0Ozr2VOybZn5zrBgo) | 4:46 | 2024-02-09 | 2024-04-12 |
 | [Kamu Bukan Kekasihku](https://open.spotify.com/track/7I20jfqXQo4F3VKUqF4luc) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1), [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8), [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Kamu Bukan Kekasihku](https://open.spotify.com/album/5xznSAiRmKYU5q1UxBKqG3) | 4:04 | 2026-07-02 | 2026-08-07 |
 | [Kamu Saja \- Kotakustik](https://open.spotify.com/track/7IcMiy5E4OvulOWoAuY1pD) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Kamu Saja \(Kotakustik\)](https://open.spotify.com/album/4rIX9raJPYv4CCEbqmvi2d) | 3:47 | 2024-06-27 | 2024-08-09 |
+| [Kan](https://open.spotify.com/track/1wFes72GQ7pyuW4dEZzNi8) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Kan](https://open.spotify.com/album/5VhkscZkP2TdsNtUAOP11u) | 3:24 | 2026-08-21 |  |
 | [Kapan?](https://open.spotify.com/track/6MKBKvgRLMHul5QP4Ch9h7) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:40 | 2025-02-25 | 2025-05-16 |
 | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/track/5B7qLPqBd0DxhDuK7VCPch) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/album/2Pi4XOJlOvbhNjd6Omnr2h) | 3:58 | 2024-01-26 | 2024-05-24 |
 | [Kasih Aba Aba](https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Kasih Aba Aba](https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM) | 2:56 | 2025-07-24 | 2026-01-30 |
@@ -322,6 +325,7 @@
 | [Kau Yang Utama](https://open.spotify.com/track/4po5wsoAaapTMy5IZ8JUq0) | [Syahrini](https://open.spotify.com/artist/1m4Yv3TVgz8GZG7OAMK7mA) | [Kau Yang Utama](https://open.spotify.com/album/41QHvtrcfthS2dDXN2Y9XQ) | 4:16 | 2026-08-07 |  |
 | [Kawin Lari](https://open.spotify.com/track/5WAJ1kIil0o08sVXUwG26o) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Gemini](https://open.spotify.com/album/3bQFQlIUQ6r9rJTUz7UFqE) | 3:23 | 2025-12-04 | 2026-02-06 |
 | [KECANDUAN](https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [KECANDUAN](https://open.spotify.com/album/3ocKWS6k7vfXQYVx8ahmxI) | 3:37 | 2024-10-24 | 2024-11-30 |
+| [Kecintaan](https://open.spotify.com/track/0mcC9UPHdPMaGCqdWuDh08) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Kecintaan](https://open.spotify.com/album/4rT5vnXVm17e8rGXilZ3ZF) | 3:29 | 2026-08-21 |  |
 | [Kehilanganmu](https://open.spotify.com/track/5oKVAqJAuq3QU2J30kNM1x) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Kehilanganmu](https://open.spotify.com/album/5G4bm1QpyhBjGv6B1kZ7Us) | 3:53 | 2024-05-09 | 2024-06-07 |
 | [Kekasih Seseorang \- Kotakustik](https://open.spotify.com/track/5qGDptJdZN6YxQk4L9X0zH) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Kekasih Seseorang \(Kotakustik\)](https://open.spotify.com/album/4XpV2OESSXOnbaf3TWcCxi) | 4:10 | 2024-06-06 | 2024-06-28 |
 | [Keliling](https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Keliling](https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx) | 2:59 | 2026-04-17 | 2026-07-10 |
@@ -717,6 +721,7 @@
 | [Terlalu Dalam](https://open.spotify.com/track/5DYth0Di3el4V56SGM3eva) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi) | [Terlalu Dalam](https://open.spotify.com/album/6ahJbgEWJBaTrSpy3RkQoR) | 3:17 | 2025-04-24 | 2025-06-06 |
 | [Ternyata](https://open.spotify.com/track/7MQW08eDg5CTLhtILqkKN7) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Ternyata](https://open.spotify.com/album/30gZnxUnWFrUpiwpTdzQZv) | 2:54 | 2024-06-27 | 2024-11-15 |
 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 | 2024-10-18 | 2026-01-30 |
+| [Terpesona](https://open.spotify.com/track/1iRDtYqkXpKfo5X0bXzWa2) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Josh Flo](https://open.spotify.com/artist/1N9oae6JjWPiMYrbhDpIdw) | [Terpesona](https://open.spotify.com/album/6EIeAiwGskDBWBQGy7PZIr) | 4:27 | 2026-08-21 |  |
 | [Terpikat Pada Cinta](https://open.spotify.com/track/0SqLgHSQzJoY42H6qek9XR) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Terpikat Pada Cinta](https://open.spotify.com/album/1BbbnT6zieG9F20Z63T8yX) | 4:10 | 2026-01-15 | 2026-03-14 |
 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 | 2024-07-04 | 2024-11-15 |
 | [Terserah](https://open.spotify.com/track/1OSg4uyjhjb5SMFeXAGC2i) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Terserah](https://open.spotify.com/album/7cclWVYR07f5NzewlRdfkd) | 4:00 | 2025-05-01 | 2025-08-08 |

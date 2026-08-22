@@ -1,12 +1,12 @@
 {
   "description": "Ny fredag og ny musik bl.a. fra Andreas Odbjerg & Medina, Nik & Jay og Sm\u00f8gm\u00e6nd \u2728",
-  "num_followers": 129115,
+  "num_followers": 129216,
   "original_name": "New Music Friday Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANi25uv4GD/DTZvIPeEWZvP/77DD",
+  "snapshot_id": "AAAAAGpcJaGAl827gdATA07kzXNkSVPp",
   "tracks": [
     {
       "added_at": "2026-08-20 22:00:57",
@@ -128,8 +128,8 @@
           "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 149000,
+      "name": "Gemen",
       "url": "https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr"
     },
     {
@@ -376,8 +376,8 @@
           "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 7",
+      "duration_ms": 180750,
+      "name": "Salpeter",
       "url": "https://open.spotify.com/track/59RRQ93Rs9jVHsXpbPV48t"
     },
     {
@@ -482,10 +482,14 @@
         {
           "name": "Klumben",
           "url": "https://open.spotify.com/artist/6l2TcYHKMr6XQn5hxfD48E"
+        },
+        {
+          "name": "Raske Penge",
+          "url": "https://open.spotify.com/artist/7fOvQFIRL7o1WGXujMXQ46"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 186671,
+      "name": "Det Sker Nu",
       "url": "https://open.spotify.com/track/6m0QFeVJ6LESE716MJ1AKG"
     },
     {
@@ -752,8 +756,8 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 144000,
+      "name": "NEED YOU",
       "url": "https://open.spotify.com/track/6lBHTQVgXXxGCm8q2UvAhu"
     },
     {
@@ -1180,8 +1184,8 @@
           "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 198500,
+      "name": "Sputnik",
       "url": "https://open.spotify.com/track/1H8iKS8vEeMpIUBeICLbyc"
     },
     {

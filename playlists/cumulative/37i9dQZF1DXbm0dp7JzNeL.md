@@ -4,7 +4,7 @@
 
 > Take comfort in these melancholy masterpieces.
 
-83 songs - 6 hr 23 min
+84 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bunte Blätter, Op\. 99: Fünf Albumblätter: No\. 4](https://open.spotify.com/track/0KxhcgyTMPW6GSUAPYR4T6) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Miniatures](https://open.spotify.com/album/2LhUNzatsH2xPnzbzkwdx8) | 2:29 | 2025-12-02 |  |
 | [Castor et Pollux, RCT 32, Acte I, Scène III: Prélude \- Air accompagné "Tristes apprêts"](https://open.spotify.com/track/5qzHbRSMvjufGp8oyMBWmi) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Teodor Currentzis](https://open.spotify.com/artist/2MMdTWWDamS8wyZJ6Hosch) | [Rameau \- The Sound of Light](https://open.spotify.com/album/5UwSjotNAyGJxOrB71mseq) | 7:33 | 2021-10-18 |  |
 | [Cathedral](https://open.spotify.com/track/4aWpPyXgZsRr2winLc0mjp) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Cathedral](https://open.spotify.com/album/7mMkDmzF5Cbz4MxZKkUEmw) | 5:40 | 2021-10-18 |  |
+| [Childhood](https://open.spotify.com/track/5UdAHGey3lg8HBmAgRzNop) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Childhood](https://open.spotify.com/album/2yS1sw7IMW7pRLZYhULYjK) | 1:52 | 2026-08-21 |  |
 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:26 | 2021-10-18 |  |
 | [Chopin: Nocturne No.1 in B flat minor, Op.9 No.1](https://open.spotify.com/track/6jgH6vB3M5wUCvy46vZnba) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [The Moonlight Sonata](https://open.spotify.com/album/1jeKChsYJLpa5X41zoRTGv) | 5:34 | 2022-10-04 | 2022-11-13 |
 | [Crisantemi](https://open.spotify.com/track/541xQgpeXQOsw696DYlXn5) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Brodsky Quartet](https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf) | [In the South](https://open.spotify.com/album/0H12Wm4LuQuGs2S9C5cBho) | 7:22 | 2021-10-18 |  |

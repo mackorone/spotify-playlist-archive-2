@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170431,
+  "num_followers": 170427,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMEDM5ZJALqP7waw7974wHbPVCiW",
+  "snapshot_id": "AAAAAHgtYpum1TIsXvSa7EXbN2ClMn/8",
   "tracks": [
     {
       "added_at": "2025-09-02 20:08:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Wildflowers in the Graveyard",
         "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 180977,
       "name": "Wildflowers in the Graveyard",
       "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 286139,
-      "name": "Bullet Holes in the Sky",
-      "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Come and Fill My Soul",
         "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 223418,
       "name": "Come and Fill My Soul",
       "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 286139,
+      "name": "Bullet Holes in the Sky",
+      "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Before I Go",
-        "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
-      },
-      "artists": [
-        {
-          "name": "Ordinary Elephant",
-          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Spinning Plates",
         "url": "https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 166324,
       "name": "Spinning Plates",
       "url": "https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Elephant",
+          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "From Where I Started",
-        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
+        "name": "The Ocean",
+        "url": "https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc"
       },
       "artists": [
         {
-          "name": "Sera Cahoone",
-          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
+          "name": "Wallis Bird",
+          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Time to Give",
-      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
+      "duration_ms": 201294,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG"
     }
   ],
   "unique_name": "Contemporary Folk",

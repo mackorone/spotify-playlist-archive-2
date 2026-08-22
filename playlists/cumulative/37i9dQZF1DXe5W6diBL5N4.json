@@ -32249,6 +32249,24 @@
     },
     {
       "album": {
+        "name": "THE SIN : BLISS",
+        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Bloody Paradise",
+      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
+    },
+    {
+      "album": {
         "name": "The First Bloom",
         "url": "https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S"
       },
@@ -197219,6 +197237,24 @@
     },
     {
       "album": {
+        "name": "Summer.zip (2)",
+        "url": "https://open.spotify.com/album/3PP4JzoEFQBMCJqCEo4a4W"
+      },
+      "artists": [
+        {
+          "name": "Kim Min Seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Our Youth!",
+      "url": "https://open.spotify.com/track/60OeXiAejO8R5QIRvaYKkh"
+    },
+    {
+      "album": {
         "name": "Our, Season",
         "url": "https://open.spotify.com/album/3DA5e1REKCImBGcgpykYEJ"
       },
@@ -212686,7 +212722,7 @@
       },
       "artists": [
         {
-          "name": "Younghyun Yoo",
+          "name": "Yoo Younghyun",
           "url": "https://open.spotify.com/artist/2CZcvfL8q1I7VJuRjymxzm"
         }
       ],

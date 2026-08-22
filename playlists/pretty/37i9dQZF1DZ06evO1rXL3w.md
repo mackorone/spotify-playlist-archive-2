@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rXL3w.md) - [plain]
 | 23 | [A Gift For Edwina \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:01 |
 | 24 | [Almost Kiss \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:23 |
 
-Snapshot ID: `aoTyAAAAAAA9wRcUeK2SVCAA3QPNzxz6`
+Snapshot ID: `aoZDgAAAAADyjhKa/EGpYYvvOGqtDV19`

@@ -3885,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "Creepy",
+        "url": "https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn"
+      },
+      "artists": [
+        {
+          "name": "Soraya Cinema",
+          "url": "https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140211,
+      "name": "Creepy",
+      "url": "https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW"
+    },
+    {
+      "album": {
         "name": "crickets!!!",
         "url": "https://open.spotify.com/album/7LvJPylY82V3nH6M7a5u8k"
       },

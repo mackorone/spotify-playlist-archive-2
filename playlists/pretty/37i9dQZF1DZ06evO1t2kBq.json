@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 86512,
+  "num_followers": 86523,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAARj3HYEK09mLJU+eiVP02k",
+  "snapshot_id": "aoZDgAAAAADbbywtTXbLW2mM9SpRu2XF",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 122813,
-      "name": "Recipe For Hate",
-      "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Maps of Hell (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 167946,
       "name": "New Dark Ages",
       "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 122813,
+      "name": "Recipe For Hate",
+      "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 182760,
-      "name": "Anesthesia",
-      "url": "https://open.spotify.com/track/59ojk4py5trvRvdZeIolNa"
+      "duration_ms": 117333,
+      "name": "Modern Man",
+      "url": "https://open.spotify.com/track/4OPFX9TRHlEz1M5JGCvoiL"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 117333,
-      "name": "Modern Man",
-      "url": "https://open.spotify.com/track/4OPFX9TRHlEz1M5JGCvoiL"
+      "duration_ms": 182760,
+      "name": "Anesthesia",
+      "url": "https://open.spotify.com/track/59ojk4py5trvRvdZeIolNa"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 164489,
-      "name": "What Can You Do?",
-      "url": "https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stranger Than Fiction",
         "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 157000,
       "name": "Tiny Voices",
       "url": "https://open.spotify.com/track/1XrTWPYZbc0yLpBLY3rKD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 164489,
+      "name": "What Can You Do?",
+      "url": "https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG"
     },
     {
       "added_at": null,

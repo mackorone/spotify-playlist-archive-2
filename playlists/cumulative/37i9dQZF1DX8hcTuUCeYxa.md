@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Balu Brigada
 
-3,238 songs - 7 day 18 hr 31 min
+3,238 songs - 7 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1664,6 +1664,7 @@
 | [Lonely in the Future](https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 3:20 | 2026-07-23 | 2026-08-21 |
 | [Long Dark Night](https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Long Dark Night](https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde) | 3:33 | 2024-07-25 | 2024-08-16 |
 | [Long Distance Runner](https://open.spotify.com/track/4v1XG23HwVQeAvLJh5qbC2) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Long Distance Runner](https://open.spotify.com/album/74WyXhsYem5IG2fzCL3W3z) | 3:10 | 2024-09-12 | 2024-10-04 |
+| [Long Lonely Road](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 4:20 | 2026-08-20 |  |
 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 | 2024-07-18 | 2024-07-27 |
 | [LOOK AT ME NOW](https://open.spotify.com/track/6IraRg9IXmZOfKjOuYpfRE) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [LOOK AT ME NOW](https://open.spotify.com/album/1DnIbvekylJbyzXKWGMSk4) | 2:44 | 2024-07-04 | 2024-07-19 |
 | [Look Good](https://open.spotify.com/track/0ndws4o3sb8Rs4azHkFP5Y) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp), [Tameca Jones](https://open.spotify.com/artist/5irHweR0nrxBHwB6WiFN3L), [Jessie Payo](https://open.spotify.com/artist/3kSM7OQ4gOhKDxvog4rFyu) | [Look Good](https://open.spotify.com/album/0fMN7K09zJrRnfBGwWk3t8) | 3:36 | 2024-11-14 | 2024-11-29 |
@@ -2924,7 +2925,6 @@
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-26 |
-| [Track 6](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 0:00 | 2026-08-20 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

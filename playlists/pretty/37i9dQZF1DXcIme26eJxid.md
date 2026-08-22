@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,266 likes - 40 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,309 likes - 40 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 39 | [Bonde](https://open.spotify.com/track/5xH0qbaqtzc2onO0XC2Ywu) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu](https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF) | 5:28 |
 | 40 | [Akula Owu Onyeara](https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 7:28 |
 
-Snapshot ID: `AAAAAM2NLLuTWJmZ0JVAUm7KqOhmFmYW`
+Snapshot ID: `AAAAAM1UbhsYynTjbtkWFAoUrrCb7C5k`

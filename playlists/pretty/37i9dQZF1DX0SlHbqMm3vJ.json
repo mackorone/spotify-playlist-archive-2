@@ -1,12 +1,12 @@
 {
   "description": "Sweet afro melodies. Cover: Soundzz",
-  "num_followers": 266160,
+  "num_followers": 266168,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPgoR8bgsG1Dm6dNMkTRz4SEtwj7",
+  "snapshot_id": "AAAAANMxFpEM2wwtqRl1WDtsox4m/dXK",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:45",
@@ -439,42 +439,6 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
-        "name": "STATE OF MIND",
-        "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 192227,
-      "name": "STATE OF MIND",
-      "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 143644,
-      "name": "Wa",
-      "url": "https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
       },
@@ -495,6 +459,42 @@
       "duration_ms": 224684,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 143644,
+      "name": "Wa",
+      "url": "https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
+        "name": "STATE OF MIND",
+        "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 192227,
+      "name": "STATE OF MIND",
+      "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
-        "name": "Wrong Places",
-        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+        "name": "Where Did Love Go?",
+        "url": "https://open.spotify.com/album/5xWSSeDji25D0lKQS66JyS"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+      "duration_ms": 154077,
+      "name": "Adaeze",
+      "url": "https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
-        "name": "Where Did Love Go?",
-        "url": "https://open.spotify.com/album/5xWSSeDji25D0lKQS66JyS"
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 154077,
-      "name": "Adaeze",
-      "url": "https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20"
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -1259,6 +1259,22 @@
       "duration_ms": 194436,
       "name": "Toro - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
-        "name": "Break Me Down",
-        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
         "name": "Get 2 Know",
         "url": "https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
-        "name": "Uche Jumbo",
-        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 148269,
-      "name": "Uche Jumbo",
-      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
         "name": "OMO TI O COMMON",
         "url": "https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 174174,
       "name": "OMO TI O COMMON",
       "url": "https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
+        "name": "Uche Jumbo",
+        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 148269,
+      "name": "Uche Jumbo",
+      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
     },
     {
       "added_at": "2026-08-21 00:01:45",

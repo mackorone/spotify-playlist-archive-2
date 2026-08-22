@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Jan Roberts",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Kenaniah",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/7FvZaWjqDg6MHAtflcVPV1"
+      },
+      "artists": [
+        {
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219061,
+      "name": "Awit ng Pag-ibig",
+      "url": "https://open.spotify.com/track/067MuzlHQlDtrNwqPsuhFk"
+    },
+    {
+      "album": {
         "name": "Awitin Mo, Isasayaw Ko",
         "url": "https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi"
       },
@@ -2097,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Baybayin",
+        "url": "https://open.spotify.com/album/5qAf6r5tUzxFwbJcrkV2lX"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241832,
+      "name": "Baybayin",
+      "url": "https://open.spotify.com/track/3lTIfdqjwxXNCZIajVZ3Sd"
+    },
+    {
+      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/1iVwS9MFswan5ib1OQK4rc"
       },
@@ -2166,7 +2202,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 144718,
       "name": "Before You Left",
       "url": "https://open.spotify.com/track/6Bn2bgzn1Ak410q7AC6qBc"
@@ -2653,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Bugsay",
+        "url": "https://open.spotify.com/album/2kMKMsLHZv71pcFNM6L6CB"
+      },
+      "artists": [
+        {
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Bugsay",
+      "url": "https://open.spotify.com/track/0GD7H9Fw3800fIr27luwI6"
+    },
+    {
+      "album": {
         "name": "Bulaklak Sa Buwan",
         "url": "https://open.spotify.com/album/0NVm3LxQUZZwCb4vSSbef9"
       },
@@ -3061,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6fWc51QIkVlqhVjMRQn4rb"
+      },
+      "artists": [
+        {
+          "name": "Stell",
+          "url": "https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193913,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/42dPVlqbsRmQCtGzm2N606"
+    },
+    {
+      "album": {
         "name": "Crisostomo",
         "url": "https://open.spotify.com/album/4OY0wYFGnYZMWRkFyZEV22"
       },
@@ -3396,6 +3468,28 @@
       "duration_ms": 184178,
       "name": "Dapit hapon",
       "url": "https://open.spotify.com/track/0FmXwwndEuzyug70tZZLkQ"
+    },
+    {
+      "album": {
+        "name": "Dapit Hapon",
+        "url": "https://open.spotify.com/album/5Sbome4yMoei2michARZB2"
+      },
+      "artists": [
+        {
+          "name": "Jose At Melodiya",
+          "url": "https://open.spotify.com/artist/5Lr7OYrBSUhC4I8nGHutjd"
+        },
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280501,
+      "name": "Dapit Hapon",
+      "url": "https://open.spotify.com/track/2fLtn1PrNgT8BEVEdZBIom"
     },
     {
       "album": {
@@ -4218,7 +4312,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 260000,
       "name": "Elyu",
       "url": "https://open.spotify.com/track/2iznESfS1IEQFo9zniEWBk"
@@ -6844,7 +6938,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 195176,
       "name": "Ikot Ulit",
       "url": "https://open.spotify.com/track/5QlpqcwEcDGUj8v1zmzZGc"
@@ -7036,6 +7130,24 @@
       "duration_ms": 205013,
       "name": "Isang Sandali Pa",
       "url": "https://open.spotify.com/track/48SAJX6sI7Xaeb3XH3jp84"
+    },
+    {
+      "album": {
+        "name": "It's Not the Same as It Used to Be",
+        "url": "https://open.spotify.com/album/48ltgfaI18H7l5lyHoXR7s"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230070,
+      "name": "It's Not the Same as It Used to Be",
+      "url": "https://open.spotify.com/track/0REgMRNq5N9LcepxTXQnlG"
     },
     {
       "album": {
@@ -8628,7 +8740,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 205482,
       "name": "LANGYA",
       "url": "https://open.spotify.com/track/1uFqhAC27iQLPB3I0L7ewV"
@@ -10327,6 +10439,24 @@
     },
     {
       "album": {
+        "name": "Millionz",
+        "url": "https://open.spotify.com/album/1i6350vDfRmlOozvH0OZQr"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Millionz",
+      "url": "https://open.spotify.com/track/35nnC1CkiFCnfhCuEIfJQx"
+    },
+    {
+      "album": {
         "name": "minsan",
         "url": "https://open.spotify.com/album/0UEnA632PuAMWkvPkwYqrP"
       },
@@ -10736,7 +10866,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 273616,
       "name": "Muntikan",
       "url": "https://open.spotify.com/track/4Y4hZxwU3WXfydWoUZs3FO"
@@ -13132,7 +13262,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 186000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6R8WzI0A00AWtX3vw6PNFM"
@@ -14418,6 +14548,24 @@
       "duration_ms": 161739,
       "name": "RIDE",
       "url": "https://open.spotify.com/track/2Ne8TpsDAs3dHrNpPqkd2v"
+    },
+    {
+      "album": {
+        "name": "Ride Slow",
+        "url": "https://open.spotify.com/album/47aXAOxiP01Y1jR0SCgxeT"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Ride Slow",
+      "url": "https://open.spotify.com/track/5JKb9yr5pvdphnWdn4KILp"
     },
     {
       "album": {
@@ -15979,6 +16127,28 @@
     },
     {
       "album": {
+        "name": "SINAYANG MO",
+        "url": "https://open.spotify.com/album/0whfWV03SIkgggiwxATXRl"
+      },
+      "artists": [
+        {
+          "name": "Paul N Ballin",
+          "url": "https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu"
+        },
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300472,
+      "name": "SINAYANG MO",
+      "url": "https://open.spotify.com/track/2en7U6rrWfZomS9y7AWleC"
+    },
+    {
+      "album": {
         "name": "Sindi",
         "url": "https://open.spotify.com/album/1wHNPtUMR0d94CNaSxbds1"
       },
@@ -16186,7 +16356,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 185571,
       "name": "SKUH",
       "url": "https://open.spotify.com/track/4Esh9lfVFjWxiEkgo9Zerf"
@@ -16424,7 +16594,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 208615,
       "name": "Still Missing",
       "url": "https://open.spotify.com/track/1kYQKiIcKlb50gdGV0bQgI"
@@ -16804,7 +16974,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 218500,
       "name": "Superstar Ng Buhay Ko",
       "url": "https://open.spotify.com/track/5tAUqKWw1UzfCnu5ygOZER"
@@ -16938,7 +17108,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 178000,
       "name": "Sweetheart",
       "url": "https://open.spotify.com/track/1TTf6NBLl8IVsaK4NRJZxt"
@@ -18038,7 +18208,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 237498,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/4D8882PWhjoGFfHdKN93Ha"
@@ -18114,6 +18284,24 @@
       "duration_ms": 173500,
       "name": "TORPE",
       "url": "https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw"
+    },
+    {
+      "album": {
+        "name": "Totoong tayo",
+        "url": "https://open.spotify.com/album/5Ftd3Rg6FB7A0cvmDMyShR"
+      },
+      "artists": [
+        {
+          "name": "Jin DC",
+          "url": "https://open.spotify.com/artist/4aYM8Vij7I9a2VLcAPJ6Y2"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227764,
+      "name": "Totoong tayo",
+      "url": "https://open.spotify.com/track/3Fu4WzdH4SpUUPLroN4qyS"
     },
     {
       "album": {

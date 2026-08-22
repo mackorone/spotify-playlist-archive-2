@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Naya Hip-Hop Hindi! Cover: J Trix",
+  "description": "Naya Hip-Hop Hindi! Cover: Tarun Music",
   "name": "New Rap Hindi",
   "tracks": [
     {
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 195331,
       "name": "7 Peti",
       "url": "https://open.spotify.com/track/2HvNHERjwxSpi8b9N2FK2f"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 136083,
       "name": "About Time",
       "url": "https://open.spotify.com/track/55NAIhyWMkiiHYOomTf4cc"
@@ -3483,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "Kesar",
+        "url": "https://open.spotify.com/album/5JAALuH5NDnHyuTcfXeK1J"
+      },
+      "artists": [
+        {
+          "name": "Nunchux",
+          "url": "https://open.spotify.com/artist/2rfcMsdqqozPSJA046yQ6u"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141089,
+      "name": "Baaju",
+      "url": "https://open.spotify.com/track/0Ez2AiyKVWeS8yWfB4YdZj"
+    },
+    {
+      "album": {
         "name": "Baap Tera Kaun Hai",
         "url": "https://open.spotify.com/album/2IODkuDqDeCc3reM5Xq1BG"
       },
@@ -4133,6 +4151,32 @@
     },
     {
       "album": {
+        "name": "Bag",
+        "url": "https://open.spotify.com/album/3GuZ1wwmI3uHR8gwfMu8HU"
+      },
+      "artists": [
+        {
+          "name": "Akkshay",
+          "url": "https://open.spotify.com/artist/2HqNjqRBRWwVQqZcTKLUX8"
+        },
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        },
+        {
+          "name": "R.Phenom",
+          "url": "https://open.spotify.com/artist/4ldHdtJYKi8TydbNiJtAx6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234663,
+      "name": "Bag",
+      "url": "https://open.spotify.com/track/1eJ89RHwP9Yu5TbPaw10t6"
+    },
+    {
+      "album": {
         "name": "Fauji 2",
         "url": "https://open.spotify.com/album/6cxpqLhzdx09wp7qRfLp8B"
       },
@@ -4460,7 +4504,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 133680,
       "name": "Banger",
       "url": "https://open.spotify.com/track/1F6AR7nYIjjZRpelsaoIr0"
@@ -8490,7 +8534,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 136082,
       "name": "Charo Kone Chit",
       "url": "https://open.spotify.com/track/6nGguegAdBofPXJnPGjRK1"
@@ -12703,6 +12747,28 @@
     },
     {
       "album": {
+        "name": "Expressway (The City, My Love)",
+        "url": "https://open.spotify.com/album/5a7gvtB6nJ0cDWkjUmU2oa"
+      },
+      "artists": [
+        {
+          "name": "A. Roy",
+          "url": "https://open.spotify.com/artist/5yuvvzCcU468rrQEWLEqUf"
+        },
+        {
+          "name": "Satyakam",
+          "url": "https://open.spotify.com/artist/6jkWTTFOItrrcOmkVMcJKh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Expressway (The City, My Love)",
+      "url": "https://open.spotify.com/track/2kfjiXoCHX2oPRBGmxHvD2"
+    },
+    {
+      "album": {
         "name": "Legacy Chapter 1, Vol. 2",
         "url": "https://open.spotify.com/album/0DquwXHD2YHMYVXiZIKQA6"
       },
@@ -12758,7 +12824,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 105932,
       "name": "F.T.D (FRESH TO DEATH)",
       "url": "https://open.spotify.com/track/7LfTo4euF0SP3a76KJAEri"
@@ -13114,6 +13180,28 @@
       "duration_ms": 178983,
       "name": "Farq Hai Kya",
       "url": "https://open.spotify.com/track/2qVAByG5ipQSGlzQfa1Fea"
+    },
+    {
+      "album": {
+        "name": "Hustle 5 - Episode 3",
+        "url": "https://open.spotify.com/album/2noBwTxLXKo9OJdSxJb8PT"
+      },
+      "artists": [
+        {
+          "name": "Anushka Baduwal",
+          "url": "https://open.spotify.com/artist/1zB96p9vWvDwHXLpWFJjtp"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191860,
+      "name": "Fasana",
+      "url": "https://open.spotify.com/track/4x2vsptUkt5m6dYZUWsUyC"
     },
     {
       "album": {
@@ -13898,6 +13986,24 @@
       "duration_ms": 182067,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/1JCYIqHeyFZ2TLrfoGLAlH"
+    },
+    {
+      "album": {
+        "name": "Frustrated",
+        "url": "https://open.spotify.com/album/6DHmGtb7mIZaeIACZHuBlk"
+      },
+      "artists": [
+        {
+          "name": "Tarun Music",
+          "url": "https://open.spotify.com/artist/0QxsEeUCnpK9Qtc8PHPv39"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122727,
+      "name": "Frustrated",
+      "url": "https://open.spotify.com/track/6UNW1wQiaBcG5trYjIeW7o"
     },
     {
       "album": {
@@ -17421,6 +17527,28 @@
     },
     {
       "album": {
+        "name": "Hustle 5 - Episode 4",
+        "url": "https://open.spotify.com/album/0tIyJ41YCaAb56dsmRbhEp"
+      },
+      "artists": [
+        {
+          "name": "Siroyi",
+          "url": "https://open.spotify.com/artist/306lommsDZyts5VuMuVzEC"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136119,
+      "name": "I Go Boom!",
+      "url": "https://open.spotify.com/track/7a4kNH1v5k9zlBBN3pmmGW"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk"
       },
@@ -17712,7 +17840,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 127846,
       "name": "Im RARE 1",
       "url": "https://open.spotify.com/track/6erTrCpfYrqfjvP4Vw1evI"
@@ -18220,6 +18348,28 @@
       "duration_ms": 225000,
       "name": "Itachi & Madara",
       "url": "https://open.spotify.com/track/5vN4OfBFvIV8xpLwY2z8DQ"
+    },
+    {
+      "album": {
+        "name": "Legacy Chapter 2, Vol. 4",
+        "url": "https://open.spotify.com/album/1Nb44fKrMa5hjo1iOR4e08"
+      },
+      "artists": [
+        {
+          "name": "Gamak Sinha",
+          "url": "https://open.spotify.com/artist/00v0ikNAVir1zSGQLpc1vF"
+        },
+        {
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138580,
+      "name": "Ja Ja Re Ja",
+      "url": "https://open.spotify.com/track/6Cc5avrjDIXhye3HH4Dw2A"
     },
     {
       "album": {
@@ -20822,10 +20972,32 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 149211,
       "name": "Khat",
       "url": "https://open.spotify.com/track/7qI6hjHLxM4Wq0U6SeKxoA"
+    },
+    {
+      "album": {
+        "name": "KHATRI",
+        "url": "https://open.spotify.com/album/69sRZNsiulk3hVQkJOoSK1"
+      },
+      "artists": [
+        {
+          "name": "KRasR Officials",
+          "url": "https://open.spotify.com/artist/46yJlVJ9mExCBF1GGoUoh8"
+        },
+        {
+          "name": "Max Musix",
+          "url": "https://open.spotify.com/artist/19tc3xCdRUclKlYa8aNsqp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104449,
+      "name": "KHATRI",
+      "url": "https://open.spotify.com/track/1HSFxuGk8lDxbjfNrdq5XD"
     },
     {
       "album": {
@@ -22714,7 +22886,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 223384,
       "name": "letter.",
       "url": "https://open.spotify.com/track/0Wd345qDbr1bDOUPFKps9Y"
@@ -24654,7 +24826,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 152571,
       "name": "Me, Myself & I",
       "url": "https://open.spotify.com/track/2GaeQR73Rl1vfB7TISD8Sh"
@@ -25770,6 +25942,28 @@
       "duration_ms": 171787,
       "name": "MUDDA (feat. Seedhe Maut)",
       "url": "https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX"
+    },
+    {
+      "album": {
+        "name": "Legacy Chapter 2, Vol. 4",
+        "url": "https://open.spotify.com/album/1Nb44fKrMa5hjo1iOR4e08"
+      },
+      "artists": [
+        {
+          "name": "KNSS",
+          "url": "https://open.spotify.com/artist/7mUW6AyQPVKtqTfKB1q4Fe"
+        },
+        {
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "Mufasa",
+      "url": "https://open.spotify.com/track/7cI1KaRkuw2FDuuZN7p5VX"
     },
     {
       "album": {
@@ -27769,6 +27963,24 @@
     },
     {
       "album": {
+        "name": "NOT FOR SALE",
+        "url": "https://open.spotify.com/album/4HFGNORRMCK8chtooYGcw2"
+      },
+      "artists": [
+        {
+          "name": "Official Bhagat",
+          "url": "https://open.spotify.com/artist/0kja6sFd8iQGox9khkgnb6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162220,
+      "name": "NOT FOR SALE",
+      "url": "https://open.spotify.com/track/1zvg6ns71y63XuDEAk1ZFK"
+    },
+    {
+      "album": {
         "name": "Not Found",
         "url": "https://open.spotify.com/album/5aCBuYWe9CqWkYsF1zR68A"
       },
@@ -28066,7 +28278,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 102975,
       "name": "on board.",
       "url": "https://open.spotify.com/track/0JqouxkqK2OH6DBC0HEI8m"
@@ -28834,7 +29046,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 151603,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/717G4nrMJXUKb1LSuKstQX"
@@ -30336,7 +30548,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 148085,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/7FUrGJG0ewuuBDtC4qOumN"
@@ -31435,6 +31647,28 @@
     },
     {
       "album": {
+        "name": "Hustle 5 - Episode 3",
+        "url": "https://open.spotify.com/album/2noBwTxLXKo9OJdSxJb8PT"
+      },
+      "artists": [
+        {
+          "name": "harmeeet",
+          "url": "https://open.spotify.com/artist/00yJW4uOXKxqrJiLoilykF"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257685,
+      "name": "Roti",
+      "url": "https://open.spotify.com/track/209cfRzZl291GU91yGHrle"
+    },
+    {
+      "album": {
         "name": "Royal Bengal Tiger",
         "url": "https://open.spotify.com/album/5TZNS7zteEfVsDSQcQaPBh"
       },
@@ -31776,6 +32010,28 @@
       "duration_ms": 174461,
       "name": "Sadakchaap",
       "url": "https://open.spotify.com/track/4ErvgXbwLEgDpEjskfuUBe"
+    },
+    {
+      "album": {
+        "name": "SAFAL (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/2DuekyAhrZTZxAoGR1Z0RW"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "MEMAX",
+          "url": "https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "SAFAL - Red Bull 64 Bars",
+      "url": "https://open.spotify.com/track/1Rc8HH8HNlclwmvobJD2WK"
     },
     {
       "album": {
@@ -38437,6 +38693,28 @@
     },
     {
       "album": {
+        "name": "Hustle 5 - Episode 4",
+        "url": "https://open.spotify.com/album/0tIyJ41YCaAb56dsmRbhEp"
+      },
+      "artists": [
+        {
+          "name": "TXAMA",
+          "url": "https://open.spotify.com/artist/2yfl7hkW2xG0N3bmRhAwco"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159673,
+      "name": "Where you from?",
+      "url": "https://open.spotify.com/track/0PBDdWudYhGuRcfzViymQx"
+    },
+    {
+      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/7sh13WBnrAbY9KOSEm26PK"
       },
@@ -38452,7 +38730,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 197571,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/3SxJrzszXvHrNrqC4nkfZq"

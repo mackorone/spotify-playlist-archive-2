@@ -1154,7 +1154,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 127493,
-      "name": "AL ME LADIES (feat. Scarface)",
+      "name": "AL ME LADIES",
       "url": "https://open.spotify.com/track/5xatt9NJdj7mAYE5ZxrpPo"
     },
     {
@@ -7418,6 +7418,28 @@
       "duration_ms": 174628,
       "name": "Cash Flow (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
+    },
+    {
+      "album": {
+        "name": "Giv Dem Wha Dey Wan",
+        "url": "https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Iamroyston",
+          "url": "https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Catch a Fire",
+      "url": "https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx"
     },
     {
       "album": {
@@ -36170,24 +36192,6 @@
       "duration_ms": 194395,
       "name": "Tra",
       "url": "https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo"
-    },
-    {
-      "album": {
-        "name": "Giv Dem Wha Dey Wan",
-        "url": "https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf"
-      },
-      "artists": [
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx"
     },
     {
       "album": {

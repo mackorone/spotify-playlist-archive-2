@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,584 likes - 1,143 songs - 2 day 23 hr 50 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,583 likes - 1,151 songs - 3 day 0 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1151,5 +1151,13 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1141 | [Tattoo My Brain](https://open.spotify.com/track/6qI054w5q3vUtzi3YlTNXq) | [Dead End Road](https://open.spotify.com/artist/2G7nnTPUdpp1HPhHrdQro5) | [Tattoo My Brain](https://open.spotify.com/album/7neWWsrJvASLW6ga1IApAq) | 2:25 |
 | 1142 | [MENTAL BREAKDOWN](https://open.spotify.com/track/4b8c8onEYWRBFcK7nMpscR) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [MENTAL BREAKDOWN](https://open.spotify.com/album/63z0XcSxHUDp6amwElKGB4) | 4:02 |
 | 1143 | [Nothing Is Real](https://open.spotify.com/track/6NeUtmPROc6rT8xt78cKzu) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Nothing Is Real](https://open.spotify.com/album/3NAI2vEVtyJr9sQ3zSaJwk) | 2:51 |
+| 1144 | [Get Worse Soon](https://open.spotify.com/track/34VsVSoaHcl0c9QSsFedLV) | [Slowed Up](https://open.spotify.com/artist/322hiAyKX25U5hnT3S4qqy) | [Get Worse Soon](https://open.spotify.com/album/0SJOMDFxetvgcJGDr7NBf0) | 2:45 |
+| 1145 | [back again](https://open.spotify.com/track/6yD4FoZeOPQyPsyMuupj9m) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [pretty privilege](https://open.spotify.com/album/3Tkx5BQlPnMJLvCcr8IvOG) | 2:55 |
+| 1146 | [Sandy View](https://open.spotify.com/track/0LvKKRrH9aLHbtoBTT1woO) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [Sandy View](https://open.spotify.com/album/1NfxlWmj9ay1LHwj2LfXAM) | 4:22 |
+| 1147 | [0427](https://open.spotify.com/track/40OJZpW2Gm6OuuH4I7b9wW) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj), [Szökőcs Dani](https://open.spotify.com/artist/0NSrOFFEqt4XWQdOK7sbS9) | [0427](https://open.spotify.com/album/48kbOZxIKTknWmbmBuQ4aM) | 3:10 |
+| 1148 | [Seijaku](https://open.spotify.com/track/7KUFKnUnnf2hSULPu1fDPu) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Midnight Star](https://open.spotify.com/album/1ikJ7Zzbj0fdGd6375nlKX) | 1:27 |
+| 1149 | [Summer Fling](https://open.spotify.com/track/3LTaQWHU0KhsxNpayeYgVM) | [Four Stars](https://open.spotify.com/artist/2tdl7uw2qVGiuAk0AjUpGG), [Hardly](https://open.spotify.com/artist/2qvaUQfA66ZSHlifxxvGr3) | [Summer Fling](https://open.spotify.com/album/7b8nvJlo0Q46vlGYTst6sH) | 2:50 |
+| 1150 | [Lift Me Up](https://open.spotify.com/track/6MS9JFqZY2bxILcwyr3n5n) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [Lift Me Up](https://open.spotify.com/album/44YEDKM5XEB1MbzyeiGYqe) | 4:03 |
+| 1151 | [Time](https://open.spotify.com/track/60J0FaM0STeb72RTyIXKbf) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Time](https://open.spotify.com/album/5GCWSi13Cx0ggZKxr4CJFc) | 4:11 |
 
-Snapshot ID: `AAAEoYMaqxJ+ojaiDkMtCH8DLXE8ma0f`
+Snapshot ID: `AAAEqfJeEMv1AbCXRf4KNTp1SBFES+kv`

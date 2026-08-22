@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Keith Urban
 
-470 songs - 1 day 5 hr 21 min
+471 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Circles](https://open.spotify.com/track/0xESLu1HGNj3xrvsmU0XMO) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q) | [Circles](https://open.spotify.com/album/7ByBR4dghH8plBWsCl9hBy) | 3:18 | 2023-01-06 | 2023-06-03 |
 | [Circles](https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Circles](https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK) | 3:14 | 2021-12-10 | 2024-09-28 |
 | [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 | 2023-12-01 |  |
+| [Colors of the Wind](https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Colors of the Wind](https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj) | 3:56 | 2026-08-21 |  |
 | [Come Fly with Me](https://open.spotify.com/track/7C1HA5sMYMZAZ1yvIOZ1Qw) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Let's Be Frank](https://open.spotify.com/album/62pT5GFAvi6n5RYrb7Yhkt) | 3:10 | 2022-01-07 | 2022-07-29 |
 | [Coming Home](https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:33 | 2021-12-10 | 2022-09-10 |
 | [Complicated](https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Complicated](https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL) | 3:24 | 2025-12-12 |  |
@@ -184,7 +185,7 @@
 | [I Love It](https://open.spotify.com/track/4ySGtPaKx0ArYk98dcTY3T) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 2:54 | 2025-08-14 |  |
 | [I Love You Always Forever \- Acoustic](https://open.spotify.com/track/0tmIGE20GvacDymC1UEgbY) | [Everly Fair](https://open.spotify.com/artist/3x9nHuhEIv8DT7PYbyO4EE) | [I Love You Always Forever \(Acoustic\)](https://open.spotify.com/album/71wnYe7sliuqQdXMTOPa8u) | 2:40 | 2024-02-02 | 2024-08-03 |
 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo) | 4:47 | 2022-04-08 | 2022-06-12 |
-| [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 | 2021-12-10 |  |
+| [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 | 2021-12-10 | 2026-08-22 |
 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:19 | 2021-12-10 |  |
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z) | [Mark Jones & Twenty Paces](https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04) | [I Wanna Dance with Somebody](https://open.spotify.com/album/2dSPh8OT5darQS6HXbs84K) | 3:11 | 2022-05-27 | 2022-11-12 |
 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 | 2022-10-03 | 2024-08-03 |

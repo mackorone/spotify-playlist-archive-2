@@ -4021,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "Record Queen",
+        "url": "https://open.spotify.com/album/2PZ4AIEKtnUXGgZwRuQdRJ"
+      },
+      "artists": [
+        {
+          "name": "Sturgeon",
+          "url": "https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155564,
+      "name": "Record Queen",
+      "url": "https://open.spotify.com/track/44CQduAvXGeiQ74n9hMmIk"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6"
       },

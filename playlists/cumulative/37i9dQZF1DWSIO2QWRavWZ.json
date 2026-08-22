@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover:  Tiana Major9",
+  "description": "New music from your favorite women.  Cover: Jorja Smith",
   "name": "Queen",
   "tracks": [
     {
@@ -634,6 +634,24 @@
       "duration_ms": 161250,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/6npIJHWS9JdGzQLEGJhaqW"
+    },
+    {
+      "album": {
+        "name": "All Of The Above",
+        "url": "https://open.spotify.com/album/2Wgf5ztPg8rOcpB8sVCmf6"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210115,
+      "name": "All Of The Above",
+      "url": "https://open.spotify.com/track/3r5Jp1mEgZj7W5yX5NQ1BE"
     },
     {
       "album": {
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 151951,
       "name": "Body So Tea",
       "url": "https://open.spotify.com/track/2V1ne5a2MBngWduIph5pqg"
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 153312,
       "name": "Crashing Out!",
       "url": "https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt"
@@ -3535,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "What Are The Odds",
+        "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161784,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI"
+    },
+    {
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -3720,6 +3756,28 @@
       "duration_ms": 233544,
       "name": "DID YOU MOVE?",
       "url": "https://open.spotify.com/track/5qAJU71AfadQO8VrmZuujG"
+    },
+    {
+      "album": {
+        "name": "Didn't Mean To Turn You On (with Rochelle Jordan)",
+        "url": "https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Didn't Mean To Turn You On - with Rochelle Jordan",
+      "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
     },
     {
       "album": {
@@ -5381,6 +5439,24 @@
     },
     {
       "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "Gentlewoman",
+      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
+    },
+    {
+      "album": {
         "name": "Au",
         "url": "https://open.spotify.com/album/2ddqwkTKxHVWweH5t1y1Ll"
       },
@@ -6339,6 +6415,24 @@
     },
     {
       "album": {
+        "name": "HONEYMOON",
+        "url": "https://open.spotify.com/album/2MB8L7pWjQ99nF9If8JTmY"
+      },
+      "artists": [
+        {
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "HONEYMOON",
+      "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
+    },
+    {
+      "album": {
         "name": "Hookah Baby",
         "url": "https://open.spotify.com/album/0JNWe4nvM807Bw5qMO3Me0"
       },
@@ -6780,7 +6874,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 203192,
       "name": "I Lied, You Lied",
       "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
@@ -7502,6 +7596,24 @@
       "duration_ms": 140148,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4H7FGmMhIxBNKYMjqgqOpp"
+    },
+    {
+      "album": {
+        "name": "Peace To Make",
+        "url": "https://open.spotify.com/album/3RBRCj9pFM1Ercrwqv47uj"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189813,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0QBghBie9QpjQMm6F5EMbS"
     },
     {
       "album": {
@@ -8413,6 +8525,24 @@
     },
     {
       "album": {
+        "name": "Love Me Through",
+        "url": "https://open.spotify.com/album/3WJbf13X3slcKq32jRt4FO"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203221,
+      "name": "Love Me Through",
+      "url": "https://open.spotify.com/track/5pN3nwpjwFR08G9ZwaCVk9"
+    },
+    {
+      "album": {
         "name": "What's The 411?",
         "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
       },
@@ -8428,6 +8558,24 @@
       "duration_ms": 299626,
       "name": "Love No Limit",
       "url": "https://open.spotify.com/track/7gEGhEb1VcCeC6lJWnjI9Z"
+    },
+    {
+      "album": {
+        "name": "Love You",
+        "url": "https://open.spotify.com/album/2qlMt10wP8WCuIZTjl5c0M"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185987,
+      "name": "Love You",
+      "url": "https://open.spotify.com/track/6ufzf5Uj3prLfA8c6dQiel"
     },
     {
       "album": {
@@ -8500,7 +8648,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 148645,
       "name": "LUV MYSELF",
       "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
@@ -9884,7 +10032,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 254066,
       "name": "Nothing Is Impossible With You",
       "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
@@ -13717,6 +13865,24 @@
     },
     {
       "album": {
+        "name": "The Dealer",
+        "url": "https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189371,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy"
+    },
+    {
+      "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI"
       },
@@ -15662,6 +15828,24 @@
       "duration_ms": 264773,
       "name": "You Bring Me Joy",
       "url": "https://open.spotify.com/track/3wGFjYS1fK00Pv1Ajydua4"
+    },
+    {
+      "album": {
+        "name": "Under the Same Sky",
+        "url": "https://open.spotify.com/album/0rXmFmuQm7cbb2NuPHF8lS"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161525,
+      "name": "You Found Her",
+      "url": "https://open.spotify.com/track/5JSyd3ormliZCoveePc63H"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Viniloversus
 
-[Spotify](https://open.spotify.com/user/spotify) - 148 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 151 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,17 +20,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 10 | [Corazón de pollo](https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1) | [Estamos Perdidos](https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP) | [Corazón de pollo](https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS) | 3:23 |
 | 11 | [Películas De Acción](https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Películas De Acción](https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk) | 3:33 |
 | 12 | [Problema Cabrón](https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Problema Cabrón](https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv) | 3:36 |
-| 13 | [Mi nena](https://open.spotify.com/track/2VdSwHCNfiQKK9ZUaPNRSN) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi nena](https://open.spotify.com/album/0y0uxUtH57bWINrULxDZdu) | 2:44 |
+| 13 | [No te preocupes por mí](https://open.spotify.com/track/2g3GUSHWTLRhinDBjp6Ibz) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [El Día que me Olvides](https://open.spotify.com/album/5dr5f9aeHuDORZXkJIQWGB) | 3:42 |
 | 14 | [Magia Blanca](https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Magia Blanca](https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ) | 3:40 |
 | 15 | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU) | 3:35 |
 | 16 | [Necio](https://open.spotify.com/track/0Amrqle3uLQh6daz8it0G6) | [Andy Daze](https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8) | [Necio](https://open.spotify.com/album/1bHQO3Jsfu7jV3PgdPRaQ0) | 4:21 |
 | 17 | [El Reloj Me Miente](https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Reloj Me Miente](https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk) | 3:43 |
-| 18 | [No te preocupes por mí](https://open.spotify.com/track/2g3GUSHWTLRhinDBjp6Ibz) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [El Día que me Olvides](https://open.spotify.com/album/5dr5f9aeHuDORZXkJIQWGB) | 3:42 |
+| 18 | [Mi nena](https://open.spotify.com/track/2VdSwHCNfiQKK9ZUaPNRSN) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi nena](https://open.spotify.com/album/0y0uxUtH57bWINrULxDZdu) | 2:44 |
 | 19 | [Joderse La Vida](https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Joderse La Vida](https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7) | 2:45 |
 | 20 | [Ella Usó Mi cabeza Como Un Revólver \- Spotify Singles](https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Spotify Singles](https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT) | 4:19 |
 | 21 | [Máquina del Tiempo](https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Máquina del Tiempo](https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD) | 4:07 |
-| 22 | [Cumpleaños](https://open.spotify.com/track/6ru2l6LBrJPhJzXexTcUoH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:08 |
-| 23 | [¿Dónde está la ONU cuando más la necesitas?](https://open.spotify.com/track/1MD5h9LOBrvEw64rkbv7sa) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [¿Dónde está la ONU cuando más la necesitas?](https://open.spotify.com/album/0MIm8YYJllama2KsU9urpg) | 3:17 |
+| 22 | [¿Dónde está la ONU cuando más la necesitas?](https://open.spotify.com/track/1MD5h9LOBrvEw64rkbv7sa) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [¿Dónde está la ONU cuando más la necesitas?](https://open.spotify.com/album/0MIm8YYJllama2KsU9urpg) | 3:17 |
+| 23 | [Cumpleaños](https://open.spotify.com/track/6ru2l6LBrJPhJzXexTcUoH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:08 |
 | 24 | [Perro Callejero](https://open.spotify.com/track/04S0UAl019CON66pBU2C2G) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Perro Callejero](https://open.spotify.com/album/3GfTCaM2d1QtS3xLM3SMws) | 2:42 |
 | 25 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 |
 | 26 | [Lo Que Hay Dentro de Mí](https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lo Que Hay Dentro de Mí](https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 49 | [El Rock and Roll Está Matando Mi Rock and Roll](https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [0%](https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W) | 2:10 |
 | 50 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |
 
-Snapshot ID: `AAAAAC5va12Qn/sMCivIIPb1EZ9RMnmp`
+Snapshot ID: `AAAAANVziOAFbrB2AyR+UTIgl/QdCJu+`

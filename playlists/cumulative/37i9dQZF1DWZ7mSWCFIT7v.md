@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-620 songs - 2 day 1 hr 36 min
+622 songs - 2 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [K16 Del 1](https://open.spotify.com/track/1bCOjLk15YypgB9KkUpUsC) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/5IruA91DcFLqjsryE4CMuZ) | 5:59 | 2021-10-06 | 2025-07-17 |
 | [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 | 2021-10-06 | 2024-04-19 |
 | [Kalimba Heart](https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/2cJUkDSiyikvlTBtM3Dekx) | 3:11 | 2021-10-06 | 2025-07-17 |
+| [Keys To A Printed Garden](https://open.spotify.com/track/2LAH029XWCxiNdb6JIlQlv) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [Keys To A Printed Garden](https://open.spotify.com/album/1oUS3nQ2Dv3XL8GJaoA3vI) | 6:19 | 2026-08-21 |  |
 | [KLIBn](https://open.spotify.com/track/4UH9awtTpoIqhijyHsciwo) | [INGA BARI](https://open.spotify.com/artist/6z0ooG8fkckCtNWwLNAJ6G) | [KLIBn](https://open.spotify.com/album/1ikv1OIvkCLud7EAvIaBgU) | 4:58 | 2025-08-27 | 2026-02-27 |
 | [Knot of Spirit \- Synth Version](https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 10:19 | 2022-07-08 | 2025-07-17 |
 | [Komorebi](https://open.spotify.com/track/7ELFgIC6BEMI1BgEA3xDE5) | [Context Chameleon](https://open.spotify.com/artist/1SEDmOYVTcOXajG1zQLZrp), [Tomoki Sanders](https://open.spotify.com/artist/3pX3ft5SzH5EHRoULEcIk4) | [Komorebi](https://open.spotify.com/album/1PccpgmsEYHJgmsdVtz2e0) | 4:12 | 2021-10-06 | 2025-07-17 |
@@ -356,9 +357,10 @@
 | [Neon Pulse \- Midnight Version](https://open.spotify.com/track/6gOutDxUYEjRfzvUVonM3f) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Neon Pulse \(Midnight Version\)](https://open.spotify.com/album/77BiuGLt07HNvRABCmVZ3U) | 2:36 | 2026-02-06 |  |
 | [Niffler](https://open.spotify.com/track/1UgC3l3kRvZSj1l94QnJ8b) | [Yilan](https://open.spotify.com/artist/7o1UX2zZS5cu7uwcQ5hVao), [Ren](https://open.spotify.com/artist/7J5Y3wpzYedPu0w7ZMrKgw) | [Suddenly I Am Falling](https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN) | 6:27 | 2021-10-06 | 2025-06-07 |
 | [Night Truths](https://open.spotify.com/track/1adKxjTGjk9h001b9WYLzD) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [Night Truths](https://open.spotify.com/album/2y3EuqREWThOAm8wSTeEPA) | 7:08 | 2026-01-16 | 2026-08-15 |
+| [Nimble FX](https://open.spotify.com/track/1w7hB8pTLFhzhAMcliAmEQ) | [Tyondai Braxton](https://open.spotify.com/artist/3LxogQGFWIVPpDWNOVlSzK) | [Splayed Werks](https://open.spotify.com/album/3gralcjkI8QCnIgCmlJ6RP) | 3:42 | 2026-08-21 |  |
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2025-07-17 |
 | [No One Knows \- Mount XLR Remix](https://open.spotify.com/track/0YIdpQJvaY1AMhd9kQMxMp) | [Swoush](https://open.spotify.com/artist/2eFQDzvOlswU3yO7GTcoEm), [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [2FEET//IN \(Remixes\)](https://open.spotify.com/album/6A1svxcwCADA9iIQ1IR6da) | 4:18 | 2026-04-03 |  |
-| [No Pills U](https://open.spotify.com/track/7qqXGvIXJeQopPy8wAq2X2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Steep Stims](https://open.spotify.com/album/0zL30K7hlasu2LygmuK5EA) | 2:13 | 2025-11-07 |  |
+| [No Pills U](https://open.spotify.com/track/7qqXGvIXJeQopPy8wAq2X2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Steep Stims](https://open.spotify.com/album/0zL30K7hlasu2LygmuK5EA) | 2:13 | 2025-11-07 | 2026-08-22 |
 | [Noise and Chaos](https://open.spotify.com/track/4Mj4o0nMhfznMyz9BqvIja) | [Motoki Hada](https://open.spotify.com/artist/32xdvQZnvp4noPsOArCpAI) | [Noise and Chaos](https://open.spotify.com/album/7uvU39cAr6tYbO72j3EGY9) | 5:46 | 2026-02-27 | 2026-07-11 |
 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 | 2023-03-28 | 2025-06-21 |
 | [NRG Remains](https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 2:56 | 2021-10-06 | 2025-07-17 |
@@ -440,7 +442,7 @@
 | [running \- mndsgn remix](https://open.spotify.com/track/3ULD5tEJRJ8bDndnVuBS7I) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [running \(remix/live\)](https://open.spotify.com/album/7ew5PPmw9Ic6FXPIGJIRoe) | 3:27 | 2026-02-27 | 2026-05-02 |
 | [Russian Oscillator](https://open.spotify.com/track/4pA4anx90egS5Tc8zwfKwI) | [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [The Grand Designer](https://open.spotify.com/album/59gBsijmqHF1tP6UfiYbVl) | 3:30 | 2025-06-13 | 2025-10-22 |
 | [Ryso](https://open.spotify.com/track/1TdtpAUTwx99XeEDULGVkE) | [Psychic Health](https://open.spotify.com/artist/6VZPTy7odAe8Xgy95gkie2) | [Exclusion](https://open.spotify.com/album/0TuFV0X2zr2zwS6qoSp8h3) | 4:25 | 2021-10-06 | 2022-07-20 |
-| [Rápido & Lento ;\)](https://open.spotify.com/track/1Q8l9OpEHChZbkBdJoJmn3) | [Brenda](https://open.spotify.com/artist/6bbLScfhLt3Q5QeIQYiQM9), [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Húmedo](https://open.spotify.com/album/2dxKs1bSNZS7f4zFi3K8Kv) | 5:27 | 2025-09-15 |  |
+| [Rápido & Lento ;\)](https://open.spotify.com/track/1Q8l9OpEHChZbkBdJoJmn3) | [Brenda](https://open.spotify.com/artist/6bbLScfhLt3Q5QeIQYiQM9), [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Húmedo](https://open.spotify.com/album/2dxKs1bSNZS7f4zFi3K8Kv) | 5:27 | 2025-09-15 | 2026-08-22 |
 | [Röschen \- Edit](https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Röschen](https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv) | 3:19 | 2021-10-06 | 2025-07-17 |
 | [S.O](https://open.spotify.com/track/0kjAX603CzUwM9Ap3Jt7R9) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/3Zx14dyUjtZcEas89nZZfn) | 3:12 | 2021-10-06 | 2025-07-17 |
 | [S.O](https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:12 | 2021-10-06 | 2024-04-19 |

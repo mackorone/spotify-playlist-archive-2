@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,147 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,136 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 31 | [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [L.HARD](https://open.spotify.com/artist/4X1JOqzevl6se7AQyJy0Vj) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 |
 | 32 | [SUV \- Remix](https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [DJ Gui](https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 1:55 |
 | 33 | [Ela Tá Querendo \- Remix](https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez) | [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [2L Motta](https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm), [DJ MK De Niterói](https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Ela Tá Querendo \(Remix\)](https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O) | 1:15 |
-| 34 | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf) | [LC DE VV](https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p) | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv) | 1:42 |
-| 35 | [Sou Eu \- Speed](https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Sou Eu \(Speed\)](https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6) | 2:05 |
+| 34 | [Sou Eu \- Speed](https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Sou Eu \(Speed\)](https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6) | 2:05 |
+| 35 | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf) | [LC DE VV](https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p) | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv) | 1:42 |
 | 36 | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk) | 1:39 |
 | 37 | [Florxs Speed Up](https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Florxs Speed Up](https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW) | 2:56 |
 | 38 | [SEGREDO VERSÃO BH](https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr) | [Dj Vr Silva](https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I), [Karui](https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw) | [SEGREDO VERSÃO BH](https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs) | 2:36 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [Contatos \- Speed Plug](https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv) | [Rod 011](https://open.spotify.com/artist/0EQKO8vvXzLyITxRJHfC00), [yMontana](https://open.spotify.com/artist/7MO8VSUH29NuqPJHcCflnO), [wazy](https://open.spotify.com/artist/05CehQVgU6xs0LJOGoj3OO), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Gorilla Dream, Vol\. I](https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk) | 2:14 |
 | 66 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
 
-Snapshot ID: `AAAAAJ32M4gdmAbxbypAt59cBY5+NBCk`
+Snapshot ID: `AAAAADIiWfGLkPYr13Qac4rTg0RLxNDN`

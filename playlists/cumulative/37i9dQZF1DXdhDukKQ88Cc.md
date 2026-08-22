@@ -4,7 +4,7 @@
 
 > kun det nyeste danske rap 👀 YAWO på cover!!
 
-599 songs - 1 day 1 hr 36 min
+599 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Følelser for mig](https://open.spotify.com/track/2TvAtzwTM75ptluD1btiHQ) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Følelser for mig](https://open.spotify.com/album/4tXJPTzJuwvGvybItVVlLO) | 2:27 | 2026-06-19 | 2026-06-26 |
 | [FØRSTE MØDE](https://open.spotify.com/track/2wsrfdApbrHB5OlPdwJqyz) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [FØRSTE MØDE](https://open.spotify.com/album/4wXmOKjr5zYQqktDAQyHKe) | 2:49 | 2023-10-12 | 2023-11-11 |
 | [Geek'd](https://open.spotify.com/track/0e3TmAWvBPpcw4Pvtbipdi) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Geek'd](https://open.spotify.com/album/5qrwsMYXQ8F7AOCYh2jCzT) | 2:34 | 2025-05-15 | 2025-06-06 |
+| [Gemen](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 2:29 | 2026-08-20 |  |
 | [GENERATION GAZA](https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx) | [Generationgaza](https://open.spotify.com/artist/4iwYA9j3VRNvFiw89POFgc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GENERATION GAZA](https://open.spotify.com/album/0cbRTSSdMxLoiIyJK3dyQD) | 3:21 | 2025-07-03 | 2025-08-15 |
 | [Gennem Dit Hjerte \(feat\. Hans Philip\)](https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Når Man Taler Om Solen](https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx) | 2:52 | 2024-04-25 | 2024-05-14 |
 | [Gennemsigtig](https://open.spotify.com/track/7EmL02uKWiG5VrdvbCf7gH) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Gennemsigtig](https://open.spotify.com/album/1XDo0v9Eg3GU3tRsXQ3vBd) | 2:46 | 2025-05-08 | 2025-05-30 |
@@ -536,7 +537,6 @@
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
 | [Topskud](https://open.spotify.com/track/2yXRAzgIXzLwKCoyP0kEwG) | [Tjabo](https://open.spotify.com/artist/4a8fAlcwVh5WQM19I6tZpU), [BONFI](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Tjabo](https://open.spotify.com/album/5m7m3rfPyB3FBYuedwOMgW) | 2:11 | 2026-08-07 |  |
-| [Track 5](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 0:00 | 2026-08-20 |  |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2026-01-02 |
 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 | 2026-04-10 |
 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 | 2025-07-31 | 2025-09-26 |

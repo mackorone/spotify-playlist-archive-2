@@ -4,7 +4,7 @@
 
 > put a little yee haw in your laid back
 
-208 songs - 12 hr 32 min
+209 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,14 @@
 | [Beach Cowboy](https://open.spotify.com/track/2VW91TBVCqRKfyBg13EZjO) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 2:18 | 2023-04-03 | 2024-04-17 |
 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 | 2024-04-16 | 2024-05-07 |
 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 | 2024-04-16 | 2024-05-07 |
-| [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-04-11 |  |
+| [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-04-11 | 2026-08-22 |
 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/6xOsGr1dhXhhdX6ingWN4v) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/album/6WV1OV7B6aMpbDgorCvnqd) | 3:14 | 2025-01-13 |  |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2023-04-03 |  |
 | [Bite My Tongue \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/62LsiE0qxL8mpNvQShAGkp) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Bite My Tongue \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/681qv0Au08NIjJwh72luYf) | 3:38 | 2025-10-31 |  |
 | [Born Wicked](https://open.spotify.com/track/4sa1m3H5Aoxo21etGRBFIb) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Born Wicked](https://open.spotify.com/album/4uThGfX50aFL3O8CgkxmBT) | 2:43 | 2026-01-09 |  |
 | [Brand New Key](https://open.spotify.com/track/3tm6LVXZJg0lG4hQm5ytrT) | [Melanie](https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK) | [Beautiful People: The Greatest Hits of Melanie](https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS) | 2:24 | 2023-04-03 | 2024-08-03 |
 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 | 2023-07-21 | 2026-04-21 |
+| [Bullets](https://open.spotify.com/track/2mi8K8wuSDRQ3h7k9lROsv) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Bullets](https://open.spotify.com/album/5je7oJCztUuHgjhOPyECgm) | 3:48 | 2026-08-21 |  |
 | [Bummin' Cigarettes](https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:06 | 2023-04-03 | 2026-01-15 |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2023-04-03 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Can't Help Falling in Love \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY) | 2:48 | 2023-04-03 | 2025-05-03 |

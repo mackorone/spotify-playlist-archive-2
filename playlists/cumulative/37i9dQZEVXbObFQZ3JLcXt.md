@@ -4,14 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-776 songs - 2 day 0 hr 33 min
+777 songs - 2 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0X1=LOVESONG \(I Know I Love you\)](https://open.spotify.com/track/3yTkoTuiKRGL2VAlQd7xsC) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/6g3BW90upn0rxRuFcm0zpm) | 3:22 | 2021-06-03 | 2021-06-26 |
 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-06-02 | 2021-07-08 |
 | [1000X](https://open.spotify.com/track/2xMzgXAPMwAm9MJ9xAPP4E) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [RASI BINTANG](https://open.spotify.com/album/7GSbWmiBNZ7CQwMZ5kU0JF) | 4:12 | 2026-06-05 | 2026-06-14 |
-| [1000X](https://open.spotify.com/track/5pXN7iV11PrazlIh8bzA2K) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [RASI BINTANG](https://open.spotify.com/album/3HsjsVPBsqUrND6IjjKGCs) | 4:12 | 2026-06-06 |  |
+| [1000X](https://open.spotify.com/track/5pXN7iV11PrazlIh8bzA2K) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [RASI BINTANG](https://open.spotify.com/album/3HsjsVPBsqUrND6IjjKGCs) | 4:12 | 2026-06-06 | 2026-08-22 |
 | [1000X](https://open.spotify.com/track/6xrP29JvvYP5ftteZ7nubf) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [1000X](https://open.spotify.com/album/1praH9t2dBOUP9IcLgjpVc) | 4:12 | 2026-05-05 | 2026-06-06 |
 | [123456](https://open.spotify.com/track/2CFpkbOfYe23ZoMfufNKVB) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [1 Hari Yang Cerah](https://open.spotify.com/album/3BSay8BCZZFWaLlSIqt4D2) | 3:39 | 2025-07-09 | 2025-09-24 |
 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 | 2022-12-16 | 2023-06-02 |
@@ -351,6 +351,7 @@
 | [Kita Bikin Romantis](https://open.spotify.com/track/45A0Se2c4HciOCyB5Z0XJJ) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:56 | 2024-06-04 | 2024-06-06 |
 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 | 2024-03-16 | 2024-04-29 |
 | [Kita Ke Sana](https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8) | 4:42 | 2025-07-05 | 2026-04-16 |
+| [Kita Lewati Berdua](https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds) | [Overnight](https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK) | [Kita Lewati Berdua](https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4) | 3:59 | 2026-08-21 |  |
 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 | 2025-05-13 | 2025-09-19 |
 | [Kita usahakan rumah itu](https://open.spotify.com/track/5Egm9N7FnzsThl1CFXB2mm) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:31 | 2025-04-16 |  |
 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 | 2021-06-08 | 2021-12-16 |

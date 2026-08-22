@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3894584,
+  "num_followers": 3894390,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxddBfkFlp/qY5e3/NpbIR24taR",
+  "snapshot_id": "AAAAAAFiub2Ylb6OHpg48lSrMfX2W8iP",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:13",
@@ -215,18 +215,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Sweet Release",
-        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
       },
       "artists": [
         {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 226101,
-      "name": "Sweet Release",
-      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
+      "duration_ms": 215062,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -251,22 +255,18 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
+        "name": "Sweet Release",
+        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
         }
       ],
-      "duration_ms": 215062,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
+      "duration_ms": 226101,
+      "name": "Sweet Release",
+      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "AMi Vol. 1",
-        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Miette Hope",
-          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Outline",
-      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "feeling something",
         "url": "https://open.spotify.com/album/34j9PJGs4V9LPRDdOGSk92"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 256000,
       "name": "feeling something",
       "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "AMi Vol. 1",
+        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Miette Hope",
+          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Outline",
+      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "This Is Our Life",
-        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "This Is Our Life",
-      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Out Of Ten (Shingo Nakamura & before saudade Remix)",
         "url": "https://open.spotify.com/album/2muoiXwIB1Jw4JMXRFgrbz"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 153875,
       "name": "Out Of Ten - Shingo Nakamura & before saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "This Is Our Life",
+        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "This Is Our Life",
+      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "All Is Right",
         "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         }
       ],
-      "duration_ms": 244285,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1619,6 +1603,22 @@
       "duration_ms": 209696,
       "name": "Call You Mine",
       "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 273442,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 188454,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 273442,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "How Will I Know?",
-        "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "How Will I Know?",
-      "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "The Thought of You",
         "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 262008,
       "name": "The Thought of You",
       "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "How Will I Know?",
+        "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "How Will I Know?",
+      "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
     },
     {
       "added_at": "2026-08-07 04:01:13",

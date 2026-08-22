@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Tu dosis diaria de rock \ud83d\udcf8 Tomi Lago",
+  "description": "Tu dosis diaria de rock \ud83d\udcf8 Las Pastillas del Abuelo",
   "name": "Rock del D\u00eda",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 177361,
       "name": "alguien que yo no es",
       "url": "https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 277405,
       "name": "BOT\u00d3N DE P\u00c1NICO",
       "url": "https://open.spotify.com/track/1s9gjm76CMBiiiBhXLOoGj"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 250762,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe"
@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Delirada",
+        "url": "https://open.spotify.com/album/5vETrR0IXnSY6bDXF0dUQD"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/7kPHdRmvarJYQ1ZUD5e3e4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199506,
+      "name": "Delirada",
+      "url": "https://open.spotify.com/track/6oUZj6oDfi08b5IVo1xulD"
+    },
+    {
+      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
@@ -2294,6 +2312,24 @@
       "duration_ms": 185826,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+    },
+    {
+      "album": {
+        "name": "K\u00dcTRAL",
+        "url": "https://open.spotify.com/album/7e46VnHikFvXjg3qF7isuK"
+      },
+      "artists": [
+        {
+          "name": "Alter Vu",
+          "url": "https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "El Monstruo",
+      "url": "https://open.spotify.com/track/6Ql4qVIFngvfK9kgtxixsz"
     },
     {
       "album": {
@@ -3039,6 +3075,24 @@
     },
     {
       "album": {
+        "name": "Flor de Loto",
+        "url": "https://open.spotify.com/album/65dRRUwPO4fahTzDWixZHR"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213275,
+      "name": "Flor de Loto",
+      "url": "https://open.spotify.com/track/16aUcdbCsgXrEJH0wvVYor"
+    },
+    {
+      "album": {
         "name": "Flor Salvaje",
         "url": "https://open.spotify.com/album/65O655JmOj3Up6hFIaRNJw"
       },
@@ -3112,7 +3166,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 207490,
       "name": "Fuego contra fuego",
       "url": "https://open.spotify.com/track/4LKB2awZYcnCgvZwF1MICH"
@@ -6518,7 +6572,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 222224,
       "name": "Primero",
       "url": "https://open.spotify.com/track/2IhQv4JyKtOSC5gflkhV4u"
@@ -6926,7 +6980,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 194186,
       "name": "Romantinaitis",
       "url": "https://open.spotify.com/track/7tcDyQV1rbY4IRiGWWVetW"
@@ -7260,6 +7314,24 @@
       "duration_ms": 204070,
       "name": "Sin Rumbo",
       "url": "https://open.spotify.com/track/0Z1AdL0tTwA5ob29Oe82Vs"
+    },
+    {
+      "album": {
+        "name": "Solo Ellos Dos",
+        "url": "https://open.spotify.com/album/4TlyUYFVFi0gGQWS6wZpFO"
+      },
+      "artists": [
+        {
+          "name": "Hueter",
+          "url": "https://open.spotify.com/artist/0Ku46u44DPk2sV7nCZ7LHr"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212391,
+      "name": "Solo Ellos Dos",
+      "url": "https://open.spotify.com/track/7zYEOW5CBzixYzNGiJunE5"
     },
     {
       "album": {
@@ -7653,6 +7725,24 @@
     },
     {
       "album": {
+        "name": "Tarot",
+        "url": "https://open.spotify.com/album/7dLR6cvf7QYXK7H0PHkzlB"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283776,
+      "name": "Tarot",
+      "url": "https://open.spotify.com/track/3lSXL4LbtL6Lz60z1weBb1"
+    },
+    {
+      "album": {
         "name": "La Revoluci\u00f3n de la Alegria",
         "url": "https://open.spotify.com/album/6XESoePuuRP2X2H2kpPYxf"
       },
@@ -7780,6 +7870,24 @@
       "duration_ms": 162553,
       "name": "Tirada",
       "url": "https://open.spotify.com/track/61DGrm8ePPZsAHe3XNlYfz"
+    },
+    {
+      "album": {
+        "name": "TIRADO",
+        "url": "https://open.spotify.com/album/5vMjUZDFcrieM25WgZWZrh"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261712,
+      "name": "TIRADO",
+      "url": "https://open.spotify.com/track/3SK339ljWnJyVvydZerdzl"
     },
     {
       "album": {
@@ -8198,7 +8306,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/4bnGyB5G0Kau4rQB4Vnz0x"
@@ -8462,7 +8570,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 218982,
       "name": "Una contra otra",
       "url": "https://open.spotify.com/track/5QLkrUv0GuJFDTWHB6iR9g"

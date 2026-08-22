@@ -648,7 +648,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 144427,
       "name": "ATITUDE",
       "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
@@ -1729,6 +1729,32 @@
     },
     {
       "album": {
+        "name": "Despertador",
+        "url": "https://open.spotify.com/album/7vA9eHv6BrmIa2ctMTZh31"
+      },
+      "artists": [
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "Anne Louise",
+          "url": "https://open.spotify.com/artist/6lTGKVOQgWwyEo24373ciw"
+        },
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106483,
+      "name": "Despertador",
+      "url": "https://open.spotify.com/track/587ueKmuDHoDzAAgTVJ9M2"
+    },
+    {
+      "album": {
         "name": "deu pra sentir?",
         "url": "https://open.spotify.com/album/0GQQnrdqZsLcbiebflnDXT"
       },
@@ -2086,7 +2112,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 157347,
       "name": "Eu \u00c5doro",
       "url": "https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d"
@@ -2438,7 +2464,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 193610,
       "name": "F\u00faria",
       "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
@@ -3659,6 +3685,28 @@
     },
     {
       "album": {
+        "name": "N\u00c3O VOU DAN\u00c7AR NA SUA PISTA",
+        "url": "https://open.spotify.com/album/0aXh1oXp46NlK1GlzT24mW"
+      },
+      "artists": [
+        {
+          "name": "UMZ\u00c9",
+          "url": "https://open.spotify.com/artist/2cxxQoxSHD93xP7Zk1NbPL"
+        },
+        {
+          "name": "ferreiracesar",
+          "url": "https://open.spotify.com/artist/55w0NgExpSHkVq7VMny17x"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193700,
+      "name": "O QUE EU FUI PRA N\u00d3S?",
+      "url": "https://open.spotify.com/track/26cxgiojytehsW3BnBIvUW"
+    },
+    {
+      "album": {
         "name": "O Que Eu Ganho",
         "url": "https://open.spotify.com/album/2DVMqhsqQQ4832MzpOdElN"
       },
@@ -4832,6 +4880,36 @@
       "duration_ms": 183905,
       "name": "Sideral - Ao Vivo",
       "url": "https://open.spotify.com/track/2ekohr3x5K4PEO0YZXhtYh"
+    },
+    {
+      "album": {
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/4AqmNLl4yXukJZha7K6lOr"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        },
+        {
+          "name": "Igor Bidi",
+          "url": "https://open.spotify.com/artist/1oCAVVaWwRObYk7fDJFNwr"
+        },
+        {
+          "name": "Tar\u00e7a",
+          "url": "https://open.spotify.com/artist/7xXwZ6higu8YI4BWzBhxE9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253150,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/6Ayfv5QkbkmizeyjeQ5gRW"
     },
     {
       "album": {

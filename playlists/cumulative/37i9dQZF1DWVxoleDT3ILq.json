@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Anttonias en portada.",
+  "description": "asia menor en portada.",
   "name": "alt.chile",
   "tracks": [
     {
@@ -578,6 +578,28 @@
       "duration_ms": 135325,
       "name": "Amor De Metro",
       "url": "https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs"
+    },
+    {
+      "album": {
+        "name": "Amor L\u00edquido",
+        "url": "https://open.spotify.com/album/3qvk9MtNGeD5wQ7XOyWt9K"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/4EO24W4MNhpgz2BidW9qgu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Amor L\u00edquido",
+      "url": "https://open.spotify.com/track/37HtHSAwrFV0zznQjpufzA"
     },
     {
       "album": {
@@ -1353,6 +1375,28 @@
     },
     {
       "album": {
+        "name": "RIQU\u00cdSIMO",
+        "url": "https://open.spotify.com/album/16Lz1ETvXoXUE0VtAUkWwV"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210558,
+      "name": "CARAMELO SALADO",
+      "url": "https://open.spotify.com/track/2nUPu4oONnkYWxbd2ykR9C"
+    },
+    {
+      "album": {
         "name": "Carretera Austral",
         "url": "https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg"
       },
@@ -1554,6 +1598,24 @@
       "duration_ms": 203636,
       "name": "CIELO",
       "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
+    },
+    {
+      "album": {
+        "name": "Cielo, llora por m\u00ed",
+        "url": "https://open.spotify.com/album/29MP645mJSBeCgaVjKjXJu"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Cielo, llora por m\u00ed",
+      "url": "https://open.spotify.com/track/09ImD0c9clzVLFizFNEzOl"
     },
     {
       "album": {
@@ -2580,6 +2642,28 @@
       "duration_ms": 219960,
       "name": "diamantes \u2727\u2727",
       "url": "https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD"
+    },
+    {
+      "album": {
+        "name": "DIAS LLUVIOSOS",
+        "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
+      },
+      "artists": [
+        {
+          "name": "Jas Marty",
+          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "DIAS LLUVIOSOS",
+      "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
     },
     {
       "album": {
@@ -7695,6 +7779,28 @@
     },
     {
       "album": {
+        "name": "Pichanga",
+        "url": "https://open.spotify.com/album/2rLbN0B0Hsp4v7VxM7hgpb"
+      },
+      "artists": [
+        {
+          "name": "Angelo Pierattini",
+          "url": "https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf"
+        },
+        {
+          "name": "Estoy Bien",
+          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153094,
+      "name": "Pichanga",
+      "url": "https://open.spotify.com/track/5ViKYOAEJNFu63wda0BGsu"
+    },
+    {
+      "album": {
         "name": "Pide un deseo \u2729",
         "url": "https://open.spotify.com/album/0rhlwixsHgSD2xJY493GaM"
       },
@@ -7960,6 +8066,24 @@
       "duration_ms": 220856,
       "name": "Poemas por DM",
       "url": "https://open.spotify.com/track/1l4mucwox19VbCrLJKESoz"
+    },
+    {
+      "album": {
+        "name": "POLA",
+        "url": "https://open.spotify.com/album/2IyyoZX90AtkAaw6ywNleP"
+      },
+      "artists": [
+        {
+          "name": "Los Perros de Pavlov",
+          "url": "https://open.spotify.com/artist/0nZhzqipHRMGBF6ocgPyLq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186191,
+      "name": "POLA",
+      "url": "https://open.spotify.com/track/64RBI6lj9sX8CCULKZWb7B"
     },
     {
       "album": {
@@ -10987,6 +11111,24 @@
     },
     {
       "album": {
+        "name": "Vi al diablo",
+        "url": "https://open.spotify.com/album/3GvivEm7FGEExjYxVDdE9J"
+      },
+      "artists": [
+        {
+          "name": "asia menor",
+          "url": "https://open.spotify.com/artist/5yrd8vlGtyEsP3maoVqlkD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240797,
+      "name": "Vi al diablo",
+      "url": "https://open.spotify.com/track/2v45JoEGEuayex48kyDxrK"
+    },
+    {
+      "album": {
         "name": "Viajar",
         "url": "https://open.spotify.com/album/5IiLPLPLVjRNspfw2mvj24"
       },
@@ -11504,6 +11646,28 @@
       "duration_ms": 214871,
       "name": "\u00c1ngel Malo",
       "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
+    },
+    {
+      "album": {
+        "name": "\u00c1nima",
+        "url": "https://open.spotify.com/album/5WbdyZc6AuwNxtpih7qSd2"
+      },
+      "artists": [
+        {
+          "name": "Spiral Vortex",
+          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
+        },
+        {
+          "name": "Vinyl Williams",
+          "url": "https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229344,
+      "name": "\u00c1nima",
+      "url": "https://open.spotify.com/track/5hLydDD0bzmrybiZJJ0Uis"
     },
     {
       "album": {

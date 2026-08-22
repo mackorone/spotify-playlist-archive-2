@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 101965,
+  "num_followers": 101977,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABskhdPYGb9dmfDPSRY81RA",
+  "snapshot_id": "aoZDgAAAAAAyNsmR+BUr62of6ySPMmlv",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/4M14ePO4UooHzwWZNh2XPl"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 158049,
+      "name": "Closing Time (with Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
@@ -271,22 +291,6 @@
       "duration_ms": 171240,
       "name": "How Do I Do This",
       "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mount Pleasant Commentary",
-        "url": "https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/1eXaJCN3pBxK12D4NjJwBP"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closing Time",
-        "url": "https://open.spotify.com/album/4M14ePO4UooHzwWZNh2XPl"
+        "name": "Mount Pleasant Commentary",
+        "url": "https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo"
       },
       "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 158049,
-      "name": "Closing Time (with Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw"
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/1eXaJCN3pBxK12D4NjJwBP"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "I Think I Fell in Love Today",
-      "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "kelsea",
         "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 167796,
       "name": "homecoming queen?",
       "url": "https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "I Think I Fell in Love Today",
+      "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 139933,
-      "name": "Interlude (Full Length)",
-      "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "kelsea",
         "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 201343,
       "name": "the other girl (with Halsey)",
       "url": "https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 139933,
+      "name": "Interlude (Full Length)",
+      "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Beg For Your Love",
-      "url": "https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PATTERNS",
         "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 172146,
       "name": "I Would, Would You",
       "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Beg For Your Love",
+      "url": "https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Pleasant",
-        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "Check On Your Friends",
-      "url": "https://open.spotify.com/track/5FyrrLxbzeMJbWPuk04IeG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PATTERNS (DELUXE)",
         "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 155480,
       "name": "Cut Me Up",
       "url": "https://open.spotify.com/track/2gtvnLKo4m3fLAFyHPl7eU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 187706,
+      "name": "Check On Your Friends",
+      "url": "https://open.spotify.com/track/5FyrrLxbzeMJbWPuk04IeG"
     }
   ],
   "unique_name": "This Is Kelsea Ballerini",

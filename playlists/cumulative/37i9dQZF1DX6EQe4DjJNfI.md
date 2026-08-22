@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-366 songs - 18 hr 48 min
+367 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 | 2024-05-18 |
 | [Doce, Dengosa, Polida](https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 3:25 | 2025-11-30 |  |
 | [Dona Do Mundo \(Púrpura Session\)](https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Púrpura Session](https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy) | 3:20 | 2025-08-22 |  |
+| [Duas doses de saudade / Nunca me verá chorar / Não quero mais \- Ao vivo](https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 6:21 | 2026-08-21 |  |
 | [Duas Vezes](https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Niina](https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Sonora Sessions](https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb) | [Duas Vezes](https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3) | 2:40 | 2026-07-17 |  |
 | [Dói Tanto](https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Dói Tanto](https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s) | 2:38 | 2024-03-15 | 2024-03-30 |
 | [ele diz que me ama s2](https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ele diz que me ama s2](https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P) | 4:01 | 2023-08-25 | 2023-09-02 |
@@ -233,7 +234,7 @@
 | [Ouvir Você \(Remix\)](https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Ouvir Você \(Remix\)](https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0) | 4:33 | 2025-10-24 |  |
 | [Pacotinho \(Menino\)](https://open.spotify.com/track/66yTfEFEiKLFRs3V0RermR) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Pacotinho \(Música Pra Chá Revelação\)](https://open.spotify.com/album/7ae0cv8LouEl4n51QDhQz9) | 2:42 | 2023-10-06 | 2023-11-11 |
 | [Paierin](https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C) | [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv) | [Paierin](https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt) | 3:30 | 2022-11-18 | 2023-08-19 |
-| [Papinho Ambicioso](https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Papinho Ambicioso](https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4) | 2:34 | 2026-07-17 |  |
+| [Papinho Ambicioso](https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Papinho Ambicioso](https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4) | 2:34 | 2026-07-17 | 2026-08-22 |
 | [Para De Dizer Que Não Me Ama \- Ao Vivo](https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Para De Dizer Que Não Me Ama \(Ao Vivo\)](https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC) | 4:50 | 2024-02-23 | 2024-05-25 |
 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 | 2025-06-06 |  |
 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 | 2023-06-16 | 2024-02-03 |

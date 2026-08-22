@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 165755,
+  "num_followers": 165787,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqFyeQhiDN1s6S2HPku9KLSQGFO",
+  "snapshot_id": "AAAAAMu6XMvjX7HaYFJ3LUusOluvfJKu",
   "tracks": [
     {
       "added_at": "2025-03-07 03:01:18",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Sonhadora (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 236199,
-      "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Leidy Murilho Ac\u00fastico",
         "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 227046,
       "name": "Filho - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Sonhadora (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 236199,
+      "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Cuide",
-        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Cuide",
-      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Projeto Sola, Vol. 1",
         "url": "https://open.spotify.com/album/7ikATn9s2QcWqbOi45OBUq"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 251575,
       "name": "Isa\u00edas 53",
       "url": "https://open.spotify.com/track/2zVeDWssj901HV6DFN6d5d"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Cuide",
+        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Cuide",
+      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
     },
     {
       "added_at": "2025-03-07 03:01:18",

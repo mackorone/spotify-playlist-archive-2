@@ -1,12 +1,12 @@
 {
   "description": "Soft Jazz vocals and smooth instrumentals to soundtrack your dinner - perfect for cooking, hosting a dinner party, or a relaxed evening at home.",
-  "num_followers": 93523,
+  "num_followers": 93558,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMTy6F4CLXg1rLENPBm/2WCfoG9z",
+  "snapshot_id": "AAAAAM3JpCvRY2Xh53Fd6m/uGIQxIUEP",
   "tracks": [
     {
       "added_at": "2026-07-20 13:57:14",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 290160,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Love To Be Happy",
         "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 195276,
       "name": "Love To Be Happy",
       "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 290160,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Davies",
+          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Tranquility",
+      "url": "https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 203933,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Davies",
-          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Tranquility",
-      "url": "https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/5uDPYrht89D3qNCmR2Slco"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 411666,
-      "name": "Autumn In New York - Live",
-      "url": "https://open.spotify.com/track/0J2J0CdJOfwAtVBeF8MyEK"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Blues-A-Plenty",
         "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 219680,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/5uDPYrht89D3qNCmR2Slco"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 411666,
+      "name": "Autumn In New York - Live",
+      "url": "https://open.spotify.com/track/0J2J0CdJOfwAtVBeF8MyEK"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "A Bite-Sized Romance",
-        "url": "https://open.spotify.com/album/6ulRWWGaXJr6840kbDZwAN"
-      },
-      "artists": [
-        {
-          "name": "6th Street Jazz",
-          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
-        }
-      ],
-      "duration_ms": 251736,
-      "name": "A Bite-Sized Romance",
-      "url": "https://open.spotify.com/track/1lVMlwpSxeEkGGrFGl6qde"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "The Amazing Bud Powell, Vol. 2 (1989 Version)",
         "url": "https://open.spotify.com/album/49urA9QFIqnlG3XufhHhfH"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 243773,
       "name": "Polka Dots And Moonbeams - Remastered 1994",
       "url": "https://open.spotify.com/track/3Wadbk42UtsJOT5mCx9Bb0"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "A Bite-Sized Romance",
+        "url": "https://open.spotify.com/album/6ulRWWGaXJr6840kbDZwAN"
+      },
+      "artists": [
+        {
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+        }
+      ],
+      "duration_ms": 251736,
+      "name": "A Bite-Sized Romance",
+      "url": "https://open.spotify.com/track/1lVMlwpSxeEkGGrFGl6qde"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 195360,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/3lqJF5gs2ygPZdYJqdHIlU"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 356133,
-      "name": "Walkin' Out Blues",
-      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Promenade With You",
         "url": "https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 220403,
       "name": "Promenade With You",
       "url": "https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 356133,
+      "name": "Walkin' Out Blues",
+      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Smarter Than Advertised",
-        "url": "https://open.spotify.com/album/1Oo6tU4FjDATGNkqdGGqQR"
-      },
-      "artists": [
-        {
-          "name": "Kendrettes",
-          "url": "https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj"
-        }
-      ],
-      "duration_ms": 200907,
-      "name": "Smarter Than Advertised",
-      "url": "https://open.spotify.com/track/0vq11xwVzMfkHhhECA1YJq"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 270333,
       "name": "Lover Man - Remastered",
       "url": "https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Smarter Than Advertised",
+        "url": "https://open.spotify.com/album/1Oo6tU4FjDATGNkqdGGqQR"
+      },
+      "artists": [
+        {
+          "name": "Kendrettes",
+          "url": "https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj"
+        }
+      ],
+      "duration_ms": 200907,
+      "name": "Smarter Than Advertised",
+      "url": "https://open.spotify.com/track/0vq11xwVzMfkHhhECA1YJq"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "I Sing This Song for You",
-      "url": "https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Nostalgic Days",
         "url": "https://open.spotify.com/album/20ld6T3TYuPvsjQx1dI3U6"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 353927,
       "name": "Nostalgic Days",
       "url": "https://open.spotify.com/track/5b2BUoXRVmB9fqNsIPyNy0"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "I Sing This Song for You",
+      "url": "https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Nice Try",
-        "url": "https://open.spotify.com/album/2xwZAOuNICjJdVgm6y2yCa"
-      },
-      "artists": [
-        {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Nice Try",
-      "url": "https://open.spotify.com/track/0B1DkEpFZCbCIpw8UfI4kH"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 250426,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/4dNKUXGfUMsMSkmytyQY7T"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Nice Try",
+        "url": "https://open.spotify.com/album/2xwZAOuNICjJdVgm6y2yCa"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Nice Try",
+      "url": "https://open.spotify.com/track/0B1DkEpFZCbCIpw8UfI4kH"
     },
     {
       "added_at": "2026-07-20 13:57:14",

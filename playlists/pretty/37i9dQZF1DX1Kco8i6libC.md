@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Kco8i6libC.md) - [plain]
 
 > 狗年生的人忠誠負責、認真有禮，而且是人生最佳伙伴之一哦！看看有哪些歌手吧！Cover: 王心凌 \(Cyndi Wang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,284 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,283 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Kco8i6libC.md) - [plain]
 | 51 | [BOOM！怪物星人](https://open.spotify.com/track/2G2MLrAIdDHHK99h3bUgQz) | [怪星](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [BOOM！怪物星人](https://open.spotify.com/album/3qDQ6Do1NbVjPxgNjSAy1M) | 3:54 |
 | 52 | [我們 \(《奇蹟》前導片插曲\)](https://open.spotify.com/track/4p9jKHLROoI5z8rUSJD20Y) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [fff](https://open.spotify.com/album/2sctJUp4IwUfCtWNk5BY4L) | 3:49 |
 
-Snapshot ID: `AAAAANWE5JgafOl+DzSAJwG1JqQIpv2R`
+Snapshot ID: `AAAAAG1jX1gSrW+jQd0fqU2SJyX/1vXQ`

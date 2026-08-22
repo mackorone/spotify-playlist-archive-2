@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148846,
+  "num_followers": 148843,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEySU78BHnhKgmPUXq8jOFqcP5Zc",
+  "snapshot_id": "AAAAAAeGKGUovUUOg5OkwRPHsnGajRh2",
   "tracks": [
     {
       "added_at": "2026-08-03 21:13:53",
@@ -423,18 +423,22 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Deixa Vir - Vol II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE"
+        "name": "For\u00e7a",
+        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
       },
       "artists": [
         {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
         }
       ],
-      "duration_ms": 281760,
-      "name": "Grita! (Shout!) - Ao Vivo",
-      "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
+      "duration_ms": 240704,
+      "name": "For\u00e7a",
+      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -455,22 +459,18 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "For\u00e7a",
-        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
+        "name": "Deixa Vir - Vol II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE"
       },
       "artists": [
         {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "Bruno Faglioni",
-          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 240704,
-      "name": "For\u00e7a",
-      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
+      "duration_ms": 281760,
+      "name": "Grita! (Shout!) - Ao Vivo",
+      "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
     },
     {
       "added_at": "2026-08-03 21:13:53",

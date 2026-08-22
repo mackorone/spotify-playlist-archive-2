@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > the best of modern alternative rock\. Cover: Basement
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,161 likes - 110 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,155 likes - 110 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 109 | [2 Soon 2 Tell](https://open.spotify.com/track/6b9B6v1U2eXO5gLvQOC0pu) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Sunset Funeral](https://open.spotify.com/album/4lpSiyk1XlQYz1fZENMSye) | 3:12 |
 | 110 | [You Said](https://open.spotify.com/track/45pFbqZ3efKNj3WXvZm3w5) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [You Said](https://open.spotify.com/album/60H82aaGA8mqvOrVZInqQj) | 1:26 |
 
-Snapshot ID: `AAAAAMS3A/ICTXkTJ5nkXbzb8sTdqSc8`
+Snapshot ID: `AAAAANgch0aRzQ0cpnmhVby2EEqpIQse`

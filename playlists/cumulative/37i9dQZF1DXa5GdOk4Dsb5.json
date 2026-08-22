@@ -5379,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "Nueva York",
+        "url": "https://open.spotify.com/album/67BH5sRPgJ42r70eOhvcnJ"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Nueva York",
+      "url": "https://open.spotify.com/track/64VrTx8VITD7fLDWZp4vTn"
+    },
+    {
+      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
       },

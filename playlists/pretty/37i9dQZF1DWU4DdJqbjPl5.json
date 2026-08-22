@@ -1,12 +1,12 @@
 {
   "description": "Intersection of R&B and afrobeats. Cover: Ayra Starr ",
-  "num_followers": 221149,
+  "num_followers": 221171,
   "original_name": "afro&b ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKCWZCvWntntXtGXu/+FhJZBPK0M",
+  "snapshot_id": "AAAAAERlY5EAC4zMPoxbuRAqMze1cLW8",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:43",
@@ -338,10 +338,14 @@
         {
           "name": "Rowlene",
           "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        },
+        {
+          "name": "Jesse Clegg",
+          "url": "https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 180133,
+      "name": "More Room",
       "url": "https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0"
     },
     {
@@ -696,7 +700,7 @@
           "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
         }
       ],
-      "duration_ms": 198367,
+      "duration_ms": 198543,
       "name": "Jaribu",
       "url": "https://open.spotify.com/track/6lxgzURYb3wIWoOUODsLTd"
     },

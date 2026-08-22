@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210770,
+  "num_followers": 210769,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABrmPd7ic6qKznBTRltTzGj",
+  "snapshot_id": "aoZDgAAAAADjPsQvpVgqXAoGFc8rB+Rb",
   "tracks": [
     {
       "added_at": null,
@@ -447,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL"
       },
       "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 216312,
-      "name": "Acid Rain",
-      "url": "https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q"
+      "duration_ms": 262520,
+      "name": "The Way (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/0Kz9XqLxIeMQveGISrWvz3"
     },
     {
       "added_at": null,
@@ -487,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Should Be Here",
-        "url": "https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL"
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
       },
       "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 262520,
-      "name": "The Way (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/0Kz9XqLxIeMQveGISrWvz3"
+      "duration_ms": 216312,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q"
     },
     {
       "added_at": null,
@@ -703,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) [Skrillex Remix]",
-        "url": "https://open.spotify.com/album/7pPVcx3O9eZrPCgBmpW5HV"
-      },
-      "artists": [
-        {
-          "name": "Hundred Waters",
-          "url": "https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        },
-        {
-          "name": "Robin Hannibal",
-          "url": "https://open.spotify.com/artist/0qVb1coEo0OVOpP9kphf6U"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 241846,
-      "name": "Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) - Skrillex Remix",
-      "url": "https://open.spotify.com/track/5PnBpKOVvQxeFvXVNYSoxs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi"
       },
@@ -767,6 +735,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) [Skrillex Remix]",
+        "url": "https://open.spotify.com/album/7pPVcx3O9eZrPCgBmpW5HV"
+      },
+      "artists": [
+        {
+          "name": "Hundred Waters",
+          "url": "https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Robin Hannibal",
+          "url": "https://open.spotify.com/artist/0qVb1coEo0OVOpP9kphf6U"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 241846,
+      "name": "Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) - Skrillex Remix",
+      "url": "https://open.spotify.com/track/5PnBpKOVvQxeFvXVNYSoxs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Acid Rap",
         "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
       },
@@ -776,13 +776,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 272562,
-      "name": "Smoke Again",
-      "url": "https://open.spotify.com/track/4qHK2BNxlVpgIxxvt26hTI"
+      "duration_ms": 184562,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
     },
     {
       "added_at": null,
@@ -852,13 +852,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
         }
       ],
-      "duration_ms": 184562,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
+      "duration_ms": 272562,
+      "name": "Smoke Again",
+      "url": "https://open.spotify.com/track/4qHK2BNxlVpgIxxvt26hTI"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Getting Started",
-        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 199431,
-      "name": "Still Get Chanel (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 232000,
       "name": "Need To Know (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Getting Started",
+        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 199431,
+      "name": "Still Get Chanel (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
     },
     {
       "added_at": null,

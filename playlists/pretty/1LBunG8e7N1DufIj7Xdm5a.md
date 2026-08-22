@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,738 songs - 10 day 15 hr 2 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,740 songs - 10 day 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4746,5 +4746,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4736 | [Quiet Waters \(fomo mode\)](https://open.spotify.com/track/2v0xsudWcW21BSmaMVkQFT) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 4:19 |
 | 4737 | [Steering the Wheel \(fomo mode\)](https://open.spotify.com/track/6dkgsChrAJLfXaloNWwbYQ) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:09 |
 | 4738 | [Unbroken Legacy \(fomo mode\)](https://open.spotify.com/track/4rFgJ7BKtrIPjsTWn0v6ci) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:48 |
+| 4739 | [Das Spiel War Woanders](https://open.spotify.com/track/1C2iLmHmjo5V8FfBrRNHWw) | [Rotfuchs](https://open.spotify.com/artist/5jVVsL8gi9wV0bvdEqwGGY) | [Das Spiel War Woanders](https://open.spotify.com/album/1oFzw0MQGMu4hoE0gMncv0) | 4:15 |
+| 4740 | [Tenfold The Blood](https://open.spotify.com/track/0tkxA99Aw4l1e7KQHHj5lt) | [Screams of Tranquility](https://open.spotify.com/artist/0gin8Rgot6p6gKUBVEzw6s) | [Tenfold The Blood](https://open.spotify.com/album/4ef5s7ih5jPzf0hPOdpVT5) | 3:42 |
 
-Snapshot ID: `AAAJwO/PNzdW5NA9xLUcSx+JYETFaXbW`
+Snapshot ID: `AAAJwh8CtWJAfXO88bDu6iZpWS+nByR4`

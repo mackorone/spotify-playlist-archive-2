@@ -1,12 +1,12 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 532688,
+  "num_followers": 532684,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJN8GWN2dzinEn5vwgiZapMQhnH",
+  "snapshot_id": "AAAAAID3ZOLMwdpdguTUvruORvy/ahKY",
   "tracks": [
     {
       "added_at": "2024-07-25 13:22:22",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Les mots bleus",
+        "url": "https://open.spotify.com/album/46kTt80CYge3BA2IWx4WRh"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "Les Mots Bleus",
+      "url": "https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "France Gall CD Story",
         "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 153480,
       "name": "Poup\u00e9e de cire, poup\u00e9e de son",
       "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Infiniment",
         "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 186533,
       "name": "Vesoul",
       "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Les mots bleus",
-        "url": "https://open.spotify.com/album/46kTt80CYge3BA2IWx4WRh"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "Les Mots Bleus",
-      "url": "https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30"
     },
     {
       "added_at": "2024-07-25 13:22:22",

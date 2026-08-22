@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,689 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,745 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 53 | [Diamonds \(Further Than I Ever Was\)](https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Diamonds \(Further Than I Ever Was\)](https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6) | 4:56 |
 | 54 | [Iajo](https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Iajo](https://open.spotify.com/album/00D70fYsAp00LqwJuh6214) | 4:38 |
 | 55 | [Endless Summer](https://open.spotify.com/track/3WqhLccL1MTExpYKoCQLQO) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Endless Summer](https://open.spotify.com/album/3JxuBUvsMKKzDq3IWb7YNK) | 3:40 |
-| 56 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
-| 57 | [1973](https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [1973](https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV) | 4:45 |
+| 56 | [1973](https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [1973](https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV) | 4:45 |
+| 57 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
 | 58 | [Thinkin' Bout You](https://open.spotify.com/track/3HCVUH2yntYEwkdCMSV7ao) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq) | [Thinkin' Bout You](https://open.spotify.com/album/64RcVLjy4BzPOrHWFC526Q) | 3:55 |
-| 59 | [Morning Runner](https://open.spotify.com/track/3TzdAptrboz9BXmJrd1hKk) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Morning Runner](https://open.spotify.com/album/4Gkfg3M7O0mgzEcyhRee8P) | 3:38 |
-| 60 | [I Never Want This To End](https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [I Never Want This To End EP](https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw) | 2:58 |
+| 59 | [I Never Want This To End](https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [I Never Want This To End EP](https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw) | 2:58 |
+| 60 | [Morning Runner](https://open.spotify.com/track/3TzdAptrboz9BXmJrd1hKk) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Morning Runner](https://open.spotify.com/album/4Gkfg3M7O0mgzEcyhRee8P) | 3:38 |
 
-Snapshot ID: `AAAAABy7QW6pSNhfOLJ6Xpzh7TYvGETH`
+Snapshot ID: `AAAAAMBzH4nXPANyovaJtBw09F8taFO/`

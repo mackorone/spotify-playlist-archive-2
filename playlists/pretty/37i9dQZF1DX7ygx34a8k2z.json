@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 320324,
+  "num_followers": 320375,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAUrhkWWcAgAgbYcczZ2qqJ0lsB5",
+  "snapshot_id": "AAAAAN5tjJnUSxUz+ZhQswRJDcIzyQRB",
   "tracks": [
     {
       "added_at": "2025-01-15 04:11:50",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "American Thighs",
         "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 245626,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Under the Pink (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U"
+        "name": "It's A Wonderful Life",
+        "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
       },
       "artists": [
         {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+          "name": "Sparklehorse",
+          "url": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
+        },
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 305533,
-      "name": "Cornflake Girl - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn"
+      "duration_ms": 163733,
+      "name": "Piano Fire",
+      "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "It's A Wonderful Life",
-        "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
+        "name": "Under the Pink (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U"
       },
       "artists": [
         {
-          "name": "Sparklehorse",
-          "url": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
-        },
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 163733,
-      "name": "Piano Fire",
-      "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
+      "duration_ms": 305533,
+      "name": "Cornflake Girl - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Galaxie / Hello, Goodbye",
-      "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 254160,
       "name": "Cold Blooded Old Times",
       "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Galaxie / Hello, Goodbye",
+      "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
     },
     {
       "added_at": "2025-01-15 04:11:50",

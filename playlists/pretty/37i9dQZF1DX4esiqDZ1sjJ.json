@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 388834,
+  "num_followers": 388829,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJIq3JGOKsQ4Iu1Srn2wiKKK40bL",
+  "snapshot_id": "AAAAAKgqPJqaSXKDHGY9w0+9qcI6ThPE",
   "tracks": [
     {
       "added_at": "2024-07-15 15:51:37",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Kernkraft 400 Single Mixes",
-        "url": "https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd"
-      },
-      "artists": [
-        {
-          "name": "Zombie Nation",
-          "url": "https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Kernkraft 400 - DJ Gius Mix, Radio Edit",
-      "url": "https://open.spotify.com/track/7g8cjrj0sXScNE727685JE"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
         "name": "The Sickness (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 278706,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
+        "name": "Kernkraft 400 Single Mixes",
+        "url": "https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd"
+      },
+      "artists": [
+        {
+          "name": "Zombie Nation",
+          "url": "https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Kernkraft 400 - DJ Gius Mix, Radio Edit",
+      "url": "https://open.spotify.com/track/7g8cjrj0sXScNE727685JE"
     },
     {
       "added_at": "2024-07-15 15:51:37",

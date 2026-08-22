@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: ONEWE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,174 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,130 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [Happy Depression](https://open.spotify.com/track/5DzZm8NYsDb8OlkAUbTPDL) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Happy Depression](https://open.spotify.com/album/2PzcbjMsMzjlsK2KjX4Iba) | 2:55 |
 | 51 | [Little By Little](https://open.spotify.com/track/196Dx9vJHa7TOhjYCo9w0I) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [\[Things We Dream : Vol.2\]](https://open.spotify.com/album/390I24KGUAc9Fvzzw4Mlul) | 3:04 |
 
-Snapshot ID: `AAAAAIY9Z2e8sSRLXizgrUzpfcJF1/wh`
+Snapshot ID: `AAAAAPJBWQ6nNMefTPRiybAhbN/Kjgl7`

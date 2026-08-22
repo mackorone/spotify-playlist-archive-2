@@ -1,13 +1,45 @@
 {
-  "description": "art takes time, six long years worth the wait. Phoebe Bridgers on the cover. <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
-  "num_followers": 1184891,
+  "description": "all eyes on james ivy. <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
+  "num_followers": 1184933,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/8tk7WFaA3ikwHrjQP6h/4VYnr",
+  "snapshot_id": "AAAAAOIBgZMN1RNFI43Cbp9i8E9AJWIH",
   "tracks": [
+    {
+      "added_at": "2026-08-14 04:01:40",
+      "album": {
+        "name": "Crawling",
+        "url": "https://open.spotify.com/album/6heE5ZRt9Ur9EOb8TsGbWB"
+      },
+      "artists": [
+        {
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/5gVu2dpIYNh64WzlqthDyr"
+    },
+    {
+      "added_at": "2026-08-21 04:00:33",
+      "album": {
+        "name": "The Seams",
+        "url": "https://open.spotify.com/album/5i1STWes0AzzRgtk4K0Ydt"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "duration_ms": 316400,
+      "name": "Eye For An Eye",
+      "url": "https://open.spotify.com/track/0v2AiyfpKx4qE0c0enlSl2"
+    },
     {
       "added_at": "2026-08-14 04:01:40",
       "album": {
@@ -23,6 +55,26 @@
       "duration_ms": 237708,
       "name": "The Outside",
       "url": "https://open.spotify.com/track/2itxcGh2MqEGswuXdeRlLL"
+    },
+    {
+      "added_at": "2026-08-21 04:00:33",
+      "album": {
+        "name": "Indecision (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Indecision (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
     },
     {
       "added_at": "2026-08-14 04:01:40",
@@ -77,84 +129,20 @@
       "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
     },
     {
-      "added_at": "2026-08-14 04:01:40",
+      "added_at": "2026-08-21 04:00:33",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 217205,
-      "name": "I Can\u2019t Wait",
-      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
-    },
-    {
-      "added_at": "2026-08-14 04:01:40",
-      "album": {
-        "name": "Now I've Got A Lot You Know",
-        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 310596,
-      "name": "Now I've Got A Lot You Know",
-      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
-    },
-    {
-      "added_at": "2026-08-10 19:16:49",
-      "album": {
-        "name": "C,XOXO (Magic City Edition)",
-        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "B.O.A.T.",
-      "url": "https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6"
-    },
-    {
-      "added_at": "2026-08-07 04:02:01",
-      "album": {
-        "name": "DO YOU SEE ME?",
-        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
-      },
-      "artists": [
-        {
-          "name": "Q Marsden",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "silly boy",
-      "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"
-    },
-    {
-      "added_at": "2026-08-14 04:01:40",
-      "album": {
-        "name": "Crawling",
-        "url": "https://open.spotify.com/album/6heE5ZRt9Ur9EOb8TsGbWB"
-      },
-      "artists": [
-        {
-          "name": "Haley Bridge",
-          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/5gVu2dpIYNh64WzlqthDyr"
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
     },
     {
       "added_at": "2026-08-17 22:27:19",
@@ -184,9 +172,25 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 239007,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
+      "duration_ms": 217205,
+      "name": "I Can\u2019t Wait",
+      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
+    },
+    {
+      "added_at": "2026-08-21 04:00:33",
+      "album": {
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "added_at": "2026-07-31 04:02:08",
@@ -205,26 +209,6 @@
       "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
     },
     {
-      "added_at": "2026-08-07 04:02:01",
-      "album": {
-        "name": "The World Keeps Spinning",
-        "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 135306,
-      "name": "The World Keeps Spinning",
-      "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
-    },
-    {
       "added_at": "2026-08-14 04:01:40",
       "album": {
         "name": "Tails",
@@ -241,36 +225,20 @@
       "url": "https://open.spotify.com/track/2Mx3rxRrUuZQjYGyZgQTPR"
     },
     {
-      "added_at": "2026-07-31 04:02:08",
+      "added_at": "2026-08-21 04:00:33",
       "album": {
-        "name": "Twiggy",
-        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+        "name": "the cops are coming",
+        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
         }
       ],
-      "duration_ms": 209258,
-      "name": "Twiggy",
-      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
-    },
-    {
-      "added_at": "2026-08-14 04:01:40",
-      "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 281544,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
+      "duration_ms": 193615,
+      "name": "the cops are coming",
+      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
     },
     {
       "added_at": "2026-08-17 22:27:19",
@@ -291,22 +259,6 @@
       "duration_ms": 245626,
       "name": "Pain is the Heart of Love",
       "url": "https://open.spotify.com/track/16aCAD1wmZL2slFfxT7zs2"
-    },
-    {
-      "added_at": "2026-08-07 04:02:01",
-      "album": {
-        "name": "Truth or Dare",
-        "url": "https://open.spotify.com/album/4MKe28WDs1OdlvueCEeMvj"
-      },
-      "artists": [
-        {
-          "name": "Mackeeper",
-          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
-        }
-      ],
-      "duration_ms": 154498,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/62CSylX8QyL5bvcSCE2He0"
     },
     {
       "added_at": "2026-08-14 04:01:40",
@@ -341,22 +293,6 @@
       "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
-      "added_at": "2026-08-07 04:02:01",
-      "album": {
-        "name": "Chuck Timely & The Hourglass",
-        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 262057,
-      "name": "Love I You",
-      "url": "https://open.spotify.com/track/5va7AdTu5BWzZcziPkdxSP"
-    },
-    {
       "added_at": "2026-07-31 04:02:08",
       "album": {
         "name": "deep end",
@@ -373,20 +309,168 @@
       "url": "https://open.spotify.com/track/4PYs8qD6tLUGKP6B27Fij1"
     },
     {
-      "added_at": "2026-07-24 04:02:04",
+      "added_at": "2026-08-21 04:00:33",
       "album": {
-        "name": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
-        "url": "https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0"
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/6Y9CRPjf0erjNZhcfVSE5t"
       },
       "artists": [
         {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+          "name": "2oo7",
+          "url": "https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu"
         }
       ],
-      "duration_ms": 234840,
-      "name": "Royal Courts (Great Misfortune)",
-      "url": "https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d"
+      "duration_ms": 193000,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/38f7tA98Gx5pQfuFheNSac"
+    },
+    {
+      "added_at": "2026-08-14 04:01:40",
+      "album": {
+        "name": "Now I've Got A Lot You Know",
+        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 310596,
+      "name": "Now I've Got A Lot You Know",
+      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
+    },
+    {
+      "added_at": "2026-08-10 19:16:49",
+      "album": {
+        "name": "C,XOXO (Magic City Edition)",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "B.O.A.T.",
+      "url": "https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6"
+    },
+    {
+      "added_at": "2026-08-21 04:00:33",
+      "album": {
+        "name": "SPEED DEMON / WHITEHORSEMANNEQUIN",
+        "url": "https://open.spotify.com/album/60lw1wW9N8IBzi9nebdiCW"
+      },
+      "artists": [
+        {
+          "name": "Lucy Bedroque",
+          "url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "SPEED DEMON",
+      "url": "https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu"
+    },
+    {
+      "added_at": "2026-08-07 04:02:01",
+      "album": {
+        "name": "DO YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
+      },
+      "artists": [
+        {
+          "name": "Q Marsden",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "silly boy",
+      "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"
+    },
+    {
+      "added_at": "2026-08-14 04:01:40",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 281544,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
+    },
+    {
+      "added_at": "2026-08-14 04:01:40",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 239007,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
+    },
+    {
+      "added_at": "2026-08-07 04:02:01",
+      "album": {
+        "name": "The World Keeps Spinning",
+        "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 135306,
+      "name": "The World Keeps Spinning",
+      "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
+    },
+    {
+      "added_at": "2026-07-31 04:02:08",
+      "album": {
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
+    },
+    {
+      "added_at": "2026-08-07 04:02:01",
+      "album": {
+        "name": "Truth or Dare",
+        "url": "https://open.spotify.com/album/4MKe28WDs1OdlvueCEeMvj"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        }
+      ],
+      "duration_ms": 154498,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/62CSylX8QyL5bvcSCE2He0"
     },
     {
       "added_at": "2026-07-31 04:02:08",
@@ -413,20 +497,52 @@
       "url": "https://open.spotify.com/track/7zPQPdeMPec0LqYjC8c1an"
     },
     {
-      "added_at": "2026-08-14 04:01:40",
+      "added_at": "2026-08-07 04:02:01",
       "album": {
-        "name": "1 By One",
-        "url": "https://open.spotify.com/album/2PlmI6Z9ODq3fl6qkYhEXe"
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
       },
       "artists": [
         {
-          "name": "Ideas By Ab",
-          "url": "https://open.spotify.com/artist/2UXnSoWQ8fW3iaDLKzoLwk"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 129400,
-      "name": "1 By One",
-      "url": "https://open.spotify.com/track/0uXMI4wHx7WI6pixBhHu4T"
+      "duration_ms": 262057,
+      "name": "Love I You",
+      "url": "https://open.spotify.com/track/5va7AdTu5BWzZcziPkdxSP"
+    },
+    {
+      "added_at": "2026-07-24 04:02:04",
+      "album": {
+        "name": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
+        "url": "https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Royal Courts (Great Misfortune)",
+      "url": "https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d"
+    },
+    {
+      "added_at": "2026-08-12 22:41:40",
+      "album": {
+        "name": "rwm",
+        "url": "https://open.spotify.com/album/7fEre53L3MiyxsBAst0PHY"
+      },
+      "artists": [
+        {
+          "name": "the booyah! kids",
+          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
+        }
+      ],
+      "duration_ms": 150615,
+      "name": "rwm",
+      "url": "https://open.spotify.com/track/5KuDuzCVDZqtFz83HMZsLP"
     },
     {
       "added_at": "2026-08-07 04:02:01",
@@ -533,20 +649,20 @@
       "url": "https://open.spotify.com/track/1o656MCao56taI8DPKW4HD"
     },
     {
-      "added_at": "2026-08-12 22:41:40",
+      "added_at": "2026-08-14 04:01:40",
       "album": {
-        "name": "rwm",
-        "url": "https://open.spotify.com/album/7fEre53L3MiyxsBAst0PHY"
+        "name": "1 By One",
+        "url": "https://open.spotify.com/album/2PlmI6Z9ODq3fl6qkYhEXe"
       },
       "artists": [
         {
-          "name": "the booyah! kids",
-          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
+          "name": "Ideas By Ab",
+          "url": "https://open.spotify.com/artist/2UXnSoWQ8fW3iaDLKzoLwk"
         }
       ],
-      "duration_ms": 150615,
-      "name": "rwm",
-      "url": "https://open.spotify.com/track/5KuDuzCVDZqtFz83HMZsLP"
+      "duration_ms": 129400,
+      "name": "1 By One",
+      "url": "https://open.spotify.com/track/0uXMI4wHx7WI6pixBhHu4T"
     },
     {
       "added_at": "2026-07-24 04:02:04",

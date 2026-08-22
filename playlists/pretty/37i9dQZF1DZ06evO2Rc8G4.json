@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 175321,
+  "num_followers": 175338,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADmR8EiWqdnL5n59Nz0MHCG",
+  "snapshot_id": "aoZDgAAAAACT6CD5jRXRqj1cKxUFmAKY",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Up (From the Netflix Documentary 'Kylie')",
-        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Light Up (From the Netflix Documentary 'Kylie')",
-      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
       },
@@ -427,6 +411,42 @@
       "duration_ms": 286706,
       "name": "Kids",
       "url": "https://open.spotify.com/track/21pvCJBSp34fC17YHOtw05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Light Up (From the Netflix Documentary 'Kylie')",
+        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Light Up (From the Netflix Documentary 'Kylie')",
+      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
     },
     {
       "added_at": null,
@@ -463,42 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timebomb",
-        "url": "https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "Timebomb",
-      "url": "https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/45HaaeQWPzIHJDpvVdYXm8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 310081,
       "name": "Chiggy Wiggy",
       "url": "https://open.spotify.com/track/4nt1pLbjBHtpHFarYXRHHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timebomb",
+        "url": "https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/1uMNoNdPEtf8jhK6gxaDTO"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Turn It into Love",
-      "url": "https://open.spotify.com/track/1LH4pipBS71ZUPHmFS4gpC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension II",
         "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
@@ -887,6 +871,26 @@
       "duration_ms": 189093,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 168599,
+      "name": "Stateside + Kylie Minogue",
+      "url": "https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

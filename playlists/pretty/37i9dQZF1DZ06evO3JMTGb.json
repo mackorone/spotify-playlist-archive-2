@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADHlD87S0222e3EB86BJvPE",
+  "snapshot_id": "aoZDgAAAAADQl74MVvLgwJ6mxBzJeVVi",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 213253,
-      "name": "N\u00f8kken",
-      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
+      "duration_ms": 199093,
+      "name": "Comes with sunrise",
+      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Comes with sunrise",
-      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
+      "duration_ms": 213253,
+      "name": "N\u00f8kken",
+      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
     },
     {
       "added_at": null,
@@ -535,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+        "name": "Goddag",
+        "url": "https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6"
       },
       "artists": [
+        {
+          "name": "Phine & Ormen",
+          "url": "https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO"
+        },
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
+      "duration_ms": 160000,
+      "name": "Jeg Kan S\u00e5 Godt Li Blomster",
+      "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
     },
     {
       "added_at": null,
@@ -591,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddag",
-        "url": "https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6"
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
       "artists": [
-        {
-          "name": "Phine & Ormen",
-          "url": "https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO"
-        },
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Jeg Kan S\u00e5 Godt Li Blomster",
-      "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": null,

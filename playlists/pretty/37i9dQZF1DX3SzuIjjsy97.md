@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 
 > The best hits from the biggest shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,118 likes - 49 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,119 likes - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 | 42 | [Omigod You Guys](https://open.spotify.com/track/2av1BBGdN9DW1u7rvoRhMM) | [Annaleigh Ashford](https://open.spotify.com/artist/4cHdzQMvESi5fSYStocJQT), [Delta Nus](https://open.spotify.com/artist/0MRTwWoH56JG2IxfQgOFMl), [Dequina Moore](https://open.spotify.com/artist/1WKZeYNzwar047FcK0Y47n), [Laura Bell Bundy](https://open.spotify.com/artist/32bisvV1h0yF3PeKmWI6sj), [Leslie Kritzer](https://open.spotify.com/artist/0VJgvx0e4MTvL1A9o2HKQz) | [Legally Blonde The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7os43c6BUhMJkDUaEtDufk) | 5:46 |
 | 43 | [When I Kissed The Teacher](https://open.spotify.com/track/1WOBzx0R3hyphrI1AUv4Zu) | [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K), [Jessica Keenan Wynn](https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ), [Alexa Davies](https://open.spotify.com/artist/30o4QIjXJukHg0IGC93AV1), [Celia Imrie](https://open.spotify.com/artist/0ueWjtogcQO8bHxAskyxDY) | [Mamma Mia! Here We Go Again \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14hC5eBiPUxdPa90eCzwrR) | 3:01 |
 | 44 | [No Place Like Home](https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 3:51 |
-| 45 | [Husavik \(My Hometown\)](https://open.spotify.com/track/6ofMKJjMpfDEb48JYEAgjX) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 3:22 |
+| 45 | [Sexy](https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts) | [Kate Rockwell](https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:35 |
 | 46 | [For the First Time in Forever \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/1SCw7GSw06Fpk5vQilILui) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:45 |
-| 47 | [Sexy](https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts) | [Kate Rockwell](https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:35 |
+| 47 | [Husavik \(My Hometown\)](https://open.spotify.com/track/6ofMKJjMpfDEb48JYEAgjX) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 3:22 |
 | 48 | [Revolting Children](https://open.spotify.com/track/5jb55O3h5dfOK4YMUbTb1Y) | [Matilda the Musical Original Cast](https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41) | [Matilda the Musical \(Original London Cast Recording\)](https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU) | 2:32 |
 | 49 | [Seize The Day](https://open.spotify.com/track/0BxKZikii9efSIodiQALJ5) | [Ben Fankhauser](https://open.spotify.com/artist/46yt6WJsgzPiAtnCe809UV), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Newsies Original Broadway Cast](https://open.spotify.com/artist/6yTc5YHDriVSWYq8vPA4Xi) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 5:22 |
 
-Snapshot ID: `AAAAAN6Eb0r9M1cUXyENUy2/pNuCOUYj`
+Snapshot ID: `AAAAAFntr5a11wRL+XB1G5c7yABeUNj/`

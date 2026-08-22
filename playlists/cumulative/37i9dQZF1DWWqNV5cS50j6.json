@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Alternative indie music etc. Cover: Sub Urban",
+  "description": "Alternative indie music etc. Cover: Fontaines D.C",
   "name": "anti pop",
   "tracks": [
     {
@@ -252,6 +252,24 @@
       "duration_ms": 64722,
       "name": "2hrs",
       "url": "https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn"
+    },
+    {
+      "album": {
+        "name": "2late",
+        "url": "https://open.spotify.com/album/5qjHQrAOXmJlz6gCQ9cGDX"
+      },
+      "artists": [
+        {
+          "name": "Lancer",
+          "url": "https://open.spotify.com/artist/5vRmD7KJ6YTo3tMKaywbbb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "2late",
+      "url": "https://open.spotify.com/track/72uQrCNSvA8TViHajPbMH9"
     },
     {
       "album": {
@@ -6360,7 +6378,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 198616,
       "name": "CLAMS ARE JUST SHELLS",
       "url": "https://open.spotify.com/track/3aufXmyK5eWknYNFFQ3fjl"
@@ -6858,7 +6876,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 219256,
       "name": "COMMON SENSE",
       "url": "https://open.spotify.com/track/6cvY4PWZcpT9q9pqTIWUze"
@@ -12186,7 +12204,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 165790,
       "name": "Gentle Monster",
       "url": "https://open.spotify.com/track/2HMbO5Ryot2erG4Ij4LU2D"
@@ -13200,7 +13218,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 178606,
       "name": "goodWork",
       "url": "https://open.spotify.com/track/6lvebzEwTvoCF8MTL2n7nX"
@@ -15349,6 +15367,24 @@
     },
     {
       "album": {
+        "name": "Hound",
+        "url": "https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267588,
+      "name": "Hound",
+      "url": "https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6"
+    },
+    {
+      "album": {
         "name": "hours",
         "url": "https://open.spotify.com/album/5VHlWqRmzCGaFgw6yokx6L"
       },
@@ -15544,7 +15580,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 246122,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/70I4o2N1z1zF0zOkXMWnVw"
@@ -17075,6 +17111,28 @@
     },
     {
       "album": {
+        "name": "Indecision (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Indecision (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
+    },
+    {
+      "album": {
         "name": "Indecisive (feat. Tommy Genesis)",
         "url": "https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6"
       },
@@ -17688,7 +17746,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 114986,
       "name": "keep it up",
       "url": "https://open.spotify.com/track/0QihOt3PvTC50rZKTc7CU0"
@@ -20137,6 +20195,24 @@
     },
     {
       "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
+    },
+    {
+      "album": {
         "name": "Hearth Room",
         "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
       },
@@ -20398,6 +20474,24 @@
       "duration_ms": 170060,
       "name": "Maybe Not",
       "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
+    },
+    {
+      "album": {
+        "name": "Maybe Selena",
+        "url": "https://open.spotify.com/album/5bGT1tX9jmddlQu1TETmIh"
+      },
+      "artists": [
+        {
+          "name": "Clyde Crooks",
+          "url": "https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222818,
+      "name": "Maybe Selena",
+      "url": "https://open.spotify.com/track/4pfeWrjIyUu7WjCsgbKE1Q"
     },
     {
       "album": {
@@ -20804,7 +20898,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 88462,
       "name": "mice band",
       "url": "https://open.spotify.com/track/63vLLRlmKWPrhSmW4D1Sk3"
@@ -24982,7 +25076,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 108791,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
@@ -25243,6 +25337,28 @@
     },
     {
       "album": {
+        "name": "Preacherman",
+        "url": "https://open.spotify.com/album/5rIF3TL9ToRbHDQDmcVANn"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132489,
+      "name": "Preacherman",
+      "url": "https://open.spotify.com/track/19PCI3AINRtzUzXwFfTIOF"
+    },
+    {
+      "album": {
         "name": "predictable",
         "url": "https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to"
       },
@@ -25488,6 +25604,24 @@
       "duration_ms": 175252,
       "name": "PRETTY",
       "url": "https://open.spotify.com/track/6n3EY5Z8cC3CJLoBk3z7Ff"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/6Y9CRPjf0erjNZhcfVSE5t"
+      },
+      "artists": [
+        {
+          "name": "2oo7",
+          "url": "https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/38f7tA98Gx5pQfuFheNSac"
     },
     {
       "album": {
@@ -28741,6 +28875,24 @@
     },
     {
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/6av4T66RvMiGH1SaEqYDAH"
+      },
+      "artists": [
+        {
+          "name": "Lover",
+          "url": "https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224815,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/3vNfyV7eeceVZGjBIan5Kv"
+    },
+    {
+      "album": {
         "name": "Since September",
         "url": "https://open.spotify.com/album/6lvciV8L3fuHDz2bxPrbHg"
       },
@@ -29184,7 +29336,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 168749,
       "name": "Smoke break",
       "url": "https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB"
@@ -29484,7 +29636,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 197576,
       "name": "Society",
       "url": "https://open.spotify.com/track/0GjDfRE6GZL74N80Y9pGCu"
@@ -32399,6 +32551,24 @@
     },
     {
       "album": {
+        "name": "the cops are coming",
+        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
+      },
+      "artists": [
+        {
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193615,
+      "name": "the cops are coming",
+      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
+    },
+    {
+      "album": {
         "name": "The Cost of Freedom",
         "url": "https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0"
       },
@@ -34470,6 +34640,24 @@
       "duration_ms": 191220,
       "name": "Two Feet",
       "url": "https://open.spotify.com/track/7umNx2x8ve6JGZSZOUw9xU"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Two Roads",
+      "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"
     },
     {
       "album": {

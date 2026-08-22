@@ -4615,6 +4615,72 @@
     },
     {
       "album": {
+        "name": "Beethoven: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353600,
+      "name": "Piano Sonata No. 5 in C Minor, Op. 10 No. 1: I. Allegro molto e con brio",
+      "url": "https://open.spotify.com/track/1rzmVyoWk8TuEKekMDIWMR"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507800,
+      "name": "Piano Sonata No. 5 in C Minor, Op. 10 No. 1: II. Adagio molto",
+      "url": "https://open.spotify.com/track/4elvYsB4RqBGVxs7V0maB1"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286133,
+      "name": "Piano Sonata No. 5 in C Minor, Op. 10 No. 1: III. Finale. Prestissimo",
+      "url": "https://open.spotify.com/track/5HHGBiNIpVY6qBuZ0YIKkm"
+    },
+    {
+      "album": {
         "name": "Pink",
         "url": "https://open.spotify.com/album/51KEnPmInGx4cXyBIISzgj"
       },

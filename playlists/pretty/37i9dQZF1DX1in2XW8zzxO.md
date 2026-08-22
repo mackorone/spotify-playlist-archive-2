@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,554 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,612 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Rekisa Kapela \(feat\. Certified Dyan\)](https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Certified Dyan](https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q) | [The EEQualizer](https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U) | 6:01 |
 | 50 | [Pure Bliss](https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe) | [Luzyo Keys](https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Pure Bliss](https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn) | 7:30 |
 
-Snapshot ID: `AAAAALLMLu4xSiXI1rsG76SZI60XegwM`
+Snapshot ID: `AAAAAJWbfR5ofqG80SnPy09+P8//cgbw`

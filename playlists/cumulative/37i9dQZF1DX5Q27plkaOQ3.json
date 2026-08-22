@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "1000 Years",
+        "url": "https://open.spotify.com/album/5Az9PzjinARtfP2hKnoRaM"
+      },
+      "artists": [
+        {
+          "name": "Perry Wayne",
+          "url": "https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305454,
+      "name": "1000 Years",
+      "url": "https://open.spotify.com/track/6tdZNvaKYh6J8Lx3EwiOel"
+    },
+    {
+      "album": {
         "name": "1234",
         "url": "https://open.spotify.com/album/5ThSyNsXiVHyF06Zd4mZuq"
       },
@@ -2033,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "EPOCH",
+        "url": "https://open.spotify.com/album/4L5cwe8boKdYQuQsfPh95X"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Bad Boy Sound",
+      "url": "https://open.spotify.com/track/7eH8AYqGetO6He1hlu4qfm"
+    },
+    {
+      "album": {
         "name": "BAD FLESH",
         "url": "https://open.spotify.com/album/09TApAfikl37D3k3ETHKe5"
       },
@@ -3306,7 +3342,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 223142,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/1Koq175rzysdoAivLnvHan"
@@ -5627,6 +5663,32 @@
     },
     {
       "album": {
+        "name": "Cheatcode x Maniae",
+        "url": "https://open.spotify.com/album/6xpDQoDZvJJU7yuA56pjnq"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "PSYCHAZM",
+          "url": "https://open.spotify.com/artist/0qp0bmPEucUGUU4oIbgtkC"
+        },
+        {
+          "name": "Zers",
+          "url": "https://open.spotify.com/artist/0NuYuRbc0rq3k65ff9urqu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135200,
+      "name": "Cheatcode x Maniae",
+      "url": "https://open.spotify.com/track/7vpYhgaLuiCvcW9U0nPn9j"
+    },
+    {
+      "album": {
         "name": "Prismata (Dark)",
         "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
       },
@@ -7018,6 +7080,24 @@
       "duration_ms": 197571,
       "name": "Dark Star",
       "url": "https://open.spotify.com/track/3MgIQJdaPXaPeQPoZupuGr"
+    },
+    {
+      "album": {
+        "name": "High Stakes",
+        "url": "https://open.spotify.com/album/0surfohInSo6uK9rSNH0s6"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Dark Western",
+      "url": "https://open.spotify.com/track/3kCuSAo6s4lCmcdMviNKaJ"
     },
     {
       "album": {
@@ -11225,6 +11305,24 @@
     },
     {
       "album": {
+        "name": "Forest Fire",
+        "url": "https://open.spotify.com/album/0NdUQ2lHjRmslryzHVl6OX"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165428,
+      "name": "Forest Fire",
+      "url": "https://open.spotify.com/track/35CaQqeKDvfNh8MA2wSxpz"
+    },
+    {
+      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/4GwGVnX3g43iKuyjxd1s8o"
       },
@@ -13732,7 +13830,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 193714,
       "name": "Hold Me One More Time",
       "url": "https://open.spotify.com/track/6VbvigV2ODddEjJwpOMkPm"
@@ -14740,7 +14838,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 226551,
       "name": "IMPACT",
       "url": "https://open.spotify.com/track/4YLDVdlK5VNfHZJ7KxPjD9"
@@ -17754,7 +17852,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "March of the Machine - VLCN Remix",
       "url": "https://open.spotify.com/track/2nFpkhzI4Ba1kLPluj8rgy"
@@ -19996,7 +20094,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 278068,
       "name": "OCTANE",
       "url": "https://open.spotify.com/track/4HrbEQwWzOLhd8MUxIxfRl"
@@ -21036,7 +21134,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 195428,
       "name": "PAIN KILLER",
       "url": "https://open.spotify.com/track/4aiCszPjduZkMJ48PJZKiI"
@@ -22098,7 +22196,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 200571,
       "name": "PRETTY GIRLS",
       "url": "https://open.spotify.com/track/5E64oUALBVwhnqpSrARgS0"
@@ -24830,7 +24928,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 181069,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2"
@@ -24866,7 +24964,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 253714,
       "name": "SEVER THE BLOODLINE",
       "url": "https://open.spotify.com/track/13pF1gpGvXGpjeteauhaPb"
@@ -31266,7 +31364,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Want A Piece",
       "url": "https://open.spotify.com/track/7At8v3ZxqjYBDm98dRGaty"
@@ -32470,6 +32568,28 @@
       "duration_ms": 185142,
       "name": "Yoi Damage",
       "url": "https://open.spotify.com/track/3emufdkyLL7sWXQXzWa6It"
+    },
+    {
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/5saHzxuBPB0WGKSA4e39c3"
+      },
+      "artists": [
+        {
+          "name": "COSTA",
+          "url": "https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX"
+        },
+        {
+          "name": "Fortune Favor",
+          "url": "https://open.spotify.com/artist/1fkNlqFZJfsrHUNXr7xNeh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153803,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/6r0FI24st9dtMgDxqiF5Cy"
     },
     {
       "album": {

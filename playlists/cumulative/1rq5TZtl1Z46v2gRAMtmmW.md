@@ -4,7 +4,7 @@
 
 > 
 
-567 songs - 1 day 12 hr 32 min
+568 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Could Have Been So Good](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Could Have Been So Good](https://open.spotify.com/album/0TSPTOLyYN00EZ74iQelK8) | 3:26 | 2025-09-17 | 2026-01-30 |
 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 | 2023-09-22 | 2024-05-16 |
 | [D I M C O L A R E P R I S E](https://open.spotify.com/track/6rJIVu8JB1VidJByUq9X5s) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Tone Whitfield](https://open.spotify.com/artist/3rFywXk12krXVmxWJpfvo5), [Nazir Ebo](https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI) | [Salami Live at 2131 North Kacey Street](https://open.spotify.com/album/5cCjXLC4g27F75oBa5Sg4A) | 8:50 | 2024-09-18 | 2025-01-16 |
+| [D.O.T.W \- Demo](https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Hallucinating Love \(Deluxe\)](https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1) | 2:47 | 2026-08-21 |  |
 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-06 | 2023-10-13 |
 | [Dance on the World](https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dance on the World](https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d) | 3:34 | 2024-11-26 | 2025-01-22 |
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-08-30 | 2023-06-01 |

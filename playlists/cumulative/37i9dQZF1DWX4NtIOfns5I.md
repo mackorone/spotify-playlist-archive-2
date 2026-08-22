@@ -4,7 +4,7 @@
 
 > now all I know is the ending
 
-884 songs - 2 day 5 hr 22 min
+885 songs - 2 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Hells On The Loose](https://open.spotify.com/track/77PIWpIfC7ZKD0Kz3aJSMZ) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Hells On The Loose](https://open.spotify.com/album/6VVe6qPxOEoHmYdJjNdIfJ) | 4:29 | 2024-05-10 | 2025-02-08 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-11 | 2025-09-27 |
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2024-09-09 | 2025-05-10 |
+| [Hey Big Dipper](https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Hey Big Dipper](https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe) | 3:06 | 2026-08-21 |  |
 | [Hey Mama](https://open.spotify.com/track/1UjdWK2qSXojLOsDaYOhqS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Hey Mama](https://open.spotify.com/album/47w1YxYuoIGR2yPJyLEsZI) | 3:56 | 2025-09-19 | 2026-02-21 |
 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 | 2024-03-08 | 2025-02-08 |
 | [Hikikomori](https://open.spotify.com/track/2MnwEZniGPiDXSeMQYqvJM) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [JVC](https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry) | 3:29 | 2025-05-09 | 2025-09-13 |
@@ -478,7 +479,7 @@
 | [Mess In Your Eyes](https://open.spotify.com/track/4MD6izirfGgKzISrvAQToR) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Mess In Your Eyes // Vultures](https://open.spotify.com/album/7oC4ROmKGWdEmFSZmAPyeB) | 3:51 | 2025-07-18 | 2026-01-24 |
 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 | 2026-07-21 |  |
 | [Middle of Nowhere](https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb) | 2:36 | 2026-04-17 |  |
-| [Miffed It](https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Miffed It](https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe) | 4:06 | 2026-02-20 |  |
+| [Miffed It](https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Miffed It](https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe) | 4:06 | 2026-02-20 | 2026-08-22 |
 | [Might](https://open.spotify.com/track/55ZwLTMAr2gGDawefZAUdN) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Might](https://open.spotify.com/album/0Zun8lMQQRIiPA6iD38vFr) | 4:20 | 2025-06-20 | 2026-01-17 |
 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-03-29 | 2024-09-14 |
 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-10-06 | 2024-07-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 597835,
+  "num_followers": 597864,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABu7uHWrVmngXafNb4sHGmi",
+  "snapshot_id": "aoZDgAAAAAA5nxrtsJq1FNDIBQwvLzPW",
   "tracks": [
     {
       "added_at": null,
@@ -138,15 +138,11 @@
         {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 282040,
-      "name": "As",
-      "url": "https://open.spotify.com/track/22WJbbti5hZkY7J8jwVX9o"
+      "duration_ms": 434866,
+      "name": "Cowboys and Angels - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/4WCDSDVpgcxtjT9iT8TMGt"
     },
     {
       "added_at": null,
@@ -206,11 +202,15 @@
         {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 434866,
-      "name": "Cowboys and Angels - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/4WCDSDVpgcxtjT9iT8TMGt"
+      "duration_ms": 282040,
+      "name": "As",
+      "url": "https://open.spotify.com/track/22WJbbti5hZkY7J8jwVX9o"
     },
     {
       "added_at": null,

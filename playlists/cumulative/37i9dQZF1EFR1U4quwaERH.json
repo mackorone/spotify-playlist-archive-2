@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Not That Deep (Little Bit Extra Version)",
+        "url": "https://open.spotify.com/album/38jx3wDxS45zzKUIeAE4Z7"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203073,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/6HzNXN730dXkoUeSlPFWrv"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv"
       },

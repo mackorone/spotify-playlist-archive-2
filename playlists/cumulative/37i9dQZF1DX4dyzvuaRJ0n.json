@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance & electronic hits. Cover: Michael Bibi & KETTAMA",
+  "description": "The world's biggest dance & electronic hits. Cover: NGHTMRE & Jordin Sparks",
   "name": "mint",
   "tracks": [
     {
@@ -4586,7 +4586,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
@@ -7233,6 +7233,36 @@
     },
     {
       "album": {
+        "name": "Do For Love",
+        "url": "https://open.spotify.com/album/0wOR43qEKPvjAgY8Nk06hb"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193691,
+      "name": "Do For Love",
+      "url": "https://open.spotify.com/track/4IvvBFEmQxWgDcvi5Jn6r0"
+    },
+    {
+      "album": {
         "name": "SLEEP",
         "url": "https://open.spotify.com/album/5mzCJJA5kAQRgHZIUIpR0t"
       },
@@ -9380,6 +9410,24 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
+    },
+    {
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
     },
     {
       "album": {
@@ -12403,6 +12451,32 @@
     },
     {
       "album": {
+        "name": "High In Ibiza",
+        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "High In Ibiza",
+      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
+    },
+    {
+      "album": {
         "name": "High On Me",
         "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
       },
@@ -13952,7 +14026,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 176645,
       "name": "I Need U (feat. Ellie Maxwell)",
       "url": "https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf"
@@ -17535,6 +17609,24 @@
     },
     {
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/1bfjSRpS2OWgxFRmxiaQWO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230294,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8"
+    },
+    {
+      "album": {
         "name": "Lonely (feat. Sananda Maitreya)",
         "url": "https://open.spotify.com/album/154V38RtyuJFnlK8WsLtT5"
       },
@@ -20652,6 +20744,28 @@
       "duration_ms": 222840,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/64jx6PV3hXstEZ7hggGeKw"
+    },
+    {
+      "album": {
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/2VFS1Gyx1f9abu19Nf7kRd"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197241,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA"
     },
     {
       "album": {
@@ -24401,6 +24515,24 @@
     },
     {
       "album": {
+        "name": "Reason Why",
+        "url": "https://open.spotify.com/album/4pYuKuFoNdNFOpMayYE8Yg"
+      },
+      "artists": [
+        {
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Reason Why",
+      "url": "https://open.spotify.com/track/2gdRuTUTwNMSuuBpam6XS3"
+    },
+    {
+      "album": {
         "name": "Receipts (feat. Gunna)",
         "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
       },
@@ -25969,6 +26101,28 @@
     },
     {
       "album": {
+        "name": "50 ballerinas",
+        "url": "https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "seeing stars",
+      "url": "https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x"
+    },
+    {
+      "album": {
         "name": "Never Walk Alone",
         "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
       },
@@ -26216,7 +26370,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 203076,
       "name": "SHADES OF BLUE",
       "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
@@ -26506,7 +26660,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
@@ -27716,7 +27870,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 216744,
       "name": "Spirit Higher",
       "url": "https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25"
@@ -28756,7 +28910,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 220622,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
@@ -33702,7 +33856,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 158769,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM"

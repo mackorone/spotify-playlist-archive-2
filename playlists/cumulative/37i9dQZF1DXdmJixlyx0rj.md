@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Winter Back\)
 
-331 songs - 18 hr 38 min
+332 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [MOM \(feat\. So!YoON!\)](https://open.spotify.com/track/7kjrjlPMRQCNF93rv2Lz81) | [이수호](https://open.spotify.com/artist/7lBTPuykSETKIYL6JYjSHP), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Monika](https://open.spotify.com/album/5Mv4DGuPIBSBg2V3wLOPKA) | 3:02 | 2024-04-05 | 2024-06-29 |
 | [MONA LISA \(Afro House Remix\)](https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA \(Remix so fine\)](https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp) | 3:05 | 2025-04-02 |  |
 | [Monster \- LDN Noise Creeper Bass Remix](https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOTTO \- The 3rd Album Repackage](https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki) | 4:05 | 2024-06-28 |  |
-| [MOONLIGHT \- MOTi Remix](https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW) | [HENRY LAU](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [MOONLIGHT \(MOTi Remix\)](https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2) | 2:43 | 2024-06-28 |  |
+| [MOONLIGHT \- MOTi Remix](https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW) | [HENRY LAU](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [MOONLIGHT \(MOTi Remix\)](https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2) | 2:43 | 2024-06-28 | 2026-08-22 |
 | [MOOSA \(feat\. PENOMECO\)](https://open.spotify.com/track/0hkOgOg5OtQlGkvQts4z3Z) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [MOOSA](https://open.spotify.com/album/0tCsTjDv2UMbgFAEdMwAdU) | 2:34 | 2025-09-22 | 2026-01-05 |
 | [Motion](https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb) | [Take Note](https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0), [GUILTY PLEASURE](https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP) | [Motion](https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM) | 4:16 | 2024-06-28 | 2024-11-11 |
 | [MOVEURBODY](https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [MOVEURBODY](https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW) | 2:16 | 2026-03-23 |  |
@@ -233,6 +233,7 @@
 | [Perfume \- Jafunk Remix](https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [iScreaM Vol.24 : Perfume Remixes](https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc) | 2:48 | 2024-04-05 | 2026-06-23 |
 | [Phantom \- IMLAY Remix](https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 3:10 | 2024-04-05 | 2025-01-27 |
 | [Phantom \- Pierre Blanche Remix](https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [Pierre Blanche](https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 4:04 | 2024-04-05 | 2025-06-03 |
+| [Phone Down](https://open.spotify.com/track/1xUtJf93RvTpa5Wm1w10Ux) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV), [DPR ARTIC](https://open.spotify.com/artist/0MaYYvxoSPs7CZ5UnsjMO9), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [XEÖUL](https://open.spotify.com/album/4HThPrEuT8tIYHDcBOO9a2) | 3:00 | 2026-08-20 |  |
 | [Photon](https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Koriz](https://open.spotify.com/artist/2pLjVFjvF73gyjXgOUGKQP), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Photon](https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi) | 2:22 | 2024-06-28 |  |
 | [PINKY UP \- Katwalk Remix](https://open.spotify.com/track/7o6hR43FSGru6pmc9KofQU) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [PINKY UP: The Remixes](https://open.spotify.com/album/6SbW01YgpOGMmqTm8XoyBB) | 2:47 | 2026-06-23 |  |
 | [Pinnacle \- Pure 100% Remix](https://open.spotify.com/track/36BVMpm5KbIF5G14mU6ZGw) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ), [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP) | [Pinnacle \(Remixes\)](https://open.spotify.com/album/0u1csmgyK18AZgiFeBxtog) | 3:26 | 2024-05-09 | 2024-06-29 |

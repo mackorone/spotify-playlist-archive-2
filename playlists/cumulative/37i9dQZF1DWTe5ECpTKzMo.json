@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La tierra del Rap de oro puro. Beto Sierra & Grupo Marca Registrada dominando.",
+  "description": "La tierra del Rap de oro puro. Russo, Luis R Conriquez, Millonario y Esau Ortiz dominando.",
   "name": "Hip-Hop MX 24k",
   "tracks": [
     {
@@ -1173,6 +1173,36 @@
     },
     {
       "album": {
+        "name": "Empareje Remix",
+        "url": "https://open.spotify.com/album/6BsJF6zbBIRYSh2qisBMEm"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198733,
+      "name": "Empareje Remix",
+      "url": "https://open.spotify.com/track/2AJ8ltGJsScmIlc0aiM3pK"
+    },
+    {
+      "album": {
         "name": "Conf\u00eda",
         "url": "https://open.spotify.com/album/5qZZlFbaAZPgkT71XWCucN"
       },
@@ -1631,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "La Pichichi",
+        "url": "https://open.spotify.com/album/6eW4e2y7uiQ1LyO3J8QwNe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Manjarrez",
+          "url": "https://open.spotify.com/artist/3nmpoFfQfHCsqho4taq5FK"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "La Pichichi",
+      "url": "https://open.spotify.com/track/3obRLzzRD1CAy1wfU9DCqI"
+    },
+    {
+      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
       },
@@ -1838,6 +1886,28 @@
       "duration_ms": 371162,
       "name": "Liga Malandra 3",
       "url": "https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd"
+    },
+    {
+      "album": {
+        "name": "METANOIA",
+        "url": "https://open.spotify.com/album/7yZYm93cgHuJLYL8BmuaCo"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205250,
+      "name": "LOS DRONES",
+      "url": "https://open.spotify.com/track/0tRR2dAs70P994rhNl9Opq"
     },
     {
       "album": {
@@ -2444,7 +2514,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 233273,
       "name": "Odio el Drama",
       "url": "https://open.spotify.com/track/3vhPJL3xarF2lPYTMTU8v5"
@@ -3054,7 +3124,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 173714,
       "name": "Ser\u00eda Un Placer",
       "url": "https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN"
@@ -3130,7 +3200,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213560,
       "name": "Si Nunca Va a Amanecer",
       "url": "https://open.spotify.com/track/62mv8OMTIeYjlL7ofwgvMI"
@@ -3196,7 +3266,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"

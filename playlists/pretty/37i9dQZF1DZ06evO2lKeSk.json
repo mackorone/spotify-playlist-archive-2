@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 374588,
+  "num_followers": 374612,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAD35WyNb/UK/KhF1wEfOX2l",
+  "snapshot_id": "aoZDgAAAAABuFJAEpm1wtEkJB/PdvDur",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 239773,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 250800,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 239773,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "C\u00f3mo Olvidar",
+      "url": "https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -239,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
@@ -248,9 +264,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 260173,
-      "name": "C\u00f3mo Olvidar",
-      "url": "https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ"
+      "duration_ms": 208066,
+      "name": "Qu\u00e9 Manera de Perder",
+      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
     },
     {
       "added_at": null,
@@ -347,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
       "artists": [
         {
@@ -356,9 +372,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 208066,
-      "name": "Qu\u00e9 Manera de Perder",
-      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
+      "duration_ms": 201506,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz"
     },
     {
       "added_at": null,
@@ -379,22 +395,6 @@
       "duration_ms": 220320,
       "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/5UtNsaUhCptZJzw1yIFFdz"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Me Equivoqu\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivencias",
         "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 310173,
       "name": "Eres Todo en M\u00ed (You're My Everything)",
       "url": "https://open.spotify.com/track/26N4opVvRLaaCq61NkZeD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Me Equivoqu\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL"
     },
     {
       "added_at": null,

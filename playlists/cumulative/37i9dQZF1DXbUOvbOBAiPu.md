@@ -4,7 +4,7 @@
 
 > New music from Roxy Dekker, Joseph Kamel x Vitaa, Fontaines D.C\. and more...
 
-11,277 songs - 24 day 13 hr 20 min
+11,278 songs - 24 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1723,6 +1723,7 @@
 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-03-06 | 2025-03-14 |
 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-22 | 2024-08-30 |
 | [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2024-07-12 | 2024-07-19 |
+| [Catch a Fire](https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i) | [Giv Dem Wha Dey Wan](https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf) | 2:26 | 2026-08-20 |  |
 | [Catch Fire](https://open.spotify.com/track/0ZXdhjDOM6LPrmUjUlRYJi) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Catch Fire](https://open.spotify.com/album/6VPisLb36V8VxxQhs0RyDH) | 1:59 | 2024-10-31 | 2024-11-08 |
 | [Catch It Alive](https://open.spotify.com/track/1zGHG90IrbVAgwfvMPzhk3) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Catch It Alive](https://open.spotify.com/album/1K3STjN129PSyjtYPpbJtV) | 3:39 | 2025-02-27 | 2025-03-07 |
 | [Catch Me \(feat\. Bayli & MEYY\) \[Glimji's Illusion\]](https://open.spotify.com/track/1gfxovimKCFe4G0XRlKUdu) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD), [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Bayli](https://open.spotify.com/artist/1DMIQSwbzN04axO3HymL9M) | [Catch Me \(feat\. Bayli & MEYY\) \[Glimji's Illusion\]](https://open.spotify.com/album/4O5wQkJ92eIcTCuaxUeQk8) | 2:22 | 2024-05-09 | 2024-05-17 |
@@ -3328,6 +3329,7 @@
 | [FLUISTER](https://open.spotify.com/track/0L8z2mo35IX4WReM0J8yS0) | [Kleine Crack](https://open.spotify.com/artist/1unNlIDYglZrzncLClICcI), [Slagter](https://open.spotify.com/artist/62nTGRJ7mGxMWzxUimXV1l) | [CRACK SLAGTER VOL\. 13](https://open.spotify.com/album/23btTAmWfxnzAVnxeqjc9H) | 1:53 | 2024-12-05 | 2024-12-13 |
 | [Flute](https://open.spotify.com/track/6JcKNv4AmCR6Ty5qThnGIW) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Flute](https://open.spotify.com/album/6JM3FO3ijUAQVU4gdwcNvg) | 2:19 | 2026-03-19 | 2026-03-27 |
 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2024-08-08 | 2024-08-17 |
+| [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 | 2026-08-20 |  |
 | [Flying](https://open.spotify.com/track/6McxWlzA4RqRJ6Cv7RB68I) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Flying](https://open.spotify.com/album/1M2ENVTvOvVshu6Td989QU) | 2:25 | 2026-07-02 | 2026-07-10 |
 | [Flying away](https://open.spotify.com/track/7a9RyCvNuctoNFlPi8eyBu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Flying away](https://open.spotify.com/album/5v18LwFNg1ZiI4lwUV7gzx) | 4:08 | 2024-10-31 | 2024-11-08 |
 | [Flying Away With You](https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Flying Away With You](https://open.spotify.com/album/7lj5Qju9iEiIOG7RlNK7Ua) | 4:09 | 2025-05-01 | 2025-05-09 |
@@ -10102,7 +10104,6 @@
 | [Traces](https://open.spotify.com/track/2ovgJSq4o0pLynO6y7kJUj) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW) | [Traces](https://open.spotify.com/album/7cR6i3wtHh9xIuLO2qLTy9) | 3:28 | 2025-01-16 | 2025-01-24 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-05 |
 | [Track 6](https://open.spotify.com/track/5jSmpZ510PLKS25uL17NqH) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Capuchon](https://open.spotify.com/album/5t6AEx7uqhIDtYJVGjgeBW) | 0:00 | 2026-08-20 |  |
-| [Track 6](https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Giv Dem Wha Dey Wan](https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf) | 0:00 | 2026-08-20 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 | 2026-07-17 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Traffic Jam](https://open.spotify.com/track/24E5e3sqJ3vh9U3faTbawa) | [5NAPBACK](https://open.spotify.com/artist/0ERCrnTOTP6m7KbCLTliEj), [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45) | [Traffic Jam](https://open.spotify.com/album/09NpsaHGa405WL7ZObWDeA) | 3:02 | 2025-04-24 | 2025-05-02 |

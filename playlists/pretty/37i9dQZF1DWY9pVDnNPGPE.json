@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12001,
+  "num_followers": 12002,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwx8n0Xi5K97Odbp9rHfCwpjc+Q",
+  "snapshot_id": "AAAAACJysbWLTc5GelpAgtDybHOEklek",
   "tracks": [
     {
       "added_at": "2026-07-01 09:21:31",
@@ -95,22 +95,22 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         },
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
+      "duration_ms": 197613,
+      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
     },
     {
       "added_at": "2026-07-01 09:21:31",
@@ -147,22 +147,22 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 197613,
-      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-07-01 09:21:31",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2026-07-01 09:21:31",
-      "album": {
         "name": "Seoul",
         "url": "https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 204760,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
+    },
+    {
+      "added_at": "2026-07-01 09:21:31",
+      "album": {
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
       "added_at": "2026-07-01 09:21:31",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
+        "name": "From JOY, with Love - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "La Vie En Bleu",
+      "url": "https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y"
+    },
+    {
+      "added_at": "2026-07-01 09:21:31",
+      "album": {
         "name": "Wednesday",
         "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
-        "name": "From JOY, with Love - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
       },
       "artists": [
         {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
         }
       ],
-      "duration_ms": 196000,
-      "name": "La Vie En Bleu",
-      "url": "https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y"
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     },
     {
       "added_at": "2026-07-01 09:21:31",
@@ -835,22 +851,6 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
-    },
-    {
-      "added_at": "2026-07-01 09:21:31",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "17",
-      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     },
     {
       "added_at": "2026-07-01 09:21:31",

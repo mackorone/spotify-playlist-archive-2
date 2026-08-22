@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > Pop music right now ft\. Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,596 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,510 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 79 | [Man of the House](https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9](https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk) | 2:35 |
 | 80 | [Dog Eat Dog](https://open.spotify.com/track/1aeU0ElUC1sbK0uNWp7Ks2) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Dog Eat Dog](https://open.spotify.com/album/7hPGd9jeiXcxRj4Wc3EjXL) | 2:54 |
 
-Snapshot ID: `AAAAANGDBfg/aXQXmGCSFk8ZDbpZvxWH`
+Snapshot ID: `AAAAANs3/CR53vAAgRwnadqt4s+BQ0OI`

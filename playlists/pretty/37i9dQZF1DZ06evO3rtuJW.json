@@ -1,37 +1,13 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 36175,
+  "num_followers": 36177,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABsZhYVeIxJcVBDrMIzR0oy",
+  "snapshot_id": "aoZDgAAAAADHg6GL6xW5oo5nlw4CNm9o",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nobody (feat. Monaleo & G Herbo) [Remix]",
-        "url": "https://open.spotify.com/album/4ESOFve49SESHhgattAwIr"
-      },
-      "artists": [
-        {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 173710,
-      "name": "Nobody (feat. Monaleo & G Herbo) - Remix",
-      "url": "https://open.spotify.com/track/2l1r5fyPZuMnFlpdDV4QIG"
-    },
     {
       "added_at": null,
       "album": {
@@ -167,6 +143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "idk that bitch (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
@@ -191,26 +187,6 @@
       "duration_ms": 279581,
       "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
       "url": "https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "idk that bitch (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
     },
     {
       "added_at": null,
@@ -507,6 +483,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nobody (feat. Monaleo & G Herbo) [Remix]",
+        "url": "https://open.spotify.com/album/4ESOFve49SESHhgattAwIr"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 173710,
+      "name": "Nobody (feat. Monaleo & G Herbo) - Remix",
+      "url": "https://open.spotify.com/track/2l1r5fyPZuMnFlpdDV4QIG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lil Herb",
         "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
       },
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLICK ALMIGHTY",
-        "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Drench Gang",
-      "url": "https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survivor\u2019s Guilt (feat. G Herbo)",
         "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 183703,
       "name": "Survivor\u2019s Guilt (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SLICK ALMIGHTY",
+        "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Drench Gang",
+      "url": "https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "1 Chance",
-      "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Rapper Alive",
         "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 128951,
       "name": "One Blood",
       "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "1 Chance",
+      "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 173405,
-      "name": "Win Again",
-      "url": "https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feet On Land",
         "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 152658,
       "name": "Feet On Land",
       "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 173405,
+      "name": "Win Again",
+      "url": "https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home (with G Herbo)",
-        "url": "https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j"
-      },
-      "artists": [
-        {
-          "name": "BJRNCK",
-          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 212221,
-      "name": "Coming Home (with G Herbo)",
-      "url": "https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 221815,
       "name": "Cry No More",
       "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Home (with G Herbo)",
+        "url": "https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j"
+      },
+      "artists": [
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 212221,
+      "name": "Coming Home (with G Herbo)",
+      "url": "https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f"
     },
     {
       "added_at": null,
@@ -963,30 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb: Lil Heroin Edition",
-        "url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Big Opp",
-          "url": "https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0"
-        }
-      ],
-      "duration_ms": 182700,
-      "name": "Outta Bounds (feat. Polo G & Big Opp)",
-      "url": "https://open.spotify.com/track/3kHEUnuyzFV2VylR3JT9pL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 229035,
       "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
       "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb: Lil Heroin Edition",
+        "url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Big Opp",
+          "url": "https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0"
+        }
+      ],
+      "duration_ms": 182700,
+      "name": "Outta Bounds (feat. Polo G & Big Opp)",
+      "url": "https://open.spotify.com/track/3kHEUnuyzFV2VylR3JT9pL"
     }
   ],
   "unique_name": "This Is G Herbo",

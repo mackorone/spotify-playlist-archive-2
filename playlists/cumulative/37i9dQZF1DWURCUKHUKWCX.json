@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/58GecIwjleoA2VnBeEX7Tu"
+      },
+      "artists": [
+        {
+          "name": "Dirk Maassen",
+          "url": "https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "From Afar",
+      "url": "https://open.spotify.com/track/4QgjhskI1iRNLzPKXDIDZI"
+    },
+    {
+      "album": {
         "name": "From darkness to light",
         "url": "https://open.spotify.com/album/5UfSFwlAzeHzeQ8guS4eWo"
       },

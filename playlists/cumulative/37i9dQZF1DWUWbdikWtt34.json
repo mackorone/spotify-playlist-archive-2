@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang dangdut ngetop Tanah Air. Cover: Selfi Yamma",
+  "description": "Dendang dangdut ngetop Tanah Air. Cover: Zahra DA7, Eby",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -4174,6 +4174,28 @@
       "duration_ms": 268085,
       "name": "Rumit",
       "url": "https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo"
+    },
+    {
+      "album": {
+        "name": "Saat Bahagia",
+        "url": "https://open.spotify.com/album/0w6oFsVbTE9HXf9gFStCXF"
+      },
+      "artists": [
+        {
+          "name": "Zahra DA7",
+          "url": "https://open.spotify.com/artist/0snMso9CwRUFq0IUQYredt"
+        },
+        {
+          "name": "Eby",
+          "url": "https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "Saat Bahagia",
+      "url": "https://open.spotify.com/track/2fyX5t6thCeqAtOXAIPaDF"
     },
     {
       "album": {

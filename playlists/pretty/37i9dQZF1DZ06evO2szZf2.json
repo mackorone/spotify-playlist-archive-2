@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35369,
+  "num_followers": 35375,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAAmmLYkxO8SkPSJ66632ebb",
+  "snapshot_id": "aoZDgAAAAAD+SxfWttrJeUiZjwNa/a/M",
   "tracks": [
     {
       "added_at": null,
@@ -71,46 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
-        "url": "https://open.spotify.com/album/7gYPTOcgOCGrtl2t4mkwIs"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "MC Xangai",
-          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 367499,
-      "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
-      "url": "https://open.spotify.com/track/3J9pByZf567U83gNmzDfD1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoada do Tubar\u00e3o",
         "url": "https://open.spotify.com/album/16SuYMsmpv5WbN33Bm2fqh"
       },
@@ -163,6 +123,46 @@
       "duration_ms": 573333,
       "name": "Revoada do Tubar\u00e3o",
       "url": "https://open.spotify.com/track/0C1cJj3ZNCS75sojrcMhZV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
+        "url": "https://open.spotify.com/album/7gYPTOcgOCGrtl2t4mkwIs"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 367499,
+      "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
+      "url": "https://open.spotify.com/track/3J9pByZf567U83gNmzDfD1"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Tu Obedece",
-        "url": "https://open.spotify.com/album/4J0dJMVV0Da2JILEyjWRsg"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Se Tu Obedece",
-      "url": "https://open.spotify.com/track/0HeGIMeKcT4qldgVvJaVU9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -407,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Tu Obedece",
+        "url": "https://open.spotify.com/album/4J0dJMVV0Da2JILEyjWRsg"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Se Tu Obedece",
+      "url": "https://open.spotify.com/track/0HeGIMeKcT4qldgVvJaVU9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fala Mal De Mim Pros Outros",
         "url": "https://open.spotify.com/album/21S0Nl37dHHXnfx3ZPmdML"
       },
@@ -427,6 +427,34 @@
       "duration_ms": 138447,
       "name": "Fala Mal De Mim Pros Outros",
       "url": "https://open.spotify.com/track/4DBEmHoQi9x2nRE11CgLRF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Respeita o Monstro",
+        "url": "https://open.spotify.com/album/65pul435mJSXzxyj0i3DgZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Ataliba",
+          "url": "https://open.spotify.com/artist/2v7gmTuMmb5NDv5vtfbxV9"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        }
+      ],
+      "duration_ms": 134582,
+      "name": "Parece Que Nem Fala Parece Que Da Ideia",
+      "url": "https://open.spotify.com/track/7LPKqmYq56iu6OHWcsEBuC"
     },
     {
       "added_at": null,
@@ -503,6 +531,38 @@
       "duration_ms": 136356,
       "name": "Medley Rel\u00edquia 2",
       "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheirinho Do Body Splash",
+        "url": "https://open.spotify.com/album/1zYGigssLV3WhnN9OWzgGu"
+      },
+      "artists": [
+        {
+          "name": "AUGEBOYS",
+          "url": "https://open.spotify.com/artist/5UUfd7FZZlGhuO5eLMsluR"
+        },
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Cheirinho Do Body Splash",
+      "url": "https://open.spotify.com/track/3lZwLVd1NMaVN42gMI2z6e"
     },
     {
       "added_at": null,
@@ -655,38 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheirinho Do Body Splash",
-        "url": "https://open.spotify.com/album/1zYGigssLV3WhnN9OWzgGu"
-      },
-      "artists": [
-        {
-          "name": "AUGEBOYS",
-          "url": "https://open.spotify.com/artist/5UUfd7FZZlGhuO5eLMsluR"
-        },
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Nuzio Medeiros",
-          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
-        },
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Cheirinho Do Body Splash",
-      "url": "https://open.spotify.com/track/3lZwLVd1NMaVN42gMI2z6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CARO Vapor II - qual a forma de pagamento ?",
         "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
       },
@@ -735,6 +763,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bate Com Vontade (Remix)",
+        "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
+      },
+      "artists": [
+        {
+          "name": "Dad\u00e1 Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Tarik Lima",
+          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
+        }
+      ],
+      "duration_ms": 144915,
+      "name": "Bate Com Vontade - Remix",
+      "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
       },
@@ -771,30 +823,6 @@
       "duration_ms": 358950,
       "name": "180",
       "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bate Com Vontade (Remix)",
-        "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
-      },
-      "artists": [
-        {
-          "name": "Dad\u00e1 Bolad\u00e3o",
-          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Tarik Lima",
-          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
-        }
-      ],
-      "duration_ms": 144915,
-      "name": "Bate Com Vontade - Remix",
-      "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
     },
     {
       "added_at": null,
@@ -1295,30 +1323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Acredito No Amor",
-        "url": "https://open.spotify.com/album/5GXtW3MsnGS5Fu4KD3Sase"
-      },
-      "artists": [
-        {
-          "name": "DG e Batid\u00e3o Stronda",
-          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Como Acredito No Amor",
-      "url": "https://open.spotify.com/track/5Dwd5WQQSWPn693k5VaaSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De 38 Carregado Arrochadeira",
         "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
       },
@@ -1335,22 +1339,6 @@
       "duration_ms": 108387,
       "name": "De 38 Carregado Arrochadeira",
       "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretinha do Peitin e do Bund\u00e3o",
-        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 168922,
-      "name": "Pretinha do Peitin e do Bund\u00e3o",
-      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
     },
     {
       "added_at": null,
@@ -1407,6 +1395,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como Acredito No Amor",
+        "url": "https://open.spotify.com/album/5GXtW3MsnGS5Fu4KD3Sase"
+      },
+      "artists": [
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Como Acredito No Amor",
+      "url": "https://open.spotify.com/track/5Dwd5WQQSWPn693k5VaaSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretinha do Peitin e do Bund\u00e3o",
+        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 168922,
+      "name": "Pretinha do Peitin e do Bund\u00e3o",
+      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PO2054AZ (Vol.II)",
         "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
       },
@@ -1423,46 +1451,6 @@
       "duration_ms": 148680,
       "name": "Llorando x 1",
       "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexo Sem Estresse",
-        "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
-        }
-      ],
-      "duration_ms": 139403,
-      "name": "Sexo Sem Estresse",
-      "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
     }
   ],
   "unique_name": "This Is MC Dricka",

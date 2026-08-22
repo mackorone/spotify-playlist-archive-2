@@ -1,13 +1,29 @@
 {
-  "description": "a little indie, a little pop, soda featuring Will Linley",
-  "num_followers": 229009,
+  "description": "a little indie, a little pop, soda featuring Thomas Day ",
+  "num_followers": 228997,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMlYDU9BW1/DwKzNx8qV/AzhjSJI",
+  "snapshot_id": "AAAAAPlWMfe1liN1ho5182/s0DAwMSMM",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:00:21",
+      "album": {
+        "name": "will you be coming around?",
+        "url": "https://open.spotify.com/album/4K7Uw9hrsjMBsatjmmBXCq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "will you be coming around?",
+      "url": "https://open.spotify.com/track/1nsj01MrKqdLb0dVPUqTG2"
+    },
     {
       "added_at": "2026-07-24 04:02:41",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 161066,
       "name": "Head First",
       "url": "https://open.spotify.com/track/4I5lKYfIKEpZNHZUZrrY65"
+    },
+    {
+      "added_at": "2026-08-21 04:00:21",
+      "album": {
+        "name": "Wet Cement",
+        "url": "https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 167206,
+      "name": "Wet Cement",
+      "url": "https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD"
+    },
+    {
+      "added_at": "2026-08-22 01:37:58",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/5wCMKrwR9fDu0zlrxyxy3v"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/3x1skiBubyZ3qVZkmfKm0S"
+    },
+    {
+      "added_at": "2026-08-21 16:59:21",
+      "album": {
+        "name": "i wanna be your girl",
+        "url": "https://open.spotify.com/album/5iydIH1mBG1llsm8dH4E3E"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 147894,
+      "name": "i wanna be your girl",
+      "url": "https://open.spotify.com/track/1KATxDmHw5rFg1REMU8wDM"
     },
     {
       "added_at": "2026-08-14 04:00:14",
@@ -701,54 +765,6 @@
       "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
     },
     {
-      "added_at": "2026-05-22 05:08:21",
-      "album": {
-        "name": "only if it matters",
-        "url": "https://open.spotify.com/album/3iYDC93uCzrNFoX87zbWZl"
-      },
-      "artists": [
-        {
-          "name": "Kevian Kraemer",
-          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
-        }
-      ],
-      "duration_ms": 228312,
-      "name": "does it still mean something?",
-      "url": "https://open.spotify.com/track/6wOnFsTCN2e8owgWdn3HJ1"
-    },
-    {
-      "added_at": "2026-05-15 04:08:25",
-      "album": {
-        "name": "Like you mean it",
-        "url": "https://open.spotify.com/album/798jmpqSH0IYejKbp7mtRd"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 147300,
-      "name": "Like you mean it",
-      "url": "https://open.spotify.com/track/4DCz1jb9Me9dn12CqqFk6N"
-    },
-    {
-      "added_at": "2026-05-15 04:08:25",
-      "album": {
-        "name": "Bluish",
-        "url": "https://open.spotify.com/album/49CGtCKtpP9F9lJ2TjVq1u"
-      },
-      "artists": [
-        {
-          "name": "Father Of Peace",
-          "url": "https://open.spotify.com/artist/27nYMwQ6QyHV76mzwXarkO"
-        }
-      ],
-      "duration_ms": 151555,
-      "name": "Bluish",
-      "url": "https://open.spotify.com/track/4z6uxjuQNiEHfBiPGbqqJ8"
-    },
-    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "Self Aware",
@@ -763,22 +779,6 @@
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-05-15 04:08:25",
-      "album": {
-        "name": "MISS U",
-        "url": "https://open.spotify.com/album/2ZCGxJ2LtsOmIyIhIrwV24"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 151145,
-      "name": "MISS U",
-      "url": "https://open.spotify.com/track/48FfsXjz8rd8CLhnIwWQNw"
     },
     {
       "added_at": "2026-05-01 04:48:34",

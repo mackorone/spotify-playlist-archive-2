@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 84553,
+  "num_followers": 84577,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnrmomf7T7tj8fbWbqTOTyBYEFc",
+  "snapshot_id": "AAAAAD/qPKiVCJApqBGut5lUdLc29Yf3",
   "tracks": [
     {
       "added_at": "2024-07-09 16:41:04",
@@ -883,18 +883,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Liefdesliedjes",
-        "url": "https://open.spotify.com/album/7CdAzPf0nk3FfsXGuZWiI7"
+        "name": "Rob 100",
+        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
       },
       "artists": [
         {
-          "name": "De Jazzpolitie",
-          "url": "https://open.spotify.com/artist/1nOTwY0FfKdXCBQiuQILbG"
+          "name": "Rob De Nijs",
+          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
+        },
+        {
+          "name": "Ellert Driessen",
+          "url": "https://open.spotify.com/artist/7qd0FFy6IEMv634lendv01"
         }
       ],
-      "duration_ms": 284266,
-      "name": "Liefdesliedjes",
-      "url": "https://open.spotify.com/track/0wD43UCEku61GIZB89O0vP"
+      "duration_ms": 261866,
+      "name": "Banger Hart - Radio Mix",
+      "url": "https://open.spotify.com/track/7wXI1Z6evrwG5ujxmeo57c"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -935,18 +939,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Badmuts Verplicht",
-        "url": "https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem"
+        "name": "Liefdesliedjes",
+        "url": "https://open.spotify.com/album/7CdAzPf0nk3FfsXGuZWiI7"
       },
       "artists": [
         {
-          "name": "The Amazing Stroopwafels",
-          "url": "https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4"
+          "name": "De Jazzpolitie",
+          "url": "https://open.spotify.com/artist/1nOTwY0FfKdXCBQiuQILbG"
         }
       ],
-      "duration_ms": 205520,
-      "name": "Oude Maasweg",
-      "url": "https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6"
+      "duration_ms": 284266,
+      "name": "Liefdesliedjes",
+      "url": "https://open.spotify.com/track/0wD43UCEku61GIZB89O0vP"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -967,18 +971,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Manen Kweken",
-        "url": "https://open.spotify.com/album/7vs2r7qK6Tuf55tzqBmDHK"
+        "name": "Badmuts Verplicht",
+        "url": "https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem"
       },
       "artists": [
         {
-          "name": "Marcel De Groot",
-          "url": "https://open.spotify.com/artist/1ODOlb645fdLv99x5uzYkk"
+          "name": "The Amazing Stroopwafels",
+          "url": "https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Mag Ik Naar Je Kijken?",
-      "url": "https://open.spotify.com/track/6nqMWzjqiJCn8VdkwNsuet"
+      "duration_ms": 205520,
+      "name": "Oude Maasweg",
+      "url": "https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1019,6 +1023,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Manen Kweken",
+        "url": "https://open.spotify.com/album/7vs2r7qK6Tuf55tzqBmDHK"
+      },
+      "artists": [
+        {
+          "name": "Marcel De Groot",
+          "url": "https://open.spotify.com/artist/1ODOlb645fdLv99x5uzYkk"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Mag Ik Naar Je Kijken?",
+      "url": "https://open.spotify.com/track/6nqMWzjqiJCn8VdkwNsuet"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Hollandse Sterren Collectie",
         "url": "https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk"
       },
@@ -1051,22 +1071,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Lief",
-        "url": "https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP"
-      },
-      "artists": [
-        {
-          "name": "Paul de Leeuw",
-          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "'k Heb Je Lief",
-      "url": "https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -1087,6 +1091,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Lief",
+        "url": "https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP"
+      },
+      "artists": [
+        {
+          "name": "Paul de Leeuw",
+          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "'k Heb Je Lief",
+      "url": "https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Hazes 100",
         "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 219293,
       "name": "Zomer",
       "url": "https://open.spotify.com/track/7n6IVz6fc1yGRi1DSmkRom"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Rob 100",
-        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
-      },
-      "artists": [
-        {
-          "name": "Rob De Nijs",
-          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
-        },
-        {
-          "name": "Ellert Driessen",
-          "url": "https://open.spotify.com/artist/7qd0FFy6IEMv634lendv01"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Banger Hart - Radio Mix",
-      "url": "https://open.spotify.com/track/7wXI1Z6evrwG5ujxmeo57c"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Van U Wil Ik Zingen",
-        "url": "https://open.spotify.com/album/5tIHLBGIpPwvSmjLvZWqfo"
+        "name": "Hemel & Aarde",
+        "url": "https://open.spotify.com/album/0Jgb5SBxUJOPRRL0H6SNMz"
       },
       "artists": [
         {
-          "name": "Paul de Leeuw",
-          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
+          "name": "IOS",
+          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
         }
       ],
-      "duration_ms": 311600,
-      "name": "Vlieg Met Me Mee - Live",
-      "url": "https://open.spotify.com/track/46SS7vgm5bQ9wBfu1o5LjC"
+      "duration_ms": 294093,
+      "name": "V.V.T.",
+      "url": "https://open.spotify.com/track/32PR7yBDk99gKE1ihEcKQB"
     }
   ],
   "unique_name": "90's Nederlandstalig",

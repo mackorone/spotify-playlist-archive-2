@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 362502,
       "name": "El 3 Letras",
       "url": "https://open.spotify.com/track/0avQe2HiA50Q20yp7Tf8Qu"
@@ -5216,7 +5216,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 362071,
       "name": "El R",
       "url": "https://open.spotify.com/track/5jtKmeD6iq49e04qF1T4yW"
@@ -12387,6 +12387,32 @@
     },
     {
       "album": {
+        "name": "Culprits of Soul",
+        "url": "https://open.spotify.com/album/5KV3vyteFoRaknC4bAIV66"
+      },
+      "artists": [
+        {
+          "name": "Sirio",
+          "url": "https://open.spotify.com/artist/4eWZRxh8TrrKlTwFAkyopH"
+        },
+        {
+          "name": "Viyltracker",
+          "url": "https://open.spotify.com/artist/2KRhS9zh3A1RZanO7V8Xxk"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173964,
+      "name": "Pasi\u00f3n de Gavilanes",
+      "url": "https://open.spotify.com/track/68oQNcwCj9dFWENNjOncCF"
+    },
+    {
+      "album": {
         "name": "Apokalypsis 2",
         "url": "https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH"
       },
@@ -14058,7 +14084,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 305390,
       "name": "Sagrado Reba\u00f1o",
       "url": "https://open.spotify.com/track/5BQJenwhbHZC5owu6kVzyE"
@@ -17248,7 +17274,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 161086,
       "name": "VICE",
       "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"

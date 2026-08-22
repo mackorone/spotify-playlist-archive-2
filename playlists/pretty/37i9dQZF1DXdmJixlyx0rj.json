@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Winter Back)",
-  "num_followers": 37967,
+  "num_followers": 37970,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI1n+4LDewlJclD6ANQ/P4aKXbXg",
+  "snapshot_id": "AAAAABpa1hRNXe6dtOXlWNCSXWyWUL+N",
   "tracks": [
     {
       "added_at": "2026-08-20 05:31:14",
@@ -695,42 +695,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "NO DRUGS",
-        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
-      },
-      "artists": [
-        {
-          "name": "DPR CREAM",
-          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
-        },
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "DRIFT",
-      "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
-        "name": "YES",
-        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
-      },
-      "artists": [
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        }
-      ],
-      "duration_ms": 178230,
-      "name": "YES",
-      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "Eu li EP",
         "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
       },
@@ -751,6 +715,42 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "duration_ms": 178230,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "NO DRUGS",
+        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "DRIFT",
+      "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
         "name": "MONA LISA (Remix so fine)",
         "url": "https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp"
       },
@@ -763,26 +763,6 @@
       "duration_ms": 185142,
       "name": "MONA LISA (Afro House Remix)",
       "url": "https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
-        "name": "INSA",
-        "url": "https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK"
-      },
-      "artists": [
-        {
-          "name": "LIM KIM",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
-        },
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "INSA",
-      "url": "https://open.spotify.com/track/5GxNvIDQiYLzGVtjz85OUj"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -803,6 +783,26 @@
       "duration_ms": 201454,
       "name": "Dirty Work - RayRay Remix",
       "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "INSA",
+        "url": "https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "INSA",
+      "url": "https://open.spotify.com/track/5GxNvIDQiYLzGVtjz85OUj"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+        "name": "silkysmooth 06",
+        "url": "https://open.spotify.com/album/0ruOKA3oxsRvAbW5rX06EG"
       },
       "artists": [
         {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
         }
       ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+      "duration_ms": 213852,
+      "name": "Tangerine Fade",
+      "url": "https://open.spotify.com/track/4kkwW5Zx780EgDKf4vMSYv"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "silkysmooth 06",
-        "url": "https://open.spotify.com/album/0ruOKA3oxsRvAbW5rX06EG"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 213852,
-      "name": "Tangerine Fade",
-      "url": "https://open.spotify.com/track/4kkwW5Zx780EgDKf4vMSYv"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "Photon",
         "url": "https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 142285,
       "name": "Photon",
       "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "Mushroom House",
-        "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
-      },
-      "artists": [
-        {
-          "name": "Tomatomat",
-          "url": "https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mushroom House",
-      "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 (Effie & Eurohead Remix)",
         "url": "https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+        "name": "Mushroom House",
+        "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
       },
       "artists": [
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+          "name": "Tomatomat",
+          "url": "https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9"
         }
       ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+      "duration_ms": 174000,
+      "name": "Mushroom House",
+      "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1111,6 +1095,22 @@
       "duration_ms": 178000,
       "name": "DIRTY BOY (feat. JAMIE & UWA)",
       "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "I,God",
-        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Extancy (Wumuti&Rui)",
-      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "Love Crime",
         "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 154712,
       "name": "Felony",
       "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "I,God",
+        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Extancy (Wumuti&Rui)",
+      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/1VFB78LC4Lv3Y0J3W2tz9F"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        }
-      ],
-      "duration_ms": 169883,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/2qSCVrKlaiJSwmCqS2bUBx"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 255628,
       "name": "Energetic (Prequel Remix)",
       "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1VFB78LC4Lv3Y0J3W2tz9F"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "duration_ms": 169883,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/2qSCVrKlaiJSwmCqS2bUBx"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1515,6 +1515,30 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
+        "name": "XE\u00d6UL",
+        "url": "https://open.spotify.com/album/4HThPrEuT8tIYHDcBOO9a2"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/0MaYYvxoSPs7CZ5UnsjMO9"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Phone Down",
+      "url": "https://open.spotify.com/track/1xUtJf93RvTpa5Wm1w10Ux"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
         "name": "Green and Pink",
         "url": "https://open.spotify.com/album/4zqNeC6wVMrKWg5sPhd7Uu"
       },
@@ -1611,6 +1635,26 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Mount XLR",
+          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Armageddon (Mount XLR Remix)",
+      "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
         "name": "STARDUST",
         "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
       },
@@ -1643,26 +1687,6 @@
       "duration_ms": 162681,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Mount XLR",
-          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Armageddon (Mount XLR Remix)",
-      "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1771,22 +1795,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "SPAZ",
         "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
       },
@@ -1803,6 +1811,22 @@
       "duration_ms": 169506,
       "name": "Bassister (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1847,26 +1871,6 @@
       "duration_ms": 191654,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
-        "name": "MOONLIGHT (MOTi Remix)",
-        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
-      },
-      "artists": [
-        {
-          "name": "HENRY LAU",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "MOONLIGHT - MOTi Remix",
-      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     }
   ],
   "unique_name": "Electronii[K]",

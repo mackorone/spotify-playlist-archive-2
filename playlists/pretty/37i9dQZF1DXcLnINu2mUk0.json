@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEj+5RSzKGCzsxr971rlTvJTBeRg",
+  "snapshot_id": "AAAAAJG+mBe1O0imCapzLoY+/pudT4yI",
   "tracks": [
     {
       "added_at": "2026-08-13 23:00:32",
@@ -603,22 +603,18 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2026-08-13 23:00:32",
@@ -647,18 +643,22 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
     },
     {
       "added_at": "2026-08-13 23:00:32",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
+        "name": "Sei-te de Cor",
+        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Sei-te de Cor",
+      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
+    },
+    {
+      "added_at": "2026-08-13 23:00:32",
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
-        "name": "Sei-te de Cor",
-        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Sei-te de Cor",
-      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
-    },
-    {
-      "added_at": "2026-08-13 23:00:32",
-      "album": {
         "name": "10 MINUTOS",
         "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
       },
@@ -1247,26 +1247,6 @@
       "duration_ms": 300333,
       "name": "10 MINUTOS",
       "url": "https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf"
-    },
-    {
-      "added_at": "2026-08-13 23:00:32",
-      "album": {
-        "name": "Perfume (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2026-08-13 23:00:32",
@@ -1295,6 +1275,26 @@
       "duration_ms": 219175,
       "name": "coca cola",
       "url": "https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT"
+    },
+    {
+      "added_at": "2026-08-13 23:00:32",
+      "album": {
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2026-08-13 23:00:32",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "\u00c0 Procura",
+      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
+    },
+    {
+      "added_at": "2026-08-13 23:00:32",
+      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
-    },
-    {
-      "added_at": "2026-08-13 23:00:32",
-      "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "\u00c0 Procura",
-      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
     }
   ],
   "unique_name": "Seda",

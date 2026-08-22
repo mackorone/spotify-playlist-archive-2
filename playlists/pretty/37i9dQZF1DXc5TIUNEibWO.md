@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,020 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,034 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 79 | [Okwanti Nyi](https://open.spotify.com/track/4B5V4CuWLDxIhvnuTq630f) | [Felix Owusu](https://open.spotify.com/artist/4JUwsChOzwk5vUol3AP4gy) | [E'SHOW ME](https://open.spotify.com/album/6DSdZfJ6QC2UEJVNjuweZk) | 4:47 |
 | 80 | [Casanova](https://open.spotify.com/track/636hMHPfzNAfq21sUYnib1) | [Nana Acheampong](https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1) | [Casanova](https://open.spotify.com/album/3z0kDvxeiKXe9Du4K7rXFA) | 5:40 |
 
-Snapshot ID: `AAAAALRG1AYvgB9IRXaCwmTHnGe78PAs`
+Snapshot ID: `AAAAAKNrfKJ5hImZjEhWQCZo3nVw2FZV`

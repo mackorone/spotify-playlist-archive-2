@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 72822,
+  "num_followers": 72841,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFzwqVIN1l/qdkMe1ZcLKeLpI8ob",
+  "snapshot_id": "AAAAAMBk5XqzTNpt2d01FjVMiIEeJ9Fh",
   "tracks": [
     {
       "added_at": "2026-08-14 11:41:04",
@@ -233,6 +233,34 @@
       "url": "https://open.spotify.com/track/6OJcHz8b7I8DO6CpQTcwY2"
     },
     {
+      "added_at": "2026-08-21 09:51:16",
+      "album": {
+        "name": "Yarettha Magalu Muddagi Kanthalo (From \"Shabbash\")",
+        "url": "https://open.spotify.com/album/75qHPvoWVhpL05DoCKenH9"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "A T Ravish",
+          "url": "https://open.spotify.com/artist/7KbOjeMXqQhBrGrFq71Yvq"
+        },
+        {
+          "name": "Shrinivas Haleshapura",
+          "url": "https://open.spotify.com/artist/2ASB3gu5oxNdeKC5LnLXw0"
+        }
+      ],
+      "duration_ms": 244211,
+      "name": "Yarettha Magalu Muddagi Kanthalo (From \"Shabbash\")",
+      "url": "https://open.spotify.com/track/54jYCHHvpFaBWsm2Nkx3aC"
+    },
+    {
       "added_at": "2026-08-03 09:41:18",
       "album": {
         "name": "Milky Beauty (From \"Ayogya 2\")",
@@ -261,6 +289,30 @@
       "url": "https://open.spotify.com/track/4q2vxcSwEEA6fTmEtCwdII"
     },
     {
+      "added_at": "2026-08-21 09:51:16",
+      "album": {
+        "name": "Disturb Madthawalalla (From \"Bentlee\")",
+        "url": "https://open.spotify.com/album/0PhQYATdL66eAmX8T7xvD1"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        }
+      ],
+      "duration_ms": 223073,
+      "name": "Disturb Madthawalalla (From \"Bentlee\")",
+      "url": "https://open.spotify.com/track/5CJfuDbct0i7qaY2Qmb1Ar"
+    },
+    {
       "added_at": "2026-08-18 08:16:48",
       "album": {
         "name": "Modala Preethi (From \"Rashi'')",
@@ -279,6 +331,26 @@
       "duration_ms": 197349,
       "name": "Modala Preethi (From \"Rashi'')",
       "url": "https://open.spotify.com/track/7skKeww0ZOOJlymyY9mYYk"
+    },
+    {
+      "added_at": "2026-08-21 09:51:16",
+      "album": {
+        "name": "Baanali Jaarida (From \"Premada Oorali\")",
+        "url": "https://open.spotify.com/album/5pifBHxjz6gOqrQWhOfEuR"
+      },
+      "artists": [
+        {
+          "name": "Ninaada Nayak",
+          "url": "https://open.spotify.com/artist/2qliAtSG1g3QsE7E8EExnp"
+        },
+        {
+          "name": "Rajat Hegde",
+          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
+        }
+      ],
+      "duration_ms": 224855,
+      "name": "Baanali Jaarida (From \"Premada Oorali\")",
+      "url": "https://open.spotify.com/track/0iovic2BuwklVkuyDFat2k"
     },
     {
       "added_at": "2026-08-03 09:41:18",
@@ -1053,22 +1125,6 @@
       "url": "https://open.spotify.com/track/7jBDEdHoSJAZz4KZWjGOeg"
     },
     {
-      "added_at": "2026-07-14 05:34:31",
-      "album": {
-        "name": "Sundri of the nation (From \"Ruthless Romeo\")",
-        "url": "https://open.spotify.com/album/78Gib50D5BDOtEInkT1chZ"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "Sundri of the nation (From \"Ruthless Romeo\")",
-      "url": "https://open.spotify.com/track/5gliJLCa5VSlQ7tjsCbaZS"
-    },
-    {
       "added_at": "2026-07-13 06:55:03",
       "album": {
         "name": "Vibe Of Graamaayana (From \"Graamaayana\")",
@@ -1643,30 +1699,6 @@
     {
       "added_at": "2026-06-19 13:00:49",
       "album": {
-        "name": "Mareyagide (Version 2)",
-        "url": "https://open.spotify.com/album/6SFc8PbvnFbEngo6PZhsHq"
-      },
-      "artists": [
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Lahari Mahesh",
-          "url": "https://open.spotify.com/artist/4zWCZjFTPmksVLFqbBLceH"
-        },
-        {
-          "name": "Vivan Surya",
-          "url": "https://open.spotify.com/artist/09Om5vzG19zVQE8uf1MmCU"
-        }
-      ],
-      "duration_ms": 236714,
-      "name": "Mareyagide (Version 2)",
-      "url": "https://open.spotify.com/track/0Daqsv49OyvlPy7cREmFxU"
-    },
-    {
-      "added_at": "2026-06-19 13:00:49",
-      "album": {
         "name": "Keerthi I Love You",
         "url": "https://open.spotify.com/album/3iPRqnOjCHOtTFjvqMnSFB"
       },
@@ -1795,46 +1827,6 @@
       "duration_ms": 201614,
       "name": "Ra Ga Sa Da Aa (From \"Mother Promise\")",
       "url": "https://open.spotify.com/track/0b541rdd0Vr7xxiaywFA8G"
-    },
-    {
-      "added_at": "2026-06-18 03:48:04",
-      "album": {
-        "name": "Maaye",
-        "url": "https://open.spotify.com/album/2gPHStaeEs6sWjh45UeafW"
-      },
-      "artists": [
-        {
-          "name": "Mysore Xpress",
-          "url": "https://open.spotify.com/artist/3z6Qc4vYphJb18Rr0jGHuC"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Maaye",
-      "url": "https://open.spotify.com/track/5Peit3m6hkYPSOohtGk0Wu"
-    },
-    {
-      "added_at": "2026-06-16 07:34:03",
-      "album": {
-        "name": "Bum Chiki Bum (From \"Jolly\")",
-        "url": "https://open.spotify.com/album/1a0uFi5ED971YU0knwPb3L"
-      },
-      "artists": [
-        {
-          "name": "Nithinraj",
-          "url": "https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD"
-        },
-        {
-          "name": "Yogaraj Bhat",
-          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
-        },
-        {
-          "name": "Karibasava Tadakal",
-          "url": "https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "Bum Chiki Bum (From \"Jolly\")",
-      "url": "https://open.spotify.com/track/5oInTSO5vGd3JWakTspzOw"
     }
   ],
   "unique_name": "Latest Kannada",

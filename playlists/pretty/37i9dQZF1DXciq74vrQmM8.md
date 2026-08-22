@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. ivri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,927 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,906 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Our World](https://open.spotify.com/track/1tmMaJNVjGwAA0EhrfRKQ0) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Our World \- EP](https://open.spotify.com/album/36ZmpjjPDtSJkkxlsh3AiI) | 3:16 |
 | 80 | [E\-MOTION](https://open.spotify.com/track/47jmrl8NmxEv2bPML9E8IW) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [heartcore](https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN) | 3:00 |
 
-Snapshot ID: `AAAAAM9yGxUpM0ZEcbr0ae8Wcj8CWxGz`
+Snapshot ID: `AAAAAO+w6e0faNCaXkKZgUYT8Oa2DjHp`

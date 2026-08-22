@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Jamie T
 
-486 songs - 1 day 3 hr 31 min
+487 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Gary](https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4) | 2:30 | 2024-07-12 | 2024-10-07 |
 | [Gary](https://open.spotify.com/track/59EKMmwwDJxtEw6EjMVeaT) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t) | 2:30 | 2024-10-06 |  |
 | [Gaslight](https://open.spotify.com/track/0Ow0xBXS5g4q7vYvdcZIqi) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Gaslight](https://open.spotify.com/album/6Trkgc0inzePZjY1R6flBi) | 3:27 | 2024-05-31 | 2024-07-23 |
-| [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 | 2024-04-15 |  |
+| [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 | 2024-04-15 | 2026-08-22 |
 | [Get Me Started](https://open.spotify.com/track/1hc98h2pyMvYo6MAS18aDN) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Get Me Started](https://open.spotify.com/album/4sn2Ucedh0ERO2flaG1KdB) | 3:41 | 2024-04-15 | 2024-07-13 |
 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 | 2023-06-07 |  |
 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 | 2024-01-26 | 2026-06-19 |
@@ -302,6 +302,7 @@
 | [Masquerade](https://open.spotify.com/track/4ZrWs0G2sN9qimhkbQzEr1) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/55PAmXeH8DbLOizqAqzeC8) | 3:08 | 2025-10-10 | 2026-02-26 |
 | [Meet Me In Love](https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Meet Me In Love](https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM) | 4:02 | 2026-06-18 |  |
 | [Meltdown](https://open.spotify.com/track/1kBWtNscDEzmyqfa0bc3Q8) | [Weston Loney](https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt) | [Meltdown](https://open.spotify.com/album/5hasWVR5EqXDagzKwixcad) | 2:52 | 2025-06-06 | 2025-06-16 |
+| [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 | 2026-08-20 |  |
 | [MESSED UP KIDS](https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [MESSED UP KIDS](https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L) | 2:57 | 2023-07-28 | 2024-05-15 |
 | [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 | 2026-03-27 |  |
 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 | 2024-05-31 |  |

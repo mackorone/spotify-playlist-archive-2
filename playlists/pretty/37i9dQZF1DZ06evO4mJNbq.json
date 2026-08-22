@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3238,
+  "num_followers": 3239,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADfP5zdqSX9bEASu9okuqXS",
+  "snapshot_id": "aoZDgAAAAADt6K4KVpaf7Wk18NoKtPJ+",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 216971,
-      "name": "Come Home With Me",
-      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evil Angel",
         "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 169871,
       "name": "Bedspell",
       "url": "https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 216971,
+      "name": "Come Home With Me",
+      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immaculate Conception",
-        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 210500,
-      "name": "Explosion",
-      "url": "https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V"
+      "duration_ms": 152226,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Immaculate Conception",
+        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Explosion",
+      "url": "https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bye Bye Baby",
         "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 179666,
       "name": "Bye Bye Baby",
       "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grave",
-        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 178793,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/4mm4gtJhqVxJPxNGDhNmrp"
+      "duration_ms": 192260,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 192260,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE"
+      "duration_ms": 178793,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/4mm4gtJhqVxJPxNGDhNmrp"
     },
     {
       "added_at": null,

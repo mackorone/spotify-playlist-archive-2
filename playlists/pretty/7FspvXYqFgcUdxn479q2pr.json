@@ -1,13 +1,173 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Luvstruck, Leena Punks",
-  "num_followers": 31405,
+  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Blasterjaxx",
+  "num_followers": 31400,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAw0tzGasYdyPnpdTqo8HBVPS+K6Jla",
+  "snapshot_id": "AAAw3mB4N49Ljf9xRIMcQCkd5lFkevpH",
   "tracks": [
+    {
+      "added_at": "2026-08-21 08:15:28",
+      "album": {
+        "name": "My Heart Will Go On",
+        "url": "https://open.spotify.com/album/0JyixscVFrpyneNor1zBRH"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 208551,
+      "name": "My Heart Will Go On",
+      "url": "https://open.spotify.com/track/6JEpvqT4N0zlD4HeohYYRm"
+    },
+    {
+      "added_at": "2026-08-21 08:15:39",
+      "album": {
+        "name": "Wild (feat. Louis du Sauzay)",
+        "url": "https://open.spotify.com/album/5ZXPBKeTuO2XwCIf9SqNJm"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        },
+        {
+          "name": "Louis du Sauzay",
+          "url": "https://open.spotify.com/artist/06cHR0P90tGCKqQByCtiLJ"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "Wild (feat. Louis du Sauzay)",
+      "url": "https://open.spotify.com/track/2zLCWBGX1cXMU8X4HXqtS8"
+    },
+    {
+      "added_at": "2026-08-21 08:15:48",
+      "album": {
+        "name": "Voicemail (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6NeAtmL9sxQga7lc1EOQro"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Voicemail (Ti\u00ebsto Remix)",
+      "url": "https://open.spotify.com/track/6vbQFxIETahvyrcI6N00Cc"
+    },
+    {
+      "added_at": "2026-08-21 08:16:12",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/77JXbheLxVnzQSG3Gygmw5"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Ampermut",
+          "url": "https://open.spotify.com/artist/3NfKPE32SVWXMM4T6HUKAa"
+        },
+        {
+          "name": "Gobi Desert Collective",
+          "url": "https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp"
+        },
+        {
+          "name": "TEJA",
+          "url": "https://open.spotify.com/artist/4DgCdCHRYRjMSYtH2nWu72"
+        },
+        {
+          "name": "Mir iqbal",
+          "url": "https://open.spotify.com/artist/1gKFjniCoc6faMQH656qs2"
+        }
+      ],
+      "duration_ms": 271933,
+      "name": "Rosh (feat. Mir Iqbal)",
+      "url": "https://open.spotify.com/track/1fNbka2Mut6OpaUfoFHkKB"
+    },
+    {
+      "added_at": "2026-08-21 08:16:25",
+      "album": {
+        "name": "Forever In Our Hearts",
+        "url": "https://open.spotify.com/album/7HsxjPvL8CLbqmufLlxfuj"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 163229,
+      "name": "Forever In Our Hearts",
+      "url": "https://open.spotify.com/track/3smiQuUxXxpWlittH4cvvK"
+    },
+    {
+      "added_at": "2026-08-21 08:16:50",
+      "album": {
+        "name": "You Got Me Acting Crazy",
+        "url": "https://open.spotify.com/album/5U8bVM8xEltcLab0AETg1b"
+      },
+      "artists": [
+        {
+          "name": "DEVERAUX",
+          "url": "https://open.spotify.com/artist/0on1v6O0IcSsztk5FR50ju"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "You Got Me Acting Crazy",
+      "url": "https://open.spotify.com/track/2bOLtETlnrYLI47EGMsnRy"
+    },
+    {
+      "added_at": "2026-08-21 08:17:02",
+      "album": {
+        "name": "LET ME BE (Just\u0117 Remix)",
+        "url": "https://open.spotify.com/album/5vCcSSKmG4sPt8ZcXu0DwN"
+      },
+      "artists": [
+        {
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+        },
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "LET ME BE (Just\u0117 Remix)",
+      "url": "https://open.spotify.com/track/3N2XG1mOYr7gCCCPulkuAY"
+    },
+    {
+      "added_at": "2026-08-21 08:15:12",
+      "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/2VIFfYTg72pDZnuHRkMn6m"
+      },
+      "artists": [
+        {
+          "name": "DANIQ",
+          "url": "https://open.spotify.com/artist/4pVwni0qNGtLWvGhRiXmZl"
+        },
+        {
+          "name": "DRIXS",
+          "url": "https://open.spotify.com/artist/6YYrFdjXYNOIHnoYSsDUBF"
+        }
+      ],
+      "duration_ms": 149275,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/6UhvUsRQ85ug3Zh0GzHfI9"
+    },
     {
       "added_at": "2026-08-14 08:07:29",
       "album": {

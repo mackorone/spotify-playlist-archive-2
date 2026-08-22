@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Awakening (Piano and Strings)",
+        "url": "https://open.spotify.com/album/41hc3CYrNqplZqeo4FA0pj"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243029,
+      "name": "Awakening (Piano and Strings)",
+      "url": "https://open.spotify.com/track/12x83XKUdnT5nXXo9bn7LT"
+    },
+    {
+      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo"
       },

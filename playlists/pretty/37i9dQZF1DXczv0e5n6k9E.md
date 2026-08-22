@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Likeboss
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,567 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,579 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [Gucci Bag](https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3) | [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [Gucci Bag](https://open.spotify.com/album/1BXZBS4RMQcRTTw7JbSsqu) | 2:16 |
 | 60 | [BADMAN](https://open.spotify.com/track/0JolqNNV3ZfbBuSBbPggQe) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [BADMAN](https://open.spotify.com/album/6Ncs4SvmRDLrvRnubvVcac) | 2:40 |
 
-Snapshot ID: `AAAAAO8dRLX7a10ORYOXwmUMQkbJepdd`
+Snapshot ID: `AAAAAKXXbbcXkUd1YWerA2rC2f9VzaYD`

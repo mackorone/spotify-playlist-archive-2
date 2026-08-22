@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "The Fish Queen of the Gowanus Canal",
+        "url": "https://open.spotify.com/album/5G6kqmfV06GdLsUZjAVuj1"
+      },
+      "artists": [
+        {
+          "name": "Lesley Braver",
+          "url": "https://open.spotify.com/artist/1H6ZXj2vivfL7OOyg5cBRa"
+        },
+        {
+          "name": "Lily Talmers",
+          "url": "https://open.spotify.com/artist/4nMJn2aEg3mpEwu628igXN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340593,
+      "name": "Apartments for Rent",
+      "url": "https://open.spotify.com/track/1ieXBiechge8JVTorp73ku"
+    },
+    {
+      "album": {
         "name": "Little Women - The Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1ZOWm21TS4MWUwvEAI7yob"
       },
@@ -462,7 +484,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 134843,
       "name": "Boom Boom (feat. Michael Thurber & Austin Scott) [from Goddess: The Musical (Nights In Mombasa)]",
       "url": "https://open.spotify.com/track/0fkOTH4394hlNxrgOG9mKg"
@@ -678,7 +700,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 276750,
       "name": "Clubs Glorious Clubs",
       "url": "https://open.spotify.com/track/6VVnMWw1CRwpBbl2fv6P5o"
@@ -704,6 +726,24 @@
       "duration_ms": 514746,
       "name": "Color and Light",
       "url": "https://open.spotify.com/track/7A3NVIlLa5lRAqYrXGWkzW"
+    },
+    {
+      "album": {
+        "name": "The Consequences of Victoria Grey (2026 Cast Recording)",
+        "url": "https://open.spotify.com/album/36qWGBz4PEC4jyJuD2V935"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cassidy",
+          "url": "https://open.spotify.com/artist/5BQqwiBTJYcpiwCHspwxWq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Conceal It",
+      "url": "https://open.spotify.com/track/3mxxhEyE1CZpTzpD7wWn7h"
     },
     {
       "album": {
@@ -788,7 +828,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 351900,
       "name": "Dear Bill",
       "url": "https://open.spotify.com/track/3erRbtsj9KJrSUcQZ4ZRG0"
@@ -814,7 +854,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 415431,
       "name": "Disco Ball",
       "url": "https://open.spotify.com/track/0MZGMlpQiV2sMaQ9stJf7w"
@@ -1244,7 +1284,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 137245,
       "name": "Goodbye, My Room",
       "url": "https://open.spotify.com/track/5up1bRxoRSpLSR1OPHPafO"
@@ -2054,7 +2094,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 264326,
       "name": "In the Leaves",
       "url": "https://open.spotify.com/track/6dvLYjhqprthcB6b4v3WyO"
@@ -2483,6 +2523,36 @@
     },
     {
       "album": {
+        "name": "Like Father: The Bloody Good EP",
+        "url": "https://open.spotify.com/album/22YUBAms3Fe7eg7YAf5jCL"
+      },
+      "artists": [
+        {
+          "name": "Original \u201cLike Father: The Bloody Good EP\u201d Cast",
+          "url": "https://open.spotify.com/artist/622Hi5tyhWijVybHbxw9GD"
+        },
+        {
+          "name": "Jacob Ryan Smith",
+          "url": "https://open.spotify.com/artist/1qBnjQHcARZz76ctw9kleB"
+        },
+        {
+          "name": "Caroline Pernick",
+          "url": "https://open.spotify.com/artist/4P68LVRLlAxmKXaFHWthj9"
+        },
+        {
+          "name": "Ramin Karimloo",
+          "url": "https://open.spotify.com/artist/2caaCPRmsp0wFF9utMxeMP"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88538,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7I9Eiyo5EhXECXJ82SQ671"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/754yLT3vjFS3aXnmm7fMh6"
       },
@@ -2512,7 +2582,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 579677,
       "name": "Making a Man",
       "url": "https://open.spotify.com/track/2rfA6J1ihjLIemZ9PbKhNb"
@@ -2783,6 +2853,40 @@
     },
     {
       "album": {
+        "name": "My Stuff",
+        "url": "https://open.spotify.com/album/3q5gsS57mcZaj90oGc9evi"
+      },
+      "artists": [
+        {
+          "name": "Mary Testa",
+          "url": "https://open.spotify.com/artist/32PpVHmstYW5f9IDyoZDiU"
+        },
+        {
+          "name": "Robin de Jesus",
+          "url": "https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32"
+        },
+        {
+          "name": "Brooke Ishibashi",
+          "url": "https://open.spotify.com/artist/3boYCEZnzi5Xu4vKJWascB"
+        },
+        {
+          "name": "Jonathan Raviv",
+          "url": "https://open.spotify.com/artist/3h4R6qdrjzIBDhh5Fz2QSd"
+        },
+        {
+          "name": "Kris Saint-Louis",
+          "url": "https://open.spotify.com/artist/7H7wqv9swGQb1V0qkzMW36"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "My Stuff",
+      "url": "https://open.spotify.com/track/0ZoA780i48UBQalmU3JIib"
+    },
+    {
+      "album": {
         "name": "Two Strangers (Carry A Cake Across New York) [Original Broadway Cast Recording]",
         "url": "https://open.spotify.com/album/2VCk6ZJ6r08eBszCToxbxO"
       },
@@ -2931,6 +3035,32 @@
     },
     {
       "album": {
+        "name": "Now, Forever",
+        "url": "https://open.spotify.com/album/5M9oyxP2aedTidpATH2cIZ"
+      },
+      "artists": [
+        {
+          "name": "Maria Wirries",
+          "url": "https://open.spotify.com/artist/7EpkGE77bqXVmWcpyMJPq9"
+        },
+        {
+          "name": "LJ Benet",
+          "url": "https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb"
+        },
+        {
+          "name": "Original Broadway Cast of The Lost Boys",
+          "url": "https://open.spotify.com/artist/3DECEsS7H9ALRxin82EZxE"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223270,
+      "name": "Now, Forever",
+      "url": "https://open.spotify.com/track/50B2OubvNCjN7ZIBbITyMu"
+    },
+    {
+      "album": {
         "name": "Merrily We Roll Along (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1ysKXBVW9cBAmeKgbtxRZd"
       },
@@ -2958,6 +3088,44 @@
       "duration_ms": 274266,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/4IRHXPQ794fL8BklZmxgwF"
+    },
+    {
+      "album": {
+        "name": "On The Day (The Second Amendment Is Wiped Away) (from Good Guy with a Gun!)",
+        "url": "https://open.spotify.com/album/2jJscEDPNsqmEuKC8Av2vC"
+      },
+      "artists": [
+        {
+          "name": "Chris Sullivan",
+          "url": "https://open.spotify.com/artist/4AqunZM8IMS0Zawx52RVV4"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        },
+        {
+          "name": "Rebecca Naomi Jones",
+          "url": "https://open.spotify.com/artist/2j23UN2y2ez2LmYyRKl6hp"
+        },
+        {
+          "name": "Anthony Rapp",
+          "url": "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        {
+          "name": "Gwen Hollander",
+          "url": "https://open.spotify.com/artist/3UfOdAi0mDsJrql2Nr7PGK"
+        },
+        {
+          "name": "Cast of Good Guy with a Gun!",
+          "url": "https://open.spotify.com/artist/5N0D1iBFaFLnt8EZJKof02"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235765,
+      "name": "On The Day (The Second Amendment Is Wiped Away)",
+      "url": "https://open.spotify.com/track/6wHYgz3od2LZ4tC3pOrRpG"
     },
     {
       "album": {
@@ -3505,6 +3673,48 @@
     },
     {
       "album": {
+        "name": "Secret Comes Out (feat. Brian Flores, Sean Grandillo, Dean Maupin)",
+        "url": "https://open.spotify.com/album/3rgI4jBeseHzxd2MtyM9nv"
+      },
+      "artists": [
+        {
+          "name": "Ali Louis Bourzgui",
+          "url": "https://open.spotify.com/artist/715DWWVfEfMl8tYCtJDNK3"
+        },
+        {
+          "name": "Maria Wirries",
+          "url": "https://open.spotify.com/artist/7EpkGE77bqXVmWcpyMJPq9"
+        },
+        {
+          "name": "LJ Benet",
+          "url": "https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb"
+        },
+        {
+          "name": "Original Broadway Cast of The Lost Boys",
+          "url": "https://open.spotify.com/artist/3DECEsS7H9ALRxin82EZxE"
+        },
+        {
+          "name": "Brian Flores",
+          "url": "https://open.spotify.com/artist/2JVlAKAoehJSirFodroVZ9"
+        },
+        {
+          "name": "Dean Maupin",
+          "url": "https://open.spotify.com/artist/3lqbkXEzOxo2z7YqDCGG0A"
+        },
+        {
+          "name": "Sean Grandillo",
+          "url": "https://open.spotify.com/artist/2OEM7AG50pTr5lOyHizV7q"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229227,
+      "name": "Secret Comes Out (feat. Brian Flores, Sean Grandillo, Dean Maupin)",
+      "url": "https://open.spotify.com/track/6GJ0nYFR1G4M3eTTRl39Dl"
+    },
+    {
+      "album": {
         "name": "The Jack of Hearts Club (Original Cast Recording)",
         "url": "https://open.spotify.com/album/02uBhwW4i1Qe9o2sIZerqI"
       },
@@ -4034,7 +4244,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 174361,
       "name": "Ta-Da!",
       "url": "https://open.spotify.com/track/76hbMjjyPowtCZ3UwNUMvm"
@@ -4329,6 +4539,32 @@
     },
     {
       "album": {
+        "name": "They Can't Comprehend",
+        "url": "https://open.spotify.com/album/3i8lB3SjUxcdBV1JDhVvsN"
+      },
+      "artists": [
+        {
+          "name": "Timothy L. Michuda",
+          "url": "https://open.spotify.com/artist/78IEifiR1gG59VIJysu0GB"
+        },
+        {
+          "name": "Ben Ward",
+          "url": "https://open.spotify.com/artist/1B0AHmSan2gnA7bM9XudMX"
+        },
+        {
+          "name": "Mason Olshavsky",
+          "url": "https://open.spotify.com/artist/7ixHDobaqDCeHMI5M6mPlD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177029,
+      "name": "They Can't Comprehend",
+      "url": "https://open.spotify.com/track/3lfn2nVT4rNr8hy2gUjSiB"
+    },
+    {
+      "album": {
         "name": "This Could Be The Start Of Something Big",
         "url": "https://open.spotify.com/album/75nOdlCjTfWcMwaqPyz3qo"
       },
@@ -4460,7 +4696,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 218663,
       "name": "Together, Wherever We Go",
       "url": "https://open.spotify.com/track/4F8bLCBX09gQ4gJ0QwCVYw"
@@ -4486,6 +4722,32 @@
       "duration_ms": 185906,
       "name": "Tomorrow Is Tonight",
       "url": "https://open.spotify.com/track/61ij2dcHpaUYkFFFdAcdvr"
+    },
+    {
+      "album": {
+        "name": "Tribulation (from the Original Broadway Cast Recording of \"Schmigadoon!\")",
+        "url": "https://open.spotify.com/album/75f9GZZv173alHcvG0RuQW"
+      },
+      "artists": [
+        {
+          "name": "Ana Gasteyer",
+          "url": "https://open.spotify.com/artist/7d6aJ2BJN91ud3dOTNN8Vz"
+        },
+        {
+          "name": "Schmigadoon! Original Broadway Company",
+          "url": "https://open.spotify.com/artist/53hTYUhSIXl5z7uLjCqzqF"
+        },
+        {
+          "name": "Cinco Paul",
+          "url": "https://open.spotify.com/artist/3rb3ucTNAUP92Wxr4LQPsK"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262065,
+      "name": "Tribulation - from the Original Broadway Cast Recording of \"Schmigadoon!\"",
+      "url": "https://open.spotify.com/track/3aLBhLwFBk76cBSHaOVjgj"
     },
     {
       "album": {

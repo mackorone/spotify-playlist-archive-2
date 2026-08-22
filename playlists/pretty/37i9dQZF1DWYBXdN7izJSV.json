@@ -1,12 +1,12 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117245,
+  "num_followers": 117248,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFW5giKgPyJfAvj3mz9iZY15fPN0",
+  "snapshot_id": "AAAAAIXrBVWnjohRYRw/Rluu+qq9KB+/",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:42",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
         "name": "Movie Of The Week",
         "url": "https://open.spotify.com/album/7wNQC2MXYcehArLMjdFzZ2"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/4Cd7jyOiC8S18NwUBEGRbe"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Seven Year Ache",
         "url": "https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 195706,
       "name": "Seven Year Ache",
       "url": "https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 305826,
-      "name": "Sweet Old World",
-      "url": "https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Anodyne",
         "url": "https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 222826,
       "name": "Chickamauga",
       "url": "https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 305826,
+      "name": "Sweet Old World",
+      "url": "https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Keep the Home Fires Burnin'",
-      "url": "https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Uncle Tupelo 89/93: An Anthology",
         "url": "https://open.spotify.com/album/3QTZMpN4IHejzml5kxVGEG"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 263666,
       "name": "Moonshiner",
       "url": "https://open.spotify.com/track/7KJ2nuhkrBXudfs0fmyw04"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Keep the Home Fires Burnin'",
+      "url": "https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1183,8 +1183,8 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "100 Miles of Wreckage",
-        "url": "https://open.spotify.com/album/6dSZmYZTOVUgrsHUMUIChX"
+        "name": "Whiskey Angel",
+        "url": "https://open.spotify.com/album/5c6mKZXRDC5vCKqVTpU9kf"
       },
       "artists": [
         {
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Two Hearts Down",
-      "url": "https://open.spotify.com/track/18i8x1wiccOX6XiHrauIDn"
+      "duration_ms": 292826,
+      "name": "Whiskey Angel",
+      "url": "https://open.spotify.com/track/3Z1BWdwfiXnmLdnNBfRv9u"
     },
     {
       "added_at": "2026-06-19 04:01:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > È una Geolier summer🩸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,452 likes - 55 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,438 likes - 55 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 54 | [+ FORTE](https://open.spotify.com/track/6L1RGHjUjpxf3y2xUl9BSw) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [+ FORTE](https://open.spotify.com/album/0fFTufxbeegpl7egX0ugxa) | 3:26 |
 | 55 | [come no \. \. .](https://open.spotify.com/track/0IgGFVvbuzzghavTQI8ii0) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [FREESTYLE](https://open.spotify.com/album/5mC5671gyxFUnJVLq8RhPm) | 2:24 |
 
-Snapshot ID: `AAAAAJtW2UAWH4etlSG2xBIqYHfxtpNC`
+Snapshot ID: `AAAAACQCH1s/IiqE7FDPluvSEY5HlLe3`

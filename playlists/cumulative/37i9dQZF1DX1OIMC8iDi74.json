@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap \ud83d\udc99 with Jai Wolf",
+  "description": "The best of electronic trap \ud83d\udc99 with TroyBoi",
   "name": "Trap Mojito",
   "tracks": [
     {
@@ -1493,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "FT.",
+        "url": "https://open.spotify.com/album/2NUmsuURs9rtHr8CS1IUU4"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Rockie Fresh",
+          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145185,
+      "name": "BEAR",
+      "url": "https://open.spotify.com/track/5sO1DBiK8jg0emSCBn8qri"
+    },
+    {
+      "album": {
         "name": "Been That Ill",
         "url": "https://open.spotify.com/album/4d8MRjTHpXtJcDmbaj2OVG"
       },
@@ -1958,7 +1980,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 236800,
       "name": "Bluff",
       "url": "https://open.spotify.com/track/4tJqft8BeGraffB2oKktl1"
@@ -4096,7 +4118,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 199666,
       "name": "DO AS I SAY",
       "url": "https://open.spotify.com/track/56NCLe3cAx4QCtHDhl6WD8"
@@ -5790,7 +5812,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 188571,
       "name": "FLY",
       "url": "https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc"
@@ -7071,6 +7093,24 @@
     },
     {
       "album": {
+        "name": "Greyscale",
+        "url": "https://open.spotify.com/album/2pL7bw5G3JkcR5ckIaidOC"
+      },
+      "artists": [
+        {
+          "name": "Paper Skies",
+          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172177,
+      "name": "HANDS GO HIGHER",
+      "url": "https://open.spotify.com/track/0I0N6qLlaOttw24Cdfe1mO"
+    },
+    {
+      "album": {
         "name": "HANDS UP",
         "url": "https://open.spotify.com/album/0jsjaBbIojU0gRT2zLElov"
       },
@@ -8004,7 +8044,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 193307,
       "name": "HUSH",
       "url": "https://open.spotify.com/track/0BBzJt4nTWXbZKvO2k3L8X"
@@ -8166,6 +8206,28 @@
       "duration_ms": 184202,
       "name": "I Can't Take It",
       "url": "https://open.spotify.com/track/6opSU5uIZO1m0B6OnUSNYM"
+    },
+    {
+      "album": {
+        "name": "I DARE YOU",
+        "url": "https://open.spotify.com/album/67RBKj5kgn9q07dv6Ro1XA"
+      },
+      "artists": [
+        {
+          "name": "Bailo",
+          "url": "https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC"
+        },
+        {
+          "name": "Lit Lords",
+          "url": "https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "I DARE YOU",
+      "url": "https://open.spotify.com/track/5BFq3RcsuJ4aubxaJ9NbhD"
     },
     {
       "album": {
@@ -9344,7 +9406,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 160551,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
@@ -10580,7 +10642,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 142285,
       "name": "Loudest In The Room",
       "url": "https://open.spotify.com/track/35soU3odbFiPB8PAQNIqjM"
@@ -11190,7 +11252,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 209931,
       "name": "MIDAS TOUCH",
       "url": "https://open.spotify.com/track/5dHlSvboszGhszPnjsetv3"
@@ -13281,6 +13343,28 @@
     },
     {
       "album": {
+        "name": "FT.",
+        "url": "https://open.spotify.com/album/2NUmsuURs9rtHr8CS1IUU4"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Drew Love",
+          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/2OieKfzEmyyTKZyBUsZAg4"
+    },
+    {
+      "album": {
         "name": "PISTON",
         "url": "https://open.spotify.com/album/0vqNlq2Y6wWNyctY5tw6HO"
       },
@@ -14778,7 +14862,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 161142,
       "name": "SAVE U",
       "url": "https://open.spotify.com/track/7AoZ39tdZt9OLEsfQ6bdiA"
@@ -15418,7 +15502,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "SKANKIN'",
       "url": "https://open.spotify.com/track/170EILbKBLytmHSOcA4sJE"
@@ -17359,6 +17443,24 @@
     },
     {
       "album": {
+        "name": "COME WITH ME",
+        "url": "https://open.spotify.com/album/5w8DOp0qREpRuEtAqKnufm"
+      },
+      "artists": [
+        {
+          "name": "SPLATA",
+          "url": "https://open.spotify.com/artist/73Neq5huRsY2YnBj979vgv"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "THIS MY SHIT",
+      "url": "https://open.spotify.com/track/0U8xvMeW1LIjUlGA23dI9H"
+    },
+    {
+      "album": {
         "name": "4EVR",
         "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
       },
@@ -18147,6 +18249,28 @@
     },
     {
       "album": {
+        "name": "TTY",
+        "url": "https://open.spotify.com/album/5Gokr84dldnrggVaunCksN"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Cerdin",
+          "url": "https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226985,
+      "name": "TTY",
+      "url": "https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH"
+    },
+    {
+      "album": {
         "name": "Tums",
         "url": "https://open.spotify.com/album/1Ycwxjo9vjfPoLHAy4Hemt"
       },
@@ -18870,6 +18994,24 @@
       "duration_ms": 163607,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3xY1Z0W0UO1itJoa5wpA95"
+    },
+    {
+      "album": {
+        "name": "VOC\u00ca DAN\u00c7A",
+        "url": "https://open.spotify.com/album/17DlKRWZ517wtFmmX0bs3y"
+      },
+      "artists": [
+        {
+          "name": "Pryzms",
+          "url": "https://open.spotify.com/artist/6HNMTkdyksPiM9gdBKLkYf"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201444,
+      "name": "VOC\u00ca DAN\u00c7A",
+      "url": "https://open.spotify.com/track/7pYVaGdXsvNYbLYE0n8gKF"
     },
     {
       "album": {

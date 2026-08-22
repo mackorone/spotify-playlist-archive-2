@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 64964,
+  "num_followers": 64983,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAAedsHc54RJUJAEVMgHI5qQ",
+  "snapshot_id": "aoZDgAAAAAChm8Z4KarNbRB5qYawy0U8",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 188613,
-      "name": "Rise To The Sun",
-      "url": "https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e"
+      "duration_ms": 254760,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 254760,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ"
+      "duration_ms": 188613,
+      "name": "Rise To The Sun",
+      "url": "https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e"
     },
     {
       "added_at": null,

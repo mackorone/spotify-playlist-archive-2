@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > Sarah Julia kiezen 20 liedjes voor de zomer\. <a href="spotify:presents:jouwzomerid">Meer zomersuggesties? Doe de quiz.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,131 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,128 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 59 | [garden green eyes](https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [garden green eyes](https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn) | 2:58 |
 | 60 | [Body as a Meadow](https://open.spotify.com/track/0X1WV3X8xEf1Tt8nLBIWPi) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [UNALASKA](https://open.spotify.com/album/2EfVQqJagb60EnAJNq1o9I) | 3:39 |
 
-Snapshot ID: `AAAAAHJLT58ud7DXxEJePpO8QOUpeHFH`
+Snapshot ID: `AAAAADweY/S02fFdTO8vAiNyR2ps7Y7M`

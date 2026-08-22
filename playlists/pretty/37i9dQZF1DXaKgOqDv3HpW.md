@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,695 likes - 169 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,646 likes - 169 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 168 | [Perspectives](https://open.spotify.com/track/37XfwUzTOXfEPLzaKwea1Z) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Perspectives](https://open.spotify.com/album/0Yiy7Xr4cwNCcy5OHDfwlx) | 2:36 |
 | 169 | [Soft Embrace](https://open.spotify.com/track/1QcmRI9Jjg0XxeEyKmH1Dx) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Soft Embrace](https://open.spotify.com/album/0hDklJwXS9mx67EyaDGf3q) | 2:49 |
 
-Snapshot ID: `AAAAAId6J5uqTbgfrkQuhHUgUGvLu/Le`
+Snapshot ID: `AAAAANb6+zraDxYJQsJT//NaPkuKTE+b`

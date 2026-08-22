@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-158 songs - 12 hr 49 min
+159 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Let's Fall in Love \(Arr\. Haginomori for Flute and Piano\)](https://open.spotify.com/track/0vMENu9wXi1Sced0XbPqhc) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [山中惇史](https://open.spotify.com/artist/55RWizcWD2mduyBwTDoHRe) | [Neos](https://open.spotify.com/album/1gb5ayTVtIYlLzAJYY7NBY) | 3:11 | 2024-11-15 |  |
 | [Lettre Encore](https://open.spotify.com/track/2iQGTUBLVkvAQkjA7yLkEr) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Dyens: Lettre Encore](https://open.spotify.com/album/1UlvY6kRnHGlLLdYjU0raG) | 1:34 | 2025-01-10 |  |
 | [Libra](https://open.spotify.com/track/2dEimLdpOJLBDPHJqSTWvy) | [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W), [The Knights](https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm) | [Zodiac Suite](https://open.spotify.com/album/6xMuaOboivwaqgRZnJ6DYg) | 3:54 | 2023-09-29 |  |
+| [Lush Life](https://open.spotify.com/track/1AHmeUQfmNrrdeoHrokndw) | [Fuse](https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP) | [Lush Life](https://open.spotify.com/album/2iFHutm5pjfvxp6kLW3ffg) | 7:42 | 2026-08-21 |  |
 | [Marzamemi](https://open.spotify.com/track/5ziXsLz1pXCBbvdzUvlNRx) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC), [Marc Lehan](https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G), [Werner Lauscher](https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U) | [Marzamemi](https://open.spotify.com/album/3DAQwOi0le2C5l9RgbCiry) | 6:15 | 2023-02-03 |  |
 | [Mazurka No\. 1](https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [Classics](https://open.spotify.com/album/2Jsl2o6t5fxE90CTunCX91) | 4:14 | 2021-12-02 |  |
 | [Memorable Stories](https://open.spotify.com/track/1TDQL3Y4rQhQvBdNH2YP0Q) | [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Piano, Unfolding](https://open.spotify.com/album/04cqGQgC7bi2IZVLTrRrSj) | 3:55 | 2026-08-07 |  |

@@ -26799,6 +26799,28 @@
     },
     {
       "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/5saHzxuBPB0WGKSA4e39c3"
+      },
+      "artists": [
+        {
+          "name": "COSTA",
+          "url": "https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX"
+        },
+        {
+          "name": "Fortune Favor",
+          "url": "https://open.spotify.com/artist/1fkNlqFZJfsrHUNXr7xNeh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153803,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/6r0FI24st9dtMgDxqiF5Cy"
+    },
+    {
+      "album": {
         "name": "You Want Me (VIP)",
         "url": "https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8"
       },

@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Rising Insane
 
-1,048 songs - 2 day 11 hr 34 min
+1,049 songs - 2 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,6 +783,7 @@
 | [Save Your Roses](https://open.spotify.com/track/7qWKbKxjWIh6Yq0jcba8s2) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Save Your Roses](https://open.spotify.com/album/4AGmXs8I2TMn5Is4e4eBWe) | 2:47 | 2026-01-22 | 2026-02-27 |
 | [Saw You Stand](https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Saw You Stand](https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT) | 4:49 | 2026-07-31 |  |
 | [Say It Again \(feat\. The Rasmus\)](https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Say It Again \(feat\. The Rasmus\)](https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz) | 4:23 | 2025-08-07 | 2025-09-14 |
+| [Say Yes](https://open.spotify.com/track/1bopIBCYnfkvWuMXVaaugp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:04 | 2026-08-21 |  |
 | [Scales Are Falling](https://open.spotify.com/track/2Wb33vEP4HJiPpI5J7s4Ha) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Scales Are Falling](https://open.spotify.com/album/4r9bwqnjDl2oKbQHBWybNv) | 5:52 | 2026-01-09 | 2026-01-31 |
 | [Scar on My Guitar](https://open.spotify.com/track/3WXhf9KacGRycnFS4XmNYx) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Scar on My Guitar](https://open.spotify.com/album/7GefG4OL4QBUtnRHszGejq) | 3:56 | 2025-05-08 | 2025-05-16 |
 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 | 2025-06-05 | 2025-06-13 |
@@ -970,7 +971,7 @@
 | [Unbreakable](https://open.spotify.com/track/3PcruDuZZxIETy4oQp9ShM) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Unbreakable](https://open.spotify.com/album/5OVkdDWSRlDe5Qt2YHNNFR) | 2:51 | 2025-01-23 | 2025-02-07 |
 | [Underdogs \- Single Edit](https://open.spotify.com/track/3mGQ2WEpynSr1hLP2QRpIr) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB) | [Underdogs](https://open.spotify.com/album/24T4HEZzyOuK87XkbuJUNQ) | 2:17 | 2024-10-03 | 2024-10-18 |
 | [Unhappy Hour \(with Weathers\)](https://open.spotify.com/track/4Rcte2OZhcYAAXFopuqxxe) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Unhappy Hour \(with Weathers\)](https://open.spotify.com/album/24XAIeZ1xI2lbBVWa5JC28) | 3:14 | 2025-04-03 | 2025-06-13 |
-| [Unicorns](https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu) | [257ers](https://open.spotify.com/artist/6ihLfpY3cmdGyWEnItn30w), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Freundschaft Plus](https://open.spotify.com/album/0PEQUwOq0DPdfpaWATYT30) | 3:34 | 2025-05-30 |  |
+| [Unicorns](https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu) | [257ers](https://open.spotify.com/artist/6ihLfpY3cmdGyWEnItn30w), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Freundschaft Plus](https://open.spotify.com/album/0PEQUwOq0DPdfpaWATYT30) | 3:34 | 2025-05-30 | 2026-08-22 |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 | 2025-04-25 |
 | [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 | 2025-10-23 | 2026-03-27 |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |

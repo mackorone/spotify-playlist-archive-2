@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Palmy
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Z9
 
-283 songs - 17 hr 1 min
+285 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Sunset In Pattaya](https://open.spotify.com/track/3xAsJQO4g5ZBUL6U6k5CzW) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:29 | 2026-03-20 |  |
 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 | 2025-05-01 | 2025-10-16 |
 | [Supernova](https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK) | 2:58 | 2024-06-20 | 2024-07-21 |
-| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-20 |  |
+| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-20 | 2026-08-22 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-23 | 2025-01-19 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-28 | 2025-10-04 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-28 | 2025-09-06 |
@@ -215,7 +215,7 @@
 | [น้ำหอม](https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [น้ำหอม \- Single](https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka) | 3:27 | 2024-11-08 | 2025-06-21 |
 | [บทสรุปสุดท้าย](https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [บทสรุปสุดท้าย](https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K) | 4:24 | 2025-03-23 | 2026-08-01 |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-20 | 2024-12-06 |
-| [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/track/0yKr4gsqBjdZqrWhQp5Kny) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/album/4hnaPredSGZI91cmD8WqGB) | 3:31 | 2026-05-29 |  |
+| [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/track/0yKr4gsqBjdZqrWhQp5Kny) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/album/4hnaPredSGZI91cmD8WqGB) | 3:31 | 2026-05-29 | 2026-08-22 |
 | [ผูกพันต้องลา](https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ผูกพันต้องลา](https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk) | 3:20 | 2024-06-20 | 2024-08-24 |
 | [ฝากให้เขารัก](https://open.spotify.com/track/198pPjDG0juHRjechZrWer) | [Yes'sir Days](https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV) | [ฝากให้เขารัก](https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd) | 4:16 | 2025-09-05 |  |
 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-08-07 | 2025-08-23 |
@@ -249,6 +249,7 @@
 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 | 2025-02-12 | 2026-04-18 |
 | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/6PpU1mdpIla4ZCafxgcQad) | 3:22 | 2025-03-16 | 2025-04-17 |
 | [สาธุ \(Sathu\) \[feat\. ปลาย กนกพร\]](https://open.spotify.com/track/0pa70WIyVyI3DY4bcL2vZo) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz), [ปลาย กนกพร](https://open.spotify.com/artist/5UtsnPxhjHtOM6cyv8iqVN) | [DEEPMIND](https://open.spotify.com/album/6E2hWewCYErAbNZjz8eiCF) | 3:38 | 2026-01-23 | 2026-03-06 |
+| [สายไป](https://open.spotify.com/track/45VmbHRJywi2mNaIGvHs44) | [9tokyo](https://open.spotify.com/artist/3FxGLtMGpuO4myzWo0gktr), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [สายไป](https://open.spotify.com/album/3pnYrlNhLlMwkV9gDSXphN) | 3:18 | 2026-08-21 |  |
 | [สารภาพลดโทษกึ่งหนึ่ง](https://open.spotify.com/track/5TO9QdzAiAw9fBTiDpiNcg) | [MaxMillor](https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63), [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [สารภาพลดโทษกึ่งหนึ่ง](https://open.spotify.com/album/2F17kjFk8JiLBO9cf4WLji) | 4:18 | 2026-06-11 |  |
 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\) \- Single](https://open.spotify.com/album/5UGFoT5E3XTctzfOondKRU) | 4:08 | 2024-09-26 | 2025-04-04 |
 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 | 2025-01-31 | 2026-01-23 |
@@ -286,6 +287,7 @@
 | [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 | 2026-04-23 |  |
 | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/track/34bbjxV7eJWOWdHHs5ZKn7) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/album/3duBUGLDS0P8MpuWEeSOrR) | 3:43 | 2025-01-16 | 2025-02-07 |
 | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 | 2026-06-26 |  |
+| [ไม่รักดีกว่า](https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ไม่รักดีกว่า](https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4) | 3:26 | 2026-08-21 |  |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-06-20 | 2025-02-22 |
 | [ไม่ใช่ไม่รัก](https://open.spotify.com/track/2UYCVz38O2zoQICICt9ZzU) | [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [ไม่ใช่ไม่รัก](https://open.spotify.com/album/3DqJ2YjutAdb7xv55GTFTd) | 4:31 | 2026-01-15 | 2026-02-21 |
 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 | 2024-06-20 | 2025-08-16 |

@@ -2309,6 +2309,32 @@
     },
     {
       "album": {
+        "name": "Camp Rock 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
+      },
+      "artists": [
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Hudson Stone",
+          "url": "https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184055,
+      "name": "Rhythm's Only Right",
+      "url": "https://open.spotify.com/track/3NojQYb1xBtAaxJMEtnSKG"
+    },
+    {
+      "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
       },

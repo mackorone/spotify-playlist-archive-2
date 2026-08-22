@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,105 likes - 56 songs - 3 hr 7 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,118 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 54 | [Do you like it that way](https://open.spotify.com/track/1znJonSXmxeTYceBuMgrix) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Do you like it that way](https://open.spotify.com/album/59YCENlsKrzYGrvRN5weKC) | 4:29 |
 | 55 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
 | 56 | [B!tch](https://open.spotify.com/track/6yuAizja4nZcTgGHARMGbR) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [B!tch](https://open.spotify.com/album/5bkMKZjEHxdsB6chVzgXZt) | 3:24 |
+| 57 | [Happy Pill](https://open.spotify.com/track/70s2jRIzv2wH9WiQv3CNuY) | [Millie Mountain](https://open.spotify.com/artist/6DVdCYxPalV6GXHAFhEkIG) | [Tools](https://open.spotify.com/album/5prOUcOkdi374LTU7xR6h8) | 1:58 |
+| 58 | [Forever](https://open.spotify.com/track/1RuckU5sGctczAPxEBiNRl) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Forever](https://open.spotify.com/album/0HwDigYQQjh0T0tqsC71dM) | 4:17 |
 
-Snapshot ID: `AAAEO8jdcsULksWcbvv6TBOZh/zP0OOO`
+Snapshot ID: `AAAEPadBvP1/uT5ML3jTs7BjIoxBEoS5`

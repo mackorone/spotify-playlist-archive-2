@@ -1,12 +1,12 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 252184,
+  "num_followers": 252182,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOX3Q/LJPvFumTtDleW+pO0j29q2",
+  "snapshot_id": "AAAAAIYZkR1p1Zl35U3FQ9wXdvQ+5SIO",
   "tracks": [
     {
       "added_at": "2025-02-06 00:50:29",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "You Must Love Me",
+      "url": "https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "This Is A Life (From the Original Motion Picture \"Everything Everywhere All at Once\")",
         "url": "https://open.spotify.com/album/7smqQ6jqhvC0hOmlNyKwhR"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 161022,
       "name": "This Is A Life",
       "url": "https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "You Must Love Me",
-      "url": "https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Breakfast At Tiffany's",
-        "url": "https://open.spotify.com/album/4oPm7AxPVxBOOyMTNp9Zgh"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0CRmi4W6Z2tvrRg3lckcDx"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "I'm Breathless",
         "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 200160,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Breakfast At Tiffany's",
+        "url": "https://open.spotify.com/album/4oPm7AxPVxBOOyMTNp9Zgh"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0CRmi4W6Z2tvrRg3lckcDx"
     },
     {
       "added_at": "2024-01-23 19:55:12",

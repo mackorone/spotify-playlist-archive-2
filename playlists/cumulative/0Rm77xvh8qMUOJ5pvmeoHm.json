@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Crazy, Baby",
+        "url": "https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6"
+      },
+      "artists": [
+        {
+          "name": "Cara Delevingne",
+          "url": "https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146863,
+      "name": "Crazy, Baby",
+      "url": "https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },

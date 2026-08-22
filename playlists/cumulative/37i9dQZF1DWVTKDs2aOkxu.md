@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Fontaines D.C.
 
-1,138 songs - 2 day 19 hr 12 min
+1,138 songs - 2 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [Lizard](https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Lizard](https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck) | 3:20 | 2025-02-21 | 2025-05-02 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-10-05 | 2024-10-18 |
 | [Lonely in the Future](https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 3:20 | 2026-07-23 |  |
+| [Long Lonely Road](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 4:20 | 2026-08-20 |  |
 | [Long Sardine x Kids](https://open.spotify.com/track/3x0bxhjeoI6hvOd3MRhxlb) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine x Kids](https://open.spotify.com/album/6rJgrnk1q3zemYTEInhlkK) | 3:28 | 2025-07-04 | 2025-08-29 |
 | [Look At That Woman](https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij) | 2:43 | 2024-06-27 | 2024-10-04 |
 | [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 | 2025-01-24 | 2025-03-14 |
@@ -1044,8 +1045,6 @@
 | [tough luck](https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [tough luck](https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j) | 1:31 | 2026-07-16 |  |
 | [TOURNIQUET](https://open.spotify.com/track/5KZnditY0Ik8OakFR8W5bz) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Summer Indoors \(or outside wearing black\)](https://open.spotify.com/album/4PxXgJZbvR3CseOCU9so27) | 2:36 | 2026-07-16 |  |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2026-01-23 |
-| [Track 2](https://open.spotify.com/track/4nOZyZqzpEJmryrYWM0NoC) | [Arkayla](https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50) | [Back To Belle Vue](https://open.spotify.com/album/5Cgt08t9NHyDqtVkBCH6Pp) | 0:00 | 2026-08-20 |  |
-| [Track 6](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 0:00 | 2026-08-20 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-06-05 |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-01 | 2025-06-27 |
 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-03 | 2024-11-15 |
@@ -1074,6 +1073,7 @@
 | [Vespers](https://open.spotify.com/track/0dVe5DhGeNN2TUEtzQp63W) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/2I25MrGGWAIRtjjcZcf6xP) | 3:25 | 2025-05-01 | 2025-07-11 |
 | [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-10 | 2025-09-12 |
 | [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 | 2026-06-25 | 2026-08-21 |
+| [Vivian](https://open.spotify.com/track/4nOZyZqzpEJmryrYWM0NoC) | [Arkayla](https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50) | [Back To Belle Vue](https://open.spotify.com/album/5Cgt08t9NHyDqtVkBCH6Pp) | 3:18 | 2026-08-20 |  |
 | [Voices In My Head](https://open.spotify.com/track/1hwjsnf6pG8q20oLH5ihSI) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [i just want next year to be better](https://open.spotify.com/album/0kRjwojrO13TouynamNnac) | 3:15 | 2025-01-03 | 2025-03-14 |
 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 | 2026-01-30 | 2026-03-06 |
 | [Walk Through Fire](https://open.spotify.com/track/1Mdmg7rBIqT1FxAge95Xmx) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Walk Through Fire](https://open.spotify.com/album/7vn1PoVj0mi2MgASHVQoYc) | 3:23 | 2024-06-27 | 2024-07-19 |

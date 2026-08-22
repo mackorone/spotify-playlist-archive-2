@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Miss Kaninna
 
-1,647 songs - 3 day 4 hr 38 min
+1,647 songs - 3 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1042,6 +1042,7 @@
 | [Online](https://open.spotify.com/track/7cG8wmJW3TgJYpug9ovBTL) | [Miko Mal](https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7) | [Online](https://open.spotify.com/album/7jZ4CWvGKtzooh3ENYubVR) | 3:51 | 2023-09-21 | 2024-02-16 |
 | [Only Gang \(Members Only\)](https://open.spotify.com/track/2miuxb6UM6jiFwWroIoRoK) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh) | [Only Gang \(Members Only\)](https://open.spotify.com/album/7lGMGfjwexvAV9hxsM4k4A) | 2:30 | 2023-04-27 | 2023-08-25 |
 | [Only One](https://open.spotify.com/track/0xDFl6sorC2J6hVFxMwY9Q) | [Johniepee](https://open.spotify.com/artist/7D1a5RgcUUnm6nUr2VTvVy), [Joey Maker](https://open.spotify.com/artist/3ZUW11zEiCZfRiNnUU5P6k), [Jon Reichardt](https://open.spotify.com/artist/1RiLYDACBWSGUVO8PBli5t) | [Only One](https://open.spotify.com/album/6cRNpFDbSTIusvLP0G3fI5) | 3:28 | 2025-12-11 | 2026-02-06 |
+| [Opium](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 3:38 | 2026-08-20 |  |
 | [osiris](https://open.spotify.com/track/2pO2stWzOokgwrVgXF1MCn) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [osiris](https://open.spotify.com/album/36x88J3uwOWOcwwFfSEKSR) | 2:19 | 2025-02-13 | 2025-03-14 |
 | [Other](https://open.spotify.com/track/6jSwoPoyTthzDYNmr6XS5Z) | [Urthboy](https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ), [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2), [Ballast](https://open.spotify.com/artist/5KMX7TgDgTpKDXL5bf3fq7) | [Other](https://open.spotify.com/album/5hkSHxdIceloFM6sy9gyPt) | 3:25 | 2026-05-07 |  |
 | [OtherKidz](https://open.spotify.com/track/6pzEvBP59bC41EaACE4tK5) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [OtherKidz](https://open.spotify.com/album/6eyCQ5mvmOuCeHbY5K5BgY) | 2:08 | 2025-02-13 | 2025-03-21 |
@@ -1466,8 +1467,6 @@
 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:18 | 2025-10-23 | 2025-11-28 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 1](https://open.spotify.com/track/5jkmVlMM2uAOw65NcCcbpR) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [ORUN](https://open.spotify.com/album/2pKVfUXa6yyXc0OKTJFDC0) | 0:00 | 2026-08-20 |  |
-| [Track 2](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 0:00 | 2026-08-20 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |
@@ -1610,6 +1609,7 @@
 | [WHY SO SENSITIVE?](https://open.spotify.com/track/0Gs6lpqxpJrS4dPam9bZl0) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [WHY SO SENSITIVE?](https://open.spotify.com/album/78rj27FaXbX3YGbVwhtQW5) | 2:39 | 2025-09-04 | 2025-11-14 |
 | [Wicked](https://open.spotify.com/track/79nJFSXOGCb5tAM6pzhSCi) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Wicked](https://open.spotify.com/album/3s8eNk47rNa9CXdK2exLUo) | 2:03 | 2022-03-25 | 2022-11-25 |
 | [Wickedest](https://open.spotify.com/track/5B7B9AKNqnrjyazpa60Wkv) | [Eljay4K](https://open.spotify.com/artist/1VjAzt8KfS6QiE0YnaSF2a), [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh), [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK) | [Wickedest](https://open.spotify.com/album/0xnzklVwbGx6SlU3SU4Lk5) | 2:47 | 2025-06-12 | 2025-07-25 |
+| [Wildin' Out](https://open.spotify.com/track/5jkmVlMM2uAOw65NcCcbpR) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [ORUN](https://open.spotify.com/album/2pKVfUXa6yyXc0OKTJFDC0) | 2:45 | 2026-08-20 |  |
 | [Win](https://open.spotify.com/track/1DbOAQSLtvclmAHpaYx4ZA) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Win](https://open.spotify.com/album/0qkvZIgjzFagx6TtrqjfLd) | 2:24 | 2024-02-22 | 2024-05-17 |
 | [windows.](https://open.spotify.com/track/1goT6gWaWmmv5xVTJ3uK1n) | [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4), [Cruz Patterson](https://open.spotify.com/artist/4rK04IHobm1zwbuBtkXXLk), [Cam Deg](https://open.spotify.com/artist/4is9yBktBQ1C3R3ou8cd0O) | [windows.](https://open.spotify.com/album/0xxphBweDQtc2KQ2Fu3eXc) | 2:38 | 2024-11-14 | 2024-12-20 |
 | [WINTER 98](https://open.spotify.com/track/4WaBMZdq5JEeZc0RRRfdyK) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [WINTER 98](https://open.spotify.com/album/6a3XeFhNjjbJ8HLnFGvqmP) | 2:06 | 2024-04-25 | 2024-05-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 
 > This is Angela Torres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,494 likes - 37 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,558 likes - 38 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 12 | [FRIKI](https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:32 |
 | 13 | [Favorita \(En Vivo\)](https://open.spotify.com/track/6zTK7QwntQ9CuDJowNVFSS) | [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Favorita \(En Vivo\)](https://open.spotify.com/album/1n4aXYVrnqSV8ahYenLZGo) | 4:20 |
 | 14 | [Deja Vu](https://open.spotify.com/track/4uqc8T9Aq7k9wlNQeXxSuY) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Deja Vu](https://open.spotify.com/album/2d5OQTVxmRIoYCSlwSOBOs) | 3:21 |
-| 15 | [GUAPO](https://open.spotify.com/track/4AVbqBvcfsr0BmgzO7WmOL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [GUAPO](https://open.spotify.com/album/0Dy8iWaSx9u7YxhMTTbA1E) | 2:45 |
+| 15 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 |
 | 16 | [OOPS!](https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:12 |
-| 17 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 |
+| 17 | [GUAPO](https://open.spotify.com/track/4AVbqBvcfsr0BmgzO7WmOL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [GUAPO](https://open.spotify.com/album/0Dy8iWaSx9u7YxhMTTbA1E) | 2:45 |
 | 18 | [Fiebre](https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Fiebre](https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj) | 2:20 |
 | 19 | [LNDF](https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 3:02 |
 | 20 | [DEMASIADO](https://open.spotify.com/track/1FnX52b2XTa1YlBKQGJpwe) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 1:30 |
@@ -37,13 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 27 | [ARRABALERA](https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 2:40 |
 | 28 | [mitad](https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [mitad](https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp) | 2:52 |
 | 29 | [Castigo](https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Castigo](https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB) | 2:31 |
-| 30 | [Me Di Cuenta](https://open.spotify.com/track/2f0Sy7EgELM5bP6GZhrMSq) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Me Di Cuenta](https://open.spotify.com/album/6jFRVOjcQ9Ca7LwZbdpzyo) | 2:51 |
-| 31 | [Me Perdí](https://open.spotify.com/track/1WmNPOeEj0ipzfalJ7tRWe) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Me Perdí](https://open.spotify.com/album/5iLFvV5lVhEoKTOkpgceVq) | 3:24 |
+| 30 | [Me Perdí](https://open.spotify.com/track/1WmNPOeEj0ipzfalJ7tRWe) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Me Perdí](https://open.spotify.com/album/5iLFvV5lVhEoKTOkpgceVq) | 3:24 |
+| 31 | [Me Di Cuenta](https://open.spotify.com/track/2f0Sy7EgELM5bP6GZhrMSq) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Me Di Cuenta](https://open.spotify.com/album/6jFRVOjcQ9Ca7LwZbdpzyo) | 2:51 |
 | 32 | [AMOR DEL WENO](https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AMOR DEL WENO](https://open.spotify.com/album/4fSgoKVXnlEYs9gtElWJp6) | 3:18 |
 | 33 | [Suerte](https://open.spotify.com/track/3Vw49Lshvir54THxWx6KQ5) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Suerte](https://open.spotify.com/album/4b2khULwCtevccCqhlWLkA) | 3:51 |
 | 34 | [Fresh Prince \- Remix](https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Clara Cava](https://open.spotify.com/artist/3qc8DcgUI0Wo27LV64m2uL) | [Fresh Prince \(Remix\)](https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X) | 3:32 |
 | 35 | [Tu Mitad \(feat\. Angela Torres\)](https://open.spotify.com/track/6rkAc7HYaGhSAS8O5vCcKy) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 3:41 |
 | 36 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
 | 37 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:27 |
+| 38 | [Ropa Usada](https://open.spotify.com/track/42486PSR7Ed3VBGNhMFtP0) | [Diego Uma](https://open.spotify.com/artist/1GdiNwO4ULE3airQyDbIMI), [Martin Bosa](https://open.spotify.com/artist/0rQJnIVSGk1Bt9MQZIGBp4), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Kevsho](https://open.spotify.com/artist/2ZRWQ32bmdN6cdXr1TVGLh), [Sofía Saborido](https://open.spotify.com/artist/6yYuD9tFDOZFKA3HytWtVT), [Federico Sack](https://open.spotify.com/artist/0K2z0O8rZrG3SxQy59ZsQr) | [Porno y Helado \- \(Banda Sonora De La Segunda Temporada De La Serie Original De Amazon Prime\)](https://open.spotify.com/album/1GmqlbHDnKDsr5AWjv1EuE) | 1:57 |
 
-Snapshot ID: `aoTyAAAAAAD+pVahTJSB+prL/bd4CEzI`
+Snapshot ID: `aoZDgAAAAAACSNZQf2h4rAZG3505Wqwc`

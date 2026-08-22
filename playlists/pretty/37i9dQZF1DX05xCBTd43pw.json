@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJTLDFrmOOFRko6PT2NB4802Mx2Y",
+  "snapshot_id": "AAAAAItCmhtZr9YOoO2b+l6fCeAPCtWi",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:40",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "WHERE\u2019S THE FUN?",
-        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "WHERE\u2019S THE FUN?",
-      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "difficult",
         "url": "https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 156609,
       "name": "difficult",
       "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "WHERE\u2019S THE FUN?",
+        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "WHERE\u2019S THE FUN?",
+      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI"
-      },
-      "artists": [
-        {
-          "name": "SOLEROY",
-          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/32J5dIL3ougXNls1bpxm0Y"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Full 180",
         "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 203904,
       "name": "joli d\u00e9sastre",
       "url": "https://open.spotify.com/track/4SPxL3UxiuvuCQfbTCxdec"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI"
+      },
+      "artists": [
+        {
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/32J5dIL3ougXNls1bpxm0Y"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -567,18 +567,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Half A Soul",
-        "url": "https://open.spotify.com/album/3Uf2lt6QP5EQvDS0CBUzzt"
+        "name": "Fire To The Sky",
+        "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
       "artists": [
         {
-          "name": "SOLEROY",
-          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 169071,
-      "name": "Half A Soul",
-      "url": "https://open.spotify.com/track/0Ib3i3BJCKW3VBCdYNVUDD"
+      "duration_ms": 165206,
+      "name": "Fire To The Sky",
+      "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Fire To The Sky",
-        "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
+        "name": "Half A Soul",
+        "url": "https://open.spotify.com/album/3Uf2lt6QP5EQvDS0CBUzzt"
       },
       "artists": [
         {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
         }
       ],
-      "duration_ms": 165206,
-      "name": "Fire To The Sky",
-      "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+      "duration_ms": 169071,
+      "name": "Half A Soul",
+      "url": "https://open.spotify.com/track/0Ib3i3BJCKW3VBCdYNVUDD"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Anna Rossinelli",
+          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
         }
       ],
-      "duration_ms": 167847,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
+      "duration_ms": 163917,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
       },
       "artists": [
         {
-          "name": "Anna Rossinelli",
-          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 163917,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/3EJkFFctLoXCOKrS2O6hKY"
-      },
-      "artists": [
-        {
-          "name": "DJ Antoine",
-          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
-        },
-        {
-          "name": "Tim Moyo",
-          "url": "https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1"
-        }
-      ],
-      "duration_ms": 169930,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1zzrdSKdqTman4sjMyZYpu"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
       },
@@ -839,22 +819,6 @@
       "duration_ms": 199125,
       "name": "Let Myself Go",
       "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 136767,
-      "name": "You Hurt Me",
-      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -879,6 +843,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 136767,
+      "name": "You Hurt Me",
+      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Roommates",
         "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3EJkFFctLoXCOKrS2O6hKY"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        {
+          "name": "Tim Moyo",
+          "url": "https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1"
+        }
+      ],
+      "duration_ms": 169930,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1zzrdSKdqTman4sjMyZYpu"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Young Bones",
         "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 184880,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -943,22 +959,6 @@
       "duration_ms": 205755,
       "name": "There For You",
       "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Take Me Dancing",
         "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 163231,
       "name": "Take Me Dancing",
       "url": "https://open.spotify.com/track/5inN55cH5BKn3Okb2Owouc"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
+        "name": "Born With A Broken Heart",
+        "url": "https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb"
       },
       "artists": [
         {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Marc Storace",
+          "url": "https://open.spotify.com/artist/3JJ2TxK8vyck6aIzU4XvVM"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
+      "duration_ms": 186175,
+      "name": "Born With A Broken Heart",
+      "url": "https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W"
     }
   ],
   "unique_name": "Swiss Made",

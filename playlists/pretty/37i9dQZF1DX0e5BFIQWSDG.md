@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Saske
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,829 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,832 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 48 | [Logariasmos](https://open.spotify.com/track/6qShG16XTy1emd18WVPZlh) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Logariasmos](https://open.spotify.com/album/0Mesq5mYk1HClW7ecjungg) | 3:40 |
 | 49 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
 
-Snapshot ID: `AAAAABIAF+L1+OsUWwnaWttmDRmsqGNX`
+Snapshot ID: `AAAAABg/JOcx8imbaPT/WwGhzuIrS/bU`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 
 ### [Jungle Classics](https://open.spotify.com/playlist/37i9dQZF1DWTv94Wk9KTkJ)
 
-> The sound of 90s Jungle rave\. Cover: Roni Size
+> The sound of Jungle\. Cover: Roni Size
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,090 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,117 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 59 | [Guess](https://open.spotify.com/track/0NKri6cXGR5Kq8t5BXHVfa) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [V Classic](https://open.spotify.com/album/2v6rSLlgweFFDtpDntQVPw) | 7:11 |
 | 60 | [The Slammer](https://open.spotify.com/track/1WdsGYSYFuh0hqzd3v5ERu) | [Krome and Time](https://open.spotify.com/artist/34BsYkwksRwsEikxJWx106) | [Into The Night / The Slammer](https://open.spotify.com/album/14Xxv6JnlBSxwV48cpx6TX) | 6:10 |
 
-Snapshot ID: `AAAAAIs5vAmWhmwnRUVqzAr53LoXJKFZ`
+Snapshot ID: `AAAAAGSzz/zTTmH5P/oRyZBk+fVcROG0`

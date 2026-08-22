@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 231902,
+  "num_followers": 231914,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAAnnGI2qNDtp6/2v/LoS0e6",
+  "snapshot_id": "aoZDgAAAAACVDJbHIHa7awUK+TkNLwr4",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 166039,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7kZKCghLgg9t0vvugqPXDV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What It Is (Block Boy) (with Kodak Black)",
         "url": "https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 223343,
       "name": "What It Is (Block Boy) (with Kodak Black)",
       "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kutthroat Bill: Vol. 1",
-        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 166039,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7kZKCghLgg9t0vvugqPXDV"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 305618,
+      "name": "No Love For A Thug",
+      "url": "https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kodak The Blessing",
         "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 149484,
       "name": "Nunchucks (feat. 1900Rugrat)",
       "url": "https://open.spotify.com/track/3EbLusls6K7qoQcjARRgUu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pistolz & Pearlz",
-        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 305618,
-      "name": "No Love For A Thug",
-      "url": "https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed"
     },
     {
       "added_at": null,
@@ -919,30 +919,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreak on a Full Moon",
-        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
+        "name": "Mood 2",
+        "url": "https://open.spotify.com/album/2x4Hsr0LNdwJWXKo9Li0IY"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Noby",
+          "url": "https://open.spotify.com/artist/5NdpNoQSmvwUpgaf1k0O57"
         }
       ],
-      "duration_ms": 293434,
-      "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
-      "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
+      "duration_ms": 252466,
+      "name": "I Can Do Anything (feat. Kodak Black & NOBY",
+      "url": "https://open.spotify.com/track/42g4MVoRUKXnjml50fL3Fo"
     }
   ],
   "unique_name": "This Is Kodak Black",

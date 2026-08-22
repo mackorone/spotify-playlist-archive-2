@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Charles Wesley Godwin
+> roots run deep with Ian Munsick
 
-494 songs - 1 day 5 hr 39 min
+496 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2023-02-24 | 2024-01-05 |
 | [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 | 2025-08-08 |  |
 | [Black River Sway](https://open.spotify.com/track/7KM9s6XldjTpqTCI01fF1U) | [The Wet Whistles](https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj) | [Black River Sway](https://open.spotify.com/album/0ew7SFpsjqVNSRRxlgKw6Y) | 3:37 | 2026-04-24 |  |
+| [Bleeding Heart](https://open.spotify.com/track/3HMxuGjEVs3sPgnzQjTaPR) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Bleeding Heart](https://open.spotify.com/album/2D4VbBFGvjd6bN8C2tp4ei) | 3:32 | 2026-08-21 |  |
 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 | 2023-02-24 | 2023-12-09 |
 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 | 2023-03-24 | 2023-09-27 |
 | [Blue](https://open.spotify.com/track/6BAlpVMHkCSpHlf7bJbFM5) | [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Blue](https://open.spotify.com/album/6RB33mYpEqHVVPE0QnZmiT) | 3:16 | 2024-02-03 |  |
@@ -268,6 +269,7 @@
 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 | 2025-09-05 |  |
 | [Luckiest Man Alive](https://open.spotify.com/track/5AcdBSjv5W43KklHLDpNTH) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Luckiest Man Alive](https://open.spotify.com/album/7JQee4B0Etas2uzPTAUCkA) | 3:44 | 2026-07-31 |  |
 | [Mad Man](https://open.spotify.com/track/1i1GjxicCX9W9tBWwbFve5) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Mad Man](https://open.spotify.com/album/5qvuzIfBRmQP8XTi0jQWmR) | 2:52 | 2023-09-01 |  |
+| [Made Me A Man](https://open.spotify.com/track/5cStFcDU3aWHtvY4TqJ4Bd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [The Mountain Goat](https://open.spotify.com/album/75Bd99WLCgvlqE6LLaRUVU) | 3:25 | 2026-08-21 |  |
 | [Made To Love Someone](https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Made To Love Someone](https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i) | 3:06 | 2024-02-09 | 2024-07-11 |
 | [Madeline](https://open.spotify.com/track/7IW0YwaqaIJUTkCsayk4cs) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp) | [Madeline](https://open.spotify.com/album/0CSkndwqaDGbN4LOs6Ws2a) | 3:54 | 2025-01-02 |  |
 | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-18 |  |

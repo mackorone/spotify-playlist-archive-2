@@ -1,12 +1,12 @@
 {
   "description": "The new school - Alternative R&B. Cover: Q",
-  "num_followers": 1311572,
+  "num_followers": 1311482,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZ+sjNGRWdgBqNQ92jzea9SpV8z",
+  "snapshot_id": "AAAAAHGB5bxMGk1pbHzIeGrCJAIG3ptU",
   "tracks": [
     {
       "added_at": "2026-07-31 07:26:27",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/76vnbFYXLxoaJq6ee2Q5VM"
     },
     {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 220007,
+      "name": "Baby!",
+      "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
+    },
+    {
       "added_at": "2026-04-03 07:16:37",
       "album": {
         "name": "Distracted",
@@ -1171,22 +1187,6 @@
       "duration_ms": 155960,
       "name": "Funny Friends",
       "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
-    },
-    {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 220007,
-      "name": "Baby!",
-      "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
     },
     {
       "added_at": "2026-04-03 07:16:37",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
     },
     {
-      "added_at": "2026-05-08 06:11:38",
-      "album": {
-        "name": "linknb",
-        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 115160,
-      "name": "linknb",
-      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "hillside",
@@ -1299,6 +1283,22 @@
       "duration_ms": 172235,
       "name": "hillside",
       "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
+    },
+    {
+      "added_at": "2026-05-08 06:11:38",
+      "album": {
+        "name": "linknb",
+        "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 115160,
+      "name": "linknb",
+      "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
     },
     {
       "added_at": "2025-05-09 04:12:41",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
     },
     {
-      "added_at": "2025-08-01 08:16:45",
-      "album": {
-        "name": "True Believer",
-        "url": "https://open.spotify.com/album/59CWOYyzKcrts5u07Bs6jI"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 229009,
-      "name": "True Believer",
-      "url": "https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3"
-    },
-    {
       "added_at": "2024-08-16 04:08:50",
       "album": {
         "name": "Don't You Love Me? - A COLORS SHOW",
@@ -1535,6 +1519,22 @@
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
+    },
+    {
+      "added_at": "2025-08-01 08:16:45",
+      "album": {
+        "name": "True Believer",
+        "url": "https://open.spotify.com/album/59CWOYyzKcrts5u07Bs6jI"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 229009,
+      "name": "True Believer",
+      "url": "https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1845,22 +1845,6 @@
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
     },
     {
-      "added_at": "2024-06-14 07:30:32",
-      "album": {
-        "name": "Dream About You All Through The Night.",
-        "url": "https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP"
-      },
-      "artists": [
-        {
-          "name": "Sunni Col\u00f3n",
-          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
-        }
-      ],
-      "duration_ms": 229310,
-      "name": "Dream About You All Through The Night.",
-      "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
-    },
-    {
       "added_at": "2024-06-21 07:44:39",
       "album": {
         "name": "Petra",
@@ -1875,6 +1859,22 @@
       "duration_ms": 212000,
       "name": "Petra",
       "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
+    },
+    {
+      "added_at": "2024-06-14 07:30:32",
+      "album": {
+        "name": "Dream About You All Through The Night.",
+        "url": "https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP"
+      },
+      "artists": [
+        {
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+        }
+      ],
+      "duration_ms": 229310,
+      "name": "Dream About You All Through The Night.",
+      "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
     },
     {
       "added_at": "2025-06-27 04:16:56",
@@ -1893,22 +1893,6 @@
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
     },
     {
-      "added_at": "2024-10-26 03:32:36",
-      "album": {
-        "name": "The Drive Home",
-        "url": "https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 143102,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
-    },
-    {
       "added_at": "2024-06-28 18:42:06",
       "album": {
         "name": "God Said No",
@@ -1923,6 +1907,22 @@
       "duration_ms": 158093,
       "name": "Done With You",
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "added_at": "2024-10-26 03:32:36",
+      "album": {
+        "name": "The Drive Home",
+        "url": "https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 143102,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
     },
     {
       "added_at": "2026-07-17 05:33:57",
@@ -1941,22 +1941,6 @@
       "url": "https://open.spotify.com/track/1EnFnuMg7nRXdQYqnkOpNe"
     },
     {
-      "added_at": "2026-07-17 05:33:57",
-      "album": {
-        "name": "COMMUNICATION",
-        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "COMMUNICATION",
-      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
-    },
-    {
       "added_at": "2025-10-25 02:54:19",
       "album": {
         "name": "CAOS",
@@ -1971,6 +1955,22 @@
       "duration_ms": 258801,
       "name": "Nearsight [SID]",
       "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
+    },
+    {
+      "added_at": "2026-07-17 05:33:57",
+      "album": {
+        "name": "COMMUNICATION",
+        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 177902,
+      "name": "COMMUNICATION",
+      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2241,6 +2241,22 @@
       "url": "https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "cellophane",
+        "url": "https://open.spotify.com/album/5eJa1nfYhVs7eCQWEozWS9"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "cellophane",
+      "url": "https://open.spotify.com/track/5k24ea9NSxOL44OAW1UH69"
+    },
+    {
       "added_at": "2024-06-07 12:28:44",
       "album": {
         "name": "TIMELESS",
@@ -2291,22 +2307,6 @@
       "duration_ms": 232373,
       "name": "Rest of Your Life",
       "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
-    },
-    {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "cellophane",
-        "url": "https://open.spotify.com/album/5eJa1nfYhVs7eCQWEozWS9"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "cellophane",
-      "url": "https://open.spotify.com/track/5k24ea9NSxOL44OAW1UH69"
     },
     {
       "added_at": "2026-05-15 07:04:17",
@@ -2393,26 +2393,6 @@
       "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
     },
     {
-      "added_at": "2026-04-17 06:06:32",
-      "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO"
-      },
-      "artists": [
-        {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 152493,
-      "name": "July",
-      "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
-    },
-    {
       "added_at": "2026-03-13 08:17:11",
       "album": {
         "name": "ThunderWave",
@@ -2433,6 +2413,26 @@
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
     },
     {
+      "added_at": "2026-04-17 06:06:32",
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 152493,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
+    },
+    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Y PREE",
@@ -2447,6 +2447,22 @@
       "duration_ms": 140870,
       "name": "Y PREE",
       "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
+    },
+    {
+      "added_at": "2025-05-23 04:00:52",
+      "album": {
+        "name": "pilot.",
+        "url": "https://open.spotify.com/album/10AUh5FU4GV7eehXkMxbkB"
+      },
+      "artists": [
+        {
+          "name": "praise.",
+          "url": "https://open.spotify.com/artist/3EdJnvPToPkWpjbaWg0CsD"
+        }
+      ],
+      "duration_ms": 146669,
+      "name": "pilot.",
+      "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
     },
     {
       "added_at": "2024-08-30 06:47:05",
@@ -2471,38 +2487,6 @@
       "duration_ms": 209874,
       "name": "SATIVA!",
       "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
-    },
-    {
-      "added_at": "2025-05-23 04:00:52",
-      "album": {
-        "name": "pilot.",
-        "url": "https://open.spotify.com/album/10AUh5FU4GV7eehXkMxbkB"
-      },
-      "artists": [
-        {
-          "name": "praise.",
-          "url": "https://open.spotify.com/artist/3EdJnvPToPkWpjbaWg0CsD"
-        }
-      ],
-      "duration_ms": 146669,
-      "name": "pilot.",
-      "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
-    },
-    {
-      "added_at": "2024-08-23 05:28:40",
-      "album": {
-        "name": "Someone Asked Me How I've Been",
-        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Someone Asked Me How I've Been",
-      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2555,6 +2539,22 @@
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "added_at": "2024-08-23 05:28:40",
+      "album": {
+        "name": "Someone Asked Me How I've Been",
+        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Someone Asked Me How I've Been",
+      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
     },
     {
       "added_at": "2025-04-04 04:43:43",

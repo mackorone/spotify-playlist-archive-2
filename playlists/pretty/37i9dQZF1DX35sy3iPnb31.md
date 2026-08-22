@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,366 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,365 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 37 | [La fin](https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [La fin](https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4) | 3:40 |
 | 38 | [Hershey Kiss](https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [SLM](https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r) | [Hershey Kiss](https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI) | 2:08 |
 | 39 | [Tough](https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ) | [Dj Cinéma Quartier Latin](https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD) | [Bruise](https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ) | 3:27 |
-| 40 | [Dogs.](https://open.spotify.com/track/5vw1gkiEQF4avej3LNU8iY) | [House Mouse](https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx) | [Dogs.](https://open.spotify.com/album/2zmf9IHEQxPtGj7cyZF9ye) | 2:43 |
-| 41 | [Take Me Under](https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3) | [Take Me Under](https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ) | 2:39 |
+| 40 | [Take Me Under](https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3) | [Take Me Under](https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ) | 2:39 |
+| 41 | [Dogs.](https://open.spotify.com/track/5vw1gkiEQF4avej3LNU8iY) | [House Mouse](https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx) | [Dogs.](https://open.spotify.com/album/2zmf9IHEQxPtGj7cyZF9ye) | 2:43 |
 | 42 | [Ma Chance](https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW) | [A Girl Named Sue](https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ) | [Ma Chance](https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u) | 2:47 |
 | 43 | [Don't Eat Don't Sleep](https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Don't Eat Don't Sleep](https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn) | 3:32 |
 | 44 | [Corps \(feat\. Lou\-Adriane Cassidy\)](https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Nouveaux Langages](https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Adam West](https://open.spotify.com/track/2F5b6igudY64NBG42TCDjR) | [Koyo Sur La Prod](https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Adam West](https://open.spotify.com/album/0MgV3Mr6t1dCpgHX9REqSY) | 3:45 |
 | 50 | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z) | 1:56 |
 
-Snapshot ID: `AAAAAJelFLaDM+SePjm1RFC64IJWFca4`
+Snapshot ID: `AAAAAIQsyhciy4QO14RizFn7xFWq8rHw`

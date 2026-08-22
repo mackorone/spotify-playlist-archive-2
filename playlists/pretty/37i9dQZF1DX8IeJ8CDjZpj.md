@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > México Lindo y Querido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,149 likes - 21 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,129 likes - 21 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 20 | [El Sonidito](https://open.spotify.com/track/229HcoVMtqCUU6vY8Yyhnk) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx) | [Para Bailar y Gozar A Ritmo De La Banda](https://open.spotify.com/album/6VpYf0aTGWv2Zh0TqqXFPq) | 3:19 |
 | 21 | [La Nena](https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:55 |
 
-Snapshot ID: `AAAAAEOJEVwUYDW1GZDu6VMqBdU/9byo`
+Snapshot ID: `AAAAABwPgb+6w4UVYkFkOgApf0vpvNxY`

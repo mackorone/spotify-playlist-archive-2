@@ -57,6 +57,32 @@
     },
     {
       "album": {
+        "name": "Gossec: Allegro (from: Symphony in G Minor)",
+        "url": "https://open.spotify.com/album/45DcD3YU4bsZg2D81JKEcb"
+      },
+      "artists": [
+        {
+          "name": "Francois-Joseph Gossec",
+          "url": "https://open.spotify.com/artist/1KBWt9hc5YE25x6Bcr1zps"
+        },
+        {
+          "name": "W\u00fcrttemberg Chamber Orchestra Heilbronn",
+          "url": "https://open.spotify.com/artist/0w44YSvbn5b7OO2WDeMcou"
+        },
+        {
+          "name": "Simon Gaudenz",
+          "url": "https://open.spotify.com/artist/2twsQMa8lJU9oohxOzgIGY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292037,
+      "name": "6 Symphonies, Op. 6: No. 5 in G Minor, RH 26: I. Allegro",
+      "url": "https://open.spotify.com/track/6ljDr1haBIc9tg2Tx5d4rz"
+    },
+    {
+      "album": {
         "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
         "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
       },
@@ -418,6 +444,28 @@
       "duration_ms": 340200,
       "name": "Delibes: Lakm\u00e9, Act 1: Duo des fleurs. \"Viens, Mallika\" (Lakm\u00e9, Mallika)",
       "url": "https://open.spotify.com/track/2QRL3aEqAyKCc88yfoEq3g"
+    },
+    {
+      "album": {
+        "name": "Czerny: Die Kunst der Fingerfertigkeit, Op. 740: No. 14 in G Minor (Arr. Eichhorn)",
+        "url": "https://open.spotify.com/album/3Rakfo6MzOJsb7mzwRS0lv"
+      },
+      "artists": [
+        {
+          "name": "Carl Czerny",
+          "url": "https://open.spotify.com/artist/3gOIm6ckbGpE2x2Cl0XnsW"
+        },
+        {
+          "name": "Justus Eichhorn",
+          "url": "https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79600,
+      "name": "Die Kunst der Fingerfertigkeit, Op. 740: No. 14 in G Minor (Arr. Eichhorn)",
+      "url": "https://open.spotify.com/track/5HszBoJBPwzxkX0sfuuBhF"
     },
     {
       "album": {
@@ -2042,6 +2090,40 @@
       "duration_ms": 418466,
       "name": "The Barber of Seville: Overture",
       "url": "https://open.spotify.com/track/57RVsEYBLY4FmQLbHLXCW9"
+    },
+    {
+      "album": {
+        "name": "Shostakovich: The Gadfly, Op. 97: Prelude (Arr. for 2 Cellos and String Orchestra by P. Lyubomudrov)",
+        "url": "https://open.spotify.com/album/2aZxZR2qorPNlm5WweaWk3"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Metamorphose String Orchestra",
+          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+        },
+        {
+          "name": "Pavel Lyubomudrov",
+          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
+        },
+        {
+          "name": "Mikael Samsonov",
+          "url": "https://open.spotify.com/artist/5KXxg0B1k9cA7LPqFXA3Me"
+        },
+        {
+          "name": "Arseny Kotlyarevsky",
+          "url": "https://open.spotify.com/artist/5OX2l2cb1cwRfBE2j7BvBQ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "The Gadfly, Op. 97: Prelude - Arr. for 2 Cellos and String Orchestra by P. Lyubomudrov",
+      "url": "https://open.spotify.com/track/7sJ3M3FUJdlPQQ8j4YOzvs"
     },
     {
       "album": {

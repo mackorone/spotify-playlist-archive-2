@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 764 songs - 2 day 1 hr 13 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 768 songs - 2 day 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -771,6 +771,10 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 761 | [89 Days](https://open.spotify.com/track/14twvCzXql2brH14KA7vzX) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Melt the Honey](https://open.spotify.com/album/1b3i2e3n3ayNsVKXANYsPz) | 2:42 |
 | 762 | [Hercules](https://open.spotify.com/track/15bg8bsx2AoqHu7hgRK6PU) | [Tracey Nelson](https://open.spotify.com/artist/7Ak3CpBzopE7eewhyodH7J) | [Hercules](https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA) | 4:05 |
 | 763 | [I Think I'm Ready Now](https://open.spotify.com/track/7gfQLX2KvnLP4LHnuW1hWi) | [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm) | [Profound](https://open.spotify.com/album/08NmkFu1rWiXZk9ZblZ959) | 3:13 |
-| 764 | [Slip On Through \- Remastered 2009](https://open.spotify.com/track/6BzZvQJsXi68wSvFTHU9bC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:19 |
+| 764 | [Just West of Nicollet](https://open.spotify.com/track/3dP24mOPYufQ0OzRkDjdmm) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Punching the Clown](https://open.spotify.com/album/6ZZiqP4T7teY9nwGxlkSTz) | 5:37 |
+| 765 | [Slip On Through \- Remastered 2009](https://open.spotify.com/track/6BzZvQJsXi68wSvFTHU9bC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:19 |
+| 766 | [PLANET FROG](https://open.spotify.com/track/2MTB6NrHEAHBeNsx389RlI) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [PLANET FROG](https://open.spotify.com/album/5zRHU8HegfzTYosVvihqet) | 0:24 |
+| 767 | [Bella Donna \- 2016 Remaster](https://open.spotify.com/track/67oVj9wKv1T0effsUcny7A) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:22 |
+| 768 | [Feather By Feather](https://open.spotify.com/track/0sIAb5xEdpgOdSs57qtVr9) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Supper](https://open.spotify.com/album/7uk1aaKzZp5c3qsKmWKy73) | 5:36 |
 
-Snapshot ID: `AAAJc5KNZTNEzsb5dKSGOws9XXNv30lG`
+Snapshot ID: `AAAJeuJAi5SMWuqve7Vp7O6EeoCt6LOg`

@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 178356,
+  "num_followers": 178460,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADE2MvwW8KpakkmDAPBPt5O",
+  "snapshot_id": "aoZDgAAAAAAt2B3V9lEXMyyPm58j4Bl8",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/3MeGMRZzJ4Ij5Jj55oBG1r"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 150790,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
         "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 162877,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/3MeGMRZzJ4Ij5Jj55oBG1r"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 150790,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3"
     },
     {
       "added_at": null,

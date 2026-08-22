@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-636 songs - 1 day 13 hr 49 min
+638 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Martine](https://open.spotify.com/track/0K4u23NQWXl8MWFzkal13R) | [Camaromance](https://open.spotify.com/artist/6MiaQkFU6CoconRyRYko7X) | [Martine](https://open.spotify.com/album/0SgdKJsbN49Uxxptds7axE) | 4:03 | 2021-01-03\* | 2022-07-14 |
 | [Mathieu et Gloria](https://open.spotify.com/track/6PxHMyDTD2ugw6kSxNjtq6) | [Ombre!](https://open.spotify.com/artist/4RvNQrx95ubI5E1woJER6o) | [Les grands vents](https://open.spotify.com/album/2UWAAvO2RTCYRmegk0cYUp) | 4:14 | 2021-01-03\* | 2022-07-12 |
 | [mauvais sort](https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [mauvais sort](https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9) | 4:51 | 2025-12-19 | 2026-03-22 |
-| [maybe i think](https://open.spotify.com/track/6sslSA1MP4zJS1RO2wemux) | [Nick Bellerose](https://open.spotify.com/artist/6Rx0M4DvtX6RFbVTJNspwt) | [maybe i think](https://open.spotify.com/album/4OYELnP5UQBBelvamEjIz0) | 2:06 | 2026-07-31 |  |
+| [maybe i think](https://open.spotify.com/track/6sslSA1MP4zJS1RO2wemux) | [Nick Bellerose](https://open.spotify.com/artist/6Rx0M4DvtX6RFbVTJNspwt) | [maybe i think](https://open.spotify.com/album/4OYELnP5UQBBelvamEjIz0) | 2:06 | 2026-07-31 | 2026-08-22 |
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 | 2025-02-14 |
 | [Menteuse](https://open.spotify.com/track/5c48Kqk8la8I8EjugIDdrF) | [Andromède](https://open.spotify.com/artist/5h1tsxylgwuGvYdyPOEHQy) | [Andromède](https://open.spotify.com/album/26P6KIVuLYtFNyQGiMnXZx) | 4:01 | 2021-09-13 | 2021-09-24 |
 | [Merci de rien](https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Merci de rien](https://open.spotify.com/album/0DP8QzBD2f8oQESLiukLVE) | 3:11 | 2021-08-14 | 2022-07-25 |
@@ -512,11 +512,13 @@
 | [Si jamais](https://open.spotify.com/track/6NxtWlb6CoJIJfdfz8VesK) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Si jamais](https://open.spotify.com/album/3QCebuc5TzgSQTkwXRCCvk) | 3:13 | 2021-01-03\* | 2021-09-26 |
 | [si je ne suis pas](https://open.spotify.com/track/2Y56oJERnOe72VfPT9qd1x) | [Vermeil](https://open.spotify.com/artist/2umQO1NjunQcWQSDGKNTRZ) | [si je ne suis pas](https://open.spotify.com/album/7vGj6cne4fb0fbuTm1fVsE) | 4:18 | 2026-01-30 | 2026-07-19 |
 | [Si je rêve ce n'est pas à demain](https://open.spotify.com/track/6vMdjYHtBnCMA9m86VigBg) | [Gabriel Desjardins](https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK), [Éléonore Dessureault](https://open.spotify.com/artist/6FAPdpJY0Uut3d6B6BIXO3) | [Si je rêve ce n'est pas à demain / Distance](https://open.spotify.com/album/2WPZVqNQW1dvzWA2FPwcv9) | 2:43 | 2025-10-24 | 2026-05-23 |
+| [Si les bateaux](https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog) | [Gilles Vigneault](https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Si les bateaux](https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK) | 3:13 | 2026-08-21 |  |
 | [Si tu reviens](https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Les grandes artères](https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY) | 3:24 | 2022-01-07 |  |
 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2024-10-18 |  |
 | [Silver and Red](https://open.spotify.com/track/3F1E4OIeBjrsLUiukpbxsa) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. V](https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT) | 2:20 | 2025-02-11 | 2025-11-08 |
 | [Snow Lake](https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna Nocturne](https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633) | 1:27 | 2026-06-19 |  |
 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 | 2024-10-04 |  |
+| [Soleil](https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Soleil](https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ) | 4:14 | 2026-08-21 |  |
 | [Solitudes](https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Solitudes](https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi) | 4:08 | 2021-10-03 |  |
 | [Solutions to My Gloom](https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Unessential Oils](https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq) | 4:25 | 2025-12-19 |  |
 | [Sommeil pesant](https://open.spotify.com/track/7iPlZhBBjKJMgyof1FJETR) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Sommeil pesant](https://open.spotify.com/album/7I6qbi6qSOUuVUJ6AavicA) | 3:18 | 2022-07-08 | 2022-07-27 |
@@ -611,7 +613,7 @@
 | [Vie en rose](https://open.spotify.com/track/3LAzaKCNXAbzOME6c3QBW1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Nicolas Gémus](https://open.spotify.com/album/1lYKiooDdSrR6j1W0HkIyf) | 4:04 | 2022-05-06 | 2022-06-13 |
 | [Vigiles](https://open.spotify.com/track/6ClNYY6az9pC4T0pZI3T44) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:20 | 2022-07-08 | 2022-08-31 |
 | [Vigiles](https://open.spotify.com/track/7mV63vY1vlPhDh41veyTHl) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/76RkceWu7JvxFkuzp4aizo) | 3:20 | 2021-01-03\* | 2022-07-29 |
-| [VII](https://open.spotify.com/track/5kcm7grczY2Pejtw16iyeh) | [SCOPA](https://open.spotify.com/artist/1LJCipjW9wdJYKk5mnze43) | [VII](https://open.spotify.com/album/21XzZmD6JJSbJnrkq1CC3O) | 2:25 | 2026-05-22 |  |
+| [VII](https://open.spotify.com/track/5kcm7grczY2Pejtw16iyeh) | [SCOPA](https://open.spotify.com/artist/1LJCipjW9wdJYKk5mnze43) | [VII](https://open.spotify.com/album/21XzZmD6JJSbJnrkq1CC3O) | 2:25 | 2026-05-22 | 2026-08-22 |
 | [Villa](https://open.spotify.com/track/0xnbHstMQpxYJwMBF0okSx) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6) | [Onirique](https://open.spotify.com/album/7pubw1Jps2gxvxj6ZkqLvi) | 2:36 | 2025-10-24 | 2025-12-28 |
 | [Vis sans regret](https://open.spotify.com/track/6CCnuRpzllSnEodJwJMCoN) | [Post Script](https://open.spotify.com/artist/2va0ED9WG7oEPT7ybPZP5i) | [Vis sans regret](https://open.spotify.com/album/2M4IwXtuXpXUqlMbEEM2dY) | 3:24 | 2021-01-15 | 2021-09-28 |
 | [Vive l'Amérique](https://open.spotify.com/track/4rpWFuyEOVCjKp655XI1Fw) | [Anaïs Constantin](https://open.spotify.com/artist/16rv4gKc1NU7DDlS9jYjKQ) | [Vive l'Amérique](https://open.spotify.com/album/5eJHsFJwhHlenTpZzlReww) | 3:34 | 2021-01-03\* | 2021-10-28 |

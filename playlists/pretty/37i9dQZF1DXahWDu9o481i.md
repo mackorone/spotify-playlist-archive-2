@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: MILLENNIUM PARADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,520 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,441 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 12 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 |
 | 13 | [Celosa](https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Celosa](https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc) | 2:35 |
 | 14 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
-| 15 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
-| 16 | [Switchblade](https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Switchblade](https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD) | 3:01 |
+| 15 | [Switchblade](https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Switchblade](https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD) | 3:01 |
+| 16 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
 | 17 | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ) | 3:27 |
 | 18 | [Hurt](https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Hurt](https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S) | 2:47 |
 | 19 | [After All](https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [After All](https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq) | 4:12 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 27 | [LA PLAYA](https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [SE LLEGÓ EL VERANO](https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ) | 2:57 |
 | 28 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 |
 | 29 | [Creep](https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Tweaker Poem](https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx) | 4:00 |
-| 30 | [CALL SPITTA](https://open.spotify.com/track/6TSbyVtg9vgSiJEHct8wOF) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CALL SPITTA](https://open.spotify.com/album/4frPXwvy0rTi87gzlfBzt6) | 2:25 |
-| 31 | [Whisper To Me](https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Modern Tales](https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k) | [Whisper To Me](https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv) | 3:46 |
+| 30 | [Whisper To Me](https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Modern Tales](https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k) | [Whisper To Me](https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv) | 3:46 |
+| 31 | [CALL SPITTA](https://open.spotify.com/track/6TSbyVtg9vgSiJEHct8wOF) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CALL SPITTA](https://open.spotify.com/album/4frPXwvy0rTi87gzlfBzt6) | 2:25 |
 | 32 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
 | 33 | [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 |
 | 34 | [BESITO](https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [BESITO](https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa) | 2:59 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 44 | [what u want](https://open.spotify.com/track/68icwERFCZaV107eHjqt77) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [what u want](https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo) | 2:45 |
 | 45 | [Always Be Mine \(feat\. Jordan Ward\)](https://open.spotify.com/track/1lOZSJPpreVaSCmP5M4ZjW) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 3:42 |
 | 46 | [Take Me to Sunrise](https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Take Me to Sunrise](https://open.spotify.com/album/1NT0szKQ4xFjSpNqovc3Qy) | 3:14 |
-| 47 | [I Wish](https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [I Wish](https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW) | 3:00 |
-| 48 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
+| 47 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
+| 48 | [I Wish](https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [I Wish](https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW) | 3:00 |
 | 49 | [Sleeping with My Boots On](https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Lucky to Be](https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv) | 2:08 |
 | 50 | [Sounds We Cannot Hear](https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Sounds We Cannot Hear](https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt) | 5:26 |
 | 51 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 75 | [Gold Chains](https://open.spotify.com/track/5luzX1r1iduu6SqL3ueG9C) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [Skiddle Bandana](https://open.spotify.com/album/1ua9bT9kFnJeGi9j9nbfIL) | 2:36 |
 | 76 | [Florida Water Blues](https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6) | 3:44 |
 
-Snapshot ID: `AAAAAOW5ul9LI5gNHcTvxdjteybWoV6y`
+Snapshot ID: `AAAAAIhXrc6ND/kIcXjSR0OD9exNtzOm`

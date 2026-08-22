@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "All in Good Time",
+        "url": "https://open.spotify.com/album/6FrwJ00n3BUvovwEN4GmNk"
+      },
+      "artists": [
+        {
+          "name": "Snooknuk",
+          "url": "https://open.spotify.com/artist/4Il5GSRo3EJWxiGmZfK6V6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212791,
+      "name": "All in Good Time",
+      "url": "https://open.spotify.com/track/7xWZXiRqJEF2v7un2ElXU2"
+    },
+    {
+      "album": {
         "name": "All The Little Kitties",
         "url": "https://open.spotify.com/album/2oCBXzD4Po2nJ87yGMQBsc"
       },
@@ -4051,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/2tbpoLNVU2IY3ui1QWK953"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95739,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/7etcOM8LDoVkApiEiqK24r"
+    },
+    {
+      "album": {
         "name": "Crabby Crab",
         "url": "https://open.spotify.com/album/0InyPxsYI0cEyKJNm2lJeh"
       },
@@ -6198,7 +6234,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 180000,
       "name": "Five Little Dinosaurs Jumping On The Bed",
       "url": "https://open.spotify.com/track/1f45Dwk7O4Xub78YVAQhAD"
@@ -6776,7 +6812,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 158966,
       "name": "Fruit Is Yummy",
       "url": "https://open.spotify.com/track/6oihTreW04W0ziZsvjSaB6"
@@ -9679,6 +9715,24 @@
     },
     {
       "album": {
+        "name": "I Love My Echidna",
+        "url": "https://open.spotify.com/album/5pv8OZgrqbmyBPe7jffWhb"
+      },
+      "artists": [
+        {
+          "name": "Tiptoe Giants",
+          "url": "https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132320,
+      "name": "I Love My Echidna",
+      "url": "https://open.spotify.com/track/1Zgv3uPllVGsyQgVDSlVcv"
+    },
+    {
+      "album": {
         "name": "I Love My Family",
         "url": "https://open.spotify.com/album/5HrYMlEN1DJ7NJZk7UkHlC"
       },
@@ -10114,7 +10168,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 57626,
       "name": "I'm Proud",
       "url": "https://open.spotify.com/track/2eRtJQZIkPsHTXWmLpY1B1"
@@ -10866,7 +10920,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 142942,
       "name": "It's Your Birthday",
       "url": "https://open.spotify.com/track/1UQVfVu1RhF1kw6i1blrNe"
@@ -11026,7 +11080,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 252496,
       "name": "Jump",
       "url": "https://open.spotify.com/track/37Ua7CslhTi1T6aVUQUwY4"
@@ -11066,6 +11120,28 @@
       "duration_ms": 128000,
       "name": "Jump in the Ball Pit!",
       "url": "https://open.spotify.com/track/3P5tUFnGfDMqKCJxTTUCjx"
+    },
+    {
+      "album": {
+        "name": "Jump In Your Shoes",
+        "url": "https://open.spotify.com/album/54bjcM8SLyXMkR5rWrnJUK"
+      },
+      "artists": [
+        {
+          "name": "Ms. Appleberry",
+          "url": "https://open.spotify.com/artist/7gjGsSnJnSzAnh6wxZCqBQ"
+        },
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105346,
+      "name": "Jump In Your Shoes",
+      "url": "https://open.spotify.com/track/1wIQoFpF5JlfJMwcUHYoAk"
     },
     {
       "album": {
@@ -11146,6 +11222,28 @@
       "duration_ms": 83333,
       "name": "Just Imagine",
       "url": "https://open.spotify.com/track/5DPH4YKfftGNfi6G2KfgQT"
+    },
+    {
+      "album": {
+        "name": "Keep Swimming",
+        "url": "https://open.spotify.com/album/7EHvI8vL4GyP5h698jTlnR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jeff",
+          "url": "https://open.spotify.com/artist/7bvg2GSvvdcg9wphmdyKEQ"
+        },
+        {
+          "name": "Snooknuk",
+          "url": "https://open.spotify.com/artist/4Il5GSRo3EJWxiGmZfK6V6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173709,
+      "name": "Keep Swimming",
+      "url": "https://open.spotify.com/track/5QBaCkKrxlBqPXG8pZNDRN"
     },
     {
       "album": {
@@ -14566,7 +14664,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 108866,
       "name": "On Me Own",
       "url": "https://open.spotify.com/track/0PXEYldXyR5k02KdkoGHOq"
@@ -15869,6 +15967,24 @@
     },
     {
       "album": {
+        "name": "Popular",
+        "url": "https://open.spotify.com/album/2d4sRJ5iS4NYkvBkC6d21i"
+      },
+      "artists": [
+        {
+          "name": "The Fun Squad",
+          "url": "https://open.spotify.com/artist/7GlhBPosLYBE0z2Ft3drxl"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/4zmr8mqdxQtk3HQaDrKu2f"
+    },
+    {
+      "album": {
         "name": "CoComelon Kids Hits, Vol. 14",
         "url": "https://open.spotify.com/album/4al58zNQHDwc60Ns2VKuCO"
       },
@@ -15956,6 +16072,24 @@
       "duration_ms": 91480,
       "name": "Princess Power Theme Song (from the Netflix Series)",
       "url": "https://open.spotify.com/track/4DN9DvOpgOZqqVrbN7xyHj"
+    },
+    {
+      "album": {
+        "name": "Pronoun Party",
+        "url": "https://open.spotify.com/album/7fEZ2QCQT2JOlAoMpv0FUE"
+      },
+      "artists": [
+        {
+          "name": "Miss Tutti And The Fruity Band",
+          "url": "https://open.spotify.com/artist/2vcoPGKBYnD3i9TiPe3eSB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202566,
+      "name": "Pronoun Party",
+      "url": "https://open.spotify.com/track/0J90oLcW0xTIH7ZBxnyJyV"
     },
     {
       "album": {
@@ -16388,6 +16522,28 @@
       "duration_ms": 221023,
       "name": "Roar",
       "url": "https://open.spotify.com/track/0m7uFfGtAWtjAUFGtAM8cR"
+    },
+    {
+      "album": {
+        "name": "Rock It Out",
+        "url": "https://open.spotify.com/album/0wnHNypfBc38Q45wNsLH2z"
+      },
+      "artists": [
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        },
+        {
+          "name": "Divi Roxx Kids",
+          "url": "https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182555,
+      "name": "Rock It Out",
+      "url": "https://open.spotify.com/track/51sO7qosUTtoFTarCQtYKx"
     },
     {
       "album": {
@@ -18106,7 +18262,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 160000,
       "name": "Squishy Song",
       "url": "https://open.spotify.com/track/0phRAfBVCCD1DdHDfjin1n"
@@ -18574,7 +18730,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 175750,
       "name": "Summer Holiday",
       "url": "https://open.spotify.com/track/5sAtxlnufqURoGtaY64OoJ"
@@ -19606,7 +19762,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 124738,
       "name": "The Erie Canal (Low Bridge Song)",
       "url": "https://open.spotify.com/track/3iqZMT63FaEYoW4oOHRCuV"
@@ -19968,7 +20124,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 119400,
       "name": "The Hoedown Hustle",
       "url": "https://open.spotify.com/track/0qvyuxBo7lJ7zG3RanOv5k"
@@ -20903,6 +21059,24 @@
     },
     {
       "album": {
+        "name": "This Old Man",
+        "url": "https://open.spotify.com/album/0flSfhX5KyQiVrX1Dn2NoY"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173606,
+      "name": "This Old Man",
+      "url": "https://open.spotify.com/track/3NXUJFru8WkfUmm6I8Tbyn"
+    },
+    {
+      "album": {
         "name": "YolanDa's Band Jam",
         "url": "https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc"
       },
@@ -21006,6 +21180,28 @@
       "duration_ms": 135648,
       "name": "Thomas & Percy Learn About Colours",
       "url": "https://open.spotify.com/track/0WRB7ZOplKZJ6YCrrUPMIm"
+    },
+    {
+      "album": {
+        "name": "Thomas & Percy Learn About Counting to 20",
+        "url": "https://open.spotify.com/album/4QmvA60btVUvdCJ47hAQW7"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120160,
+      "name": "Thomas & Percy Learn About Counting to 20",
+      "url": "https://open.spotify.com/track/2Wp7aJOBf9V3RmRHOYoAXj"
     },
     {
       "album": {
@@ -23048,7 +23244,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 196828,
       "name": "When the Band Comes Marching In",
       "url": "https://open.spotify.com/track/3WeBc31M5VEJk8IAFEH9vG"

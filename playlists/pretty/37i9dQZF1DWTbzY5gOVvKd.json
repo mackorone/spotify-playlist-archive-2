@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1298407,
+  "num_followers": 1298447,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHuwWG9+EaA9C4ovIpWSHm475wYv",
+  "snapshot_id": "AAAAAECXoX1bLCNBu9fF2DECk6wkJOA9",
   "tracks": [
     {
       "added_at": "2026-07-03 08:18:20",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "I've Got a Crush On You",
+      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "Got You on My Mind",
         "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 182508,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "I've Got a Crush On You",
-      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Date With A Dream",
-        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
-      },
-      "artists": [
-        {
-          "name": "Malene Mortensen",
-          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
-        }
-      ],
-      "duration_ms": 252081,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 367453,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "Date With A Dream",
+        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
+      },
+      "artists": [
+        {
+          "name": "Malene Mortensen",
+          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
+        }
+      ],
+      "duration_ms": 252081,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -691,38 +691,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "An Evening with/ Andy James & John Patitucci",
-        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
-      },
-      "artists": [
-        {
-          "name": "Andy James",
-          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Bill Cunliffe",
-          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        }
-      ],
-      "duration_ms": 263282,
-      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
-      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "The Richard Rodgers Songbook",
         "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 207409,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "An Evening with/ Andy James & John Patitucci",
+        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
+      },
+      "artists": [
+        {
+          "name": "Andy James",
+          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Bill Cunliffe",
+          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        }
+      ],
+      "duration_ms": 263282,
+      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
+      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/43gYSQn48BKuc9s6haVcDq"
+      },
+      "artists": [
+        {
+          "name": "April Varner",
+          "url": "https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/1d8fF3ussJbJdsXYy5GBym"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/43gYSQn48BKuc9s6haVcDq"
-      },
-      "artists": [
-        {
-          "name": "April Varner",
-          "url": "https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b"
-        }
-      ],
-      "duration_ms": 237920,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/1d8fF3ussJbJdsXYy5GBym"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        },
+        {
+          "name": "Jan Smigmator",
+          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
+        }
+      ],
+      "duration_ms": 187509,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa"
       },
@@ -1403,22 +1423,6 @@
       "duration_ms": 310826,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3azuowB4mADwvYCumctRrs"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1439,22 +1443,18 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "The Way You Look Tonight",
-        "url": "https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4"
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        },
-        {
-          "name": "Jan Smigmator",
-          "url": "https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 187509,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8"
+      "duration_ms": 209960,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 367213,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Ballads: Remembering John Coltrane",
         "url": "https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 361306,
       "name": "Every Time We Say Goodbye",
       "url": "https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 367213,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
     },
     {
       "added_at": "2026-07-03 08:18:20",

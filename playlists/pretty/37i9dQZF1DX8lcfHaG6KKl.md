@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lcfHaG6KKl.md) - [plain]
 
 > The official soundtrack to One Night Only, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,841 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lcfHaG6KKl.md) - [plain]
 | 29 | [You & Me Time](https://open.spotify.com/track/4RvMguZV2TajgDdVNCAhvC) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [WOW!](https://open.spotify.com/album/6jG86C6kFmXlWJcTlHtHYR) | 3:15 |
 | 30 | [One Haim Only Plus a Stray \(Score Suite\)](https://open.spotify.com/track/1O43CfUCPIuQMdsyVukbuD) | [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc), [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa) | [One Night Only \(Music from the Motion Picture\)](https://open.spotify.com/album/0qWQgvq546F72XPbSXgKtL) | 4:33 |
 
-Snapshot ID: `AAAAAF6aR8FY/rtz/GzIEfBzNC+WzG2k`
+Snapshot ID: `AAAAADDPFPdqCfFQtuDRc7ZguF6j4LS2`

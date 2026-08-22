@@ -1,12 +1,12 @@
 {
   "description": "Pop Anglo para acompa\u00f1ar tus mejores momentos. Foto: Charli xcx",
-  "num_followers": 166376,
+  "num_followers": 166371,
   "original_name": "Pop en Ingl\u00e9s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABQlweJ9Dd1QfbZXlAJSwir9K1Xl",
+  "snapshot_id": "AAAAAOHep29SeKKxR4Y3F+exE9Tnebh2",
   "tracks": [
     {
       "added_at": "2026-07-24 04:59:15",
@@ -113,9 +113,25 @@
       "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
     },
     {
+      "added_at": "2026-08-21 04:59:14",
+      "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 233374,
+      "name": "Hazel Eyes",
+      "url": "https://open.spotify.com/track/3YhoUnvDZzJyC0n3Ay6XK8"
+    },
+    {
       "added_at": "2026-06-12 04:59:15",
       "album": {
-        "name": "Dracula (Remix)",
+        "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
       "artists": [
@@ -129,7 +145,7 @@
         }
       ],
       "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
+      "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {

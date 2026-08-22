@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: ZEROBASEONE",
+  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: ENHYPEN",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "\u56de\u5e30LOVE",
+        "url": "https://open.spotify.com/album/19E8K5raOkxy6HNvntZwJv"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/7KbHVUBw2NihGysGGDpN0f"
+    },
+    {
+      "album": {
         "name": "Aqua",
         "url": "https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 255000,
       "name": "back to life",
       "url": "https://open.spotify.com/track/3FYPY4tR6tn5MfAATDGuhj"
@@ -1870,6 +1888,24 @@
       "duration_ms": 210281,
       "name": "Blissful",
       "url": "https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf"
+    },
+    {
+      "album": {
+        "name": "THE SIN : BLISS",
+        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Bloody Paradise",
+      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
     },
     {
       "album": {
@@ -7345,6 +7381,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Back",
+        "url": "https://open.spotify.com/album/5euUeor0mgd0tS7WWfxjFj"
+      },
+      "artists": [
+        {
+          "name": "Vernon",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "I'll Be Back",
+      "url": "https://open.spotify.com/track/1hs4eGCcvX3wz5Z6nNqcxl"
+    },
+    {
+      "album": {
         "name": "I'mma Be",
         "url": "https://open.spotify.com/album/6LYn27paYoRtBYqML2Un27"
       },
@@ -8492,7 +8546,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 139045,
       "name": "Knife",
       "url": "https://open.spotify.com/track/7mVhLZSh2bXAFynFyELZ3v"
@@ -18198,7 +18252,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213000,
       "name": "\u30a4\u30b0\u30b8\u30b9\u30c6\u30f3\u30b9",
       "url": "https://open.spotify.com/track/48m7ipLnWLf5UlArZvthQ4"
@@ -19477,6 +19531,24 @@
     },
     {
       "album": {
+        "name": "\u9b3c\u4e8b / Fiction Love (Special Edition)",
+        "url": "https://open.spotify.com/album/6pzWrC7HXFDpa9ODUiHRDs"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137168,
+      "name": "\u611b\u3057\u3066Tonight",
+      "url": "https://open.spotify.com/track/2KhB6qcTBfWO8lSnEXgznT"
+    },
+    {
+      "album": {
         "name": "\u611b\u57f7",
         "url": "https://open.spotify.com/album/3G1XxXWOHbkfJ9YK2JlBmn"
       },
@@ -20050,7 +20122,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 180097,
       "name": "\u9b3c\u4e8b",
       "url": "https://open.spotify.com/track/4P0BIgJzLRQXooTDJFakwU"

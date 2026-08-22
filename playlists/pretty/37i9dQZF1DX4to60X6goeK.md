@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,405 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,418 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 44 | [LOUDER](https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [LOUDER](https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD) | 3:42 |
 | 45 | [Reaper \(feat\. Comma Dee\)](https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2) | [Rendah](https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Reaper \(feat\. Comma Dee\)](https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807) | 3:33 |
 | 46 | [Posra](https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Posra](https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2) | 3:25 |
-| 47 | [Good Vibrations](https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Good Vibrations](https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA) | 3:00 |
-| 48 | [Sticks & Stones](https://open.spotify.com/track/3QTI12GOy7qzizzwOb9Oi1) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Sticks & Stones](https://open.spotify.com/album/7LXcPDrT8Ldx3L1OqPjljq) | 3:53 |
+| 47 | [Sticks & Stones](https://open.spotify.com/track/3QTI12GOy7qzizzwOb9Oi1) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Sticks & Stones](https://open.spotify.com/album/7LXcPDrT8Ldx3L1OqPjljq) | 3:53 |
+| 48 | [Good Vibrations](https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Good Vibrations](https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA) | 3:00 |
 | 49 | [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 |
 | 50 | [Let Me Down](https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Let Me Down](https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD) | 3:12 |
 | 51 | [Violence](https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Maëlie](https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4) | [Violence](https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB) | 2:41 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [On Fire](https://open.spotify.com/track/3YT0OteRA5wK1aCKUSzJRG) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Captain Bass](https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG) | [On Fire](https://open.spotify.com/album/088LmopF7elxRb67tJmx7w) | 3:40 |
 | 55 | [Outta Order](https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Outta Order](https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r) | 3:55 |
 
-Snapshot ID: `AAAAAArunYyTe1J1+TpOGBcBhRGSrdiQ`
+Snapshot ID: `AAAAACbCcvvKhdIgFfRX74C8Bm4ZC1ZX`

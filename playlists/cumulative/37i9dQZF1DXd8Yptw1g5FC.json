@@ -34373,6 +34373,24 @@
     },
     {
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193965,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
+    },
+    {
+      "album": {
         "name": "butterflies (feat. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM)",
         "url": "https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7"
       },
@@ -57036,12 +57054,12 @@
           "url": "https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr"
         },
         {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        },
-        {
           "name": "Tuby",
           "url": "https://open.spotify.com/artist/3VuBOZYMdaEEp1uxtf9s2J"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
         }
       ],
       "date_added": "2026-08-20",
@@ -106221,6 +106239,28 @@
     },
     {
       "album": {
+        "name": "ME PIERDO",
+        "url": "https://open.spotify.com/album/5Et47hqbgrgyFhIiXFADpG"
+      },
+      "artists": [
+        {
+          "name": "RIC ZANATTA",
+          "url": "https://open.spotify.com/artist/6fecCDb6vusOj57jkOinjs"
+        },
+        {
+          "name": "ibann",
+          "url": "https://open.spotify.com/artist/2dXg6s08GAiK4IMLsaRJRe"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199124,
+      "name": "ME PIERDO",
+      "url": "https://open.spotify.com/track/5pe3CDUHD9aJ1qUaOGLToD"
+    },
+    {
+      "album": {
         "name": "Me Roh Amba",
         "url": "https://open.spotify.com/album/7lNbCOZ2qpc6qyTTozzbYv"
       },
@@ -138508,8 +138548,8 @@
           "url": "https://open.spotify.com/artist/2KPINxWCVBb9yxO8xKtdFh"
         },
         {
-          "name": "SANC",
-          "url": "https://open.spotify.com/artist/4nU7wr9diAEypZ6Ei3MLeM"
+          "name": "sanc",
+          "url": "https://open.spotify.com/artist/4Qq1Wnm4ZyDw02607XFj5t"
         }
       ],
       "date_added": "2026-08-20",
@@ -152108,24 +152148,6 @@
       "duration_ms": 138212,
       "name": "TOZPEMBE",
       "url": "https://open.spotify.com/track/4OgyM015xx4c2NECTQlND2"
-    },
-    {
-      "album": {
-        "name": "ME PIERDO",
-        "url": "https://open.spotify.com/album/5Et47hqbgrgyFhIiXFADpG"
-      },
-      "artists": [
-        {
-          "name": "RIC ZANATTA",
-          "url": "https://open.spotify.com/artist/6fecCDb6vusOj57jkOinjs"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5pe3CDUHD9aJ1qUaOGLToD"
     },
     {
       "album": {
@@ -169172,6 +169194,24 @@
       "duration_ms": 132798,
       "name": "Yeniden Sevmek",
       "url": "https://open.spotify.com/track/5si5NjiajCb1Zq4pH1vyge"
+    },
+    {
+      "album": {
+        "name": "Yeniden \u015eark\u0131lar Yaz\u0131lmal\u0131",
+        "url": "https://open.spotify.com/album/1jUafsYJuR6nNuT8WXpBmo"
+      },
+      "artists": [
+        {
+          "name": "M\u00fccahit Kal\u00e7\u0131k",
+          "url": "https://open.spotify.com/artist/0nMPKPfXrBNMcSsisDtOc8"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Yeniden \u015eark\u0131lar Yaz\u0131lmal\u0131",
+      "url": "https://open.spotify.com/track/0pq8EXwxlB8vQZysjPAMAh"
     },
     {
       "album": {

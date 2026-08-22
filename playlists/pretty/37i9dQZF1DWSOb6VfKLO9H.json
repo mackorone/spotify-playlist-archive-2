@@ -1,12 +1,12 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 110723,
+  "num_followers": 110748,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMpOLyS5z0qNBWd+/YqqS/IXSPJ/",
+  "snapshot_id": "AAAAAFKMlQfArFRVWPNmjwwKSV1nWpnB",
   "tracks": [
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1535,6 +1535,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "duration_ms": 243024,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
         "url": "https://open.spotify.com/album/0BYPTyenqy6oj1LSkcWoz6"
       },
@@ -1563,30 +1587,6 @@
       "duration_ms": 174117,
       "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
       "url": "https://open.spotify.com/track/36UAh8lq8r62uopY9Du1w3"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        }
-      ],
-      "duration_ms": 243024,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "VBALERT",
-        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Naar Beneden",
-      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Give Dem",
         "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 189757,
       "name": "Give Dem",
       "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "VBALERT",
+        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Naar Beneden",
+      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1955,6 +1955,50 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "BON VIBES",
+        "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
+      },
+      "artists": [
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        },
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "BON VIBES",
+      "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        },
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Van Mij (feat. Jandro & Zefanio)",
+      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Designers",
         "url": "https://open.spotify.com/album/146n3dqgpSdsk02yWRSEtI"
       },
@@ -1975,26 +2019,6 @@
       "duration_ms": 181658,
       "name": "Designers (feat. Dopebwoy & LouiVos)",
       "url": "https://open.spotify.com/track/3zycyBK3RiecrkrP8NPLxu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "BON VIBES",
-        "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
-      },
-      "artists": [
-        {
-          "name": "Chip Charlez",
-          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
-        },
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "BON VIBES",
-      "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2051,30 +2075,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        },
-        {
-          "name": "Zefanio",
-          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Van Mij (feat. Jandro & Zefanio)",
-      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Christian Dior",
         "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
       },
@@ -2119,6 +2119,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Amiri Jeans",
+        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
+      },
+      "artists": [
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 146822,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gate 16",
         "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
       },
@@ -2139,26 +2159,6 @@
       "duration_ms": 203446,
       "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
       "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Amiri Jeans",
-        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
-      },
-      "artists": [
-        {
-          "name": "Philly Mor\u00e9",
-          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 146822,
-      "name": "Amiri Jeans",
-      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Dragon Roll",
+        "url": "https://open.spotify.com/album/4C8Gro390C1e2lTIgbprmN"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Dragon Roll",
+      "url": "https://open.spotify.com/track/2fCdtNreNptDAZnisSOLpX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gouden Plaat",
         "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 136499,
       "name": "Laat Niet Los (feat. Jonna Fraser)",
       "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Dragon Roll",
-        "url": "https://open.spotify.com/album/4C8Gro390C1e2lTIgbprmN"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Dragon Roll",
-      "url": "https://open.spotify.com/track/2fCdtNreNptDAZnisSOLpX"
     }
   ],
   "unique_name": "Oude Party Tunes",

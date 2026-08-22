@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 352 likes - 2,558 songs - 6 day 6 hr 20 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 353 likes - 2,563 songs - 6 day 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2566,5 +2566,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2556 | [Goodbyes](https://open.spotify.com/track/2DIm16Db0DLjItmIBQgyIK) | [Random Anthem](https://open.spotify.com/artist/4OpTBujVkFk2UHjNz63Ou1) | [Goodbyes](https://open.spotify.com/album/57L4nw8EjLLRdFQZgzts8I) | 4:19 |
 | 2557 | [Empty Streets](https://open.spotify.com/track/58vNJXmharklZeHTgF94EC) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Empty Streets](https://open.spotify.com/album/5HY8Nnt2HMPG4WkvCOFJts) | 2:27 |
 | 2558 | [Take Care](https://open.spotify.com/track/0qKadBHML8rQm8EOtniFNd) | [Nedim ERTUNA](https://open.spotify.com/artist/0MFMm7OrfEjP2QmfFQfWLs) | [Take Care](https://open.spotify.com/album/4qqpwmGS9zaPcAmR3FgkWw) | 3:00 |
+| 2559 | [Maria Giuanna \- Orchestral Version](https://open.spotify.com/track/4DmzbYKEiljwvHubLwb6lW) | [Los Amigos](https://open.spotify.com/artist/0r5bcdtdDTvbKqzgicuo84), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Maria Giuanna \(Orchestral Version\)](https://open.spotify.com/album/6wKhonMn1CAhj0YN6mxCcO) | 3:02 |
+| 2560 | [Me Partes el Alma](https://open.spotify.com/track/4hiEnddFwCsFT2ZMmHd4Vw) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/36A4gGmNg8qcTEbeb78iJ5) | 3:02 |
+| 2561 | [I Don't Wanna](https://open.spotify.com/track/2dBISZAkoPUFtSxXOrzFWg) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [I Don't Wanna](https://open.spotify.com/album/3uAjKCqmcjrqWzUk2CBLDw) | 4:18 |
+| 2562 | [Don't Remember](https://open.spotify.com/track/0coZLUJAyKfdywx3cuiMhu) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Don't Remember](https://open.spotify.com/album/5gycPqdPjbDFaE4pe3WLyH) | 1:29 |
+| 2563 | [No Te Voy A Perder](https://open.spotify.com/track/1spu2SwHv1HetlN1dxl41n) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [No Te Voy A Perder](https://open.spotify.com/album/06dX0pQJFwrfgKVyyxYZBv) | 3:30 |
 
-Snapshot ID: `AAAK3c2ZTa3FiwLL16KDBucD9Le0qDIL`
+Snapshot ID: `AAAK4pyq7oj4KSrxN45Ud1uNPNfh3fHM`

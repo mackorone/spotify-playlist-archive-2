@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nipsey Hussle, Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,709 likes - 112 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,703 likes - 112 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 102 | [No Doubt \(I'm In Love\)](https://open.spotify.com/track/1d9A2iW7ST0Gh7JOlnbJU6) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [No Doubt \(I'm In Love\)](https://open.spotify.com/album/5LVcYFVAeG1y9PgEqtL1C6) | 2:47 |
 | 103 | [Face Card \(with Chris Brown & Bryson Tiller\)](https://open.spotify.com/track/5N3p9YjU6WGfU0y4jrgEGc) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Face Card \(with Chris Brown & Bryson Tiller\)](https://open.spotify.com/album/1LAFF8OUoMseRuHJLyq5MH) | 2:38 |
 | 104 | [ON THE LOW feat tyler, the creator](https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 3:03 |
-| 105 | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb) | 3:04 |
+| 105 | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb) | 3:04 |
 | 106 | [My Fan](https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 |
 | 107 | [Dont You Know](https://open.spotify.com/track/7kBpCEmqLrRFQ4OGXn4rT3) | [Runway Richy](https://open.spotify.com/artist/4pxxExWqKTzAroozOV3bCl), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Dont You Know](https://open.spotify.com/album/7GO9gaB8qohpGp0ngJdPCf) | 3:20 |
 | 108 | [XXXL](https://open.spotify.com/track/619AEMQYg7hc7Inrklp26T) | [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [XXXL](https://open.spotify.com/album/7e6P1Gf1oiyLJEn2uQRq0T) | 4:14 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 111 | [Everythang Pinka](https://open.spotify.com/track/7pbAF30G6MmDPjqV3mCoUX) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Everythang Pinka](https://open.spotify.com/album/3Jh6MpCzstaq4pO6INbIqo) | 2:48 |
 | 112 | [BAKA BAKA](https://open.spotify.com/track/7nQN2LeQwBWX9CaOcTPMzv) | [FUJINO](https://open.spotify.com/artist/2GS28rXfgsQidwGe4ktIhx), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [BAKA BAKA](https://open.spotify.com/album/0ZoQyFhctmUakbVOaj4jxr) | 2:38 |
 
-Snapshot ID: `AAAAAB9TT/vWFaglYba68OCdqpCL9sdM`
+Snapshot ID: `AAAAACH0sgaKjUOF5IWR0MDRVNMd6nVA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Changg
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,040 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,041 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [phases of the moon](https://open.spotify.com/track/7kmuy7PgxxXxavSCn1rGwj) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [phases of the moon](https://open.spotify.com/album/28gPrPbtLBPV8Fh0fCTnQ3) | 4:42 |
 | 50 | [chẳng phải tình đầu sao đau đến thế](https://open.spotify.com/track/3T7XHOdRcyhKU3QCB6kZG3) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0) | [Dear Min](https://open.spotify.com/album/1ArFYNJ0eKeFWqnvdDivvv) | 4:43 |
 
-Snapshot ID: `AAAAAA576PBpkZSN/0nfzE3bQQj4r+35`
+Snapshot ID: `AAAAAI2EaARPtUvgESjc9vqqjixEbajg`

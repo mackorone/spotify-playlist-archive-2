@@ -16835,6 +16835,24 @@
     },
     {
       "album": {
+        "name": "Tu lunar",
+        "url": "https://open.spotify.com/album/5n5GfmjH1zHT8htiBsjKOT"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138850,
+      "name": "Tu lunar",
+      "url": "https://open.spotify.com/track/6IVFgWwTxe3pBwNqC1Mpiw"
+    },
+    {
+      "album": {
         "name": "Tu recuerdo",
         "url": "https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw"
       },
@@ -18172,7 +18190,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 144720,
       "name": "Yo Tambi\u00e9n",
       "url": "https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e"

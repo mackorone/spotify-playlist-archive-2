@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-588 songs - 1 day 15 hr 28 min
+589 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [These Eyes](https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO) | 5:09 | 2024-02-23 | 2024-04-19 |
 | [These Eyes](https://open.spotify.com/track/6xU6wKi1YZ8JSvFkWfEEHX) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/0XIyvQNasNYFvDv2CTNj40) | 5:09 | 2024-02-23 | 2025-09-06 |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2021-10-15 | 2023-07-22 |
+| [They Don’t Make ’Em Like They Used to \(feat\. Take 6\)](https://open.spotify.com/track/4jLOt63posrIQXjap1muX3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [The Breakdown](https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM) | 4:42 | 2026-08-21 |  |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2020-12-14 | 2022-02-26 |
 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2020-12-14 | 2022-02-26 |
 | [Three Time Loser](https://open.spotify.com/track/04xqwHdJ1wWnk7AOZYTzuk) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:50 | 2021-09-24 | 2022-09-10 |

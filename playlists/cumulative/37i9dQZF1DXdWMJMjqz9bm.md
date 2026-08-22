@@ -4,7 +4,7 @@
 
 > a little rap, a little pop, a little country..\. sometimes\. BabyChiefDoIt on the cover.
 
-867 songs - 1 day 15 hr 34 min
+870 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Cali Crazy](https://open.spotify.com/track/3f3mRpt6XsijsdVjzrXi7W) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Cali Crazy](https://open.spotify.com/album/0YXmAxmk8349DJ7WNRBWIB) | 1:57 | 2026-01-15 | 2026-06-19 |
 | [Call You Drunk](https://open.spotify.com/track/2Zy4IqUZ0FK4NpKU9Mth30) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Call You Drunk](https://open.spotify.com/album/3m2MxYOk7sCKq87MpQi7yT) | 2:13 | 2022-12-09 | 2023-03-18 |
 | [Camo and Chrome](https://open.spotify.com/track/2JLxvAaBUHeje9WzilAmZ6) | [501Bryze](https://open.spotify.com/artist/0C07HpMBzSy9NWj98eod3R) | [Camo and Chrome \(Deluxe\)](https://open.spotify.com/album/5ctv3ZWr9UkIqOgrZ7pw59) | 2:45 | 2025-05-27 | 2025-08-09 |
+| [Can I Do Anything That I Want](https://open.spotify.com/track/1tGelDiSaXa7b21WTa9VyO) | [Sorisa](https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8) | [I do Got it](https://open.spotify.com/album/5V7RrhW5zzRyIspv6SYJRw) | 4:05 | 2026-08-21 |  |
 | [Can't Get This Right](https://open.spotify.com/track/2u38tTBCk0OBbjLBM9GoBU) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Can't Get This Right](https://open.spotify.com/album/6OQg7gd7Y0E6f8Gp8LQ1uN) | 2:25 | 2023-01-27 | 2024-02-23 |
 | [Cape Cod](https://open.spotify.com/track/4NwylqX02BEv6yuMdGFUj5) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [Cape Cod](https://open.spotify.com/album/50IWjX5dsIcNq2qqf7Tg3h) | 2:45 | 2021-11-16 | 2022-02-26 |
 | [CAPRIS](https://open.spotify.com/track/1ZFUNIg9u95wtA0D6Vgs4d) | [SHOOP](https://open.spotify.com/artist/5PbXbjuSwJlEhKN3nmneuq) | [CAPRIS](https://open.spotify.com/album/38Xl71sl7TZvDEKrxDTYk6) | 3:18 | 2025-08-26 | 2026-01-15 |
@@ -419,6 +420,7 @@
 | [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 | 2023-04-28 | 2024-06-01 |
 | [just friends](https://open.spotify.com/track/4W3SnqDKLvyRAFKDfCjSWM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:59 | 2024-01-12 | 2024-04-19 |
 | [Just Like That](https://open.spotify.com/track/3vRSduRquXh9U5EvRB7mS7) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Just Like That](https://open.spotify.com/album/3xml1yNnc0XUO1oOnOSoDU) | 3:11 | 2022-09-02 | 2022-11-30 |
+| [keep me going \(BIRDBRAIN\)](https://open.spotify.com/track/2julCvWIxzXfX757t5Bnsn) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [keep me going \(BIRDBRAIN\)](https://open.spotify.com/album/6OOrYEPMhJEryhQVEFYxFR) | 2:09 | 2026-08-21 |  |
 | [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 | 2025-08-18 | 2026-01-31 |
 | [Keys](https://open.spotify.com/track/1kCI0UC3E0gwtOVdgyukFD) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Keys](https://open.spotify.com/album/38tcHYIBDdOtJB0hh7XiHe) | 2:52 | 2022-02-25 | 2022-06-04 |
 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 | 2022-04-22 | 2022-05-20 |
@@ -460,6 +462,7 @@
 | [lost my boat](https://open.spotify.com/track/6pZXxqSUq2Ldfep3F7Khum) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [lost my boat](https://open.spotify.com/album/0VuHQGgJuOFPKvFeXSP4AE) | 3:22 | 2022-06-17 | 2022-07-07 |
 | [Love Feels](https://open.spotify.com/track/1uhYNxtjZFc99TSUbhmwG6) | [The Grouch & Eligh](https://open.spotify.com/artist/6atrA9ysSgjJXw8NZH0vjZ) | [What Would Love Do](https://open.spotify.com/album/1VV3Zts79NLpNkquyyeO5U) | 3:44 | 2022-04-19 | 2022-05-20 |
 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 | 2023-03-10 |
+| [Love Love](https://open.spotify.com/track/0s85l92YEFHiOH6rpFVUOj) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Reborn](https://open.spotify.com/album/3hGRELct290WGa6yiJCsb5) | 2:19 | 2026-08-21 |  |
 | [Love On The Brain \(feat\. Hunxho\)](https://open.spotify.com/track/45QkbTDuk2TfCXb2Nu7j4F) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Season 4: I Need You](https://open.spotify.com/album/73J0FU0wZ6rGOR6zxwPwmR) | 2:37 | 2025-01-24 | 2025-04-30 |
 | [love sux](https://open.spotify.com/track/0o8iO4tGwKdxRePgMo9Qrw) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [love sux](https://open.spotify.com/album/6ijYSiTjDjyrHmfDqdC84s) | 2:24 | 2021-12-17 | 2022-03-05 |
 | [Loved Me Back to Life](https://open.spotify.com/track/3u4QSVHHj9HJ1gjty8QSuS) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Loved Me Back to Life](https://open.spotify.com/album/2JVBPSq27UJhCgPmiY49bH) | 3:12 | 2021-11-16 | 2022-02-19 |

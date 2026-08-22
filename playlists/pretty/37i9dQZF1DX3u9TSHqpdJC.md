@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Grace Power Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,174 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,177 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [Still The Kid](https://open.spotify.com/track/7amqdTB1SWli7FsopSVUdd) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 3:21 |
 | 75 | [Baby Again](https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b) | [Madhavi Devi](https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR) | [Luck of the Draw](https://open.spotify.com/album/4Pl5OaVAIUmHmY4ExUu3Hh) | 4:17 |
 
-Snapshot ID: `AAAAAMPGk6U0Mp6YngM3PlQoepISJmoR`
+Snapshot ID: `AAAAADdSfa7TVx/uDRRaporxhVEczhDf`

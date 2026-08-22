@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZVztSCAFKCwIuTNXtDkMG.md) - [plain]
 
 > Feel the difference with MadFit's official workout playlist\.  <a href="https://topsify.lnk.to/MadFitYouTubeSY">Subscribe to MadFit on YouTube.</a>
 
-[Topsify](https://open.spotify.com/user/topsify) - 148,019 likes - 100 songs - 5 hr 30 min
+[Topsify](https://open.spotify.com/user/topsify) - 148,006 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/0ZVztSCAFKCwIuTNXtDkMG.md) - [plain]
 | 99 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 | 100 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
 
-Snapshot ID: `AAAFEK5Vh0uOKlFtzI+c6GhS9tOgvZlI`
+Snapshot ID: `AAAFFCMPJ3eKutcQAEBgcNQsa3W9bE6X`

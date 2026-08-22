@@ -5205,6 +5205,36 @@
     },
     {
       "album": {
+        "name": "This Hell (Arr. For String Quartet by Maya Magub)",
+        "url": "https://open.spotify.com/album/4OyxBW2ec9hcuRgE2jmWXK"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Lauren Amber Aquilina",
+          "url": "https://open.spotify.com/artist/5ISwGfKjX5JeJvn3JZ8F3F"
+        },
+        {
+          "name": "Maya Magub",
+          "url": "https://open.spotify.com/artist/1oGX73DWQVzJ5BcNDd9hG2"
+        },
+        {
+          "name": "RmX Quartet",
+          "url": "https://open.spotify.com/artist/1BmTCGXIPn3IYeqNy1ZbiI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "This Hell (Arr. For String Quartet by Maya Magub)",
+      "url": "https://open.spotify.com/track/6Ilxx9LyaBMNNJ5jJM4VGx"
+    },
+    {
+      "album": {
         "name": "this is me trying",
         "url": "https://open.spotify.com/album/4cwNkvcj70OZcVECs51k1i"
       },
@@ -5932,6 +5962,24 @@
       "duration_ms": 112000,
       "name": "Wonderful (Arr. Piano) - From \"Wicked\"",
       "url": "https://open.spotify.com/track/5jpHIWxs6opHRy4QtEDTQW"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs Oasis: Decadence And Vanity",
+        "url": "https://open.spotify.com/album/1VMVw7itSnrB5u7GULJMCZ"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255480,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/12lapyvy3TYVMYpnVjUI3S"
     },
     {
       "album": {

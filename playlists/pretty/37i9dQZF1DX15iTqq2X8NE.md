@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,016 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,015 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 23 | [Caribby](https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Caribby](https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6) | 2:16 |
 | 24 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
 | 25 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
-| 26 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
-| 27 | [Kalam Kteer](https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Kalam Kteer](https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a) | 2:52 |
+| 26 | [Kalam Kteer](https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Kalam Kteer](https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a) | 2:52 |
+| 27 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
 | 28 | [Habsha](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 |
 | 29 | [UntitledHak](https://open.spotify.com/track/0qVckExflVKTkFoF2PueoG) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [UntitledHak](https://open.spotify.com/album/3lXbD09iKoRX5SsnuUOYMF) | 3:23 |
 | 30 | [مسامحك يا حبيبي](https://open.spotify.com/track/7EoJBZ8Gi0SL58cpWmw0e9) | [نانسي عجاج](https://open.spotify.com/artist/10eNNn6xl1vLRBIV7W8wYN) | [مسامحك يا حبيبي](https://open.spotify.com/album/6Fa6ccBtkKWYwlkJaEOc5k) | 6:56 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 37 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 |
 | 38 | [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Fodi](https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 |
 | 39 | [DOPAMINE](https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [DOPAMINE](https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA) | 2:14 |
-| 40 | [Igd Allooli \(The Pearl Necklace\)](https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ) | [Saied Khalifa](https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 4:27 |
-| 41 | [Dafnino](https://open.spotify.com/track/0CWiXLt7mwtbROte487DbZ) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Dafnino](https://open.spotify.com/album/3H3S0xW9UHlQBuuBeig4zY) | 2:27 |
+| 40 | [Dafnino](https://open.spotify.com/track/0CWiXLt7mwtbROte487DbZ) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Dafnino](https://open.spotify.com/album/3H3S0xW9UHlQBuuBeig4zY) | 2:27 |
+| 41 | [Igd Allooli \(The Pearl Necklace\)](https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ) | [Saied Khalifa](https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 4:27 |
 | 42 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
 | 43 | [بسحروك](https://open.spotify.com/track/0nOAJ6NOwB8JVPMKBae4GU) | [طه سليمان](https://open.spotify.com/artist/0RsFnQRoeQXmyhWzNqWvYJ) | [بسحروك](https://open.spotify.com/album/374yLPef14svHDy8PJ8WRQ) | 3:21 |
 | 44 | [TARAT ALTAYARA](https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [TARAT ALTAYARA](https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu) | 2:02 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 83 | [Sudania](https://open.spotify.com/track/5NeVCUBVudh9rPpDik5amG) | [Omar Majid](https://open.spotify.com/artist/30kqjrpTAZryMkMjk1FbK2), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [G Salih](https://open.spotify.com/artist/7k6dtdPdypqE2KXYWWl4tH), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudania](https://open.spotify.com/album/5HtVbnnYh94EB0HLkdrrVo) | 4:27 |
 | 84 | [سارينة](https://open.spotify.com/track/2lglRe92A9P1ORVqkI2LI4) | [Wd3vtif](https://open.spotify.com/artist/0EIDNRtegsDirjwXFLuae5) | [سارينة](https://open.spotify.com/album/1vCzCD9bEfYFNnDw6gDAv6) | 3:22 |
 | 85 | [sxcbnda](https://open.spotify.com/track/6RK9RIMO12fdRKVfzxN5JH) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [HYDR](https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA) | 2:54 |
-| 86 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 |
+| 86 | [Langa](https://open.spotify.com/track/4VvgrTj4y6BIUYhh3J1Ab5) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [Langa](https://open.spotify.com/album/6SlvwtudjfJmPilWo38MS3) | 2:50 |
 | 87 | [Moya wa Zait](https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Moya wa Zait](https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA) | 2:38 |
-| 88 | [Langa](https://open.spotify.com/track/4VvgrTj4y6BIUYhh3J1Ab5) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [Langa](https://open.spotify.com/album/6SlvwtudjfJmPilWo38MS3) | 2:50 |
+| 88 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 |
 | 89 | [Stay Alive](https://open.spotify.com/track/23RTebU5woj5YZgKi9xuZm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/6BcaOyEe7OjryQ8EP3HUfF) | 3:01 |
 | 90 | [Nuba](https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ), [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Nuba](https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P) | 4:08 |
 | 91 | [Fuego](https://open.spotify.com/track/02Ddh1rBZbk5dmsfBWp6hn) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Fuego](https://open.spotify.com/album/1AsD9IvZZjFvhrpTpTBDW2) | 3:30 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 119 | [Nar \(Nickodemus & Kiko Navarro Remix\)](https://open.spotify.com/track/0zkILNJ1AzG3J2bnYuSDhE) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj) | [Manara Remixed](https://open.spotify.com/album/0dMwJwEy5wN0Jn1wrEJns0) | 7:10 |
 | 120 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/0J4ltLwYQP6kyTy8JvmH9K) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Farrah Galbi Aljadeed \(Habibi Funk 009\)](https://open.spotify.com/album/3yPPozyWOkJcry3Ms86kEi) | 5:01 |
 
-Snapshot ID: `AAAAAOONSsreIbnCpqSoutDZiQe8Qx/h`
+Snapshot ID: `AAAAABypWiuTXwweS4enEM9tO6KG5Yhe`

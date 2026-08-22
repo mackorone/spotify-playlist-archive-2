@@ -4,11 +4,12 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-592 songs - 1 day 10 hr 47 min
+592 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$MONEY](https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [$MONEY](https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys) | 2:34 | 2026-07-23 |  |
+| ['Cause I Can](https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | ['Cause I Can](https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl) | 3:07 | 2026-08-20 |  |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-30 | 2025-04-18 |
 | [\(still\) WON'T4GETU](https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [\(still\) WON'T4GETU](https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54) | 6:14 | 2023-04-04 | 2025-04-18 |
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-08-26 | 2023-06-03 |
@@ -540,7 +541,6 @@
 | [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-07-19 | 2026-04-11 |
 | [Too Much](https://open.spotify.com/track/60N8926UPMzZTFwxq1jTse) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og) | [Too Much](https://open.spotify.com/album/4iPr6vfBSTzI3ksPdReHbQ) | 3:38 | 2026-04-10 | 2026-07-17 |
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-04-17 | 2026-05-01 |
-| [Track 1](https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | ['Cause I Can](https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl) | 0:00 | 2026-08-20 |  |
 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 | 2026-07-16 |  |
 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 | 2022-08-26 | 2023-06-03 |
 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 | 2025-06-26 | 2026-07-02 |

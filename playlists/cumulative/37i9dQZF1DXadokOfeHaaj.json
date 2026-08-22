@@ -2289,6 +2289,32 @@
     },
     {
       "album": {
+        "name": "Do 4 U",
+        "url": "https://open.spotify.com/album/3KWi2Ru6vcTgPmMG5uXRq2"
+      },
+      "artists": [
+        {
+          "name": "Will Saul",
+          "url": "https://open.spotify.com/artist/3qtVupTIjHwH8BLBZXog53"
+        },
+        {
+          "name": "Mark Hawkins",
+          "url": "https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq"
+        },
+        {
+          "name": "Gilli.jpg",
+          "url": "https://open.spotify.com/artist/6OdjyD5Ug7FtnkKAkB6j8a"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Do 4 U - Haus Mix",
+      "url": "https://open.spotify.com/track/4DwVynMf1J4HgqYi2VY2j0"
+    },
+    {
+      "album": {
         "name": "Do It Right",
         "url": "https://open.spotify.com/album/4ZGhXqzoSNBnzvxRB2NALr"
       },
@@ -9574,24 +9600,6 @@
       "duration_ms": 222000,
       "name": "TR Smooth",
       "url": "https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD"
-    },
-    {
-      "album": {
-        "name": "Do 4 U",
-        "url": "https://open.spotify.com/album/3KWi2Ru6vcTgPmMG5uXRq2"
-      },
-      "artists": [
-        {
-          "name": "Will Saul",
-          "url": "https://open.spotify.com/artist/3qtVupTIjHwH8BLBZXog53"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4DwVynMf1J4HgqYi2VY2j0"
     },
     {
       "album": {

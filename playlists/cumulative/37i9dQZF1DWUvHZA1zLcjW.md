@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-231 songs - 16 hr 12 min
+232 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [String Quartet No\. 4 in E Minor, Op\. 44 No\. 2: III\. Andante](https://open.spotify.com/track/6YQ6PgCwOOINjkApl1ayik) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Quatuor Van Kuijk](https://open.spotify.com/artist/3JskWGJqTH0wpdVErwUOub) | [Mendelssohn: Complete String Quartets, Vol\. 2](https://open.spotify.com/album/30XTrmfSB4A3elTZbTR8Se) | 6:22 | 2023-05-12 |  |
 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 | 2022-01-28 |  |
 | [Suite from The Theory of Everything: I\. A Model of the Universe](https://open.spotify.com/track/0iiTQYE1uhTDxQIwugbZMc) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b), [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon) | [Jóhannsson: Suite from The Theory of Everything: I\. A Model of the Universe](https://open.spotify.com/album/14iWMkGR0g0lLGRKDQS13s) | 1:30 | 2023-06-30 |  |
+| [Sula bassana \- Excerpt II](https://open.spotify.com/track/4gLfPQ5wKTjH6wpx74Irdr) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [Sula bassana](https://open.spotify.com/album/1cvq1mlUEqgHkRQFpmx3AG) | 2:43 | 2026-08-21 |  |
 | [Symphonie Concertante for Violin, Harp and Orchestra in G Major, WoO 13: II\. Adagio](https://open.spotify.com/track/5rzISzqA5ZBY8u0hor0z0f) | [Louis Spohr](https://open.spotify.com/artist/7MzxeLpsMxTk4HDBG6C7rq), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Volker Kempf](https://open.spotify.com/artist/0QwGhAtiSBJvYjCKulXsSq), [Wiener Symphoniker](https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O), [Manfred Honeck](https://open.spotify.com/artist/2P9hqdON5vDIRJOEj0Ls2X) | [Spohr: Symphonie Concertante for Violin, Harp and Orchestra in G Major, WoO 13: II\. Adagio](https://open.spotify.com/album/3pffTo0gtXsI0zeyveM6lI) | 4:48 | 2023-04-21 |  |
 | [Séduction](https://open.spotify.com/track/12dCdtUiW2oGuM33S0pBtp) | [Alain Lefèvre](https://open.spotify.com/artist/3TL7yaSno7le3PmFBYsHDU) | [Séduction](https://open.spotify.com/album/2m15mXo88YsCh9FFcepsTT) | 5:19 | 2025-05-23 |  |
 | [Thaïs, DO 24: "Méditation" \- Arr\. for Piano Solo by Jules Massenet](https://open.spotify.com/track/5rnS97KlPFKa4isdEAOsOV) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [Vadim Chaimovich](https://open.spotify.com/artist/5EfeuEtilmCk8J49T35rqb) | [Massenet: Thaïs, DO 24: "Méditation" \(Arr\. for Piano Solo by Jules Massenet\)](https://open.spotify.com/album/253zXpygQQ5dwxj1gyID8X) | 5:17 | 2024-03-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 15131,
+  "num_followers": 15138,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAD0yBtABF64vF5m9QT8d9V2",
+  "snapshot_id": "aoZDgAAAAAAWA16zssQ/w8BgPRGbmus5",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+        "name": "It's The Season (Live Performance)",
+        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+      "duration_ms": 1944960,
+      "name": "It's The Season (Live Performance)",
+      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's The Season (Live Performance)",
-        "url": "https://open.spotify.com/album/4sfiFXIHYJj2FINtFPjFPu"
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 1944960,
-      "name": "It's The Season (Live Performance)",
-      "url": "https://open.spotify.com/track/2vSs0nmmOyJ6wMt35kH3PA"
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
     },
     {
       "added_at": null,
@@ -795,30 +795,6 @@
       "duration_ms": 251201,
       "name": "Heaven and Earth Adore You",
       "url": "https://open.spotify.com/track/7FhCncQfoYG99q2nJkt2en"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eze (feat. Preye Odede)",
-        "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Preye Odede",
-          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
-        },
-        {
-          "name": "Reba",
-          "url": "https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6"
-        }
-      ],
-      "duration_ms": 356063,
-      "name": "Eze (feat. Preye Odede)",
-      "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
     },
     {
       "added_at": null,
@@ -907,6 +883,30 @@
       "duration_ms": 339880,
       "name": "Jesus United",
       "url": "https://open.spotify.com/track/5qH2JtPSnaETSCZI58k6bi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eze (feat. Preye Odede)",
+        "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+        },
+        {
+          "name": "Reba",
+          "url": "https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6"
+        }
+      ],
+      "duration_ms": 356063,
+      "name": "Eze (feat. Preye Odede)",
+      "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
     },
     {
       "added_at": null,

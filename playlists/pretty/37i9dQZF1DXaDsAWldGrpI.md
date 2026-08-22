@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,374 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,373 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 77 | [Talladega \- Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017](https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 1](https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR) | 4:19 |
 | 78 | [Rhinestone Cowboy](https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live Anthology](https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx) | 3:27 |
 | 79 | [Good Hearted Woman \- Live in Texas \- September 1974](https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 3:04 |
-| 80 | [Honey, I'm Home \- Live](https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:42 |
-| 81 | [Lookin' For Love](https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm) | 4:02 |
+| 80 | [Lookin' For Love](https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm) | 4:02 |
+| 81 | [Honey, I'm Home \- Live](https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:42 |
 | 82 | [Write This Down \- Live](https://open.spotify.com/track/5AP4NeswU941cNkFxeloME) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 3:31 |
 | 83 | [Body Like A Back Road \- 15 In A 30 Tour Live](https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road \(15 In A 30 Tour Live\)](https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82) | 4:48 |
 | 84 | [Human \- Live](https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human \(Live\)](https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg) | 3:34 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 87 | [Humble And Kind \- Live](https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind \(Live\)](https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3) | 3:50 |
 | 88 | [Thank God \- Live from Fenway](https://open.spotify.com/track/5cpNbiyqYcWtOy6C6TR5EC) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Thank God \(Live from Fenway\)](https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8) | 4:00 |
 | 89 | [21 Summer \- Live](https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 3:38 |
-| 90 | [She's Got You \- Live](https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 2:46 |
-| 91 | [Welcome to Hard Times \- Live from the Ryman](https://open.spotify.com/track/4QxGtOtabeAuy4WJ6OqG5V) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Live from the Ryman](https://open.spotify.com/album/46kzMpUsEmPdoEDtUWLjDM) | 2:50 |
+| 90 | [Welcome to Hard Times \- Live from the Ryman](https://open.spotify.com/track/4QxGtOtabeAuy4WJ6OqG5V) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Live from the Ryman](https://open.spotify.com/album/46kzMpUsEmPdoEDtUWLjDM) | 2:50 |
+| 91 | [She's Got You \- Live](https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 2:46 |
 | 92 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 |
 | 93 | [\(If You're Not In It For Love\) I'm Outta Here! \- Live](https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:57 |
 | 94 | [One Bad Habit \- Live](https://open.spotify.com/track/459HlWTIWPXEPG5b6QXttu) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [One Bad Habit \(Live\)](https://open.spotify.com/album/2WHkHvzjILIUTrxNR7yq5Y) | 3:16 |
 | 95 | [Drinkin' Problem \- Live From The Palomino](https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Live From The Palomino](https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T) | 3:52 |
-| 96 | [Oh, Anna! \- Live from the Opry](https://open.spotify.com/track/2TvvudKzKJIhTPAjhTtfCo) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna! \(Live from the Opry\)](https://open.spotify.com/album/4DTQLzcwIych3iemPgt0li) | 4:24 |
-| 97 | [It Ain't My Fault \- Live](https://open.spotify.com/track/68Dz3MBc6FblfGmMhpeLcg) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 16:16 |
+| 96 | [It Ain't My Fault \- Live](https://open.spotify.com/track/68Dz3MBc6FblfGmMhpeLcg) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 16:16 |
+| 97 | [Oh, Anna! \- Live from the Opry](https://open.spotify.com/track/2TvvudKzKJIhTPAjhTtfCo) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna! \(Live from the Opry\)](https://open.spotify.com/album/4DTQLzcwIych3iemPgt0li) | 4:24 |
 | 98 | [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 |
 | 99 | [Check Yes Or No \- Live](https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 2:53 |
 | 100 | [Hard Times \- Live](https://open.spotify.com/track/3WSOOKrJmKEG4TY34Mg1yb) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [At the Ryman \(Live\)](https://open.spotify.com/album/6QU3H8XFMeYIylEhEFmIIy) | 3:25 |
 
-Snapshot ID: `AAAAACwW4AK9mGABDDnuOWg8DdkQfDEk`
+Snapshot ID: `AAAAAIBw1QZupVYIqVqmEgnJ8CqA3rcS`

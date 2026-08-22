@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 183992,
       "name": "Almost Midnight",
       "url": "https://open.spotify.com/track/3DbLiHGuGWUM2A0QNn08UY"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 128405,
       "name": "As You Were",
       "url": "https://open.spotify.com/track/4CI6gzYlKcszqy2VkPvUwn"
@@ -2993,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Dear Old Friend",
+        "url": "https://open.spotify.com/album/4tQlBoO7nTjVoarMXhNYoE"
+      },
+      "artists": [
+        {
+          "name": "David Jenau",
+          "url": "https://open.spotify.com/artist/5gmiFRkogpc9krRQuJsjlN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170983,
+      "name": "Dear Old Friend",
+      "url": "https://open.spotify.com/track/0VFhHJ2RzVIYc9oIlOCUGj"
+    },
+    {
+      "album": {
         "name": "Dear Old Stockholm",
         "url": "https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b"
       },
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 147866,
       "name": "Echoes of Then",
       "url": "https://open.spotify.com/track/1obLOSAbJUNoqdHb93Fh4v"
@@ -3976,7 +3994,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 154333,
       "name": "Faint Echoes",
       "url": "https://open.spotify.com/track/3lKyERFQMQp40To5RS4FbZ"
@@ -4484,6 +4502,24 @@
       "duration_ms": 148837,
       "name": "Four Casinos",
       "url": "https://open.spotify.com/track/04lRn70B8yfARIXJ4kyrWx"
+    },
+    {
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4Y5W5GmEwpPQOVIx0fKfzY"
+      },
+      "artists": [
+        {
+          "name": "Noa Emerson",
+          "url": "https://open.spotify.com/artist/6L3ru0t3JBL8fGywpt7uD6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169866,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/07gvHmyzYEd8iLHurOwFZT"
     },
     {
       "album": {
@@ -6287,6 +6323,42 @@
     },
     {
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/2TThwBr6HJzElTqEInURzf"
+      },
+      "artists": [
+        {
+          "name": "Talia Vernon",
+          "url": "https://open.spotify.com/artist/3W6H4hzFD0fZP4EMnTrzQ8"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/1woBYK1PykURaFuM1gqCMo"
+    },
+    {
+      "album": {
+        "name": "Impressions of You",
+        "url": "https://open.spotify.com/album/3wGiDkId6oIkmKRa5RAS5B"
+      },
+      "artists": [
+        {
+          "name": "Emile Valadon",
+          "url": "https://open.spotify.com/artist/3ZcrcpwVpdp0nHKwf2l8eS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131965,
+      "name": "Impressions of You",
+      "url": "https://open.spotify.com/track/2GWjV2QEIE8SC59tqzvrir"
+    },
+    {
+      "album": {
         "name": "In a sentimental mood",
         "url": "https://open.spotify.com/album/0zukKIRRaLdu8NcLxY61cH"
       },
@@ -7396,7 +7468,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 147000,
       "name": "Lavender Medley",
       "url": "https://open.spotify.com/track/5EJJJBFw9d4ZhO6NlzmoBy"
@@ -9545,6 +9617,24 @@
     },
     {
       "album": {
+        "name": "On A Warm Night In Lisbon",
+        "url": "https://open.spotify.com/album/5wioii3FQOj3XtsafU3Wm3"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Archer",
+          "url": "https://open.spotify.com/artist/4Syv4sTnGc2Kq3gWqGGdJ3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "On A Warm Night In Lisbon",
+      "url": "https://open.spotify.com/track/34E2TbVqRLstlweZjEOhBI"
+    },
+    {
+      "album": {
         "name": "On My Way Home",
         "url": "https://open.spotify.com/album/5PcjD52rF1dSSAyCdebywF"
       },
@@ -11144,7 +11234,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 145000,
       "name": "Silent Measure",
       "url": "https://open.spotify.com/track/1BYSgoRv2JAKdsZKCQ1GOA"
@@ -12375,6 +12465,24 @@
     },
     {
       "album": {
+        "name": "Summer Wind",
+        "url": "https://open.spotify.com/album/3J8mRPrrUIky1uZ32rrAmG"
+      },
+      "artists": [
+        {
+          "name": "Tobey Lune",
+          "url": "https://open.spotify.com/artist/1YfBq6ynnEa0kliQKvNlO4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179983,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/35cXGLiW8Q8cr9wDGBgE9B"
+    },
+    {
+      "album": {
         "name": "Summer with You",
         "url": "https://open.spotify.com/album/43JfSeY3jM158FdpfoqgGe"
       },
@@ -13473,6 +13581,24 @@
     },
     {
       "album": {
+        "name": "The Thought Of Us",
+        "url": "https://open.spotify.com/album/6sQPiIwzSAdPhMArrvaYwV"
+      },
+      "artists": [
+        {
+          "name": "Bo Miyake",
+          "url": "https://open.spotify.com/artist/6xsScKP13n7GCGQZ4HujQf"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128144,
+      "name": "The Thought Of Us",
+      "url": "https://open.spotify.com/track/4htmkE5qrLVcpt6E6eDvtD"
+    },
+    {
+      "album": {
         "name": "The Time Is Now",
         "url": "https://open.spotify.com/album/3IhrTBiy2hu1lxLvJXyqAr"
       },
@@ -14208,6 +14334,24 @@
       "duration_ms": 149933,
       "name": "Uncovered",
       "url": "https://open.spotify.com/track/5Z3PHF1ZTunKCQR47AwSMd"
+    },
+    {
+      "album": {
+        "name": "Unfolding Stillness",
+        "url": "https://open.spotify.com/album/7KROlL669jzQugBYQq9MU3"
+      },
+      "artists": [
+        {
+          "name": "Noa Emerson",
+          "url": "https://open.spotify.com/artist/6L3ru0t3JBL8fGywpt7uD6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152087,
+      "name": "Unfolding Stillness",
+      "url": "https://open.spotify.com/track/2abQJI1Ed9ErQA9EfiEknn"
     },
     {
       "album": {

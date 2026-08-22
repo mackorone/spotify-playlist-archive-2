@@ -1,29 +1,13 @@
 {
   "description": "Lo mejor de agosto 2026. Cover: fred again.. & LATIN MAFIA",
-  "num_followers": 1544273,
+  "num_followers": 1544661,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4crl4noJPQtFemXZJFS4Ev3zAi",
+  "snapshot_id": "AAAAAPpWdUc5hN9YutzqEtCKPNYoktpn",
   "tracks": [
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "MATADORA",
-        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144650,
-      "name": "MATADORA",
-      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
-    },
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 242840,
       "name": "ZIZI",
       "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -119,30 +119,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
-      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "MILLONETA",
         "url": "https://open.spotify.com/album/24GhQrJxVWIbnRNLCrvdLx"
       },
@@ -163,6 +139,30 @@
       "duration_ms": 160987,
       "name": "MILLONETA",
       "url": "https://open.spotify.com/track/2DNN1f2MOdTYWY1GnST9kr"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 150944,
+      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 172066,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "Celosa",
-        "url": "https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "SI SE ACABA EL MUNDO",
-        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 170812,
-      "name": "SI SE ACABA EL MUNDO",
-      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
       },
@@ -427,6 +407,46 @@
       "duration_ms": 177408,
       "name": "LA PLAYA",
       "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "SI SE ACABA EL MUNDO",
+        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 170812,
+      "name": "SI SE ACABA EL MUNDO",
+      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "HABLAR DE TI (...)",
+        "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 218190,
+      "name": "HABLAR DE TI (...)",
+      "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -467,26 +487,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "HABLAR DE TI (...)",
-        "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 218190,
-      "name": "HABLAR DE TI (...)",
-      "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "BESITO",
         "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 179720,
       "name": "BESITO",
       "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "partedemipartedeti",
+        "url": "https://open.spotify.com/album/2qm8KUb1VIkBXwgwHn7y4z"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "partedemipartedeti",
+      "url": "https://open.spotify.com/track/4idsvwxfLQuOr8PngnKhKx"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -519,22 +535,6 @@
       "duration_ms": 186874,
       "name": "beam",
       "url": "https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "partedemipartedeti",
-        "url": "https://open.spotify.com/album/2qm8KUb1VIkBXwgwHn7y4z"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "partedemipartedeti",
-      "url": "https://open.spotify.com/track/4idsvwxfLQuOr8PngnKhKx"
     },
     {
       "added_at": "2026-08-07 04:01:54",

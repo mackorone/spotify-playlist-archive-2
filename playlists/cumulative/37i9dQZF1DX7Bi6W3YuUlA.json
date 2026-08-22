@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Inspirational hip-hop. Cover: Caam1k",
+  "description": "Inspirational hip-hop. Cover: Skilla Baby",
   "name": "High Lights",
   "tracks": [
     {
@@ -9891,6 +9891,28 @@
     },
     {
       "album": {
+        "name": "The Price Of Fame",
+        "url": "https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Strength In Numbers (with Erica Campbell)",
+      "url": "https://open.spotify.com/track/4wJNAX7Rnwvxl64HCN5CTj"
+    },
+    {
+      "album": {
         "name": "Heard Not Seen III",
         "url": "https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk"
       },
@@ -10536,6 +10558,24 @@
       "duration_ms": 201578,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/6ZW8f8xNkauNEKBQthQaas"
+    },
+    {
+      "album": {
+        "name": "The Price Of Fame",
+        "url": "https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "The Price of Fame",
+      "url": "https://open.spotify.com/track/3yCdBX4Jkhu6BPiZ7aEWHM"
     },
     {
       "album": {

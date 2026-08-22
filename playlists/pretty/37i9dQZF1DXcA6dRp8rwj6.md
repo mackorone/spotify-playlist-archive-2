@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: 1300\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,435 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,415 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 23 | [SPECIALIZE](https://open.spotify.com/track/6gXxmwVPB1prGl6MGssu3m) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [SPECIALIZE / THE DUMB](https://open.spotify.com/album/5yGhK5C5TM6IADxip634w9) | 3:20 |
 | 24 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
 | 25 | [Game Six](https://open.spotify.com/track/0bSlEreR3f5j8DlEc17QqI) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Game Six](https://open.spotify.com/album/6fGpOOSxGUvzpL3tTpVExt) | 2:53 |
-| 26 | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb) | 3:04 |
+| 26 | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb) | 3:04 |
 | 27 | [Face Card \(with Chris Brown & Bryson Tiller\)](https://open.spotify.com/track/5N3p9YjU6WGfU0y4jrgEGc) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Face Card \(with Chris Brown & Bryson Tiller\)](https://open.spotify.com/album/1LAFF8OUoMseRuHJLyq5MH) | 2:38 |
 | 28 | [BOMBA](https://open.spotify.com/track/0sOkijXePf8GltBTHySvDt) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [STREETZ MIXTAPE](https://open.spotify.com/album/57uX4wTw8fpDFxjwvhtYHJ) | 2:22 |
 | 29 | [anything](https://open.spotify.com/track/4eNBTaGnB5ELO6o9u918wV) | [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251), [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4) | [Rapihaler](https://open.spotify.com/album/7oI6St2lv9U7BH26yXrVLn) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [Bet it All](https://open.spotify.com/track/5aPjCwBAsj1yT89rIwqzMN) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Chase Belly](https://open.spotify.com/artist/6tsYLksrBCYGx807tLtqcE) | [Bet it All](https://open.spotify.com/album/59LXNdhF38YWNCWpz5EnEt) | 3:22 |
 | 100 | [No One Told Us \- Extended Version](https://open.spotify.com/track/4FlDhT6FGCANjE3UKZMd4i) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [No One Told Us \(Extended Version\)](https://open.spotify.com/album/0OabiskGB9hhieomXXl2Sv) | 3:04 |
 
-Snapshot ID: `AAAAAD1qtLL+fmtV4yw0txvnfVdzQVid`
+Snapshot ID: `AAAAANPmFgkFNc6Mwdu+E6qYYWTbW8fW`

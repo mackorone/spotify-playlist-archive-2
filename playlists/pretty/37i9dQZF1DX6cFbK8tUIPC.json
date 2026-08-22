@@ -1,12 +1,12 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 560736,
+  "num_followers": 560757,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALsY3NlFUPZQOrKUL/jyatQKeoXg",
+  "snapshot_id": "AAAAAIXcenKYREqEd40t682Aykxey9cj",
   "tracks": [
     {
       "added_at": "2025-09-23 14:16:54",
@@ -467,18 +467,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "last night you said you missed me",
-        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
+        "name": "Citrona",
+        "url": "https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
         }
       ],
-      "duration_ms": 199040,
-      "name": "queen of the season",
-      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
+      "duration_ms": 261734,
+      "name": "August",
+      "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS"
     },
     {
       "added_at": "2025-10-17 10:54:21",
@@ -499,18 +499,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Citrona",
-        "url": "https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1"
+        "name": "last night you said you missed me",
+        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
       },
       "artists": [
         {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 261734,
-      "name": "August",
-      "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS"
+      "duration_ms": 199040,
+      "name": "queen of the season",
+      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "The Commons",
         "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 324893,
       "name": "The Commons",
       "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 415969,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Tarifa",
         "url": "https://open.spotify.com/album/0ZiiZQCm1aez7Kt77j78QG"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 223986,
       "name": "Giordano\u2019s Dream, Pt. I",
       "url": "https://open.spotify.com/track/5h0xusp4iYdXb9LROnJhR1"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 415969,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Irish Goodbye",
-      "url": "https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "God Save The Animals",
         "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 174972,
       "name": "Ain't It Easy",
       "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Irish Goodbye",
+      "url": "https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Sleeping Sickness",
-      "url": "https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "The First Train Home",
         "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 212373,
       "name": "The First Train Home",
       "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Sleeping Sickness",
+      "url": "https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi"
     },
     {
       "added_at": "2025-09-23 14:16:54",

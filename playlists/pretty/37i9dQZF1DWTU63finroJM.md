@@ -2,40 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 ### [RADAR Global](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: THE DO
+> Meet the future of music around the world\. Cover: Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,573 likes - 29 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,569 likes - 20 songs - 59 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ZWINA](https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZWINA](https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt) | 2:26 |
-| 2 | [Sonum Ol](https://open.spotify.com/track/3waipLozRiAKg6Ad0o40xg) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Sonum Ol](https://open.spotify.com/album/0x5Cz4GC7HnNmvr6kUmJx5) | 3:39 |
-| 3 | [L.U.C.K.Y \- \(Live\) \| Spotify RADAR](https://open.spotify.com/track/6PQiK3sagwZIY04nQOhIAX) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Spotify RADAR](https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR) | 2:29 |
-| 4 | [What’s My Name](https://open.spotify.com/track/1DiYtw14V82ASsVBDXQnEo) | [THE DO](https://open.spotify.com/artist/7cACgXY0k1OI20mxoBw0XC) | [What’s My Name](https://open.spotify.com/album/0F97eiQZrjwFrppiujrarT) | 2:06 |
-| 5 | [CONTACTO CONTACTO](https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [CONTACTO CONTACTO](https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9) | 1:57 |
-| 6 | [No pega igual \(Stuck on replay\)](https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [No pega igual \(Stuck on replay\)](https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y) | 3:05 |
-| 7 | [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 |
-| 8 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
-| 9 | [TENSION](https://open.spotify.com/track/5FjO5xZr8oVLjKKnQc68VN) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [TENSION](https://open.spotify.com/album/4Y7MMxcITCwv0W2k3EYrMA) | 2:56 |
-| 10 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
-| 11 | [Solo Ama](https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Solo Ama](https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh) | 3:30 |
-| 12 | [Nattamthiri](https://open.spotify.com/track/08EvZ9JF4jwBfqiu9i4750) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 3:37 |
-| 13 | [Your favorite flowers](https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi) | 3:29 |
-| 14 | [Speed](https://open.spotify.com/track/62UDdS1BuZ30tJFbBasLN4) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Speed](https://open.spotify.com/album/2HEMlzGu6QXi75lilR5m2S) | 2:25 |
-| 15 | [Pity](https://open.spotify.com/track/5SY2CcJNvfvgKnZMm8XrdT) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Pity](https://open.spotify.com/album/0ogQlLcNvyYWwZAgR5PdBG) | 2:57 |
-| 16 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
-| 17 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
-| 18 | [Camila](https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila](https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8) | 2:03 |
-| 19 | [I Need You](https://open.spotify.com/track/67z3fb8LD3tB6RnudTT7gg) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [I Need You](https://open.spotify.com/album/0UzzUwust9tYgU5oxj9e3I) | 3:09 |
-| 20 | [NYC](https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [NYC](https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93) | 2:05 |
-| 21 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
-| 22 | [stupid cupid luv!](https://open.spotify.com/track/21VVtTcXYq2ZWjJyptnLDS) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [stupid cupid luv!](https://open.spotify.com/album/09wOvte9tt0c4XXtQVI1ny) | 2:32 |
-| 23 | [Rumah](https://open.spotify.com/track/42cTAPfWxsDzPEjc9X0vMc) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Rumah](https://open.spotify.com/album/5ewRhRooQ4J93Mz4vzaPkX) | 3:20 |
-| 24 | [Lonely](https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Lonely](https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR) | 2:56 |
-| 25 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 |
-| 26 | [Read Your Mind](https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Read Your Mind](https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt) | 2:03 |
-| 27 | [failed tailors](https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554) | [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [failed tailors](https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05) | 2:42 |
-| 28 | [Alıştım](https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Alıştım](https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M) | 2:57 |
-| 29 | [Seruppa Kaanom](https://open.spotify.com/track/5aIc4lWWlx3YcPy3dCz7FO) | [Joshua Aaron](https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq), [Sanikelama](https://open.spotify.com/artist/2mQ8644XwW4V5Xdrl42w91) | [Seruppa Kaanom](https://open.spotify.com/album/6ZKUg07pVCkuPNfh4P1tIT) | 3:46 |
+| 1 | [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 |
+| 2 | [Billo](https://open.spotify.com/track/2PrWSD6ZQcygasN8Bk7384) | [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Billo](https://open.spotify.com/album/3E93c87HK1qNpthSVaJ2UV) | 2:31 |
+| 3 | [Nattamthiri](https://open.spotify.com/track/08EvZ9JF4jwBfqiu9i4750) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 3:37 |
+| 4 | [Pesamale](https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe) | [Siri Xander](https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR), [Arra Aria Khayal](https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93) | [Pesamale](https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ) | 2:58 |
+| 5 | [Supaa Amazing](https://open.spotify.com/track/30WOm7yTjeQUHCCGx1JVuC) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Supaa Amazing](https://open.spotify.com/album/4LUV0mQ6HnmdbALfo0ERk0) | 2:02 |
+| 6 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
+| 7 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
+| 8 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
+| 9 | [ไม่คิดถึงเท่าไหร่ \(Behind The Smile\)](https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [ไม่คิดถึงเท่าไหร่ \(Behind The Smile\)](https://open.spotify.com/album/2BMwfH1ir5dF3qLYHDny7x) | 3:26 |
+| 10 | [Lose My Life](https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Lose My Life](https://open.spotify.com/album/04UfQYNCD4QsnauEyaSgVg) | 3:07 |
+| 11 | [Your favorite flowers](https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi) | 3:29 |
+| 12 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
+| 13 | [ยังไงก็เธอ](https://open.spotify.com/track/1zP5IYbYe1Gi1BaiGJEK64) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ยังไงก็เธอ](https://open.spotify.com/album/4ZYuMJMeN6sUZX5pEGfoWl) | 3:35 |
+| 14 | [NYC](https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [NYC](https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93) | 2:05 |
+| 15 | [feeling good](https://open.spotify.com/track/1VXRl2GXUBaHboKPq7usqS) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [feeling good](https://open.spotify.com/album/6j3hoQTyj96ANnqCZXDcTS) | 3:21 |
+| 16 | [Opium](https://open.spotify.com/track/5nL5mdMNimzgHSZN6ji8kp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Opium](https://open.spotify.com/album/5G6N3XR8brzL9dZBPSQ741) | 2:26 |
+| 17 | [Gece ve Gündüz](https://open.spotify.com/track/00s2Nz4xvmwCMczsGtOyuW) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gece ve Gündüz](https://open.spotify.com/album/2PEskqdd9Sp16mdNnqd4VW) | 3:11 |
+| 18 | [Işık](https://open.spotify.com/track/4vXcZcrmXfiqWfG7zTTUPe) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Işık](https://open.spotify.com/album/6A4Bv7ZciNE6XgXvdWYRfZ) | 2:58 |
+| 19 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
+| 20 | [حرارة](https://open.spotify.com/track/2kc1v2sVOuxQQA12Tazou0) | [THE DO](https://open.spotify.com/artist/7cACgXY0k1OI20mxoBw0XC) | [حرارة](https://open.spotify.com/album/2IOttbtMAAh0abaCKcKoWz) | 1:56 |
 
-Snapshot ID: `AAAAAGtIbuk3/jNv8nckwYVT8aWNX3Q2`
+Snapshot ID: `AAAAADgOXjDXKfBJvcnsMMS5zd4mNTby`

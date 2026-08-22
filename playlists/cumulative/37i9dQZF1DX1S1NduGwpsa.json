@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Branford Marsalis & Dianne Reeves",
+  "description": "The best jazz new releases. Cover: L\u00e9on Phal",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 458053,
       "name": "A Plea",
       "url": "https://open.spotify.com/track/6l8bVvHC6p235oK1IIef03"
@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 201637,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/6moPrj1QU3pxe6kVFQrhVY"
@@ -4400,7 +4400,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 279682,
       "name": "Days Of Us",
       "url": "https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO"
@@ -4922,6 +4922,28 @@
       "duration_ms": 177042,
       "name": "DON\u2019T LISTEN",
       "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
+    },
+    {
+      "album": {
+        "name": "Don't You Want Me",
+        "url": "https://open.spotify.com/album/4yMS0dBNInnEnN9R3KqPQj"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275997,
+      "name": "Don\u2019t You Want Me (with Cat Power)",
+      "url": "https://open.spotify.com/track/2uadrfFrPg8kQccUr36aEc"
     },
     {
       "album": {
@@ -9971,6 +9993,50 @@
     },
     {
       "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/25cAfxY2hTvc013b6DyJoR"
+      },
+      "artists": [
+        {
+          "name": "Heem",
+          "url": "https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m"
+        },
+        {
+          "name": "Fo1006",
+          "url": "https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f"
+        },
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182214,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/6SDFVOLzOD6E38hrY967am"
+    },
+    {
+      "album": {
+        "name": "Lawns",
+        "url": "https://open.spotify.com/album/7meblDWRnHycYkKYEWtbZe"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250181,
+      "name": "Lawns",
+      "url": "https://open.spotify.com/track/73oEK8YsyuFMtfeAjJmWrA"
+    },
+    {
+      "album": {
         "name": "Sunken Scores",
         "url": "https://open.spotify.com/album/7q0xqaNurbqTDHuz4P6pNR"
       },
@@ -10939,6 +11005,24 @@
     },
     {
       "album": {
+        "name": "Made for the past",
+        "url": "https://open.spotify.com/album/1pORvmeQv0flM4KLgoUC4n"
+      },
+      "artists": [
+        {
+          "name": "Yasmina Sadiki",
+          "url": "https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255500,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/025oYIKmq0W2h5msflcaB9"
+    },
+    {
+      "album": {
         "name": "Love Anthem",
         "url": "https://open.spotify.com/album/1bHbEieWlnDRsghM58cmvd"
       },
@@ -10954,6 +11038,24 @@
       "duration_ms": 244000,
       "name": "Love Anthem",
       "url": "https://open.spotify.com/track/7CFEsAjOQdDHjHWzgyDEz1"
+    },
+    {
+      "album": {
+        "name": "Love Beats Hate",
+        "url": "https://open.spotify.com/album/4fp5FIZI0pbwTvxFEanVYg"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321800,
+      "name": "Love Beats Hate",
+      "url": "https://open.spotify.com/track/7Favb8g2OPJq3U3LtCehLG"
     },
     {
       "album": {
@@ -11523,6 +11625,36 @@
     },
     {
       "album": {
+        "name": "Marcie",
+        "url": "https://open.spotify.com/album/387wirkIjhBXft3BMLq3u8"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Marcie",
+      "url": "https://open.spotify.com/track/51GJ93JbGXWRWJeKXeoIcZ"
+    },
+    {
+      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/6yeYVUHck7wnIQs5hBeiEm"
       },
@@ -11774,6 +11906,36 @@
       "duration_ms": 195000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1dpa9PDfIdUnXdJxHBoY1I"
+    },
+    {
+      "album": {
+        "name": "Memory Bomb",
+        "url": "https://open.spotify.com/album/617gOMW4LhxYZi5BE6s4B1"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        },
+        {
+          "name": "Flanafi",
+          "url": "https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d"
+        },
+        {
+          "name": "Shibo",
+          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230645,
+      "name": "Memory Bomb (feat. Walter Smith III, Flanafi, Shibo)",
+      "url": "https://open.spotify.com/track/3d9j2wiKls3PpfRlFCQliw"
     },
     {
       "album": {
@@ -14638,7 +14800,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 167960,
       "name": "Pippo 1303",
       "url": "https://open.spotify.com/track/2Ena1sPFrFTdJ16k0hHHoT"
@@ -14942,7 +15104,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 272240,
       "name": "Raindrops Keep Falling On My Head",
       "url": "https://open.spotify.com/track/2wf3Pnl5dzZVEwazL9MmHR"
@@ -15595,6 +15757,28 @@
     },
     {
       "album": {
+        "name": "Sangria",
+        "url": "https://open.spotify.com/album/5d0g6GM6kgBIIFGzS5j1xX"
+      },
+      "artists": [
+        {
+          "name": "house red",
+          "url": "https://open.spotify.com/artist/6SheSUxv8x6bB5Dn8lIWlp"
+        },
+        {
+          "name": "Fred Paci",
+          "url": "https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134777,
+      "name": "Sangria",
+      "url": "https://open.spotify.com/track/3X1xdtaTyAarRAx2338h9o"
+    },
+    {
+      "album": {
         "name": "Sanza Prayer",
         "url": "https://open.spotify.com/album/79SBo7KEo6i8TLciomYTxC"
       },
@@ -15606,7 +15790,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 133920,
       "name": "Sanza Prayer",
       "url": "https://open.spotify.com/track/0oe8vGXHJ0xWEK2eM0QKsb"
@@ -16165,6 +16349,24 @@
     },
     {
       "album": {
+        "name": "Silvershoes",
+        "url": "https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157136,
+      "name": "Silvershoes",
+      "url": "https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY"
+    },
+    {
+      "album": {
         "name": "Simple Tune",
         "url": "https://open.spotify.com/album/6kVyjDqtKdvTxPkKB2lixx"
       },
@@ -16176,7 +16378,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 367160,
       "name": "Simple Tune",
       "url": "https://open.spotify.com/track/1Yo9Ii9a09QMOaiZtOuoSS"
@@ -17452,7 +17654,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 170753,
       "name": "Sweetest Season",
       "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
@@ -17474,6 +17676,28 @@
       "duration_ms": 370879,
       "name": "Swing State",
       "url": "https://open.spotify.com/track/4A5uJZZHQr2jCNeWJEauVr"
+    },
+    {
+      "album": {
+        "name": "Smog Reworks",
+        "url": "https://open.spotify.com/album/0CzM7EAs9ni2qzq3ewkiC4"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        },
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352131,
+      "name": "T.B.T. (Thinkin' Blues - Trumpet) - Rework",
+      "url": "https://open.spotify.com/track/4C0RwKEQdGLW2JVor1P9t5"
     },
     {
       "album": {
@@ -18284,7 +18508,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 222000,
       "name": "The Look of Love",
       "url": "https://open.spotify.com/track/15CgIcUKMU4HcUQsjZikKe"
@@ -19342,7 +19566,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 278732,
       "name": "Tour de Man\u00e8ge",
       "url": "https://open.spotify.com/track/7vi5WwJ8dtqhekZLpnhtue"

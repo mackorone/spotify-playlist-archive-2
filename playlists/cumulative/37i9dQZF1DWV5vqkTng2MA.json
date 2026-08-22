@@ -712,7 +712,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 233159,
       "name": "Cheap Champagne",
       "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 236117,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2Sb97oqsd2gqUJ0lS24FAe"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 225098,
       "name": "Hang My Head in Shame",
       "url": "https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy"
@@ -2104,6 +2104,24 @@
       "duration_ms": 212706,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/0KRBAOHg8LuG07fF2jrsrK"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/07MCLATu2RLZKLzA0uLZEY"
+      },
+      "artists": [
+        {
+          "name": "Brother Wallace",
+          "url": "https://open.spotify.com/artist/1Obi4nLN1WU3jho5LoPV5Z"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128724,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5he4NFr0l4taR757Jfy88k"
     },
     {
       "album": {
@@ -2961,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Like We Used To",
+        "url": "https://open.spotify.com/album/1WhCCKtCd1se0iKebeeuqq"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229950,
+      "name": "Like We Used To",
+      "url": "https://open.spotify.com/track/43Vmbt88IU2nlHn6wb1fiz"
+    },
+    {
+      "album": {
         "name": "Bahamas is Afie",
         "url": "https://open.spotify.com/album/0AfgBzwRvppO7MwJNlGjvH"
       },
@@ -3228,6 +3264,24 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "album": {
+        "name": "Trespasser",
+        "url": "https://open.spotify.com/album/5LsTcgEL5o7ivH0CUeAgXm"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215486,
+      "name": "Main Street U.S.A.",
+      "url": "https://open.spotify.com/track/0vBLkHfCoJ7SEVyzDW86Co"
     },
     {
       "album": {
@@ -3956,6 +4010,24 @@
       "duration_ms": 156993,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
+    },
+    {
+      "album": {
+        "name": "Overtime",
+        "url": "https://open.spotify.com/album/6nWI56pEGSVt0sKrF6CscK"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Krisko & The Broadcast",
+          "url": "https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/02RFtV8Z2L3M4zOpGkJfKN"
     },
     {
       "album": {

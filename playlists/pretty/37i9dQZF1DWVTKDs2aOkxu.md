@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,935,266 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,935,143 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 19 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
 | 20 | [50/50](https://open.spotify.com/track/16QLv8xt9nPNBZCBDm3Gkv) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [50/50](https://open.spotify.com/album/6UiXsffeceFbIvVcxaAK5V) | 2:43 |
 | 21 | [Something Else to Give](https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Something Else to Give](https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0) | 4:45 |
-| 22 | [Track 2](https://open.spotify.com/track/4nOZyZqzpEJmryrYWM0NoC) | [Arkayla](https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50) | [Back To Belle Vue](https://open.spotify.com/album/5Cgt08t9NHyDqtVkBCH6Pp) | 0:00 |
+| 22 | [Vivian](https://open.spotify.com/track/4nOZyZqzpEJmryrYWM0NoC) | [Arkayla](https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50) | [Back To Belle Vue](https://open.spotify.com/album/5Cgt08t9NHyDqtVkBCH6Pp) | 3:18 |
 | 23 | [I Cry in Front of Paintings](https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [I Cry in Front of Paintings](https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH) | 2:55 |
 | 24 | [Tom Will Smack Your Ass](https://open.spotify.com/track/5i6NfclWkzWgBuJ3YcZdXy) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Tom Will Smack Your Ass](https://open.spotify.com/album/4Sf27x9wlx7oqbET1SFVz5) | 2:26 |
 | 25 | [In My Gut](https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Gut](https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG) | 2:52 |
 | 26 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 |
 | 27 | [Fun](https://open.spotify.com/track/36u7bz30t8wlYlyKhN7LKG) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Fun](https://open.spotify.com/album/744wB2cjHkKYewaKbL38Ku) | 3:31 |
 | 28 | [Mother Nature's Killing Spree](https://open.spotify.com/track/65ryOvWdvf6a0ZiMcaRZxV) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Mother Nature's Killing Spree](https://open.spotify.com/album/3TB7VO2g1ycLF46VFxlEYK) | 3:48 |
-| 29 | [Track 6](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 0:00 |
+| 29 | [Long Lonely Road](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 4:20 |
 | 30 | [Ohio](https://open.spotify.com/track/5MYtl5Lj2fM79XXTX6oHIl) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Ohio](https://open.spotify.com/album/7gC7ui0N07rb3D75bOTtlh) | 3:41 |
 | 31 | [Something To Be Said](https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Something To Be Said](https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o) | 3:33 |
 | 32 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Lies](https://open.spotify.com/track/7DD3iOfX65OAFelDaFhHG4) | [walt disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Lies](https://open.spotify.com/album/0FRSTYKATt1EC92YwI2h4J) | 3:38 |
 | 80 | [Try Try Try](https://open.spotify.com/track/37S6RNloIxDDNRkydQflwU) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Try Try Try](https://open.spotify.com/album/7twihH4moGgU0lmsVQFHG7) | 3:54 |
 
-Snapshot ID: `AAAAANgMIkQrq+knbWDQND+QQx3S7Yw6`
+Snapshot ID: `AAAAAJ2Csc0Duq2fWPG+wzuOyY0j7hFj`

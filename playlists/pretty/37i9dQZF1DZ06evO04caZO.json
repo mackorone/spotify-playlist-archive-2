@@ -1,29 +1,13 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 501721,
+  "num_followers": 501808,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADJ8xFuD0Kz2Who8LqiZ5ix",
+  "snapshot_id": "aoZDgAAAAACWTCsLa5uiCrMLA4FTzhia",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reality Awaits",
-        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Lonely in the Future",
-      "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
-    },
     {
       "added_at": null,
       "album": {
@@ -68,9 +52,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 303053,
-      "name": "Dine N'Dash",
-      "url": "https://open.spotify.com/track/22a006OJm48zH87SkPpSVx"
+      "duration_ms": 200186,
+      "name": "Lonely in the Future",
+      "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
     },
     {
       "added_at": null,
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 246226,
-      "name": "Going to Babble On",
-      "url": "https://open.spotify.com/track/2nxsLJwW4eFDwl36fUQJWe"
+      "duration_ms": 303053,
+      "name": "Dine N'Dash",
+      "url": "https://open.spotify.com/track/22a006OJm48zH87SkPpSVx"
     },
     {
       "added_at": null,
@@ -196,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 258506,
-      "name": "Going Shopping",
-      "url": "https://open.spotify.com/track/18bHbpAKgsf8dor8F6qXHF"
+      "duration_ms": 246226,
+      "name": "Going to Babble On",
+      "url": "https://open.spotify.com/track/2nxsLJwW4eFDwl36fUQJWe"
     },
     {
       "added_at": null,
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 308093,
-      "name": "The Fruits of Conquest",
-      "url": "https://open.spotify.com/track/4VyIPdTdDzJ1zkq2vvBmrW"
+      "duration_ms": 258506,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/18bHbpAKgsf8dor8F6qXHF"
     },
     {
       "added_at": null,
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 290773,
-      "name": "Liar's Remorse",
-      "url": "https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M"
+      "duration_ms": 308093,
+      "name": "The Fruits of Conquest",
+      "url": "https://open.spotify.com/track/4VyIPdTdDzJ1zkq2vvBmrW"
     },
     {
       "added_at": null,
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 323800,
-      "name": "Psycho Shit",
-      "url": "https://open.spotify.com/track/1bsPoGSrs4Vv8iuUs9GQI7"
+      "duration_ms": 290773,
+      "name": "Liar's Remorse",
+      "url": "https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M"
     },
     {
       "added_at": null,

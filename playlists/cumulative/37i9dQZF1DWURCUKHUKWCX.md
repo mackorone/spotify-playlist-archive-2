@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-357 songs - 19 hr 0 min
+358 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Forgotten Shore](https://open.spotify.com/track/4qV2LNBU62R9YkhhLetDwq) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Forgotten Shore](https://open.spotify.com/album/3SGV2iDu60C9eWszQZHQRD) | 2:51 | 2025-12-01 |  |
 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 | 2021-12-10 | 2026-06-20 |
 | [Friction](https://open.spotify.com/track/6UVZgqnzhEzEo3ErZ7p4gN) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Friction](https://open.spotify.com/album/459NgmmRfSSJlCiEGe9q5R) | 3:13 | 2025-05-16 |  |
+| [From Afar](https://open.spotify.com/track/4QgjhskI1iRNLzPKXDIDZI) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [From Afar](https://open.spotify.com/album/58GecIwjleoA2VnBeEX7Tu) | 3:31 | 2026-08-21 |  |
 | [From darkness to light](https://open.spotify.com/track/2zdUIAcCDe5CLiPGc5qPnH) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [From darkness to light](https://open.spotify.com/album/5UfSFwlAzeHzeQ8guS4eWo) | 2:56 | 2025-12-01 |  |
 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-10-14 |  |
 | [Galaxy](https://open.spotify.com/track/1KOxdPguXunJrrBFWgqR3i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Galaxy](https://open.spotify.com/album/1Y9mn9slMJf0N35vPweEc0) | 3:42 | 2024-12-24 |  |

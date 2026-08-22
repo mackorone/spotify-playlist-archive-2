@@ -2,7 +2,7 @@
 
 ### [Poder Femenino](https://open.spotify.com/playlist/37i9dQZF1DWZkDKBCuNQzB)
 
-> Canciones de mujeres fuertes y increíbles.
+> Canciones de mujeres fuertes e increíbles.
 
 52 songs - 2 hr 56 min
 

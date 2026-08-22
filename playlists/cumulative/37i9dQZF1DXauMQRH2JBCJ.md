@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-148 songs - 7 hr 39 min
+149 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Remember Me \(Dúo\)](https://open.spotify.com/track/4uXtUq8f0Vbcsjixby3scy) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YKen228UDX6DWA9LCuQBn) | 2:44 | 2022-03-16 | 2022-07-29 |
 | [Remember Me \(Dúo\)](https://open.spotify.com/track/75hlRbQoPIcPE4jBnSHXtb) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Colonna Sonora Originale\)](https://open.spotify.com/album/0PCGDp3bAyWoJiqzoyVBkv) | 2:44 | 2022-09-15 | 2022-11-13 |
 | [Remember Me \(Reunion\)](https://open.spotify.com/track/3uCcoxif1cNSDivDOsi69C) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Ana Ofelia Murguía](https://open.spotify.com/artist/0ZS2F346KuGkN5tUivKQhN) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:13 | 2024-10-10 |  |
+| [Rhythm's Only Right](https://open.spotify.com/track/3NojQYb1xBtAaxJMEtnSKG) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Hudson Stone](https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 3:04 | 2026-08-21 |  |
 | [So Close \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/3XFkhxO5jo2hBOWNzIQ9UB) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:46 | 2022-03-16 |  |
 | [So This Is Love \- From "Cinderella"](https://open.spotify.com/track/1EwRMgWXS9U8Oet39tlYwY) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Mike Douglas](https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI) | [Disney Princess: The Ultimate Song Collection](https://open.spotify.com/album/1YlALay0y3WHzVz39xU3AJ) | 1:32 | 2022-03-16 | 2026-01-15 |
 | [Some Things Never Change](https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:29 | 2022-03-16 |  |

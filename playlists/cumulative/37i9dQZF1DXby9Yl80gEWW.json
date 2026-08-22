@@ -806,7 +806,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 256293,
       "name": "Bozeman - Clawhammer Version",
       "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
@@ -1932,6 +1932,28 @@
       "duration_ms": 219370,
       "name": "Dalveen",
       "url": "https://open.spotify.com/track/79LUIzoeCaZDUFDMVJMRUN"
+    },
+    {
+      "album": {
+        "name": "Guitar Collection",
+        "url": "https://open.spotify.com/album/3ltZKEMroWCFxHkQExIzaC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Cassell",
+          "url": "https://open.spotify.com/artist/1axMbkG5DNnNEoJNURK9OL"
+        },
+        {
+          "name": "Jake Stargel",
+          "url": "https://open.spotify.com/artist/2gGZgboSNxFbVEqX9rkqEp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245146,
+      "name": "Dark Rider",
+      "url": "https://open.spotify.com/track/5peFatTldoUsVIOHjWtQTX"
     },
     {
       "album": {
@@ -4757,6 +4779,40 @@
     },
     {
       "album": {
+        "name": "Road Mode",
+        "url": "https://open.spotify.com/album/2cqK7iqcZdCqh3emzgNgxV"
+      },
+      "artists": [
+        {
+          "name": "Mr. Sun",
+          "url": "https://open.spotify.com/artist/4Wlui4zxadS5mmPOFbmd6u"
+        },
+        {
+          "name": "Darol Anger",
+          "url": "https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf"
+        },
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        },
+        {
+          "name": "Grant Gordy",
+          "url": "https://open.spotify.com/artist/4PEBfkLb0yruw3ki661c9q"
+        },
+        {
+          "name": "Aidan O'Donnell",
+          "url": "https://open.spotify.com/artist/0uSaXfjQdi2SrfzkTe32h0"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "Road Mode",
+      "url": "https://open.spotify.com/track/3oXtpqFucWUkXUmL36PNA0"
+    },
+    {
+      "album": {
         "name": "Plays Bill Monroe",
         "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
       },
@@ -4882,6 +4938,28 @@
       "duration_ms": 261333,
       "name": "Runnin' from the Weather",
       "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
+    },
+    {
+      "album": {
+        "name": "Froggy",
+        "url": "https://open.spotify.com/album/52vlHvDqL7bptUKo3QA47t"
+      },
+      "artists": [
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207671,
+      "name": "Sally Gooden",
+      "url": "https://open.spotify.com/track/3W3rGiXc1okyCK58w3GFBS"
     },
     {
       "album": {
@@ -5462,7 +5540,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 221706,
       "name": "Stoney Lonesome",
       "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"

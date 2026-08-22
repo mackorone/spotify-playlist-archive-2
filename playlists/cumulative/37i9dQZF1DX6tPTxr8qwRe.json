@@ -5556,7 +5556,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 168892,
       "name": "ENAMORED",
       "url": "https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b"
@@ -12859,6 +12859,24 @@
     },
     {
       "album": {
+        "name": "FROM THE GARDEN I GREW",
+        "url": "https://open.spotify.com/album/6Z51QzwpmKtDMAuxFndveT"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182819,
+      "name": "NOSTALGIA BABY",
+      "url": "https://open.spotify.com/track/3lfT9Id6tVOFqSWpJEnQZA"
+    },
+    {
+      "album": {
         "name": "Not Another Rockstar",
         "url": "https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn"
       },
@@ -15564,6 +15582,24 @@
       "duration_ms": 204928,
       "name": "Secret",
       "url": "https://open.spotify.com/track/2NQBAQiSOtHUKQnJdq53ej"
+    },
+    {
+      "album": {
+        "name": "SEDUCTIVE",
+        "url": "https://open.spotify.com/album/6ptfPyyIfY3Ll1VSeNx1aL"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "SEDUCTIVE",
+      "url": "https://open.spotify.com/track/1pk6Qo3Vzv4kUF81BxU4S5"
     },
     {
       "album": {

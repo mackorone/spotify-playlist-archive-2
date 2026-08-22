@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 125965,
+  "num_followers": 125979,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADdUMj7pc9J+++5SOYB6d8u",
+  "snapshot_id": "aoZDgAAAAABGevpts3JhsncCjz7fXiYx",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden Vol. II",
-        "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 217318,
-      "name": "Amargo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/61gYpH7WnkEc4lDVxjc4fm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A la Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/5jk2mKBw1wNaDuCHy0lwvz"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 186613,
       "name": "Tengo un Amor",
       "url": "https://open.spotify.com/track/7F0iPNyf2Zmxmu7r220B5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eden Vol. II",
+        "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 217318,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/61gYpH7WnkEc4lDVxjc4fm"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 186693,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql"
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
@@ -664,45 +664,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonando desde el Auditorio Nacional",
-        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 209416,
-      "name": "Sin Mirar Atr\u00e1s",
-      "url": "https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI"
+      "duration_ms": 186693,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql"
     },
     {
       "added_at": null,
@@ -727,6 +691,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 209416,
+      "name": "Sin Mirar Atr\u00e1s",
+      "url": "https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonando desde el Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ska Wars Monterrey",
         "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 205720,
       "name": "Breve Historia de Amor y una Mujer",
       "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "La Tregua",
+      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 214000,
       "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
       "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "La Tregua",
-      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+        "name": "Ska a La Carta, Vol.1",
+        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 212000,
-      "name": "No Puedo Ser Tu Amigo",
-      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
+      "duration_ms": 208826,
+      "name": "Nunca Digas Que No",
+      "url": "https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v"
     }
   ],
   "unique_name": "This Is Inspector",

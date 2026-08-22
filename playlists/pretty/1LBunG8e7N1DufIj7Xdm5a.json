@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJwO/PNzdW5NA9xLUcSx+JYETFaXbW",
+  "snapshot_id": "AAAJwh8CtWJAfXO88bDu6iZpWS+nByR4",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -77307,6 +77307,38 @@
       "duration_ms": 228000,
       "name": "Unbroken Legacy (fomo mode)",
       "url": "https://open.spotify.com/track/4rFgJ7BKtrIPjsTWn0v6ci"
+    },
+    {
+      "added_at": "2026-08-21 08:31:41",
+      "album": {
+        "name": "Das Spiel War Woanders",
+        "url": "https://open.spotify.com/album/1oFzw0MQGMu4hoE0gMncv0"
+      },
+      "artists": [
+        {
+          "name": "Rotfuchs",
+          "url": "https://open.spotify.com/artist/5jVVsL8gi9wV0bvdEqwGGY"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Das Spiel War Woanders",
+      "url": "https://open.spotify.com/track/1C2iLmHmjo5V8FfBrRNHWw"
+    },
+    {
+      "added_at": "2026-08-21 19:18:21",
+      "album": {
+        "name": "Tenfold The Blood",
+        "url": "https://open.spotify.com/album/4ef5s7ih5jPzf0hPOdpVT5"
+      },
+      "artists": [
+        {
+          "name": "Screams of Tranquility",
+          "url": "https://open.spotify.com/artist/0gin8Rgot6p6gKUBVEzw6s"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Tenfold The Blood",
+      "url": "https://open.spotify.com/track/0tkxA99Aw4l1e7KQHHj5lt"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Didn't Mean To Turn You On (with Rochelle Jordan)",
+        "url": "https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Didn't Mean To Turn You On - with Rochelle Jordan",
+      "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
+    },
+    {
+      "album": {
         "name": "Through The Wall",
         "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },

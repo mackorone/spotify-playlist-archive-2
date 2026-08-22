@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604451,
+  "num_followers": 604469,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIgwM0rSd688vQXbF9P4ypN5+fOF",
+  "snapshot_id": "AAAAAJPl8zBB1ZmuRANeFkZh0ACR4uh8",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:31",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Stare at the Sun",
-        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
+        "name": "Rejects",
+        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
       },
       "artists": [
         {
-          "name": "Makari",
-          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 172941,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
+      "duration_ms": 174634,
+      "name": "Rejects",
+      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Rejects",
-        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
+        "name": "Stare at the Sun",
+        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "Makari",
+          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
         }
       ],
-      "duration_ms": 174634,
-      "name": "Rejects",
-      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
+      "duration_ms": 172941,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "X's For Eyes",
-        "url": "https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "X\u2019s For Eyes",
-      "url": "https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "dyed (2008 - 2023)",
         "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 180959,
       "name": "don't light the match (dyed black 2010)",
       "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "X's For Eyes",
+        "url": "https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "X\u2019s For Eyes",
+      "url": "https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "That's So True",
+        "url": "https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4"
+      },
+      "artists": [
+        {
+          "name": "Jack The Underdog",
+          "url": "https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "That's So True",
+      "url": "https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "Incomplete",
         "url": "https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 216338,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "That's So True",
-        "url": "https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4"
-      },
-      "artists": [
-        {
-          "name": "Jack The Underdog",
-          "url": "https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "That's So True",
-      "url": "https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
-      },
-      "artists": [
-        {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
-        }
-      ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "INMYFEELINGS",
         "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 162281,
       "name": "I'M THE MAN (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+      },
+      "artists": [
+        {
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+        }
+      ],
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1659,26 +1659,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Forgive (feat. Joe Taylor)",
-        "url": "https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT"
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/24DUTjkvAU6WUd7vnxrPAk"
       },
       "artists": [
         {
-          "name": "Shoreline",
-          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
-        },
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        },
-        {
-          "name": "Joe Taylor",
-          "url": "https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN"
+          "name": "RODERIK",
+          "url": "https://open.spotify.com/artist/6ZWEU3cIwl4EdCVRaeLtZS"
         }
       ],
-      "duration_ms": 193912,
-      "name": "Forgive (feat. Joe Taylor)",
-      "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
+      "duration_ms": 185442,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/10A8idGyFoxYjRHlL08UGP"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

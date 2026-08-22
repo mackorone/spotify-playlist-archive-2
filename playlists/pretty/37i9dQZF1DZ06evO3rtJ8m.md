@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 
 > This is Big Thief\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,529 likes - 42 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,544 likes - 42 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 | 41 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 |
 | 42 | [Strange](https://open.spotify.com/track/0y8c74ezNCYou4FrX4xI8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:41 |
 
-Snapshot ID: `aoTyAAAAAACoVwuVkHKkUV1XunP4//Ga`
+Snapshot ID: `aoZDgAAAAAD7SPdW33yLJXVovYRh3NOU`

@@ -8181,6 +8181,24 @@
     },
     {
       "album": {
+        "name": "Anywhere but Here",
+        "url": "https://open.spotify.com/album/2fG1dgPs5HnrsoONBXSPk0"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142697,
+      "name": "Anywhere but Here",
+      "url": "https://open.spotify.com/track/5S5FV5JViLL5O5KsZ2PdKx"
+    },
+    {
+      "album": {
         "name": "Apollo 2",
         "url": "https://open.spotify.com/album/2Kj3oCQGUqoxz54xxLrhqq"
       },
@@ -120322,6 +120340,36 @@
     {
       "album": {
         "name": "Stay",
+        "url": "https://open.spotify.com/album/1wcz08GFodbFG5bapoXppR"
+      },
+      "artists": [
+        {
+          "name": "GOBAITH",
+          "url": "https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Helionyx",
+          "url": "https://open.spotify.com/artist/2uo8DWCuQZL5z2JrKRMmgt"
+        },
+        {
+          "name": "DOOTS",
+          "url": "https://open.spotify.com/artist/29zsjJwamkeghe3CLdjheW"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3CSOoLY6Hj8tI2igRkK9f9"
+    },
+    {
+      "album": {
+        "name": "Stay",
         "url": "https://open.spotify.com/album/5KQGOhqQ0xjBb737Kq19tF"
       },
       "artists": [
@@ -133486,42 +133534,6 @@
       "duration_ms": 162580,
       "name": "Toxic Symphony",
       "url": "https://open.spotify.com/track/5sf7RuZBQftrEfrK76uiGx"
-    },
-    {
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1wcz08GFodbFG5bapoXppR"
-      },
-      "artists": [
-        {
-          "name": "GOBAITH",
-          "url": "https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3CSOoLY6Hj8tI2igRkK9f9"
-    },
-    {
-      "album": {
-        "name": "Anywhere but Here",
-        "url": "https://open.spotify.com/album/2fG1dgPs5HnrsoONBXSPk0"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/5S5FV5JViLL5O5KsZ2PdKx"
     },
     {
       "album": {

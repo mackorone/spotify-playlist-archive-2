@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11625,
+  "num_followers": 11626,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABz0BIPxRPrYj8kxIljjmL4",
+  "snapshot_id": "aoZDgAAAAACRGKLlpOKTurGSM2zRGQkZ",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Megan Richards",
+          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
+        }
+      ],
+      "duration_ms": 128556,
+      "name": "This Wandering Day",
+      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 139988,
       "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
       "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Megan Richards",
-          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
-        }
-      ],
-      "duration_ms": 128556,
-      "name": "This Wandering Day",
-      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
     },
     {
       "added_at": null,
@@ -535,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 369640,
-      "name": "Ashes (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
+      "duration_ms": 209746,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
     },
     {
       "added_at": null,
@@ -591,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
+      "duration_ms": 369640,
+      "name": "Ashes (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Lullaby of the Giants (From \"God of War\" Soundtrack)",
-      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 219293,
       "name": "War Is Inevitable",
       "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Lullaby of the Giants (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Sons of Sparta (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -839,24 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Battlestar Galactica: Season 3 (Original Soundtrack) [Remastered]",
-        "url": "https://open.spotify.com/album/2s89jzS4wSxUdzZdhjTb8k"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/6u4j7iBlbnPv0QEmlpf3W8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Singularity: Ekleipsis",
-        "url": "https://open.spotify.com/album/5ZGIZYHEABTEKAwjCb6H8O"
+        "name": "God of War Sons of Sparta (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4"
       },
       "artists": [
         {
@@ -864,17 +828,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Claudio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/4Lod2RXS2KNH6yGa6wlfNj"
-        },
-        {
-          "name": "Tim Henson",
-          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         }
       ],
-      "duration_ms": 304975,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/6cFI0t1JhgOUxGTUvL8Zk6"
+      "duration_ms": 199274,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n"
     },
     {
       "added_at": null,
@@ -911,6 +871,46 @@
       "duration_ms": 546506,
       "name": "The Fiery Cross (feat. Griogair Labhruidh)",
       "url": "https://open.spotify.com/track/0iejrWjPMGrGNzQrGaEzrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Singularity: Ekleipsis",
+        "url": "https://open.spotify.com/album/5ZGIZYHEABTEKAwjCb6H8O"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Claudio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/4Lod2RXS2KNH6yGa6wlfNj"
+        },
+        {
+          "name": "Tim Henson",
+          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+        }
+      ],
+      "duration_ms": 304975,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/6cFI0t1JhgOUxGTUvL8Zk6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Battlestar Galactica: Season 3 (Original Soundtrack) [Remastered]",
+        "url": "https://open.spotify.com/album/2s89jzS4wSxUdzZdhjTb8k"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/6u4j7iBlbnPv0QEmlpf3W8"
     }
   ],
   "unique_name": "This Is Bear McCreary",

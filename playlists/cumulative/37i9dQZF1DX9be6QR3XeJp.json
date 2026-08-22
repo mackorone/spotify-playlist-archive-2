@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: DJ Jackum",
+  "description": "Discover your new favourite artists from UK&IE. Cover: CARI",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -5916,6 +5916,24 @@
       "duration_ms": 192786,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/4UFMLGiIizvKZYrHuGTflS"
+    },
+    {
+      "album": {
+        "name": "The Dealer",
+        "url": "https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189371,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy"
     },
     {
       "album": {

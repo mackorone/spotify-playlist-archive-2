@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,023 likes - 290 songs - 15 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,070 likes - 290 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,7 +261,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 251 | [19 Underground](https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Ore](https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK) | 3:08 |
 | 252 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 |
 | 253 | [MONEY IN THE BANK](https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [MONEY IN THE BANK](https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a) | 2:12 |
-| 254 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
+| 254 | [Dracula \(with JENNIE\)](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(with JENNIE\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 255 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
 | 256 | [DON'T LOVE ME](https://open.spotify.com/track/3JTKIKcLjpteIOQ1M5d5nm) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/7wOSqpCqcAd6CEns2C9onZ) | 3:01 |
 | 257 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 289 | [last man standing – lauren’s version](https://open.spotify.com/track/0VgwfJanW8QjhJ7f0EdFsA) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [last man standing – lauren’s version](https://open.spotify.com/album/0jS3L39Cq4qz8dJApN2Eb5) | 3:35 |
 | 290 | [peach](https://open.spotify.com/track/1lBi4AcyxeJyoe8Qhx4Hye) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [peach](https://open.spotify.com/album/6ea02No4KgESvZYXEp1RVH) | 2:19 |
 
-Snapshot ID: `AAAAANis4sK7AUTjMmHX+odWRLTHm9dI`
+Snapshot ID: `AAAAAOqKqU6ZZM5TgEZsXpIFdN5OIYsT`

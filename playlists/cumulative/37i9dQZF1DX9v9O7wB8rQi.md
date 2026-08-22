@@ -4,7 +4,7 @@
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived! ©S,IG/K/2045
 
-62 songs - 4 hr 34 min
+63 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [living inside the shell](https://open.spotify.com/track/4ha5wTSaszwXq4xRmXcGIC) | [Steve Conte](https://open.spotify.com/artist/5Uxss6P1MI2lX9vHvK76zK), [Shanti Snyder](https://open.spotify.com/artist/5D2CrBzmGv6eQnUcVLdNav) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 6:24 | 2022-05-31 |  |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-31 |  |
 | [player](https://open.spotify.com/track/6V7zJOoCyx2LUECNqYFrhQ) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [Heartsdales](https://open.spotify.com/artist/6GM1DqK9x30pjn3tPAZpgT) | [攻殻機動隊 S.A.C\. Solid State Society　O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:42 | 2022-05-31 |  |
+| [po\-ai feat\. Mirai Moriyama](https://open.spotify.com/track/3QaKwZt5c1EK0DaUqkr7N3) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH), [Mirai Moriyama](https://open.spotify.com/artist/510z2RL7VI7kusI6amRaPq) | [po\-ai feat\. Mirai Moriyama](https://open.spotify.com/album/0NLOU5Ig2OGAxxJwRqCPb4) | 3:38 | 2026-08-21 |  |
 | [replica](https://open.spotify.com/track/0TrRIlfaTzdsgG90fSsTzr) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society　O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:23 | 2022-05-31 |  |
 | [rise](https://open.spotify.com/track/2Uyz4r0IwXlZIVbkTEASPk) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 5:28 | 2022-05-31 |  |
 | [run rabbit junk](https://open.spotify.com/track/4H7FikhoNx5bmlWstG1mgi) | [hide](https://open.spotify.com/artist/62ronp2f2shNZB1VIbqxmP) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.＋](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 4:32 | 2022-05-31 |  |

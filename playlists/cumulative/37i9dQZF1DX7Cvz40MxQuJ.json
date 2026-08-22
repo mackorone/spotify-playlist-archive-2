@@ -1301,6 +1301,28 @@
     },
     {
       "album": {
+        "name": "Einaudi: Primavera (Arr. for Harp by Danielle Riegel)",
+        "url": "https://open.spotify.com/album/1jqPIuZbWVjg3CmOKaLQk2"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Danielle Riegel",
+          "url": "https://open.spotify.com/artist/6YwazYlAPBhs23Upn0AqhE"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413426,
+      "name": "Primavera (Arr. for Harp by Danielle Riegel)",
+      "url": "https://open.spotify.com/track/6f0xhMM3pteGeBz6VfM7lr"
+    },
+    {
+      "album": {
         "name": "Alla Hornpipe. Beethoven: Choral Symphony - Handel: Water Music & Ombra mai fu - Wagner: Lohengrin & Tristan und Isolde - Mozart: Ave verum & Requiem - Berlioz: Symphonie fantastique",
         "url": "https://open.spotify.com/album/0YiMRHbi21Q97VCexovU0W"
       },
@@ -1622,6 +1644,24 @@
       "duration_ms": 233994,
       "name": "Soliloquies on 3 Welsh Folk Songs: No. 2, Suo g\u00e2n",
       "url": "https://open.spotify.com/track/7sMvYO5Ewgmsd4f9pX01ig"
+    },
+    {
+      "album": {
+        "name": "Spiritus sanctus vivificans (Arr. Lawson)",
+        "url": "https://open.spotify.com/album/4ZWbF7peCSjtOqPwdnzzi4"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "Spiritus sanctus vivificans (Arr. Lawson)",
+      "url": "https://open.spotify.com/track/4lOm6GVytwDd3VJm4vEOyu"
     },
     {
       "album": {

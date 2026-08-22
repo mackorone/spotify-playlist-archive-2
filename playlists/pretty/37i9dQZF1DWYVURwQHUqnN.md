@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Gradur
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,451 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,400 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 59 | [Trophée](https://open.spotify.com/track/3id6cTerbJqoX59IkjmQwN) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [ADRÉNALINE, LA RÉÉDITION](https://open.spotify.com/album/3faKicSICUWfcc1RRuy0xZ) | 3:06 |
 | 60 | [CHETOU](https://open.spotify.com/track/1jbwN9AZtCyct4pWOuDUhL) | [Black Cat](https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU), [JKDM](https://open.spotify.com/artist/1ZnkQoMIqX3MOMYju1boa5) | [CHETOU](https://open.spotify.com/album/4Z7mcih5os6vGp9Wa4xfdG) | 2:48 |
 
-Snapshot ID: `AAAAANH1BK+oiNoOayDY2ImpwdR1kFCS`
+Snapshot ID: `AAAAANvYIdxYq7FcBQn+lZvIADX2bmMQ`

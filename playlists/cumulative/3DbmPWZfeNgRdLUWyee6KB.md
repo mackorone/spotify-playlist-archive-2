@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,408 songs - 3 day 9 hr 53 min
+1,409 songs - 3 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Explore \(Me\)](https://open.spotify.com/track/0QlgCZaQDT2St7r0iA21Ks) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [Explore \(Me\)](https://open.spotify.com/album/76JOPtgekvZZM2Ym7YPy5A) | 3:22 | 2026-08-03 |  |
 | [EXTAZY éternelle](https://open.spotify.com/track/0lUc5uQa1zlVWkEA83xG9o) | [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12), [MO](https://open.spotify.com/artist/6efZkPMkmkcZDYzz25OYXf) | [EXTAZY éternelle](https://open.spotify.com/album/4a86a5ldY19ncl7gabN3Ju) | 4:10 | 2026-05-14 |  |
 | [Extra Juicy](https://open.spotify.com/track/5pjXk1yt9rxwt2G6phJX2U) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Extra Juicy](https://open.spotify.com/album/7foyhwKtR2A6JrPM7ppeYT) | 3:14 | 2026-03-16 | 2026-04-12 |
+| [Eyes Like Robin Eggs](https://open.spotify.com/track/5tMGSuQIlHud3aumM4JHwH) | [Harlem Night](https://open.spotify.com/artist/5eEP76MIZe73OshBV05bNd) | [Eyes Like Robin Eggs](https://open.spotify.com/album/4Cd2KxHQL6ixCD5tI9vGQp) | 3:07 | 2026-08-21 |  |
 | [Fade \- Remix](https://open.spotify.com/track/376ImRIk78DYFiY03n7s8L) | [GRAMZ NFT](https://open.spotify.com/artist/2W3A0iYZ114bkHssTcl3Cr) | [Blues & Rhythms](https://open.spotify.com/album/7w3z8FgUCAoXFLtGUHHcVG) | 2:47 | 2026-04-16 | 2026-05-14 |
 | [Fading Into You](https://open.spotify.com/track/5VPBujeOcYZ6SJ50pbXZiv) | [Reyzalla](https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE) | [Fading Into You](https://open.spotify.com/album/5uFWFE43KS6GIwCoaFdWnM) | 3:27 | 2026-03-11 | 2026-04-12 |
 | [Falling in Love](https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling in Love](https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq) | 2:45 | 2025-12-09 | 2026-01-05 |

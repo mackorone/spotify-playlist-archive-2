@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Fally Ipupa.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton HARON.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 153333,
       "name": "20 MILLIONS",
       "url": "https://open.spotify.com/track/5kxSwTQQLutunmQINplAPt"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 179551,
       "name": "Be my Valentine ?",
       "url": "https://open.spotify.com/track/37L3bmbVtltbI1ANN7dVWF"
@@ -1932,6 +1932,46 @@
       "duration_ms": 198200,
       "name": "Bloqu\u00e9",
       "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
+    },
+    {
+      "album": {
+        "name": "BLOQU\u00c9",
+        "url": "https://open.spotify.com/album/2o6bJFAx9041j2AGP5VZpd"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107625,
+      "name": "BLOQU\u00c9",
+      "url": "https://open.spotify.com/track/3mhQMxC8kOuANTjHMBUnXZ"
+    },
+    {
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/6qrU2hCfC6rguDad15MZz4"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127152,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6yLd1r4dwmoTZV8hgm4Gbn"
     },
     {
       "album": {
@@ -14891,6 +14931,24 @@
     },
     {
       "album": {
+        "name": "TU VIS DE QUOI ?",
+        "url": "https://open.spotify.com/album/4dPjvb3xp6bZy198AuCoMD"
+      },
+      "artists": [
+        {
+          "name": "HARON",
+          "url": "https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137365,
+      "name": "TU VIS DE QUOI ?",
+      "url": "https://open.spotify.com/track/7MneYVu0lX2LTf1yZvNYuy"
+    },
+    {
+      "album": {
         "name": "T\u2019en fais pas",
         "url": "https://open.spotify.com/album/2mXk9109RmXJE4EWtbRT7r"
       },
@@ -15720,7 +15778,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 169302,
       "name": "\u00c7a Give",
       "url": "https://open.spotify.com/track/7bIDjJ2Xy1v5WMkgAAi73J"

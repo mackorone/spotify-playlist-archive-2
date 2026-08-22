@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Maribou State
 
-520 songs - 1 day 8 hr 32 min
+520 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [DIGITiSE](https://open.spotify.com/track/3BGWPMnHswMQh1OBXZ8qaf) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Pat Alvarez](https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp) | [DIGITiSE](https://open.spotify.com/album/3wgramFhznwdYSxucYuTQw) | 4:06 | 2026-06-25 | 2026-07-24 |
 | [Discotheque](https://open.spotify.com/track/1yRhh10n3BaaLCqGqanViI) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Discotheque](https://open.spotify.com/album/12XCd9YPgSOFOsCzw2PW04) | 6:45 | 2024-03-01 | 2025-01-17 |
 | [Distractions \- Edit](https://open.spotify.com/track/6FDnxADtwOPmBXk4P3jGid) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Distractions](https://open.spotify.com/album/7qreiiOotAmwHtw7JbesnX) | 2:26 | 2025-02-28 | 2025-05-30 |
+| [Do 4 U \- Haus Mix](https://open.spotify.com/track/4DwVynMf1J4HgqYi2VY2j0) | [Will Saul](https://open.spotify.com/artist/3qtVupTIjHwH8BLBZXog53), [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq), [Gilli.jpg](https://open.spotify.com/artist/6OdjyD5Ug7FtnkKAkB6j8a) | [Do 4 U](https://open.spotify.com/album/3KWi2Ru6vcTgPmMG5uXRq2) | 6:48 | 2026-08-20 |  |
 | [Do It Right](https://open.spotify.com/track/0revALbfswvbw3zURpu4eE) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Do It Right](https://open.spotify.com/album/4ZGhXqzoSNBnzvxRB2NALr) | 6:12 | 2026-02-13 | 2026-03-21 |
 | [Doctor Doctor \- The English Gentlemen Remix](https://open.spotify.com/track/0ksagd1vULVKoXgpw9rPiL) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The English Gentlemen](https://open.spotify.com/artist/1qhOgkoJKicmrmGa33mauL) | [Doctor Doctor \(The English Gentlemen Remix\)](https://open.spotify.com/album/26KMLMWDj5aX1WCNRm3ipz) | 6:16 | 2021-10-28 | 2024-04-12 |
 | [Doing Laps](https://open.spotify.com/track/5ZSYEtLHBxWMU3jrcE6fjV) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Doing Laps](https://open.spotify.com/album/0ycrYpfMe6nerYrsr1GhdZ) | 3:35 | 2026-02-13 | 2026-03-13 |
@@ -482,7 +483,6 @@
 | [Tonight In Belfast \- Edit](https://open.spotify.com/track/3Nc1xUyUx3tAXhylybt1u2) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL), [Mike Garry](https://open.spotify.com/artist/2TGg9f0CCX1rAR3S88o9yD), [DJ Helen](https://open.spotify.com/artist/0JXfuTC8TiERwGzMmTtNuZ) | [Tonight In Belfast](https://open.spotify.com/album/46vW0Y9s7hsr231fEZ7uz8) | 4:00 | 2024-02-02 | 2024-07-04 |
 | [Touch](https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Touch](https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm) | 3:41 | 2026-08-20 |  |
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2024-05-10 | 2025-02-14 |
-| [Track 1](https://open.spotify.com/track/4DwVynMf1J4HgqYi2VY2j0) | [Will Saul](https://open.spotify.com/artist/3qtVupTIjHwH8BLBZXog53) | [Do 4 U](https://open.spotify.com/album/3KWi2Ru6vcTgPmMG5uXRq2) | 0:00 | 2026-08-20 |  |
 | [Travel Light](https://open.spotify.com/track/37qLbAeOU3yhpLlD2gyTsp) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Travel Light](https://open.spotify.com/album/379snkOheodaVzhhsIruGz) | 3:53 | 2025-10-03 | 2025-11-06 |
 | [Tried So Hard](https://open.spotify.com/track/4r1xQ0GTLDXSYdKXme91bj) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5) | [Tried So Hard](https://open.spotify.com/album/4J0xQrJ6To6po0WpYQYgC4) | 4:37 | 2024-03-01 | 2024-07-19 |
 | [Trouble Symphony](https://open.spotify.com/track/6hu6bSo7Vsu4iv1zKvlCxJ) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Trouble Symphony](https://open.spotify.com/album/61bRPKGMbA5rsNOZAdmLos) | 3:56 | 2024-10-24 | 2025-07-11 |

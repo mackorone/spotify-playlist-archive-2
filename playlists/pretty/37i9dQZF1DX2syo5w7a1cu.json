@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s.",
-  "num_followers": 1910597,
+  "num_followers": 1911294,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB5QmiwUMV6HvuW81c4UYLeEGHVr",
+  "snapshot_id": "AAAAAO7v2EWCe7pPF8dIIcPmNk5oYotT",
   "tracks": [
     {
       "added_at": "2024-07-02 21:50:37",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Ten Summoner's Tales",
-        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 279226,
-      "name": "Shape Of My Heart",
-      "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 279506,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 279226,
+      "name": "Shape Of My Heart",
+      "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 384460,
-      "name": "Heal the World",
-      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 384460,
+      "name": "Heal the World",
+      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 344185,
-      "name": "Stranger in Moscow",
-      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Picture This (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 246240,
       "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
       "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 344185,
+      "name": "Stranger in Moscow",
+      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Celine Dion",
-        "url": "https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        },
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Beauty and the Beast - from the Soundtrack \"Beauty and the Beast\"",
-      "url": "https://open.spotify.com/track/7B3UAPLYAbwXVgbHSKEaTw"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 272893,
       "name": "When You Believe - from The Prince of Egypt",
       "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Celine Dion",
+        "url": "https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Beauty and the Beast - from the Soundtrack \"Beauty and the Beast\"",
+      "url": "https://open.spotify.com/track/7B3UAPLYAbwXVgbHSKEaTw"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
+        "name": "Great Expectations",
+        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
+      },
+      "artists": [
+        {
+          "name": "Tasmin Archer",
+          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Sleeping Satellite",
+      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Great Expectations",
-        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
       "artists": [
         {
-          "name": "Tasmin Archer",
-          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 281853,
-      "name": "Sleeping Satellite",
-      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
+      "duration_ms": 321360,
+      "name": "Take a Bow",
+      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1387,22 +1403,6 @@
       "duration_ms": 218133,
       "name": "Love Me For A Reason",
       "url": "https://open.spotify.com/track/2GBoo6ufWtMy1s6lqgbjJ8"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 321360,
-      "name": "Take a Bow",
-      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Tambu",
         "url": "https://open.spotify.com/album/6euMPZz8wRBQBf9U2W91Xw"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 365926,
       "name": "I Will Remember",
       "url": "https://open.spotify.com/track/1MzFmVDSl7Vm00f3Hw4Xfx"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "High On The Happy Side",
-        "url": "https://open.spotify.com/album/7spHvUWAZ6red1FZMN7pnW"
-      },
-      "artists": [
-        {
-          "name": "Wet Wet Wet",
-          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Goodnight Girl",
-      "url": "https://open.spotify.com/track/7GZim9NjDWBBzSOIqSd0Hp"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Come On Over (International Version)",
         "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 199200,
       "name": "You've Got A Way",
       "url": "https://open.spotify.com/track/3E714D9pZURRdgJ6iGhc8E"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "High On The Happy Side",
+        "url": "https://open.spotify.com/album/7spHvUWAZ6red1FZMN7pnW"
+      },
+      "artists": [
+        {
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Goodnight Girl",
+      "url": "https://open.spotify.com/track/7GZim9NjDWBBzSOIqSd0Hp"
     },
     {
       "added_at": "2024-07-02 21:50:37",

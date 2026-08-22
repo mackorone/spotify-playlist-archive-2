@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Honey Bxby and JID",
+  "description": "R&B of the moment by the artists of the future. Cover: Miles Caton",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -420,6 +420,24 @@
       "duration_ms": 196000,
       "name": "4U",
       "url": "https://open.spotify.com/track/14mz7m1gIzIIJgRCCO1X4O"
+    },
+    {
+      "album": {
+        "name": "I Fear...",
+        "url": "https://open.spotify.com/album/0oPXARC3mgiQNxiIb4GKF7"
+      },
+      "artists": [
+        {
+          "name": "SZN4",
+          "url": "https://open.spotify.com/artist/3aVcen0IJtz6svz8DVlpfc"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158916,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/15b6aqIGpDh7UZ2TNWaVap"
     },
     {
       "album": {
@@ -1326,6 +1344,24 @@
       "duration_ms": 160907,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/2jroBJH3oP3Ra6aWC5EDzJ"
+    },
+    {
+      "album": {
+        "name": "All Of The Above",
+        "url": "https://open.spotify.com/album/2Wgf5ztPg8rOcpB8sVCmf6"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210115,
+      "name": "All Of The Above",
+      "url": "https://open.spotify.com/track/3r5Jp1mEgZj7W5yX5NQ1BE"
     },
     {
       "album": {
@@ -3510,6 +3546,28 @@
       "duration_ms": 122033,
       "name": "Bet",
       "url": "https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961"
+    },
+    {
+      "album": {
+        "name": "Bet It Up",
+        "url": "https://open.spotify.com/album/1korh6ho4eMKNwPzsTzgSh"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "OMGKENNY",
+          "url": "https://open.spotify.com/artist/5T34n8lqqgWAoZUcCgnynj"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Bet It Up",
+      "url": "https://open.spotify.com/track/2XSYw7txCw1eCw0lH7o4jD"
     },
     {
       "album": {
@@ -6396,7 +6454,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 175862,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7sm7JLXCEVBtjiKCulOKxV"
@@ -7530,7 +7588,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 104070,
       "name": "Cry On You",
       "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
@@ -8660,7 +8718,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 194648,
       "name": "Does She Know",
       "url": "https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd"
@@ -15047,6 +15105,24 @@
     },
     {
       "album": {
+        "name": "HONEYMOON",
+        "url": "https://open.spotify.com/album/2MB8L7pWjQ99nF9If8JTmY"
+      },
+      "artists": [
+        {
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "HONEYMOON",
+      "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
+    },
+    {
+      "album": {
         "name": "Heartbreak Therapy",
         "url": "https://open.spotify.com/album/0UAiwta8WdzuvCRy6bRWnM"
       },
@@ -15740,7 +15816,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 154666,
       "name": "I LOVE YOUR BODY",
       "url": "https://open.spotify.com/track/1wWJmkrJi5IaNb2512YEcF"
@@ -15856,7 +15932,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 214390,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/3TAp8qfC53qxlzES7ndQ9I"
@@ -18233,6 +18309,24 @@
     },
     {
       "album": {
+        "name": "Lean On",
+        "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
+      },
+      "artists": [
+        {
+          "name": "Miles Caton",
+          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -18516,7 +18610,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 166825,
       "name": "Let's Talk",
       "url": "https://open.spotify.com/track/6z0JUGjnqG1Ge4BfL50Y6D"
@@ -22407,6 +22501,24 @@
     },
     {
       "album": {
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168302,
+      "name": "NO MORE",
+      "url": "https://open.spotify.com/track/7I7sp3NMMwIkcQTdwQLoAF"
+    },
+    {
+      "album": {
         "name": "No More Maybes (feat. Bibi Bourelly & India Shawn)",
         "url": "https://open.spotify.com/album/5foVF96o1WhMDI29PJ2jyf"
       },
@@ -25356,7 +25468,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 166463,
       "name": "Pretty Girl Dangerous",
       "url": "https://open.spotify.com/track/64HkZmyofXmEbSuSea8CD1"
@@ -25789,6 +25901,28 @@
     },
     {
       "album": {
+        "name": "A Girl Like Me (Deluxe)",
+        "url": "https://open.spotify.com/album/6lMHe3UikCaFP12WOZ4aKg"
+      },
+      "artists": [
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182001,
+      "name": "Radio Love (with Fetty Wap)",
+      "url": "https://open.spotify.com/track/6LH62RZ3iXMoCTx6E3hOlp"
+    },
+    {
+      "album": {
         "name": "Rain in July / Be the One",
         "url": "https://open.spotify.com/album/17Ojha2ZRJ6Tb09MxKiAdg"
       },
@@ -25800,7 +25934,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 180070,
       "name": "Rain in July",
       "url": "https://open.spotify.com/track/6X0LNm1ghLO4iKX3HjH26N"
@@ -26342,7 +26476,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 139628,
       "name": "Relieve You",
       "url": "https://open.spotify.com/track/1EU3lVLX8tA8csI9ScKVaK"
@@ -26940,6 +27074,24 @@
       "duration_ms": 150000,
       "name": "Rollin",
       "url": "https://open.spotify.com/track/6dGxIEg9Cw0F8ayAarlX43"
+    },
+    {
+      "album": {
+        "name": "Rollin",
+        "url": "https://open.spotify.com/album/6VKyO8jcuvLJRtXBd9btgs"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127202,
+      "name": "Rollin",
+      "url": "https://open.spotify.com/track/4zvrGKI2UesVMfooZuLbDL"
     },
     {
       "album": {
@@ -29437,6 +29589,24 @@
     },
     {
       "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "SPEECHLESS",
+      "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"
+    },
+    {
+      "album": {
         "name": "HIATUS",
         "url": "https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE"
       },
@@ -30462,6 +30632,24 @@
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/7sqKPPSgk2wvpm0Sr5FLHv"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168279,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2c1JvWrJI8vQN89BcnKVtg"
     },
     {
       "album": {

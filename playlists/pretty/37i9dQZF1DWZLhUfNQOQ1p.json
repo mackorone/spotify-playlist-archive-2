@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252783,
+  "num_followers": 252865,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGG7s7RBleD8wjs6/4zLGJR6rWuR",
+  "snapshot_id": "AAAAAB/ZyT4cO8KQDsDk4K7kNfaw/Yp9",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:55",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+      "duration_ms": 150374,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH"
     },
     {
       "added_at": "2026-07-30 22:02:55",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo"
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
       },
       "artists": [
         {
-          "name": "Lazare",
-          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 150374,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH"
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2026-07-30 22:02:55",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+    },
+    {
+      "added_at": "2026-07-30 22:02:55",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
-    },
-    {
-      "added_at": "2026-07-30 22:02:55",
-      "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2026-07-30 22:02:55",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "Blackpool Boulevard",
-        "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        },
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 215768,
-      "name": "Blackpool Boulevard - Edit",
-      "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
-    },
-    {
-      "added_at": "2026-07-30 22:02:55",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
       },
@@ -1207,6 +1187,26 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
+        "name": "Blackpool Boulevard",
+        "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 215768,
+      "name": "Blackpool Boulevard - Edit",
+      "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
+    },
+    {
+      "added_at": "2026-07-30 22:02:55",
+      "album": {
         "name": "L.I.F.E",
         "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "Cyclorama",
-        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
-    },
-    {
-      "added_at": "2026-07-30 22:02:55",
-      "album": {
         "name": "Ithaque",
         "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 189026,
       "name": "Ithaque",
       "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
+    },
+    {
+      "added_at": "2026-07-30 22:02:55",
+      "album": {
+        "name": "Cyclorama",
+        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
     },
     {
       "added_at": "2026-07-30 22:02:55",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
-    },
-    {
-      "added_at": "2026-07-30 22:02:55",
-      "album": {
         "name": "Everything Eventually Ends",
         "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 177280,
       "name": "Everything Eventually Ends",
       "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2026-07-30 22:02:55",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
     },
     {
       "added_at": "2026-07-30 22:02:55",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2026-07-30 22:02:55",
-      "album": {
         "name": "Jazz Club After Hours",
         "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2026-07-30 22:02:55",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2026-07-30 22:02:55",
@@ -1543,8 +1543,8 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "Maitri",
-        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
+        "name": "Jazz Feel",
+        "url": "https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp"
       },
       "artists": [
         {
@@ -1552,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
         }
       ],
-      "duration_ms": 177391,
-      "name": "Maitri",
-      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
+      "duration_ms": 154576,
+      "name": "Jazz Feel",
+      "url": "https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC"
     },
     {
       "added_at": "2026-07-30 22:02:55",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "Chica",
-        "url": "https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi"
-      },
-      "artists": [
-        {
-          "name": "NUZZLE",
-          "url": "https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa"
-        },
-        {
-          "name": "Chicca Leaf",
-          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
-        }
-      ],
-      "duration_ms": 130393,
-      "name": "Chica",
-      "url": "https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi"
-    },
-    {
-      "added_at": "2026-07-30 22:02:55",
-      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 193032,
       "name": "Salve",
       "url": "https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1"
+    },
+    {
+      "added_at": "2026-07-30 22:02:55",
+      "album": {
+        "name": "Chica",
+        "url": "https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi"
+      },
+      "artists": [
+        {
+          "name": "NUZZLE",
+          "url": "https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa"
+        },
+        {
+          "name": "Chicca Leaf",
+          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
+        }
+      ],
+      "duration_ms": 130393,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi"
     },
     {
       "added_at": "2026-07-30 22:02:55",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "I Did You Wrong",
-        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "I Did You Wrong",
-      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
-    },
-    {
-      "added_at": "2026-07-30 22:02:55",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1735,8 +1719,24 @@
     {
       "added_at": "2026-07-30 22:02:55",
       "album": {
-        "name": "Jazz Feel",
-        "url": "https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp"
+        "name": "I Did You Wrong",
+        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "I Did You Wrong",
+      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
+    },
+    {
+      "added_at": "2026-07-30 22:02:55",
+      "album": {
+        "name": "Maitri",
+        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
       },
       "artists": [
         {
@@ -1744,9 +1744,9 @@
           "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
         }
       ],
-      "duration_ms": 154576,
-      "name": "Jazz Feel",
-      "url": "https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC"
+      "duration_ms": 177391,
+      "name": "Maitri",
+      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
     },
     {
       "added_at": "2026-07-30 22:02:55",

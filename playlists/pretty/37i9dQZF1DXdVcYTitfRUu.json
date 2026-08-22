@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 16620,
+  "num_followers": 16622,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCMKcdC23B1f/NVFEXS0gk3XISj",
+  "snapshot_id": "AAAAAIQ+s5SgPspsG+cZElBasxg6mB6O",
   "tracks": [
     {
       "added_at": "2026-07-29 04:31:51",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "Rhapsody of Sadness",
-        "url": "https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Hyun",
-          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
-        }
-      ],
-      "duration_ms": 235120,
-      "name": "Rhapsody of Sadness",
-      "url": "https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 158733,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
+        "name": "Rhapsody of Sadness",
+        "url": "https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+        }
+      ],
+      "duration_ms": 235120,
+      "name": "Rhapsody of Sadness",
+      "url": "https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -875,22 +875,18 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "Dear.J",
-        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Dear.J (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
+      "duration_ms": 257026,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -911,6 +907,26 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
+        "name": "Dear.J",
+        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Dear.J (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
         "name": "Because I Don't Love You",
         "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 223826,
       "name": "Because I Don't Love You",
       "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "A Day",
-      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
         "name": "WSG WANNABE 1st Album",
         "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 207866,
       "name": "I Missed You",
       "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
+        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "A Day",
+      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
     },
     {
       "added_at": "2026-07-29 04:31:51",

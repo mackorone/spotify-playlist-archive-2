@@ -1,12 +1,12 @@
 {
   "description": "Laisse go.",
-  "num_followers": 91230,
+  "num_followers": 91247,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANXyvhvc4Jns00qohQICnDKmLedr",
+  "snapshot_id": "AAAAAC1Qy9uqdPu2tN0yrE2CFofzGN8H",
   "tracks": [
     {
       "added_at": "2026-06-01 14:22:07",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-06-01 14:22:07",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
-    },
-    {
-      "added_at": "2026-06-01 14:22:07",
-      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m"
+    },
+    {
+      "added_at": "2026-06-01 14:22:07",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
     },
     {
       "added_at": "2026-06-01 14:22:07",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-06-01 14:22:07",
       "album": {
-        "name": "Black Ice",
-        "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 260124,
-      "name": "Rock N Roll Train",
-      "url": "https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag"
-    },
-    {
-      "added_at": "2026-06-01 14:22:07",
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 211733,
       "name": "Around the Fur",
       "url": "https://open.spotify.com/track/3Fwe3XoPOiyWUPYdBKMTqV"
+    },
+    {
+      "added_at": "2026-06-01 14:22:07",
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 260124,
+      "name": "Rock N Roll Train",
+      "url": "https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag"
     },
     {
       "added_at": "2026-06-01 14:22:07",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-06-01 14:22:07",
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Underclass Hero",
-      "url": "https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC"
-    },
-    {
-      "added_at": "2026-06-01 14:22:07",
-      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 198386,
       "name": "First It Giveth",
       "url": "https://open.spotify.com/track/0UEMTz9APWfoJHdlXDeIzm"
+    },
+    {
+      "added_at": "2026-06-01 14:22:07",
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Underclass Hero",
+      "url": "https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC"
     },
     {
       "added_at": "2026-06-01 14:22:07",

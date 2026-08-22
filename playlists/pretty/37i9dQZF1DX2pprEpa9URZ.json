@@ -1,12 +1,12 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 916938,
+  "num_followers": 917041,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANR6+AsQYkWSYejspfRg8lg4x5YK",
+  "snapshot_id": "AAAAAJfJAm84b1lKUdYuX8iJu2PcSlaU",
   "tracks": [
     {
       "added_at": "2026-08-17 10:14:47",
@@ -183,6 +183,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/2eSDpMFSB9UmWGOa9tzcC4"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
         "name": "Objetos enterrados",
         "url": "https://open.spotify.com/album/6bzxe3foKkJVAuZsFkPdRk"
       },
@@ -231,6 +231,26 @@
       "duration_ms": 290969,
       "name": "Objetos enterrados",
       "url": "https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -291,26 +311,6 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Kamwana",
-        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
-      },
-      "artists": [
-        {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 152975,
-      "name": "Kamwana",
-      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
         "name": "Akenza",
         "url": "https://open.spotify.com/album/3UHmB0lFBUwSdsP65b8qcH"
       },
@@ -351,6 +351,26 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
+        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
+      },
+      "artists": [
+        {
+          "name": "David Rausch",
+          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
+        },
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 431565,
+      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
+      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Miss That (Major League DJz & Piero Farho Remix)",
         "url": "https://open.spotify.com/album/3ZfqTXWUvQNlVCXhmVdOlv"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 358000,
       "name": "Miss That (Major League DJz & Piero Farho Remix)",
       "url": "https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
-        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
-      },
-      "artists": [
-        {
-          "name": "David Rausch",
-          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
-        },
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 431565,
-      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
-      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -447,6 +447,30 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Impatient / You Never Know",
+        "url": "https://open.spotify.com/album/1kxva46pNeTihCqGPVsZAG"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "kisskisskiss",
+          "url": "https://open.spotify.com/artist/4kFYgZQnrpzPPad5B5eLA3"
+        }
+      ],
+      "duration_ms": 213196,
+      "name": "Impatient",
+      "url": "https://open.spotify.com/track/7hRFu8gdtmYz0zX19fRRK9"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "I See The Sun",
         "url": "https://open.spotify.com/album/4etM1UCLaOIDvemwbX1x3w"
       },
@@ -487,30 +511,6 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Impatient / You Never Know",
-        "url": "https://open.spotify.com/album/1kxva46pNeTihCqGPVsZAG"
-      },
-      "artists": [
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        },
-        {
-          "name": "kisskisskiss",
-          "url": "https://open.spotify.com/artist/4kFYgZQnrpzPPad5B5eLA3"
-        }
-      ],
-      "duration_ms": 213196,
-      "name": "Impatient",
-      "url": "https://open.spotify.com/track/7hRFu8gdtmYz0zX19fRRK9"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
         "name": "Boho",
         "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
       },
       "artists": [
         {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
         }
       ],
-      "duration_ms": 287500,
-      "name": "Writings",
-      "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Thierry",
-        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+        "name": "Above",
+        "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
       },
       "artists": [
         {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
         }
       ],
-      "duration_ms": 375652,
-      "name": "Thierry",
-      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
+      "duration_ms": 287500,
+      "name": "Writings",
+      "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Rummen",
+        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
+      },
+      "artists": [
+        {
+          "name": "Pulli & Chomba",
+          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
+        }
+      ],
+      "duration_ms": 466750,
+      "name": "Rummen",
+      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
       },
@@ -683,18 +699,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Rummen",
-        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
       "artists": [
         {
-          "name": "Pulli & Chomba",
-          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
         }
       ],
-      "duration_ms": 466750,
-      "name": "Rummen",
-      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -715,26 +735,6 @@
       "duration_ms": 342853,
       "name": "Karanfilce Devojce - PACHIRA Remix",
       "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
-      },
-      "artists": [
-        {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
-        },
-        {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Salaam",
         "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 286829,
       "name": "Salaam",
       "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "I Am Free",
         "url": "https://open.spotify.com/album/5tzqzDJhJ9bKuDY5xMUkLj"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
         "name": "Ancestry",
         "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
@@ -987,26 +987,6 @@
       "duration_ms": 294661,
       "name": "El Dolor",
       "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Liya Snin (Omerar Nanda Remix)",
-        "url": "https://open.spotify.com/album/3sh5SSAFAdbdkTtWSuhehz"
-      },
-      "artists": [
-        {
-          "name": "\u0178uma",
-          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
-        },
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 395851,
-      "name": "Liya Snin - Omerar Nanda Remix",
-      "url": "https://open.spotify.com/track/46uAfcDVMnD95lDGDfdb3n"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -1043,6 +1023,26 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
+        "name": "Liya Snin (Omerar Nanda Remix)",
+        "url": "https://open.spotify.com/album/3sh5SSAFAdbdkTtWSuhehz"
+      },
+      "artists": [
+        {
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
+        },
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 395851,
+      "name": "Liya Snin - Omerar Nanda Remix",
+      "url": "https://open.spotify.com/track/46uAfcDVMnD95lDGDfdb3n"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -1215,18 +1215,26 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+        "name": "Sagas of Iziki | Chapter 2",
+        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
       "artists": [
         {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
+        },
+        {
+          "name": "Emok",
+          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
+        },
+        {
+          "name": "Olith",
+          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
         }
       ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+      "duration_ms": 544250,
+      "name": "Osuga",
+      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -1255,26 +1263,18 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Sagas of Iziki | Chapter 2",
-        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
       },
       "artists": [
         {
-          "name": "Djuma Soundsystem",
-          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
-        },
-        {
-          "name": "Emok",
-          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
-        },
-        {
-          "name": "Olith",
-          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
         }
       ],
-      "duration_ms": 544250,
-      "name": "Osuga",
-      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        }
+      ],
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/3Cl07dg658G4zsCSKJNEae"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 400695,
       "name": "Tribal Rhythms",
       "url": "https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2026-08-17 10:14:47",

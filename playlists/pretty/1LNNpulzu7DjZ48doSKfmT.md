@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 382 songs - 19 hr 58 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 390 songs - 20 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -390,5 +390,13 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 380 | [Over and Over](https://open.spotify.com/track/0pz7gA2lZYFG2QgkvGee1b) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [Over and Over](https://open.spotify.com/album/4D7SVZNXbybYJwnv01i176) | 3:22 |
 | 381 | [Kiss & Ride](https://open.spotify.com/track/6Es8zUwiIuKGRlVzojHgNz) | [SCIALABADEI](https://open.spotify.com/artist/0hETC09dvKqqsNrhbqDNdT) | [Kiss & Ride](https://open.spotify.com/album/2s1897TRFFF6DhtGihxsvr) | 4:31 |
 | 382 | [Forever Young](https://open.spotify.com/track/3FO31MJ3vLS6Phgn7RMmny) | [Crispy Sounds](https://open.spotify.com/artist/2Mwu0Y0JYSk8ZrQBnXSifl) | [Forever Young](https://open.spotify.com/album/2NKvK2T5jX2Rsn7bMK8m42) | 3:05 |
+| 383 | [Girl, You Can Pick My Pockets..](https://open.spotify.com/track/3uBKf5jTfZ0Hy4BDlKnSFq) | [Truth Signal Beats.](https://open.spotify.com/artist/23PasEXWaoZ4bTkZr9hyhf) | [Girl, You Can Pick My Pockets..](https://open.spotify.com/album/3rhh5A20JEzoFmUxD6N5jk) | 3:19 |
+| 384 | [CAN'T GET OVER U \(Prod\. Josh, the Architect\)](https://open.spotify.com/track/6scK2h51obWd8QhoRiHuqW) | [Jamal.](https://open.spotify.com/artist/0eASNsoCfLP2a6KmasSfno), [BORJO](https://open.spotify.com/artist/6pr6YSHlpTawVEr87OeAEI), [MJ Ladd](https://open.spotify.com/artist/4cmS3PfHlpD4sIXEfWH4uR) | [neverending summer](https://open.spotify.com/album/49bcUrFY0OuLKHNlFKBsxW) | 3:17 |
+| 385 | [Moi Ludzie](https://open.spotify.com/track/5Srytg6YHoZcC5arQI9jfM) | [Czechu aka Krzyż](https://open.spotify.com/artist/0zf9cYYQAMndmoXCdmlBXB) | [Moi Ludzie](https://open.spotify.com/album/0gHjXPSsUYUTLmY05AgPXB) | 2:55 |
+| 386 | [Sunset](https://open.spotify.com/track/25yigcbpDETRqm6bdL9W0b) | [Siryuz](https://open.spotify.com/artist/6YuEKI4v4gIdz7a2ymMohB), [Smoky](https://open.spotify.com/artist/1554jaydsZ6HsqZNJQjm6E) | [Sunset](https://open.spotify.com/album/52SSl9oaIehieSR3Cn8rhE) | 2:39 |
+| 387 | [Let's Start It Over, That's What You Said in My Dreams](https://open.spotify.com/track/5MyZUjW43LldfdZFEOC3LG) | [Tom Ishizuka](https://open.spotify.com/artist/0eqRo2tB43csWnhKsWUCNS) | [Let's Start It Over, That's What You Said in My Dreams](https://open.spotify.com/album/5itpHjZki7CrKei3aQcUpn) | 3:48 |
+| 388 | [Corn City Anthem \(Agbado My Hood\)](https://open.spotify.com/track/36ttlbAaoA2kBOObU9c2zv) | [Tomiwa Black](https://open.spotify.com/artist/2yTD1uxUYxcty53X3lze09) | [Corn City Anthem \(Agbado My Hood\)](https://open.spotify.com/album/1M42Y2VL523xhgMPF8ZG5o) | 3:38 |
+| 389 | [Lonely Nights](https://open.spotify.com/track/0eSWrY6LoKafkMlYbVyazg) | [Kon](https://open.spotify.com/artist/0Bgp4Jbe1OEqrn24HVKj9b) | [Lonely Nights](https://open.spotify.com/album/0K6BQcpdYew4t3gjND1zLf) | 2:10 |
+| 390 | [We're Ok](https://open.spotify.com/track/02YKUMpXPdPd05IGpgcvtr) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [We're Ok](https://open.spotify.com/album/6D0q6dY0gC9c9tGKRYlQmp) | 2:56 |
 
-Snapshot ID: `AAAel3tvUxN4dXFbEzN//7vDSRK2d37i`
+Snapshot ID: `AAAen6ZFbHKR2DQLYg+rv0Q7K6y5P0zv`

@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45706,
+  "num_followers": 45713,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADgdpio6jdNvnlcJGju6xlp",
+  "snapshot_id": "aoZDgAAAAABDnv4kbiXuR843mJPR4yLT",
   "tracks": [
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00f3zalo (with Deorro)",
         "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
       },
@@ -975,26 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Most Winning",
-        "url": "https://open.spotify.com/album/0JTaJ6c4DJdF7VkWga0cty"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
       },
       "artists": [
-        {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 190312,
-      "name": "Discoteca - Deorro Remix",
-      "url": "https://open.spotify.com/track/5YZX840FQQuMpLFUXE9Cla"
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -1019,6 +995,30 @@
       "duration_ms": 229411,
       "name": "Dime",
       "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Most Winning",
+        "url": "https://open.spotify.com/album/0JTaJ6c4DJdF7VkWga0cty"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 190312,
+      "name": "Discoteca - Deorro Remix",
+      "url": "https://open.spotify.com/track/5YZX840FQQuMpLFUXE9Cla"
     },
     {
       "added_at": null,

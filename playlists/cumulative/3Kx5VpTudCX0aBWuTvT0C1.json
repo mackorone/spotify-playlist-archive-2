@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Strains (420 Deluxe EP)",
+        "url": "https://open.spotify.com/album/6DlliTyyxLxtiYZQy8aNys"
+      },
+      "artists": [
+        {
+          "name": "Space of a Day",
+          "url": "https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201841,
+      "name": "Future #1 - 2026 Remix",
+      "url": "https://open.spotify.com/track/7JzBGVfqflJK20PwDcxxmM"
+    },
+    {
+      "album": {
         "name": "Ghost Skin",
         "url": "https://open.spotify.com/album/3YHvKACYd2PHnmlwDZIlKw"
       },

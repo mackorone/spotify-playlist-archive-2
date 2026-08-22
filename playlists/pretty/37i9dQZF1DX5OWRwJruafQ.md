@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,483 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,549 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 93 | [Ban](https://open.spotify.com/track/79izTfIMSynG9BkQfbYlXh) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:52 |
 | 94 | [Malwa Marine](https://open.spotify.com/track/2WyuoNqRTZtJdK4Tmmhf5X) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Genesis](https://open.spotify.com/album/6YHC60k9beomffsmaPNADw) | 3:50 |
 | 95 | [Bhau Flow](https://open.spotify.com/track/0CfXLJr9A4qrcRkABEJM04) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manu](https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28) | [Bhau Flow](https://open.spotify.com/album/6pTLQrkzuIstrgimGY4SRD) | 2:05 |
-| 96 | [California](https://open.spotify.com/track/1SlT79Pmk6vTiyO8l7bEdB) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [California](https://open.spotify.com/album/73T4yFzSVGkDw9WeYsVZtN) | 2:48 |
+| 96 | [California](https://open.spotify.com/track/1SlT79Pmk6vTiyO8l7bEdB) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [California](https://open.spotify.com/album/73T4yFzSVGkDw9WeYsVZtN) | 2:48 |
 | 97 | [LUSH](https://open.spotify.com/track/3rXi5FsWRkyRcPVCqOb66A) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [ODYSSEY](https://open.spotify.com/album/4k6mvXJJgWRv1mPONFe0kv) | 3:23 |
 | 98 | [Badmash \- From "Dsp Dev 2"](https://open.spotify.com/track/2A2vDULe18wwg8E7AmYU0o) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Badmash \(From "Dsp Dev 2"\)](https://open.spotify.com/album/0rGtX0aiBfOahc0VDJhkPQ) | 2:30 |
 | 99 | [Agg](https://open.spotify.com/track/5q6w7VtiWgn2QM7hqbPKTN) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC) | [Agg](https://open.spotify.com/album/0Okv1CfnPJKMSlM9tey6IC) | 3:02 |
 | 100 | [Thinking](https://open.spotify.com/track/33R3qS9Gsq6ig289ZxiHFx) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [Thinking](https://open.spotify.com/album/2i5azk8pvUowCWqhRN1t4X) | 2:40 |
 
-Snapshot ID: `AAAAAAxdQrBCxuZTvIB9cd6ho1Hvj0kr`
+Snapshot ID: `AAAAAAur5/fo0vQGEr3fParq/3KlzqlC`

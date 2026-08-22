@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 88506,
+  "num_followers": 88514,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABpj/2kWCfB8UnXIQlO+wYy",
+  "snapshot_id": "aoZDgAAAAAB0nmZM4wfbcDggNXzURUf6",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drowning in the Sound",
-        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Drowning in the Sound",
-      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 226426,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drowning in the Sound",
+        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Drowning in the Sound",
+      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 281781,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 249653,
       "name": "The Ghost That's Haunting You",
       "url": "https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 281781,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
     },
     {
       "added_at": null,

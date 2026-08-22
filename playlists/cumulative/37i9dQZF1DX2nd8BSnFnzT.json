@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Bayside Kings",
+  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Selvagens \u00e0 Procura da Lei",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 192554,
       "name": "A NASCENTE",
       "url": "https://open.spotify.com/track/6bcFUcHsSV1N5ZNdY5y2HL"
@@ -2075,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Fugaz",
+        "url": "https://open.spotify.com/album/1tTkxbxuXD1Xfd6ueugrLR"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134262,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/66Y93qAv4PUv2DkE7ICP7x"
+    },
+    {
+      "album": {
         "name": "Ch\u00e1",
         "url": "https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg"
       },
@@ -2428,6 +2446,42 @@
       "duration_ms": 265652,
       "name": "Constru\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2cYgx1kkjk42oiSs6dEh50"
+    },
+    {
+      "album": {
+        "name": "conta an\u00f4nim@",
+        "url": "https://open.spotify.com/album/560M2Hd3c405X1Mkgn75lX"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176251,
+      "name": "conta an\u00f4nim@",
+      "url": "https://open.spotify.com/track/3eIgaIYNGpIHVvVZuCaNcM"
+    },
+    {
+      "album": {
+        "name": "Continental",
+        "url": "https://open.spotify.com/album/6odFB12JSFSvIF517Gj7Tc"
+      },
+      "artists": [
+        {
+          "name": "Black Pantera",
+          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/2dRRAPNvQV0scVkbdEKuWk"
     },
     {
       "album": {
@@ -4375,6 +4429,24 @@
     },
     {
       "album": {
+        "name": "Final de Tarde - Ao Vivo na Serra Ga\u00facha",
+        "url": "https://open.spotify.com/album/1cyrUX6SYvQ8a5n8TxjCOd"
+      },
+      "artists": [
+        {
+          "name": "Vera Loca",
+          "url": "https://open.spotify.com/artist/463Hk05MjkBYUyuB00luqt"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Final de Tarde - Ao Vivo na Serra Ga\u00facha",
+      "url": "https://open.spotify.com/track/5KD0qa6B0MhxBBCgSOP3al"
+    },
+    {
+      "album": {
         "name": "Acustico Dr. Sin 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/32CTgte5t5ckSGABbLOT2J"
       },
@@ -4646,7 +4718,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 297741,
       "name": "Frut\u00edfero",
       "url": "https://open.spotify.com/track/2SZ2QCsVtttTB4jNX9oOJX"
@@ -4950,7 +5022,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 228000,
       "name": "Helena",
       "url": "https://open.spotify.com/track/60uJAwRPVW7rmTY7lBO1CS"
@@ -4994,6 +5066,28 @@
       "duration_ms": 206933,
       "name": "Her\u00f3is",
       "url": "https://open.spotify.com/track/01OpgNtN21P2nqUMTkRwN0"
+    },
+    {
+      "album": {
+        "name": "PIVETE",
+        "url": "https://open.spotify.com/album/6SW9o0KoFo9VaX1WwJYFdf"
+      },
+      "artists": [
+        {
+          "name": "Selvagens \u00e0 Procura de Lei",
+          "url": "https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S"
+        },
+        {
+          "name": "Tat\u00e1 Aeroplano",
+          "url": "https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202118,
+      "name": "Hey Tat\u00e1!",
+      "url": "https://open.spotify.com/track/2z9FHdlDgBBZngliWljIkU"
     },
     {
       "album": {
@@ -8350,7 +8444,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213920,
       "name": "Os Calo",
       "url": "https://open.spotify.com/track/6S71HoKuRv0DkUseOwBWwl"
@@ -9222,7 +9316,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 203333,
       "name": "Potinho de Veneno",
       "url": "https://open.spotify.com/track/3smgMtxQbgUXzNCVxWaIeX"

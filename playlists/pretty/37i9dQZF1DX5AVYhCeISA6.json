@@ -1,12 +1,12 @@
 {
   "description": "KAROL G nos inspira \ud83c\udf3c",
-  "num_followers": 615469,
+  "num_followers": 615449,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFFZigEgTN2FpcUx9NnLTPJm+Jf4",
+  "snapshot_id": "AAAAAAOHD974JEmrM8KXwd/tET6q/0NJ",
   "tracks": [
     {
       "added_at": "2025-12-10 17:18:06",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-12-10 17:18:06",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/1rEsfHhBFTuTPekF8M5O3f"
-    },
-    {
-      "added_at": "2025-12-10 17:18:06",
-      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 276600,
       "name": "Con los A\u00f1os Que Me Quedan",
       "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    {
+      "added_at": "2025-12-10 17:18:06",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/1rEsfHhBFTuTPekF8M5O3f"
     },
     {
       "added_at": "2025-12-10 17:18:06",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-12-10 17:18:06",
       "album": {
-        "name": "Te Mata",
-        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Te Mata",
-      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
-    },
-    {
-      "added_at": "2025-12-10 17:18:06",
-      "album": {
         "name": "Otro Huev\u00f3n",
         "url": "https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 206480,
       "name": "Otro Huev\u00f3n",
       "url": "https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu"
+    },
+    {
+      "added_at": "2025-12-10 17:18:06",
+      "album": {
+        "name": "Te Mata",
+        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
       "added_at": "2025-12-10 17:18:06",

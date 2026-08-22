@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 116797,
+  "num_followers": 116805,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGw8erKldL3hfq2HnYOMiRmdBhbK",
+  "snapshot_id": "AAAAAO3sqbSXb78wA0p1W7Q2h1ot7FDM",
   "tracks": [
     {
       "added_at": "2026-07-30 22:01:19",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "Camino hacia la ruina",
+        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
+      },
+      "artists": [
+        {
+          "name": "Comando 9mm",
+          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "Amor frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Camino hacia la ruina",
-        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
-      },
-      "artists": [
-        {
-          "name": "Comando 9mm",
-          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Amor frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "La Hemos Cagao (Versi\u00f3n 2026)",
         "url": "https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
         "name": "Rico deprimido (XX5)",
         "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 148000,
       "name": "Ni Una Sola Palabra",
       "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Al Monte (En Directo Sala Nazca Madrid)",
-        "url": "https://open.spotify.com/album/4spYMKkgYXaeOPBCb5evIU"
-      },
-      "artists": [
-        {
-          "name": "Laura Dsk",
-          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
-        }
-      ],
-      "duration_ms": 202601,
-      "name": "Al Monte - En Directo Sala Nazca Madrid",
-      "url": "https://open.spotify.com/track/0Ul61jBXFqInNFaQgtZJa0"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -887,6 +871,22 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "Al Monte (En Directo Sala Nazca Madrid)",
+        "url": "https://open.spotify.com/album/4spYMKkgYXaeOPBCb5evIU"
+      },
+      "artists": [
+        {
+          "name": "Laura Dsk",
+          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
+        }
+      ],
+      "duration_ms": 202601,
+      "name": "Al Monte - En Directo Sala Nazca Madrid",
+      "url": "https://open.spotify.com/track/0Ul61jBXFqInNFaQgtZJa0"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "Sin Perd\u00f3n",
         "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 190980,
       "name": "Sin Perd\u00f3n",
       "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Basukristo",
-        "url": "https://open.spotify.com/album/4bYM6gWqnV1lxsUdh0Igus"
-      },
-      "artists": [
-        {
-          "name": "Gambas kon fimosis",
-          "url": "https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d"
-        }
-      ],
-      "duration_ms": 104727,
-      "name": "Abuelo con Peluca",
-      "url": "https://open.spotify.com/track/6H7Lxatf46hu7YosWVbmuq"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -935,6 +919,22 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "Basukristo",
+        "url": "https://open.spotify.com/album/4bYM6gWqnV1lxsUdh0Igus"
+      },
+      "artists": [
+        {
+          "name": "Gambas kon fimosis",
+          "url": "https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d"
+        }
+      ],
+      "duration_ms": 104727,
+      "name": "Abuelo con Peluca",
+      "url": "https://open.spotify.com/track/6H7Lxatf46hu7YosWVbmuq"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -947,26 +947,6 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "Morir\u00e1s Sin Nada",
-        "url": "https://open.spotify.com/album/74NVZLzYfhFEFC0mE4PsQh"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        },
-        {
-          "name": "Kutxi Romero",
-          "url": "https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY"
-        }
-      ],
-      "duration_ms": 219185,
-      "name": "Morir\u00e1s Sin Nada",
-      "url": "https://open.spotify.com/track/50OOpdpR1iITet4ZXt0BKP"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -999,6 +979,26 @@
       "duration_ms": 60510,
       "name": "No te atreves",
       "url": "https://open.spotify.com/track/26DQhrcaSnBzg256xbxnQf"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
+        "name": "Morir\u00e1s Sin Nada",
+        "url": "https://open.spotify.com/album/74NVZLzYfhFEFC0mE4PsQh"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        },
+        {
+          "name": "Kutxi Romero",
+          "url": "https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY"
+        }
+      ],
+      "duration_ms": 219185,
+      "name": "Morir\u00e1s Sin Nada",
+      "url": "https://open.spotify.com/track/50OOpdpR1iITet4ZXt0BKP"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
+        "name": "A Cara de Perro",
+        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Escupir\u00e9 Jodidos",
+      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2026-07-30 22:01:19",
       "album": {
-        "name": "Versos de Rabia",
-        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
-      },
-      "artists": [
-        {
-          "name": "Discordia",
-          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Ke Felicidad!",
-      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
         "name": "Arde Ribera",
         "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 249719,
       "name": "Kualkier D\u00eda",
       "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+    },
+    {
+      "added_at": "2026-07-30 22:01:19",
+      "album": {
+        "name": "Versos de Rabia",
+        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
+      },
+      "artists": [
+        {
+          "name": "Discordia",
+          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Ke Felicidad!",
+      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
     },
     {
       "added_at": "2026-07-30 22:01:19",
@@ -1479,22 +1495,6 @@
       "duration_ms": 183626,
       "name": "El Pa\u00eds de Alicia",
       "url": "https://open.spotify.com/track/4QAw1unWjQ1a2XMwGc06Ie"
-    },
-    {
-      "added_at": "2026-07-30 22:01:19",
-      "album": {
-        "name": "A Cara de Perro",
-        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Escupir\u00e9 Jodidos",
-      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
     },
     {
       "added_at": "2026-07-30 22:01:19",

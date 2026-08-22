@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Blessd & Jere Klein
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,955,923 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,955,758 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [NOTA](https://open.spotify.com/track/7zCBT5SUMOHkuUnTZHyNQC) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [NOTA](https://open.spotify.com/album/7AQ1vE4tY1dMceu9sTTyfO) | 2:47 |
 | 50 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
 
-Snapshot ID: `AAAAAPhf78rEYIm2FssESu8d6rqHGkVy`
+Snapshot ID: `AAAAAG6fkWslQOIaqxMMWJIooEHCAYOt`

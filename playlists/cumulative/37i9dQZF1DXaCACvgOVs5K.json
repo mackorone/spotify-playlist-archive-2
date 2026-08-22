@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "'Cause I Can",
+        "url": "https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187490,
+      "name": "'Cause I Can",
+      "url": "https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F"
+    },
+    {
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -11410,24 +11428,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "album": {
-        "name": "'Cause I Can",
-        "url": "https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F"
     },
     {
       "album": {

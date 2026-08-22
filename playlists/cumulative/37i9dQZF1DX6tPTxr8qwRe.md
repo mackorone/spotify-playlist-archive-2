@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- James the Seventh on the cover
 
-1,134 songs - 2 day 4 hr 28 min
+1,136 songs - 2 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-03 | 2025-10-25 |
 | [Emily](https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Much To Say](https://open.spotify.com/album/0BHG5a6UgUxxOFX9Dh51kc) | 2:35 | 2026-05-15 |  |
 | [empty room](https://open.spotify.com/track/6TxCqjdGbTCNFgReTltmCx) | [ETHAN](https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq) | [empty room](https://open.spotify.com/album/39cMECZ4POl2B8b6inBnLL) | 3:00 | 2025-08-22 | 2025-11-08 |
-| [ENAMORED](https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [ENAMORED](https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW) | 2:48 | 2026-06-12 |  |
+| [ENAMORED](https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [ENAMORED](https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW) | 2:48 | 2026-06-12 | 2026-08-22 |
 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 | 2022-11-11 | 2023-04-01 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-01 | 2022-10-01 |
 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-08 | 2024-03-23 |
@@ -709,6 +709,7 @@
 | [NO HANDS \(SIDE A\)](https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:17 | 2023-10-20 | 2024-03-26 |
 | [Noah](https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 2:39 | 2026-06-12 |  |
 | [Nosebleed](https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Nosebleed](https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7) | 2:13 | 2023-03-31 | 2023-12-09 |
+| [NOSTALGIA BABY](https://open.spotify.com/track/3lfT9Id6tVOFqSWpJEnQZA) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FROM THE GARDEN I GREW](https://open.spotify.com/album/6Z51QzwpmKtDMAuxFndveT) | 3:02 | 2026-08-21 |  |
 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 | 2022-10-07 | 2023-06-24 |
 | [not my problem](https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [not my problem](https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2) | 2:09 | 2023-01-27 | 2023-07-15 |
 | [Not to be Dramatic](https://open.spotify.com/track/5DfMuKnKjSCBJDL3CbRAet) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Not to be Dramatic](https://open.spotify.com/album/6lCyj2Uuh9n1J2oZ2rrVZw) | 2:50 | 2023-05-05 | 2023-09-09 |
@@ -855,6 +856,7 @@
 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 | 2024-09-20 | 2024-10-26 |
 | [Seasons](https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Seasons](https://open.spotify.com/album/2YxdLseWJW7VAz1jb3YPcI) | 2:43 | 2022-05-20 | 2022-09-17 |
 | [Secret](https://open.spotify.com/track/2NQBAQiSOtHUKQnJdq53ej) | [ADONA](https://open.spotify.com/artist/2O8CMGDnzYHpcZOSNVoLdQ) | [Secret](https://open.spotify.com/album/7xHid8JrycAYhJdfjWqfeJ) | 3:24 | 2022-08-05 | 2022-10-08 |
+| [SEDUCTIVE](https://open.spotify.com/track/1pk6Qo3Vzv4kUF81BxU4S5) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [SEDUCTIVE](https://open.spotify.com/album/6ptfPyyIfY3Ll1VSeNx1aL) | 3:04 | 2026-08-21 |  |
 | [See You In My Dreams](https://open.spotify.com/track/5yqsHTPNMjiZP8LO7ZgnDY) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF), [NOCTURN](https://open.spotify.com/artist/0U8NYuumNlHvaXwMAvu87K) | [See You In My Dreams](https://open.spotify.com/album/1pKVuSFvPP17CaqkSekcLQ) | 3:34 | 2022-12-23 | 2023-06-17 |
 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 | 2023-06-02 | 2024-04-06 |
 | [Self Dysmorphia](https://open.spotify.com/track/4XxNQ8VlWCDT6kEwWDuW4u) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Self Dysmorphia](https://open.spotify.com/album/5sXDpVJMW6f3nRzJSFGWoi) | 2:49 | 2022-11-18 | 2023-01-06 |

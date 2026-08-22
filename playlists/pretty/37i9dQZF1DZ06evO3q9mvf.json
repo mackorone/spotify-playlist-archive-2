@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABTbQJpyCsLhZIm338u8C/m",
+  "snapshot_id": "aoZDgAAAAABdrza0gc7JD7K4jDsMWBAA",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge of the Killer Slits",
-        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
+        "name": "Skateboard Punk Hits",
+        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Kill Them Wtih love",
-      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
+      "duration_ms": 212506,
+      "name": "Grapevine (Live)",
+      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revenge of the Killer Slits",
+        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Kill Them Wtih love",
+      "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Return of the Giant Slits",
         "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
       },
@@ -359,38 +375,6 @@
       "duration_ms": 267293,
       "name": "Improperly Dressed",
       "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skateboard Punk Hits",
-        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Grapevine (Live)",
-      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "Number One Enemy",
-      "url": "https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 134213,
+      "name": "Number One Enemy",
+      "url": "https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Return of the Giant Slits",
         "url": "https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 261853,
       "name": "Face Place",
       "url": "https://open.spotify.com/track/5b7PGHS5XOiLwWtg7voKJM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 146586,
-      "name": "Slime",
-      "url": "https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug"
     },
     {
       "added_at": null,
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 180786,
-      "name": "A Boring Life",
-      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
+      "duration_ms": 146586,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug"
     },
     {
       "added_at": null,
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 365293,
-      "name": "In The Beginning",
-      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
+      "duration_ms": 180786,
+      "name": "A Boring Life",
+      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 322786,
       "name": "Enemy Numero Uno (Live at The Gibus Club, 1978)",
       "url": "https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 365293,
+      "name": "In The Beginning",
+      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
     }
   ],
   "unique_name": "This Is The Slits",

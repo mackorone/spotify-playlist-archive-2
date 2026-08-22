@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 🚀 cover: beabadoobee
 
-1,129 songs - 2 day 9 hr 38 min
+1,130 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 | 2026-07-23 |  |
 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 | 2024-09-05 | 2024-10-09 |
 | [CRAVING CONNECTION !!!](https://open.spotify.com/track/45ZbuN78JBbOFGWvI2eHGT) | [Isabel](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [CRAVING CONNECTION !!!](https://open.spotify.com/album/3pNGHDlwF18dCw0WPAckYZ) | 3:14 | 2026-07-16 |  |
+| [Creepy](https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW) | [Soraya Cinema](https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9) | [Creepy](https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn) | 2:20 | 2026-08-21 |  |
 | [crickets!!!](https://open.spotify.com/track/5wFONkT1kjKdDVz9jePnRu) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [crickets!!!](https://open.spotify.com/album/7LvJPylY82V3nH6M7a5u8k) | 1:39 | 2025-07-17 | 2025-10-10 |
 | [Crocodile Woman](https://open.spotify.com/track/4UusBRHn8xwrFS9Uokutcz) | [Saam Sultan](https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93) | [Crocodile Woman](https://open.spotify.com/album/26r8iB0XKZCFtRPW4w20uh) | 4:26 | 2026-03-20 | 2026-05-08 |
 | [Cruel Lover](https://open.spotify.com/track/3Mh7mMOetadl22rdUBVbMQ) | [ARI LEE](https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7) | [Cruel Lover](https://open.spotify.com/album/2gjIgSUjNaXklJybK2hztB) | 2:27 | 2025-10-23 | 2026-02-06 |

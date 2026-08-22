@@ -4661,6 +4661,28 @@
     },
     {
       "album": {
+        "name": "Sula bassana",
+        "url": "https://open.spotify.com/album/1cvq1mlUEqgHkRQFpmx3AG"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163658,
+      "name": "Sula bassana - Excerpt II",
+      "url": "https://open.spotify.com/track/4gLfPQ5wKTjH6wpx74Irdr"
+    },
+    {
+      "album": {
         "name": "Spohr: Symphonie Concertante for Violin, Harp and Orchestra in G Major, WoO 13: II. Adagio",
         "url": "https://open.spotify.com/album/3pffTo0gtXsI0zeyveM6lI"
       },

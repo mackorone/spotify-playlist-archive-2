@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-192 songs - 11 hr 11 min
+193 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Fool For Your Loving](https://open.spotify.com/track/2P2syb5wOQfqhzczK3UZtC) | [Gary.D.Pearson](https://open.spotify.com/artist/5pNe5hQpRgMBOG1mLSXxlX) | [Fool For Your Loving](https://open.spotify.com/album/3nf6hEV110QjHkYK4ZvOon) | 4:31 | 2026-06-13 |  |
 | [Free to Move](https://open.spotify.com/track/783zXb8DMTCD4hSqS3qrUj) | [Modarn](https://open.spotify.com/artist/21dNZRQ8rilyedhVEXFjkU) | [Free to Move](https://open.spotify.com/album/7BlqanlYNccsdUZPVKch7C) | 3:26 | 2025-11-11 | 2026-03-15 |
 | [Fuoco amico](https://open.spotify.com/track/4231iF5l6zLvmQ1eEydIbv) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 3:34 | 2025-11-19 | 2026-03-15 |
+| [Future \#1 \- 2026 Remix](https://open.spotify.com/track/7JzBGVfqflJK20PwDcxxmM) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Strains \(420 Deluxe EP\)](https://open.spotify.com/album/6DlliTyyxLxtiYZQy8aNys) | 3:21 | 2026-08-21 |  |
 | [Ghost Skin](https://open.spotify.com/track/5pHEqCiFsCUwNT1MZ704xm) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [Ghost Skin](https://open.spotify.com/album/3YHvKACYd2PHnmlwDZIlKw) | 2:18 | 2025-11-27 | 2026-06-14 |
 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-03-29 |  |
 | [Halfway to heaven](https://open.spotify.com/track/4nHu7yR8etHMqfZuWVO3q2) | [Honey Ruin](https://open.spotify.com/artist/2m4dcbfzc5WQDTZ6RAO8Lf) | [Halfway to heaven](https://open.spotify.com/album/2mjAWJp71ZsPIKjFdZU2oH) | 4:29 | 2025-11-06 | 2025-12-09 |

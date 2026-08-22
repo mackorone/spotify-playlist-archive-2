@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 188764,
+  "num_followers": 188777,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALDnI72Q91MzwylYWDJHBDpv1S8p",
+  "snapshot_id": "AAAAAM21EI2mTzQ3VHy5xEyfXXEOS2Dv",
   "tracks": [
     {
       "added_at": "2026-04-21 16:02:40",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Questa domenica",
         "url": "https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 216098,
       "name": "Questa domenica",
       "url": "https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Canzoni",
         "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+        "name": "Perdere l'amore",
+        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
       },
       "artists": [
         {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
         }
       ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+      "duration_ms": 251533,
+      "name": "Perdere l'amore",
+      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -527,22 +543,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Perdere l'amore",
-        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Perdere l'amore",
-      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Cari Amori Miei",
         "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Domenica",
-      "url": "https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Cinquemilaquarantatre (2001 Remastered Version)",
         "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 238386,
       "name": "Parole parole - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Domenica",
+      "url": "https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Sopravvissuti e sopravviventi (2009 Remaster)",
         "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 286146,
       "name": "Ho messo via",
       "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Diari Aperti",
-        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Anche Fragile",
-      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Sorriso (Milano Dateo)",
         "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 177145,
       "name": "Sorriso (Milano Dateo)",
       "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Anche Fragile",
+      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Albachiara",
+        "url": "https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Albachiara",
+      "url": "https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Anima",
         "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 209179,
       "name": "Fuoco e benzina",
       "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Albachiara",
-        "url": "https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Albachiara",
-      "url": "https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "La Vasca",
-        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Una Su 1.000.000",
-      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Come Thelma E Louise",
         "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "La Vasca",
+        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "Una Su 1.000.000",
+      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Fisiognomica (2008 Remastered Edition)",
         "url": "https://open.spotify.com/album/4sWf0wkRfi49tW4NLxdLj2"
       },
@@ -1527,26 +1527,6 @@
       "duration_ms": 232199,
       "name": "E Ti Vengo A Cercare - Remastered 2008",
       "url": "https://open.spotify.com/track/12SccVj2Jqibxc1zRuUzTC"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Truman (Sanremo Edition)",
-        "url": "https://open.spotify.com/album/4Zxjk7Nitaz5NmO4dFFUgW"
-      },
-      "artists": [
-        {
-          "name": "Shade",
-          "url": "https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt"
-        },
-        {
-          "name": "Federica Carta",
-          "url": "https://open.spotify.com/artist/3LEEvToYYJtAYV4lM9fYPE"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Senza farlo apposta",
-      "url": "https://open.spotify.com/track/55t2S1tpx1Bj3C5bIEn2BF"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1567,6 +1547,26 @@
       "duration_ms": 201974,
       "name": "Il primo amore",
       "url": "https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Truman (Sanremo Edition)",
+        "url": "https://open.spotify.com/album/4Zxjk7Nitaz5NmO4dFFUgW"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt"
+        },
+        {
+          "name": "Federica Carta",
+          "url": "https://open.spotify.com/artist/3LEEvToYYJtAYV4lM9fYPE"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Senza farlo apposta",
+      "url": "https://open.spotify.com/track/55t2S1tpx1Bj3C5bIEn2BF"
     },
     {
       "added_at": "2026-04-21 16:02:40",

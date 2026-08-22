@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: October London",
+  "description": "The soulful tunes to ease you into your day. Cover: Eric Bellinger",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -1046,6 +1046,24 @@
       "duration_ms": 176888,
       "name": "Anyways",
       "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
+    },
+    {
+      "album": {
+        "name": "God Gotta Afro & Gold Hoops",
+        "url": "https://open.spotify.com/album/73NbJlEaRBWILRfCocwVL4"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292837,
+      "name": "Apple Juice",
+      "url": "https://open.spotify.com/track/5dqVsPAL56Y8vBgYvnNTvO"
     },
     {
       "album": {
@@ -2789,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "Eric Bellinger",
+        "url": "https://open.spotify.com/album/3uzbUHpvDp6O2bfpOLE1Yf"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT"
+    },
+    {
+      "album": {
         "name": "Coastin'",
         "url": "https://open.spotify.com/album/5yoCMolsZFuzsrWK8LAKin"
       },
@@ -3018,7 +3054,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 218998,
       "name": "Come Get My Love",
       "url": "https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH"
@@ -4716,7 +4752,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 230928,
       "name": "Feel",
       "url": "https://open.spotify.com/track/6WxxFT9MzFntsebivQkxXB"
@@ -8175,6 +8211,24 @@
     },
     {
       "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264280,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5xR9FOtRm2rjCQg3X8DYEc"
+    },
+    {
+      "album": {
         "name": "Impact",
         "url": "https://open.spotify.com/album/2M4e4YtEp2Dyrozz7ghg1U"
       },
@@ -8244,7 +8298,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 248837,
       "name": "In Your Own Home",
       "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
@@ -12130,7 +12184,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 121728,
       "name": "Nobody Nobody",
       "url": "https://open.spotify.com/track/7gyZG8D3U8kYFqvju6QFU1"
@@ -16818,6 +16872,24 @@
       "duration_ms": 199789,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/0BvetzkxZsWj6hgSaHtTRd"
+    },
+    {
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345226,
+      "name": "Their Smiles Are Not the Same",
+      "url": "https://open.spotify.com/track/6GfA7btFBUbS0zRDdVcSuq"
     },
     {
       "album": {

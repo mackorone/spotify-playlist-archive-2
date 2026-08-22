@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Quavo, Lil Baby, Cardi B, Drake, Trap Dickey, and Casper TNG.",
+  "description": "Today's Hip-Hop with Casper TNG, NAV, Quavo, Lil Baby, Drake, and Trap Dickey.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -694,6 +694,24 @@
       "duration_ms": 121518,
       "name": "46th Street",
       "url": "https://open.spotify.com/track/1ufEb5mMR8kgYtoJsY4MZV"
+    },
+    {
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1Z0nnNdSO57sk7ENh7EHY7"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155860,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI"
     },
     {
       "album": {
@@ -3716,7 +3734,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 161162,
       "name": "BIG LITTLE LIES",
       "url": "https://open.spotify.com/track/2vuj6WLz5m9HOFm1YzaVIX"
@@ -5198,6 +5216,24 @@
       "duration_ms": 164571,
       "name": "Bussin (with Rob49)",
       "url": "https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193965,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
     },
     {
       "album": {
@@ -7620,10 +7656,32 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 143200,
       "name": "Did That",
       "url": "https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU"
+    },
+    {
+      "album": {
+        "name": "Draft Day",
+        "url": "https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        },
+        {
+          "name": "100Bandplan",
+          "url": "https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Die 2 Young (ft. 100Bandplan)",
+      "url": "https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63"
     },
     {
       "album": {
@@ -7708,6 +7766,32 @@
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+    },
+    {
+      "album": {
+        "name": "DIFFERENCE [Feat. Yebba]",
+        "url": "https://open.spotify.com/album/7mHQPzJhoPrrQsO9eXSwOy"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168865,
+      "name": "DIFFERENCE [Feat. Yebba]",
+      "url": "https://open.spotify.com/track/2o0quqVps5WtMhiuzswkV1"
     },
     {
       "album": {
@@ -7818,6 +7902,32 @@
       "duration_ms": 123941,
       "name": "Dirty Revolver",
       "url": "https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO"
+    },
+    {
+      "album": {
+        "name": "DISGUISE",
+        "url": "https://open.spotify.com/album/64bs9S7CRMTn34hHlILPp0"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150802,
+      "name": "DISGUISE",
+      "url": "https://open.spotify.com/track/70NwUUeK2J8Y55QRUn8uM3"
     },
     {
       "album": {
@@ -11794,7 +11904,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 179130,
       "name": "GHOST DOG.",
       "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
@@ -14062,7 +14172,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 191786,
       "name": "Hostage (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
@@ -16386,7 +16496,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 113437,
       "name": "KILLIN EM",
       "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
@@ -18760,7 +18870,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 130612,
       "name": "Meet The Redds (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0kR917YFVsHsZKzPIXzi0X"
@@ -23547,6 +23657,28 @@
     },
     {
       "album": {
+        "name": "POP MY SHIT",
+        "url": "https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Frost",
+          "url": "https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "POP MY SHIT",
+      "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
+    },
+    {
+      "album": {
         "name": "Pop Shit",
         "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
       },
@@ -25496,7 +25628,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 149572,
       "name": "ROLLIN",
       "url": "https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN"
@@ -26940,6 +27072,28 @@
       "duration_ms": 142560,
       "name": "SILVER TOOTH. (with A$AP Ferg)",
       "url": "https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso"
+    },
+    {
+      "album": {
+        "name": "Here Goes Nothing",
+        "url": "https://open.spotify.com/album/0SxfRe1Fuv0P3s7DoWBsA8"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        },
+        {
+          "name": "Pertinence",
+          "url": "https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164750,
+      "name": "Simple Man (feat. Pertinence)",
+      "url": "https://open.spotify.com/track/0IKkgsrvHfJmnmfY16Mp52"
     },
     {
       "album": {
@@ -32241,6 +32395,24 @@
     },
     {
       "album": {
+        "name": "Walk of Shame",
+        "url": "https://open.spotify.com/album/6pMhwIq0MQUBYEDol6J2ru"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121834,
+      "name": "Walk of Shame",
+      "url": "https://open.spotify.com/track/2Jeh5DPuVrAtNhqkE33qvB"
+    },
+    {
+      "album": {
         "name": "Walkin",
         "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
       },
@@ -33888,7 +34060,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184705,
-      "name": "WTF Goin (Feat. 21 Savage)",
+      "name": "WTF GOIN (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT"
     },
     {

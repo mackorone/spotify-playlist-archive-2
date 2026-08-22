@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777884,
+  "num_followers": 777890,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAANlVRPJCBh5lEZABLL5KsG",
+  "snapshot_id": "aoZDgAAAAACrQRUHYgW50Wc3PKtOJ0H3",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/78EcStHa23JPRmLNan5fST"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 189186,
-      "name": "Say Amen (Saturday Night)",
-      "url": "https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB"
+      "duration_ms": 192893,
+      "name": "Nine in the Afternoon",
+      "url": "https://open.spotify.com/track/59kTVUKhpcFw9zMLPSbFvH"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/78EcStHa23JPRmLNan5fST"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 192893,
-      "name": "Nine in the Afternoon",
-      "url": "https://open.spotify.com/track/59kTVUKhpcFw9zMLPSbFvH"
+      "duration_ms": 189186,
+      "name": "Say Amen (Saturday Night)",
+      "url": "https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 186600,
-      "name": "Roaring 20s",
-      "url": "https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC"
+      "duration_ms": 189132,
+      "name": "Into the Unknown - Panic! At The Disco Version",
+      "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 189132,
-      "name": "Into the Unknown - Panic! At The Disco Version",
-      "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
+      "duration_ms": 186600,
+      "name": "Roaring 20s",
+      "url": "https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,032 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,120 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 59 | [Além do Impossível / Pedro \- Ao Vivo](https://open.spotify.com/track/31UMuLeLSIRO1jdri0iOXp) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Além do Impossível / Pedro \(Ao Vivo\)](https://open.spotify.com/album/5uTw6KtalyBvjtWpTmipc0) | 6:45 |
 | 60 | [Os Sonhos de Deus](https://open.spotify.com/track/5r35WP3ehhwgC2ctzUsFHS) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Os Sonhos de Deus \- Recebe a Cura \- Adoração Profética 1](https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs) | 6:05 |
 | 61 | [Adorador por Excelência](https://open.spotify.com/track/4C3dlfa8iBGgb2MjWe2wOa) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3dYx7HppPTwfAX5a24m3Po) | 5:33 |
-| 62 | [Me Rendo A Ti](https://open.spotify.com/track/4GsORFXWaecjxbiQ0n1Oqt) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Global Project PORTUGUÊS \(Portuguese\)](https://open.spotify.com/album/0BY70dozFnO2iSUGchNQVv) | 6:10 |
-| 63 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 |
+| 62 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 |
+| 63 | [Me Rendo A Ti](https://open.spotify.com/track/4GsORFXWaecjxbiQ0n1Oqt) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Global Project PORTUGUÊS \(Portuguese\)](https://open.spotify.com/album/0BY70dozFnO2iSUGchNQVv) | 6:10 |
 | 64 | [Quando o Céu Invade a Terra / Fogo Que Consome \- Ao Vivo](https://open.spotify.com/track/33WRUMm8kEIeP3OWuJEjiD) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC), [Jeser Pires](https://open.spotify.com/artist/01PC7nidJabM3Z9igap9GD) | [Quando o Céu Invade a Terra / Fogo Que Consome \(Ao Vivo\)](https://open.spotify.com/album/63YHw72apN2b7cQ67H520u) | 6:22 |
 | 65 | [A Ele A Glória \- Ao Vivo](https://open.spotify.com/track/0semeHbsomB2omjIKuJgAA) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Exaltado \(Ao Vivo\)](https://open.spotify.com/album/0RE80aGvb10IWjoRWMH37G) | 9:53 |
 | 66 | [Teus Olhos Revelam](https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Esperança](https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i) | 4:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Pai](https://open.spotify.com/track/5sUvzMn02TghrI6ntFV24w) | [Marcos Antônio](https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4) | [Diamante Vol\. 1](https://open.spotify.com/album/69sjIPFx42Mxq5kZyutgSn) | 5:28 |
 | 70 | [Tempo de Vencer \(All The Man That I Need \)](https://open.spotify.com/track/0aNQmlnj981Lwkj7Htvgic) | [Robinson Monteiro](https://open.spotify.com/artist/0k5FjshuSNVy3bSyPiEKex), [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Tempo de Vencer](https://open.spotify.com/album/20E5gzYNHIzwwFIMZAHSxR) | 3:57 |
 
-Snapshot ID: `AAAAAKtQkbFfph8EYGPhFukqz+TOuJFM`
+Snapshot ID: `AAAAAFkGCzJiuNsExpxQItZTA8AgG3Kt`

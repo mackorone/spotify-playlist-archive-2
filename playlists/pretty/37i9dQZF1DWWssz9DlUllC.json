@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  FOLA",
-  "num_followers": 95751,
+  "num_followers": 95826,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACL8QyYUzcvTc/bpEH6wZcxgqIQB",
+  "snapshot_id": "AAAAAJdzpoogjLySG4lmzz9iFhh08zdo",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:50",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
         "name": "Breaking",
         "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 172160,
       "name": "Aura Salad",
       "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
         "name": "ON MY BIRTHDAY",
         "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 135549,
       "name": "Fast and Furious",
       "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
+        "name": "Root Of All Evil",
+        "url": "https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 185084,
+      "name": "Root Of All Evil",
+      "url": "https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
         "name": "Dance for Jesus",
         "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 200948,
       "name": "Dance for Jesus",
       "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
-        "name": "Root Of All Evil",
-        "url": "https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 185084,
-      "name": "Root Of All Evil",
-      "url": "https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
-        "name": "Merlinpiano",
-        "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
-      },
-      "artists": [
-        {
-          "name": "TheFeyiii",
-          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
-        }
-      ],
-      "duration_ms": 148910,
-      "name": "Merlinpiano",
-      "url": "https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
         "name": "Love Is Not Enough, Vol. 2",
         "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 149243,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
+        "name": "Merlinpiano",
+        "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
+      },
+      "artists": [
+        {
+          "name": "TheFeyiii",
+          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
+        }
+      ],
+      "duration_ms": 148910,
+      "name": "Merlinpiano",
+      "url": "https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
+        "name": "Cash Flow (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cash Flow (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
         "name": "Turn Off The Lights",
         "url": "https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d"
       },
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
-        "name": "Cash Flow (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Cash Flow (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
         "name": "Follow My Lead",
         "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
-        "name": "Laye Mi",
-        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 204159,
-      "name": "Laye Mi",
-      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
         "name": "Wahala Pikin",
         "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 118801,
       "name": "Opium Amapiano",
       "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
+        "name": "Laye Mi",
+        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 204159,
+      "name": "Laye Mi",
+      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
-        "name": "Life of the Party",
-        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
-      },
-      "artists": [
-        {
-          "name": "oSHAMO",
-          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
-        }
-      ],
-      "duration_ms": 192477,
-      "name": "Life of the Party",
-      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
         "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
         "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2026-08-21 00:01:50",
       "album": {
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
         "name": "WYD / MOFO",
         "url": "https://open.spotify.com/album/5q3lVVlQ8U7UlPMbrXZxAd"
       },
@@ -1519,26 +1519,6 @@
       "duration_ms": 180136,
       "name": "WYD",
       "url": "https://open.spotify.com/track/4wKM4gjReTiYbswQv23mFc"
-    },
-    {
-      "added_at": "2026-08-21 00:01:50",
-      "album": {
-        "name": "OFE NSALA",
-        "url": "https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 130084,
-      "name": "OFE NSALA",
-      "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
     },
     {
       "added_at": "2026-08-21 00:01:50",
@@ -1583,6 +1563,26 @@
       "duration_ms": 358550,
       "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
+    },
+    {
+      "added_at": "2026-08-21 00:01:50",
+      "album": {
+        "name": "OFE NSALA",
+        "url": "https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 130084,
+      "name": "OFE NSALA",
+      "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
     },
     {
       "added_at": "2026-08-21 00:01:50",

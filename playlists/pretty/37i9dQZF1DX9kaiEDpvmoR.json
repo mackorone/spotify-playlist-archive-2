@@ -1,12 +1,12 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93819,
+  "num_followers": 93833,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvgKX4m+oc2raCpX1YC/VSK03jQ",
+  "snapshot_id": "AAAAAMwUOVzeoDHGHXwHGLMeHElTUQPW",
   "tracks": [
     {
       "added_at": "2026-08-20 22:00:09",
@@ -116,8 +116,8 @@
           "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 266883,
+      "name": "Rullande muller",
       "url": "https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4"
     },
     {
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Jealous Lover",
-        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+        "name": "H\u00f6gsbo Riviera",
+        "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
         }
       ],
-      "duration_ms": 229994,
-      "name": "Jealous Lover",
-      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
+      "duration_ms": 221416,
+      "name": "Lukas, Dennis och Farsan",
+      "url": "https://open.spotify.com/track/5GgwN0GRRi3z7uftDPS5MK"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "H\u00f6gsbo Riviera",
-        "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
       },
       "artists": [
         {
-          "name": "Valter Nilsson",
-          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 221416,
-      "name": "Lukas, Dennis och Farsan",
-      "url": "https://open.spotify.com/track/5GgwN0GRRi3z7uftDPS5MK"
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Days We Left Behind",
-        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 198235,
-      "name": "Days We Left Behind",
-      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "H\u00e4lsningar",
         "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 248506,
       "name": "H\u00e4lsningar",
       "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "Days We Left Behind",
+        "url": "https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 198235,
+      "name": "Days We Left Behind",
+      "url": "https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
-        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
-      },
-      "artists": [
-        {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Pappa kommer inte hem",
-      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "Mitt hj\u00e4rta en rebell",
         "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 191635,
       "name": "Mitt hj\u00e4rta en rebell",
       "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
+        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Pappa kommer inte hem",
+      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Himlen \u00e4r oskyldigt bl\u00e5",
-        "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
-      },
-      "artists": [
-        {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
-        }
-      ],
-      "duration_ms": 262644,
-      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
-      "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "Home to Us",
         "url": "https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 191325,
       "name": "Home to Us",
       "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+        "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 262644,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
-        "url": "https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG"
-      },
-      "artists": [
-        {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
-      "url": "https://open.spotify.com/track/03XQ0RP1cqrLxvWnyZlofm"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "Can't Frame the Moonlight",
         "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
@@ -935,22 +919,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Ingenting \u00e4r efter oss",
-        "url": "https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ"
-      },
-      "artists": [
-        {
-          "name": "Timo R\u00e4is\u00e4nen",
-          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "Ingenting \u00e4r efter oss",
-      "url": "https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "Good Time Is Coming",
         "url": "https://open.spotify.com/album/56EkXkFIPNX0P9hXwTv0Uu"
       },
@@ -963,6 +931,38 @@
       "duration_ms": 200448,
       "name": "Good Time Is Coming",
       "url": "https://open.spotify.com/track/2slo0Qu8x9aVvSnVr5MxUn"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
+        "url": "https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
+      "url": "https://open.spotify.com/track/03XQ0RP1cqrLxvWnyZlofm"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "Ingenting \u00e4r efter oss",
+        "url": "https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ"
+      },
+      "artists": [
+        {
+          "name": "Timo R\u00e4is\u00e4nen",
+          "url": "https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "Ingenting \u00e4r efter oss",
+      "url": "https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Sommarkort",
-        "url": "https://open.spotify.com/album/7qWuV2Fbd7Lsg11p49gZvM"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/4Z9ToMQNS4J2MPIQgmItMU"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "Revalution Club",
         "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "Heaven Is a Place on Earth",
-        "url": "https://open.spotify.com/album/4GkrL5O3cTCsp9aTk0j288"
+        "name": "Sommarkort",
+        "url": "https://open.spotify.com/album/7qWuV2Fbd7Lsg11p49gZvM"
       },
       "artists": [
         {
-          "name": "Sanna Nielsen",
-          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
         }
       ],
-      "duration_ms": 183658,
-      "name": "Heaven Is a Place on Earth",
-      "url": "https://open.spotify.com/track/443kWGstgFfJM2x1LcBGUg"
+      "duration_ms": 194320,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/4Z9ToMQNS4J2MPIQgmItMU"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -1059,6 +1043,22 @@
       "duration_ms": 203150,
       "name": "Det jag s\u00e5g i din spegel s\u00e5g inte ut som mig",
       "url": "https://open.spotify.com/track/1iVmZTfxHv6hRDaGamR52T"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "Heaven Is a Place on Earth",
+        "url": "https://open.spotify.com/album/4GkrL5O3cTCsp9aTk0j288"
+      },
+      "artists": [
+        {
+          "name": "Sanna Nielsen",
+          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
+        }
+      ],
+      "duration_ms": 183658,
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://open.spotify.com/track/443kWGstgFfJM2x1LcBGUg"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
-      },
-      "artists": [
-        {
-          "name": "The Magnolia",
-          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "Bra \u00e4nd\u00e5",
         "url": "https://open.spotify.com/album/1d6k2tcmRdom4CSnZcmJHA"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 274000,
       "name": "Bra \u00e4nd\u00e5",
       "url": "https://open.spotify.com/track/1N49b6uPQ4xAT6mpYzvPRR"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
+      },
+      "artists": [
+        {
+          "name": "The Magnolia",
+          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
-        "name": "If I Ever Lose My Temper",
-        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
-      },
-      "artists": [
-        {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "If I Ever Lose My Temper",
-      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
         "name": "R\u00f6k i dina \u00f6gon",
         "url": "https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2026-08-20 22:00:09",
       "album": {
+        "name": "If I Ever Lose My Temper",
+        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "If I Ever Lose My Temper",
+      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
         "name": "Svindlande h\u00f6jder",
         "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 255386,
       "name": "Svindlande h\u00f6jder",
       "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
+    },
+    {
+      "added_at": "2026-08-20 22:00:09",
+      "album": {
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Losin' Kind - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
     },
     {
       "added_at": "2026-08-20 22:00:09",
@@ -1339,22 +1355,6 @@
       "duration_ms": 192683,
       "name": "Bipolar Crack",
       "url": "https://open.spotify.com/track/2oMvt1MKq8zgeq57Uf9CL7"
-    },
-    {
-      "added_at": "2026-08-20 22:00:09",
-      "album": {
-        "name": "Nebraska '82: Expanded Edition",
-        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Losin' Kind - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
     },
     {
       "added_at": "2026-08-20 22:00:09",

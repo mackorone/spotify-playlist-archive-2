@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291530,
+      "name": "Constant Companion",
+      "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
+    },
+    {
+      "album": {
         "name": "Cruel World",
         "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
       },
@@ -1436,6 +1454,24 @@
       "duration_ms": 166653,
       "name": "How Do I Feel",
       "url": "https://open.spotify.com/track/3EsjWjJBj1uRUHdRdwJc4U"
+    },
+    {
+      "album": {
+        "name": "HOW TO SAVE A LIFE",
+        "url": "https://open.spotify.com/album/3Brt0TZSCu5y43Pd3Jdb0a"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "HOW TO SAVE A LIFE",
+      "url": "https://open.spotify.com/track/10GIpT7gdfHaiJNCJ98Q1S"
     },
     {
       "album": {

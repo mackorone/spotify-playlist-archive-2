@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-1,045 songs - 2 day 6 hr 10 min
+1,046 songs - 2 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Backboard](https://open.spotify.com/track/2B97yOwPdVbkrg84pnyu33) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:55 | 2022-04-29 | 2022-07-27 |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-09-08 | 2025-02-23 |
 | [bad day](https://open.spotify.com/track/5612zrK8d3HhPCobx2Kuci) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [bad day](https://open.spotify.com/album/7vTPUsgBPNHmB3T1hoQOJO) | 2:04 | 2021-05-06 | 2021-05-28 |
+| [Bad Dream](https://open.spotify.com/track/6NtuOaVGMCYLHWTEOQ92tU) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Bad Dream](https://open.spotify.com/album/3Xh6tD8rBPCM470xDVZc11) | 3:53 | 2026-08-21 |  |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-03-04 | 2022-07-13 |
 | [baggage](https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [baggage](https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE) | 2:10 | 2023-08-18 | 2024-04-24 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2022-12-14 | 2025-12-24 |
@@ -552,7 +553,7 @@
 | [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2022-09-14 | 2022-12-17 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-10-08 | 2022-07-29 |
 | [Locura](https://open.spotify.com/track/2xukDcihOVcK9cBvpR25we) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/3VnXrco4kkeesTPtAmVP2j) | 2:44 | 2021-05-01 | 2022-04-17 |
-| [Loin](https://open.spotify.com/track/2IWh6YQd16fIt6GKFjftA7) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Loin](https://open.spotify.com/album/0GUZfYzll9LYYDsxJYxdVy) | 2:14 | 2026-02-27 |  |
+| [Loin](https://open.spotify.com/track/2IWh6YQd16fIt6GKFjftA7) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Loin](https://open.spotify.com/album/0GUZfYzll9LYYDsxJYxdVy) | 2:14 | 2026-02-27 | 2026-08-22 |
 | [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2019-08-09 | 2022-11-13 |
 | [Lonely Days](https://open.spotify.com/track/3qLqAlhe4WKDim35hYeSS9) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Lonely Days](https://open.spotify.com/album/0fotwiIbirxfzOIqBguzg4) | 4:40 | 2019-07-30\* | 2021-05-27 |
 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 | 2021-09-17 | 2022-12-15 |

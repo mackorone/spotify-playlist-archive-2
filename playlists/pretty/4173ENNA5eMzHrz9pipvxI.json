@@ -1,13 +1,73 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Luvstruck, Leena Punks",
-  "num_followers": 117840,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: unfazed",
+  "num_followers": 117834,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAh1c7UpoBx+9R90ASNU0UVAP8ra3GX",
+  "snapshot_id": "AAAh2T9j+n9cIYEHPtFzemkC1b73tBH0",
   "tracks": [
+    {
+      "added_at": "2026-08-21 08:13:57",
+      "album": {
+        "name": "Wild (feat. Louis du Sauzay)",
+        "url": "https://open.spotify.com/album/5ZXPBKeTuO2XwCIf9SqNJm"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        },
+        {
+          "name": "Louis du Sauzay",
+          "url": "https://open.spotify.com/artist/06cHR0P90tGCKqQByCtiLJ"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "Wild (feat. Louis du Sauzay)",
+      "url": "https://open.spotify.com/track/2zLCWBGX1cXMU8X4HXqtS8"
+    },
+    {
+      "added_at": "2026-08-21 08:14:10",
+      "album": {
+        "name": "LET ME BE (Just\u0117 Remix)",
+        "url": "https://open.spotify.com/album/5vCcSSKmG4sPt8ZcXu0DwN"
+      },
+      "artists": [
+        {
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+        },
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "LET ME BE (Just\u0117 Remix)",
+      "url": "https://open.spotify.com/track/3N2XG1mOYr7gCCCPulkuAY"
+    },
+    {
+      "added_at": "2026-08-21 08:14:19",
+      "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/2VIFfYTg72pDZnuHRkMn6m"
+      },
+      "artists": [
+        {
+          "name": "DANIQ",
+          "url": "https://open.spotify.com/artist/4pVwni0qNGtLWvGhRiXmZl"
+        },
+        {
+          "name": "DRIXS",
+          "url": "https://open.spotify.com/artist/6YYrFdjXYNOIHnoYSsDUBF"
+        }
+      ],
+      "duration_ms": 149275,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/6UhvUsRQ85ug3Zh0GzHfI9"
+    },
     {
       "added_at": "2026-08-14 08:07:29",
       "album": {

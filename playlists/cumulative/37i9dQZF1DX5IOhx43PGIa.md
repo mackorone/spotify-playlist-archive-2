@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: JENNIE
 
-1,417 songs - 3 day 1 hr 39 min
+1,418 songs - 3 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [I'VE SEEN THIS MOVIE BEFORE Pt.2](https://open.spotify.com/album/3qJp0l4TtjzUNXQ3cJnMPh) | 3:28 | 2023-05-05 | 2024-02-24 |
 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 | 2026-06-12 |  |
 | [ideologue](https://open.spotify.com/track/5GsLFcbmW19sWdl02ivCkA) | [Joon](https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP) | [ideologue](https://open.spotify.com/album/07Qbw2mxppkeN2PYbgXWVJ) | 2:58 | 2025-08-29 | 2026-04-04 |
+| [IDFWY](https://open.spotify.com/track/34sFh8ZCEnNQI1N5F7LTgz) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Poster Child](https://open.spotify.com/album/7D2O6tC8E3CPY4qpQGhXus) | 4:12 | 2026-08-21 |  |
 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 | 2023-08-31 |
 | [if i am me, then who are you?](https://open.spotify.com/track/3wEffdDUhlpDclhtwa4Ngr) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [if i am me, then who are you?](https://open.spotify.com/album/13YfZnm7Lsoi16WnrUH6vD) | 2:57 | 2026-03-20 |  |
 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 | 2026-02-27 |  |
@@ -1365,7 +1366,7 @@
 | [Wishful Thinking](https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie) | 3:06 | 2022-05-27 | 2022-10-13 |
 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 | 2025-06-06 | 2025-07-19 |
 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-08-11 | 2024-02-10 |
-| [Without Me](https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Without Me](https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW) | 3:39 | 2025-12-05 |  |
+| [Without Me](https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Without Me](https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW) | 3:39 | 2025-12-05 | 2026-08-22 |
 | [wo ai ni](https://open.spotify.com/track/15f7uyz8tXgasYAL7N6WWE) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/3GKlSjIhy3WIQg34qcEeyG) | 3:31 | 2025-10-17 | 2026-06-13 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-24 | 2024-06-15 |
 | [Wonder](https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [DUAL](https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so) | 3:40 | 2023-09-22 | 2024-06-15 |

@@ -9071,6 +9071,24 @@
     },
     {
       "album": {
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
+    },
+    {
+      "album": {
         "name": "un \u00e9clair",
         "url": "https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D"
       },
@@ -9284,7 +9302,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 192144,
       "name": "Walls",
       "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"

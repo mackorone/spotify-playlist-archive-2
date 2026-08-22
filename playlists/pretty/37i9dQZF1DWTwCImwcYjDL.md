@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Robin Schulz & Watermät
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,068 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,059 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 59 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 |
 | 60 | [Not So Bad](https://open.spotify.com/track/4Fx1Ioc966N56C2y8qOb2t) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK), [Nikko](https://open.spotify.com/artist/1A06pAoCD2vqAIuJZlhac5) | [Not So Bad](https://open.spotify.com/album/0eT9H6gg5vcaDx2YeVxitK) | 3:31 |
 
-Snapshot ID: `AAAAANSpzJR4XokJiQQug2js/oMfddze`
+Snapshot ID: `AAAAAEuxAxUaqt5HzP5EerqXbO/nmck4`

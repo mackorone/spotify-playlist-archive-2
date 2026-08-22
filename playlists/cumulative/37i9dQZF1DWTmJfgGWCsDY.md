@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Yammi
 
-188 songs - 12 hr 15 min
+189 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [Maisha Yetu Usela](https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm) | [Maisha Yetu Usela](https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG) | 5:25 | 2023-12-15 | 2026-01-31 |
 | [Makombolelo singeli version](https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs) | [Mazegele Boy](https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ) | [Makombolelo singeli version](https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb) | 2:13 | 2026-02-05 |  |
 | [Mama Samia](https://open.spotify.com/track/6yiMBUbTgySnOMVPVyvIJZ) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Mama Samia](https://open.spotify.com/album/0XN125dECgTZxpcDG1XoNk) | 5:00 | 2024-04-26 | 2026-07-10 |
+| [Mama Yangu](https://open.spotify.com/track/3TCC9MfUM5BbV1l1LMNrJW) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [D Voice](https://open.spotify.com/artist/49mdQ4LqDjjUPSJ3p5Kc6G), [Mzee Wa Bwax](https://open.spotify.com/artist/3foxaOijucHOO507Jr6ZKO) | [Mama Yangu](https://open.spotify.com/album/1w40QZXQPxIcNVCBzWLoXV) | 3:47 | 2026-08-21 |  |
 | [Mamu Remix \- Remix](https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mr Blue](https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9) | [Mamu Remix](https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK) | 6:11 | 2022-08-05 | 2026-01-26 |
-| [Maokoto](https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Maokoto](https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG) | 2:34 | 2025-08-29 |  |
+| [Maokoto](https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Maokoto](https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG) | 2:34 | 2025-08-29 | 2026-08-22 |
 | [Mapenzi Hisia \(feat\. Jetty Mc, Vanillah, Baddest 47 & Jay Combat\)](https://open.spotify.com/track/5AOLHEODPUTgPJSxs5DceH) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Jetty Mc](https://open.spotify.com/artist/04pRUHmMXLeGtMCInTm142), [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Baddest 47](https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ), [Jay Combat](https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx) | [Mapenzi Hisia \(feat\. Jetty Mc, Vanillah, Baddest 47 & Jay Combat\)](https://open.spotify.com/album/7h3Jhk5AvX06EqybrzWmm3) | 4:21 | 2025-03-28 |  |
 | [Marejesho](https://open.spotify.com/track/41D9fiXwXEoaIpTcKvop3G) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Hassan Mapenzi](https://open.spotify.com/artist/4yDF3IlkVmivoqjNHXt8Ga) | [Marejesho](https://open.spotify.com/album/4VYG8Q8YNr9fYsO5eLEOpV) | 3:30 | 2025-06-05 | 2025-07-25 |
 | [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 | 2025-08-29 |  |

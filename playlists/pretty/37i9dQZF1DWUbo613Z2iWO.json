@@ -1,32 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Honey Bxby and JID",
-  "num_followers": 60024,
+  "description": "R&B of the moment by the artists of the future. Cover: Miles Caton",
+  "num_followers": 60028,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALrMM9r+RHkC3kNSPGqrYZWz+1JG",
+  "snapshot_id": "AAAAAIc6G4uPNg1smVOY8Xve5bjTs8QE",
   "tracks": [
     {
-      "added_at": "2026-08-14 04:57:25",
+      "added_at": "2026-08-21 04:58:28",
       "album": {
-        "name": "A Thousand Times",
-        "url": "https://open.spotify.com/album/1Q548wgBsC8CsA27DURe1G"
+        "name": "Lean On",
+        "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
       },
       "artists": [
         {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Miles Caton",
+          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
         }
       ],
-      "duration_ms": 187333,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/0547MWFbVf9ykU6T7LMbCD"
+      "duration_ms": 205000,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
     },
     {
       "added_at": "2026-07-31 05:44:34",
@@ -49,6 +45,58 @@
       "url": "https://open.spotify.com/track/7wcYegXaOifWGzNQyhIHg5"
     },
     {
+      "added_at": "2026-08-21 04:58:28",
+      "album": {
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 168302,
+      "name": "NO MORE",
+      "url": "https://open.spotify.com/track/7I7sp3NMMwIkcQTdwQLoAF"
+    },
+    {
+      "added_at": "2026-08-14 04:57:25",
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/1Q548wgBsC8CsA27DURe1G"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/0547MWFbVf9ykU6T7LMbCD"
+    },
+    {
+      "added_at": "2026-08-21 04:58:28",
+      "album": {
+        "name": "Rollin",
+        "url": "https://open.spotify.com/album/6VKyO8jcuvLJRtXBd9btgs"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "duration_ms": 127202,
+      "name": "Rollin",
+      "url": "https://open.spotify.com/track/4zvrGKI2UesVMfooZuLbDL"
+    },
+    {
       "added_at": "2026-08-14 04:57:25",
       "album": {
         "name": "LIMBO",
@@ -65,6 +113,26 @@
       "url": "https://open.spotify.com/track/7yhRcS28n3vvzwLHT3MR8l"
     },
     {
+      "added_at": "2026-08-21 04:58:28",
+      "album": {
+        "name": "Bet It Up",
+        "url": "https://open.spotify.com/album/1korh6ho4eMKNwPzsTzgSh"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "OMGKENNY",
+          "url": "https://open.spotify.com/artist/5T34n8lqqgWAoZUcCgnynj"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Bet It Up",
+      "url": "https://open.spotify.com/track/2XSYw7txCw1eCw0lH7o4jD"
+    },
+    {
       "added_at": "2026-08-07 16:49:17",
       "album": {
         "name": "Catch n' Release",
@@ -79,6 +147,54 @@
       "duration_ms": 167287,
       "name": "Red Wine Holiday",
       "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
+    },
+    {
+      "added_at": "2026-08-21 04:58:28",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/7sqKPPSgk2wvpm0Sr5FLHv"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "duration_ms": 168279,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2c1JvWrJI8vQN89BcnKVtg"
+    },
+    {
+      "added_at": "2026-07-10 05:29:33",
+      "album": {
+        "name": "what u want",
+        "url": "https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 165652,
+      "name": "what u want",
+      "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
+    },
+    {
+      "added_at": "2026-08-21 04:58:28",
+      "album": {
+        "name": "All Of The Above",
+        "url": "https://open.spotify.com/album/2Wgf5ztPg8rOcpB8sVCmf6"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 210115,
+      "name": "All Of The Above",
+      "url": "https://open.spotify.com/track/3r5Jp1mEgZj7W5yX5NQ1BE"
     },
     {
       "added_at": "2026-08-14 04:57:25",
@@ -101,6 +217,22 @@
       "url": "https://open.spotify.com/track/6EWz01NLmUigFEz98Ek5qR"
     },
     {
+      "added_at": "2026-08-21 04:58:28",
+      "album": {
+        "name": "I Fear...",
+        "url": "https://open.spotify.com/album/0oPXARC3mgiQNxiIb4GKF7"
+      },
+      "artists": [
+        {
+          "name": "SZN4",
+          "url": "https://open.spotify.com/artist/3aVcen0IJtz6svz8DVlpfc"
+        }
+      ],
+      "duration_ms": 158916,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/15b6aqIGpDh7UZ2TNWaVap"
+    },
+    {
       "added_at": "2026-08-07 16:49:17",
       "album": {
         "name": "GOT YOU",
@@ -115,6 +247,74 @@
       "duration_ms": 210989,
       "name": "GOT YOU",
       "url": "https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO"
+    },
+    {
+      "added_at": "2026-08-21 04:58:28",
+      "album": {
+        "name": "HONEYMOON",
+        "url": "https://open.spotify.com/album/2MB8L7pWjQ99nF9If8JTmY"
+      },
+      "artists": [
+        {
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "HONEYMOON",
+      "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
+    },
+    {
+      "added_at": "2026-07-24 04:56:43",
+      "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "LUV MYSELF",
+      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
+    },
+    {
+      "added_at": "2026-08-21 04:58:28",
+      "album": {
+        "name": "A Girl Like Me (Deluxe)",
+        "url": "https://open.spotify.com/album/6lMHe3UikCaFP12WOZ4aKg"
+      },
+      "artists": [
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 182001,
+      "name": "Radio Love (with Fetty Wap)",
+      "url": "https://open.spotify.com/track/6LH62RZ3iXMoCTx6E3hOlp"
+    },
+    {
+      "added_at": "2026-08-21 05:29:24",
+      "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "SPEECHLESS",
+      "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"
     },
     {
       "added_at": "2026-08-14 04:57:25",
@@ -133,22 +333,6 @@
       "url": "https://open.spotify.com/track/2ryhtkGQue7aDgW6yvd3IY"
     },
     {
-      "added_at": "2026-07-10 05:29:33",
-      "album": {
-        "name": "what u want",
-        "url": "https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 165652,
-      "name": "what u want",
-      "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
-    },
-    {
       "added_at": "2026-08-14 04:57:25",
       "album": {
         "name": "How Does It Feel",
@@ -163,22 +347,6 @@
       "duration_ms": 230400,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/6ISTEhpDVoCkUQxLIgVOqT"
-    },
-    {
-      "added_at": "2026-07-24 04:56:43",
-      "album": {
-        "name": "DREAMS ON THE PASSENGER SEAT",
-        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "LUV MYSELF",
-      "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
     },
     {
       "added_at": "2026-08-14 04:57:25",
@@ -215,22 +383,6 @@
       "duration_ms": 171783,
       "name": "SWERVE",
       "url": "https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV"
-    },
-    {
-      "added_at": "2026-07-31 05:44:34",
-      "album": {
-        "name": "I LOVE YOUR BODY",
-        "url": "https://open.spotify.com/album/1TREZBcJvxodOvigkTQYDQ"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "I LOVE YOUR BODY",
-      "url": "https://open.spotify.com/track/1wWJmkrJi5IaNb2512YEcF"
     },
     {
       "added_at": "2026-08-07 16:49:17",
@@ -821,26 +973,6 @@
       "url": "https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn"
     },
     {
-      "added_at": "2026-06-26 05:40:08",
-      "album": {
-        "name": "Pretty Girl Dangerous",
-        "url": "https://open.spotify.com/album/5WJ6vO6gg4MQHrXixcbSS7"
-      },
-      "artists": [
-        {
-          "name": "Eli Derby",
-          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
-        },
-        {
-          "name": "Bri3",
-          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
-        }
-      ],
-      "duration_ms": 166463,
-      "name": "Pretty Girl Dangerous",
-      "url": "https://open.spotify.com/track/64HkZmyofXmEbSuSea8CD1"
-    },
-    {
       "added_at": "2026-06-19 04:01:58",
       "album": {
         "name": "AMA",
@@ -1043,22 +1175,6 @@
       "duration_ms": 171910,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/0NWsPR62mulEiwUXF5W7Ql"
-    },
-    {
-      "added_at": "2026-06-26 05:40:08",
-      "album": {
-        "name": "In A World We Don't Belong",
-        "url": "https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 194648,
-      "name": "Does She Know",
-      "url": "https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd"
     },
     {
       "added_at": "2026-07-10 05:29:33",
@@ -1375,22 +1491,6 @@
       "duration_ms": 174159,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/2WaV7wTVJjuOL4YNGxMpiU"
-    },
-    {
-      "added_at": "2026-06-05 04:01:54",
-      "album": {
-        "name": "Small Chops",
-        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 104070,
-      "name": "Cry On You",
-      "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
     },
     {
       "added_at": "2026-06-12 05:12:18",
@@ -1927,22 +2027,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "I Tried",
-        "url": "https://open.spotify.com/album/5eYl7iDIe77e2BaqfVpApg"
-      },
-      "artists": [
-        {
-          "name": "REMI",
-          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
-        }
-      ],
-      "duration_ms": 214390,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/3TAp8qfC53qxlzES7ndQ9I"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "april showers",
         "url": "https://open.spotify.com/album/0ZJqPDvP8qunZSLwsbSaEz"
       },
@@ -2091,22 +2175,6 @@
       "duration_ms": 170780,
       "name": "SOS",
       "url": "https://open.spotify.com/track/637vQG5nrmJkfbPDApSskv"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Rain in July / Be the One",
-        "url": "https://open.spotify.com/album/17Ojha2ZRJ6Tb09MxKiAdg"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 180070,
-      "name": "Rain in July",
-      "url": "https://open.spotify.com/track/6X0LNm1ghLO4iKX3HjH26N"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -2503,22 +2571,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Let's Talk",
-        "url": "https://open.spotify.com/album/5eY6JQjfTDgYLuBeJZmByT"
-      },
-      "artists": [
-        {
-          "name": "REMI",
-          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
-        }
-      ],
-      "duration_ms": 166825,
-      "name": "Let's Talk",
-      "url": "https://open.spotify.com/track/6z0JUGjnqG1Ge4BfL50Y6D"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "State Of Emergency Vol 1.",
         "url": "https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG"
       },
@@ -2711,22 +2763,6 @@
       "duration_ms": 167195,
       "name": "A Mile In My Mind",
       "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2T0e0h3gcF63977CnhilMB"
-      },
-      "artists": [
-        {
-          "name": "SZN4",
-          "url": "https://open.spotify.com/artist/3aVcen0IJtz6svz8DVlpfc"
-        }
-      ],
-      "duration_ms": 175862,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7sm7JLXCEVBtjiKCulOKxV"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3027,26 +3063,6 @@
       "duration_ms": 176316,
       "name": "Miss That",
       "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Relieve You",
-        "url": "https://open.spotify.com/album/5z8L50EhRMjgkWbXHlcbDb"
-      },
-      "artists": [
-        {
-          "name": "4Fargo",
-          "url": "https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK"
-        },
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 139628,
-      "name": "Relieve You",
-      "url": "https://open.spotify.com/track/1EU3lVLX8tA8csI9ScKVaK"
     },
     {
       "added_at": "2026-05-29 04:02:53",

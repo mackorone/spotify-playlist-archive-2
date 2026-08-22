@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-561 songs - 1 day 7 hr 48 min
+563 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-02-08 | 2026-04-14 |
 | [For A Season](https://open.spotify.com/track/0wpGtY0s0bf7sOGau3zwYx) | [Nicky Jean](https://open.spotify.com/artist/4ecawqe1AHRUfnQeizauYD) | [For A Season](https://open.spotify.com/album/0hsm4XQOLAOPRhKJQRM7tp) | 3:50 | 2025-12-22 | 2026-01-25 |
 | [For Tonight](https://open.spotify.com/track/7vBLb4FAncwkvOegh7Mc4W) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Brother](https://open.spotify.com/album/5RV6Ggi9hnALeXXchpW37O) | 2:29 | 2025-12-20 | 2026-01-15 |
+| [Forever](https://open.spotify.com/track/1RuckU5sGctczAPxEBiNRl) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Forever](https://open.spotify.com/album/0HwDigYQQjh0T0tqsC71dM) | 4:17 | 2026-08-21 |  |
 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 | 2026-03-30 | 2026-05-26 |
 | [Frases del Ayer](https://open.spotify.com/track/7EwgbuZ57KNgOtgMSdar3R) | [Diego Stegmeier](https://open.spotify.com/artist/5M2u8mwkoZWHPBXINtfV7a) | [Frases del Ayer](https://open.spotify.com/album/3DFXycXInOtOYW4Hmvyy0E) | 4:37 | 2026-02-20 | 2026-05-26 |
 | [Freedom Queen](https://open.spotify.com/track/4pxoCgIkaSSFx8cu31N01R) | [Mink's Miracle Medicine](https://open.spotify.com/artist/1XEYWgovYzwpxtdJba7dO0) | [Freedom Queen](https://open.spotify.com/album/7GPApbSd4SkQrzJeSBMzTt) | 4:15 | 2026-01-04 | 2026-02-21 |
@@ -217,6 +218,7 @@
 | [Halftime](https://open.spotify.com/track/01zUhHXnsvqEKaUbwubELW) | [Victoria Ibek](https://open.spotify.com/artist/49Y9JM0W6cbP1dxGZ7z5SS) | [Halftime](https://open.spotify.com/album/1tmgOOS0quA3LwKb9j5zwk) | 3:05 | 2026-03-09 | 2026-05-26 |
 | [Hallelujah](https://open.spotify.com/track/4NqOMrht9seUtUw54kap5Q) | [Highlyfe Earl](https://open.spotify.com/artist/36SIhWxeax5jHjWP3pQjNa), [1 OF A KAI](https://open.spotify.com/artist/0tsDsJLHoOIU3AhDosfPrQ), [JAY SUAVE](https://open.spotify.com/artist/30GrLG3wzbjqrVyocoxcWp) | [HELLBOYZ](https://open.spotify.com/album/4RisMx8FZ4ik57GZtKfWwE) | 3:23 | 2026-03-09 | 2026-05-26 |
 | [Happy Lonely](https://open.spotify.com/track/2IyFQwfeIxVQ16hQFtow3n) | [Becky Crosby](https://open.spotify.com/artist/5WH57q9fG8QFAwzXyzEmZz) | [Happy Lonely](https://open.spotify.com/album/4C0ZftGQgWUgXYtIeje85E) | 3:06 | 2026-05-19 | 2026-06-14 |
+| [Happy Pill](https://open.spotify.com/track/70s2jRIzv2wH9WiQv3CNuY) | [Millie Mountain](https://open.spotify.com/artist/6DVdCYxPalV6GXHAFhEkIG) | [Tools](https://open.spotify.com/album/5prOUcOkdi374LTU7xR6h8) | 1:58 | 2026-08-21 |  |
 | [Happy Pills](https://open.spotify.com/track/6aB6cq6abx0aYTTQsoXbo3) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Happy Pills](https://open.spotify.com/album/4Tsj4nbRo7e4SaltWiZda7) | 3:01 | 2026-02-16 | 2026-05-17 |
 | [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 | 2026-06-30 | 2026-08-08 |
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 | 2026-01-05 |

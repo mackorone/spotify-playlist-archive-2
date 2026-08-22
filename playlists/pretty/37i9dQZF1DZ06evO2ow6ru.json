@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 178375,
+  "num_followers": 178376,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAB8gN/kLNS20c+aHTffcvhq",
+  "snapshot_id": "aoZDgAAAAABWGmJAuhswgXtMtMPTvIc+",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Stella",
-      "url": "https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 209933,
       "name": "Time-Bomb",
       "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic",
-        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199405,
-      "name": "If These Sheets Were States",
-      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put Up Or Shut Up",
         "url": "https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 218293,
       "name": "Jasey Rae",
       "url": "https://open.spotify.com/track/1oTtOTbcP8waTv4wPsCqSm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199405,
+      "name": "If These Sheets Were States",
+      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic",
-        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199491,
-      "name": "The Reckless And The Brave",
-      "url": "https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toxic Valentine",
         "url": "https://open.spotify.com/album/67Cir5qRQdHrd3Zxwdk4FZ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 172280,
       "name": "Toxic Valentine",
       "url": "https://open.spotify.com/track/0reDMKFg0nKaGUKqS3YUG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199491,
+      "name": "The Reckless And The Brave",
+      "url": "https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6"
     },
     {
       "added_at": null,

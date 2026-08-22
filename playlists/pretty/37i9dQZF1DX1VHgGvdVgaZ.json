@@ -1,12 +1,12 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 62288,
+  "num_followers": 62299,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOhKQpSHaJ0WSy50XKeFvX05TqcK",
+  "snapshot_id": "AAAAAM/4xCnVDlLz/j1TLYtaxlW+knkH",
   "tracks": [
     {
       "added_at": "2026-05-26 09:17:44",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "Laya Vinyas",
+        "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
+      },
+      "artists": [
+        {
+          "name": "Trichy Sankaran",
+          "url": "https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Kriti: Padavini with Vina and Mrdangam",
+      "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Keeravani - Ragam, Thaanam, Pallavai",
         "url": "https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 341080,
       "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
       "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Laya Vinyas",
-        "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
-      },
-      "artists": [
-        {
-          "name": "Trichy Sankaran",
-          "url": "https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Kriti: Padavini with Vina and Mrdangam",
-      "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Veena Gana Murali",
-        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
-      },
-      "artists": [
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 278831,
-      "name": "Ayarpadi - Kurunji - Tisra Nadai",
-      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Bharatiyaar Songs - Veena",
         "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 318667,
       "name": "Thevaram Mangayarkarasi Bowli Adi",
       "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Veena Gana Murali",
+        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
+      },
+      "artists": [
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 278831,
+      "name": "Ayarpadi - Kurunji - Tisra Nadai",
+      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1161,6 +1161,30 @@
       "url": "https://open.spotify.com/track/4hg9XXjCehm0dJTXQkAfWj"
     },
     {
+      "added_at": "2026-08-19 07:26:01",
+      "album": {
+        "name": "JOURNEY (Raga Charukesi)",
+        "url": "https://open.spotify.com/album/10FyRSKSVHLYnC5PMroxWk"
+      },
+      "artists": [
+        {
+          "name": "Charu Suri",
+          "url": "https://open.spotify.com/artist/74kDoHOU6cjB6MFeCDsoZX"
+        },
+        {
+          "name": "V. Selvaganesh",
+          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
+        },
+        {
+          "name": "Max ZT",
+          "url": "https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx"
+        }
+      ],
+      "duration_ms": 399900,
+      "name": "JOURNEY (Raga Charukesi)",
+      "url": "https://open.spotify.com/track/1gAafA1MNoOrlx4oUdRAFy"
+    },
+    {
       "added_at": "2025-07-09 11:29:57",
       "album": {
         "name": "Veena Gana Murali",
@@ -1191,30 +1215,6 @@
       "duration_ms": 512208,
       "name": "Sambho Mahaadeva",
       "url": "https://open.spotify.com/track/6WBqkuNScTjtfOI5XB6cg3"
-    },
-    {
-      "added_at": "2026-08-19 07:26:01",
-      "album": {
-        "name": "JOURNEY (Raga Charukesi)",
-        "url": "https://open.spotify.com/album/10FyRSKSVHLYnC5PMroxWk"
-      },
-      "artists": [
-        {
-          "name": "Charu Suri",
-          "url": "https://open.spotify.com/artist/74kDoHOU6cjB6MFeCDsoZX"
-        },
-        {
-          "name": "V. Selvaganesh",
-          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
-        },
-        {
-          "name": "Max ZT",
-          "url": "https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx"
-        }
-      ],
-      "duration_ms": 399900,
-      "name": "JOURNEY (Raga Charukesi)",
-      "url": "https://open.spotify.com/track/1gAafA1MNoOrlx4oUdRAFy"
     },
     {
       "added_at": "2025-07-09 11:29:57",

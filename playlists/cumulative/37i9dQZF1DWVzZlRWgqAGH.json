@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Erykah Badu, The Alchemist, and music for your soul.",
+  "description": "Zenesoul and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -15703,6 +15703,24 @@
     },
     {
       "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "I Only Look to You",
+      "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
+    },
+    {
+      "album": {
         "name": "I Scream",
         "url": "https://open.spotify.com/album/72MuM3foBIIgxHG2LklgIX"
       },
@@ -18182,6 +18200,28 @@
       "duration_ms": 218455,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/7dcNsaYCgtycbQYYPj5bao"
+    },
+    {
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1S4qisFcpxXZwMH8cZZz9t"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        },
+        {
+          "name": "Yzabo",
+          "url": "https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235822,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/3KV99XGW5xzq8wO0lbzbRO"
     },
     {
       "album": {
@@ -21158,6 +21198,24 @@
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb"
+    },
+    {
+      "album": {
+        "name": "Moody (Interlude)",
+        "url": "https://open.spotify.com/album/3by0xIg8P6so2mXRs8SDps"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111780,
+      "name": "Moody - Interlude",
+      "url": "https://open.spotify.com/track/4gszCRGb7JVjsN7FTXwr8Y"
     },
     {
       "album": {
@@ -36504,6 +36562,24 @@
       "duration_ms": 236000,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/5EkLs85MvYI8QjYWf2FdbH"
+    },
+    {
+      "album": {
+        "name": "Under the Same Sky",
+        "url": "https://open.spotify.com/album/0rXmFmuQm7cbb2NuPHF8lS"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161525,
+      "name": "You Found Her",
+      "url": "https://open.spotify.com/track/5JSyd3ormliZCoveePc63H"
     },
     {
       "album": {

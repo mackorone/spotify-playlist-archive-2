@@ -1,12 +1,12 @@
 {
   "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: Sibel Can, Eypio",
-  "num_followers": 291516,
+  "num_followers": 291607,
   "original_name": "Yaz Hitleri 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM62C3cQAGFeTp74j7jXzOkkJFrn",
+  "snapshot_id": "AAAAAEfsksH+VTTpGglR/0kedJ7vMkRt",
   "tracks": [
     {
       "added_at": "2026-08-10 04:55:04",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-08-10 04:55:04",
       "album": {
-        "name": "Kalpsiz Bir Serseri (Live)",
-        "url": "https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 224962,
-      "name": "Kalpsiz Bir Serseri - Live",
-      "url": "https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ"
-    },
-    {
-      "added_at": "2026-08-10 04:55:04",
-      "album": {
         "name": "Ba\u015fa Bela",
         "url": "https://open.spotify.com/album/2c8n5PoruLqgaGQYmACWe8"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 154081,
       "name": "Ba\u015fa Bela",
       "url": "https://open.spotify.com/track/0onzYPfM09MY31tUkb0xgj"
+    },
+    {
+      "added_at": "2026-08-10 04:55:04",
+      "album": {
+        "name": "Kalpsiz Bir Serseri (Live)",
+        "url": "https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 224962,
+      "name": "Kalpsiz Bir Serseri - Live",
+      "url": "https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ"
     },
     {
       "added_at": "2026-08-10 04:55:04",

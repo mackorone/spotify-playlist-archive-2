@@ -2455,6 +2455,28 @@
     },
     {
       "album": {
+        "name": "Hallucinating Love (Deluxe)",
+        "url": "https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167537,
+      "name": "D.O.T.W - Demo",
+      "url": "https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP"
+    },
+    {
+      "album": {
         "name": "Dance of the Crab",
         "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
       },

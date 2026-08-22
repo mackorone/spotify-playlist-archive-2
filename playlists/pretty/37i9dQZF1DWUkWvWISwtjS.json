@@ -1,12 +1,12 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 424271,
+  "num_followers": 424203,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0LPQD1h2+/xlCGvLzaLSOCmZBd",
+  "snapshot_id": "AAAAAKR9wPgGPI8nW+YSeE5O3qsuIAIg",
   "tracks": [
     {
       "added_at": "2026-01-16 03:03:24",
@@ -243,38 +243,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Ant\u00eddoto - Ao Vivo",
-      "url": "https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Realidade (Ao Vivo Em Manaus)",
-        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "Perto de Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/0cSIHvOAL4LqBpZnib5Ne5"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "VIVA (Ao Vivo)",
         "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
@@ -287,6 +255,38 @@
       "duration_ms": 180001,
       "name": "choque t\u00e9rmico - ao vivo",
       "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Mar\u00edlia Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 173152,
+      "name": "Sil\u00eancio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Ant\u00eddoto - Ao Vivo",
+      "url": "https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -339,8 +339,8 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Mar\u00edlia Mendon\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
+        "name": "Realidade (Ao Vivo Em Manaus)",
+        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 173152,
-      "name": "Sil\u00eancio - Ao Vivo",
-      "url": "https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu"
+      "duration_ms": 171626,
+      "name": "Perto de Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cSIHvOAL4LqBpZnib5Ne5"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Cuidado Que Eu Te Supero",
-        "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Cuidado Que Eu Te Supero",
-      "url": "https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Eu Era",
         "url": "https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 211324,
       "name": "Eu Era",
       "url": "https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Cuidado Que Eu Te Supero",
+        "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 174628,
+      "name": "Cuidado Que Eu Te Supero",
+      "url": "https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Em Sintonia (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 163450,
       "name": "Rapariga N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0ihMkv4Usn03EEEF8Rlw22"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Nosso cupido foi Deus",
+        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 186276,
+      "name": "Nosso cupido foi Deus",
+      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Jenifer",
-        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Diniz",
-          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Jenifer",
-      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
         "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 185781,
       "name": "Mundo de Ilus\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Jenifer",
+        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Diniz",
+          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Jenifer",
+      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "De Copo Em Copo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        }
-      ],
-      "duration_ms": 153756,
-      "name": "Segue O Plano - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Juramento do Dedinho",
         "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 164808,
       "name": "Juramento do Dedinho",
       "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "De Copo Em Copo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        }
+      ],
+      "duration_ms": 153756,
+      "name": "Segue O Plano - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Reflexo (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "Bebo Litro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GSHXM7PZ75f6ZwpekBq83"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 146424,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Reflexo (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "Bebo Litro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0GSHXM7PZ75f6ZwpekBq83"
     },
     {
       "added_at": "2026-01-16 03:03:24",

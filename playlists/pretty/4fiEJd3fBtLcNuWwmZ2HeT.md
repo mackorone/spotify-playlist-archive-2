@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 513 songs - 1 day 5 hr 25 min
+[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 516 songs - 1 day 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -521,5 +521,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 511 | [忘却心中](https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg) | [0\-9](https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn) | [忘却心中](https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG) | 4:13 |
 | 512 | [Aster](https://open.spotify.com/track/1I6TrS3GxQDnDzf479mYW0) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [NeoDreamTraveler](https://open.spotify.com/album/36VBZ7w53MCsXPfh3fyQdz) | 3:50 |
 | 513 | [メロメロイド \(feat\. 初音ミク\)](https://open.spotify.com/track/4yug2vxP12JjgRDOURtvNY) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [メロメロイド](https://open.spotify.com/album/3i0647Ek3aN0vP4WEFgRYA) | 3:03 |
+| 514 | [Piano Sonata No\. 5 in C Minor, Op\. 10 No\. 1: I\. Allegro molto e con brio](https://open.spotify.com/track/1rzmVyoWk8TuEKekMDIWMR) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Beethoven: The Piano Sonatas](https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U) | 5:53 |
+| 515 | [Piano Sonata No\. 5 in C Minor, Op\. 10 No\. 1: II\. Adagio molto](https://open.spotify.com/track/4elvYsB4RqBGVxs7V0maB1) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Beethoven: The Piano Sonatas](https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U) | 8:27 |
+| 516 | [Piano Sonata No\. 5 in C Minor, Op\. 10 No\. 1: III\. Finale\. Prestissimo](https://open.spotify.com/track/5HHGBiNIpVY6qBuZ0YIKkm) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Beethoven: The Piano Sonatas](https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U) | 4:46 |
 
-Snapshot ID: `AAAKWyF2W/IjLK9xYv1tVtalgC9zZn5d`
+Snapshot ID: `AAAKXr9JNN8BMFK2eEX7qWlGx7edEvTm`

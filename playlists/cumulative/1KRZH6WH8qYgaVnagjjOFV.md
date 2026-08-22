@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship fifa
 
-225 songs - 14 hr 47 min
+226 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 | 2025-08-15 |  |
 | [Who Else \- Live at Gateway Conference](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 | 2025-01-31 | 2026-05-18 |
 | [Who He Is](https://open.spotify.com/track/5kgJZIFXAb9I30RVTJZTCI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Who He Is](https://open.spotify.com/album/6zghmwpOhK3ybNRv7zZ87w) | 3:34 | 2025-03-21 |  |
+| [Who I Am To You](https://open.spotify.com/track/0m8LZQ4U90ztxmsanrSx9g) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Who I Am To You](https://open.spotify.com/album/4EOaaVcUrGgEA1lg2DBd8v) | 3:10 | 2026-08-21 |  |
 | [WITH ME](https://open.spotify.com/track/6doOhTCKwAW8Vrveb6amW0) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [WITH ME](https://open.spotify.com/album/4GNYbe1TGZGsbkcvtJ09MG) | 2:01 | 2025-01-31 | 2026-03-17 |
 | [Won't He Do It \- Live](https://open.spotify.com/track/4FC3XAidDIMYLFIkxed9bA) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [33 \(Live\)](https://open.spotify.com/album/500D9cuyZpRq0mh13uxVUL) | 5:13 | 2024-07-12 | 2025-09-20 |
 | [Won't Let Go](https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 3:09 | 2026-01-23 |  |

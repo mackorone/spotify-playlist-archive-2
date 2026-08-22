@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 ### [New Music Friday Italia](https://open.spotify.com/playlist/37i9dQZF1DWVKDF4ycOESi)
 
-> Nuovi brani dei Fontaines D.C., Farruko,  KATSEYE, Jungle, HUGEL e tanti altri.
+> Nuovi brani delle ultime due settimane dei Fontaines D.C., Farruko,  KATSEYE, Jungle, HUGEL e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,500 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,798 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 54 | [Pigwig](https://open.spotify.com/track/541b8o0h1YKxW7dqXoKSUv) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Pigwig](https://open.spotify.com/album/6Y5D3uRWQdB44G87bPmaC3) | 3:29 |
 | 55 | [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 |
 
-Snapshot ID: `AAAAAH3MRIsJbOq8WUaWfxTVNnc/IEdY`
+Snapshot ID: `AAAAAEli8JJaEOKq0OgoubrnjAOhdIGJ`

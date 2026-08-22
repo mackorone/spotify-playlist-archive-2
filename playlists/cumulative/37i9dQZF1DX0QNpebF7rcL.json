@@ -9625,6 +9625,28 @@
     },
     {
       "album": {
+        "name": "The Breakdown",
+        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Take 6",
+          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282581,
+      "name": "They Don\u2019t Make \u2019Em Like They Used to (feat. Take 6)",
+      "url": "https://open.spotify.com/track/4jLOt63posrIQXjap1muX3"
+    },
+    {
+      "album": {
         "name": "Thinking 'Bout Myself",
         "url": "https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX"
       },

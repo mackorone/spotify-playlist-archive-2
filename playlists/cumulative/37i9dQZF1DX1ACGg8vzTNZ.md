@@ -4,7 +4,7 @@
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-136 songs - 8 hr 6 min
+137 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Atoms](https://open.spotify.com/track/0hkKRfW2uqXYjKVnKRj2Ci) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [WE](https://open.spotify.com/album/1gL3mRRAlclxj2rU9MOiux) | 3:48 | 2022-01-10 | 2023-02-02 |
 | [aura](https://open.spotify.com/track/5GPmHwAHEhsHNYJonzl9lp) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo), [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [désert](https://open.spotify.com/album/0rdKdgO7a9a8u33CrOYEEI) | 3:32 | 2025-06-18 |  |
 | [Aurora](https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO) | [Jacob Pavek](https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5), [BLOMMA](https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x) | [BLOMMA](https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc) | 4:25 | 2022-10-28 | 2023-02-02 |
+| [Awakening \(Piano and Strings\)](https://open.spotify.com/track/12x83XKUdnT5nXXo9bn7LT) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Awakening \(Piano and Strings\)](https://open.spotify.com/album/41hc3CYrNqplZqeo4FA0pj) | 4:03 | 2026-08-21 |  |
 | [Azure](https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Azure](https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo) | 3:12 | 2022-07-11 | 2023-02-02 |
 | [Azure](https://open.spotify.com/track/5afWiVFi9xhtHOmYeLtNXi) | [Disjoint Square](https://open.spotify.com/artist/3d1cJoUqbmWCYxRh8Ac7YC) | [Azure](https://open.spotify.com/album/2L5knPw1XVvdu3ZbVPqgvA) | 3:36 | 2022-01-10 | 2022-10-29 |
 | [Berceuse](https://open.spotify.com/track/4W11ykVxHguZTyd30ckgLh) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Piano](https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I) | 2:07 | 2022-01-10 |  |

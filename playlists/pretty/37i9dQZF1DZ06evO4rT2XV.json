@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABJ+F/Ct6N0YJlsVyYdNr30",
+  "snapshot_id": "aoZDgAAAAAArmVbFCVkK3nHZeSkge8Xw",
   "tracks": [
     {
       "added_at": null,
@@ -871,42 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erik Satie",
-        "url": "https://open.spotify.com/album/7lY1G1ERfl1VBTYCSCoLT7"
-      },
-      "artists": [
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Troisi\u00e8me Gymnop\u00e9die",
-      "url": "https://open.spotify.com/track/3WYT0pMVrBgKe6f7m0He8l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Women play Debussy",
-        "url": "https://open.spotify.com/album/4lyxKq3nXW9mSfLH5g6XxY"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Katia & Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
-        }
-      ],
-      "duration_ms": 408413,
-      "name": "En blanc et noir, L.134: 2. Lent. Sombre",
-      "url": "https://open.spotify.com/track/5QhIIZHq2sQ5myuFZg0IrG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sisters",
         "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
       },
@@ -927,22 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satie Autumnal Study Vibes",
-        "url": "https://open.spotify.com/album/0ISuPqfiWZvrGm6SeFwXSq"
+        "name": "Women play Debussy",
+        "url": "https://open.spotify.com/album/4lyxKq3nXW9mSfLH5g6XxY"
       },
       "artists": [
         {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
         },
         {
           "name": "Katia & Marielle Lab\u00e8que",
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Trois morceaux en forme de poire: No.3 - Brutal",
-      "url": "https://open.spotify.com/track/6c7udTupLNql3nYjOOfn0m"
+      "duration_ms": 408413,
+      "name": "En blanc et noir, L.134: 2. Lent. Sombre",
+      "url": "https://open.spotify.com/track/5QhIIZHq2sQ5myuFZg0IrG"
     },
     {
       "added_at": null,
@@ -971,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minimalism for Spring",
-        "url": "https://open.spotify.com/album/14iT6l649zYcSRLNtyO3gv"
+        "name": "Satie Autumnal Study Vibes",
+        "url": "https://open.spotify.com/album/0ISuPqfiWZvrGm6SeFwXSq"
       },
       "artists": [
         {
-          "name": "Michael Nyman",
-          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
         },
         {
           "name": "Katia & Marielle Lab\u00e8que",
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 283489,
-      "name": "Water Dances, Arr. for two pianos: IV. Gliding",
-      "url": "https://open.spotify.com/track/3TKciQVui6nteCM6Tr4qgj"
+      "duration_ms": 172200,
+      "name": "Trois morceaux en forme de poire: No.3 - Brutal",
+      "url": "https://open.spotify.com/track/6c7udTupLNql3nYjOOfn0m"
     },
     {
       "added_at": null,
@@ -1024,9 +988,9 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 73240,
-      "name": "Le Tango perp\u00e9tuel",
-      "url": "https://open.spotify.com/track/2IqqLeEMUJdN9qhuRFrYAo"
+      "duration_ms": 50546,
+      "name": "Colin-Maillard",
+      "url": "https://open.spotify.com/track/22YpuJPcOdfcv8vFdpGvZC"
     },
     {
       "added_at": null,
@@ -1068,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 395242,
-      "name": "Water Dances, Arr. for two pianos: II. Stroking",
-      "url": "https://open.spotify.com/track/5lCKepSseNL8heedzNoXWl"
+      "duration_ms": 283489,
+      "name": "Water Dances, Arr. for two pianos: IV. Gliding",
+      "url": "https://open.spotify.com/track/3TKciQVui6nteCM6Tr4qgj"
     },
     {
       "added_at": null,
@@ -1104,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 65346,
-      "name": "I. Idylle, \u00e0 Debussy",
-      "url": "https://open.spotify.com/track/7oFvYKRbPVQiY2gV6WQnUj"
+      "duration_ms": 73240,
+      "name": "Le Tango perp\u00e9tuel",
+      "url": "https://open.spotify.com/track/2IqqLeEMUJdN9qhuRFrYAo"
     },
     {
       "added_at": null,
@@ -1135,8 +1099,48 @@
     {
       "added_at": null,
       "album": {
-        "name": "Berceuses piano",
-        "url": "https://open.spotify.com/album/3Z9ZYA9la78wlTMbfUQhrW"
+        "name": "Minimalism for Spring",
+        "url": "https://open.spotify.com/album/14iT6l649zYcSRLNtyO3gv"
+      },
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 395242,
+      "name": "Water Dances, Arr. for two pianos: II. Stroking",
+      "url": "https://open.spotify.com/track/5lCKepSseNL8heedzNoXWl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/17lELLYOvxjy8CM6TjJxJb"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Katia & Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
+        }
+      ],
+      "duration_ms": 900280,
+      "name": "Rhapsody in Blue - Arr. for 2 Pianos: Rhapsody in Blue",
+      "url": "https://open.spotify.com/track/2rMwQWnuDdZZ3Oxff7qUif"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Erik Satie",
+        "url": "https://open.spotify.com/album/7lY1G1ERfl1VBTYCSCoLT7"
       },
       "artists": [
         {
@@ -1144,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/7vWzw4VcdQq4njOSGByMR2"
         }
       ],
-      "duration_ms": 130542,
-      "name": "Avril 14",
-      "url": "https://open.spotify.com/track/2NLkCjVcQsxEGKS3aNJHfN"
+      "duration_ms": 65346,
+      "name": "I. Idylle, \u00e0 Debussy",
+      "url": "https://open.spotify.com/track/7oFvYKRbPVQiY2gV6WQnUj"
     }
   ],
   "unique_name": "This Is Katia & Marielle Lab\u00e8que",

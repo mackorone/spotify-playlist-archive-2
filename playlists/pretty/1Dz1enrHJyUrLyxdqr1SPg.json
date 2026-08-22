@@ -6,47 +6,23 @@
     "name": "enilsounds",
     "url": "https://open.spotify.com/user/enilsounds"
   },
-  "snapshot_id": "AABjazyVhcMtfL4h3C803gcbpDHNfsGA",
+  "snapshot_id": "AABjewBHQossQO2wzdJ4gChW9Rbg9MAK",
   "tracks": [
     {
-      "added_at": "2026-08-06 11:16:23",
+      "added_at": "2026-08-21 11:52:39",
       "album": {
-        "name": "Summer Suite (Neon Puls Shifter Sunshine Remix)",
-        "url": "https://open.spotify.com/album/4jrghTrXNnSFfIJbuoJC8J"
+        "name": "Watermelon Sugar (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0HKAF4Lr3SArymKJyDFWwH"
       },
       "artists": [
         {
           "name": "MoonDreams Music",
           "url": "https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N"
-        },
-        {
-          "name": "Neon Puls Shifter",
-          "url": "https://open.spotify.com/artist/4jQrmdTGBHPgf0hFEgkZIQ"
         }
       ],
-      "duration_ms": 178124,
-      "name": "Summer Suite - Neon Puls Shifter Sunshine Remix",
-      "url": "https://open.spotify.com/track/5oSO2F7a3e5ggjFHBAOfzZ"
-    },
-    {
-      "added_at": "2026-08-07 13:55:40",
-      "album": {
-        "name": "Soul Flower",
-        "url": "https://open.spotify.com/album/32llxqKo294oatISYV8rzu"
-      },
-      "artists": [
-        {
-          "name": "Mojo Flows",
-          "url": "https://open.spotify.com/artist/3fpD5vtZUbFpcP8yhA42gZ"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        }
-      ],
-      "duration_ms": 173278,
-      "name": "Soul Flower",
-      "url": "https://open.spotify.com/track/7yhFEiJYlJwC0nAgpZvLPe"
+      "duration_ms": 239548,
+      "name": "Watermelon Sugar - Acoustic Version",
+      "url": "https://open.spotify.com/track/79yxkSM5D7qDqgPmePLdwt"
     },
     {
       "added_at": "2026-06-09 16:45:41",
@@ -71,6 +47,42 @@
       "duration_ms": 190120,
       "name": "Centelha de Amor",
       "url": "https://open.spotify.com/track/4Zd1Eq4BdxnoUbB2s0dhXE"
+    },
+    {
+      "added_at": "2026-08-21 19:06:38",
+      "album": {
+        "name": "Coyote Howl",
+        "url": "https://open.spotify.com/album/5opN4qPpTo05LTfAFn7ViZ"
+      },
+      "artists": [
+        {
+          "name": "Laurie Miller",
+          "url": "https://open.spotify.com/artist/6IzJq5jhRMwWBmyCVX37tz"
+        }
+      ],
+      "duration_ms": 261511,
+      "name": "Coyote Howl",
+      "url": "https://open.spotify.com/track/7dB1gha0kwFTigalVv14Zz"
+    },
+    {
+      "added_at": "2026-08-07 13:55:40",
+      "album": {
+        "name": "Soul Flower",
+        "url": "https://open.spotify.com/album/32llxqKo294oatISYV8rzu"
+      },
+      "artists": [
+        {
+          "name": "Mojo Flows",
+          "url": "https://open.spotify.com/artist/3fpD5vtZUbFpcP8yhA42gZ"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        }
+      ],
+      "duration_ms": 173278,
+      "name": "Soul Flower",
+      "url": "https://open.spotify.com/track/7yhFEiJYlJwC0nAgpZvLPe"
     },
     {
       "added_at": "2026-06-05 18:26:02",
@@ -121,22 +133,6 @@
       "url": "https://open.spotify.com/track/0afp9RSQvTz1IWyD0bT9JL"
     },
     {
-      "added_at": "2026-02-09 18:52:10",
-      "album": {
-        "name": "Streets of Minneapolis (Radio Mix)",
-        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 270825,
-      "name": "Streets of Minneapolis - Radio Mix",
-      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
-    },
-    {
       "added_at": "2026-06-15 05:38:48",
       "album": {
         "name": "Classic Guitar For Kids, Vol. 2 (Radio Edit)",
@@ -157,20 +153,56 @@
       "url": "https://open.spotify.com/track/7vUe8kn8KYiFrQi3z8EN7W"
     },
     {
-      "added_at": "2026-06-05 18:21:43",
+      "added_at": "2026-02-09 18:52:10",
       "album": {
-        "name": "Summer Suite (Shoegaze Version)",
-        "url": "https://open.spotify.com/album/4RIrZGJyoh1Rmo1ekcIjTb"
+        "name": "Streets of Minneapolis (Radio Mix)",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Radio Mix",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
+    },
+    {
+      "added_at": "2025-04-02 19:11:05",
+      "album": {
+        "name": "Alysson",
+        "url": "https://open.spotify.com/album/6QIlsjou5qYaIyeQJIME12"
+      },
+      "artists": [
+        {
+          "name": "Fox Nigon",
+          "url": "https://open.spotify.com/artist/4fwvArBJAXzNDEcSIjKOOV"
+        }
+      ],
+      "duration_ms": 202336,
+      "name": "Alysson",
+      "url": "https://open.spotify.com/track/6JzJlCcG0trCCaVoWLXNVs"
+    },
+    {
+      "added_at": "2026-08-06 11:16:23",
+      "album": {
+        "name": "Summer Suite (Neon Puls Shifter Sunshine Remix)",
+        "url": "https://open.spotify.com/album/4jrghTrXNnSFfIJbuoJC8J"
       },
       "artists": [
         {
           "name": "MoonDreams Music",
           "url": "https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N"
+        },
+        {
+          "name": "Neon Puls Shifter",
+          "url": "https://open.spotify.com/artist/4jQrmdTGBHPgf0hFEgkZIQ"
         }
       ],
-      "duration_ms": 175449,
-      "name": "Summer Suite (Shoegaze Version)",
-      "url": "https://open.spotify.com/track/5dBK0PW5RhFFadnUBNprNE"
+      "duration_ms": 178124,
+      "name": "Summer Suite - Neon Puls Shifter Sunshine Remix",
+      "url": "https://open.spotify.com/track/5oSO2F7a3e5ggjFHBAOfzZ"
     },
     {
       "added_at": "2024-10-05 04:46:44",
@@ -261,6 +293,22 @@
       "url": "https://open.spotify.com/track/7wBTPkvp26iTn9I2lw0jTq"
     },
     {
+      "added_at": "2026-06-05 18:21:43",
+      "album": {
+        "name": "Summer Suite (Shoegaze Version)",
+        "url": "https://open.spotify.com/album/4RIrZGJyoh1Rmo1ekcIjTb"
+      },
+      "artists": [
+        {
+          "name": "MoonDreams Music",
+          "url": "https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N"
+        }
+      ],
+      "duration_ms": 175449,
+      "name": "Summer Suite (Shoegaze Version)",
+      "url": "https://open.spotify.com/track/5dBK0PW5RhFFadnUBNprNE"
+    },
+    {
       "added_at": "2025-10-22 17:17:37",
       "album": {
         "name": "Ogbe",
@@ -275,22 +323,6 @@
       "duration_ms": 197112,
       "name": "Ogbe",
       "url": "https://open.spotify.com/track/1lDt2ZkQORKmv8bKfnbosM"
-    },
-    {
-      "added_at": "2025-04-02 19:11:05",
-      "album": {
-        "name": "Alysson",
-        "url": "https://open.spotify.com/album/6QIlsjou5qYaIyeQJIME12"
-      },
-      "artists": [
-        {
-          "name": "Fox Nigon",
-          "url": "https://open.spotify.com/artist/4fwvArBJAXzNDEcSIjKOOV"
-        }
-      ],
-      "duration_ms": 202336,
-      "name": "Alysson",
-      "url": "https://open.spotify.com/track/6JzJlCcG0trCCaVoWLXNVs"
     },
     {
       "added_at": "2023-10-12 16:25:42",
@@ -815,22 +847,6 @@
       "duration_ms": 158562,
       "name": "Tell Me Lies",
       "url": "https://open.spotify.com/track/7uDwWou3CbkEtwp6YWBMvu"
-    },
-    {
-      "added_at": "2025-08-31 17:54:32",
-      "album": {
-        "name": "The Black Swan Love Song",
-        "url": "https://open.spotify.com/album/0w3vUW84HgnGNGfEBbx45g"
-      },
-      "artists": [
-        {
-          "name": "Laurie Miller",
-          "url": "https://open.spotify.com/artist/6IzJq5jhRMwWBmyCVX37tz"
-        }
-      ],
-      "duration_ms": 282037,
-      "name": "The Black Swan Love Song",
-      "url": "https://open.spotify.com/track/6KPkN8ogwmXIvO9N2LJHJr"
     },
     {
       "added_at": "2025-10-24 12:47:09",
@@ -1467,22 +1483,6 @@
       "duration_ms": 220426,
       "name": "Funky Music Makes Me Lose It",
       "url": "https://open.spotify.com/track/0a2P9IK5t02PRXBqTO3nlM"
-    },
-    {
-      "added_at": "2023-10-13 06:42:01",
-      "album": {
-        "name": "Only on the Dance Floor",
-        "url": "https://open.spotify.com/album/1boRT34yoSTHFO0i3YuqdE"
-      },
-      "artists": [
-        {
-          "name": "MoonDreams Music",
-          "url": "https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N"
-        }
-      ],
-      "duration_ms": 239358,
-      "name": "Only on the Dance Floor",
-      "url": "https://open.spotify.com/track/59mtmWhtgl7l7YS5jpQoJt"
     }
   ],
   "unique_name": "MY FAVOURITE NEW ONES ",

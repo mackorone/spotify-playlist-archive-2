@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: sanah
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,567 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,608 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Gotham](https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Gotham](https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU) | 2:55 |
 | 60 | [Gdy będziesz sam](https://open.spotify.com/track/2D3KypXOFJWiZMz40ZwJCy) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Gdy będziesz sam](https://open.spotify.com/album/0nJhmSMbbrIbkVjGSyz31i) | 3:01 |
 
-Snapshot ID: `AAAAADCYe3HdL+7edfAxA30erLOOmnf0`
+Snapshot ID: `AAAAAMy1v2V//9ksVZe8j+PfYo32iQeU`

@@ -1,12 +1,12 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 61640,
+  "num_followers": 61654,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEQHiy4gAVchMjqWeum/dwTSzBx",
+  "snapshot_id": "AAAAAOhl3xFv3Q1Aa7AyNlRIATbMue22",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:06",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
-        "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
-        "url": "https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg"
-      },
-      "artists": [
-        {
-          "name": "Team Karacho",
-          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
-        },
-        {
-          "name": "Senta",
-          "url": "https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU"
-        }
-      ],
-      "duration_ms": 119341,
-      "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
-      "url": "https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
         "name": "Ferien / Vacanza",
         "url": "https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 164165,
       "name": "Ferien / Vacanza",
       "url": "https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
+        "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
+        "url": "https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg"
+      },
+      "artists": [
+        {
+          "name": "Team Karacho",
+          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
+        },
+        {
+          "name": "Senta",
+          "url": "https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU"
+        }
+      ],
+      "duration_ms": 119341,
+      "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
+      "url": "https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7"
     },
     {
       "added_at": "2026-08-06 22:01:06",

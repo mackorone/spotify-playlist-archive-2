@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,471 likes - 116 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,516 likes - 116 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 115 | [The Glass Path](https://open.spotify.com/track/2VgFuWfPFmjPIhLCGTaQyB) | [Command Module](https://open.spotify.com/artist/5sEuGU3uCiWtzJLdKHutme) | [The Glass Path](https://open.spotify.com/album/3L5KoENlsHeLrAn3wc4C1s) | 2:04 |
 | 116 | [Heiwa](https://open.spotify.com/track/7w6AeU43e5wSvFpB3BXIYO) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Heiwa](https://open.spotify.com/album/2L7t4LXplWhy6nXwWPMAO1) | 2:58 |
 
-Snapshot ID: `AAAAAKgCu6L4QuZeyTGBUT/q5OH012lS`
+Snapshot ID: `AAAAABAGGlbZ/6skl1Z8MnhL8aledIqM`

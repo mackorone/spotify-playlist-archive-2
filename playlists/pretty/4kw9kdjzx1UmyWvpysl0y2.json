@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122961,
+  "num_followers": 122957,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVr721vCcWV3C62EZBHX66lvT75S89",
+  "snapshot_id": "AAAVsF0t3aHl/Wf9akHXMgitRDQQ8e4F",
   "tracks": [
+    {
+      "added_at": "2026-08-21 22:03:59",
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/5saHzxuBPB0WGKSA4e39c3"
+      },
+      "artists": [
+        {
+          "name": "COSTA",
+          "url": "https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX"
+        },
+        {
+          "name": "Fortune Favor",
+          "url": "https://open.spotify.com/artist/1fkNlqFZJfsrHUNXr7xNeh"
+        }
+      ],
+      "duration_ms": 153803,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/6r0FI24st9dtMgDxqiF5Cy"
+    },
     {
       "added_at": "2026-08-20 20:07:08",
       "album": {

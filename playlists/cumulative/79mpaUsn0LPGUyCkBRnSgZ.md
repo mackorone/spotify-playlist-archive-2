@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,198 songs - 3 day 5 hr 17 min
+1,202 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Bed Case](https://open.spotify.com/track/2PO7jULh5zITUydxMJSTzv) | [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS) | [Out of the Garden](https://open.spotify.com/album/53sM38B5s8UptdvmAYJwWk) | 2:50 | 2024-01-18 | 2024-01-22 |
 | [Before Today](https://open.spotify.com/track/1Emw4zGXubKhKshl6U27Eb) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded](https://open.spotify.com/album/2mKMc9g06B2uYTaYRYqpAk) | 4:18 | 2023-06-24 | 2023-07-21 |
 | [Beginner's Luck](https://open.spotify.com/track/0jc2df1zmrGPnLZhcPyEuR) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gumboot Soup](https://open.spotify.com/album/7uDfs1lmoDlKJTGjLaipEg) | 4:25 | 2024-01-15 | 2024-01-17 |
+| [Bella Donna \- 2016 Remaster](https://open.spotify.com/track/67oVj9wKv1T0effsUcny7A) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:22 | 2026-08-21 |  |
 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 | 2022-04-21 | 2023-12-14 |
 | [Better in My Memory](https://open.spotify.com/track/0eWCi968jvfFZiLSMiOeFD) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Rebecca Black Was Here](https://open.spotify.com/album/6vXI5FEqyxKPD2AFJd6rkC) | 2:50 | 2024-02-15 | 2024-06-12 |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2023-05-22 | 2023-06-03 |
@@ -340,6 +341,7 @@
 | [Fear and Friday's \(Poem\)](https://open.spotify.com/track/44IXD2J5yyr7PpOZzz2cmQ) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 1:47 | 2024-01-01 |  |
 | [Fear Is A Man's Best Friend](https://open.spotify.com/track/3v19aK0OgDXN1M1KAliHV3) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:52 | 2025-12-14 |  |
 | [Fear Not For Man](https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not For Man](https://open.spotify.com/album/1YPAWyiCPvhgqju8veosGt) | 14:14 | 2023-06-14 |  |
+| [Feather By Feather](https://open.spotify.com/track/0sIAb5xEdpgOdSs57qtVr9) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Supper](https://open.spotify.com/album/7uk1aaKzZp5c3qsKmWKy73) | 5:36 | 2026-08-21 |  |
 | [Feel](https://open.spotify.com/track/4kLvZvzPYpyDESnfbYFey0) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/0AHaFhhNCg3u0j6EJ3NfP7) | 3:52 | 2024-02-11 |  |
 | [Feel The Love](https://open.spotify.com/track/6h9iDNJ7dGChTOSyJqbzAU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/2Lq7benweaez2kNFKHMape) | 4:29 | 2025-08-08 |  |
 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-02-07 | 2024-04-05 |
@@ -554,6 +556,7 @@
 | [June Guitar](https://open.spotify.com/track/1leMmYw98725djni7wSYhq) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:52 | 2025-07-23 | 2025-08-15 |
 | [Just a Room](https://open.spotify.com/track/6yZs8pZm14d3r0ZkrZDOOy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 3:29 | 2022-06-28 |  |
 | [Just Another Day](https://open.spotify.com/track/6w6I3AFRv7tQMmUTgAghUB) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 5:12 | 2023-11-06 | 2024-05-20 |
+| [Just West of Nicollet](https://open.spotify.com/track/3dP24mOPYufQ0OzRkDjdmm) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Punching the Clown](https://open.spotify.com/album/6ZZiqP4T7teY9nwGxlkSTz) | 5:37 | 2026-08-21 |  |
 | [K.G.L.W.](https://open.spotify.com/track/7sd7teUrIBBxNMGG9BDXic) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 1:36 | 2024-01-15 |  |
 | [Keep Me on Your Mind](https://open.spotify.com/track/7DYIFyeJ7hHxns755Z8WgU) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:17 | 2026-06-15 |  |
 | [Kemp's Jig](https://open.spotify.com/track/3o0XLKK0sKaoAeGCWYKB7q) | [Gryphon](https://open.spotify.com/artist/4Dghr6IbymdYuMDUEybhUR) | [Gryphon](https://open.spotify.com/album/1JPuxlcUBfWvw7guYHmzr8) | 3:09 | 2024-08-19 |  |
@@ -778,6 +781,7 @@
 | [PIRATE RADIO](https://open.spotify.com/track/04MdtyZlxv1DxH5f8nuyuP) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 2:54 | 2026-07-01 |  |
 | [Plain & Sane & Simple Melody](https://open.spotify.com/track/4DCEk28xejlUHLl0i9G7FA) | [Ted Lucas](https://open.spotify.com/artist/6Ej6u8fvyHFFKn5GaQ5cPn) | [Ted Lucas](https://open.spotify.com/album/2CEQedK1AH7F8zcYM7o0Yd) | 2:40 | 2024-03-31 | 2024-10-24 |
 | [Plainsong \- 2010 Remaster](https://open.spotify.com/track/7MkWXuDcqo09FmVut8Ugkl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(2010 Remaster\)](https://open.spotify.com/album/0A13JySVHzBoRZFk2o89Wl) | 5:17 | 2023-11-30 |  |
+| [PLANET FROG](https://open.spotify.com/track/2MTB6NrHEAHBeNsx389RlI) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [PLANET FROG](https://open.spotify.com/album/5zRHU8HegfzTYosVvihqet) | 0:24 | 2026-08-21 |  |
 | [Plantasia](https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 3:21 | 2022-04-29 | 2023-07-29 |
 | [Plastic 100°C](https://open.spotify.com/track/0ah6qyhi2jlBP6D7JLxZrt) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 5:16 | 2022-05-19 |  |
 | [Play Money](https://open.spotify.com/track/0LjZNHcd7ztFKJzm5t0x0T) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Whiteout Conditions](https://open.spotify.com/album/7gSLfnSUAxJRMXhWsz9MYS) | 4:37 | 2026-03-27 |  |

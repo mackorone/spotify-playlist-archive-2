@@ -19681,6 +19681,28 @@
     },
     {
       "album": {
+        "name": "Hou Aan",
+        "url": "https://open.spotify.com/album/4MJDwqz1sVlUsPaDe70Gnz"
+      },
+      "artists": [
+        {
+          "name": "JUPIETER",
+          "url": "https://open.spotify.com/artist/3H0gDH3fny9elXSSYGlgtb"
+        },
+        {
+          "name": "MAAN",
+          "url": "https://open.spotify.com/artist/641tHplgENyvezOHJ1vUnh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "Hou Aan",
+      "url": "https://open.spotify.com/track/7rJ5cti3UFhX4L9YwehbXH"
+    },
+    {
+      "album": {
         "name": "Hou Aan Seil",
         "url": "https://open.spotify.com/album/3qtbcK4cy4mvZdwSUfuzI4"
       },
@@ -35058,7 +35080,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 186490,
       "name": "Oogkontak",
       "url": "https://open.spotify.com/track/1usvrGy7FGqCE3kxLl8g2w"

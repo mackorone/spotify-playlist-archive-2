@@ -1,13 +1,45 @@
 {
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Alyssa Grace",
-  "num_followers": 954732,
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Briston Maroney",
+  "num_followers": 954753,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIY8wedlEh4LLCYkYSjrs8fDVrbb",
+  "snapshot_id": "AAAAAKTOVNeQdQby82AAdV5EDFoNvWHi",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:01:35",
+      "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+    },
+    {
+      "added_at": "2026-08-21 04:01:18",
+      "album": {
+        "name": "Even If You Are Not Mine",
+        "url": "https://open.spotify.com/album/1Wr8RS4Iu2AohhXV3PVGaT"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 239405,
+      "name": "Even If You Are Not Mine",
+      "url": "https://open.spotify.com/track/6IenqsSKtJLesI3w0oJZZz"
+    },
     {
       "added_at": "2026-07-03 04:01:35",
       "album": {
@@ -109,6 +141,22 @@
       "url": "https://open.spotify.com/track/0MZClqTDH4zdG8bn9RZLLP"
     },
     {
+      "added_at": "2026-08-21 04:01:18",
+      "album": {
+        "name": "Bleeding Heart",
+        "url": "https://open.spotify.com/album/2D4VbBFGvjd6bN8C2tp4ei"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/3HMxuGjEVs3sPgnzQjTaPR"
+    },
+    {
       "added_at": "2026-07-03 04:01:35",
       "album": {
         "name": "Gravedigger",
@@ -157,20 +205,20 @@
       "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
     },
     {
-      "added_at": "2026-07-03 04:01:35",
+      "added_at": "2026-08-21 04:01:18",
       "album": {
-        "name": "Is This Heaven? (Extended)",
-        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 169121,
-      "name": "Good At Leaving",
-      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
     },
     {
       "added_at": "2026-07-17 04:01:16",
@@ -223,6 +271,22 @@
       "duration_ms": 177695,
       "name": "Take A Drink",
       "url": "https://open.spotify.com/track/2rclzl0GGH1bDM3pP34NWm"
+    },
+    {
+      "added_at": "2026-08-21 04:01:18",
+      "album": {
+        "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+        "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+      "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
     },
     {
       "added_at": "2026-07-31 04:02:25",
@@ -1043,22 +1107,6 @@
     {
       "added_at": "2026-07-03 04:01:35",
       "album": {
-        "name": "The Pines",
-        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "The Pines",
-      "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
         "name": "Already gone",
         "url": "https://open.spotify.com/album/6j4FSJFv287ZSTXG6JiKA5"
       },
@@ -1487,54 +1535,6 @@
     {
       "added_at": "2026-07-03 04:01:35",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 284137,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
         "name": "hometown",
         "url": "https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ"
       },
@@ -1647,70 +1647,6 @@
       "duration_ms": 203076,
       "name": "Beautiful As You",
       "url": "https://open.spotify.com/track/0P51oa45K7TjmI6aYefQ2U"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "The Reaper",
-        "url": "https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "The Reaper",
-      "url": "https://open.spotify.com/track/1h1cFLBjXf4SgoCxbrcrLC"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/2Pr2RQKoF6y9HI2ytleeM3"
-      },
-      "artists": [
-        {
-          "name": "Late Night Thoughts",
-          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
-        }
-      ],
-      "duration_ms": 228064,
-      "name": "Grow Up",
-      "url": "https://open.spotify.com/track/3Qt3A2x143Eo3PeZb0rRfH"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 190534,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
-    },
-    {
-      "added_at": "2026-07-03 04:01:35",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     }
   ],
   "unique_name": "Folk Pop",

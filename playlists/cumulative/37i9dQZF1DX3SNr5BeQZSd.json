@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 145068,
       "name": "always changing",
       "url": "https://open.spotify.com/track/7yNZb7qHL5cfmDdnvNadk3"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 145263,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/5kEDbeor4TV8CiHchVP4tX"
@@ -6331,6 +6331,32 @@
     },
     {
       "album": {
+        "name": "Dark ink",
+        "url": "https://open.spotify.com/album/3Xd4On6ExpLzNzeAoyG63t"
+      },
+      "artists": [
+        {
+          "name": "ElaZ",
+          "url": "https://open.spotify.com/artist/0Ql6S1E3Q82eyX6VbAz3bm"
+        },
+        {
+          "name": "Eugene",
+          "url": "https://open.spotify.com/artist/3x3xKaexL2yN0OoGDrLHxR"
+        },
+        {
+          "name": "moone\u00f8",
+          "url": "https://open.spotify.com/artist/4dTNv4gCIS09MPIU7am4jt"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Dark ink",
+      "url": "https://open.spotify.com/track/2VnDk5zS7hO7zE1aprYnYX"
+    },
+    {
+      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/0nbeGRsjGbeOxSQbqtQLKg"
       },
@@ -9012,7 +9038,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 116363,
       "name": "faded polaroids",
       "url": "https://open.spotify.com/track/0R1SxlaHEJ5h05mDecqVFh"
@@ -10618,6 +10644,24 @@
     {
       "album": {
         "name": "Glow",
+        "url": "https://open.spotify.com/album/7MwOw1m8WmObNk1hJ9ZjwY"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/6hDASHOG725YvUImbwcu3y"
+    },
+    {
+      "album": {
+        "name": "Glow",
         "url": "https://open.spotify.com/album/3S2247Q4lIAYiag1Lt9UU4"
       },
       "artists": [
@@ -10788,6 +10832,28 @@
       "duration_ms": 80250,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/7LVJOPUvW1Gi0Bt90S3JeA"
+    },
+    {
+      "album": {
+        "name": "good recipe",
+        "url": "https://open.spotify.com/album/46kzB3LFb7VOMrgM7ncrg4"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": "flowless",
+          "url": "https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108800,
+      "name": "good recipe",
+      "url": "https://open.spotify.com/track/1DGy1nMl6I2q5bGonuRZvP"
     },
     {
       "album": {
@@ -14792,7 +14858,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 147272,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/5ovTwZdMu6ruPuAj3M8QMD"
@@ -18471,6 +18537,24 @@
     },
     {
       "album": {
+        "name": "morning shadow",
+        "url": "https://open.spotify.com/album/06XsgvrpepwwSOL1Y7iL5G"
+      },
+      "artists": [
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109870,
+      "name": "morning shadow",
+      "url": "https://open.spotify.com/track/7bFa6ac5xEIhXKvZTKRaWF"
+    },
+    {
+      "album": {
         "name": "morning sun",
         "url": "https://open.spotify.com/album/0aIprKKZYHFMvDw6PJ7ORD"
       },
@@ -21010,7 +21094,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 118441,
       "name": "Pages",
       "url": "https://open.spotify.com/track/7IDRN9WL35dfsZTiIaCd17"
@@ -30295,6 +30379,28 @@
     },
     {
       "album": {
+        "name": "Trail",
+        "url": "https://open.spotify.com/album/2BXgOFjVBDzFSG2VBbomlZ"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Trail",
+      "url": "https://open.spotify.com/track/3Pk6Fcbutb28CVQZcmBgL2"
+    },
+    {
+      "album": {
         "name": "train to nowhere",
         "url": "https://open.spotify.com/album/5OMFyEgSoloMgpXFeFANTk"
       },
@@ -30858,7 +30964,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 95421,
       "name": "Undertones",
       "url": "https://open.spotify.com/track/6DpWcDvKZGPj1fTq7lKSST"
@@ -32536,6 +32642,24 @@
       "duration_ms": 195340,
       "name": "Whatever You Call It, I Need It Out of My Head",
       "url": "https://open.spotify.com/track/35tpA4IlzIc3c2xIiDFH1t"
+    },
+    {
+      "album": {
+        "name": "when it is gone",
+        "url": "https://open.spotify.com/album/29I8NfLlSHlmMZ61GXaDEU"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "when it is gone",
+      "url": "https://open.spotify.com/track/0zF8x6GLmKw9Qg5L8ydvAG"
     },
     {
       "album": {

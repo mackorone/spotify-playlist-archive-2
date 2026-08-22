@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVQnU4.md) - [plain]
 
 > This is Olivia Dean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,194 likes - 42 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,041 likes - 42 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVQnU4.md) - [plain]
 | 34 | [What Am I Gonna Do On Sundays?](https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [What Am I Gonna Do On Sundays?](https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742) | 3:29 |
 | 35 | [Fall Again](https://open.spotify.com/track/5zj2SeupnlWgrRnyMJOwT2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Growth](https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs) | 2:51 |
 | 36 | [Baby Come Home](https://open.spotify.com/track/5dCbFy9uDWZ2l0J1JmBLT5) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Baby Come Home](https://open.spotify.com/album/2GUwYv4BUonWFyTotWy5o3) | 3:08 |
-| 37 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/7aMwi1F7qqHAebvmWnKoBi) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/album/42T7gveXlppO28BANQalhd) | 3:02 |
-| 38 | [You Can't Hurry Love \- Live At Jools' Annual Hootenanny](https://open.spotify.com/track/2RS7UOxu6rnT3bRNTa9U1W) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [You Can't Hurry Love \(Live At Jools' Annual Hootenanny\)](https://open.spotify.com/album/3XYZBbKA0z41yTr0m17Ofz) | 3:19 |
+| 37 | [You Can't Hurry Love \- Live At Jools' Annual Hootenanny](https://open.spotify.com/track/2RS7UOxu6rnT3bRNTa9U1W) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [You Can't Hurry Love \(Live At Jools' Annual Hootenanny\)](https://open.spotify.com/album/3XYZBbKA0z41yTr0m17Ofz) | 3:19 |
+| 38 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/7aMwi1F7qqHAebvmWnKoBi) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/album/42T7gveXlppO28BANQalhd) | 3:02 |
 | 39 | [Slowly](https://open.spotify.com/track/4Q3sVNzOHPZRijeORiAxia) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Slowly](https://open.spotify.com/album/1MmWUjcJzazvFlXZmAAGm9) | 3:49 |
 | 40 | [Out](https://open.spotify.com/track/2ehj7rODzZ5HfBoenfLmIK) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [What Am I Gonna Do On Sundays?](https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742) | 4:04 |
 | 41 | [Millionaire \- Live From KOKO](https://open.spotify.com/track/4yiw2H1JYSXJ74dJKycyZU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ladies Room](https://open.spotify.com/album/2VS5Fo6wObpQqkPCm25LVL) | 4:00 |
 | 42 | [Homerton](https://open.spotify.com/track/1E8ZZzvgrMwm8qUi5IjOHt) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 2:49 |
 
-Snapshot ID: `aoTyAAAAAABc+CAKwSL1r98jtljKHRKS`
+Snapshot ID: `aoZDgAAAAAAG+p+VEkYnO45504o7hJU2`

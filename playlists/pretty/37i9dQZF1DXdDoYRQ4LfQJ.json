@@ -1,12 +1,12 @@
 {
   "description": "Bien Chaka con Natanael Cano, Gabito Ballesteros & the hottest Corridos in the U.S.",
-  "num_followers": 345073,
+  "num_followers": 345112,
   "original_name": "Bien Chaka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABeL324ZdFkFP9NIJ41OQxepN03O",
+  "snapshot_id": "AAAAAD4K5CpsDWwW5xhITGpB5rP3ub42",
   "tracks": [
     {
       "added_at": "2026-08-14 04:02:09",
@@ -803,22 +803,18 @@
     {
       "added_at": "2026-08-14 04:02:09",
       "album": {
-        "name": "El Mayor de los Ranas",
-        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
       "artists": [
         {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        },
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 172059,
-      "name": "El Mayor de los Ranas",
-      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO"
     },
     {
       "added_at": "2026-08-14 04:02:09",
@@ -839,18 +835,22 @@
     {
       "added_at": "2026-08-14 04:02:09",
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+        "name": "El Mayor de los Ranas",
+        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         }
       ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO"
+      "duration_ms": 172059,
+      "name": "El Mayor de los Ranas",
+      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
     },
     {
       "added_at": "2026-08-14 04:02:09",
@@ -1131,26 +1131,22 @@
     {
       "added_at": "2026-08-14 04:02:09",
       "album": {
-        "name": "Aguas",
-        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
+        "name": "Patrullon",
+        "url": "https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         },
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
         }
       ],
-      "duration_ms": 172682,
-      "name": "Aguas",
-      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
+      "duration_ms": 158517,
+      "name": "Patrullon",
+      "url": "https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g"
     },
     {
       "added_at": "2026-08-14 04:02:09",
@@ -1171,22 +1167,26 @@
     {
       "added_at": "2026-08-14 04:02:09",
       "album": {
-        "name": "Patrullon",
-        "url": "https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP"
+        "name": "Aguas",
+        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
       },
       "artists": [
         {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Clase Personal",
-          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
         }
       ],
-      "duration_ms": 158517,
-      "name": "Patrullon",
-      "url": "https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g"
+      "duration_ms": 172682,
+      "name": "Aguas",
+      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
     },
     {
       "added_at": "2026-08-14 04:02:09",

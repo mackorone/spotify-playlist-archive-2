@@ -1,12 +1,12 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 62358,
+  "num_followers": 62422,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH2X3402ORWztKFQOA3vNj4MfSkV",
+  "snapshot_id": "AAAAAIm2kQ39SAeY0vzKd241kjg8tGIT",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:49",
@@ -87,22 +87,6 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 146490,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 132817,
       "name": "THAT GIRL!",
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -191,22 +191,26 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
-        "name": "Agaba Romantic",
-        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
+        "name": "ANGELS",
+        "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
         },
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 128316,
-      "name": "100 Meters",
-      "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
+      "duration_ms": 184437,
+      "name": "ANGELS",
+      "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -247,26 +251,22 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
-        "name": "ANGELS",
-        "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
+        "name": "Agaba Romantic",
+        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
       },
       "artists": [
         {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         },
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
         }
       ],
-      "duration_ms": 184437,
-      "name": "ANGELS",
-      "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
+      "duration_ms": 128316,
+      "name": "100 Meters",
+      "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -291,6 +291,26 @@
       "duration_ms": 224684,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Gimme Dat (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -335,26 +355,6 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Gimme Dat (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
         "name": "Before I Blow",
         "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
       },
@@ -391,46 +391,6 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 182790,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
-        "name": "Till The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Till The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -451,6 +411,26 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 182790,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 165642,
       "name": "you",
       "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -603,6 +603,26 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 204546,
+      "name": "Look At Me (with Fridayy)",
+      "url": "https://open.spotify.com/track/6Belt1VDE3OAvb4JWcn8nf"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 204546,
-      "name": "Look At Me (with Fridayy)",
-      "url": "https://open.spotify.com/track/6Belt1VDE3OAvb4JWcn8nf"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
         "name": "THEY LOVE ME",
         "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
-        "name": "YBTM",
-        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "YBTM",
-      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
         "name": "Only Fans",
         "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
+        "name": "YBTM",
+        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "YBTM",
+      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
         "name": "May 10th",
         "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
       },
@@ -907,6 +907,26 @@
       "duration_ms": 166530,
       "name": "May 10th",
       "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
+        "name": "Sunita",
+        "url": "https://open.spotify.com/album/6AHQyihE6ZzqkXM1a2yub8"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "Sunita",
+      "url": "https://open.spotify.com/track/56knZKB3FZe2abU33OrsJN"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -1107,6 +1127,22 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
         "name": "ON YOU (ii)",
         "url": "https://open.spotify.com/album/0pUPU8nToAwF09iTcUNGxH"
       },
@@ -1123,26 +1159,6 @@
       "duration_ms": 205333,
       "name": "ON YOU - ii",
       "url": "https://open.spotify.com/track/1L7mx2rrY4CZEN7v7HsJna"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
-        "name": "Sunita",
-        "url": "https://open.spotify.com/album/6AHQyihE6ZzqkXM1a2yub8"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 184607,
-      "name": "Sunita",
-      "url": "https://open.spotify.com/track/56knZKB3FZe2abU33OrsJN"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -1183,22 +1199,6 @@
       "duration_ms": 163826,
       "name": "Only God Can Save Me",
       "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
-        "name": "Break Me Down",
-        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
     },
     {
       "added_at": "2026-08-21 00:01:49",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-08-21 00:01:49",
       "album": {
-        "name": "Backyard Party",
-        "url": "https://open.spotify.com/album/4rWd483TmUL1Av92BrRJjh"
-      },
-      "artists": [
-        {
-          "name": "Eli Jae",
-          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
-        }
-      ],
-      "duration_ms": 171262,
-      "name": "Backyard Party",
-      "url": "https://open.spotify.com/track/0Jn7TnPVZAswFmQQWQ8V3N"
-    },
-    {
-      "added_at": "2026-08-21 00:01:49",
-      "album": {
         "name": "Holy Romance",
         "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
       },
@@ -1527,6 +1511,26 @@
       "duration_ms": 171250,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz"
+    },
+    {
+      "added_at": "2026-08-21 00:01:49",
+      "album": {
+        "name": "A1 (feat. Kizz Daniel)",
+        "url": "https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 131526,
+      "name": "A1 (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw"
     }
   ],
   "unique_name": "AfroBae",

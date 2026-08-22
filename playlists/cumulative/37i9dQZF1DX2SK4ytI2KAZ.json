@@ -5640,7 +5640,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 217249,
       "name": "I Want You (Fever)",
       "url": "https://open.spotify.com/track/5LLCNZ9TPe6X7BCRUMWBY2"
@@ -6884,6 +6884,24 @@
       "duration_ms": 244666,
       "name": "Loveblood - EP Version",
       "url": "https://open.spotify.com/track/2XfUjv7NEpUhOkpuiLCGZq"
+    },
+    {
+      "album": {
+        "name": "Lovesick Lifestyle",
+        "url": "https://open.spotify.com/album/6kOKCSl8JHmGV7rREGsfXB"
+      },
+      "artists": [
+        {
+          "name": "Charles Costa",
+          "url": "https://open.spotify.com/artist/2Eq4koczQMVqVEBxHm9gwG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182033,
+      "name": "Lovesick Lifestyle",
+      "url": "https://open.spotify.com/track/63HSWifFNbeNrszeGbRk4n"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The whole truth. Cover: Rick Ross",
-  "num_followers": 270340,
+  "num_followers": 270330,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsB/KGiHKOL5oj64hO4hZJSjeUZ",
+  "snapshot_id": "AAAAAAgOaotwGZFHUtugKtJ1OaMxwyJj",
   "tracks": [
     {
       "added_at": "2026-07-16 23:00:27",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 106753,
+      "name": "FINE SHIT",
+      "url": "https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
         "name": "Legends (with Lil Baby)",
         "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 181448,
       "name": "Legends (with Lil Baby)",
       "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 106753,
-      "name": "FINE SHIT",
-      "url": "https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL"
     },
     {
       "added_at": "2026-07-16 23:00:27",

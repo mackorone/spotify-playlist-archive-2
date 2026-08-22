@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 205410,
+  "num_followers": 205428,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABQtu5LBCF2+NCW1tOGWnKZ",
+  "snapshot_id": "aoZDgAAAAABB5XhZI1JzeDlZhM64o19e",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 175973,
       "name": "Te Dar\u00e1n Ganas De Verme",
       "url": "https://open.spotify.com/track/3gizL2fAU59XhtjbZpbme7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piratita",
-        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 176603,
-      "name": "Lo Mejor Fui Yo",
-      "url": "https://open.spotify.com/track/7jpMB927DJ0FkSRMQOUf4U"
+      "duration_ms": 197546,
+      "name": "Tres Recuerdos",
+      "url": "https://open.spotify.com/track/2dgwZntNk1YJO9SiFyydHb"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Gustos Que Me Doy",
-        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+        "name": "Piratita",
+        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 197546,
-      "name": "Tres Recuerdos",
-      "url": "https://open.spotify.com/track/2dgwZntNk1YJO9SiFyydHb"
+      "duration_ms": 176603,
+      "name": "Lo Mejor Fui Yo",
+      "url": "https://open.spotify.com/track/7jpMB927DJ0FkSRMQOUf4U"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
       "duration_ms": 151742,
       "name": "Debajo De Los Laureles",
       "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "Los Gustos Que Me Doy",
+      "url": "https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB"
     },
     {
       "added_at": null,
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Gustos Que Me Doy",
-        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "Los Gustos Que Me Doy",
-      "url": "https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Abandono, Vol. 4",
         "url": "https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 185579,
       "name": "Al Ver Que Te Vas",
       "url": "https://open.spotify.com/track/4JSZYFKUFdGSvsru6tuQOU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 174413,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Gustos Que Me Doy",
-        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 174413,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Abandono, Vol. 4",
         "url": "https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz"
       },
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 120581,
-      "name": "Ya No Vuelvo A Molestarte",
-      "url": "https://open.spotify.com/track/01qhVZmKIqoL5Gj2SdWOmn"
+      "duration_ms": 210604,
+      "name": "Una Noche Cualquiera",
+      "url": "https://open.spotify.com/track/2szSSBPaBH6skMDz6IQxUW"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 210604,
-      "name": "Una Noche Cualquiera",
-      "url": "https://open.spotify.com/track/2szSSBPaBH6skMDz6IQxUW"
+      "duration_ms": 120581,
+      "name": "Ya No Vuelvo A Molestarte",
+      "url": "https://open.spotify.com/track/01qhVZmKIqoL5Gj2SdWOmn"
     },
     {
       "added_at": null,

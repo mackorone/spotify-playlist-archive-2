@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 18 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
 | 19 | [Another Broken Heart](https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 2:47 |
 | 20 | [Anticipate](https://open.spotify.com/track/0MnN06Sz5ImI6yL0TLMB0n) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:22 |
-| 21 | [Downtown](https://open.spotify.com/track/7HC2wmjJiRWTafCVJ51fzF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/79lxZaUXKearOjAgMsW295) | 2:11 |
-| 22 | [Broken Healing](https://open.spotify.com/track/2Ro5XPGnWXQz2MdL0ZRthK) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Broken Healing](https://open.spotify.com/album/7v4EOQybwO4NYQCWNzVoyD) | 2:58 |
-| 23 | [SWEET SOUR](https://open.spotify.com/track/3TPPESvMtVS5zt7FAX2M9n) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5JnGvbE42HzaqM6DT7u1SN) | 2:57 |
+| 21 | [SWEET SOUR](https://open.spotify.com/track/3TPPESvMtVS5zt7FAX2M9n) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5JnGvbE42HzaqM6DT7u1SN) | 2:57 |
+| 22 | [Downtown](https://open.spotify.com/track/7HC2wmjJiRWTafCVJ51fzF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/79lxZaUXKearOjAgMsW295) | 2:11 |
+| 23 | [Broken Healing](https://open.spotify.com/track/2Ro5XPGnWXQz2MdL0ZRthK) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Broken Healing](https://open.spotify.com/album/7v4EOQybwO4NYQCWNzVoyD) | 2:58 |
 | 24 | [Your Move](https://open.spotify.com/track/3Rmp4xkxopfS9X86UbaZan) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Your Move](https://open.spotify.com/album/1AQLlITkv6bazdrKg2uyME) | 3:07 |
 | 25 | [Snälla berätta för mig](https://open.spotify.com/track/10P8TvdoE4tARfz4JNSm51) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:23 |
 | 26 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 62 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 63 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `AcaHJAAAAAByQMqK1Ua2czJImLhxT7a4`
+Snapshot ID: `AcaMxAAAAAAkT58yqRoP5U6NZQ1mvVv4`

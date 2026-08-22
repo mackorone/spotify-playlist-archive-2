@@ -1,12 +1,12 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 127571,
+  "num_followers": 127602,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACik19K/BIK92jyYiRjJb2jC4XDO",
+  "snapshot_id": "AAAAAAbEWD5u1ZbpPtKWXKKzI4G/f0GX",
   "tracks": [
     {
       "added_at": "2025-11-20 11:23:04",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Iconos Kitsch",
-        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
-      },
-      "artists": [
-        {
-          "name": "Los Vikings 5",
-          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
-        }
-      ],
-      "duration_ms": 209005,
-      "name": "Boquita De Caramelo",
-      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Compa\u00f1eros",
         "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 245581,
       "name": "Compa\u00f1eros",
       "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Iconos Kitsch",
+        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
+      },
+      "artists": [
+        {
+          "name": "Los Vikings 5",
+          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
+        }
+      ],
+      "duration_ms": 209005,
+      "name": "Boquita De Caramelo",
+      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Digan Lo Que Digan",
-        "url": "https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 174889,
-      "name": "Ritmo Sabroso",
-      "url": "https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "90 Retro Style",
         "url": "https://open.spotify.com/album/6V4MgFF7UgYIUEE5v2Gigr"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 185285,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0zbd8A9zWSd0JtBVyn44Ge"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Digan Lo Que Digan",
+        "url": "https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 174889,
+      "name": "Ritmo Sabroso",
+      "url": "https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Veneno Para Olvidar",
-        "url": "https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk"
-      },
-      "artists": [
-        {
-          "name": "Megapuesta",
-          "url": "https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Veneno Para Olvidar",
-      "url": "https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Bailantero y Parrandero",
         "url": "https://open.spotify.com/album/6odLqxtmdID7FQtwlajjdc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 199160,
       "name": "Bailantero y Parrandero",
       "url": "https://open.spotify.com/track/4UlqjeL20B01ATFJH2c9vK"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Veneno Para Olvidar",
+        "url": "https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk"
+      },
+      "artists": [
+        {
+          "name": "Megapuesta",
+          "url": "https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Veneno Para Olvidar",
+      "url": "https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
       "artists": [
         {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 356938,
-      "name": "La Santa Diabla",
-      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
+      "duration_ms": 253822,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
         }
       ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
+      "duration_ms": 356938,
+      "name": "La Santa Diabla",
+      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
     }
   ],
   "unique_name": "Cumbias para carretear",

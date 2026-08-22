@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: DAYOUNG, Jay Park)",
-  "num_followers": 392831,
+  "num_followers": 392827,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAjwjVu0LTHZEAJGMgVZNAvZfCZ+",
+  "snapshot_id": "AAAAACwg8rjbizFhBSkyWSfYe+/GbuBI",
   "tracks": [
     {
       "added_at": "2026-08-20 10:33:47",
@@ -115,26 +115,6 @@
     {
       "added_at": "2026-08-20 10:33:47",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-08-20 10:33:47",
-      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 197613,
       "name": "LOVE COUNTDOWN (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
+    },
+    {
+      "added_at": "2026-08-20 10:33:47",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-08-20 10:33:47",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-08-20 10:33:47",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2026-08-20 10:33:47",
+      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 244669,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
-    },
-    {
-      "added_at": "2026-08-20 10:33:47",
-      "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2026-08-20 10:33:47",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-08-20 10:33:47",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
-      },
-      "artists": [
-        {
-          "name": "Parc Jae Jung",
-          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
-        },
-        {
-          "name": "SULLYOON",
-          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
-    },
-    {
-      "added_at": "2026-08-20 10:33:47",
-      "album": {
         "name": "FLIRTY",
         "url": "https://open.spotify.com/album/2GIDfAsKGJVasFJ4BZdsX2"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 135000,
       "name": "FLIRTY",
       "url": "https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk"
+    },
+    {
+      "added_at": "2026-08-20 10:33:47",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        },
+        {
+          "name": "SULLYOON",
+          "url": "https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
     },
     {
       "added_at": "2026-08-20 10:33:47",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-08-20 10:33:47",
       "album": {
-        "name": "Rain Drops (Feat. Chodan of QWER)",
-        "url": "https://open.spotify.com/album/1iXiGFFMTl4uirqoakd53U"
-      },
-      "artists": [
-        {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        },
-        {
-          "name": "Chodan",
-          "url": "https://open.spotify.com/artist/2QKtHEMLWgiXDE2tivddkc"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Rain Drops (Feat. Chodan of QWER)",
-      "url": "https://open.spotify.com/track/0mJ95hBlmJ7FOdPDTBs7RD"
-    },
-    {
-      "added_at": "2026-08-20 10:33:47",
-      "album": {
         "name": "LOVE CATCHER",
         "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 166000,
       "name": "Question Marks (Feat. Paul Kim)",
       "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
+    },
+    {
+      "added_at": "2026-08-20 10:33:47",
+      "album": {
+        "name": "Rain Drops (Feat. Chodan of QWER)",
+        "url": "https://open.spotify.com/album/1iXiGFFMTl4uirqoakd53U"
+      },
+      "artists": [
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        },
+        {
+          "name": "Chodan",
+          "url": "https://open.spotify.com/artist/2QKtHEMLWgiXDE2tivddkc"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Rain Drops (Feat. Chodan of QWER)",
+      "url": "https://open.spotify.com/track/0mJ95hBlmJ7FOdPDTBs7RD"
     },
     {
       "added_at": "2026-08-20 10:33:47",

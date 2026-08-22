@@ -2,9 +2,9 @@
 
 ### [folk & invierno](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> Folk latino de estación\. Foto: J18
+> Folk latino de estación\. Foto: Galean & Planeta No
 
-394 songs - 21 hr 36 min
+399 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2023-04-07 | 2023-10-07 |
 | [Ana María](https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 2:20 | 2024-09-26 |  |
 | [Ancla](https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ancla](https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU) | 3:32 | 2022-05-20 | 2025-12-12 |
+| [Anzuelo](https://open.spotify.com/track/2uzbjpg1Ssi7aKCHLPcXbd) | [Lu Ferreyra](https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO) | [Anzuelo](https://open.spotify.com/album/1UTZfF1vq8gdPe6DMQbAnM) | 2:50 | 2026-08-21 |  |
 | [Apasionadamente](https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Juan Pablo de Mendonça](https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT) | [Sed de Ternura Vol.1 \(Duo Set\)](https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA) | 3:07 | 2024-04-12 |  |
 | [Aquellos misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-11-11 | 2024-09-27 |
 | [Arcoíris Negro](https://open.spotify.com/track/6lxC9nm3vPPjxYoQ7wTDdJ) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Arcoíris Negro](https://open.spotify.com/album/7yryBJ5ZH2EECKtqJjsRVe) | 4:39 | 2026-05-29 |  |
@@ -146,6 +147,7 @@
 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 | 2022-05-20 | 2023-04-15 |
 | [En las Olas: Casai Unplugged \- Live Music Session](https://open.spotify.com/track/16rseopH500XHD0pbOZ4on) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [En las Olas: Casai Unplugged \- Live Music Session](https://open.spotify.com/album/2J6G1KcS1JxPiXgvKWaHne) | 3:14 | 2022-05-20 | 2022-07-16 |
 | [En una](https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [En una](https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1) | 3:39 | 2022-08-26 | 2026-05-29 |
+| [Enero](https://open.spotify.com/track/7HfrRXHfYWHCEAkuZH6aH2) | [Jota Ampuero](https://open.spotify.com/artist/5TYH8AoYhLcpT8XY5RUTyu), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Enero](https://open.spotify.com/album/12Awh3SA8gFqUCsxZAtKDk) | 2:04 | 2026-08-21 |  |
 | [Enero](https://open.spotify.com/track/1IUVBjVaK08NIpU0OjRZrF) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [atte\. Celli](https://open.spotify.com/album/3DupetZzSGjEyXBpZno7v3) | 3:08 | 2022-05-20 | 2023-04-15 |
 | [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-04-07 | 2023-06-24 |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-05-26 | 2026-05-29 |
@@ -228,8 +230,10 @@
 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-07-15 | 2024-04-04 |
 | [miel <3](https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [miel <3](https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw) | 3:23 | 2022-05-20 | 2024-09-27 |
 | [Milanesa al Pan](https://open.spotify.com/track/6gE0pYDB5ndP0bSPeXktcL) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Milanesa al Pan](https://open.spotify.com/album/405rypS7jhNdcqFTnIsVdL) | 2:49 | 2023-04-07 | 2023-10-07 |
+| [Mineral](https://open.spotify.com/track/3PPISgw8ozazK30nDX5jo1) | [Camila Abril](https://open.spotify.com/artist/326jLhQ753w2gs1YHYKbnO), [Emilio Nicoli](https://open.spotify.com/artist/1eqLgeYTj4ZBZBACeFc3qV) | [Todo el Brillo](https://open.spotify.com/album/6y8VWG9OceT3FqLEDbgdTQ) | 3:51 | 2026-08-21 |  |
 | [Mira Niñita](https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Mira Niñita](https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau) | 4:28 | 2022-05-20 | 2023-04-15 |
 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 | 2023-04-07 | 2024-09-27 |
+| [mis amigas](https://open.spotify.com/track/549nYHp4rMtzv44Djmt0Xd) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [mis amigas](https://open.spotify.com/album/32DuGZhcKgAfvvzvb2LaLf) | 2:19 | 2026-08-21 |  |
 | [Monster](https://open.spotify.com/track/6r63gGBlSTMalmugaHVcQY) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Monster](https://open.spotify.com/album/6i9PApaQGHP09y8gR2cWHV) | 3:07 | 2022-05-20 | 2022-07-16 |
 | [Moscatel](https://open.spotify.com/track/5IYHGE2mA0cydIhNUVLuTb) | [MALAiiERBA](https://open.spotify.com/artist/7yWlhqRKWnbmQ0eW0i1TKu) | [Moscatel](https://open.spotify.com/album/3D8TTfMJ4ydMlmUlUeHiL4) | 2:16 | 2022-05-20 | 2022-08-06 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 | 2022-05-20 | 2022-07-16 |
@@ -356,6 +360,7 @@
 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 | 2022-05-20 | 2023-04-15 |
 | [tu forma de quedarte](https://open.spotify.com/track/2WxTePUukKebGCy1IZwcbO) | [Alondra Bravo](https://open.spotify.com/artist/1ziR8FcSwB1AyqYyJsXhE4) | [tu forma de quedarte](https://open.spotify.com/album/5FieXebBefb1w5FXSiMygZ) | 4:12 | 2026-06-12 |  |
 | [Tu Nombre](https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Tu Nombre](https://open.spotify.com/album/0NvNtFrr5XEUUDSt5hytL0) | 3:01 | 2022-05-20 | 2023-04-09 |
+| [Tu órbita](https://open.spotify.com/track/2JU3kbGePTDS3Bjw94BrB8) | [Galean](https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Tu órbita](https://open.spotify.com/album/5Iv6vXWF1OyZ9TFUtC2v2S) | 3:18 | 2026-08-21 |  |
 | [Tur Blues](https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Tur Blues](https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg) | 3:33 | 2022-05-20 | 2025-12-25 |
 | [ULTIMO LUNES](https://open.spotify.com/track/7EIA3El5BmyYVd8t5ju7yr) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [ULTIMO LUNES](https://open.spotify.com/album/30SK5R5X3VhGYQfiEjW0ai) | 2:56 | 2026-05-29 |  |
 | [Un amor](https://open.spotify.com/track/3IL3mklv4NTLUANPgg9G9O) | [Ihara](https://open.spotify.com/artist/5HMSeEkN5TBGd50gdBNPL2) | [Un amor](https://open.spotify.com/album/1MRtSdJSapLRHzJeeuv4kL) | 3:14 | 2025-08-18 |  |

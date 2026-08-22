@@ -4,7 +4,7 @@
 
 > Smøgmænd er unge knive 🎭
 
-455 songs - 23 hr 19 min
+455 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Før du siger farvel](https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e) | [Loui Henderson](https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0) | [Før du siger farvel](https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby) | 3:05 | 2026-06-26 |  |
 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 | 2025-06-26 |  |
 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 | 2025-02-20 |  |
+| [Gemen](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 2:29 | 2026-08-20 |  |
 | [Genbrug](https://open.spotify.com/track/47dUNTWlQ735eBb6XrBS0x) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Genbrug](https://open.spotify.com/album/41X17LznjGL3UAGwk8O5UC) | 2:52 | 2026-04-16 | 2026-06-02 |
 | [Genfærd](https://open.spotify.com/track/0DSXSBT15E18Wzmh4JV41L) | [ANYA](https://open.spotify.com/artist/0LtICwkx09q0oc4VjuwJTT) | [Genfærd](https://open.spotify.com/album/3JwZ1Dtmuvc0rN8f02BF2Q) | 3:20 | 2025-02-20 | 2025-03-11 |
 | [Gennem Dit Hjerte \(feat\. Hans Philip\)](https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Når Man Taler Om Solen](https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx) | 2:52 | 2024-06-27 | 2025-01-24 |
@@ -395,7 +396,6 @@
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 | 2024-09-27 |
 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2024-06-27 |  |
 | [TO OM NATTEN](https://open.spotify.com/track/42Rt9FsB03RRTfT4vR3prd) | [Chukz](https://open.spotify.com/artist/37rvQBNRn9rUEgPDPdOlfC) | [TO OM NATTEN](https://open.spotify.com/album/4YugKOIaP4dq24uqXYWAtI) | 2:07 | 2025-11-20 | 2026-02-06 |
-| [Track 5](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 0:00 | 2026-08-20 |  |
 | [Troede Det Var Os](https://open.spotify.com/track/0o7TS3c91RbVB0MKX6KsXL) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm), [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Troede Det Var Os](https://open.spotify.com/album/7DqmAsltUZkIQNC60FJK2W) | 2:54 | 2026-05-28 | 2026-06-12 |
 | [Træ](https://open.spotify.com/track/1O4JjI0kH0ThnCZWrryAGD) | [Rigmor](https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y) | [Træ](https://open.spotify.com/album/6VNRVd5whVnFT6PSFPpR6R) | 3:19 | 2024-12-12 | 2025-02-07 |
 | [Tunge Følelser](https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Tunge Følelser](https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U) | 2:35 | 2025-09-18 | 2026-03-06 |

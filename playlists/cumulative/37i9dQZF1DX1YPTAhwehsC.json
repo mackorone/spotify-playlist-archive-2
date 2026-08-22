@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "1 - 800",
+        "url": "https://open.spotify.com/album/3KMJSdo5rl9MLNE3MyUjMN"
+      },
+      "artists": [
+        {
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115632,
+      "name": "1 - 800",
+      "url": "https://open.spotify.com/track/1BcFjLXCCxcT0pfgjvsiLb"
+    },
+    {
+      "album": {
         "name": "1 Mo Time",
         "url": "https://open.spotify.com/album/5rQcdELMiUNbRAb9XRve77"
       },
@@ -1213,6 +1235,28 @@
     },
     {
       "album": {
+        "name": "IT REALLY DO BE THAT DAMN PHONE",
+        "url": "https://open.spotify.com/album/2Ot35WxIvKSnluiocFy5gb"
+      },
+      "artists": [
+        {
+          "name": "ERISTHEPLANET",
+          "url": "https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114400,
+      "name": "8 FEET TALL (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/2uGyUOy5RSYW5XTe4dlgMu"
+    },
+    {
+      "album": {
         "name": "850 (We On Top) [feat. Rich The Kid]",
         "url": "https://open.spotify.com/album/0Ow1LzDAS3hCPzGNK9TeOT"
       },
@@ -2286,6 +2330,24 @@
       "duration_ms": 256026,
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
       "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
+    },
+    {
+      "album": {
+        "name": "Hues Vol. 3",
+        "url": "https://open.spotify.com/album/4OjS9RnmUoDlwOYHsHtDJt"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "amelia",
+      "url": "https://open.spotify.com/track/2xUAPCDiKwlvuNqaFvMAc4"
     },
     {
       "album": {
@@ -7245,6 +7307,24 @@
     },
     {
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193965,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
+    },
+    {
+      "album": {
         "name": "Proud Of Myself",
         "url": "https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP"
       },
@@ -7398,7 +7478,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 283226,
       "name": "Cable Box",
       "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
@@ -16824,6 +16904,24 @@
       "duration_ms": 345297,
       "name": "Griselda Express (with Westside Gunn, Conway The Machine & Rick Hyde)",
       "url": "https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ"
+    },
+    {
+      "album": {
+        "name": "Another Night at The Chateau",
+        "url": "https://open.spotify.com/album/7lFLtZtGZfyZGQvYjIF9O9"
+      },
+      "artists": [
+        {
+          "name": "Premo Rice",
+          "url": "https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147494,
+      "name": "Growin Pains",
+      "url": "https://open.spotify.com/track/2g02AMChngCmyCBHHBaKCo"
     },
     {
       "album": {
@@ -27692,7 +27790,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 161107,
       "name": "nova",
       "url": "https://open.spotify.com/track/4hEUX1M0mMV1GHNwdxbC1G"
@@ -34860,7 +34958,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 99106,
       "name": "SHOW GIRL",
       "url": "https://open.spotify.com/track/3JF6SG6vbjoBtnNx0f4qdp"
@@ -37770,7 +37868,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 145483,
       "name": "Talk Ya Shit",
       "url": "https://open.spotify.com/track/4cD4hLdmLands2EQaBlvz8"
@@ -39648,7 +39746,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 165717,
       "name": "Trackstar",
       "url": "https://open.spotify.com/track/2TxT0QE5l9Kq7qUTreTYss"
@@ -40056,6 +40154,28 @@
       "duration_ms": 166529,
       "name": "Truth Is Freestyle",
       "url": "https://open.spotify.com/track/4GEflsHs7NCAFCcw0tmSwk"
+    },
+    {
+      "album": {
+        "name": "Try and Fail (feat. SoFaygo)",
+        "url": "https://open.spotify.com/album/4TJnMKR81EbrOExdDsQo6I"
+      },
+      "artists": [
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        },
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Try and Fail (feat. SoFaygo)",
+      "url": "https://open.spotify.com/track/2XlaX5NF4ux2QgADVeYfU5"
     },
     {
       "album": {
@@ -41957,6 +42077,24 @@
     },
     {
       "album": {
+        "name": "What I Like",
+        "url": "https://open.spotify.com/album/5Xzl48Whplmz8eKbfjekpQ"
+      },
+      "artists": [
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141059,
+      "name": "What I Like",
+      "url": "https://open.spotify.com/track/4M5igPbQd7rJAGrxaj3Chi"
+    },
+    {
+      "album": {
         "name": "I LAY DOWN MY LIFE FOR YOU (DIRECTORS CUT)",
         "url": "https://open.spotify.com/album/55lsRqfR4SpMeYFr3neQ7S"
       },
@@ -42352,7 +42490,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 149724,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0YcZT9SjPgmylWUfJSFtm3"
@@ -42564,7 +42702,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 149261,
       "name": "Whistle",
       "url": "https://open.spotify.com/track/7aMckysZtVcm5leq8jIYQ3"

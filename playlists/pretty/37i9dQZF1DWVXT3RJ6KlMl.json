@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs",
-  "num_followers": 38063,
+  "num_followers": 38076,
   "original_name": "70's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkfJbqDcj7vNxSN1LXCrXQLAS1n",
+  "snapshot_id": "AAAAAImYWUXneGi+2i71NsFXH7F2vgYi",
   "tracks": [
     {
       "added_at": "2024-07-09 16:51:18",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Teddybeer",
-        "url": "https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo"
-      },
-      "artists": [
-        {
-          "name": "Gerard De Vries",
-          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Teddybeer",
-      "url": "https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
         "name": "Waarheen, Waarvoor",
         "url": "https://open.spotify.com/album/6IDpXkN0suXABodTg84j2X"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 227640,
       "name": "Waarheen, Waarvoor",
       "url": "https://open.spotify.com/track/7tLxcHzbbeezs1auDLq5lQ"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
+        "name": "Teddybeer",
+        "url": "https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo"
+      },
+      "artists": [
+        {
+          "name": "Gerard De Vries",
+          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Teddybeer",
+      "url": "https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY"
     },
     {
       "added_at": "2024-07-09 16:51:18",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
+        "name": "De Mooiste Liedjes, Vol.1",
+        "url": "https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA"
+      },
+      "artists": [
+        {
+          "name": "Peter Koelewijn",
+          "url": "https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Kom Van Dat Dak Af",
+      "url": "https://open.spotify.com/track/1q8BkBdleysfnUhxISo489"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
         "name": "Brandend Zand",
         "url": "https://open.spotify.com/album/7H0qBQQweMzWTOnQ1YRFM7"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 203173,
       "name": "Brandend Zand",
       "url": "https://open.spotify.com/track/31ZmFDuJqMAaH30JBetArW"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
-        "name": "De Mooiste Liedjes, Vol.1",
-        "url": "https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA"
-      },
-      "artists": [
-        {
-          "name": "Peter Koelewijn",
-          "url": "https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Kom Van Dat Dak Af",
-      "url": "https://open.spotify.com/track/1q8BkBdleysfnUhxISo489"
     },
     {
       "added_at": "2024-07-09 16:51:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Rob 100",
-        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
-      },
-      "artists": [
-        {
-          "name": "Rob De Nijs",
-          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "Het Werd Zomer",
-      "url": "https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
         "name": "Smartlappen Top 100 - Deel 2",
         "url": "https://open.spotify.com/album/2vmDDtUfBv1HUS1RxeHgtv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 181306,
       "name": "Pappie, Ik Zie Tranen In Uw Ogen",
       "url": "https://open.spotify.com/track/5JwsIbgqsEJWUe26OjJti4"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
+        "name": "Rob 100",
+        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
+      },
+      "artists": [
+        {
+          "name": "Rob De Nijs",
+          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Het Werd Zomer",
+      "url": "https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC"
     },
     {
       "added_at": "2024-07-09 16:51:18",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Rob 100",
-        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
-      },
-      "artists": [
-        {
-          "name": "Rob De Nijs",
-          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
-        }
-      ],
-      "duration_ms": 254426,
-      "name": "Malle Babbe",
-      "url": "https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
         "name": "Hollandse Hits Top 100",
         "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 166765,
       "name": "Maar Wie Holt Van Mekaar",
       "url": "https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
+        "name": "Rob 100",
+        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
+      },
+      "artists": [
+        {
+          "name": "Rob De Nijs",
+          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
+        }
+      ],
+      "duration_ms": 254426,
+      "name": "Malle Babbe",
+      "url": "https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn"
     },
     {
       "added_at": "2024-07-09 16:51:18",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Rob 100",
-        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
+        "name": "Lytse Hille Presenteert de 'Ik Kwam Je Tegen' tour",
+        "url": "https://open.spotify.com/album/0huX9PWQ3GRT5PfpZhF6CZ"
       },
       "artists": [
         {
-          "name": "Rob De Nijs",
-          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
+          "name": "Imca Marina",
+          "url": "https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5"
         }
       ],
-      "duration_ms": 150360,
-      "name": "Dag Zuster Ursula",
-      "url": "https://open.spotify.com/track/5CbSKFHtoheVWjXd1TnCEN"
+      "duration_ms": 196231,
+      "name": "Vino (Waar Blijft De Wijn)",
+      "url": "https://open.spotify.com/track/3AWIhm2aCaB2Nj6w4SH61W"
     }
   ],
   "unique_name": "70's Nederlandstalig",

@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 484828,
+  "num_followers": 484849,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANZXdpkfnDYbN3I2cz/fmWXAI8qL",
+  "snapshot_id": "AAAAADRkqGAeeEjz7lBaDfej/BLBGdbI",
   "tracks": [
     {
       "added_at": "2026-06-17 20:08:40",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Don't Lie",
-        "url": "https://open.spotify.com/album/1UKOVuWSsajyHrG1EwtZZI"
-      },
-      "artists": [
-        {
-          "name": "Dogpark",
-          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
-        }
-      ],
-      "duration_ms": 178650,
-      "name": "Don\u2019t Lie",
-      "url": "https://open.spotify.com/track/4cEC3ENYWqhXjOtmvCSxij"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Nine Types of Light",
         "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Don't Lie",
+        "url": "https://open.spotify.com/album/1UKOVuWSsajyHrG1EwtZZI"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "duration_ms": 178650,
+      "name": "Don\u2019t Lie",
+      "url": "https://open.spotify.com/track/4cEC3ENYWqhXjOtmvCSxij"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "just friends",
-        "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
-      },
-      "artists": [
-        {
-          "name": "camille blackman",
-          "url": "https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc"
-        }
-      ],
-      "duration_ms": 208363,
-      "name": "just friends",
-      "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Heartbeat Highway",
         "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 221217,
       "name": "Heartbeat Highway",
       "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
+      },
+      "artists": [
+        {
+          "name": "camille blackman",
+          "url": "https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc"
+        }
+      ],
+      "duration_ms": 208363,
+      "name": "just friends",
+      "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Holy Grail",
-        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Holy Grail",
-      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "We\u2019re All Gonna Die",
         "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 179202,
       "name": "We\u2019re All Gonna Die (with Noah Kahan)",
       "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Holy Grail",
+        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Different Kind Of Love",
-        "url": "https://open.spotify.com/album/2ruEVIwYM4HjFXEjvnU45o"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Different Kind Of Love",
-      "url": "https://open.spotify.com/track/2aD8QNWrmr8vslwcTLApxd"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Hoops",
         "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Set Yourself Free",
-        "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
+        "name": "Different Kind Of Love",
+        "url": "https://open.spotify.com/album/2ruEVIwYM4HjFXEjvnU45o"
       },
       "artists": [
         {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 185740,
-      "name": "Set Yourself Free",
-      "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
+      "duration_ms": 219786,
+      "name": "Different Kind Of Love",
+      "url": "https://open.spotify.com/track/2aD8QNWrmr8vslwcTLApxd"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1355,6 +1339,22 @@
       "duration_ms": 179255,
       "name": "Sick of Being Young",
       "url": "https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Set Yourself Free",
+        "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 185740,
+      "name": "Set Yourself Free",
+      "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "My Maker",
         "url": "https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1687,22 +1703,6 @@
       "duration_ms": 157998,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE"
-      },
-      "artists": [
-        {
-          "name": "Petey USA",
-          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
-        }
-      ],
-      "duration_ms": 284111,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Death Grip",
         "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 191292,
       "name": "Death Grip",
       "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "duration_ms": 284111,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Get Hurt",
-        "url": "https://open.spotify.com/album/0VZk3U8WPylj3x0PFwP6yj"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 223360,
-      "name": "Get Hurt",
-      "url": "https://open.spotify.com/track/5EeMYgfcEoRLnxw6CUUVfm"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Tilt At The Wind No More",
         "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 212081,
       "name": "Smoke & Ribbons",
       "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Get Hurt",
+        "url": "https://open.spotify.com/album/0VZk3U8WPylj3x0PFwP6yj"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Get Hurt",
+      "url": "https://open.spotify.com/track/5EeMYgfcEoRLnxw6CUUVfm"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Octopus",
+        "url": "https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7"
+      },
+      "artists": [
+        {
+          "name": "ISLAND",
+          "url": "https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl"
+        }
+      ],
+      "duration_ms": 148280,
+      "name": "Octopus",
+      "url": "https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "It's Depression (feat. Middle Part)",
         "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 193000,
       "name": "It's Depression (feat. Middle Part)",
       "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
-        "name": "Octopus",
-        "url": "https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7"
-      },
-      "artists": [
-        {
-          "name": "ISLAND",
-          "url": "https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl"
-        }
-      ],
-      "duration_ms": 148280,
-      "name": "Octopus",
-      "url": "https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+        "name": "Minimum Wage",
+        "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
       },
       "artists": [
         {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
         }
       ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
+      "duration_ms": 196512,
+      "name": "Minimum Wage",
+      "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2451,18 +2451,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Minimum Wage",
-        "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
       },
       "artists": [
         {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
         }
       ],
-      "duration_ms": 196512,
-      "name": "Minimum Wage",
-      "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "added_at": "2026-06-17 20:08:40",

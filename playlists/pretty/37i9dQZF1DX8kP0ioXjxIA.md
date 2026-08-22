@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 
 > BLACKPINK in our area! DEADLINE is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,416,767 likes - 72 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,416,739 likes - 72 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 | 71 | [Love To Hate Me](https://open.spotify.com/track/09JE599HkmbidwGWyD4ZGy) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 2:49 |
 | 72 | [Crazy Over You](https://open.spotify.com/track/4yOqfpzmL4FvmXJTUgAMUP) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 2:41 |
 
-Snapshot ID: `AAAAAC/tfAtOiY/fAl2Yb6Yi2oYtDjZK`
+Snapshot ID: `AAAAAElszEpPJUhvLAKviECRrhco/lZO`

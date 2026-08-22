@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAACTE++fpw2cJounJwE18+Z/",
+  "snapshot_id": "aoZDgAAAAADtX87JRE/2fXg38U3T+9Dp",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Hay una Persona en Este Mundo",
+      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Hay una Persona en Este Mundo",
-      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invencibles",
         "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
       },
@@ -535,6 +535,26 @@
       "duration_ms": 203373,
       "name": "Que Se Junten Nuestros Brazos",
       "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comiendote a Besos",
+        "url": "https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "Comiendote a Besos",
+      "url": "https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv"
     },
     {
       "added_at": null,
@@ -571,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comiendote a Besos",
-        "url": "https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "Comiendote a Besos",
-      "url": "https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cara a Cara",
         "url": "https://open.spotify.com/album/3RwlERz4moNAWgCbKtectx"
       },
@@ -603,6 +603,26 @@
       "duration_ms": 191033,
       "name": "Por una Mujer Bonita",
       "url": "https://open.spotify.com/track/6L1B9w1dSvNI5dCASNb4Ez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amistades",
+        "url": "https://open.spotify.com/album/44LrvNvSvNp8Hwmo9twwYs"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 192587,
+      "name": "Veinte m\u00e1s",
+      "url": "https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv"
     },
     {
       "added_at": null,
@@ -643,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amistades",
-        "url": "https://open.spotify.com/album/44LrvNvSvNp8Hwmo9twwYs"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        },
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 192587,
-      "name": "Veinte m\u00e1s",
-      "url": "https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De la Tierra al Cielo VII",
         "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Que Te Perdone Dios",
-      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asomate a Mi Alma",
         "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 174419,
       "name": "Te Pido y Te Ruego",
       "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Que Te Perdone Dios",
+      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Que Son Pasiones",
+        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 215405,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Son Pasiones",
-        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
       },
       "artists": [
         {
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 215405,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
+      "duration_ms": 189546,
+      "name": "De Cantina En Cantina",
+      "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 165887,
       "name": "Se Supone",
       "url": "https://open.spotify.com/track/0ilbMi7Ahnyr5qGQaeNdbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "De Cantina En Cantina",
-      "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
     }
   ],
   "unique_name": "This Is Los Tiranos Del Norte",

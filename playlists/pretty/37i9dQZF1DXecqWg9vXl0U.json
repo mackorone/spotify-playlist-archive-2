@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring fidoisblue \u2728",
-  "num_followers": 57373,
+  "num_followers": 57379,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXzND5uJfNT3r1SDXk4csnLqcZ+",
+  "snapshot_id": "AAAAADkAHwHrj5pLqXWY8KVThx+YXIPl",
   "tracks": [
     {
       "added_at": "2025-12-05 14:55:26",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "\u00bfQu\u00e9 te falta?",
+        "url": "https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 199668,
+      "name": "\u00bfQu\u00e9 te falta?",
+      "url": "https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "En Todas Partes",
         "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 217636,
       "name": "En Todas Partes",
       "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "\u00bfQu\u00e9 te falta?",
-        "url": "https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 199668,
-      "name": "\u00bfQu\u00e9 te falta?",
-      "url": "https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Midifalda",
-        "url": "https://open.spotify.com/album/6w4QfLtTVOybMbEudLuWBi"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        },
-        {
-          "name": "el p\u00e1jaro del mar",
-          "url": "https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd"
-        }
-      ],
-      "duration_ms": 230375,
-      "name": "Midifalda",
-      "url": "https://open.spotify.com/track/1HUgopO8WOk3aHtfP9bfwD"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Adentro M\u00edo",
         "url": "https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I"
+        "name": "Midifalda",
+        "url": "https://open.spotify.com/album/6w4QfLtTVOybMbEudLuWBi"
       },
       "artists": [
         {
-          "name": "Nunca Fuimos Listos",
-          "url": "https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T"
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        },
+        {
+          "name": "el p\u00e1jaro del mar",
+          "url": "https://open.spotify.com/artist/6ufE2Ze2PczyxVdbdJwQDd"
         }
       ],
-      "duration_ms": 231722,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv"
+      "duration_ms": 230375,
+      "name": "Midifalda",
+      "url": "https://open.spotify.com/track/1HUgopO8WOk3aHtfP9bfwD"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -875,18 +859,34 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+        "name": "California",
+        "url": "https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+          "name": "Nunca Fuimos Listos",
+          "url": "https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T"
         }
       ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
+      "duration_ms": 231722,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -907,18 +907,18 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Nada me cansa",
-        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
       },
       "artists": [
         {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
         }
       ],
-      "duration_ms": 122553,
-      "name": "Nada me cansa",
-      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "Y Si",
+        "url": "https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "duration_ms": 114782,
+      "name": "Y Si",
+      "url": "https://open.spotify.com/track/081225Aw909qAbV9UjAQeM"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "Claro",
         "url": "https://open.spotify.com/album/19fxTjEVWgJI367drWYTyn"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 103695,
       "name": "Claro",
       "url": "https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "Y Si",
-        "url": "https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 114782,
-      "name": "Y Si",
-      "url": "https://open.spotify.com/track/081225Aw909qAbV9UjAQeM"
     },
     {
       "added_at": "2025-12-05 14:55:26",

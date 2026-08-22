@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-308 songs - 18 hr 46 min
+309 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Good News](https://open.spotify.com/track/3N5WhBan3fyW2LnT8UXUBZ) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Good News](https://open.spotify.com/album/6GSRhKsu8GzEe0OvecCwMa) | 2:59 | 2024-08-30 |  |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2021-12-10 | 2025-06-30 |
 | [Got Me \(feat\. Shane & Shane\)](https://open.spotify.com/track/0jPyxhlX59YdIqCc0soDwR) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:55 | 2021-12-10 |  |
+| [Gratitude](https://open.spotify.com/track/0nOqC7HE2ahBAfM18OZvhj) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Gratitude](https://open.spotify.com/album/28ukIB4sEoUaeSG7b8b6Ht) | 4:11 | 2026-08-21 |  |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:21 | 2021-12-10 | 2025-06-30 |
 | [Greatest Hits](https://open.spotify.com/track/5HHk0B7B7mz6REWAlarrdA) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Greatest Hits](https://open.spotify.com/album/2MelPAapOVxlQkP78Uo2Fk) | 3:23 | 2023-02-17 | 2025-06-30 |
 | [Grew up on That](https://open.spotify.com/track/54tkmSblWo5WzUA00yzJkm) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Grew Up On That](https://open.spotify.com/album/24OC3wKBc8NgSyQyeh8abB) | 2:52 | 2021-12-10 |  |

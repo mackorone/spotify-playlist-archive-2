@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-213 songs - 10 hr 26 min
+218 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Fare finta](https://open.spotify.com/track/0oxCfIael0av7V8JCucC7q) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [fuori dalla stanza](https://open.spotify.com/album/5IuN8Gt3WM27QXNhb6kenh) | 3:02 | 2025-07-04 |  |
 | [Farò Più Rumore Del Ratatata](https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t), [Toomaj](https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx) | [Farò Più Rumore Del Ratatata](https://open.spotify.com/album/69SXGkqk4Q5PXr1S2brFPO) | 2:46 | 2026-07-17 |  |
 | [Fede](https://open.spotify.com/track/2WYL6etkzaNnQUxvQ7KyYC) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 3:42 | 2024-04-29 |  |
+| [FEMME FATALE](https://open.spotify.com/track/38meGgUo3fx6HRuBSzlKtx) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:25 | 2026-08-21 |  |
 | [Filippo Leroy](https://open.spotify.com/track/19PVhId3pxPm0FA6QJXyoa) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:03 | 2024-04-29 | 2025-12-18 |
 | [Filippo Leroy](https://open.spotify.com/track/2rHgWF0mR7l63nUgGLuZvB) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/25xh26FmCXPFgnCXLvTS5Q) | 3:03 | 2025-12-17 |  |
 | [Flash](https://open.spotify.com/track/2OajuteWecH4XFQyFLq1wQ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:43 | 2025-06-09 |  |
@@ -72,6 +73,7 @@
 | [Fossi come te](https://open.spotify.com/track/1FsO5N8jJ12vSq2LLhmTlv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/208QVntLWsx44R2Eb0Hm81) | 3:03 | 2024-09-14 |  |
 | [Fuck You Vincenzo](https://open.spotify.com/track/4Y6eSG3Zl01ixdi8hjpPP3) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:13 | 2025-08-26 |  |
 | [Funerale](https://open.spotify.com/track/5ryZexJBkb3yB3UjKBJ4J7) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:45 | 2024-04-29 |  |
+| [Fuoritempo ;\( \(balla\)](https://open.spotify.com/track/3AMvD8HYGGBnSmCas5Xli8) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 2:28 | 2026-08-21 |  |
 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 | 2024-09-09 |  |
 | [GBYE](https://open.spotify.com/track/1GBVRVUJUzp0tzRtrCGYw5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:51 | 2024-04-29 | 2025-10-14 |
 | [GBYE](https://open.spotify.com/track/6f1Q1nOeM35YcydV40V8F0) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [GBYE](https://open.spotify.com/album/0xDaSqw3I7D2bWXGpi0EQV) | 2:51 | 2025-10-13 |  |
@@ -91,6 +93,7 @@
 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 | 2024-06-07 |  |
 | [IO HO PAURA v0](https://open.spotify.com/track/5M9BvqGIf9yOVQ192vITVR) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:37 | 2024-04-29 |  |
 | [Islanda](https://open.spotify.com/track/0JiJbbKU6RTYJXMBI34UzM) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:37 | 2025-08-27 |  |
+| [JAMES DEAN](https://open.spotify.com/track/38ymTy0ALyNcnWCLoCDgWr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [JAMES DEAN](https://open.spotify.com/album/7hihiCYSTCRKAGcX7hSUXJ) | 3:07 | 2026-08-21 |  |
 | [Joanne](https://open.spotify.com/track/60cfIuNFwncEEJOCWoFxx8) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:19 | 2024-04-29 |  |
 | [Katholisch Erzogen](https://open.spotify.com/track/3XJWENXsyuxRwSdCT57z6f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Katholisch Erzogen](https://open.spotify.com/album/1G00lF8JYRNgpzQDfFdIXD) | 2:13 | 2024-04-29 |  |
 | [ko ciao](https://open.spotify.com/track/1CUs6u897fBIY6obRQjTvi) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:17 | 2026-07-29 |  |
@@ -114,6 +117,7 @@
 | [Labirinto](https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Labirinto](https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L) | 2:01 | 2024-09-22 |  |
 | [Lasciatemi Piangere](https://open.spotify.com/track/2z0CYJsv2779T7I82bazKj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:18 | 2024-04-29 |  |
 | [Leave Me!](https://open.spotify.com/track/0UDielSIu8r36UEsKLvSDt) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:54 | 2024-04-29 |  |
+| [Limonare](https://open.spotify.com/track/0hJJgXpm0nBjfE3U8EIXec) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Limonare](https://open.spotify.com/album/3XGu4Uha6uqbOrhzm17AuP) | 2:17 | 2026-08-21 |  |
 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 | 2025-09-10 |  |
 | [Londra](https://open.spotify.com/track/3f8Afp4ayOM9UPAwSYTkWE) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Londra](https://open.spotify.com/album/3oClS9LXJ5py2WVOS3mAgW) | 3:23 | 2025-01-09 | 2025-04-12 |
 | [Lontano](https://open.spotify.com/track/6Y9k0eqeWM6CFTRXmllK2H) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Lontano](https://open.spotify.com/album/5xIkwmOvPatDLwwbDmj1GO) | 2:36 | 2025-04-07 |  |
@@ -136,6 +140,7 @@
 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 | 2024-04-29 |  |
 | [Nevica](https://open.spotify.com/track/3xPLkr2ZxSsIBxbTv0zluy) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:08 | 2025-08-26 |  |
 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 | 2024-06-06 |  |
+| [NON MI MANCHI MAI \(A VOLTE\)](https://open.spotify.com/track/2VKWX2NR9IJ1nSnd82bN8O) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:56 | 2026-08-21 |  |
 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 | 2024-05-25 |  |
 | [Non mi va](https://open.spotify.com/track/1i5KZuk9052PeWBEOgTbkG) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:29 | 2024-04-29 |  |
 | [Non Sono Cool](https://open.spotify.com/track/4UDHBaPYDu6zI0sva3Yn26) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 2:41 | 2024-04-29 |  |

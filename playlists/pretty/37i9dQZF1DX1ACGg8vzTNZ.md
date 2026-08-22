@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,803 likes - 57 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,827 likes - 58 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 7 | [The Stars Will Dim \- Nowhere Sessions](https://open.spotify.com/track/59FkcwkiWIq6HBVrSai5Db) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The Stars Will Dim \(Nowhere Sessions\)](https://open.spotify.com/album/4Eil98QcM8s8ES9vCP7Pxl) | 2:41 |
 | 8 | [The Light Within](https://open.spotify.com/track/3bdcZhuUHinvFeNViIWXKT) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Where We Are \(Unity Edition\)](https://open.spotify.com/album/4ritLJ4dx1ORPyARuasLjB) | 2:14 |
 | 9 | [Dream 4](https://open.spotify.com/track/4qy48U0P1YQHMj03KpbAhz) | [Aleksander Dębicz](https://open.spotify.com/artist/0HZYW7kTNPn8JRCmHv6fad) | [Dream 4](https://open.spotify.com/album/5NW0pAveJZq6Pge8UWCa10) | 2:30 |
-| 10 | [Eden](https://open.spotify.com/track/4224vfqQpznVh4X04AIrZp) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Eden](https://open.spotify.com/album/3B6ajgq03CrZCJAoQCX2tp) | 4:55 |
-| 11 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 |
+| 10 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 |
+| 11 | [Awakening \(Piano and Strings\)](https://open.spotify.com/track/12x83XKUdnT5nXXo9bn7LT) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Awakening \(Piano and Strings\)](https://open.spotify.com/album/41hc3CYrNqplZqeo4FA0pj) | 4:03 |
 | 12 | [Lunae](https://open.spotify.com/track/2c5hCxzQSRQR4XAiAEetEl) | [Jordain Wallace](https://open.spotify.com/artist/3DNVxNhoLQt9Q4HqzTPajS) | [To/Day](https://open.spotify.com/album/7cr80VXUNFKIVENIDuery7) | 3:40 |
 | 13 | [Adagio \(Ravel\)](https://open.spotify.com/track/64qeNInhPT3TKPCc6eKyy3) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Ravel \(Encores\)](https://open.spotify.com/album/4enKowMiwzVBUqTLYb6CHh) | 2:47 |
 | 14 | [Did I Ever Tell You](https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 4:35 |
@@ -47,23 +47,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 37 | [CRISALIDE 6](https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb) | [Puppi](https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc) | [CRISALIDE](https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2) | 4:21 |
 | 38 | [Suite in D IV \(Dreamland\)](https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Suite in D IV \(Dreamland\)](https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP) | 2:54 |
 | 39 | [Paint](https://open.spotify.com/track/6PC9beJbKsb3PMIBPbHtc7) | [Matthew Wilcock](https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf) | [Paint & Dance](https://open.spotify.com/album/6R3DQm91XrjzIX1X0VnyLF) | 2:09 |
-| 40 | [Hoxa Sound](https://open.spotify.com/track/7uKJyU2UuZDEb98ENxk4kq) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Holm \(Variations & B\-sides\)](https://open.spotify.com/album/55JLt4kV1iMlDMBVba8sSb) | 2:03 |
-| 41 | [Beyond](https://open.spotify.com/track/08gIemaUaTeWgblinBA5pt) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Dreamer in the Dark](https://open.spotify.com/album/1M1wCDbEfCSzC6dqrmrRBi) | 2:59 |
-| 42 | [Respite](https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:43 |
-| 43 | [Ephemeral](https://open.spotify.com/track/3qU9TqEw19Dfuoz1qIxA13) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Ephemeral](https://open.spotify.com/album/51sOKju3KDousE3UiEBvV9) | 2:11 |
-| 44 | [Okno](https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Okno](https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX) | 3:07 |
-| 45 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
-| 46 | [In Brackets](https://open.spotify.com/track/2VXanJsBUCBt1Q5rTNNFz6) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Caught a Black Rabbit](https://open.spotify.com/album/3M0wS70M7tRZntXMfKqPtU) | 1:43 |
-| 47 | [Nearer \- solo piano](https://open.spotify.com/track/0W7s30iwtHTCrD7IYbJR9s) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Nearer \(solo piano\)](https://open.spotify.com/album/68diijFo2l26OU6v5lKtD5) | 4:13 |
-| 48 | [Lighthouse](https://open.spotify.com/track/5tfN5qARzeaurcsSr7S3mP) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Vivarium](https://open.spotify.com/album/0GfJmiUAaIQCBtJ25zpcwz) | 2:29 |
-| 49 | [Passing Soul](https://open.spotify.com/track/3nlAmaw9jE6BfS8BUuDHZy) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Passing Soul](https://open.spotify.com/album/2IaSJrHDMWC3Y3slcVntxU) | 2:55 |
-| 50 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 |
-| 51 | [Earnest Leslye](https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/4ofVz6Wz5SqA1aMixm6JVK) | 3:49 |
-| 52 | [Berceuse](https://open.spotify.com/track/4W11ykVxHguZTyd30ckgLh) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Piano](https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I) | 2:07 |
-| 53 | [Bråddjup](https://open.spotify.com/track/72X3TNw4gupUSI1BVC1fp9) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Bråddjup](https://open.spotify.com/album/09X4bKe4wtQzL420dXtNay) | 3:04 |
-| 54 | [Lantern \- Piano Version](https://open.spotify.com/track/5OvddxZcyHH4sjqjstniOz) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/2N7PeDMcJbAcdth49YY8qa) | 3:15 |
-| 55 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 |
-| 56 | [Wandering II](https://open.spotify.com/track/1XPUfZx0Nhl7Tl1AT2LKos) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 2:39 |
-| 57 | [the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 |
+| 40 | [Eden](https://open.spotify.com/track/4224vfqQpznVh4X04AIrZp) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Eden](https://open.spotify.com/album/3B6ajgq03CrZCJAoQCX2tp) | 4:55 |
+| 41 | [Hoxa Sound](https://open.spotify.com/track/7uKJyU2UuZDEb98ENxk4kq) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Holm \(Variations & B\-sides\)](https://open.spotify.com/album/55JLt4kV1iMlDMBVba8sSb) | 2:03 |
+| 42 | [Beyond](https://open.spotify.com/track/08gIemaUaTeWgblinBA5pt) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Dreamer in the Dark](https://open.spotify.com/album/1M1wCDbEfCSzC6dqrmrRBi) | 2:59 |
+| 43 | [Respite](https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:43 |
+| 44 | [Ephemeral](https://open.spotify.com/track/3qU9TqEw19Dfuoz1qIxA13) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Ephemeral](https://open.spotify.com/album/51sOKju3KDousE3UiEBvV9) | 2:11 |
+| 45 | [Okno](https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Okno](https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX) | 3:07 |
+| 46 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
+| 47 | [In Brackets](https://open.spotify.com/track/2VXanJsBUCBt1Q5rTNNFz6) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Caught a Black Rabbit](https://open.spotify.com/album/3M0wS70M7tRZntXMfKqPtU) | 1:43 |
+| 48 | [Nearer \- solo piano](https://open.spotify.com/track/0W7s30iwtHTCrD7IYbJR9s) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Nearer \(solo piano\)](https://open.spotify.com/album/68diijFo2l26OU6v5lKtD5) | 4:13 |
+| 49 | [Lighthouse](https://open.spotify.com/track/5tfN5qARzeaurcsSr7S3mP) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Vivarium](https://open.spotify.com/album/0GfJmiUAaIQCBtJ25zpcwz) | 2:29 |
+| 50 | [Passing Soul](https://open.spotify.com/track/3nlAmaw9jE6BfS8BUuDHZy) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Passing Soul](https://open.spotify.com/album/2IaSJrHDMWC3Y3slcVntxU) | 2:55 |
+| 51 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 |
+| 52 | [Earnest Leslye](https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/4ofVz6Wz5SqA1aMixm6JVK) | 3:49 |
+| 53 | [Berceuse](https://open.spotify.com/track/4W11ykVxHguZTyd30ckgLh) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Piano](https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I) | 2:07 |
+| 54 | [Bråddjup](https://open.spotify.com/track/72X3TNw4gupUSI1BVC1fp9) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Bråddjup](https://open.spotify.com/album/09X4bKe4wtQzL420dXtNay) | 3:04 |
+| 55 | [Lantern \- Piano Version](https://open.spotify.com/track/5OvddxZcyHH4sjqjstniOz) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/2N7PeDMcJbAcdth49YY8qa) | 3:15 |
+| 56 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 |
+| 57 | [Wandering II](https://open.spotify.com/track/1XPUfZx0Nhl7Tl1AT2LKos) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 2:39 |
+| 58 | [the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 |
 
-Snapshot ID: `AAAAAIBn2gtuOyR+keyqbbFHcY5Qoqcx`
+Snapshot ID: `AAAAADqM1zPy3cE8HXoeTtw2/UG31O3n`

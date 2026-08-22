@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 135176,
+  "num_followers": 135180,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHI95hikhDIx2PyFSJMs6MfKSF0h",
+  "snapshot_id": "AAAAAP+pR+CrFDdCcrHCFWuvINITxlk4",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 272229,
       "name": "Pais Nublado",
       "url": "https://open.spotify.com/track/5lvBsLDwmZdpWOTRTl8dZu"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
     },
     {
       "added_at": "2023-09-29 18:58:26",

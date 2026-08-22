@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 279937,
       "name": "Arc on the Range",
       "url": "https://open.spotify.com/track/6itakCL7VYWmyVCJ2oHGA6"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Ascension.png",
       "url": "https://open.spotify.com/track/3HcJRxgltYkPo3M1jhryCC"
@@ -2174,6 +2174,24 @@
       "duration_ms": 240742,
       "name": "Big Hammer",
       "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
+    },
+    {
+      "album": {
+        "name": "Bindweed",
+        "url": "https://open.spotify.com/album/3dS6YTQ6MX7QvmMPRaHFxb"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222563,
+      "name": "Bindweed",
+      "url": "https://open.spotify.com/track/2nBWNhMPq8yUXMePsq25Ki"
     },
     {
       "album": {
@@ -3498,6 +3516,32 @@
       "duration_ms": 216065,
       "name": "Coda",
       "url": "https://open.spotify.com/track/4N8Iwg073FXfJgSdpe5xU4"
+    },
+    {
+      "album": {
+        "name": "vpn",
+        "url": "https://open.spotify.com/album/6ACj5gUm3mV8d3HGRDRvr0"
+      },
+      "artists": [
+        {
+          "name": "vpn",
+          "url": "https://open.spotify.com/artist/2blDTNRNwWPIuxqWe7Lr90"
+        },
+        {
+          "name": "Jonny From Space",
+          "url": "https://open.spotify.com/artist/6DDMnrPzjH1gAFHh07YkLn"
+        },
+        {
+          "name": "Fayt",
+          "url": "https://open.spotify.com/artist/7q83nVZ3rR1xM1cSPFTwZ7"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "coil",
+      "url": "https://open.spotify.com/track/2P2g5y4QoFslFXxgzV9oGq"
     },
     {
       "album": {
@@ -5412,7 +5456,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 394653,
       "name": "Earth Moves - Hidden Spheres Remix",
       "url": "https://open.spotify.com/track/3srHdKr4OnHfpjOC5jsz1O"
@@ -11054,7 +11098,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 193413,
       "name": "Leaving Earth 2",
       "url": "https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV"
@@ -15874,7 +15918,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 540493,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/3iBrW5gWNcNhK2A8fNrWKy"
@@ -17558,6 +17602,24 @@
       "duration_ms": 502705,
       "name": "Sit Around The Fire",
       "url": "https://open.spotify.com/track/5kdXiiF8MxyLVhRjkVv9jQ"
+    },
+    {
+      "album": {
+        "name": "Entity Stims",
+        "url": "https://open.spotify.com/album/3Tu1JqP06ugWiQCyA8SD2d"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125983,
+      "name": "Skein",
+      "url": "https://open.spotify.com/track/5eUDvCotRznaXSa5TtOlma"
     },
     {
       "album": {

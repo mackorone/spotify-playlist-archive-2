@@ -6925,6 +6925,24 @@
     },
     {
       "album": {
+        "name": "Eyes Like Robin Eggs",
+        "url": "https://open.spotify.com/album/4Cd2KxHQL6ixCD5tI9vGQp"
+      },
+      "artists": [
+        {
+          "name": "Harlem Night",
+          "url": "https://open.spotify.com/artist/5eEP76MIZe73OshBV05bNd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187010,
+      "name": "Eyes Like Robin Eggs",
+      "url": "https://open.spotify.com/track/5tMGSuQIlHud3aumM4JHwH"
+    },
+    {
+      "album": {
         "name": "Blues & Rhythms",
         "url": "https://open.spotify.com/album/7w3z8FgUCAoXFLtGUHHcVG"
       },

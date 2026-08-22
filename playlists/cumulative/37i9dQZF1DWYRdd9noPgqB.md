@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-505 songs - 1 day 3 hr 45 min
+507 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 | 2026-03-26 |  |
 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-13 |  |
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-07 | 2024-06-14 |
-| [Electronicity](https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Electronicity](https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC) | 3:52 | 2026-01-29 |  |
+| [Electronicity](https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Electronicity](https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC) | 3:52 | 2026-01-29 | 2026-08-22 |
 | [End Zone](https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [ROM COM](https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg) | [End Zone](https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J) | 2:43 | 2025-07-03 | 2026-02-27 |
 | [Every Bullet so Far](https://open.spotify.com/track/6qugUDiEBLgFFrhCa40RS5) | [AllttA](https://open.spotify.com/artist/1si6mnxJ6IpTOTW13ECa0o), [20syl](https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV), [Mr\. J\. Medeiros](https://open.spotify.com/artist/0r9XuUo5aHtAEZiWsOA0wT) | [Curio Part II](https://open.spotify.com/album/4RUvalMQW42XY9a1sgCDip) | 4:12 | 2023-12-08 | 2024-02-16 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-23 | 2024-07-05 |
@@ -132,7 +132,7 @@
 | [Favourite Girl](https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Favourite Girl](https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR) | 2:39 | 2024-10-24 | 2025-03-14 |
 | [Feel Alive](https://open.spotify.com/track/2nPXfUVFzIlhN4SokXg6O7) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Feel Alive](https://open.spotify.com/album/4MfK4qyG0xxWjQtrb0fwvI) | 2:49 | 2026-06-26 |  |
 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-24 | 2026-04-03 |
-| [FEEL THE NIGHT](https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [FEEL THE NIGHT](https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo) | 3:09 | 2026-07-02 |  |
+| [FEEL THE NIGHT](https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [FEEL THE NIGHT](https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo) | 3:09 | 2026-07-02 | 2026-08-22 |
 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 | 2024-02-01 | 2024-06-21 |
 | [Fior di Latte](https://open.spotify.com/track/1NJJObY1QxJhs5Xphq837L) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 4:03 | 2023-09-28 | 2023-10-20 |
 | [Fish in a Bowl](https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Fish in a Bowl](https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp) | 3:42 | 2026-05-21 |  |
@@ -233,6 +233,7 @@
 | [La Notte](https://open.spotify.com/track/6yBKTcGR8HMXuIxDfRPTNZ) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [La Notte](https://open.spotify.com/album/3rbzqpdv5vxIa2URcR6bqR) | 4:51 | 2025-05-15 | 2025-09-26 |
 | [La vie est belle](https://open.spotify.com/track/75D4TY961T5u3FNo3O2vtq) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [La vie est belle](https://open.spotify.com/album/05ZXeyRiAR5uSwRypmDaEp) | 3:09 | 2024-09-19 | 2024-11-08 |
 | [Ladies Room \- Radio Edit](https://open.spotify.com/track/4b6f60zkFKWGwh07LCniu1) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ladies Room](https://open.spotify.com/album/2VS5Fo6wObpQqkPCm25LVL) | 2:57 | 2023-09-28 | 2023-12-01 |
+| [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 | 2026-08-21 |  |
 | [last great american summer](https://open.spotify.com/track/3K9Vf2JtFYuwk63GEKn4nM) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [last great american summer](https://open.spotify.com/album/4gnhFRs1UbrvYed4RluGt9) | 3:14 | 2024-06-13 | 2024-10-18 |
 | [Lately I](https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Lately I](https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj) | 3:07 | 2024-04-25 | 2024-07-19 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2025-01-30 | 2025-05-16 |
@@ -240,6 +241,7 @@
 | [Let her go](https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Let her go](https://open.spotify.com/album/2cm797zjKrsntb3q2bfNKg) | 3:02 | 2023-09-28 | 2023-11-08 |
 | [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 | 2025-12-11 |  |
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-09-05 | 2025-01-17 |
+| [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 | 2026-08-21 |  |
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2024-01-11 | 2024-02-16 |
 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 | 2024-10-17 | 2025-02-28 |
 | [Life On The Line](https://open.spotify.com/track/6zp4523IH32wZBDWklk5iB) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Life On The Line](https://open.spotify.com/album/2nBkY9DjQvHoAhZJSaG5QI) | 2:07 | 2025-01-30 | 2025-06-07 |

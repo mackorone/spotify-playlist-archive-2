@@ -6,8 +6,24 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXK1MLew5xC8D4AHzGOcO6qCsOn8r+",
+  "snapshot_id": "AAAXLSkMkSzeN5gwy6VLmCfdQwTk7fKv",
   "tracks": [
+    {
+      "added_at": "2026-08-21 09:03:00",
+      "album": {
+        "name": "Eyes Like Robin Eggs",
+        "url": "https://open.spotify.com/album/4Cd2KxHQL6ixCD5tI9vGQp"
+      },
+      "artists": [
+        {
+          "name": "Harlem Night",
+          "url": "https://open.spotify.com/artist/5eEP76MIZe73OshBV05bNd"
+        }
+      ],
+      "duration_ms": 187010,
+      "name": "Eyes Like Robin Eggs",
+      "url": "https://open.spotify.com/track/5tMGSuQIlHud3aumM4JHwH"
+    },
     {
       "added_at": "2026-08-17 13:54:11",
       "album": {

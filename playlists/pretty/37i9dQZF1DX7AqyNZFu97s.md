@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: jo from school
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,617 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,622 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [Push It](https://open.spotify.com/track/4k1E1hioBtPXmxPnx6qaRG) | [Wxterboi](https://open.spotify.com/artist/544LkXoMYQUHx92BtPHRHS) | [DREAMON](https://open.spotify.com/album/2Hme0pMDpEqriJWDS1oNEe) | 2:10 |
 | 50 | [did you ask for this](https://open.spotify.com/track/5ytBJVsVok9yWBQca56Ewx) | [holybones](https://open.spotify.com/artist/5BrxhXnto2nqDoweFmBnJ0) | [did you ask for this](https://open.spotify.com/album/2kgmqkVTM042WBup51sARO) | 3:05 |
 
-Snapshot ID: `AAAAAMTwu9u3qrnfpB226Jyw6CcUPUYa`
+Snapshot ID: `AAAAAEWDW4yW5HGls8jfQ15ykfFekVxD`

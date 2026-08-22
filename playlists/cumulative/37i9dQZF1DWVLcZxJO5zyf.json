@@ -6073,6 +6073,24 @@
     },
     {
       "album": {
+        "name": "Na Calada da Tarde",
+        "url": "https://open.spotify.com/album/7w151uzc6yuG4CnBKYkK6v"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195805,
+      "name": "Na Calada da Tarde",
+      "url": "https://open.spotify.com/track/7zqfsyPXgVQmaVkErptcP5"
+    },
+    {
+      "album": {
         "name": "Na Sequ\u00eancia",
         "url": "https://open.spotify.com/album/7irLIvxC3LQpYRRlVh8siU"
       },
@@ -6634,6 +6652,24 @@
       "duration_ms": 173397,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/7kDQV2MzhzRGHeLrB09zMA"
+    },
+    {
+      "album": {
+        "name": "Metamorfose - Ato I (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5UzUKRyhcxptpNQJh66yAX"
+      },
+      "artists": [
+        {
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255698,
+      "name": "O Amor N\u00e3o Deixa - Ao Vivo",
+      "url": "https://open.spotify.com/track/57VipZXKv5tc9OoBA8OVIA"
     },
     {
       "album": {
@@ -9102,7 +9138,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 151256,
       "name": "SEU E S\u00d3 - Ao Vivo no Bondinho, RJ",
       "url": "https://open.spotify.com/track/7aVQMeubLjqfIuLXRbptyl"
@@ -9572,7 +9608,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 221596,
       "name": "s\u00f3 (mais) uma vez",
       "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"

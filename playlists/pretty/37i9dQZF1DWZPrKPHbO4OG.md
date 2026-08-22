@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,812 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,828 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 20 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
 | 21 | [Rupaan Dekhani](https://open.spotify.com/track/5fAcWB4rIuUojHbmFmctU5) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Hrishikesh](https://open.spotify.com/artist/23y7sT3YJztGVJUMMYuxL4) | [Pachadlela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iQTSsJbAsXwrDveCmKh7T) | 5:03 |
 | 22 | [Email Kaal Internetvar Kela](https://open.spotify.com/track/2hh7Pp6vIoSTXnSBsTesQ9) | [Janhavi Arora](https://open.spotify.com/artist/07qG3AroF8Mx0q26F3Gmvw) | [Morya](https://open.spotify.com/album/3XsC9DdsoR70XpXdqmIuNm) | 4:36 |
-| 23 | [Pailwaan](https://open.spotify.com/track/0m2ka0jFqUkfv32FI990AS) | [Brahmaa](https://open.spotify.com/artist/1XkpRyYwCOXr1nUlVSE8KU), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Pailwaan](https://open.spotify.com/album/3Zea6Fd6xXSBYGD5C8ckRG) | 3:57 |
-| 24 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
+| 23 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
+| 24 | [Pailwaan](https://open.spotify.com/track/0m2ka0jFqUkfv32FI990AS) | [Brahmaa](https://open.spotify.com/artist/1XkpRyYwCOXr1nUlVSE8KU), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Pailwaan](https://open.spotify.com/album/3Zea6Fd6xXSBYGD5C8ckRG) | 3:57 |
 | 25 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Sanket Gurav](https://open.spotify.com/artist/6auFxXWRND1WYlRzEYY5Zr), [Nick Shinde](https://open.spotify.com/artist/2CttsFXKKCVqQsbABphTKu) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 |
 | 26 | [Mamachya Gavala \- Kratex Remix](https://open.spotify.com/track/2a0SIkpwz7tWP9fKrNrx07) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Mamachya Gavala \- Kratex Remix](https://open.spotify.com/album/6BNKdnEmPOqzRauarspPCQ) | 3:15 |
 | 27 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 |
 | 43 | [Payee Fufata](https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R) | 4:06 |
 
-Snapshot ID: `AAAAAMwjqy2Wdf1GMRk9BpeaL464U7rD`
+Snapshot ID: `AAAAAGawxLxtoMk/W5nUswdfRAE4nHTT`

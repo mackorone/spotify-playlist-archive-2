@@ -2,9 +2,9 @@
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Maglore
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Capim Limão
 
-244 songs - 14 hr 35 min
+245 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Noite Toda](https://open.spotify.com/track/41FfVrQ3Nt8BKHMFybQUkl) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [MANAUERO \(Deluxe\)](https://open.spotify.com/album/1mTkjgLURoKKK4Wvm1vzbi) | 3:18 | 2026-04-03 | 2026-08-15 |
 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2024-02-23 | 2025-09-20 |
 | [A Vida É Um Trem Cheio de Gente Dizendo Tchau](https://open.spotify.com/track/1W88QS91c2s1jM2BYgipTb) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [A Vida É Um Trem Cheio de Gente Dizendo Tchau](https://open.spotify.com/album/5rKriM0hYVcvaQV0xEVlGS) | 3:42 | 2025-09-19 | 2025-12-19 |
+| [A Última Canção De Amor](https://open.spotify.com/track/3awnK0B1KMlpxLkhW2CewR) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Do Outro Lado da Avenida](https://open.spotify.com/album/4vmcqR8xKACMPvBX1R79qe) | 3:51 | 2026-08-21 |  |
 | [Abra as Cortinas](https://open.spotify.com/track/7C9J1E6XuC7m6RzmGJtLP7) | [Douglas Lopes](https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl) | [Abra as Cortinas](https://open.spotify.com/album/123gz25QTgvOuvy9nd9Fv4) | 3:07 | 2023-07-21 | 2023-12-16 |
 | [acordar](https://open.spotify.com/track/7LxFmCfhILQ0zWFWEqxs09) | [Gabriel Faria](https://open.spotify.com/artist/0L6jkqOXPUOl62qXsTCqO3) | [acordar](https://open.spotify.com/album/7H5zUnptzblSjqmu6feq72) | 4:26 | 2023-07-21 | 2024-04-06 |
 | [Acrobata](https://open.spotify.com/track/6orBIiTmqWyGI21IkACaAA) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Pescador / Acrobata](https://open.spotify.com/album/56j6hEFyQdQCINw9rINDKP) | 3:16 | 2023-07-21 | 2024-02-24 |
@@ -240,7 +241,7 @@
 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-10 | 2025-01-11 |
 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 | 2024-09-02 |  |
 | [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 | 2024-09-27 | 2026-02-07 |
-| [Vamos Fingir](https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Vamos Fingir](https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8) | 4:26 | 2023-07-21 |  |
+| [Vamos Fingir](https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Vamos Fingir](https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8) | 4:26 | 2023-07-21 | 2026-08-22 |
 | [vc n é o john mayer \(rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n é o john mayer \(rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 | 2023-07-21 | 2023-09-09 |
 | [Vendaval](https://open.spotify.com/track/4RfG59SGuZSvE2yUxQHwzv) | [Flamha](https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh) | [Vendaval](https://open.spotify.com/album/50RosNb33uXibjhV94GjpN) | 2:45 | 2024-08-30 | 2025-12-19 |
 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 | 2023-07-21 |  |

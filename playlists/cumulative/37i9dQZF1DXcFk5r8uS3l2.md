@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-503 songs - 1 day 7 hr 27 min
+505 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All Night](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 | 2022-07-23 |
 | [All on Me](https://open.spotify.com/track/01AQQxjgUOsRJGiif0rzNj) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [All on Me](https://open.spotify.com/album/2UzbI0MwhBpd9DyIC62qk2) | 3:49 | 2022-07-22 | 2022-08-31 |
 | [All Our Love](https://open.spotify.com/track/4sImthKyvzr2Rhp0vaB9SJ) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [All Our Love](https://open.spotify.com/album/6bH8vw3t4PRGqq9PdXLvJR) | 4:29 | 2022-05-20 | 2022-06-11 |
-| [All The Things I Said](https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Things I Said](https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ) | 4:47 | 2024-10-04 |  |
+| [All The Things I Said](https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Things I Said](https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ) | 4:47 | 2024-10-04 | 2026-08-22 |
 | [All The Way From America](https://open.spotify.com/track/6JWQ0fdstDeqtBzuUOrdFC) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Way From America](https://open.spotify.com/album/3tbtc5K4J1vsGnVGaLFg8I) | 4:19 | 2023-12-15 | 2024-10-05 |
 | [ALLIIGATOR TEARS](https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:59 | 2024-03-29 |  |
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2021-12-17 | 2023-02-25 |
@@ -212,7 +212,7 @@
 | [I'll Come Running Back To You](https://open.spotify.com/track/4rDmjHyy754Js2SaojUVjZ) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [I'll Come Running Back To You](https://open.spotify.com/album/5FwYTrkDxnTwmKIZ54CGzh) | 4:11 | 2022-03-11 | 2023-04-29 |
 | [I'll Come Running Back To You](https://open.spotify.com/track/6dxXeEvVdW6WocdZGEDFLh) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Established 1972](https://open.spotify.com/album/0trs4EF7qmHMw6qzUPTvwk) | 4:11 | 2022-03-11 | 2023-07-29 |
 | [I'm Done Runnin'](https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [I’m Done Runnin'](https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt) | 3:05 | 2025-03-14 |  |
-| [I'm Getting Ready](https://open.spotify.com/track/33eyk71WojAYebC0cta8OJ) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [I'm Getting Ready](https://open.spotify.com/album/4RyIcdSpFQEQFgIW2LrXt9) | 2:59 | 2025-03-07 |  |
+| [I'm Getting Ready](https://open.spotify.com/track/33eyk71WojAYebC0cta8OJ) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [I'm Getting Ready](https://open.spotify.com/album/4RyIcdSpFQEQFgIW2LrXt9) | 2:59 | 2025-03-07 | 2026-08-22 |
 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 | 2026-02-13 |  |
 | [Ice Cream & Cigarettes](https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [Ice Cream & Cigarettes](https://open.spotify.com/album/2y2szuP1tMpaGCJhb2TfRM) | 2:52 | 2021-12-17 | 2022-10-18 |
 | [Ice Cream & Cigarettes](https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [Ice Cream & Cigarettes](https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir) | 2:52 | 2022-01-28 | 2023-09-16 |
@@ -442,6 +442,7 @@
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |
 | [The Tools](https://open.spotify.com/track/28l58QQjZkeghQ60oJciFZ) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [Are You Mad Yet?](https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h) | 2:27 | 2022-03-18 | 2022-03-30 |
 | [These Hands](https://open.spotify.com/track/2LN7oMYv9m9xzDrCy4AMqu) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [The Sound Experiment 2 \- EP](https://open.spotify.com/album/2RVHro1akoqXxD5ZHB7mgO) | 3:21 | 2021-12-17 | 2023-03-11 |
+| [They Don’t Make ’Em Like They Used to \(feat\. Take 6\)](https://open.spotify.com/track/4jLOt63posrIQXjap1muX3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [The Breakdown](https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM) | 4:42 | 2026-08-21 |  |
 | [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 4:39 | 2024-02-02 | 2024-09-07 |
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2023-09-08 |  |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 | 2022-05-27 | 2024-01-13 |
@@ -510,6 +511,7 @@
 | [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 | 2026-02-13 |  |
 | [You Still Got Me \- Edit](https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi) | 4:20 | 2024-06-28 |  |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:01 | 2021-12-17 | 2023-03-25 |
+| [You, Not Me](https://open.spotify.com/track/57R2sFPs15hJG2gTsxdJFZ) | [Hunter Flynn](https://open.spotify.com/artist/5j6t35Ik2EoS5efJDxOAS2) | [You, Not Me](https://open.spotify.com/album/4ndQIBeYoeIE9ah3o9uBRZ) | 4:03 | 2026-08-21 |  |
 | [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/track/7gxUpscvq72a3LTkCbZ4Df) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/album/7BC4W4KBXXK7oBceZyXzB9) | 3:29 | 2024-02-02 | 2026-02-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

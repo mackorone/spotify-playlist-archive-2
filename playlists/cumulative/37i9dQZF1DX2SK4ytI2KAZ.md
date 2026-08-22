@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-697 songs - 1 day 14 hr 20 min
+698 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@
 | [I Wanna Dance With You](https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [I Wanna Dance With You](https://open.spotify.com/album/7f92wNnQO3sQ3SE3ARVZkA) | 2:54 | 2023-02-17 | 2023-03-29 |
 | [I Wanna Get Better](https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [I Wanna Get Better](https://open.spotify.com/album/4JaTMQFdRy5TfEKs8M9Doq) | 3:24 | 2021-03-10 | 2022-05-04 |
 | [I Wanna Go Out](https://open.spotify.com/track/3yVnBKYkQR2LFEhL1htZ2G) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [I Wanna Go Out](https://open.spotify.com/album/1bHTKkjlPSNEK3i2AB8t6j) | 3:04 | 2022-03-11 | 2022-04-17 |
-| [I Want You \(Fever\)](https://open.spotify.com/track/5LLCNZ9TPe6X7BCRUMWBY2) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [I Want You \(Fever\)](https://open.spotify.com/album/1vxHtRS0NZAlYMogLwbpH9) | 3:37 | 2025-01-31 |  |
+| [I Want You \(Fever\)](https://open.spotify.com/track/5LLCNZ9TPe6X7BCRUMWBY2) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [I Want You \(Fever\)](https://open.spotify.com/album/1vxHtRS0NZAlYMogLwbpH9) | 3:37 | 2025-01-31 | 2026-08-22 |
 | [I'll Be OK](https://open.spotify.com/track/4jzT2x0K3V3Elw3OFKvvEz) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Michigander](https://open.spotify.com/album/40hEeqidvpcsJrUqYN4jTL) | 3:22 | 2025-02-07 | 2026-07-18 |
 | [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 | 2023-08-07 | 2023-10-19 |
 | [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 | 2023-05-31 | 2025-06-01 |
@@ -381,6 +381,7 @@
 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 | 2024-09-30 |  |
 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 | 2024-02-16 |  |
 | [Loveblood \- EP Version](https://open.spotify.com/track/2XfUjv7NEpUhOkpuiLCGZq) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [EP I](https://open.spotify.com/album/4GbJxHFVaQqyLIG7jH1sFX) | 4:04 | 2022-03-11 | 2022-04-18 |
+| [Lovesick Lifestyle](https://open.spotify.com/track/63HSWifFNbeNrszeGbRk4n) | [Charles Costa](https://open.spotify.com/artist/2Eq4koczQMVqVEBxHm9gwG) | [Lovesick Lifestyle](https://open.spotify.com/album/6kOKCSl8JHmGV7rREGsfXB) | 3:02 | 2026-08-21 |  |
 | [Loving You](https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:14 | 2023-11-27 |  |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2024-01-12 | 2024-02-17 |
 | [Make U Mine](https://open.spotify.com/track/3emFKAQ8FVcOKqQZrkMCMN) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Make U Mine](https://open.spotify.com/album/7CKj9cT8SCH56bQCU0E9mW) | 2:25 | 2023-09-15 | 2023-10-14 |

@@ -2,7 +2,7 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  SMG
+> Best of Punjabi Hip\-Hop! Cover:  Cheema Y
 
 347 songs - 17 hr 13 min
 

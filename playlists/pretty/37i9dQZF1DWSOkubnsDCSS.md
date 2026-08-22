@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: Yizzy, Jme
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,089 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,014 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 56 | [ICE VS ICE](https://open.spotify.com/track/2Hcg8Jrx0EzUI80pxKnmZa) | [Lady Ice](https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44) | [ICE VS ICE](https://open.spotify.com/album/6XemLZ6kdvA4WY0DRc3QjM) | 1:22 |
 | 57 | [Golden Hour](https://open.spotify.com/track/65rruQRW7ZsSnc9S0LT6vB) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO) | [Golden Hour](https://open.spotify.com/album/0gEJqJ8kG0Bws3JgR38Ibu) | 2:10 |
 | 58 | [Back2Back](https://open.spotify.com/track/1JEpTpdCF5CuM9qhH7JAkr) | [Lil Shakz](https://open.spotify.com/artist/6NTFw23TXLxIhJaBokrhIG), [YaroAlways](https://open.spotify.com/artist/7wykSIfmDzQ6QiRkzXwLl5), [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [The Heavytrackerz](https://open.spotify.com/artist/6aTCNF8JTH5TFs9rheknQB) | [Back2Back](https://open.spotify.com/album/5QyFo2mJ58MW1OVyM0Xp7D) | 2:54 |
-| 59 | [Durag](https://open.spotify.com/track/0TTGXrpU995KJFylOMnxR4) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Lewi B.](https://open.spotify.com/artist/4DedTBbPVMtOiIxPIdqA5Z) | [OUTERNATIONAL](https://open.spotify.com/album/0GY77VtVlLiQcExnQ4rEoD) | 2:18 |
-| 60 | [Something Brand New](https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Something Brand New](https://open.spotify.com/album/5KqsKEisnzTiHKhI5AijVY) | 2:03 |
+| 59 | [Something Brand New](https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Something Brand New](https://open.spotify.com/album/5KqsKEisnzTiHKhI5AijVY) | 2:03 |
+| 60 | [Durag](https://open.spotify.com/track/0TTGXrpU995KJFylOMnxR4) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Lewi B.](https://open.spotify.com/artist/4DedTBbPVMtOiIxPIdqA5Z) | [OUTERNATIONAL](https://open.spotify.com/album/0GY77VtVlLiQcExnQ4rEoD) | 2:18 |
 | 61 | [Tears](https://open.spotify.com/track/46H0hdgPqCJEZwssr12nKv) | [M1KE7](https://open.spotify.com/artist/6uEAtBFJb2QlCoCBMuNhnA) | [Tears](https://open.spotify.com/album/2EYiyFWdzIGQEdXrYNtydb) | 2:19 |
-| 62 | [Bring N Kill](https://open.spotify.com/track/0um0oJHWDBqSLlRF2DCa0D) | [Jus Rival](https://open.spotify.com/artist/1wY9yYakCnVKNEaMSCTe6k) | [Bring N Kill](https://open.spotify.com/album/0Ng3EqYDKU74SZfz5O1yT2) | 2:48 |
-| 63 | [NO SENSE](https://open.spotify.com/track/6KarkNK3MGxD5xd8NXCIXN) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF) | [NO SENSE](https://open.spotify.com/album/4ZQ9aXylRGbQoxe0vTbBIQ) | 3:15 |
+| 62 | [NO SENSE](https://open.spotify.com/track/6KarkNK3MGxD5xd8NXCIXN) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF) | [NO SENSE](https://open.spotify.com/album/4ZQ9aXylRGbQoxe0vTbBIQ) | 3:15 |
+| 63 | [Bring N Kill](https://open.spotify.com/track/0um0oJHWDBqSLlRF2DCa0D) | [Jus Rival](https://open.spotify.com/artist/1wY9yYakCnVKNEaMSCTe6k) | [Bring N Kill](https://open.spotify.com/album/0Ng3EqYDKU74SZfz5O1yT2) | 2:48 |
 | 64 | [Let It Breathe](https://open.spotify.com/track/16hr0oAdZtMYTKK5s1K6QG) | [Kacie](https://open.spotify.com/artist/5XALQ8snjwdJ6HeOPo3TRY), [KHAOS](https://open.spotify.com/artist/1snKoF7D4TMSIQYe1XXGl6) | [Let It Breathe](https://open.spotify.com/album/1thnGdiBtZiAyWOrjppgGp) | 2:43 |
 | 65 | [Run Tings](https://open.spotify.com/track/318AWQRiTge3MzdejcatY1) | [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Logan From The OtherSide](https://open.spotify.com/album/79rN0G0CjbKjcKUBAIWhqL) | 3:16 |
-| 66 | [spirit, pt\. 1](https://open.spotify.com/track/0AONpN0TCxQyLKJeruAV2d) | [Kwoli Black](https://open.spotify.com/artist/4munQWPVKYZ9uQHepLM1qn) | [spirit, pt\. 1](https://open.spotify.com/album/1Hj2yjReH6s8vRCzsNQgNi) | 1:49 |
-| 67 | [In My Corner](https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY) | [Bruza](https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx) | [We're All On TV](https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ) | 3:42 |
+| 66 | [In My Corner](https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY) | [Bruza](https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx) | [We're All On TV](https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ) | 3:42 |
+| 67 | [spirit, pt\. 1](https://open.spotify.com/track/0AONpN0TCxQyLKJeruAV2d) | [Kwoli Black](https://open.spotify.com/artist/4munQWPVKYZ9uQHepLM1qn) | [spirit, pt\. 1](https://open.spotify.com/album/1Hj2yjReH6s8vRCzsNQgNi) | 1:49 |
 | 68 | [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 |
 | 69 | [Tamper](https://open.spotify.com/track/2Cymy83v0iB4X4rJuJcYT2) | [Kacie](https://open.spotify.com/artist/5XALQ8snjwdJ6HeOPo3TRY), [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0) | [I Like To Tamper](https://open.spotify.com/album/2Z5MkPnCOUK2x641hnpUEo) | 2:33 |
 | 70 | [Runway](https://open.spotify.com/track/7KBSfbAi4iEwekEDzBFfKR) | [Christopha](https://open.spotify.com/artist/0mzmqOykuhGTv2fiPdUTXR) | [Runway](https://open.spotify.com/album/0F5F3RiUT2KtjO9E5TFgbu) | 1:57 |
 
-Snapshot ID: `AAAAAG1bZlweSZ6woohVDsSK8lwfzpCd`
+Snapshot ID: `AAAAAEvqWuxtvQzBMqPzZx5ceAVXCb9J`

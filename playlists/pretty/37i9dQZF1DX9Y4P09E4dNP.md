@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: AratheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,859 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,866 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 69 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |
 | 70 | [Akua Donkor](https://open.spotify.com/track/0Hm30HuXmfm4IwO5Vrcho6) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Akua Donkor](https://open.spotify.com/album/2Gbr6jdBQgRk2rmnBpJpvd) | 3:08 |
 
-Snapshot ID: `AAAAADs+zMqgEkCeL9TAqalQ8BgRJB9S`
+Snapshot ID: `AAAAALlpW+5uIHx1DVhwYb+GVhO7q90q`

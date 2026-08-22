@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,315 likes - 100 songs - 15 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,393 likes - 100 songs - 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Inu ndi Ine \- Live](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 9:24 |
 | 100 | [Sogi Dinma \- Live](https://open.spotify.com/track/0GfWb4fY2yBqw68W9plG4e) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Timeless Worship](https://open.spotify.com/album/4BkFAoxcGeg7I3wQpsrY8I) | 14:55 |
 
-Snapshot ID: `AAAAANtdDkIXr9Wuf1aRkH0RQahbQ0YK`
+Snapshot ID: `AAAAAD8z8oyVf5aU0EIi1QerpFjgtEIh`

@@ -1,13 +1,61 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Hudson Freeman",
-  "num_followers": 804481,
+  "description": "Explore all things indie rock right now. Featuring music from hey, nothing",
+  "num_followers": 804478,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANZyS1j/31IJxyiRQXtDlz9m0Zfn",
+  "snapshot_id": "AAAAAHAIVSceoUpg/g7/ZABBufi69ywL",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:00:32",
+      "album": {
+        "name": "Hound",
+        "url": "https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 267588,
+      "name": "Hound",
+      "url": "https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6"
+    },
+    {
+      "added_at": "2026-08-21 04:00:32",
+      "album": {
+        "name": "Fur Elise",
+        "url": "https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 256413,
+      "name": "Fur Elise",
+      "url": "https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC"
+    },
+    {
+      "added_at": "2026-08-14 04:01:35",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 239007,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
+    },
     {
       "added_at": "2026-08-14 04:01:35",
       "album": {
@@ -25,20 +73,52 @@
       "url": "https://open.spotify.com/track/7LmMHENSDglEpVEySzwz1y"
     },
     {
-      "added_at": "2026-08-14 04:01:35",
+      "added_at": "2026-08-07 18:35:53",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+        "name": "Oh No Now My",
+        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
         }
       ],
-      "duration_ms": 239007,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
+      "duration_ms": 188453,
+      "name": "Oh No Now My",
+      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
+    },
+    {
+      "added_at": "2026-08-21 04:00:32",
+      "album": {
+        "name": "BedHead",
+        "url": "https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "BedHead",
+      "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
+    },
+    {
+      "added_at": "2026-08-21 04:00:32",
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
       "added_at": "2026-08-14 04:01:35",
@@ -73,52 +153,20 @@
       "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
     },
     {
-      "added_at": "2026-08-18 22:27:25",
+      "added_at": "2026-08-21 04:00:32",
       "album": {
-        "name": "S'all Good",
-        "url": "https://open.spotify.com/album/2girpeIV79cmV98R8kD0Xb"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
       },
       "artists": [
         {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 182239,
-      "name": "S'all Good",
-      "url": "https://open.spotify.com/track/3mIqdG8PkazvXYorg6W6TH"
-    },
-    {
-      "added_at": "2026-08-07 18:35:53",
-      "album": {
-        "name": "Oh No Now My",
-        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Oh No Now My",
-      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
-    },
-    {
-      "added_at": "2026-08-07 18:35:53",
-      "album": {
-        "name": "The Fountain",
-        "url": "https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "The Fountain",
-      "url": "https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv"
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-08-14 04:01:35",
@@ -135,6 +183,54 @@
       "duration_ms": 255546,
       "name": "Rock N Roll Ruined My Life",
       "url": "https://open.spotify.com/track/0MQLLKlwIYl7WVkC2Uo6p2"
+    },
+    {
+      "added_at": "2026-08-07 18:35:53",
+      "album": {
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/6D5WGK2o4UWgyY5X4GkAjq"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/7GBU8Dvl64jIRPplVjieGw"
+    },
+    {
+      "added_at": "2026-08-21 04:00:32",
+      "album": {
+        "name": "Cleveland",
+        "url": "https://open.spotify.com/album/03rWnhyzY3U8xwaLJbzhsK"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "Cleveland",
+      "url": "https://open.spotify.com/track/4KEjfcWa8AstOHOemI4rLQ"
+    },
+    {
+      "added_at": "2026-08-21 04:00:32",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/14Raz7hdVfOisYs3nrg3Qq"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "Sensational",
+      "url": "https://open.spotify.com/track/0aU5XPireiOWn6or4RPSVS"
     },
     {
       "added_at": "2026-08-14 04:01:35",
@@ -155,22 +251,6 @@
     {
       "added_at": "2026-08-07 18:35:53",
       "album": {
-        "name": "Clay Pigeons",
-        "url": "https://open.spotify.com/album/6D5WGK2o4UWgyY5X4GkAjq"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Clay Pigeons",
-      "url": "https://open.spotify.com/track/7GBU8Dvl64jIRPplVjieGw"
-    },
-    {
-      "added_at": "2026-08-07 18:35:53",
-      "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
       },
@@ -183,6 +263,38 @@
       "duration_ms": 299042,
       "name": "Garden",
       "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
+    },
+    {
+      "added_at": "2026-08-07 18:35:53",
+      "album": {
+        "name": "The Fountain",
+        "url": "https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv"
+    },
+    {
+      "added_at": "2026-08-18 22:27:25",
+      "album": {
+        "name": "S'all Good",
+        "url": "https://open.spotify.com/album/2girpeIV79cmV98R8kD0Xb"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 182239,
+      "name": "S'all Good",
+      "url": "https://open.spotify.com/track/3mIqdG8PkazvXYorg6W6TH"
     },
     {
       "added_at": "2026-07-17 04:01:14",

@@ -11015,6 +11015,24 @@
     },
     {
       "album": {
+        "name": "MADRID",
+        "url": "https://open.spotify.com/album/3HpVlyht3MQIXBS4VifchT"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "MADRID",
+      "url": "https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk"
+    },
+    {
+      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },

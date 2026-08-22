@@ -1,13 +1,61 @@
 {
-  "description": "The best of modern blues rock. Cover: The Black Keys",
-  "num_followers": 268991,
+  "description": "The best of modern blues rock. Cover: Ghost Hounds",
+  "num_followers": 269087,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC+3jo6CbBOxg+uHa+K8+JgAWg55",
+  "snapshot_id": "AAAAAHFUjp7pbZMEF9Hqi7G2RUOoN0Z1",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:02:20",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/1DmItVZqBzfbWwmd7lSXGA"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 196491,
+      "name": "Pale Horse",
+      "url": "https://open.spotify.com/track/51pstE9YQnS1LCKqEeycgi"
+    },
+    {
+      "added_at": "2026-08-21 04:02:20",
+      "album": {
+        "name": "Trespasser",
+        "url": "https://open.spotify.com/album/5LsTcgEL5o7ivH0CUeAgXm"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 215486,
+      "name": "Main Street U.S.A.",
+      "url": "https://open.spotify.com/track/0vBLkHfCoJ7SEVyzDW86Co"
+    },
+    {
+      "added_at": "2026-07-17 04:00:03",
+      "album": {
+        "name": "Blowin\u2019 Up",
+        "url": "https://open.spotify.com/album/73t1D1zXiMmhniINLqvo4r"
+      },
+      "artists": [
+        {
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
+        }
+      ],
+      "duration_ms": 196594,
+      "name": "Blowin\u2019 Up",
+      "url": "https://open.spotify.com/track/2Zb35W62gjWrWIOWVgZ1UA"
+    },
     {
       "added_at": "2026-08-14 04:00:44",
       "album": {
@@ -39,22 +87,6 @@
       "duration_ms": 223000,
       "name": "Red Gorilla",
       "url": "https://open.spotify.com/track/1y4lKMU8Ie4ajVLfJha9Yk"
-    },
-    {
-      "added_at": "2026-07-17 04:00:03",
-      "album": {
-        "name": "Blowin\u2019 Up",
-        "url": "https://open.spotify.com/album/73t1D1zXiMmhniINLqvo4r"
-      },
-      "artists": [
-        {
-          "name": "Eddie 9V",
-          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
-        }
-      ],
-      "duration_ms": 196594,
-      "name": "Blowin\u2019 Up",
-      "url": "https://open.spotify.com/track/2Zb35W62gjWrWIOWVgZ1UA"
     },
     {
       "added_at": "2026-06-26 04:01:30",
@@ -1543,22 +1575,6 @@
     {
       "added_at": "2026-03-20 15:56:34",
       "album": {
-        "name": "Down On The Bottom",
-        "url": "https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX"
-      },
-      "artists": [
-        {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
-        }
-      ],
-      "duration_ms": 276625,
-      "name": "Down On The Bottom",
-      "url": "https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
         "name": "Operator",
         "url": "https://open.spotify.com/album/7EGjTs8NlKUo0VEUXU1lJU"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 219153,
       "name": "Wild",
       "url": "https://open.spotify.com/track/5X32g7xtJOlgmX6hNXebXa"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
-        "name": "Light Of The Moon",
-        "url": "https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ"
-      },
-      "artists": [
-        {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Light Of The Moon",
-      "url": "https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd"
     },
     {
       "added_at": "2026-03-20 15:56:34",

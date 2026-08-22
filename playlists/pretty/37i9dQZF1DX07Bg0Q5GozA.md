@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,898 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,864 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 43 | [Lovers On The Dancefloor](https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Lovers On The Dancefloor](https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN) | 2:33 |
 | 44 | [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 |
 | 45 | [Real, You Know?!](https://open.spotify.com/track/5sjsIBzfE5cfRj8XBkk5B8) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Real, You Know?!](https://open.spotify.com/album/3Y6tmTccFgBNu3OxrA61Yk) | 3:56 |
-| 46 | [Dracula \- JENNIE Remix \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(JENNIE Remix \- Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
+| 46 | [Dracula \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
 | 47 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 |
 | 48 | [What You Want \- Fcukers Remix](https://open.spotify.com/track/0vDEDfoMO57db8lb60xE2s) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want \(Fcukers Remix\)](https://open.spotify.com/album/6pTEOWVGMpx8keqO9xRhDC) | 3:22 |
 | 49 | [almost enough](https://open.spotify.com/track/4NhNLr3EIXW8TZ2G2m9Wzt) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [how to break your heart](https://open.spotify.com/album/1RVzFXzp4mYxJn4FsmhMsP) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [I miss ur friends](https://open.spotify.com/track/34n32rHxDmPhbosbqY2LDr) | [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE) | [I miss ur friends](https://open.spotify.com/album/3vAdGsmrDarDG4cl7urAEJ) | 2:01 |
 | 75 | [There Goes Ma Head](https://open.spotify.com/track/0ceKqpXrrC3CtFwFiLJeoY) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Emotional Junglist](https://open.spotify.com/album/0Q7HPYmrJWTXUnf3QqRx3W) | 2:36 |
 
-Snapshot ID: `AAAAAKjpqXIq9W6ctUbY7aI/B3GMmvv6`
+Snapshot ID: `AAAAAPUhtDuZXIdx12NzxSfe4hiNtt7E`

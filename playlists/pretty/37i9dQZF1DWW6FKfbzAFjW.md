@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel\-good tunes for your cinco de drinko\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,426 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,434 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 64 | [Tú Y Yo](https://open.spotify.com/track/5vEOago0nOlDNn6C4IJWLd) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Tú Y Yo](https://open.spotify.com/album/50h6l1JyfIScae2246HXru) | 3:08 |
 | 65 | [Una Nada Más](https://open.spotify.com/track/5dHJtIoVTrm0jZ7zIP8xSH) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3cpy4O0DQUvjJn0wAorPWl) | 2:49 |
 | 66 | [La Bandera](https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [La Bandera](https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit) | 2:40 |
-| 67 | [AYAYAY!](https://open.spotify.com/track/1yXOIdoYQiLMDzx9UHwD29) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/3oLsKk6OXduHxUv79P9I4H) | 2:10 |
-| 68 | [200 COPAS](https://open.spotify.com/track/5IiyU0TCHJXuD8GDOfh5ST) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [200 COPAS \(Short Version\)](https://open.spotify.com/album/0BkCyY7jYD6pCfbMMyIdci) | 3:18 |
+| 67 | [200 COPAS](https://open.spotify.com/track/5IiyU0TCHJXuD8GDOfh5ST) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [200 COPAS \(Short Version\)](https://open.spotify.com/album/0BkCyY7jYD6pCfbMMyIdci) | 3:18 |
+| 68 | [AYAYAY!](https://open.spotify.com/track/1yXOIdoYQiLMDzx9UHwD29) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/3oLsKk6OXduHxUv79P9I4H) | 2:10 |
 | 69 | [Otra Borrachera](https://open.spotify.com/track/1NfeLk7GEZLSss2zs6Yrif) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd) | 2:17 |
 | 70 | [La Tequilera](https://open.spotify.com/track/0kjwstFQM4GNAFQWs0zUMQ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 2:47 |
 | 71 | [Cinco De Mayo](https://open.spotify.com/track/3h4XzxkbhXPaQ2OYLBuLFB) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Libertad 548](https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG) | 3:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 79 | [Cinco de Mayo](https://open.spotify.com/track/2PAAbLVkQ44RUIKWpM6DBr) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Cinco de Mayo \- Single](https://open.spotify.com/album/6b6hbBuS5jv4f4e8kZLX4N) | 4:23 |
 | 80 | [Cumbia](https://open.spotify.com/track/4BxlJwzmKAL0JLBJ1r8k9O) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 2:17 |
 
-Snapshot ID: `AAAAAPoGfxnKiacptrGtbeeTXub5E6hq`
+Snapshot ID: `AAAAAJgBaop9d7dLqpQfuSi0G89Rg8/O`

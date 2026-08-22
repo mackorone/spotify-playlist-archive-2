@@ -5987,6 +5987,24 @@
     },
     {
       "album": {
+        "name": "CAN'T PRETEND",
+        "url": "https://open.spotify.com/album/0HpHMjKatS3FJu8qt0Xgrh"
+      },
+      "artists": [
+        {
+          "name": "CUZZOS",
+          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214054,
+      "name": "CAN'T PRETEND",
+      "url": "https://open.spotify.com/track/1deoVVt7Jz1QHpr0qd2shX"
+    },
+    {
+      "album": {
         "name": "Can't Touch This",
         "url": "https://open.spotify.com/album/1idiwjkcE8F2hyNaagjPNi"
       },
@@ -10766,7 +10784,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 136000,
       "name": "FAMILY BUSINESS",
       "url": "https://open.spotify.com/track/4HIfh0FvULPFEURnJc1Nxg"
@@ -12888,7 +12906,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 103528,
       "name": "Get Him (feat. Psleaze00)",
       "url": "https://open.spotify.com/track/0ovql0MVGcLDutI2vaguq1"
@@ -19380,7 +19398,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 123533,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3x9NMi02uf1xxmczl0Grxx"
@@ -22329,6 +22347,28 @@
     },
     {
       "album": {
+        "name": "The Documentary III",
+        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138682,
+      "name": "No Brakes (feat. Drake)",
+      "url": "https://open.spotify.com/track/4kzHrtFZN81CuF0HHTiDyu"
+    },
+    {
+      "album": {
         "name": "No Cuffin",
         "url": "https://open.spotify.com/album/0LgOk4IknA8zPAflfjrgJV"
       },
@@ -24487,6 +24527,40 @@
     },
     {
       "album": {
+        "name": "P of the Week (feat. Leven Kali)",
+        "url": "https://open.spotify.com/album/0iIMrminsEWauIOaUDlzDT"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180849,
+      "name": "P of the Week (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/3ULF5u1KlYubgDTCeou8fS"
+    },
+    {
+      "album": {
         "name": "You Take the Credit, We'll Take the Check",
         "url": "https://open.spotify.com/album/6ZlKCpsFjC1uQToTdwcIkc"
       },
@@ -25779,6 +25853,24 @@
     },
     {
       "album": {
+        "name": "Pocahontas",
+        "url": "https://open.spotify.com/album/1RrVgt1BtmQP9XVOag70nQ"
+      },
+      "artists": [
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147207,
+      "name": "Pocahontas",
+      "url": "https://open.spotify.com/track/4qD36AafazvbzD1izYdfCT"
+    },
+    {
+      "album": {
         "name": "Point Me 2 Tha Bitches",
         "url": "https://open.spotify.com/album/3qHQPDEM2EKf80NjYTjBML"
       },
@@ -26876,7 +26968,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 157083,
       "name": "Red People (feat. YG)",
       "url": "https://open.spotify.com/track/1XNFL2HvV1Obp2fcapolcD"
@@ -28456,7 +28548,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 135743,
       "name": "Shake Shack",
       "url": "https://open.spotify.com/track/6Ga2HaUdpceM05PadhsHqG"
@@ -30616,6 +30708,28 @@
       "duration_ms": 143255,
       "name": "Still Klockin",
       "url": "https://open.spotify.com/track/1RBUcpKmLrIUUoAzkB8emJ"
+    },
+    {
+      "album": {
+        "name": "Still Love Me",
+        "url": "https://open.spotify.com/album/1Y7V3YOa9EGGG5hegWeHa8"
+      },
+      "artists": [
+        {
+          "name": "YS",
+          "url": "https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Still Love Me",
+      "url": "https://open.spotify.com/track/1KYnCEvMbEnuG3TpEheIPY"
     },
     {
       "album": {
@@ -32843,6 +32957,48 @@
     },
     {
       "album": {
+        "name": "The Documentary III",
+        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "Mike & Keys",
+          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238758,
+      "name": "The Part",
+      "url": "https://open.spotify.com/track/2HhdUXPVyvKFHtMbWHA6Qu"
+    },
+    {
+      "album": {
         "name": "Rather Rich Than Famous",
         "url": "https://open.spotify.com/album/5wWe32f1KoNkpYebMtqp3l"
       },
@@ -33300,7 +33456,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 146373,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/6AsmybAFQlHLaweN82xKFU"
@@ -34636,7 +34792,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 126048,
       "name": "Vamonos",
       "url": "https://open.spotify.com/track/0OAmeNsVSFh8Eh2Nuq2cId"
@@ -36204,6 +36360,24 @@
       "duration_ms": 211056,
       "name": "Work Hard Play Hard",
       "url": "https://open.spotify.com/track/0MWlasabRTIdgdgiL6X0kL"
+    },
+    {
+      "album": {
+        "name": "World's Gone Crazy",
+        "url": "https://open.spotify.com/album/0wwOzJPMps8YHJpqUMPM6S"
+      },
+      "artists": [
+        {
+          "name": "aroomfullofmirrors",
+          "url": "https://open.spotify.com/artist/4CxaPxktjqoN6F9nyftKYW"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "World's Gone Crazy",
+      "url": "https://open.spotify.com/track/1aAP4ualPEDGuBy3GTQBR8"
     },
     {
       "album": {

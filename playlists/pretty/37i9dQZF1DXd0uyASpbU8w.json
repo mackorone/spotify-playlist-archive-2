@@ -1,12 +1,12 @@
 {
   "description": "New music from New music from Manana, Cleo Sol, Victony, Jorja Smith and more.",
-  "num_followers": 187986,
+  "num_followers": 188381,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANwC5XmOYVV9OsfK1u9OD1ombxbM",
+  "snapshot_id": "AAAAAHfM+6Hq+ZSmlPc0bM1wDpBZAWC7",
   "tracks": [
     {
       "added_at": "2026-08-20 22:01:33",
@@ -228,10 +228,6 @@
           "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
         },
         {
-          "name": "Pale Moloi",
-          "url": "https://open.spotify.com/artist/5AnIWCYRZDFZKBv2n2yXUP"
-        },
-        {
           "name": "Uncool Angels",
           "url": "https://open.spotify.com/artist/4fi8ovkPOrZzslnPZckJU0"
         },
@@ -283,6 +279,26 @@
       "duration_ms": 395337,
       "name": "Manager (feat. Khalil Harrison, Mbuxx & Stady K)",
       "url": "https://open.spotify.com/track/4ItSIO5JSovLHtTX9Zfoom"
+    },
+    {
+      "added_at": "2026-08-20 22:01:33",
+      "album": {
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
     },
     {
       "added_at": "2026-08-20 22:01:33",
@@ -374,6 +390,10 @@
         {
           "name": "Vico da sporo",
           "url": "https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd"
+        },
+        {
+          "name": "Frank D",
+          "url": "https://open.spotify.com/artist/2nSsDJdBTk0FXQJkhMQphd"
         }
       ],
       "duration_ms": 429310,
@@ -709,6 +729,22 @@
       "url": "https://open.spotify.com/track/1aXlRpOmgt9bs0Ul8sVYqU"
     },
     {
+      "added_at": "2026-08-21 08:44:14",
+      "album": {
+        "name": "gabby",
+        "url": "https://open.spotify.com/album/5zDXKGGL9HxQ6CDBMruXBa"
+      },
+      "artists": [
+        {
+          "name": "giuliette price",
+          "url": "https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "gabby",
+      "url": "https://open.spotify.com/track/6g0fmosguhoSH0wpax8WFO"
+    },
+    {
       "added_at": "2026-08-20 22:01:33",
       "album": {
         "name": "Indecision (feat. Daniel Caesar)",
@@ -754,10 +790,14 @@
         {
           "name": "Rowlene",
           "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        },
+        {
+          "name": "Jesse Clegg",
+          "url": "https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 180133,
+      "name": "More Room",
       "url": "https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0"
     },
     {
@@ -936,8 +976,8 @@
           "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 183157,
+      "name": "Closure",
       "url": "https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT"
     },
     {
@@ -979,6 +1019,22 @@
       "duration_ms": 382356,
       "name": "DRUMMAX",
       "url": "https://open.spotify.com/track/3n0T0r6PeKtFnCxv4GOAXp"
+    },
+    {
+      "added_at": "2026-08-21 08:44:14",
+      "album": {
+        "name": "KHULA",
+        "url": "https://open.spotify.com/album/35s93SYz8ij5PHpLYJghIB"
+      },
+      "artists": [
+        {
+          "name": "SAI HLE",
+          "url": "https://open.spotify.com/artist/5jwK2NSW46p796Xun0s4Tf"
+        }
+      ],
+      "duration_ms": 327857,
+      "name": "KHULA",
+      "url": "https://open.spotify.com/track/0UsQ8wE3g2uzM3DkYHv57Q"
     },
     {
       "added_at": "2026-08-20 22:01:33",
@@ -1036,7 +1092,7 @@
           "url": "https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R"
         }
       ],
-      "duration_ms": 198367,
+      "duration_ms": 198543,
       "name": "Jaribu",
       "url": "https://open.spotify.com/track/6lxgzURYb3wIWoOUODsLTd"
     },
@@ -1067,7 +1123,7 @@
     {
       "added_at": "2026-08-20 22:01:33",
       "album": {
-        "name": "MERCY",
+        "name": "Mercy",
         "url": "https://open.spotify.com/album/00L13idTFAuiL8f37C3s6u"
       },
       "artists": [
@@ -1084,8 +1140,8 @@
           "url": "https://open.spotify.com/artist/3h1Dmhs9ddrPAdHxYUdZHj"
         }
       ],
-      "duration_ms": 257234,
-      "name": "MERCY",
+      "duration_ms": 227000,
+      "name": "Mercy",
       "url": "https://open.spotify.com/track/1YV1Y9QgdMyMxf8UKbe1Io"
     },
     {
@@ -1375,6 +1431,22 @@
     {
       "added_at": "2026-08-20 22:01:33",
       "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/3RBTfn38vkZuE2XQ91ja7X"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 144951,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1tgtF6WzgYOPaIWKKhoBgC"
+    },
+    {
+      "added_at": "2026-08-20 22:01:33",
+      "album": {
         "name": "Ditoro",
         "url": "https://open.spotify.com/album/1e1A6LInkHlVwMF4OHmezW"
       },
@@ -1617,7 +1689,7 @@
         },
         {
           "name": "Ed-Ward",
-          "url": "https://open.spotify.com/artist/1kLNjNVdSHlD4pVN28qte6"
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
         }
       ],
       "duration_ms": 369230,

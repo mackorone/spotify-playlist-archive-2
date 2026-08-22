@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,067 likes - 87 songs - 5 hr 16 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,066 likes - 88 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 85 | [Popcorn and Candyfloss](https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Popcorn and Candyfloss](https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD) | 4:58 |
 | 86 | [Odyssey](https://open.spotify.com/track/1gcMBn4OwoXv2idejjCCNp) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Odyssey](https://open.spotify.com/album/59hsbFL5sW2u3NaqlsElv3) | 3:56 |
 | 87 | [Como deve ser](https://open.spotify.com/track/6Kto9r484xrMQZ74XRJfBc) | [Roger Silva](https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP) | [Como deve ser](https://open.spotify.com/album/7tAH2UnXN5GWdR3mOiVm3b) | 3:09 |
+| 88 | [Future \#1 \- 2026 Remix](https://open.spotify.com/track/7JzBGVfqflJK20PwDcxxmM) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Strains \(420 Deluxe EP\)](https://open.spotify.com/album/6DlliTyyxLxtiYZQy8aNys) | 3:21 |
 
-Snapshot ID: `AAACy1sXPWmrEyqtImKDoKy9F6fbxc/f`
+Snapshot ID: `AAACzBrxSxUUcY/ftEDv3otADxvvXeaM`

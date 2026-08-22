@@ -3831,6 +3831,28 @@
     },
     {
       "album": {
+        "name": "Lucky Ones",
+        "url": "https://open.spotify.com/album/4wkd115wLpSfGKS4bFlQsx"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "carteblanche",
+          "url": "https://open.spotify.com/artist/6laKnr07BfCDke48edvIPG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/4xStcEBEoOYfBH0fTMM5hN"
+    },
+    {
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
       },
@@ -4752,6 +4774,24 @@
       "duration_ms": 190944,
       "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
+    },
+    {
+      "album": {
+        "name": "Papa's Geld",
+        "url": "https://open.spotify.com/album/2SDdUEUN0OOzxV2hhdgrWm"
+      },
+      "artists": [
+        {
+          "name": "Dave Dekker",
+          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142271,
+      "name": "Papa's Geld",
+      "url": "https://open.spotify.com/track/1s6OsKWzYAPdQrF9HJjplT"
     },
     {
       "album": {
@@ -6992,6 +7032,28 @@
       "duration_ms": 174823,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+    },
+    {
+      "album": {
+        "name": "Tot Sluit",
+        "url": "https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg"
+      },
+      "artists": [
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        },
+        {
+          "name": "Amelie",
+          "url": "https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Tot Sluit",
+      "url": "https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU"
     },
     {
       "album": {

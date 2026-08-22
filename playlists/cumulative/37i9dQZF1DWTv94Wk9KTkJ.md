@@ -2,7 +2,7 @@
 
 ### [Jungle Classics](https://open.spotify.com/playlist/37i9dQZF1DWTv94Wk9KTkJ)
 
-> The sound of 90s Jungle rave\. Cover: Roni Size
+> The sound of Jungle\. Cover: Roni Size
 
 163 songs - 15 hr 51 min
 

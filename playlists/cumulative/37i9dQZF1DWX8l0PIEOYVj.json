@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass \ud83d\udef8 featuring NURKO",
+  "description": "Future & melodic bass \ud83d\udef8 featuring HALIENE",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 159144,
       "name": "Above the Water",
       "url": "https://open.spotify.com/track/5ASYfsmEi5gQurD5EMs4hG"
@@ -636,6 +636,32 @@
       "duration_ms": 240000,
       "name": "All I've Got Left",
       "url": "https://open.spotify.com/track/0w29Zl1YSGnzDP12c58Cnk"
+    },
+    {
+      "album": {
+        "name": "All In Focus",
+        "url": "https://open.spotify.com/album/5ZsrckpQeMyXdKBqkBVGUu"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Capochino",
+          "url": "https://open.spotify.com/artist/70qOCKE1NFO6q1a1pC0KRE"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "All In Focus",
+      "url": "https://open.spotify.com/track/0jUc94jc3xsUcbFwoAVymi"
     },
     {
       "album": {
@@ -5103,6 +5129,28 @@
     },
     {
       "album": {
+        "name": "Lost Elements",
+        "url": "https://open.spotify.com/album/6mChEOPjdCe2wxRAXWUGFU"
+      },
+      "artists": [
+        {
+          "name": "CADMIUM",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "Lost Identities",
+          "url": "https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6lWeoRFCJByohBoIJNi9Bm"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1UulTnkVbwdExEF0oeGzz6"
       },
@@ -6536,6 +6584,24 @@
       "duration_ms": 176470,
       "name": "Future Ghost (feat. Violette Wautier)",
       "url": "https://open.spotify.com/track/3LcAn7vLisYcHAnACmLvO1"
+    },
+    {
+      "album": {
+        "name": "EDGE OF THE WORLD",
+        "url": "https://open.spotify.com/album/40LNAakQwoFFgvhHfMwMHV"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217090,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/6fRMhby9J9RS8UPgpi6eyj"
     },
     {
       "album": {
@@ -8510,7 +8576,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 206250,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/6wrfjapgdCBiKvLDuqJKTW"
@@ -8690,6 +8756,28 @@
       "duration_ms": 187835,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/67Sb5mCfhpMDiD2ZbIGh4S"
+    },
+    {
+      "album": {
+        "name": "EDGE OF THE WORLD",
+        "url": "https://open.spotify.com/album/40LNAakQwoFFgvhHfMwMHV"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/4DWnxoqn7m4oxcmlxZKCwO"
     },
     {
       "album": {
@@ -9330,7 +9418,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 286779,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc"
@@ -11984,6 +12072,24 @@
       "duration_ms": 192000,
       "name": "My Own Advice",
       "url": "https://open.spotify.com/track/76K4ShMg2oDyw6VfKeabB8"
+    },
+    {
+      "album": {
+        "name": "Eclipsed",
+        "url": "https://open.spotify.com/album/1ymCsnKOLmilJfTH6OsdTq"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "My Reverie",
+      "url": "https://open.spotify.com/track/5du7U0k9qvgNHBk9uX3enI"
     },
     {
       "album": {
@@ -16736,7 +16842,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 328890,
       "name": "Superluminal",
       "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"
@@ -17868,7 +17974,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 225103,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/2bSVM91UMylbKniom90WiO"

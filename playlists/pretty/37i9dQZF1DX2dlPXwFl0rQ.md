@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Las Marías en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,420 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,444 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [La Loca Era Yo](https://open.spotify.com/track/6Q7YcOkiqgz4oDBIC61U0S) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [La Fernández](https://open.spotify.com/album/0rrPXtPS0ggbtXJQhvPHqS) | 3:55 |
 | 100 | [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/4M2g9eUZc3gpZRdZmSd8Cx) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [Corazón Mexicano](https://open.spotify.com/album/5EeZoBgXcOMiSlDWrIY4zo) | 4:00 |
 
-Snapshot ID: `AAAAAPpMhrDFEyNju/hPt6w+A3HIro6J`
+Snapshot ID: `AAAAAGwkAAAZ5svCN7Agc4qKMAQ2kaXu`

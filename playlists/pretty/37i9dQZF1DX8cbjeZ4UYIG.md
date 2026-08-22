@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,921 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,997 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Samplemania](https://open.spotify.com/track/6J1en9RZriRTeTfVfzv2Ba) | [DJ Seduction](https://open.spotify.com/artist/3QCLS2hkq3jpkJuPmJZHyD) | [The Best of Impact Mixed By Slipmatt](https://open.spotify.com/album/3izM4uFu9nBTD3A5qJDQhx) | 4:46 |
 | 50 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 |
 
-Snapshot ID: `AAAAAOr09ZY0OvyO5d7b5FU1M8NelngG`
+Snapshot ID: `AAAAAC4SUJ2B0wMt1pDHcUKEtJSav6qM`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: nomi.",
+  "description": "Chill r&b. Cover: Lucky Daye",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 238950,
       "name": "'til u cry",
       "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 201000,
       "name": "all over u",
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
@@ -5991,6 +5991,24 @@
     },
     {
       "album": {
+        "name": "Eric Bellinger",
+        "url": "https://open.spotify.com/album/3uzbUHpvDp6O2bfpOLE1Yf"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT"
+    },
+    {
+      "album": {
         "name": "Yam Grier",
         "url": "https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU"
       },
@@ -9652,7 +9670,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 222000,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/2t59BDeppXjzPUDQtbzoqc"
@@ -10442,6 +10460,28 @@
       "duration_ms": 192022,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED"
+    },
+    {
+      "album": {
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
     },
     {
       "album": {
@@ -16709,6 +16749,24 @@
     },
     {
       "album": {
+        "name": "Lean On",
+        "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
+      },
+      "artists": [
+        {
+          "name": "Miles Caton",
+          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "album": {
         "name": "Sadboy, Vol. 1",
         "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
@@ -17404,7 +17462,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 198158,
       "name": "Lone Wolf (feat. 4batz)",
       "url": "https://open.spotify.com/track/5fcmrNQySUNbFn3n3ktu1n"
@@ -17929,6 +17987,24 @@
     },
     {
       "album": {
+        "name": "Love Me Through",
+        "url": "https://open.spotify.com/album/3WJbf13X3slcKq32jRt4FO"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203221,
+      "name": "Love Me Through",
+      "url": "https://open.spotify.com/track/5pN3nwpjwFR08G9ZwaCVk9"
+    },
+    {
+      "album": {
         "name": "The Found Album",
         "url": "https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx"
       },
@@ -18342,7 +18418,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 171197,
       "name": "Mach 10",
       "url": "https://open.spotify.com/track/4RDzloEPT85MUPnxSdIu69"
@@ -20440,7 +20516,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 161874,
       "name": "NERVOUS",
       "url": "https://open.spotify.com/track/2tKgNrygongIZ3Ava9xW0x"
@@ -20894,6 +20970,24 @@
       "duration_ms": 190329,
       "name": "No Love Without You",
       "url": "https://open.spotify.com/track/6hkp6tJrFcoYkdktLIA4rh"
+    },
+    {
+      "album": {
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168302,
+      "name": "NO MORE",
+      "url": "https://open.spotify.com/track/7I7sp3NMMwIkcQTdwQLoAF"
     },
     {
       "album": {
@@ -24845,6 +24939,24 @@
     },
     {
       "album": {
+        "name": "Rollin",
+        "url": "https://open.spotify.com/album/6VKyO8jcuvLJRtXBd9btgs"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127202,
+      "name": "Rollin",
+      "url": "https://open.spotify.com/track/4zvrGKI2UesVMfooZuLbDL"
+    },
+    {
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -26095,6 +26207,24 @@
     },
     {
       "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257280,
+      "name": "Sentimental Love",
+      "url": "https://open.spotify.com/track/3LKqrPI3rAv2fGJOIMHIws"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/3BSGF6A7wQToltkc5lIzsv"
       },
@@ -27308,6 +27438,24 @@
       "duration_ms": 196285,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159650,
+      "name": "Some of Your Love",
+      "url": "https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H"
     },
     {
       "album": {
@@ -28695,6 +28843,24 @@
     },
     {
       "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/7sqKPPSgk2wvpm0Sr5FLHv"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168279,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2c1JvWrJI8vQN89BcnKVtg"
+    },
+    {
+      "album": {
         "name": "Sunday Again (with 2 Chainz)",
         "url": "https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv"
       },
@@ -29481,6 +29647,24 @@
     },
     {
       "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178702,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
+    },
+    {
+      "album": {
         "name": "PHASE",
         "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
       },
@@ -29510,7 +29694,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213367,
       "name": "TALK YOU THROUGH IT",
       "url": "https://open.spotify.com/track/3mzxUmddRU18xFwnLs02hw"
@@ -30357,6 +30541,24 @@
     },
     {
       "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345226,
+      "name": "Their Smiles Are Not the Same",
+      "url": "https://open.spotify.com/track/6GfA7btFBUbS0zRDdVcSuq"
+    },
+    {
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z"
       },
@@ -30480,7 +30682,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 179146,
       "name": "Things We Do",
       "url": "https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL"
@@ -30936,7 +31138,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 225416,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/0PYGVIiEyVwclEg0N5i2YW"
@@ -32210,7 +32412,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 202564,
       "name": "w.t.a.",
       "url": "https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH"
@@ -33654,7 +33856,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 141026,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/617frgZYXehBNs3Sz6zwS8"

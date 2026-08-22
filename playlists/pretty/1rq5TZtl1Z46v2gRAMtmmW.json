@@ -6,7 +6,7 @@
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAR7jycVnnxfEFJt6o2fN0J3KvyEmRD",
+  "snapshot_id": "AAAR7ywqWsIUZ7VdOgILZSoMNlxYqqbU",
   "tracks": [
     {
       "added_at": "2026-07-29 14:05:56",
@@ -1487,6 +1487,26 @@
       "duration_ms": 184504,
       "name": "Azadi",
       "url": "https://open.spotify.com/track/1ilS3EJjhVRNOJ0vPAlrJ0"
+    },
+    {
+      "added_at": "2026-08-21 07:47:44",
+      "album": {
+        "name": "Hallucinating Love (Deluxe)",
+        "url": "https://open.spotify.com/album/6PAscdbMksnQyWjd0lodx1"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 167537,
+      "name": "D.O.T.W - Demo",
+      "url": "https://open.spotify.com/track/4kQKryq1PqCnFW0b3cnjLP"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

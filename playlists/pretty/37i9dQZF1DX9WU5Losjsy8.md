@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Mit dieser Playlist hört die Party nie auf!
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,748 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,789 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 24 | [Sie ist 18](https://open.spotify.com/track/0kDBe90SnRfL5EJvg5iv2C) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Keya](https://open.spotify.com/artist/2kUXIsP0qTccA0Ei2qWDmu) | [Sie ist 18](https://open.spotify.com/album/13TwPT83BSHLP4DuxeX1KP) | 3:06 |
 | 25 | [Hammer & Säge \(Baustellensong\)](https://open.spotify.com/track/2IAooEX3flEp1iki244W1y) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Hier kommt der Büffelmann](https://open.spotify.com/album/4HWeDpMNDfMZ0iMgPaKeGz) | 2:59 |
 | 26 | [Tirol](https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Es ist Zeit](https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy) | 2:53 |
-| 27 | [Herz an Herz](https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Herzfrequenz](https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz) | 3:47 |
-| 28 | [Handwerker](https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Handwerker](https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4) | 3:25 |
+| 27 | [Handwerker](https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Handwerker](https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4) | 3:25 |
+| 28 | [Herz an Herz](https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Herzfrequenz](https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz) | 3:47 |
 | 29 | [Peter Pan](https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Peter Pan](https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn) | 3:30 |
-| 30 | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 |
-| 31 | [Gute Laune](https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f) | [GroßstadtEngel](https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG) | [Gute Laune](https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj) | 2:55 |
+| 30 | [Gute Laune](https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f) | [GroßstadtEngel](https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG) | [Gute Laune](https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj) | 2:55 |
+| 31 | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 |
 | 32 | [3 x KO](https://open.spotify.com/track/5FzL0797FMOyNzjSE7n3lI) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd), [Calvin Kleinen](https://open.spotify.com/artist/2iVvuS4ESGMD3pcjEcg2MW) | [3 x KO](https://open.spotify.com/album/4CWNkFagrZH9U5weIKxiuZ) | 2:51 |
 | 33 | [Disco Pogo](https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Atzen Musik Vol.1, 2 & 3](https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh) | 3:24 |
 | 34 | [ANNE KAFFEEKANNE](https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [ANNE KAFFEEKANNE](https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i) | 2:20 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 44 | [Wir sind zuhause](https://open.spotify.com/track/2Cb4gy45Yh8dzKjq896vyw) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [Wir sind zuhause](https://open.spotify.com/album/74dlaREzXTWf5mHExvriK3) | 3:15 |
 | 45 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 |
 | 46 | [Schau mal herein](https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Florian Silbereisen](https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq) | [Schau mal herein](https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7) | 3:03 |
-| 47 | [3er](https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd) | [3er](https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG) | 2:24 |
-| 48 | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3) | 4:06 |
+| 47 | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3) | 4:06 |
+| 48 | [3er](https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd) | [3er](https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG) | 2:24 |
 | 49 | [Ein Stern \(der deinen Namen trägt\) \- Party Mix](https://open.spotify.com/track/1o5evgltJughVgrPinzAOV) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Nik P.](https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:56 |
 | 50 | [Dieter \(Der LKW Song\)](https://open.spotify.com/track/63OzX69ELvC0mFS4UiscII) | [Malle Anja](https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd) | [Dieter \(Der LKW Song\)](https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN) | 3:10 |
 | 51 | [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Ein bisschen Aroma \- Stereoact Remix](https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e) | [Roger Whittaker](https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ein bisschen Aroma \(Stereoact Remix\)](https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer) | 2:58 |
 | 80 | [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 |
 
-Snapshot ID: `AAAAAAwOSpGjwIKo/P0NwRJCbgeB19P2`
+Snapshot ID: `AAAAANVHJrl2Voin5bPS1j0rMr2LThd6`

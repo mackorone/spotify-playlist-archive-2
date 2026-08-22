@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Nerve
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,797 likes - 85 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,774 likes - 85 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Trance \(Walk It Down\)](https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trance \(Walk It Down\)](https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40) | 2:41 |
 | 2 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
 | 3 | [2016](https://open.spotify.com/track/3UvjjcxvC6hOJON7OzRMDS) | [Baakio](https://open.spotify.com/artist/36ws0N21AlYMI8YMyiz2Il), [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [All Eyes](https://open.spotify.com/album/2K4HdHvotZBsEP5mXV9OGe) | 1:53 |
-| 4 | [Track 2](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 0:00 |
+| 4 | [Opium](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 3:38 |
 | 5 | [Packed Up](https://open.spotify.com/track/1vFnwVp7boQo7tztcYYDsT) | [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T) | [C\*\*T](https://open.spotify.com/album/6UoD51KZ6eh0fJFpHqrw5v) | 2:40 |
 | 6 | [PRINCE OF THE SCENE](https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PRINCE OF THE SCENE](https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e) | 1:56 |
-| 7 | [Track 4](https://open.spotify.com/track/764bnTCXLpQY73bNB5uZDL) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [The Price Of Fame](https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu) | 0:00 |
+| 7 | [Standing on It](https://open.spotify.com/track/764bnTCXLpQY73bNB5uZDL) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [The Price Of Fame](https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu) | 2:46 |
 | 8 | [HIM](https://open.spotify.com/track/3nIZYfa1Ij4XrarJd1TNXP) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [HIM](https://open.spotify.com/album/3y2v2sPbg91vGzTcXrTX8r) | 2:52 |
 | 9 | [Intense](https://open.spotify.com/track/7pPZT3SHyk0o7rObDPDQ5N) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Intense](https://open.spotify.com/album/6rDQsz9op4zqX61gsKHIlQ) | 3:12 |
 | 10 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 84 | [STRANGE WAYYZ](https://open.spotify.com/track/1tl7Bo7EnZ343ipJkqngqj) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [STRANGE WAYYZ](https://open.spotify.com/album/6YSUR94oXa5Ak7oF7ycf6g) | 2:20 |
 | 85 | [Levitate](https://open.spotify.com/track/5F7T1d2OIvTrNiO06HZ0pv) | [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T) | [Levitate](https://open.spotify.com/album/6VqPCTH7MBdofKCSzuHU8A) | 3:31 |
 
-Snapshot ID: `AAAAAAwQPp2X+vSFpACzfw6B9/EJ1dUU`
+Snapshot ID: `AAAAAPwsTQO2QbIh8yM72SkYABWcVXWG`

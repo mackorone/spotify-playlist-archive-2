@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Wasia Project
 
-2,497 songs - 5 day 13 hr 10 min
+2,499 songs - 5 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Bored](https://open.spotify.com/track/2iKp7e9MFT5kWdyeV5B9Ne) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Bored](https://open.spotify.com/album/1mpAhcCw0EtoczmnbXjXBU) | 3:04 | 2021-02-25 | 2021-05-27 |
 | [Bored](https://open.spotify.com/track/1T5hA7T0a9z7yEkvN2RgVp) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Bored](https://open.spotify.com/album/2l7yOrYvRKr2R0fnrVW7q9) | 2:11 | 2021-05-15 | 2021-06-04 |
 | [bored&blind](https://open.spotify.com/track/5aNWkMWnXjJGMTj16ikdRd) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [bored&blind](https://open.spotify.com/album/5VSnAIWBRl8sHSoDlZOiC6) | 3:41 | 2021-03-06 | 2022-04-10 |
+| [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 | 2026-08-21 |  |
 | [Bottle Rocket](https://open.spotify.com/track/68gaqJVyRXTE5qanrZ9hZN) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay](https://open.spotify.com/album/6yxiHB4TtWMLSpvnvlxSDW) | 3:25 | 2024-01-12 | 2024-04-24 |
 | [Boundary Street](https://open.spotify.com/track/30DKmospmuSgNijNNQGXeb) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Something To Feel Good About](https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV) | 3:05 | 2020-11-27 | 2021-01-31 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-09-24 | 2022-04-13 |
@@ -1238,6 +1239,7 @@
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2022-11-07 | 2024-05-18 |
 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 | 2023-07-03 | 2024-01-13 |
 | [Killing Me](https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob) | 2:45 | 2022-03-29 | 2022-04-02 |
+| [Killing Time](https://open.spotify.com/track/1IzJUosMnntxD6S9grgc7c) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Killing Time](https://open.spotify.com/album/0e5lkoSXWADTH6rxvq3NTN) | 2:59 | 2026-08-21 |  |
 | [King of the Basement](https://open.spotify.com/track/2YGSiFpIrhHHzpogSahLK5) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [King of the Basement](https://open.spotify.com/album/4yT6C0MlsJ7Z4LniiePQM2) | 4:24 | 2021-05-03 | 2021-12-21 |
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-03-07 | 2021-05-27 |
 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 | 2026-04-10 | 2026-05-16 |
@@ -1313,7 +1315,7 @@
 | [Line Without a Hook](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 4:09 | 2021-01-15 | 2021-02-06 |
 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 | 2021-02-06 | 2023-02-25 |
 | [Lip Service](https://open.spotify.com/track/3tqo6JRpy7V6LNVcGDdo0Z) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Lip Service](https://open.spotify.com/album/1D34fZbECFHAVdk3kbZ9xA) | 2:29 | 2022-12-09 | 2023-01-08 |
-| [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 | 2025-12-12 |  |
+| [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 | 2025-12-12 | 2026-08-22 |
 | [Listen!!!](https://open.spotify.com/track/3AyINldeVk1tkHuPGRvW0i) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Listen!!!](https://open.spotify.com/album/5aBuJMMRWUwBaUN1e3Mjzu) | 3:50 | 2021-01-16 | 2021-03-01 |
 | [Listerine](https://open.spotify.com/track/5LEVjmo2QweDHc7k19aFcp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:35 | 2021-01-18 | 2022-04-13 |
 | [Little Acts Of Violence](https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Little Acts Of Violence](https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX) | 2:50 | 2024-12-06 | 2025-01-30 |
@@ -2333,7 +2335,7 @@
 | [Valleyheart](https://open.spotify.com/track/3ebeGj7ac0mMlO5PhFK80L) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Valleyheart](https://open.spotify.com/album/42sitHkcawmZVLe2Kt45xK) | 2:28 | 2021-03-07 | 2021-08-11 |
 | [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 | 2026-04-24 |  |
 | [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 | 2025-08-08 | 2026-05-16 |
-| [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 | 2026-06-12 |  |
+| [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 | 2026-06-12 | 2026-08-22 |
 | [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-11 | 2025-07-19 |
 | [victim of nostalgia](https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [victim of nostalgia](https://open.spotify.com/album/1q368d6nMTceCEkSYdIqHl) | 2:36 | 2022-04-29 | 2022-05-21 |
 | [Victoria](https://open.spotify.com/track/4X8JkeMSFFiVpWqIpS6ajC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Victoria](https://open.spotify.com/album/36YM5gHJmJ415NomqukOME) | 3:18 | 2022-03-18 | 2022-04-20 |

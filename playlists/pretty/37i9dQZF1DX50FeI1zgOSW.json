@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Siri Xander",
-  "num_followers": 20885,
+  "num_followers": 20900,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKGqlXLJ+rYBDnTxDfOLg3sch4z1",
+  "snapshot_id": "AAAAAATnbk5XDpnXCPI3tXTNTzZkUW8W",
   "tracks": [
     {
       "added_at": "2026-07-31 10:52:19",
@@ -27,6 +27,30 @@
       "duration_ms": 178124,
       "name": "Pesamale",
       "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
+    },
+    {
+      "added_at": "2026-08-17 13:46:40",
+      "album": {
+        "name": "I-popstar Tamil | Ep 11",
+        "url": "https://open.spotify.com/album/18O6GsR87AIxLTIys8jHlA"
+      },
+      "artists": [
+        {
+          "name": "Priya Jerson",
+          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
+        },
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Keralanaadu",
+      "url": "https://open.spotify.com/track/2e9r8KeXV1PruDr75dw1bj"
     },
     {
       "added_at": "2026-04-23 06:49:33",
@@ -297,6 +321,26 @@
       "url": "https://open.spotify.com/track/2ygQ0NGycUcKZNVpa53AJ6"
     },
     {
+      "added_at": "2026-08-21 09:02:00",
+      "album": {
+        "name": "Baby Keebi",
+        "url": "https://open.spotify.com/album/4Yw917vdN4U3hBM0IPs7st"
+      },
+      "artists": [
+        {
+          "name": "Ajay Anand C",
+          "url": "https://open.spotify.com/artist/7BySOMUdTuAG12jSH1Zrbi"
+        },
+        {
+          "name": "Sowhmya Rajesh",
+          "url": "https://open.spotify.com/artist/4chv4QwjU8noOImfAj2I0W"
+        }
+      ],
+      "duration_ms": 227980,
+      "name": "Baby Keebi",
+      "url": "https://open.spotify.com/track/5jsl8CDJidHMadEfOrALjB"
+    },
+    {
       "added_at": "2026-08-11 11:07:42",
       "album": {
         "name": "Ellam Pochu Da",
@@ -393,6 +437,26 @@
       "url": "https://open.spotify.com/track/3xOva2NHv8cXA7zu6AaQdC"
     },
     {
+      "added_at": "2026-08-21 09:02:00",
+      "album": {
+        "name": "I-popstar Tamil | Ep 13",
+        "url": "https://open.spotify.com/album/1PCvXKccjajuLWe4Kypbp5"
+      },
+      "artists": [
+        {
+          "name": "Priya Jerson",
+          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Raakalo",
+      "url": "https://open.spotify.com/track/6VAfRgZKPWBI8WVpzKSg9w"
+    },
+    {
       "added_at": "2026-06-10 10:19:16",
       "album": {
         "name": "IOIO",
@@ -431,30 +495,6 @@
       "duration_ms": 196909,
       "name": "Yaaraahi",
       "url": "https://open.spotify.com/track/4sP1IZeMzJoCQFQGBRRiAO"
-    },
-    {
-      "added_at": "2026-08-17 13:46:40",
-      "album": {
-        "name": "I-popstar Tamil | Ep 11",
-        "url": "https://open.spotify.com/album/18O6GsR87AIxLTIys8jHlA"
-      },
-      "artists": [
-        {
-          "name": "Priya Jerson",
-          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
-        },
-        {
-          "name": "Vijaynarain",
-          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Keralanaadu",
-      "url": "https://open.spotify.com/track/2e9r8KeXV1PruDr75dw1bj"
     },
     {
       "added_at": "2026-08-17 13:43:04",
@@ -577,6 +617,26 @@
       "url": "https://open.spotify.com/track/1yTDrGo2n2PizWQ3oHUZI5"
     },
     {
+      "added_at": "2026-08-21 09:02:00",
+      "album": {
+        "name": "I-popstar Tamil | Ep 13",
+        "url": "https://open.spotify.com/album/1PCvXKccjajuLWe4Kypbp5"
+      },
+      "artists": [
+        {
+          "name": "Trend Gana Sanjay",
+          "url": "https://open.spotify.com/artist/1nd25HMG3vm12Srl2Rf3IB"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 153088,
+      "name": "Gopalu Goindha",
+      "url": "https://open.spotify.com/track/4x0N2YPWWSYaS1EGrM99TC"
+    },
+    {
       "added_at": "2026-07-16 15:14:16",
       "album": {
         "name": "Superhero",
@@ -627,22 +687,6 @@
       "duration_ms": 174000,
       "name": "Bodha Kannadi",
       "url": "https://open.spotify.com/track/2ZXFfdzEDMhDR718lRhiNv"
-    },
-    {
-      "added_at": "2026-08-13 16:02:49",
-      "album": {
-        "name": "Ambel Jute",
-        "url": "https://open.spotify.com/album/0SRnH6W99xdvOEw8v8baOB"
-      },
-      "artists": [
-        {
-          "name": "Gana Guna",
-          "url": "https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW"
-        }
-      ],
-      "duration_ms": 182117,
-      "name": "Ambel Jute",
-      "url": "https://open.spotify.com/track/6cNYpuEJiApT3ko1UfzTpi"
     },
     {
       "added_at": "2026-07-10 15:09:33",
@@ -923,22 +967,6 @@
       "duration_ms": 161020,
       "name": "Bachelorette Party",
       "url": "https://open.spotify.com/track/4KTFOANiDY5YSxWVfTQOpD"
-    },
-    {
-      "added_at": "2026-07-17 12:40:21",
-      "album": {
-        "name": "Mayile Mantharame",
-        "url": "https://open.spotify.com/album/2LiCtE6U5MGRESXJlMm2cn"
-      },
-      "artists": [
-        {
-          "name": "Anthakudi Ilayaraja",
-          "url": "https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Mayile Mantharame",
-      "url": "https://open.spotify.com/track/0PqDmBZcOVk31wRtlPFVuq"
     },
     {
       "added_at": "2026-07-08 06:10:44",

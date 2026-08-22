@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 597799,
+  "num_followers": 598067,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK6X75jrKaTdHxAJRniIPZlPv/Ly",
+  "snapshot_id": "AAAAAG3hlZH7jwQwzx35ZqzT0vWxAxaf",
   "tracks": [
     {
       "added_at": "2026-05-04 16:53:23",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
         "name": "Do You Want Me Baby",
         "url": "https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 482445,
       "name": "Do You Want Me Baby - Original Club Mix",
       "url": "https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
+        "name": "The Jerusalem EP's",
+        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 407893,
+      "name": "Servants Jaz House",
+      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
       "added_at": "2026-05-04 16:53:23",

@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 339483,
+  "num_followers": 339546,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEHrjerme9bYQVOI8ayCDSTifU0s",
+  "snapshot_id": "AAAAAOgUQs28kAAxk/35hfdgCkkSuIPc",
   "tracks": [
     {
       "added_at": "2025-02-14 17:45:29",
@@ -155,6 +155,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "20 Valses Instrumentales",
+        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
+      },
+      "artists": [
+        {
+          "name": "Bodas y 15 A\u00f1os",
+          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
         "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 179703,
       "name": "BLUE DOLPHIN",
       "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "20 Valses Instrumentales",
-        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
-      },
-      "artists": [
-        {
-          "name": "Bodas y 15 A\u00f1os",
-          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Love Is Blue",
-        "url": "https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa"
-      },
-      "artists": [
-        {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Love Is Blue",
-      "url": "https://open.spotify.com/track/1PlZt5i69FgDl45KbHlLzr"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Volume Secondo",
         "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 151092,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Love Is Blue",
+        "url": "https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa"
+      },
+      "artists": [
+        {
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Love Is Blue",
+      "url": "https://open.spotify.com/track/1PlZt5i69FgDl45KbHlLzr"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Lost Hits Of The 60's",
-        "url": "https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp"
-      },
-      "artists": [
-        {
-          "name": "Don Costa And His Orchestra",
-          "url": "https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Never On Sunday",
-      "url": "https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Al Caiola",
         "url": "https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Lost Hits Of The 60's",
+        "url": "https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp"
+      },
+      "artists": [
+        {
+          "name": "Don Costa And His Orchestra",
+          "url": "https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Never On Sunday",
+      "url": "https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "40 Hits Latinos",
+        "url": "https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC"
+      },
+      "artists": [
+        {
+          "name": "Mantovani y Su Gran Orquesta",
+          "url": "https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -619,18 +635,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "40 Hits Latinos",
-        "url": "https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
       },
       "artists": [
         {
-          "name": "Mantovani y Su Gran Orquesta",
-          "url": "https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb"
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
         }
       ],
-      "duration_ms": 172893,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC"
+      "duration_ms": 219720,
+      "name": "Coraz\u00f3n de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -651,22 +667,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
-      },
-      "artists": [
-        {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Coraz\u00f3n de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Music To Watch Girls By",
         "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Viol\u00edn M\u00e1gico 3 Alegria",
-        "url": "https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV"
-      },
-      "artists": [
-        {
-          "name": "Mila Khodorkovsky",
-          "url": "https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO"
-        }
-      ],
-      "duration_ms": 221186,
-      "name": "El N\u00e1vajo Azul",
-      "url": "https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
         "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 162586,
       "name": "Never On Sunday",
       "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Viol\u00edn M\u00e1gico 3 Alegria",
+        "url": "https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV"
+      },
+      "artists": [
+        {
+          "name": "Mila Khodorkovsky",
+          "url": "https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "El N\u00e1vajo Azul",
+      "url": "https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "100 All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 142986,
-      "name": "Les Parapluies de Cherbourg",
-      "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 153133,
       "name": "The Girl from Ipanema",
       "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "100 All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 142986,
+      "name": "Les Parapluies de Cherbourg",
+      "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "La Danza De Los Corcelos (with The Royal Philharmonic Orchestra)",
         "url": "https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 233333,
       "name": "Recuerdos De La Alhambra (with The Royal Philharmonic Orchestra)",
       "url": "https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "100 A\u00f1os Volumen 1",
-        "url": "https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Il",
-      "url": "https://open.spotify.com/track/7CvMq5t11kJI64GAJLQawP"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "16 Joyas Del New Age",
         "url": "https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 228213,
       "name": "Aria on Air",
       "url": "https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "100 A\u00f1os Volumen 1",
+        "url": "https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Il",
+      "url": "https://open.spotify.com/track/7CvMq5t11kJI64GAJLQawP"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Music Box Dancer",
-        "url": "https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf"
-      },
-      "artists": [
-        {
-          "name": "Frank Mills",
-          "url": "https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Music Box Dancer",
-      "url": "https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "!!!Going Places!!!",
         "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 125920,
       "name": "Tijuana Taxi",
       "url": "https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Music Box Dancer",
+        "url": "https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf"
+      },
+      "artists": [
+        {
+          "name": "Frank Mills",
+          "url": "https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Music Box Dancer",
+      "url": "https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Hustle & The Best of Van McCoy",
-        "url": "https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF"
-      },
-      "artists": [
-        {
-          "name": "Van McCoy",
-          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
-        }
-      ],
-      "duration_ms": 261173,
-      "name": "The Shuffle",
-      "url": "https://open.spotify.com/track/2uxjiKluwF9Gk2bWbwdMVi"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "!!!Going Places!!!",
         "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 126893,
       "name": "Spanish Flea",
       "url": "https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "The Hustle & The Best of Van McCoy",
+        "url": "https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF"
+      },
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+        }
+      ],
+      "duration_ms": 261173,
+      "name": "The Shuffle",
+      "url": "https://open.spotify.com/track/2uxjiKluwF9Gk2bWbwdMVi"
     },
     {
       "added_at": "2025-02-14 17:45:29",

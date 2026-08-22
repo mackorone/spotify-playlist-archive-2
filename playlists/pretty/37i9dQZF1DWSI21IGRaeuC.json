@@ -1,32 +1,28 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Jamback",
-  "num_followers": 88893,
+  "num_followers": 88932,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANi6rdjymhbnjd3yhmCQE+wfJdBg",
+  "snapshot_id": "AAAAAObzOQuCesf5xKAlC10bqHS1CBUm",
   "tracks": [
     {
-      "added_at": "2026-07-31 04:01:09",
+      "added_at": "2026-08-21 04:01:27",
       "album": {
-        "name": "Back To Funk",
-        "url": "https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN"
+        "name": "Sun is Shining (Lovelee Dae)",
+        "url": "https://open.spotify.com/album/1mbjeF0qWky3z9Xlz4H4sC"
       },
       "artists": [
         {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        },
-        {
-          "name": "Danny P",
-          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+          "name": "Tommy Phillips",
+          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
         }
       ],
-      "duration_ms": 219111,
-      "name": "Back To Funk",
-      "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
+      "duration_ms": 174924,
+      "name": "Sun is Shining (Lovelee Dae)",
+      "url": "https://open.spotify.com/track/4BnF9lzg2f7kc7wxydPhby"
     },
     {
       "added_at": "2026-08-14 04:01:21",
@@ -61,42 +57,6 @@
       "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
     },
     {
-      "added_at": "2026-07-17 15:05:04",
-      "album": {
-        "name": "Hey Everybody",
-        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 156498,
-      "name": "Hey Everybody",
-      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
-    },
-    {
-      "added_at": "2026-08-14 04:01:21",
-      "album": {
-        "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
-        "url": "https://open.spotify.com/album/0QPCBavysOWUEif1OZZDRl"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
-      "url": "https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi"
-    },
-    {
       "added_at": "2026-08-14 04:01:21",
       "album": {
         "name": "Late Night Baddies",
@@ -121,6 +81,58 @@
       "url": "https://open.spotify.com/track/5r0GbOsD3zxVvmlLcpSeGD"
     },
     {
+      "added_at": "2026-07-31 04:01:09",
+      "album": {
+        "name": "Back To Funk",
+        "url": "https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "duration_ms": 219111,
+      "name": "Back To Funk",
+      "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
+    },
+    {
+      "added_at": "2026-07-17 15:05:04",
+      "album": {
+        "name": "Hey Everybody",
+        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Hey Everybody",
+      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+    },
+    {
+      "added_at": "2026-08-21 04:01:27",
+      "album": {
+        "name": "Work Your Body",
+        "url": "https://open.spotify.com/album/1HpGxibYw3eD9wGlsY2kX2"
+      },
+      "artists": [
+        {
+          "name": "Funk Cartel",
+          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
+        }
+      ],
+      "duration_ms": 165581,
+      "name": "Work Your Body",
+      "url": "https://open.spotify.com/track/7Myxv15uekMkWTvGZqmDsB"
+    },
+    {
       "added_at": "2026-07-24 04:01:33",
       "album": {
         "name": "Can't Slow Down",
@@ -135,6 +147,58 @@
       "duration_ms": 177240,
       "name": "Can't Slow Down",
       "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
+    },
+    {
+      "added_at": "2026-08-14 04:01:21",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/4xif2QSx6ic8c7Gdfrysf6"
+      },
+      "artists": [
+        {
+          "name": "Ethan Walsh",
+          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/7Jakum4jAT9jvM1DiNPYFH"
+    },
+    {
+      "added_at": "2026-08-14 04:01:21",
+      "album": {
+        "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/0QPCBavysOWUEif1OZZDRl"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 189231,
+      "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi"
+    },
+    {
+      "added_at": "2026-08-21 04:01:27",
+      "album": {
+        "name": "Best Of Relax, Vol. 1 (Club Hits)",
+        "url": "https://open.spotify.com/album/7odW2Go9zG9jYkpm06Huln"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 386132,
+      "name": "Big Things Coming",
+      "url": "https://open.spotify.com/track/77HCn8EcJjL3j6goI3N39E"
     },
     {
       "added_at": "2026-08-07 04:01:14",
@@ -157,20 +221,36 @@
       "url": "https://open.spotify.com/track/5yPZbV61vFlV8WqPps3Q2p"
     },
     {
-      "added_at": "2026-08-14 04:01:21",
+      "added_at": "2026-08-21 16:29:30",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/4xif2QSx6ic8c7Gdfrysf6"
+        "name": "No No No",
+        "url": "https://open.spotify.com/album/2LOT7MBxlcI6jAp9OTv6qK"
       },
       "artists": [
         {
-          "name": "Ethan Walsh",
-          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/7Jakum4jAT9jvM1DiNPYFH"
+      "duration_ms": 343342,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/2lnybFoHZJxJVkYwXXrNd2"
+    },
+    {
+      "added_at": "2026-08-21 04:01:27",
+      "album": {
+        "name": "Apollo EP",
+        "url": "https://open.spotify.com/album/613vduHdqJtYfEcQJrMa6V"
+      },
+      "artists": [
+        {
+          "name": "Hidde van Wee",
+          "url": "https://open.spotify.com/artist/3BhQ6qO6Y8Pxbok6yUWRwH"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4GdwW9L7J17YMgZ9nJjNVu"
     },
     {
       "added_at": "2026-07-17 04:01:06",
@@ -197,6 +277,26 @@
       "url": "https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm"
     },
     {
+      "added_at": "2026-08-14 04:01:21",
+      "album": {
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/6JutkNFSDGWG0InWDuqRMN"
+      },
+      "artists": [
+        {
+          "name": "Midas Field",
+          "url": "https://open.spotify.com/artist/2CWBXfhKFuPmSoXhM4V6O1"
+        },
+        {
+          "name": "Marijn Jansen",
+          "url": "https://open.spotify.com/artist/09XO6EYxV6zgO6VVDF0epr"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/31pjp1EzkwhmLmdKzYAbFa"
+    },
+    {
       "added_at": "2026-07-31 04:01:09",
       "album": {
         "name": "Casa Ponte EP",
@@ -217,20 +317,20 @@
       "url": "https://open.spotify.com/track/7rKSCsqyh4YsJtGBpZVMSg"
     },
     {
-      "added_at": "2026-08-14 04:01:21",
+      "added_at": "2026-08-21 04:01:27",
       "album": {
-        "name": "Can You Feel The Bass",
-        "url": "https://open.spotify.com/album/5gWFle9eMkKb8hSVGU5sSN"
+        "name": "afterglow",
+        "url": "https://open.spotify.com/album/4Fift6IgtpB7CxrkLBjPUM"
       },
       "artists": [
         {
-          "name": "Local Dub",
-          "url": "https://open.spotify.com/artist/5Wgw2WCYLFCz0sOrD63ymF"
+          "name": "orion",
+          "url": "https://open.spotify.com/artist/3V1t1Z3x2MrYJXEE2uEEIb"
         }
       ],
-      "duration_ms": 217860,
-      "name": "Can You Feel The Bass",
-      "url": "https://open.spotify.com/track/4gALmStbKnYZWsBv2hJcGI"
+      "duration_ms": 247272,
+      "name": "afterglow",
+      "url": "https://open.spotify.com/track/2OEisVHjBrHhwWCCCJsPKe"
     },
     {
       "added_at": "2026-08-07 04:01:14",
@@ -249,24 +349,20 @@
       "url": "https://open.spotify.com/track/70KprS1QCWIkd9nnFTxaMb"
     },
     {
-      "added_at": "2026-08-14 04:01:21",
+      "added_at": "2026-08-07 04:01:14",
       "album": {
-        "name": "What We Got",
-        "url": "https://open.spotify.com/album/6JutkNFSDGWG0InWDuqRMN"
+        "name": "Distant Star System",
+        "url": "https://open.spotify.com/album/4B2aiAekp1VQDuazBYtUlE"
       },
       "artists": [
         {
-          "name": "Midas Field",
-          "url": "https://open.spotify.com/artist/2CWBXfhKFuPmSoXhM4V6O1"
-        },
-        {
-          "name": "Marijn Jansen",
-          "url": "https://open.spotify.com/artist/09XO6EYxV6zgO6VVDF0epr"
+          "name": "Danny Snowden",
+          "url": "https://open.spotify.com/artist/4x8tHM8IhkjWRTUD4k8cGB"
         }
       ],
-      "duration_ms": 199000,
-      "name": "What We Got",
-      "url": "https://open.spotify.com/track/31pjp1EzkwhmLmdKzYAbFa"
+      "duration_ms": 236363,
+      "name": "Distant Star System",
+      "url": "https://open.spotify.com/track/5k61XaunANvUpPYwCKSB6J"
     },
     {
       "added_at": "2026-08-07 04:01:14",
@@ -293,6 +389,22 @@
       "url": "https://open.spotify.com/track/5UHWWKPPfPhMnq2qub3Fwh"
     },
     {
+      "added_at": "2026-08-21 04:01:27",
+      "album": {
+        "name": "Do U Wanna Dance",
+        "url": "https://open.spotify.com/album/3MVp74nCS4ugtXtRZpzSfU"
+      },
+      "artists": [
+        {
+          "name": "EVIE (UK)",
+          "url": "https://open.spotify.com/artist/6TZ1sUeiF3vUvOeGcFOFVJ"
+        }
+      ],
+      "duration_ms": 249567,
+      "name": "Do U Wanna Dance",
+      "url": "https://open.spotify.com/track/00Nc7xOhu1GHNlaKhU0Vt4"
+    },
+    {
       "added_at": "2026-08-14 04:01:21",
       "album": {
         "name": "Out This World EP",
@@ -307,22 +419,6 @@
       "duration_ms": 146514,
       "name": "Out This World",
       "url": "https://open.spotify.com/track/1kSxijsyoyTK4liXg32O82"
-    },
-    {
-      "added_at": "2026-08-07 04:01:14",
-      "album": {
-        "name": "Distant Star System",
-        "url": "https://open.spotify.com/album/4B2aiAekp1VQDuazBYtUlE"
-      },
-      "artists": [
-        {
-          "name": "Danny Snowden",
-          "url": "https://open.spotify.com/artist/4x8tHM8IhkjWRTUD4k8cGB"
-        }
-      ],
-      "duration_ms": 236363,
-      "name": "Distant Star System",
-      "url": "https://open.spotify.com/track/5k61XaunANvUpPYwCKSB6J"
     },
     {
       "added_at": "2026-08-14 04:01:21",
@@ -341,6 +437,26 @@
       "url": "https://open.spotify.com/track/5i81hnGbUvrb14sM3MRart"
     },
     {
+      "added_at": "2026-08-21 04:01:27",
+      "album": {
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/0pDRL1eNCAYuIVVHuOeHMr"
+      },
+      "artists": [
+        {
+          "name": "Luke Kearns",
+          "url": "https://open.spotify.com/artist/53PyOq5Qur8vI3LZVOmivG"
+        },
+        {
+          "name": "Xavier Weeks",
+          "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
+        }
+      ],
+      "duration_ms": 226086,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/5hNWeX0nrqGXcElALgxiEQ"
+    },
+    {
       "added_at": "2026-07-31 04:01:09",
       "album": {
         "name": "MEDIA DOME",
@@ -355,6 +471,46 @@
       "duration_ms": 218436,
       "name": "MEDIA DOME",
       "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
+    },
+    {
+      "added_at": "2026-06-19 04:01:17",
+      "album": {
+        "name": "Puff Puff Pass (Nafe Smallz & Luke Dean Remix)",
+        "url": "https://open.spotify.com/album/0KRv87FFURKGhb4i7PMMmP"
+      },
+      "artists": [
+        {
+          "name": "Kitty Hall",
+          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 335831,
+      "name": "Puff Puff Pass - Nafe Smallz & Luke Dean Remix",
+      "url": "https://open.spotify.com/track/45gMbNPiHzrzEIezRwPmiB"
+    },
+    {
+      "added_at": "2026-08-21 04:01:27",
+      "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/2hcScKBPp4Kc0tdCGgdIE2"
+      },
+      "artists": [
+        {
+          "name": "Semmi Amdouni",
+          "url": "https://open.spotify.com/artist/5vDcMK7z1mA0kTPi0UIBNS"
+        }
+      ],
+      "duration_ms": 205984,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/17komQ1yFHSxY7APfmJTSi"
     },
     {
       "added_at": "2026-08-07 04:01:14",
@@ -1081,22 +1237,6 @@
       "url": "https://open.spotify.com/track/3v99wqFqqedYXeKmyUCKP8"
     },
     {
-      "added_at": "2026-07-01 03:14:17",
-      "album": {
-        "name": "Prep\u00e1rame EP",
-        "url": "https://open.spotify.com/album/4R90gTjXs01jMsqqinBKVG"
-      },
-      "artists": [
-        {
-          "name": "Capron",
-          "url": "https://open.spotify.com/artist/49avcGZMMES2LbSHKis5Kz"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Prep\u00e1rame",
-      "url": "https://open.spotify.com/track/0r6SxMo8YxMJaIAW3M4qwk"
-    },
-    {
       "added_at": "2026-06-19 04:01:17",
       "album": {
         "name": "Mesmerize",
@@ -1205,30 +1345,6 @@
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
     },
     {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "Puff Puff Pass (Nafe Smallz & Luke Dean Remix)",
-        "url": "https://open.spotify.com/album/0KRv87FFURKGhb4i7PMMmP"
-      },
-      "artists": [
-        {
-          "name": "Kitty Hall",
-          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
-        },
-        {
-          "name": "Nafe Smallz",
-          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 335831,
-      "name": "Puff Puff Pass - Nafe Smallz & Luke Dean Remix",
-      "url": "https://open.spotify.com/track/45gMbNPiHzrzEIezRwPmiB"
-    },
-    {
       "added_at": "2026-07-10 04:02:04",
       "album": {
         "name": "Link Up EP",
@@ -1325,22 +1441,6 @@
       "url": "https://open.spotify.com/track/5KBUE75BEZMGmDnfW8y2gd"
     },
     {
-      "added_at": "2026-05-29 04:01:35",
-      "album": {
-        "name": "Impulses EP",
-        "url": "https://open.spotify.com/album/38mWTjv6haB5dTi9pYzy8y"
-      },
-      "artists": [
-        {
-          "name": "Jacob Matthews",
-          "url": "https://open.spotify.com/artist/6OLFLlG1W9ihgTCDQt5jaz"
-        }
-      ],
-      "duration_ms": 233854,
-      "name": "Impulses",
-      "url": "https://open.spotify.com/track/5hBK3SddrzzFWxsLyT1Rw2"
-    },
-    {
       "added_at": "2026-06-19 04:01:17",
       "album": {
         "name": "GANGSTA",
@@ -1405,26 +1505,6 @@
       "url": "https://open.spotify.com/track/4t0TQyiaeyulwsghotIdxi"
     },
     {
-      "added_at": "2026-06-05 04:01:30",
-      "album": {
-        "name": "Bubbling",
-        "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Patrick Luna",
-          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
-        }
-      ],
-      "duration_ms": 209092,
-      "name": "Bubbling",
-      "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
-    },
-    {
       "added_at": "2026-07-01 03:14:17",
       "album": {
         "name": "Talk Of The Town",
@@ -1439,22 +1519,6 @@
       "duration_ms": 170649,
       "name": "Talk Of The Town",
       "url": "https://open.spotify.com/track/0ljpW4YHCAPv2xfwPkyxhh"
-    },
-    {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "Dawn Of Day",
-        "url": "https://open.spotify.com/album/4azKyWlCOt4gfmgmQAntYk"
-      },
-      "artists": [
-        {
-          "name": "Hidde van Wee",
-          "url": "https://open.spotify.com/artist/3BhQ6qO6Y8Pxbok6yUWRwH"
-        }
-      ],
-      "duration_ms": 369204,
-      "name": "Dawn Of Day",
-      "url": "https://open.spotify.com/track/71MDQ5NMhM3W8jDMiIwIot"
     },
     {
       "added_at": "2026-05-27 23:36:59",
@@ -1601,22 +1665,6 @@
       "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
     },
     {
-      "added_at": "2026-05-08 04:01:49",
-      "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/5rUjBhXJovoVDNAeC7pr8H"
-      },
-      "artists": [
-        {
-          "name": "Beave",
-          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
-        }
-      ],
-      "duration_ms": 142669,
-      "name": "Once Again",
-      "url": "https://open.spotify.com/track/0mmErQGLOMb2UcKAZYPC4V"
-    },
-    {
       "added_at": "2026-05-01 04:01:14",
       "album": {
         "name": "Second Nature (SHUFFA Remix)",
@@ -1639,22 +1687,6 @@
       "duration_ms": 187258,
       "name": "Second Nature - SHUFFA Remix",
       "url": "https://open.spotify.com/track/1TRXRI1BAk8vsZAa2mHLix"
-    },
-    {
-      "added_at": "2026-04-17 04:04:08",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5oxDT9af0xtzKUo6nSiyG5"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 262677,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1hkC1aNdHsGsdM0O58JhEb"
     },
     {
       "added_at": "2026-04-17 04:04:08",
@@ -1705,26 +1737,6 @@
       "url": "https://open.spotify.com/track/6z0Zc6uf2ofI2KkUupFepg"
     },
     {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Our House (Ellis Garner Remix)",
-        "url": "https://open.spotify.com/album/0CKI6koyh3y9gxZNYyCOOB"
-      },
-      "artists": [
-        {
-          "name": "Mason Cooper",
-          "url": "https://open.spotify.com/artist/5QQLWtM5l0Qd9A9jwL4jvl"
-        },
-        {
-          "name": "Ellis Garner",
-          "url": "https://open.spotify.com/artist/6sY1arGfGF8dJ616TFEOeO"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Our House - Ellis Garner Remix",
-      "url": "https://open.spotify.com/track/2825nvJcEiZLugLg06ovwU"
-    },
-    {
       "added_at": "2026-04-10 04:02:13",
       "album": {
         "name": "Escape",
@@ -1755,26 +1767,6 @@
       "duration_ms": 187796,
       "name": "Passion",
       "url": "https://open.spotify.com/track/1OlS7vWAKZEeoNgIp3JvE2"
-    },
-    {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "Strong Rhyme",
-        "url": "https://open.spotify.com/album/4CEMzSVtDWRa0pIls00LoZ"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 207575,
-      "name": "Strong Rhyme",
-      "url": "https://open.spotify.com/track/7zQw0isILUc2PAWMRRa82W"
     },
     {
       "added_at": "2026-03-27 04:00:16",

@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 189926,
       "name": "Bruxer\u00eda",
       "url": "https://open.spotify.com/track/69Q7xperm0Q4xtTaM06QmR"
@@ -5539,6 +5539,28 @@
     },
     {
       "album": {
+        "name": "Este A\u00f1o (peleamos m\u00e1s de lo que nos besamos)",
+        "url": "https://open.spotify.com/album/2q1RVFJpZj0w8W9PeWcQMT"
+      },
+      "artists": [
+        {
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        },
+        {
+          "name": "Tolidos",
+          "url": "https://open.spotify.com/artist/0Pz3Ti0IwegALv24lPjUI0"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232899,
+      "name": "Este A\u00f1o (peleamos m\u00e1s de lo que nos besamos)",
+      "url": "https://open.spotify.com/track/6XPE82mu1x3NWCgrspIpZy"
+    },
+    {
+      "album": {
         "name": "Super H (Homenaje al Super 8 de Los Planetas)",
         "url": "https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb"
       },
@@ -7210,7 +7232,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 199346,
       "name": "La F\u00edsica Del Fracaso",
       "url": "https://open.spotify.com/track/6RzRZDuQceMj5fWad0N5Jl"
@@ -13980,6 +14002,24 @@
       "duration_ms": 221260,
       "name": "Superextra\u00f1o",
       "url": "https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB"
+    },
+    {
+      "album": {
+        "name": "MI A\u00d1O G\u00d3TICO (DELUXE)",
+        "url": "https://open.spotify.com/album/0ciAQPvVpyg9mLOflpZF5N"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207530,
+      "name": "S\u00e9",
+      "url": "https://open.spotify.com/track/4Q9aJBD4BbdrGFUVCtwb2t"
     },
     {
       "album": {

@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/5W1iwaQO9Ei7vrM1HHclx6"
+      },
+      "artists": [
+        {
+          "name": "Fjordyn",
+          "url": "https://open.spotify.com/artist/2Fx9aKfhce3ziCJlAgM58w"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Astra",
+      "url": "https://open.spotify.com/track/5GABHIxaYV6aTTSPD8uN0v"
+    },
+    {
+      "album": {
         "name": "Astrale",
         "url": "https://open.spotify.com/album/6Tpk9bKc7KhtASp3oYEzf0"
       },
@@ -2086,7 +2104,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 174915,
       "name": "Centering",
       "url": "https://open.spotify.com/track/7k01Gr52EjUSn2Bx4kxw5W"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 166672,
       "name": "Coral daylight",
       "url": "https://open.spotify.com/track/4O6K2mYOS31yKn1YyF5aen"
@@ -4927,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6KfMPw1YcglyQRpS2cUTXi"
+      },
+      "artists": [
+        {
+          "name": "Soulstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2H7U5wNVjayzK341jIHaM6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/4fme0XkJS8gV1teVDzdNb4"
+    },
+    {
+      "album": {
         "name": "Flucht",
         "url": "https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn"
       },
@@ -6684,7 +6720,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 175818,
       "name": "Into the mist",
       "url": "https://open.spotify.com/track/6FNB2HTHmWL04ZQryx1dLL"
@@ -8239,6 +8275,24 @@
     },
     {
       "album": {
+        "name": "Mirevale",
+        "url": "https://open.spotify.com/album/1kZ7vNRkJPW13Prog4zCEA"
+      },
+      "artists": [
+        {
+          "name": "Elare Veylon",
+          "url": "https://open.spotify.com/artist/7fExDn2SpSOqb6APf0ZQzb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Mirevale",
+      "url": "https://open.spotify.com/track/5OalAd3A8orz4MIfAuIylZ"
+    },
+    {
+      "album": {
         "name": "Misty Forest",
         "url": "https://open.spotify.com/album/3eumpVl0ruBbWZHCh0nC9o"
       },
@@ -8308,6 +8362,24 @@
       "duration_ms": 165608,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/4efv7DuqFDh12UtBwaBIAz"
+    },
+    {
+      "album": {
+        "name": "Moon Etching",
+        "url": "https://open.spotify.com/album/493CoZ2iqzKfknKRkY7b2Y"
+      },
+      "artists": [
+        {
+          "name": "Stellian",
+          "url": "https://open.spotify.com/artist/0J7ija5d6fGOPYGODzuRLq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Moon Etching",
+      "url": "https://open.spotify.com/track/5i4Aeef6KLQoOhRWfeqzD1"
     },
     {
       "album": {
@@ -8934,7 +9006,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 169000,
       "name": "Northern Treasure",
       "url": "https://open.spotify.com/track/6hdCo4ZFJ6RC76pNttY4ah"
@@ -9240,7 +9312,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 151082,
       "name": "Orange Dock",
       "url": "https://open.spotify.com/track/0xzolBg89qMVf0aKIUbU2p"
@@ -9438,7 +9510,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 151775,
       "name": "Painted Silence",
       "url": "https://open.spotify.com/track/6Unin0yA7QJcawpLIIl9K1"
@@ -10482,7 +10554,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 144904,
       "name": "Reticence",
       "url": "https://open.spotify.com/track/1R7mpk8nDQutBZb4dRjt47"
@@ -11292,7 +11364,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 162000,
       "name": "Silence Between Suns",
       "url": "https://open.spotify.com/track/7BwJcnVh7MIOy9njjZzwq9"
@@ -11314,6 +11386,24 @@
       "duration_ms": 175961,
       "name": "Silens",
       "url": "https://open.spotify.com/track/0y7raklVx77S4QdInFKCjn"
+    },
+    {
+      "album": {
+        "name": "Silent Color",
+        "url": "https://open.spotify.com/album/63AYDk3uAGhCGIUIT5OXbq"
+      },
+      "artists": [
+        {
+          "name": "Theo Ember",
+          "url": "https://open.spotify.com/artist/5D2aedk5p3rkUVfU4c72uR"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163862,
+      "name": "Silent Color",
+      "url": "https://open.spotify.com/track/4qvoTTlWcxcWMAQtXKY6Ze"
     },
     {
       "album": {
@@ -12433,6 +12523,24 @@
     },
     {
       "album": {
+        "name": "Sudden Rain",
+        "url": "https://open.spotify.com/album/0j8e6OdeIc2SRyKNhlMqpn"
+      },
+      "artists": [
+        {
+          "name": "Dopamine clouds",
+          "url": "https://open.spotify.com/artist/3VIQ9gIvMMoHzDsFOQd85j"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151424,
+      "name": "Sudden Rain",
+      "url": "https://open.spotify.com/track/13xPYlEKrw3BwBLmvbh2yx"
+    },
+    {
+      "album": {
         "name": "Suilven",
         "url": "https://open.spotify.com/album/1NNcF0tflr5jmYMRO1EoTE"
       },
@@ -12696,7 +12804,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 164500,
       "name": "Temple of Light",
       "url": "https://open.spotify.com/track/7E7jRQiRNOfS1jZOxTKW7O"
@@ -13060,6 +13168,24 @@
       "duration_ms": 193326,
       "name": "There Is Hope",
       "url": "https://open.spotify.com/track/3EyQhfgL9QWapu9AQtstRw"
+    },
+    {
+      "album": {
+        "name": "Theta Bloom",
+        "url": "https://open.spotify.com/album/4hyEg8HQdZ1u6LHZ5nLXhD"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "Theta Bloom",
+      "url": "https://open.spotify.com/track/0XaqQUNh0xPPYAws4y8j4x"
     },
     {
       "album": {
@@ -13603,6 +13729,24 @@
     },
     {
       "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/4C8KK0GduAJ7uHUGg5GYJr"
+      },
+      "artists": [
+        {
+          "name": "Calmatic",
+          "url": "https://open.spotify.com/artist/4pnzDhLyf7keokIDeCTVVJ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/5dRqdgFrVzgvs8e0s6FVeR"
+    },
+    {
+      "album": {
         "name": "Unravel",
         "url": "https://open.spotify.com/album/4H5dWC7bARqZds5BPeXMuc"
       },
@@ -13960,6 +14104,24 @@
       "duration_ms": 175813,
       "name": "Way of Shadows",
       "url": "https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR"
+    },
+    {
+      "album": {
+        "name": "we almost stayed",
+        "url": "https://open.spotify.com/album/09qh1W1YCp86S8cC0PGExd"
+      },
+      "artists": [
+        {
+          "name": "Avyr",
+          "url": "https://open.spotify.com/artist/0iybthpZvuI5HJIYhxSC01"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159990,
+      "name": "we almost stayed",
+      "url": "https://open.spotify.com/track/1CcXSXZG7QU62yvSnoCvaj"
     },
     {
       "album": {

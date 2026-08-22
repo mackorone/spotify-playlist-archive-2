@@ -1,12 +1,12 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 843714,
+  "num_followers": 843414,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMCmKFafW+2VPJMSixRG1UlPebgR",
+  "snapshot_id": "AAAAAAx1bVzvT93+QTGn+F0xv1gi/Ug/",
   "tracks": [
     {
       "added_at": "2026-08-05 08:45:46",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-08-05 08:45:46",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
-    },
-    {
-      "added_at": "2026-08-05 08:45:46",
-      "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2026-08-05 08:45:46",
+      "album": {
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2026-08-05 08:45:46",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-08-05 08:45:46",
       "album": {
-        "name": "number one girl",
-        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+        "name": "LAST GOODBYE",
+        "url": "https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
         }
       ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+      "duration_ms": 148000,
+      "name": "LAST GOODBYE",
+      "url": "https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE"
     },
     {
       "added_at": "2026-08-05 08:45:46",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-08-05 08:45:46",
       "album": {
-        "name": "LAST GOODBYE",
-        "url": "https://open.spotify.com/album/60J04ZdOL6STeI0S9OLDZq"
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
       },
       "artists": [
         {
-          "name": "sunkis",
-          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 148000,
-      "name": "LAST GOODBYE",
-      "url": "https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE"
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "added_at": "2026-08-05 08:45:46",

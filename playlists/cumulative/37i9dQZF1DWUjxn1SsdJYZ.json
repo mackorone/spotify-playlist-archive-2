@@ -21045,6 +21045,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj"
+      },
+      "artists": [
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218566,
+      "name": "Opium",
+      "url": "https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q"
+    },
+    {
+      "album": {
         "name": "osiris",
         "url": "https://open.spotify.com/album/36x88J3uwOWOcwwFfSEKSR"
       },
@@ -29609,42 +29627,6 @@
     },
     {
       "album": {
-        "name": "ORUN",
-        "url": "https://open.spotify.com/album/2pKVfUXa6yyXc0OKTJFDC0"
-      },
-      "artists": [
-        {
-          "name": "Zafty",
-          "url": "https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5jkmVlMM2uAOw65NcCcbpR"
-    },
-    {
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj"
-      },
-      "artists": [
-        {
-          "name": "Nerve",
-          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q"
-    },
-    {
-      "album": {
         "name": "Tracy Grimshaw",
         "url": "https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA"
       },
@@ -32474,6 +32456,24 @@
       "duration_ms": 167535,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/5B7B9AKNqnrjyazpa60Wkv"
+    },
+    {
+      "album": {
+        "name": "ORUN",
+        "url": "https://open.spotify.com/album/2pKVfUXa6yyXc0OKTJFDC0"
+      },
+      "artists": [
+        {
+          "name": "Zafty",
+          "url": "https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165418,
+      "name": "Wildin' Out",
+      "url": "https://open.spotify.com/track/5jkmVlMM2uAOw65NcCcbpR"
     },
     {
       "album": {

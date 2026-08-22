@@ -5423,6 +5423,36 @@
     },
     {
       "album": {
+        "name": "Manasa Vacha (From \"EPIC - First Semester\")",
+        "url": "https://open.spotify.com/album/4KHl5TXoatovr60Azo3ZCW"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Sri Harsha Emani",
+          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255833,
+      "name": "Manasa Vacha (From \"EPIC - First Semester\")",
+      "url": "https://open.spotify.com/track/7JDM8eLX09fLkhBYxCLVAD"
+    },
+    {
+      "album": {
         "name": "Manasaagadhe (From \"Toxic - Telugu\")",
         "url": "https://open.spotify.com/album/0sQAKg2bPKcuf3TCWmSyfs"
       },
@@ -5933,7 +5963,7 @@
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 205609,
+      "duration_ms": 269196,
       "name": "Missamma (From \"Modern Missamma\")",
       "url": "https://open.spotify.com/track/3KFRiBO6vP8r5YcFmDtVqa"
     },

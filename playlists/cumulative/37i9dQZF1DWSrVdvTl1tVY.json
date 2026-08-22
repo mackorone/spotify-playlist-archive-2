@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'Cause I Can",
+        "url": "https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187490,
+      "name": "'Cause I Can",
+      "url": "https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F"
+    },
+    {
+      "album": {
         "name": "(This Is A) Warning",
         "url": "https://open.spotify.com/album/64Y1ELBGERSq1vXMkhQlGg"
       },
@@ -15414,6 +15432,24 @@
     {
       "album": {
         "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/6uMRH8OlAVsyrG6oMOAWdV"
+      },
+      "artists": [
+        {
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234115,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/5uf8nvDQ8Dhm8Q08FvMkv6"
+    },
+    {
+      "album": {
+        "name": "Lift You Up",
         "url": "https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI"
       },
       "artists": [
@@ -28174,42 +28210,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "album": {
-        "name": "'Cause I Can",
-        "url": "https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F"
-    },
-    {
-      "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/6uMRH8OlAVsyrG6oMOAWdV"
-      },
-      "artists": [
-        {
-          "name": "FLETCH",
-          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5uf8nvDQ8Dhm8Q08FvMkv6"
     },
     {
       "album": {

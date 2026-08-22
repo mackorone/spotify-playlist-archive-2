@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,204 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,220 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 37 | [ROLLIN ON](https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D) | [Rokkō](https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b) | [ROLLIN ON](https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU) | 3:16 |
 | 38 | [Faith Move Mountain](https://open.spotify.com/track/5JUbMpqDP45qztzumxQNE1) | [King Kong](https://open.spotify.com/artist/6kDCaFSkqskhFf9agShfSY), [Little Lion Sound](https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj) | [Faith Move Mountain](https://open.spotify.com/album/14Wj8Q8pqxfcqF4RZZCOnK) | 2:52 |
 | 39 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 |
-| 40 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
-| 41 | [Don’t Forget Your Roots](https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5) | 3:52 |
+| 40 | [Don’t Forget Your Roots](https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5) | 3:52 |
+| 41 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
 | 42 | [Perfect to Me](https://open.spotify.com/track/2H8Jh4nbgyLl3k12WRjzsc) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Perfect to Me](https://open.spotify.com/album/6hw4X0et7iiVKh2RwHkVGN) | 4:02 |
 | 43 | [Stay](https://open.spotify.com/track/0o8LcX7XbHwRLcwdEITtjt) | [Fejoint](https://open.spotify.com/artist/7qhDGsctUd9NycG0KBXqAf), [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Switch.E](https://open.spotify.com/artist/4gbdDl1eUOt2geDFNewe8a) | [Stay](https://open.spotify.com/album/1qCuwPGIBpJW1vhwbnfsAE) | 3:38 |
 | 44 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 50 | [Darling Angel](https://open.spotify.com/track/6hq4mlXQ4pLqOk2wQaTvhH) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Nothing To Hide](https://open.spotify.com/album/7oRmTwj5o0FGN6TANyL4oX) | 4:05 |
 | 51 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 |
 | 52 | [Always with You](https://open.spotify.com/track/21tXzRXVJd6ikASjsWZIXD) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Always with You](https://open.spotify.com/album/3TEomtRmmPSIvL5tozcHV2) | 3:17 |
-| 53 | [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 |
-| 54 | [Wandering Eye](https://open.spotify.com/track/7M1WfoimlU6uZ0LhenVUhx) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 9:49 |
-| 55 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
-| 56 | [Long Ago](https://open.spotify.com/track/2NxGngqV89UZXiiA6eQjjC) | [Herbs](https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA) | [Sensitive To A Smile](https://open.spotify.com/album/0cDYtksligg0oOsgx43WFg) | 4:19 |
-| 57 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
+| 53 | [Wandering Eye](https://open.spotify.com/track/7M1WfoimlU6uZ0LhenVUhx) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 9:49 |
+| 54 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
+| 55 | [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 |
+| 56 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
+| 57 | [Long Ago](https://open.spotify.com/track/2NxGngqV89UZXiiA6eQjjC) | [Herbs](https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA) | [Sensitive To A Smile](https://open.spotify.com/album/0cDYtksligg0oOsgx43WFg) | 4:19 |
 | 58 | [Keep That Smile](https://open.spotify.com/track/0XP9YQ2NPHELEc71XD0XZm) | [Son & Water](https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi) | [Keep That Smile](https://open.spotify.com/album/60wNqoSqh81ht02EhQdoXO) | 3:24 |
 | 59 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
 | 60 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 74 | [Clarity \(Ft\. Kabaka Pyramid\)](https://open.spotify.com/track/39xEK5rYhBgPANUaL0eOmz) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Clarity \(Ft\. Kabaka Pyramid\)](https://open.spotify.com/album/4aTPodNe6oejgf3SFp5RiP) | 3:19 |
 | 75 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 |
 
-Snapshot ID: `AAAAABZFlDCyUNIchlkn+mGq4pegQpgU`
+Snapshot ID: `AAAAAMtmmpqiL3CdCw73v1YchkSex2MV`

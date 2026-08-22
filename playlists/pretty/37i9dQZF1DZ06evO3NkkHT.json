@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 86852,
+  "num_followers": 86916,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADqlc7i6iN1QwmDrGafcr2T",
+  "snapshot_id": "aoZDgAAAAADlgZU6jQeI1G498lkMG3zc",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set In Stone",
-        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 148547,
-      "name": "Living Large",
-      "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Orange Tape",
         "url": "https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 107520,
       "name": "Microwave",
       "url": "https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set In Stone",
+        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 148547,
+      "name": "Living Large",
+      "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 124923,
+      "name": "Good Chance (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 168041,
       "name": "U and Me (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NDA",
-        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 124923,
-      "name": "Good Chance (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj"
     },
     {
       "added_at": null,

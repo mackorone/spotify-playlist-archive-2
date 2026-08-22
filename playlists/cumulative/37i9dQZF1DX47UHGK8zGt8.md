@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-341 songs - 19 hr 10 min
+342 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Lembrei de Nós](https://open.spotify.com/track/3MZasYL4eB4Tm2U2LZ58tj) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Dominguinho](https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS) | 3:16 | 2025-05-13 |  |
 | [Lenda](https://open.spotify.com/track/44lq0DN2TWWfKzstAzKLXJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 4:19 | 2022-04-01 |  |
 | [Leoa](https://open.spotify.com/track/6l993djoioRwZkNvB8jkRp) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Leoa](https://open.spotify.com/album/7LqFIY1vkKx2fsxKshty6P) | 3:31 | 2022-02-18 | 2022-07-29 |
-| [Leve](https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:55 | 2022-04-01 |  |
+| [Leve](https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:55 | 2022-04-01 | 2026-08-22 |
 | [Leão](https://open.spotify.com/track/5jyhJeoNPBM5EGMU1OTfb8) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Leão](https://open.spotify.com/album/1N5Lvy0FhCxXpB0P047oRg) | 3:27 | 2022-02-18 |  |
 | [Lisboa](https://open.spotify.com/track/2o2xhyri4aJUtgMGkf5P0J) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:39 | 2025-05-02 |  |
 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2022-02-18 |  |
@@ -346,6 +346,7 @@
 | [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2023-09-26 | 2026-03-03 |
 | [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 | 2022-04-01 |  |
 | [À Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 | 2022-04-01 |  |
+| [É Segredo](https://open.spotify.com/track/6st5PHzmcwv6XlDyEHqHbJ) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [É Segredo](https://open.spotify.com/album/1APuWL3FkCtKXZsiInnDMY) | 2:53 | 2026-08-21 |  |
 | [É tudo pra ontem](https://open.spotify.com/track/48QajhR9A10V7uM2UbIWxO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [É tudo pra ontem](https://open.spotify.com/album/0ucGkC2GM4IBycOIAw9eBj) | 5:10 | 2022-02-18 | 2022-06-29 |
 | [É Você \- 2004 Digital Remaster](https://open.spotify.com/track/1yUm0iWD3rDf8dViBRpSkt) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 2:51 | 2022-06-24 | 2024-04-19 |
 | [É Você \- 2004 Digital Remaster;](https://open.spotify.com/track/3HK5WnCK4M8SzZMdJTcH3F) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/7tkP1p2yTttMg2SY45nB5Y) | 2:51 | 2022-03-11 | 2022-04-18 |

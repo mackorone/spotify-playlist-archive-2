@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Njerae
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,515 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,561 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 34 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
 | 35 | [TABOO](https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [TABOO](https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10) | 2:45 |
 | 36 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
-| 37 | [My Boy](https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [My Boy](https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD) | 4:14 |
-| 38 | [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 |
+| 37 | [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 |
+| 38 | [My Boy](https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [My Boy](https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD) | 4:14 |
 | 39 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 | 40 | [Any Time \(feat\. James Fauntleroy\)](https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Any Time \(feat\. James Fauntleroy\)](https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb) | 4:29 |
 | 41 | [Give Me A Reason \(with Bryson Tiller\)](https://open.spotify.com/track/7uHapC7IlHVLcC3TxVEn7I) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:48 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 46 | [Come Over](https://open.spotify.com/track/4IG4PZqVEbllfl3h0Qoypw) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [T's & C's Apply](https://open.spotify.com/album/1BGoSXH26t5oeXmzB1gdDz) | 3:42 |
 | 47 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 48 | [By The Time I Wake Up](https://open.spotify.com/track/1MzS45AX5NrN1gxpuu195L) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [By The Time I Wake Up](https://open.spotify.com/album/7MV7YJxjstlQ2Nejqs2Zmj) | 3:32 |
-| 49 | [Don't Say the Words](https://open.spotify.com/track/0N1QCR8ixCrfJq61xeNoot) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Don't Say the Words](https://open.spotify.com/album/4iwWHgHZQ3yZUzOH6wVFBr) | 3:31 |
-| 50 | [Truce](https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 4:09 |
+| 49 | [Truce](https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 4:09 |
+| 50 | [Don't Say the Words](https://open.spotify.com/track/0N1QCR8ixCrfJq61xeNoot) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Don't Say the Words](https://open.spotify.com/album/4iwWHgHZQ3yZUzOH6wVFBr) | 3:31 |
 
-Snapshot ID: `AAAAAIEXeHfULVYqk4DBfi1T+T3hX8qS`
+Snapshot ID: `AAAAAMP5JpMIDqHhH/8VRa1TV2Slbdx5`

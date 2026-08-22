@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover: Awarapan 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,998 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,295 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 74 | [Kabhi Main Bhi Tera Yar Tha](https://open.spotify.com/track/17vNjB04WdtgUT3fVUuVna) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Abhishek Thakur](https://open.spotify.com/artist/7wKlEZWB0Difjz4r2Wn4V8) | [Kabhi Main Bhi Tera Yar Tha](https://open.spotify.com/album/3a0K7hNISo2qtWY808dVNI) | 3:38 |
 | 75 | [Dua](https://open.spotify.com/track/2wrmQ6sj8IJxJ5nrZc1bvU) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Shafaat Ali](https://open.spotify.com/artist/0yo4hq252dnqbVxVU7RGrT), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Dua](https://open.spotify.com/album/0PYvcQL3tYympM9MgOcSOX) | 3:29 |
 
-Snapshot ID: `AAAAAMBWDBFgVFYARUEHgLBR4mS23Unm`
+Snapshot ID: `AAAAAJ5m05pHHtVD+Jw19/rIE2anY71/`

@@ -1,12 +1,12 @@
 {
   "description": "New releases for the kids. Cover: Ms. Rachel & Mr. Aron",
-  "num_followers": 100401,
+  "num_followers": 100474,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD495kzn5W7WAiW7NoKEzpYD/ePt",
+  "snapshot_id": "AAAAAOzVojhCowkH91d4QqMZeaDu+9BD",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:08",
@@ -27,6 +27,74 @@
       "duration_ms": 129045,
       "name": "I Love a Rainbow",
       "url": "https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y"
+    },
+    {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "This Old Man",
+        "url": "https://open.spotify.com/album/0flSfhX5KyQiVrX1Dn2NoY"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 173606,
+      "name": "This Old Man",
+      "url": "https://open.spotify.com/track/3NXUJFru8WkfUmm6I8Tbyn"
+    },
+    {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "Popular",
+        "url": "https://open.spotify.com/album/2d4sRJ5iS4NYkvBkC6d21i"
+      },
+      "artists": [
+        {
+          "name": "The Fun Squad",
+          "url": "https://open.spotify.com/artist/7GlhBPosLYBE0z2Ft3drxl"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/4zmr8mqdxQtk3HQaDrKu2f"
+    },
+    {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "Keep Swimming",
+        "url": "https://open.spotify.com/album/7EHvI8vL4GyP5h698jTlnR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jeff",
+          "url": "https://open.spotify.com/artist/7bvg2GSvvdcg9wphmdyKEQ"
+        },
+        {
+          "name": "Snooknuk",
+          "url": "https://open.spotify.com/artist/4Il5GSRo3EJWxiGmZfK6V6"
+        }
+      ],
+      "duration_ms": 173709,
+      "name": "Keep Swimming",
+      "url": "https://open.spotify.com/track/5QBaCkKrxlBqPXG8pZNDRN"
+    },
+    {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/2tbpoLNVU2IY3ui1QWK953"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "duration_ms": 95739,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/7etcOM8LDoVkApiEiqK24r"
     },
     {
       "added_at": "2026-08-14 04:01:08",
@@ -61,6 +129,42 @@
       "url": "https://open.spotify.com/track/1ne9bWXrCx4Smc1WZQXH0C"
     },
     {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "All in Good Time",
+        "url": "https://open.spotify.com/album/6FrwJ00n3BUvovwEN4GmNk"
+      },
+      "artists": [
+        {
+          "name": "Snooknuk",
+          "url": "https://open.spotify.com/artist/4Il5GSRo3EJWxiGmZfK6V6"
+        }
+      ],
+      "duration_ms": 212791,
+      "name": "All in Good Time",
+      "url": "https://open.spotify.com/track/7xWZXiRqJEF2v7un2ElXU2"
+    },
+    {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "Jump In Your Shoes",
+        "url": "https://open.spotify.com/album/54bjcM8SLyXMkR5rWrnJUK"
+      },
+      "artists": [
+        {
+          "name": "Ms. Appleberry",
+          "url": "https://open.spotify.com/artist/7gjGsSnJnSzAnh6wxZCqBQ"
+        },
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 105346,
+      "name": "Jump In Your Shoes",
+      "url": "https://open.spotify.com/track/1wIQoFpF5JlfJMwcUHYoAk"
+    },
+    {
       "added_at": "2026-08-14 04:01:08",
       "album": {
         "name": "Lunchbox Flex",
@@ -93,6 +197,22 @@
       "url": "https://open.spotify.com/track/7wYKvA7HIFzMZowFv6qRYs"
     },
     {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "Pronoun Party",
+        "url": "https://open.spotify.com/album/7fEZ2QCQT2JOlAoMpv0FUE"
+      },
+      "artists": [
+        {
+          "name": "Miss Tutti And The Fruity Band",
+          "url": "https://open.spotify.com/artist/2vcoPGKBYnD3i9TiPe3eSB"
+        }
+      ],
+      "duration_ms": 202566,
+      "name": "Pronoun Party",
+      "url": "https://open.spotify.com/track/0J90oLcW0xTIH7ZBxnyJyV"
+    },
+    {
       "added_at": "2026-08-14 04:01:08",
       "album": {
         "name": "Put On Your Shoes - Puppets",
@@ -107,6 +227,26 @@
       "duration_ms": 182000,
       "name": "Put On Your Shoes - Puppets",
       "url": "https://open.spotify.com/track/47GzoqqfmMizWxgULTvM5w"
+    },
+    {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "Thomas & Percy Learn About Counting to 20",
+        "url": "https://open.spotify.com/album/4QmvA60btVUvdCJ47hAQW7"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 120160,
+      "name": "Thomas & Percy Learn About Counting to 20",
+      "url": "https://open.spotify.com/track/2Wp7aJOBf9V3RmRHOYoAXj"
     },
     {
       "added_at": "2026-08-07 04:00:58",
@@ -127,6 +267,42 @@
       "duration_ms": 133882,
       "name": "Hey-O We Want to Play-O",
       "url": "https://open.spotify.com/track/67pLLZLC17d8xo9RsFSXVM"
+    },
+    {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "Rock It Out",
+        "url": "https://open.spotify.com/album/0wnHNypfBc38Q45wNsLH2z"
+      },
+      "artists": [
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        },
+        {
+          "name": "Divi Roxx Kids",
+          "url": "https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR"
+        }
+      ],
+      "duration_ms": 182555,
+      "name": "Rock It Out",
+      "url": "https://open.spotify.com/track/51sO7qosUTtoFTarCQtYKx"
+    },
+    {
+      "added_at": "2026-08-21 22:15:21",
+      "album": {
+        "name": "I Love My Echidna",
+        "url": "https://open.spotify.com/album/5pv8OZgrqbmyBPe7jffWhb"
+      },
+      "artists": [
+        {
+          "name": "Tiptoe Giants",
+          "url": "https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR"
+        }
+      ],
+      "duration_ms": 132320,
+      "name": "I Love My Echidna",
+      "url": "https://open.spotify.com/track/1Zgv3uPllVGsyQgVDSlVcv"
     },
     {
       "added_at": "2026-08-07 04:00:58",
@@ -1607,202 +1783,6 @@
       "duration_ms": 109847,
       "name": "Lachy's Sparkle Music Machine",
       "url": "https://open.spotify.com/track/3u240MRJgxb6BYlkYvzxXW"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "The Hoedown Hustle",
-        "url": "https://open.spotify.com/album/1Ipc0ZVMIDkaPEzsyMxb34"
-      },
-      "artists": [
-        {
-          "name": "Elmo",
-          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
-        },
-        {
-          "name": "Cookie Monster",
-          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
-        },
-        {
-          "name": "Grover",
-          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 119400,
-      "name": "The Hoedown Hustle",
-      "url": "https://open.spotify.com/track/0qvyuxBo7lJ7zG3RanOv5k"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "When the Band Comes Marching In",
-        "url": "https://open.spotify.com/album/6UNVnsrzvj5ggQ5jkga8Az"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        },
-        {
-          "name": "Noodle & Pals",
-          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
-        }
-      ],
-      "duration_ms": 196828,
-      "name": "When the Band Comes Marching In",
-      "url": "https://open.spotify.com/track/3WeBc31M5VEJk8IAFEH9vG"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "Sesame Street (Songs from Season 56, Vol. 3)",
-        "url": "https://open.spotify.com/album/2TDgimOXlmuHYmEPXh28mA"
-      },
-      "artists": [
-        {
-          "name": "Cookie Monster",
-          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 108866,
-      "name": "On Me Own",
-      "url": "https://open.spotify.com/track/0PXEYldXyR5k02KdkoGHOq"
-    },
-    {
-      "added_at": "2026-06-12 04:00:57",
-      "album": {
-        "name": "The Erie Canal (Low Bridge Song)",
-        "url": "https://open.spotify.com/album/3PyENPjlEafVWjTcmSHHLb"
-      },
-      "artists": [
-        {
-          "name": "Martin and Rose Music",
-          "url": "https://open.spotify.com/artist/61VbOFPL7RIKt0Q1KOykSU"
-        }
-      ],
-      "duration_ms": 124738,
-      "name": "The Erie Canal (Low Bridge Song)",
-      "url": "https://open.spotify.com/track/3iqZMT63FaEYoW4oOHRCuV"
-    },
-    {
-      "added_at": "2026-06-05 04:00:43",
-      "album": {
-        "name": "Summer Holiday",
-        "url": "https://open.spotify.com/album/4lFfiyisI5u8NONnNgH6ie"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "Summer Holiday",
-      "url": "https://open.spotify.com/track/5sAtxlnufqURoGtaY64OoJ"
-    },
-    {
-      "added_at": "2026-06-05 04:00:43",
-      "album": {
-        "name": "I'm Proud",
-        "url": "https://open.spotify.com/album/5mShQbQyYUGxAzZDY4nTNZ"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 57626,
-      "name": "I'm Proud",
-      "url": "https://open.spotify.com/track/2eRtJQZIkPsHTXWmLpY1B1"
-    },
-    {
-      "added_at": "2026-06-05 04:00:43",
-      "album": {
-        "name": "Fruit Is Yummy",
-        "url": "https://open.spotify.com/album/6jlvj1gKLHVwI8k4HcvFHy"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        }
-      ],
-      "duration_ms": 158966,
-      "name": "Fruit Is Yummy",
-      "url": "https://open.spotify.com/track/6oihTreW04W0ziZsvjSaB6"
-    },
-    {
-      "added_at": "2026-06-05 04:00:43",
-      "album": {
-        "name": "Five Little Dinosaurs Jumping On The Bed",
-        "url": "https://open.spotify.com/album/0iu5RcG2cRjZBiDWwntcSn"
-      },
-      "artists": [
-        {
-          "name": "Lah-Lah",
-          "url": "https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Five Little Dinosaurs Jumping On The Bed",
-      "url": "https://open.spotify.com/track/1f45Dwk7O4Xub78YVAQhAD"
-    },
-    {
-      "added_at": "2026-06-05 04:00:43",
-      "album": {
-        "name": "It's Your Birthday",
-        "url": "https://open.spotify.com/album/0AVmHjzjkGDtdFVdIdkWLK"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 142942,
-      "name": "It's Your Birthday",
-      "url": "https://open.spotify.com/track/1UQVfVu1RhF1kw6i1blrNe"
-    },
-    {
-      "added_at": "2026-06-05 04:00:43",
-      "album": {
-        "name": "Soccer Party! Sports Songs and Stadium Chants",
-        "url": "https://open.spotify.com/album/26CJ9HTyTGGuOtXhjd9NVz"
-      },
-      "artists": [
-        {
-          "name": "The Countdown Kids",
-          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
-        }
-      ],
-      "duration_ms": 252496,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/37Ua7CslhTi1T6aVUQUwY4"
-    },
-    {
-      "added_at": "2026-06-05 04:00:43",
-      "album": {
-        "name": "Squishy Song",
-        "url": "https://open.spotify.com/album/2nXVHO2j07tgDZzciAuUtr"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Squishy Song",
-      "url": "https://open.spotify.com/track/0phRAfBVCCD1DdHDfjin1n"
     }
   ],
   "unique_name": "New Kids Music",

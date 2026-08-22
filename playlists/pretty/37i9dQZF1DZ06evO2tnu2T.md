@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,357 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,356 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 | 12 | [Shades](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Shades](https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS) | 2:31 |
 | 13 | [24 Hours](https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:27 |
 | 14 | [No Audience](https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 2:48 |
-| 15 | [Stay With Me](https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [The Sun Comes Up](https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p) | 3:25 |
-| 16 | [Walls \(feat\. Absolutely\) \- Live](https://open.spotify.com/track/7tMwaGg2AlnQ0XYLdWSJjw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Friends From Your Hometown](https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk) | 4:24 |
+| 15 | [Walls \(feat\. Absolutely\) \- Live](https://open.spotify.com/track/7tMwaGg2AlnQ0XYLdWSJjw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Friends From Your Hometown](https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk) | 4:24 |
+| 16 | [Stay With Me](https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [The Sun Comes Up](https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p) | 3:25 |
 | 17 | [Arrivals](https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:05 |
 | 18 | [Elevator](https://open.spotify.com/track/29iIxkfKomRxXdkzVhQuAE) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:30 |
 | 19 | [333](https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [333](https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD) | 3:01 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 | 25 | [Symphony](https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:41 |
 | 26 | [Daylight](https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:31 |
 
-Snapshot ID: `aoTyAAAAAAAGkW8oBzAKdz7HMrh8ocI+`
+Snapshot ID: `aoZDgAAAAAAGtCfFHOOLuYPsIw7+UHkC`

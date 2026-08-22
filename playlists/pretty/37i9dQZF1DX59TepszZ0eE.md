@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,112 likes - 100 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,148 likes - 100 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Aneliswe Osweleyo](https://open.spotify.com/track/6ZgClg41sq8pnx8d0oIR4W) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Aneliswe Osweleyo](https://open.spotify.com/album/4QAnQG6yJgyqxIni00sRGK) | 4:14 |
 | 100 | [Sekgabile](https://open.spotify.com/track/03i77NTIKBUvQoKEEgsVaV) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn), [Nhlanhla Zofo](https://open.spotify.com/artist/2puGaMi4O5GZENkA9Mq7PA), [Rev M Sontshi](https://open.spotify.com/artist/4RJvuKln6rAsDwBMyS9vrM) | [Sekgabile](https://open.spotify.com/album/4q536HuCPsdzVaWP0fdAv3) | 8:24 |
 
-Snapshot ID: `AAAAAN9zgno4KrfadrbuUv3nHui78R+z`
+Snapshot ID: `AAAAADy6TS1IEXaPbEqTvMkW226O07gP`

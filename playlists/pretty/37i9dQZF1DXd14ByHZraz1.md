@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,170 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,094 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Amor en Miami](https://open.spotify.com/track/0AGXJn0vNyFHJNA4B5oF13) | [Tinx & Lucas](https://open.spotify.com/artist/5Csue1GZhgZ2rMRredYxIL), [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ), [Kaala Shaw](https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf) | [Amor en Miami](https://open.spotify.com/album/4ISpV8ZnYGPjG9fnV97ucD) | 3:01 |
 | 50 | [Baby Boy](https://open.spotify.com/track/3bMmU5C3OOeG2MiEEnzSaD) | [Malik Mustache](https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU) | [Baby Boy](https://open.spotify.com/album/1bYCy4wdRo9gq2aZbL9rFo) | 3:30 |
 
-Snapshot ID: `AAAAAOWOJvW68s4CYsGALZjjyrWuXD6i`
+Snapshot ID: `AAAAAAJjVJWPeiZ05lQkSW5PkY1L01G5`

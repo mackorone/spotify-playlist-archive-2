@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,671 songs - 10 day 11 hr 36 min
+4,673 songs - 10 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -959,6 +959,7 @@
 | [Dark Illusion \#Music \#NewMusic \#Viral](https://open.spotify.com/track/18cdXpsAOHYR4gO8xtifK1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:15 | 2025-09-15 |  |
 | [Darker](https://open.spotify.com/track/4KYddvFoEOSInKUECmNecU) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [Darker](https://open.spotify.com/album/3GJ38upPq5UzkPHqeya4pt) | 2:52 | 2025-11-08 |  |
 | [Das Lied Der Kriegsmarine](https://open.spotify.com/track/3DZBc40T0mt0aLjP31zlam) | [The William Loveday Intention](https://open.spotify.com/artist/4ZpBAKcYPYvRqlnyWlKthR) | [Das Lied Der Kriegsmarine](https://open.spotify.com/album/69bIa76nSpcZWXWEFHxrAj) | 2:33 | 2025-11-05 |  |
+| [Das Spiel War Woanders](https://open.spotify.com/track/1C2iLmHmjo5V8FfBrRNHWw) | [Rotfuchs](https://open.spotify.com/artist/5jVVsL8gi9wV0bvdEqwGGY) | [Das Spiel War Woanders](https://open.spotify.com/album/1oFzw0MQGMu4hoE0gMncv0) | 4:15 | 2026-08-21 |  |
 | [Daughter](https://open.spotify.com/track/0FrjFw8dEJ8fHJx4Zi0qRk) | [Marco Petruzzella](https://open.spotify.com/artist/4qaOD5XszSwqzzJpelXucs) | [Daughter](https://open.spotify.com/album/42oUbj7nBDV3kP1VL3XpPm) | 3:54 | 2025-12-10 |  |
 | [David](https://open.spotify.com/track/0zo8YmGQktlqBEHcJfdp9h) | [Pracash](https://open.spotify.com/artist/4KA9NvYMwG4eTsB2y6FoDB) | [Odocho](https://open.spotify.com/album/47u7Rjjd2jsdKYw1ymSvk8) | 2:32 | 2025-07-04 |  |
 | [Dawn](https://open.spotify.com/track/4AWDBzTdGIhJIHdxumJqtN) | [Journeys To Monas](https://open.spotify.com/artist/32mo0pave7LLstPQEBZ02t) | [Dawn](https://open.spotify.com/album/3vHqWSkAs7zWIJA7xNirPT) | 4:00 | 2025-11-05 |  |
@@ -3976,6 +3977,7 @@
 | [Ten thousand men](https://open.spotify.com/track/33moAVjq9JRu0mUgSGMT6V) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 3:18 | 2025-08-28 |  |
 | [TENDENCIA](https://open.spotify.com/track/2JLopiOtCfUzma7nCqrW6R) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [TENDENCIA](https://open.spotify.com/album/0FUyjX0GbIMMsZi9DUPLQR) | 2:12 | 2026-05-01 |  |
 | [Tendría Que Decirte](https://open.spotify.com/track/5xxlSg1ABlurLa6uXWQn7n) | [Los Crushers](https://open.spotify.com/artist/65xNr7wwwRFXt9oq6DsN8q) | [Tendría Que Decirte](https://open.spotify.com/album/6hDuIOmX3jcGjKRBQUnewx) | 3:25 | 2025-05-26 |  |
+| [Tenfold The Blood](https://open.spotify.com/track/0tkxA99Aw4l1e7KQHHj5lt) | [Screams of Tranquility](https://open.spotify.com/artist/0gin8Rgot6p6gKUBVEzw6s) | [Tenfold The Blood](https://open.spotify.com/album/4ef5s7ih5jPzf0hPOdpVT5) | 3:42 | 2026-08-21 |  |
 | [Tequila](https://open.spotify.com/track/604J1W36qY6kexnBe2rEzC) | [highcoast](https://open.spotify.com/artist/5ArAMeGDul8czOO8rcomzy) | [Tequila](https://open.spotify.com/album/1elTFLJPDWsv1QIFtYpkGz) | 2:28 | 2025-05-22 |  |
 | [Tera Naam Le Ke](https://open.spotify.com/track/7pBhg5NmWtOBPDApUhLZhn) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tera Naam Le Ke](https://open.spotify.com/album/4kAcdiaFhqUQ0h4DayLBdj) | 4:16 | 2026-04-29 |  |
 | [Tere Naina Ye Anmol \| तेरे नैना ये अनमोल \- Remix Version](https://open.spotify.com/track/7CLWgGRkGRTYp2eBqG9dyC) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tere Naina Ye Anmol \| तेरे नैना ये अनमोल \(Remix Version\)](https://open.spotify.com/album/24C6ETpvKTUkQ4U64k2NYM) | 3:04 | 2025-05-06 |  |

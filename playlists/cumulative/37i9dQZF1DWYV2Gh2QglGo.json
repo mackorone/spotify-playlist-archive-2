@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Hailey Benedict",
+  "description": "The home of Canadian country music. Cover: Robyn Ottolini",
   "name": "North Country",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 208164,
       "name": "Ain't Goin' Nowhere",
       "url": "https://open.spotify.com/track/0Ko4G62bDwfZIDGpv3ORbW"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213498,
       "name": "Barstool Confession",
       "url": "https://open.spotify.com/track/2vpHpvQH0qhA9kP6nqarcb"
@@ -1118,6 +1118,24 @@
       "duration_ms": 158918,
       "name": "Better Mistake",
       "url": "https://open.spotify.com/track/2knmYl21AiF8yljirioZGw"
+    },
+    {
+      "album": {
+        "name": "A Safe Place To Land",
+        "url": "https://open.spotify.com/album/5fc6So3doyN6D5S7ZQVvdC"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190189,
+      "name": "Better Not To Know",
+      "url": "https://open.spotify.com/track/0xzqUynPkf0o3ONEGu1S0s"
     },
     {
       "album": {
@@ -1570,6 +1588,24 @@
       "duration_ms": 217500,
       "name": "Buckle Rubbin'",
       "url": "https://open.spotify.com/track/1S8PIcSLRurRgtr8FWdL2O"
+    },
+    {
+      "album": {
+        "name": "Bullets",
+        "url": "https://open.spotify.com/album/5je7oJCztUuHgjhOPyECgm"
+      },
+      "artists": [
+        {
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228664,
+      "name": "Bullets",
+      "url": "https://open.spotify.com/track/2mi8K8wuSDRQ3h7k9lROsv"
     },
     {
       "album": {
@@ -2172,7 +2208,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 196249,
       "name": "College Man",
       "url": "https://open.spotify.com/track/0pMVONEaBtsQQmP8v6bInP"
@@ -2338,7 +2374,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 204277,
       "name": "Country Club",
       "url": "https://open.spotify.com/track/1ONn9Syk42LP1LAJ9Km2aU"
@@ -2374,7 +2410,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 218837,
       "name": "County Line 5 - 4X4 Mix",
       "url": "https://open.spotify.com/track/70SdZnWRqvQMAt2NgWSTKk"
@@ -2446,7 +2482,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 192625,
       "name": "COWBOY UP",
       "url": "https://open.spotify.com/track/3ZCZ9lfSSjhLl9E1FJwrWK"
@@ -2597,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "Curves in My Plans",
+        "url": "https://open.spotify.com/album/1ePJlfJgE7dnn9VWRd9n8H"
+      },
+      "artists": [
+        {
+          "name": "Coty Robinson",
+          "url": "https://open.spotify.com/artist/5Nd0pzpO4SwrmHhEI8gPXn"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148474,
+      "name": "Curves in My Plans",
+      "url": "https://open.spotify.com/track/7zM6CrErlQ3ePQhLkK7Fww"
+    },
+    {
+      "album": {
         "name": "Her Rodeo",
         "url": "https://open.spotify.com/album/0WaztXTUiIN1CS8Ebx4bxe"
       },
@@ -2734,7 +2788,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 216550,
       "name": "Dancing With The Devil",
       "url": "https://open.spotify.com/track/20pH1gxBPwX7Bq85bX6mj2"
@@ -2752,7 +2806,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 187198,
       "name": "Dans l\u2019temps",
       "url": "https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9"
@@ -2774,7 +2828,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 153104,
       "name": "Dans mon tiroir",
       "url": "https://open.spotify.com/track/6MHBAxiODM7KPB0jtXrfsR"
@@ -3113,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Dolbeau-Mistassini",
+        "url": "https://open.spotify.com/album/0DDjMNHZOil5RG3pemaAMW"
+      },
+      "artists": [
+        {
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223524,
+      "name": "Dolbeau-Mistassini",
+      "url": "https://open.spotify.com/track/5Ejwm3xvqMyuLM2btmlez3"
+    },
+    {
+      "album": {
         "name": "Don't Get You A Man",
         "url": "https://open.spotify.com/album/575magAMGziuTFBefWPFrz"
       },
@@ -3214,7 +3286,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 181497,
       "name": "Drinking Till I'm Dead",
       "url": "https://open.spotify.com/track/1K6yIq9JWtK05naKIDK7cX"
@@ -4082,7 +4154,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 165986,
       "name": "Gas Station Flowers",
       "url": "https://open.spotify.com/track/4h5NFMj0rawzK9Fm9Fm9sv"
@@ -4212,7 +4284,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 176106,
       "name": "Give It To A Girl",
       "url": "https://open.spotify.com/track/0qIZ55JcCyzq3L1nwPX5GW"
@@ -5312,7 +5384,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 217850,
       "name": "Homeland",
       "url": "https://open.spotify.com/track/0To1TLrTvs4qmNaXxUHRSc"
@@ -6002,7 +6074,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 164950,
       "name": "I Want a Cowboy",
       "url": "https://open.spotify.com/track/5aMte04D5B9qVqfHRuGUTm"
@@ -6254,7 +6326,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 220200,
       "name": "If I Go Missin\u2019",
       "url": "https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk"
@@ -6308,7 +6380,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 185944,
       "name": "If Somebody Told Me You Were Dying",
       "url": "https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg"
@@ -6362,7 +6434,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 191339,
       "name": "In Her Bed",
       "url": "https://open.spotify.com/track/7H7sc9sLsxxT3lAXmDGeYb"
@@ -6532,7 +6604,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 237159,
       "name": "Jesus Drank Whiskey",
       "url": "https://open.spotify.com/track/7yl4Bp8Ts63yKChjst8AGD"
@@ -6575,6 +6647,24 @@
     },
     {
       "album": {
+        "name": "Joke's On You",
+        "url": "https://open.spotify.com/album/3f6uX5wz7RjLsheeOpq923"
+      },
+      "artists": [
+        {
+          "name": "Jac Matthew",
+          "url": "https://open.spotify.com/artist/74w5Zo7FjGnHFPLF1ByOEq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165104,
+      "name": "Joke's On You",
+      "url": "https://open.spotify.com/track/2RoVlxYLD20XaYQK21SYYZ"
+    },
+    {
+      "album": {
         "name": "Jukebox Money",
         "url": "https://open.spotify.com/album/7C2VfIRIUTNB4HlbtXKX5p"
       },
@@ -6586,7 +6676,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 164533,
       "name": "Jukebox Money",
       "url": "https://open.spotify.com/track/47Gg68xcAlqJAvPy1Q6XUb"
@@ -6784,7 +6874,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
@@ -6896,7 +6986,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 206260,
       "name": "Last Rodeo",
       "url": "https://open.spotify.com/track/2zktqQLyXilXPmGIoly5M9"
@@ -6914,7 +7004,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 188210,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/7rzdvbHWu26l6B6qt85Sgz"
@@ -7196,7 +7286,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 189224,
       "name": "Life's Waiting On Me",
       "url": "https://open.spotify.com/track/4fMZcwzeJj6NTmJ8MagN92"
@@ -7214,7 +7304,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 259106,
       "name": "Lighthearted",
       "url": "https://open.spotify.com/track/0g8dcefRBlz8rCLG0HUxzL"
@@ -7743,6 +7833,24 @@
     },
     {
       "album": {
+        "name": "Low Key Love",
+        "url": "https://open.spotify.com/album/37Eqt1VBmOeelCSpxThH2Y"
+      },
+      "artists": [
+        {
+          "name": "Celina Wolfe",
+          "url": "https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165803,
+      "name": "Low Key Love",
+      "url": "https://open.spotify.com/track/417c8HBtD5ApgaCihCaO8t"
+    },
+    {
+      "album": {
         "name": "Lyin' To Me",
         "url": "https://open.spotify.com/album/34ghDKatJF5Z1Q7dxNtLcJ"
       },
@@ -7862,7 +7970,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 161245,
       "name": "Meant to Be Mine",
       "url": "https://open.spotify.com/track/2Ale0UYT2kuFfdtUrEFFfD"
@@ -8855,6 +8963,24 @@
     },
     {
       "album": {
+        "name": "Oh My Child",
+        "url": "https://open.spotify.com/album/3GlbJOK5OmZLYP7rVbkEUB"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201138,
+      "name": "Oh My Child",
+      "url": "https://open.spotify.com/track/0BFaUo5PsAYrqWEqb762M5"
+    },
+    {
+      "album": {
         "name": "Appaloosa",
         "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
       },
@@ -8884,7 +9010,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 190208,
       "name": "Oh to Be Young",
       "url": "https://open.spotify.com/track/4W8uc8C5xJvSaP3uM1UYNT"
@@ -8920,7 +9046,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 196267,
       "name": "Old Habit",
       "url": "https://open.spotify.com/track/60fDOndNjRWgz6KJfRpjo5"
@@ -9142,7 +9268,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 222933,
       "name": "One Of These Days",
       "url": "https://open.spotify.com/track/1ll5HKOjeWDnRlVpk4r0np"
@@ -9239,6 +9365,24 @@
     },
     {
       "album": {
+        "name": "Only Love Me",
+        "url": "https://open.spotify.com/album/7DBcXT5RWjsrXsjhZ4pgv1"
+      },
+      "artists": [
+        {
+          "name": "Paige Somerville",
+          "url": "https://open.spotify.com/artist/6bjnHLfTbPN6DrEAqC3LW6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220729,
+      "name": "Only Love Me",
+      "url": "https://open.spotify.com/track/7J5yxzx5WXoqeu2hVtLMKp"
+    },
+    {
+      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
       },
@@ -9304,7 +9448,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 220253,
       "name": "Out of Luck",
       "url": "https://open.spotify.com/track/23xytEHpfXXy0tqKYn8JCc"
@@ -9416,6 +9560,24 @@
       "duration_ms": 174549,
       "name": "Overstaying My Welcome",
       "url": "https://open.spotify.com/track/21eJo2KfBqtQjYjpn5brUN"
+    },
+    {
+      "album": {
+        "name": "O\u00f9 le vent nous m\u00e8ne",
+        "url": "https://open.spotify.com/album/06MY9RblS1fP5D46QYFHFk"
+      },
+      "artists": [
+        {
+          "name": "Vince Lemire",
+          "url": "https://open.spotify.com/artist/1YzPsCwc1svqXcN5P0n7XN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "O\u00f9 le vent nous m\u00e8ne",
+      "url": "https://open.spotify.com/track/6QDeSbI3kamAdcwaPwFm14"
     },
     {
       "album": {
@@ -10159,6 +10321,24 @@
     },
     {
       "album": {
+        "name": "Ride The River",
+        "url": "https://open.spotify.com/album/4sy5R6NhnHxH5rVFHKAyod"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189085,
+      "name": "Ride The River",
+      "url": "https://open.spotify.com/track/2EsMBsv3uFaUEF8fCOLMoA"
+    },
+    {
+      "album": {
         "name": "Right Around Sundown",
         "url": "https://open.spotify.com/album/1BpS3RM0BsRwlIcBsKbFiV"
       },
@@ -10188,7 +10368,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 200807,
       "name": "Right Side of Over You",
       "url": "https://open.spotify.com/track/2tKE0JqeZaFfhbwBXHkXzj"
@@ -10404,7 +10584,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 232718,
       "name": "Safe Place To Break",
       "url": "https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA"
@@ -11752,7 +11932,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 200183,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/6soWZfR1hksoCG9iMU90Wy"
@@ -12632,7 +12812,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 204922,
       "name": "Thought About You",
       "url": "https://open.spotify.com/track/2qYDfRv9ESW4mw4XNwQDiD"
@@ -13008,7 +13188,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 180360,
       "name": "Two Years in Two Weeks",
       "url": "https://open.spotify.com/track/0P7lYijRL5egHjELsuKtRk"
@@ -13026,7 +13206,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 158593,
       "name": "U-Shaped",
       "url": "https://open.spotify.com/track/0RB1ZW6U5getea2rinPDqZ"
@@ -13080,7 +13260,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 201925,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/48KR896jmozh3qJImcytaJ"
@@ -14506,6 +14686,24 @@
       "duration_ms": 204027,
       "name": "Younger Heart",
       "url": "https://open.spotify.com/track/1mJ9D3yCDUhCuewCpmQnIS"
+    },
+    {
+      "album": {
+        "name": "Your Daddy's Smile",
+        "url": "https://open.spotify.com/album/5xvSXOBuSNZjMsrS1a743s"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208971,
+      "name": "Your Daddy's Smile",
+      "url": "https://open.spotify.com/track/7bQUkSIPGBOhZ1Wq8i4nbP"
     },
     {
       "album": {

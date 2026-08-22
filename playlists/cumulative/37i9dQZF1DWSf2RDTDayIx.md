@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-542 songs - 1 day 4 hr 41 min
+543 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Hold Me](https://open.spotify.com/track/2JpFgRepWLFpY7Lrcd76nU) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Hold Me](https://open.spotify.com/album/2yaFxmeJTLil88BebMAQ1F) | 2:30 | 2025-07-25 |  |
 | [Hold On](https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Hold On](https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd) | 2:59 | 2025-05-16 |  |
 | [Holding Back](https://open.spotify.com/track/1MlwgG0BpnY9sT2nXh4CF0) | [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Holding Back](https://open.spotify.com/album/0WM3JuuNh24kl6ef5AMwvD) | 2:21 | 2024-04-19 | 2024-09-21 |
-| [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 | 2025-05-30 |  |
+| [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 | 2025-05-30 | 2026-08-22 |
 | [Holiday \(feat\. Séb Mont\)](https://open.spotify.com/track/4tVmnuRlT7buDLZa2hc7ao) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Séb Mont](https://open.spotify.com/artist/4lFWNwqQbywI4qCQ9PeL7V) | [Holiday \(feat\. Séb Mont\)](https://open.spotify.com/album/3CxeBaihWioaOCOVmWLxFK) | 2:36 | 2021-12-03 | 2022-01-08 |
 | [Hometown Heroes](https://open.spotify.com/track/7cGuwTGKFrWIvvXbJ84SCL) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Hometown Heroes](https://open.spotify.com/album/4iMi6VNQ8AFfYVbKIRN7eY) | 3:10 | 2021-12-03 | 2022-01-06 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib) | 3:47 | 2024-05-24 |  |
@@ -418,6 +418,7 @@
 | [Somersaults](https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Somersaults](https://open.spotify.com/album/5OhRJIS4bSB5xPWIS875HS) | 2:54 | 2025-11-14 | 2026-02-21 |
 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 | 2022-07-08 | 2024-09-21 |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-06-23 | 2026-04-04 |
+| [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 | 2026-08-21 |  |
 | [Special Thing](https://open.spotify.com/track/2OGcwhOAldo9aiDwBnXMfc) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Gilligan Moss](https://open.spotify.com/album/5wuxthfn38zXXuN8RlzOy9) | 4:57 | 2022-07-22 | 2023-05-13 |
 | [Special Thing](https://open.spotify.com/track/2uFII0hcLjEbbn1e6Ft1Qd) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Special Thing](https://open.spotify.com/album/5yZsNqyu3wzeWcyyiGbCQt) | 4:57 | 2021-12-03 | 2022-07-29 |
 | [Stargazing](https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stargazing](https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC) | 3:59 | 2022-09-23 | 2026-02-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : J Balvin x Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,689 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,703 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [que te vaya bien](https://open.spotify.com/track/58LiAJyT6hMMUzW0npHfzY) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [que te vaya bien](https://open.spotify.com/album/1vlompiT1FQLKGUnUTKHme) | 3:14 |
 | 50 | [TATTUU](https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [TATTUU](https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI) | 3:14 |
 
-Snapshot ID: `AAAAAH9/YkVHw3CIV73PKjsHaRffK5bA`
+Snapshot ID: `AAAAAFEUGnozKY9NaucoynsPBYQxpZ0Z`

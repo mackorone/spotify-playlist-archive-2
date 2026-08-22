@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcLXSDDcgy.md) - [plain]
 
 > This Is Agust D\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,873 likes - 32 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,890 likes - 32 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcLXSDDcgy.md) - [plain]
 | 31 | [Interlude\_dream, Reality](https://open.spotify.com/track/6p3GTNgwhXyeqBdzOoJQnj) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 1:32 |
 | 32 | [So Far Away](https://open.spotify.com/track/6iFsAGMsGLvLesAhzTcRpl) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 5:58 |
 
-Snapshot ID: `AAAAAB0Wne404yLHFKORYk1C1b14lhgr`
+Snapshot ID: `AAAAAD4BMFKc8zGaylMR0d3vl+zvcpAk`

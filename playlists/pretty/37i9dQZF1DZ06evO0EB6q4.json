@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 267804,
+  "num_followers": 267846,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADNGc6rhcWxNEPrbnDn0gNs",
+  "snapshot_id": "aoZDgAAAAAA8vxuVEVq0zjyFguTWmzgw",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 149895,
+      "name": "Si Usted Quiere",
+      "url": "https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 159012,
       "name": "Cari\u00f1itos y Flores",
       "url": "https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 149895,
-      "name": "Si Usted Quiere",
-      "url": "https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O"
     },
     {
       "added_at": null,

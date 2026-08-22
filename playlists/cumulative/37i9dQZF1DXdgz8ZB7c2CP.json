@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udc3a featuring Jai Wolf",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf1f featuring Juelz",
   "name": "creamy",
   "tracks": [
     {
@@ -981,6 +981,28 @@
     },
     {
       "album": {
+        "name": "All U Need",
+        "url": "https://open.spotify.com/album/3rHuQ6GZL8HqXp8NBvBPsR"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "A Girl Named Sue",
+          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "All U Need",
+      "url": "https://open.spotify.com/track/06jG428QHOmaW4K3HaLddV"
+    },
+    {
+      "album": {
         "name": "all you'll get from me is my company",
         "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
       },
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 168257,
       "name": "Always You (Sensu Remix)",
       "url": "https://open.spotify.com/track/1PuLcytm8yUU0U51INwJCZ"
@@ -2551,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "Schematic",
+        "url": "https://open.spotify.com/album/6FPBrIvqalMMw9YOHgQSKq"
+      },
+      "artists": [
+        {
+          "name": "Detox Unit",
+          "url": "https://open.spotify.com/artist/1avvbQAURNF8oTtXn40NHI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Big Mood",
+      "url": "https://open.spotify.com/track/3D2tqYDnJBkhNpFNBLCv4a"
+    },
+    {
+      "album": {
         "name": "BITE",
         "url": "https://open.spotify.com/album/0qqr3H73R9OHozm5CVTOl6"
       },
@@ -2996,7 +3036,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 307786,
       "name": "Body Step",
       "url": "https://open.spotify.com/track/23Kpkv7C3YRnFQTnjAeppb"
@@ -3992,7 +4032,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 212228,
       "name": "Candy Flipping",
       "url": "https://open.spotify.com/track/0ZrkXUzjbmmNO8mrqK6Kc2"
@@ -7479,6 +7519,24 @@
     },
     {
       "album": {
+        "name": "Eat Me Better",
+        "url": "https://open.spotify.com/album/4fhbIL0tPEjPa3abGhPIlk"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Eat Me Better",
+      "url": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"
+    },
+    {
+      "album": {
         "name": "EE-OO \u0295\u0321\u0322\u0321\u0298\u0305\u035f\u035c\u0361\u0298\u0332\u0305\u0294\u0322\u0321\u0322",
         "url": "https://open.spotify.com/album/7rqFyCqT3DczGfy4Ib873J"
       },
@@ -9547,6 +9605,28 @@
     },
     {
       "album": {
+        "name": "fondofme",
+        "url": "https://open.spotify.com/album/1caBJnGrPXT0eSzdNduS50"
+      },
+      "artists": [
+        {
+          "name": "4K",
+          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
+        },
+        {
+          "name": "Anjeli",
+          "url": "https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "fondofme",
+      "url": "https://open.spotify.com/track/0vAFaI4Dx0qdhRR1WmlIU7"
+    },
+    {
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/6TAhNtHs5NGaEViqb1uINw"
       },
@@ -11240,6 +11320,24 @@
       "duration_ms": 191725,
       "name": "Hand In The Fire - Killen Manjaro Remix",
       "url": "https://open.spotify.com/track/4mr24lt1CSJMQTPFFVj4LS"
+    },
+    {
+      "album": {
+        "name": "Greyscale",
+        "url": "https://open.spotify.com/album/2pL7bw5G3JkcR5ckIaidOC"
+      },
+      "artists": [
+        {
+          "name": "Paper Skies",
+          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172177,
+      "name": "HANDS GO HIGHER",
+      "url": "https://open.spotify.com/track/0I0N6qLlaOttw24Cdfe1mO"
     },
     {
       "album": {
@@ -13461,6 +13559,28 @@
     },
     {
       "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6N0meindJK5Zcks5nlvpeF"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Tasha Baxter",
+          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180339,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/3jfBMg8uje6vAYTxdK0Jqt"
+    },
+    {
+      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/2yZmsxq2kSnNv6wWCYN2Fq"
       },
@@ -14602,7 +14722,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 191250,
       "name": "keep me sweet",
       "url": "https://open.spotify.com/track/6CQ8fG6VUZgbtCRTClsGUV"
@@ -14906,7 +15026,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 153040,
       "name": "KISSING U",
       "url": "https://open.spotify.com/track/0QWU3z7Sbwenguy2LfCq2v"
@@ -16062,7 +16182,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 214222,
       "name": "Long Goodbye",
       "url": "https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t"
@@ -16146,6 +16266,28 @@
       "duration_ms": 193432,
       "name": "lose my head",
       "url": "https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr"
+    },
+    {
+      "album": {
+        "name": "Lose Your Love",
+        "url": "https://open.spotify.com/album/2su8xsNYxw9LsVuDaaoFvK"
+      },
+      "artists": [
+        {
+          "name": "AFSHEEN",
+          "url": "https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR"
+        },
+        {
+          "name": "Shuba",
+          "url": "https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147992,
+      "name": "Lose Your Love",
+      "url": "https://open.spotify.com/track/3jvIuCAJzi4enfEEw66vYR"
     },
     {
       "album": {
@@ -17303,6 +17445,28 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/4Ca3BtmO41F1EvydCfcoOw"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291971,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/45Q7gfiscW28MWPY9VvebZ"
+    },
+    {
+      "album": {
         "name": "MISS YA",
         "url": "https://open.spotify.com/album/2kyxO943AlY8dFWRT3JAhG"
       },
@@ -17680,6 +17844,28 @@
       "duration_ms": 222272,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3h4SlQBIU40POK6dMYZg3K"
+    },
+    {
+      "album": {
+        "name": "DRAMATICA",
+        "url": "https://open.spotify.com/album/5s7lBP5aR25szIK5o0yk2y"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "MY MY MY",
+      "url": "https://open.spotify.com/track/3GYv23rXigfEB2Sw6WbCPx"
     },
     {
       "album": {
@@ -20476,7 +20662,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 142357,
       "name": "PRETTY BABY",
       "url": "https://open.spotify.com/track/1Jxuw4c15iYivyNfY38u11"
@@ -22004,7 +22190,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 192380,
       "name": "Run Out",
       "url": "https://open.spotify.com/track/5ILUHEnUMvQVLAq6aBksPR"
@@ -22849,6 +23035,28 @@
     },
     {
       "album": {
+        "name": "50 ballerinas",
+        "url": "https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "seeing stars",
+      "url": "https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x"
+    },
+    {
+      "album": {
         "name": "Seek",
         "url": "https://open.spotify.com/album/63SCEtG5tgUHPDj6wCqqBb"
       },
@@ -23602,7 +23810,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 173182,
       "name": "Simple",
       "url": "https://open.spotify.com/track/4TFarMbrFFqs5htuHVN843"
@@ -27372,7 +27580,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 199636,
       "name": "Time:never",
       "url": "https://open.spotify.com/track/3c7kn1x8bIqMiTT8rTDcsM"
@@ -29351,6 +29559,24 @@
     },
     {
       "album": {
+        "name": "Want U",
+        "url": "https://open.spotify.com/album/6O1mLceOo5ercplveaXbeX"
+      },
+      "artists": [
+        {
+          "name": "En:vy",
+          "url": "https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253186,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/1A0GyxY3IXA27sybS5HpqE"
+    },
+    {
+      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/17WI9aMbKTPCfoyzK5qb7L"
       },
@@ -29530,7 +29756,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 200000,
       "name": "watch me fly",
       "url": "https://open.spotify.com/track/5XQ0rzL3dWztmJ8IqQTjJU"

@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Zyanya en portada.
 
-864 songs - 2 day 2 hr 39 min
+866 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Bonito](https://open.spotify.com/track/5t7YufcdrSquPkCRlELywU) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [Bonito](https://open.spotify.com/album/0RjBkhlFfsY1W9cMp3nxrT) | 3:56 | 2025-10-17 | 2026-04-11 |
 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 | 2022-02-21 | 2024-05-04 |
 | [Bruma](https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Bruma](https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7) | 3:21 | 2026-01-09 |  |
-| [Bruxería](https://open.spotify.com/track/69Q7xperm0Q4xtTaM06QmR) | [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Bruxería](https://open.spotify.com/album/7buuh4AZ69yjNP7Gcgv31V) | 3:09 | 2026-05-08 |  |
+| [Bruxería](https://open.spotify.com/track/69Q7xperm0Q4xtTaM06QmR) | [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Bruxería](https://open.spotify.com/album/7buuh4AZ69yjNP7Gcgv31V) | 3:09 | 2026-05-08 | 2026-08-22 |
 | [Brújula](https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Brújula](https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz) | 4:12 | 2021-12-17 |  |
 | [Buena Cara](https://open.spotify.com/track/5Xp3EUWiKRdjfhXuiV7uU4) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Buena Cara](https://open.spotify.com/album/5deaapMZqDEB7DJjENNOJx) | 3:55 | 2024-01-26 | 2024-05-11 |
 | [Buenas Noches](https://open.spotify.com/track/2LAOTPxQ3xrfuewC4g6Mwo) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Buenas Noches](https://open.spotify.com/album/4KwTOLVtWGRWXNJfEdcEY9) | 3:15 | 2023-09-29 | 2024-07-13 |
@@ -301,6 +301,7 @@
 | [Esta Casa Era Un Hogar](https://open.spotify.com/track/2yj23afyp3bodAMpXN5oVw) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Esta Casa Era Un Hogar](https://open.spotify.com/album/4KtxoropGb0e7mVcJ7DMAP) | 3:29 | 2024-09-06 | 2024-10-26 |
 | [Esta noche](https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Esta noche](https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn) | 4:36 | 2024-11-22 |  |
 | [Estado 03](https://open.spotify.com/track/29tQbUZC1rCxHP7QPBGphX) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Estado 03](https://open.spotify.com/album/0HXp4htATr4ntYfQ29mTsa) | 4:01 | 2026-05-15 |  |
+| [Este Año \(peleamos más de lo que nos besamos\)](https://open.spotify.com/track/6XPE82mu1x3NWCgrspIpZy) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Tolidos](https://open.spotify.com/artist/0Pz3Ti0IwegALv24lPjUI0) | [Este Año \(peleamos más de lo que nos besamos\)](https://open.spotify.com/album/2q1RVFJpZj0w8W9PeWcQMT) | 3:52 | 2026-08-21 |  |
 | [Estos últimos días](https://open.spotify.com/track/3v2KkWLAvvetVbP64DpOQ5) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Super H \(Homenaje al Super 8 de Los Planetas\)](https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb) | 3:56 | 2025-04-04 | 2025-06-14 |
 | [Estoy bien](https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estoy bien](https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5) | 2:43 | 2024-06-07 | 2025-03-01 |
 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 | 2022-12-16 | 2024-06-22 |
@@ -389,7 +390,7 @@
 | [La Diferencia](https://open.spotify.com/track/3kII7smb04nI2T2vnj5eZr) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [La Diferencia](https://open.spotify.com/album/2igUrvjRYAgBBRyufC50pb) | 3:50 | 2025-09-19 |  |
 | [La edad que tengo](https://open.spotify.com/track/365MK5X3FgXaW7IWmNzNV5) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [La edad que tengo](https://open.spotify.com/album/4K6OaFr9gVOzPPBgjvyVn4) | 2:54 | 2023-10-20 | 2024-04-27 |
 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 | 2022-04-27 | 2024-05-04 |
-| [La Física Del Fracaso](https://open.spotify.com/track/6RzRZDuQceMj5fWad0N5Jl) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Física Del Fracaso](https://open.spotify.com/album/2hwtXWDK9gC4ENJ9iUGZdu) | 3:19 | 2026-08-07 |  |
+| [La Física Del Fracaso](https://open.spotify.com/track/6RzRZDuQceMj5fWad0N5Jl) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Física Del Fracaso](https://open.spotify.com/album/2hwtXWDK9gC4ENJ9iUGZdu) | 3:19 | 2026-08-07 | 2026-08-22 |
 | [La Herida](https://open.spotify.com/track/1TmGgQDLKQHm2GzGDjsnFd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Herida](https://open.spotify.com/album/0rer1BBpahM8okGG9wZEBG) | 3:45 | 2022-04-20 | 2022-07-02 |
 | [La hermandad](https://open.spotify.com/track/67Pr9voSdTnhsOcuS2QUhK) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [La hermandad](https://open.spotify.com/album/018VlQZiTBjAmSVSHNLWT0) | 3:37 | 2024-07-05 | 2024-07-27 |
 | [La Inocente](https://open.spotify.com/track/5GKMshJFfT3FPtm75kMan4) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [La Inocente](https://open.spotify.com/album/6JSS3UkgDzJWHK2KGA8Oib) | 2:53 | 2024-11-15 | 2024-12-21 |
@@ -741,6 +742,7 @@
 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \(Con David Summers\)](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 | 2024-09-20 | 2025-03-15 |
 | [SUFRIENDO DE MÁS](https://open.spotify.com/track/1HZgbYDx3D7NnZauT1Kuh6) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [SUFRIENDO DE MÁS](https://open.spotify.com/album/0qqBC085ppxcVb1D60L812) | 3:53 | 2025-10-24 | 2026-04-11 |
 | [Superextraño](https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Superextraño](https://open.spotify.com/album/2kBcpKY13cIwUQDMrvrFrR) | 3:41 | 2025-02-28 | 2025-06-28 |
+| [Sé](https://open.spotify.com/track/4Q9aJBD4BbdrGFUVCtwb2t) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [MI AÑO GÓTICO \(DELUXE\)](https://open.spotify.com/album/0ciAQPvVpyg9mLOflpZF5N) | 3:27 | 2026-08-21 |  |
 | [Sé Que Puedo Hacerlo](https://open.spotify.com/track/31Hdr8kHtE1qpSd0ytTXQ1) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Sé Que Puedo Hacerlo](https://open.spotify.com/album/3k9lkziELrjBbgpDAGlOqH) | 2:56 | 2026-04-10 |  |
 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 | 2022-02-15 | 2022-07-15 |
 | [Sólo Tú](https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Sólo Tú](https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS) | 3:16 | 2022-04-09 | 2022-07-12 |

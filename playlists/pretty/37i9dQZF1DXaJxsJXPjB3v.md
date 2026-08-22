@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit the best Kwaito songs ever released\. Cover: Bongo Maffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,987 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,036 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 33 | [Thobela](https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:46 |
 | 34 | [Iphindlela](https://open.spotify.com/track/27CtgoA4uSgIYjf0ZS8zvX) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [The Concerto](https://open.spotify.com/album/7fRul2x0hzuFPkCG7EpWff) | 4:51 |
 | 35 | [Groovers Prayer](https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4O8DBlsMzrukb209docL0j) | 5:41 |
-| 36 | [Current](https://open.spotify.com/track/7jCN8HmG6EaUzQKq9uHEH2) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [Simply The Best](https://open.spotify.com/album/5xc7F1Xfkq1HXYafFBewRN) | 5:45 |
+| 36 | [Vat\-En\-Sit](https://open.spotify.com/track/4sBITIyxAyTtd9NuhSM11I) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [King Don Father 2002](https://open.spotify.com/album/3c5ue20ray1aFt7GvAzrv3) | 5:58 |
 | 37 | [Bengim'ngaka](https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:15 |
 | 38 | [Ibuhlungu](https://open.spotify.com/track/0Kto1TI0CW1ARsxEWkezw2) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:54 |
 | 39 | [Traffic Cop](https://open.spotify.com/track/72YvRxXGDh8ceVyARTtdEJ) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Traffic Cop](https://open.spotify.com/album/5PfNqkm8DsTilYtAxmBRwk) | 5:21 |
 | 40 | [Kleva](https://open.spotify.com/track/5RTDTOmZNe16758vrx6qnX) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Kleva](https://open.spotify.com/album/6HGVwDKHwADl1R8b7VfnJD) | 5:03 |
-| 41 | [Vat\-En\-Sit](https://open.spotify.com/track/4sBITIyxAyTtd9NuhSM11I) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [King Don Father 2002](https://open.spotify.com/album/3c5ue20ray1aFt7GvAzrv3) | 5:58 |
+| 41 | [Current](https://open.spotify.com/track/7jCN8HmG6EaUzQKq9uHEH2) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [Simply The Best](https://open.spotify.com/album/5xc7F1Xfkq1HXYafFBewRN) | 5:45 |
 | 42 | [Jakarumba Kwa! Kwa! Kwa!](https://open.spotify.com/track/5dGEhpMOh8g5Jp3mc0FXt1) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/3QMYpyJMH57DfTGqZMEYGo) | 6:22 |
 | 43 | [Bula Boot](https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/1aY6VgE2UhKtmGesDYB4Il) | 5:32 |
 | 44 | [Sigiya Ngengoma](https://open.spotify.com/track/2NFgJok0ycyOrUGDuqkiH8) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/3QMYpyJMH57DfTGqZMEYGo) | 6:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 49 | [Tsodiyo](https://open.spotify.com/track/3j6YbumB0YDhhA2ZFRtbcA) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Incomplete Without](https://open.spotify.com/album/5jeAuGi3HKd1mV7W2Q5joX) | 3:50 |
 | 50 | [Skangkgata](https://open.spotify.com/track/70e5LboOZBwRrbwZb36ISE) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Tempy Life](https://open.spotify.com/album/6QLge9AA2UY7zgR7DNtaUN) | 4:23 |
 
-Snapshot ID: `AAAAADtHx/UchWwpw5bzEAYax4JmDi5Z`
+Snapshot ID: `AAAAAP6mQwRE/cXXHnUl+3e1AvEmRuSE`

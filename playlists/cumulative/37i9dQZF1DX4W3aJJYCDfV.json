@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "'Cause I Can",
+        "url": "https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187490,
+      "name": "'Cause I Can",
+      "url": "https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F"
+    },
+    {
+      "album": {
         "name": "'Til Tomorrow",
         "url": "https://open.spotify.com/album/6lNZirW2o0knujzrLydFEQ"
       },
@@ -47693,6 +47711,24 @@
     },
     {
       "album": {
+        "name": "THE SIN : BLISS (Chinese Ver.)",
+        "url": "https://open.spotify.com/album/7LhAjABx06c9Zf6yIEcA4N"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Bloody Paradise",
+      "url": "https://open.spotify.com/track/0lkDoxNvtLUNZcWnm9f8lF"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3uQfncSDfNqHTJrh2ZZRz0"
       },
@@ -75790,6 +75826,24 @@
       "duration_ms": 166533,
       "name": "Co-Star",
       "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
+    },
+    {
+      "album": {
+        "name": "Summer at Camp Lakepine",
+        "url": "https://open.spotify.com/album/4Nip5JG2bdFpUyV7ghe0Kq"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99200,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/6wpNwhUGwP7eT8s7wjcJrZ"
     },
     {
       "album": {
@@ -233426,6 +233480,24 @@
       "duration_ms": 263725,
       "name": "Long Live The Strange",
       "url": "https://open.spotify.com/track/12RkXOFLV813gXKv6HNrhJ"
+    },
+    {
+      "album": {
+        "name": "A Hole To See The Sky Through",
+        "url": "https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB"
+      },
+      "artists": [
+        {
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260097,
+      "name": "Long Lonely Road",
+      "url": "https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF"
     },
     {
       "album": {
@@ -408634,42 +408706,6 @@
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
-    },
-    {
-      "album": {
-        "name": "'Cause I Can",
-        "url": "https://open.spotify.com/album/1uap3KtsyFyx1Fer4nbIQl"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1oBLyah1gaYPNk3luW5a2F"
-    },
-    {
-      "album": {
-        "name": "A Hole To See The Sky Through",
-        "url": "https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB"
-      },
-      "artists": [
-        {
-          "name": "Mystery Jets",
-          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF"
     },
     {
       "album": {

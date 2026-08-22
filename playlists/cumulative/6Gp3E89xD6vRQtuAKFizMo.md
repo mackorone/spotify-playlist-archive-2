@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-576 songs - 1 day 3 hr 32 min
+577 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [RAGE](https://open.spotify.com/track/37Q1w8I8QEfBT9FBfnkHV0) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [RAGE](https://open.spotify.com/album/0dZNT6EBkDwihQ0TcK3Zpd) | 2:50 | 2026-03-06 |  |
 | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/track/1odOduCxOZNip4JgVPUO53) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shotgun Knights](https://open.spotify.com/artist/1TyxDj5u85Ur5LwVN2qalm), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/album/3MoMFWL1rvsgijVlxzN9cA) | 2:25 | 2024-11-22 | 2025-04-27 |
 | [Rebel](https://open.spotify.com/track/2Iy9lNbtDPhHn6mmk9EGRS) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Rebel](https://open.spotify.com/album/6ShMX20b0dAz1eymNXGfz8) | 2:45 | 2025-10-17 |  |
+| [Red Lights](https://open.spotify.com/track/3ImaPVVJm8phgbg0Z8rLEE) | [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1), [PITM](https://open.spotify.com/artist/7hWYWkg5JHsiMGOoiDSKRl) | [Red Lights](https://open.spotify.com/album/2LZ8w7CdbXOTkk0er6wIY8) | 2:09 | 2026-08-21 |  |
 | [Redemption](https://open.spotify.com/track/02FfMx7RCEnHB4sCLoG2io) | [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5), [TIARO](https://open.spotify.com/artist/5JinMzMuLLtTC3mSeH37Uf) | [Redemption](https://open.spotify.com/album/22dzgMMw0XZX52GMzg7Xyw) | 3:08 | 2025-08-01 |  |
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2022-05-06 | 2022-07-02 |
 | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM) | 3:03 | 2023-11-22 | 2025-04-27 |

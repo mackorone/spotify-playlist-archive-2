@@ -1,35 +1,15 @@
 {
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. LATIN MAFIA, Fred Again.. y Benjy Gibson en portada.",
-  "num_followers": 5963152,
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Neton Vega en portada.",
+  "num_followers": 5962605,
   "original_name": "\u00c9xitos M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGJvaP/vFpCp9t7XszYFGiJvN7ST",
+  "snapshot_id": "AAAAAOrrl1EmOW+Z2Dv5+ldlYsusxy6D",
   "tracks": [
     {
-      "added_at": "2026-08-14 06:00:25",
-      "album": {
-        "name": "9 months & 50 hours",
-        "url": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 193637,
-      "name": "Te Estoy Correteando",
-      "url": "https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs"
-    },
-    {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "RIKI",
         "url": "https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT"
@@ -45,7 +25,7 @@
       "url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -69,7 +49,27 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
+      "album": {
+        "name": "9 months & 50 hours",
+        "url": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 193637,
+      "name": "Te Estoy Correteando",
+      "url": "https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs"
+    },
+    {
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Pa la Ma\u00f1a",
         "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
@@ -93,27 +93,23 @@
       "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+        "name": "Nalguita y Teta",
+        "url": "https://open.spotify.com/album/0jwalP0wios13VlRWKILbC"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 176568,
-      "name": "Ah\u00ed",
-      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
+      "duration_ms": 187764,
+      "name": "Nalguita y Teta",
+      "url": "https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Recuerdos en Com\u00fan",
         "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
@@ -133,7 +129,7 @@
       "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Dandy Hats",
         "url": "https://open.spotify.com/album/2PaQhEbysv44gT3PRJ5XRs"
@@ -149,7 +145,7 @@
       "url": "https://open.spotify.com/track/0e3T2reBHLVK9ENgEg0WmH"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Ll\u00e9vala a La Luna",
         "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
@@ -165,7 +161,7 @@
       "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "ETERNO",
         "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
@@ -181,7 +177,7 @@
       "url": "https://open.spotify.com/track/6wHkuPGYXCiURrF56PUuJi"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "neo roneo",
         "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
@@ -201,7 +197,27 @@
       "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
+      "album": {
+        "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 141829,
+      "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4"
+    },
+    {
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Ay Weyy",
         "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/5lDLahSiRoPLcZlDiOmcGK"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "MATADORA",
         "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
@@ -233,7 +249,27 @@
       "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
+      "album": {
+        "name": "ZIZI",
+        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "ZIZI",
+      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
+    },
+    {
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Ponte Bonita",
         "url": "https://open.spotify.com/album/7MwgfDkiNM51w3v3gf145j"
@@ -253,7 +289,31 @@
       "url": "https://open.spotify.com/track/7i5KGCofSsgoU801R2wW8m"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
+      "album": {
+        "name": "LA CITA FRESITA 2",
+        "url": "https://open.spotify.com/album/0desTzdOKx9PIxWlAwjoJA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 175023,
+      "name": "LA CITA FRESITA 2",
+      "url": "https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ"
+    },
+    {
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "DEPR</3$$ED MFKZ",
         "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
@@ -273,7 +333,7 @@
       "url": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Expansi\u00f3n",
         "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
@@ -289,7 +349,7 @@
       "url": "https://open.spotify.com/track/45f6FcdWcuBGB4GvFuwr9f"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Matcha Latte",
         "url": "https://open.spotify.com/album/4yFIXz0bynZk3WNNqSCQpV"
@@ -309,7 +369,7 @@
       "url": "https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "El Peor De Mis Fracasos (En Vivo)",
         "url": "https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8"
@@ -333,7 +393,7 @@
       "url": "https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Estilo R'S",
         "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
@@ -349,7 +409,35 @@
       "url": "https://open.spotify.com/track/290ilxF4OsghfGWMV9OZNd"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
+      "album": {
+        "name": "Empareje Remix",
+        "url": "https://open.spotify.com/album/6BsJF6zbBIRYSh2qisBMEm"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Empareje Remix",
+      "url": "https://open.spotify.com/track/2AJ8ltGJsScmIlc0aiM3pK"
+    },
+    {
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "DELIRIUM",
         "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
@@ -369,7 +457,7 @@
       "url": "https://open.spotify.com/track/0JqpFd68DAc8gLNubwTrkq"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Noche Perfecta",
         "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
@@ -389,7 +477,7 @@
       "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "holanda (Remix)",
         "url": "https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ"
@@ -409,7 +497,7 @@
       "url": "https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "SINALOKA",
         "url": "https://open.spotify.com/album/0HrSq9bMMXc79CizTD1k6A"
@@ -425,7 +513,35 @@
       "url": "https://open.spotify.com/track/23meQ8JXeFHiInKkO1jyV2"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
+      "album": {
+        "name": "Cali",
+        "url": "https://open.spotify.com/album/6921DJk1AZONak9EoUPAR5"
+      },
+      "artists": [
+        {
+          "name": "Kanito Escalante",
+          "url": "https://open.spotify.com/artist/4Bo2MWN76cTam7PE2GZBj6"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 195164,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/31o2zBgMVijZ3dNOPBephl"
+    },
+    {
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
@@ -441,7 +557,7 @@
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "SABIA",
         "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
@@ -457,7 +573,7 @@
       "url": "https://open.spotify.com/track/7KfaBqVsLdG6AtqHTtX36g"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
@@ -477,23 +593,7 @@
       "url": "https://open.spotify.com/track/4FmMq5WDFMXcReyRk0V5xO"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
-      "album": {
-        "name": "Nalguita y Teta",
-        "url": "https://open.spotify.com/album/0jwalP0wios13VlRWKILbC"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 187764,
-      "name": "Nalguita y Teta",
-      "url": "https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ"
-    },
-    {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "ACOMODO",
         "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv"
@@ -509,7 +609,7 @@
       "url": "https://open.spotify.com/track/7J0POh3pJKSmirVOsW4qnP"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3g0PHy2BRa3ujyVpEMU5S5"
@@ -525,7 +625,7 @@
       "url": "https://open.spotify.com/track/5OPljbMv9PFDUpucKAcH3b"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Reinicio",
         "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
@@ -541,7 +641,7 @@
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
@@ -557,7 +657,7 @@
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Yo y La Luna",
         "url": "https://open.spotify.com/album/3qXzZAgoFihs94yboDzhn9"
@@ -573,23 +673,7 @@
       "url": "https://open.spotify.com/track/4FiYVoZVwofrD5sAPm19kl"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
-      "album": {
-        "name": "La Magia de Conectar",
-        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "La Magia de Conectar",
-      "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
-    },
-    {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Al Final Del D\u00eda",
         "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME"
@@ -605,27 +689,7 @@
       "url": "https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
-      "album": {
-        "name": "AMIGOS CON DERECHOS",
-        "url": "https://open.spotify.com/album/0LHeMCF4tu558UiIoxzvW2"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 168890,
-      "name": "AMIGOS CON DERECHOS",
-      "url": "https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9"
-    },
-    {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Ay Weyy",
         "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
@@ -649,7 +713,7 @@
       "url": "https://open.spotify.com/track/1TKtOAr9HUZyF3dCdwwcJE"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "PUES YA NI PEDO",
         "url": "https://open.spotify.com/album/6wnTjCPl6OGSmpp5qf3zPq"
@@ -669,7 +733,7 @@
       "url": "https://open.spotify.com/track/6TBrjMIQOcT02JWSGTR0vR"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "La Formula",
         "url": "https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF"
@@ -685,7 +749,7 @@
       "url": "https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "\u00bfSER\u00c1 EL ALCOHOL?",
         "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
@@ -705,23 +769,7 @@
       "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
-      "album": {
-        "name": "La Birria de Estela",
-        "url": "https://open.spotify.com/album/0d2fAxdVEZRSEOJ4J6ZHbq"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 176722,
-      "name": "La Birria de Estela",
-      "url": "https://open.spotify.com/track/6JHJY5geN9qhsHP7otLWfL"
-    },
-    {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/2X2jTBYY061b5JajkNPPTk"
@@ -741,7 +789,7 @@
       "url": "https://open.spotify.com/track/2CDihIzaMKXsFuoypVLAse"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "El Fin del Mundo",
         "url": "https://open.spotify.com/album/5DwOfDm777Abiy2JonGKX8"
@@ -761,7 +809,7 @@
       "url": "https://open.spotify.com/track/2cQpVtk5MOSLsGQrgMqT9g"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Gan\u00e9",
         "url": "https://open.spotify.com/album/2XnvAhJy0R6qJT6GVYhKuZ"
@@ -781,7 +829,7 @@
       "url": "https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "DINAST\u00cdA (DELUXE)",
         "url": "https://open.spotify.com/album/7aTDbTfkSxsYEipu8Z4TNl"
@@ -805,7 +853,7 @@
       "url": "https://open.spotify.com/track/5Q4HTsEGKanxOwL1nYCnhQ"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "ACOMODO",
         "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv"
@@ -821,7 +869,7 @@
       "url": "https://open.spotify.com/track/2NAM4cGSNerduR7uPfZknS"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
@@ -837,27 +885,7 @@
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
-      "album": {
-        "name": "Jesse Pinkman",
-        "url": "https://open.spotify.com/album/3WcrGEHrfljmOkIXnsyz7Q"
-      },
-      "artists": [
-        {
-          "name": "Tyan G",
-          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Jesse Pinkman",
-      "url": "https://open.spotify.com/track/3u8y82RIaHtWhApeY7j8b8"
-    },
-    {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Los Locos Nunca Mueren",
         "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
@@ -873,7 +901,7 @@
       "url": "https://open.spotify.com/track/1qiWVzOApnT0lLLQofPr1S"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Aprevenido",
         "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
@@ -889,7 +917,7 @@
       "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "YA ESTUVO BUENO",
         "url": "https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg"
@@ -905,7 +933,7 @@
       "url": "https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs"
     },
     {
-      "added_at": "2026-08-14 06:00:25",
+      "added_at": "2026-08-21 06:00:34",
       "album": {
         "name": "Nunca Voy a Morir",
         "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"

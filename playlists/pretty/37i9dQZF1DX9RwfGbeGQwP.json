@@ -1,12 +1,12 @@
 {
   "description": "chill beats for cool coffeehouse vibes.",
-  "num_followers": 552514,
+  "num_followers": 552545,
   "original_name": "lofi cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0V0spanX2HneHtCllogUUuDWQJ",
+  "snapshot_id": "AAAAACmL/b/G5nJlJzrtDumZryWA9g61",
   "tracks": [
     {
       "added_at": "2026-07-16 08:03:30",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Aldo",
-        "url": "https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1"
-      },
-      "artists": [
-        {
-          "name": "May-Flowa",
-          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
-        }
-      ],
-      "duration_ms": 131265,
-      "name": "aldo",
-      "url": "https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "Loose Kicks",
         "url": "https://open.spotify.com/album/0d0398yXgXdrZSenztLHMX"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 105405,
       "name": "Loose Kicks",
       "url": "https://open.spotify.com/track/2pJmmSzJzgyBwUhyqqNntp"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "Aldo",
+        "url": "https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "duration_ms": 131265,
+      "name": "aldo",
+      "url": "https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Summer rain",
-        "url": "https://open.spotify.com/album/0pI2S9DzvTZgdWgl2ZgRyZ"
-      },
-      "artists": [
-        {
-          "name": "Mr Argyle",
-          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Summer rain",
-      "url": "https://open.spotify.com/track/7HWM9W8rJ6Hj4sCGecvZCh"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "Im Like Ice, Buddy",
         "url": "https://open.spotify.com/album/7limCyVYGVJjik6yeFef92"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 124895,
       "name": "Im Like Ice, Buddy",
       "url": "https://open.spotify.com/track/0QEfHUCh4fM9BOziJAZRG4"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "Summer rain",
+        "url": "https://open.spotify.com/album/0pI2S9DzvTZgdWgl2ZgRyZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Argyle",
+          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Summer rain",
+      "url": "https://open.spotify.com/track/7HWM9W8rJ6Hj4sCGecvZCh"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Hello, Good Morning!",
-        "url": "https://open.spotify.com/album/3hvSsFyDFI5qCjAtK1mY0L"
-      },
-      "artists": [
-        {
-          "name": "HYYPNOTIC",
-          "url": "https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM"
-        }
-      ],
-      "duration_ms": 145818,
-      "name": "Hello, Good Morning!",
-      "url": "https://open.spotify.com/track/6XFvaJB9C6DNsprLl7708B"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "Take your time",
         "url": "https://open.spotify.com/album/5QJETfJVFFzNn1VcM2jkR9"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "peaceful retreat",
-        "url": "https://open.spotify.com/album/6YQVMzmgMWePPETt41Vzrv"
+        "name": "Hello, Good Morning!",
+        "url": "https://open.spotify.com/album/3hvSsFyDFI5qCjAtK1mY0L"
       },
       "artists": [
         {
-          "name": "mellow fox",
-          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+          "name": "HYYPNOTIC",
+          "url": "https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM"
         }
       ],
-      "duration_ms": 101694,
-      "name": "peaceful retreat",
-      "url": "https://open.spotify.com/track/6rXdmMil3DpNl1YPB7BaK3"
+      "duration_ms": 145818,
+      "name": "Hello, Good Morning!",
+      "url": "https://open.spotify.com/track/6XFvaJB9C6DNsprLl7708B"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/0zlyjbq5cutJHWgtZOENYO"
+        "name": "peaceful retreat",
+        "url": "https://open.spotify.com/album/6YQVMzmgMWePPETt41Vzrv"
       },
       "artists": [
         {
-          "name": "J0pie",
-          "url": "https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN"
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
         }
       ],
-      "duration_ms": 127135,
-      "name": "Raven",
-      "url": "https://open.spotify.com/track/0JmZwnmi3kceVlMQWBfW2y"
+      "duration_ms": 101694,
+      "name": "peaceful retreat",
+      "url": "https://open.spotify.com/track/6rXdmMil3DpNl1YPB7BaK3"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -835,6 +819,22 @@
       "duration_ms": 92142,
       "name": "Since When",
       "url": "https://open.spotify.com/track/7d7y2JnDs6YyEF7615uW7E"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/0zlyjbq5cutJHWgtZOENYO"
+      },
+      "artists": [
+        {
+          "name": "J0pie",
+          "url": "https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN"
+        }
+      ],
+      "duration_ms": 127135,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/0JmZwnmi3kceVlMQWBfW2y"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
+        "name": "Wandering Mind",
+        "url": "https://open.spotify.com/album/2CtsLFFhWPJTi4FOPaVsZB"
+      },
+      "artists": [
+        {
+          "name": "sodero",
+          "url": "https://open.spotify.com/artist/5dqoqyuDtvIPeTDNyRFA7k"
+        }
+      ],
+      "duration_ms": 129832,
+      "name": "Wandering Mind",
+      "url": "https://open.spotify.com/track/43W8ReyzcOORb0r1i8WJee"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
         "name": "Kinda Cosy",
         "url": "https://open.spotify.com/album/0EQONM4373NXUekR8WdAuN"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 124874,
       "name": "Undeniable Swagger",
       "url": "https://open.spotify.com/track/0X574TlCOR4SEtcg9tU8IC"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
-        "name": "Wandering Mind",
-        "url": "https://open.spotify.com/album/2CtsLFFhWPJTi4FOPaVsZB"
-      },
-      "artists": [
-        {
-          "name": "sodero",
-          "url": "https://open.spotify.com/artist/5dqoqyuDtvIPeTDNyRFA7k"
-        }
-      ],
-      "duration_ms": 129832,
-      "name": "Wandering Mind",
-      "url": "https://open.spotify.com/track/43W8ReyzcOORb0r1i8WJee"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Night Life",
-        "url": "https://open.spotify.com/album/12hbyGHe1mxKz0lvdRqgcs"
-      },
-      "artists": [
-        {
-          "name": "Simber",
-          "url": "https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0"
-        }
-      ],
-      "duration_ms": 129285,
-      "name": "Night Life",
-      "url": "https://open.spotify.com/track/1g6DyYI1tAIaX0DlpgjDzh"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/6aQt3aOKn3bbVg3vHcqqjz"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 121000,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/5RCXulZHahDWbtUr7tAgtH"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "Night Life",
+        "url": "https://open.spotify.com/album/12hbyGHe1mxKz0lvdRqgcs"
+      },
+      "artists": [
+        {
+          "name": "Simber",
+          "url": "https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0"
+        }
+      ],
+      "duration_ms": 129285,
+      "name": "Night Life",
+      "url": "https://open.spotify.com/track/1g6DyYI1tAIaX0DlpgjDzh"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
+        "name": "Pink Sunrise",
+        "url": "https://open.spotify.com/album/6lWcuOPaxToaHW5rRH6imA"
+      },
+      "artists": [
+        {
+          "name": "KiddoCalvin",
+          "url": "https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6"
+        }
+      ],
+      "duration_ms": 135942,
+      "name": "Pink Sunrise",
+      "url": "https://open.spotify.com/track/6KklG381m3QoUb2bp1S7zk"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
         "name": "soup",
         "url": "https://open.spotify.com/album/45U6zQQWZo5B7StjhdXwID"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 101111,
       "name": "soup",
       "url": "https://open.spotify.com/track/3w4099LccLE2nmzG1Zawwq"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
-        "name": "Pink Sunrise",
-        "url": "https://open.spotify.com/album/6lWcuOPaxToaHW5rRH6imA"
-      },
-      "artists": [
-        {
-          "name": "KiddoCalvin",
-          "url": "https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6"
-        }
-      ],
-      "duration_ms": 135942,
-      "name": "Pink Sunrise",
-      "url": "https://open.spotify.com/track/6KklG381m3QoUb2bp1S7zk"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Hangout",
-        "url": "https://open.spotify.com/album/3j5tmSS8YJ3XUYYr1H46Kz"
-      },
-      "artists": [
-        {
-          "name": "Vice Bertha",
-          "url": "https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Hangout",
-      "url": "https://open.spotify.com/track/5MVwjrJ6J1dcLNfeyV2WAR"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "Bimong-Samong",
         "url": "https://open.spotify.com/album/5cJkMH2D0LKvYoHl6z5OuZ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 125250,
       "name": "Bimong-Samong",
       "url": "https://open.spotify.com/track/6469oUWMJMDAPiJou8pwqe"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "Hangout",
+        "url": "https://open.spotify.com/album/3j5tmSS8YJ3XUYYr1H46Kz"
+      },
+      "artists": [
+        {
+          "name": "Vice Bertha",
+          "url": "https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Hangout",
+      "url": "https://open.spotify.com/track/5MVwjrJ6J1dcLNfeyV2WAR"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Wandering",
-        "url": "https://open.spotify.com/album/0eDeatHZVyRtT8DIOfE6Ex"
-      },
-      "artists": [
-        {
-          "name": "Hayde Kole",
-          "url": "https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "Wandering",
-      "url": "https://open.spotify.com/track/1z2qQVXj6OkkW0DrgGiIno"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "time together",
         "url": "https://open.spotify.com/album/71RaloNOmG7PpjGvn8rmQR"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 132272,
       "name": "time together",
       "url": "https://open.spotify.com/track/5S3M80eLbQYjf53A4hXiZi"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "Wandering",
+        "url": "https://open.spotify.com/album/0eDeatHZVyRtT8DIOfE6Ex"
+      },
+      "artists": [
+        {
+          "name": "Hayde Kole",
+          "url": "https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "Wandering",
+      "url": "https://open.spotify.com/track/1z2qQVXj6OkkW0DrgGiIno"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Seat",
-        "url": "https://open.spotify.com/album/5IE96K5o534sIruxtzBLcO"
-      },
-      "artists": [
-        {
-          "name": "Moon Dog",
-          "url": "https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "Seat",
-      "url": "https://open.spotify.com/track/7K30wL2fXA9qxrTS9JR8Om"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/6yEFO1j7AKAUl08KjgKglg"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 120000,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1LkuMhbV1HMSB7Mye60a40"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "Seat",
+        "url": "https://open.spotify.com/album/5IE96K5o534sIruxtzBLcO"
+      },
+      "artists": [
+        {
+          "name": "Moon Dog",
+          "url": "https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "Seat",
+      "url": "https://open.spotify.com/track/7K30wL2fXA9qxrTS9JR8Om"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Fairfax Ave",
-        "url": "https://open.spotify.com/album/45XZkvtUSP2IdV1HWq5bKa"
-      },
-      "artists": [
-        {
-          "name": "Izzo Lizz",
-          "url": "https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Fairfax Ave",
-      "url": "https://open.spotify.com/track/3hj7gfXWeUNMeAyQ0i1yDo"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "Rainbower",
         "url": "https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 128000,
       "name": "Rainbower",
       "url": "https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "Fairfax Ave",
+        "url": "https://open.spotify.com/album/45XZkvtUSP2IdV1HWq5bKa"
+      },
+      "artists": [
+        {
+          "name": "Izzo Lizz",
+          "url": "https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Fairfax Ave",
+      "url": "https://open.spotify.com/track/3hj7gfXWeUNMeAyQ0i1yDo"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "Osaka",
-        "url": "https://open.spotify.com/album/0Rfq7P7TnuNZTed3LHUeD6"
-      },
-      "artists": [
-        {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
-        }
-      ],
-      "duration_ms": 120875,
-      "name": "Osaka",
-      "url": "https://open.spotify.com/track/3lRlUxwzbHwH6QyXZwO3do"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "Rainy Garden",
         "url": "https://open.spotify.com/album/4t4XHavoZI07IKe2RyLEaV"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 131660,
       "name": "Rainy Garden",
       "url": "https://open.spotify.com/track/5OYUfe47KilF4naZycbf0q"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "Osaka",
+        "url": "https://open.spotify.com/album/0Rfq7P7TnuNZTed3LHUeD6"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 120875,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/3lRlUxwzbHwH6QyXZwO3do"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -1931,38 +1931,6 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "what's left?",
-        "url": "https://open.spotify.com/album/6PsJM4y6a9f57wrhRaMwXh"
-      },
-      "artists": [
-        {
-          "name": "West Sun",
-          "url": "https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "what's left?",
-      "url": "https://open.spotify.com/track/3d7GysYatQ2EoPk7CLAIh9"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/34aw9IgoXoVbZjpCaRFuZE"
-      },
-      "artists": [
-        {
-          "name": "passmeby",
-          "url": "https://open.spotify.com/artist/3vZvHb70x1Tdl30yKpXu5W"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/12me4QCt6tX1pYWdUa0lg6"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
         "name": "Shinjuku Nights",
         "url": "https://open.spotify.com/album/3TVFIJvyZ3qOv9YQ3d0vGs"
       },
@@ -1975,6 +1943,22 @@
       "duration_ms": 120000,
       "name": "Shinjuku Nights",
       "url": "https://open.spotify.com/track/4MRPwM1HeOHd76PjSffHAG"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "what's left?",
+        "url": "https://open.spotify.com/album/6PsJM4y6a9f57wrhRaMwXh"
+      },
+      "artists": [
+        {
+          "name": "West Sun",
+          "url": "https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh"
+        }
+      ],
+      "duration_ms": 121500,
+      "name": "what's left?",
+      "url": "https://open.spotify.com/track/3d7GysYatQ2EoPk7CLAIh9"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -1999,18 +1983,18 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
-        "name": "funny things",
-        "url": "https://open.spotify.com/album/1jq5KvdkGeMkmNC1o4yxv0"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/34aw9IgoXoVbZjpCaRFuZE"
       },
       "artists": [
         {
-          "name": "frid",
-          "url": "https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe"
+          "name": "passmeby",
+          "url": "https://open.spotify.com/artist/3vZvHb70x1Tdl30yKpXu5W"
         }
       ],
-      "duration_ms": 124883,
-      "name": "funny things",
-      "url": "https://open.spotify.com/track/28cyQHIPxMXAmZ1uERRyHz"
+      "duration_ms": 138352,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/12me4QCt6tX1pYWdUa0lg6"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -2031,6 +2015,22 @@
       "duration_ms": 108000,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7tfPRq7O7QsyddB0LmLBhJ"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
+        "name": "funny things",
+        "url": "https://open.spotify.com/album/1jq5KvdkGeMkmNC1o4yxv0"
+      },
+      "artists": [
+        {
+          "name": "frid",
+          "url": "https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe"
+        }
+      ],
+      "duration_ms": 124883,
+      "name": "funny things",
+      "url": "https://open.spotify.com/track/28cyQHIPxMXAmZ1uERRyHz"
     },
     {
       "added_at": "2026-07-16 08:03:30",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2026-07-16 08:03:30",
       "album": {
+        "name": "bloom",
+        "url": "https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK"
+      },
+      "artists": [
+        {
+          "name": "nikk.",
+          "url": "https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH"
+        }
+      ],
+      "duration_ms": 133414,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl"
+    },
+    {
+      "added_at": "2026-07-16 08:03:30",
+      "album": {
         "name": "Slow Feet",
         "url": "https://open.spotify.com/album/1SAi4U5Rvw08dUZFa5Wudw"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 138035,
       "name": "comrade",
       "url": "https://open.spotify.com/track/2GTTGKowosHnN5v7xmzh7S"
-    },
-    {
-      "added_at": "2026-07-16 08:03:30",
-      "album": {
-        "name": "bloom",
-        "url": "https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK"
-      },
-      "artists": [
-        {
-          "name": "nikk.",
-          "url": "https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH"
-        }
-      ],
-      "duration_ms": 133414,
-      "name": "bloom",
-      "url": "https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl"
     },
     {
       "added_at": "2026-07-16 08:03:30",

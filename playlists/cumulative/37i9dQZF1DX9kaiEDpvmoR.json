@@ -8099,6 +8099,24 @@
     },
     {
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7"
+      },
+      "artists": [
+        {
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266883,
+      "name": "Rullande muller",
+      "url": "https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4"
+    },
+    {
+      "album": {
         "name": "Rush Of Blood",
         "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
       },
@@ -9974,24 +9992,6 @@
       "duration_ms": 190881,
       "name": "Ton\u00e5rsland",
       "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
-    },
-    {
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7"
-      },
-      "artists": [
-        {
-          "name": "Stiko Per Larsson",
-          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4"
     },
     {
       "album": {

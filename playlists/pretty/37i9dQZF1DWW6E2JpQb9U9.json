@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 127032,
+  "num_followers": 127047,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAML+82rxahvRBBekN2XctzJb+3eP",
+  "snapshot_id": "AAAAAJVN7d8P1KKWrA8Qd/8nJdxf0Ry8",
   "tracks": [
     {
       "added_at": "2026-06-12 03:00:36",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
         "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 294334,
       "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
       "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Ji Ji Ji (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
-        "url": "https://open.spotify.com/album/32bau642DRCuW27UlsiEnw"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 363208,
-      "name": "Ji Ji Ji - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
-      "url": "https://open.spotify.com/track/1TGLpWSsFMuDR3DMD6Pyc5"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "C\u00f3mo Me Gusta Verte Re\u00edr",
         "url": "https://open.spotify.com/album/4lTU97kK1BZn8CM64e0qHK"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 251651,
       "name": "De Nada Sirve - En Vivo En Argentina",
       "url": "https://open.spotify.com/track/4xGfcgTkXzHDqEmBh2rWHS"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Ji Ji Ji (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
+        "url": "https://open.spotify.com/album/32bau642DRCuW27UlsiEnw"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 363208,
+      "name": "Ji Ji Ji - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
+      "url": "https://open.spotify.com/track/1TGLpWSsFMuDR3DMD6Pyc5"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 304386,
+      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "MVD/05/03/05 (En Vivo)",
         "url": "https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 398705,
       "name": "Cosa Linda/Clara - En Vivo",
       "url": "https://open.spotify.com/track/48JNsIQ07dqVwpOdjjN8yu"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 304386,
-      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
         "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 383040,
       "name": "Espejismo - En Vivo",
       "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
-        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 266824,
-      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Nada Salvaje (En Vivo Estadio Obras)",
         "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 262866,
       "name": "Solo Voy - En Vivo",
       "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
+        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 266824,
+      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
+        "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        },
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 333394,
+      "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
+      "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "Espejo Roto (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 205080,
       "name": "Carol - Vivo",
       "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
-        "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        },
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 333394,
-      "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
-      "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "M\u00fasica del Alma (En Vivo)",
-        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 251296,
-      "name": "M\u00fasica Del Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Carretera Perdida (En Vivo)",
         "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 290496,
       "name": "Carretera Perdida - En Vivo",
       "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "M\u00fasica del Alma (En Vivo)",
+        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 251296,
+      "name": "M\u00fasica Del Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
     },
     {
       "added_at": "2026-06-12 03:00:36",

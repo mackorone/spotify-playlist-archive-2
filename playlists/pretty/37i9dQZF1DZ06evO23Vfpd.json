@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 70272,
+  "num_followers": 70325,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAACjX8sgKzy4oQSFAFJaLlSF",
+  "snapshot_id": "aoZDgAAAAAAQdQ64M0PrObur0P/ScfN1",
   "tracks": [
     {
       "added_at": null,
@@ -120,13 +120,13 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         },
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 251032,
-      "name": "Burn It Down (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/4JgdqbekoGGNFMM4cImJ9p"
+      "duration_ms": 195952,
+      "name": "Bullets & Blades (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2"
     },
     {
       "added_at": null,
@@ -200,13 +200,13 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 195952,
-      "name": "Bullets & Blades (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2"
+      "duration_ms": 251032,
+      "name": "Burn It Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4JgdqbekoGGNFMM4cImJ9p"
     },
     {
       "added_at": null,

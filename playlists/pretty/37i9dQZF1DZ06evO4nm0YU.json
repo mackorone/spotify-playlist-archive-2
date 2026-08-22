@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 191889,
+  "num_followers": 191928,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAC5Bh8mRRU7SCtDJj3+66Je",
+  "snapshot_id": "aoZDgAAAAAD72fqGBm6WXOt+dKZ4loPV",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "\u00bfDe Qu\u00e9 Tama\u00f1o Es Tu Amor?",
+      "url": "https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 227280,
       "name": "Ah-Ah / O-No",
       "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "\u00bfDe Qu\u00e9 Tama\u00f1o Es Tu Amor?",
-      "url": "https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 321480,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 321480,
-      "name": "La Fama",
-      "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
     },
     {
       "added_at": null,

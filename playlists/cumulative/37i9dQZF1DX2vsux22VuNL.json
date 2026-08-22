@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: B\u00ea Vieira",
+  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz, Sotam",
   "name": "brisa",
   "tracks": [
     {
@@ -5136,7 +5136,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
@@ -7915,6 +7915,32 @@
     },
     {
       "album": {
+        "name": "Cintilante",
+        "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "2B",
+          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Passando as Horas",
+      "url": "https://open.spotify.com/track/7JSziiXMmuMwX9yp5HnutR"
+    },
+    {
+      "album": {
         "name": "PAZ",
         "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
       },
@@ -8144,6 +8170,24 @@
       "duration_ms": 163725,
       "name": "Periferia",
       "url": "https://open.spotify.com/track/3tEdTu6qhlIqgqu261plPu"
+    },
+    {
+      "album": {
+        "name": "BIA1B99",
+        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157553,
+      "name": "PERSONAGEM",
+      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
     },
     {
       "album": {
@@ -8607,6 +8651,36 @@
     },
     {
       "album": {
+        "name": "Baile C\u00edtrico Utr\u00f3pico Lunar",
+        "url": "https://open.spotify.com/album/6bzigFZm76nltly1DBy1dZ"
+      },
+      "artists": [
+        {
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+        },
+        {
+          "name": "De Leve",
+          "url": "https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE"
+        },
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200892,
+      "name": "Pra Pegar Cachu",
+      "url": "https://open.spotify.com/track/1sAkWYLlensw7Lgowxs6b4"
+    },
+    {
+      "album": {
         "name": "Pra te amar \u00e0s vezes",
         "url": "https://open.spotify.com/album/4MiPpcMI523JiIsVt9fDMk"
       },
@@ -8990,7 +9064,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 141352,
       "name": "Quadrado Formado",
       "url": "https://open.spotify.com/track/3aXko8H02cLdkto6j2J45I"
@@ -9950,7 +10024,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 141935,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/71Vau26vLY4Vl6Z4ajFKW0"

@@ -519,6 +519,32 @@
     },
     {
       "album": {
+        "name": "Paganini",
+        "url": "https://open.spotify.com/album/0AuitR7KXJaKTg9LEZ8FzK"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248293,
+      "name": "Cantabile in D Major",
+      "url": "https://open.spotify.com/track/7jcyyrHsdamsTAXosNcG1b"
+    },
+    {
+      "album": {
         "name": "Bizet: Carmen & L'arl\u00e9sienne Suites",
         "url": "https://open.spotify.com/album/2T30CdjZ39L3feUj5gJubB"
       },
@@ -962,6 +988,32 @@
       "duration_ms": 224640,
       "name": "Hummel: Trumpet Concerto In E Flat - Iii Rondo",
       "url": "https://open.spotify.com/track/246ntJR3A2s7B5E40FTCLf"
+    },
+    {
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/12WmgXbbRCYMgruVWBKVgz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Eleftheriou",
+          "url": "https://open.spotify.com/artist/7mI1CUUSOWZt4J1fFwIjsS"
+        },
+        {
+          "name": "Emmanuele Baldini",
+          "url": "https://open.spotify.com/artist/2G4XEKxmESX6JSCK01oKEN"
+        },
+        {
+          "name": "Mariana Virgilli",
+          "url": "https://open.spotify.com/artist/4xGRn3km9q7mSohO40q0S5"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234763,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/47OLI4GLQAF2742fkKmq7Q"
     },
     {
       "album": {
@@ -1480,6 +1532,44 @@
       "duration_ms": 135160,
       "name": "Music for the Royal Fireworks: Suite HWV 351: 4. La r\u00e9jouissance",
       "url": "https://open.spotify.com/track/5yyXW6znha7BHouXfXwJbE"
+    },
+    {
+      "album": {
+        "name": "Life is a Dream",
+        "url": "https://open.spotify.com/album/0aROL1KZNoYSp0bipj1QoS"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hopkins",
+          "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
+        },
+        {
+          "name": "Gregorio Nieto",
+          "url": "https://open.spotify.com/artist/2pWETDhFJlOUsmU9s8829M"
+        },
+        {
+          "name": "The Bach Choir",
+          "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
+        },
+        {
+          "name": "The Boy Choristers of Winchester Cathedral",
+          "url": "https://open.spotify.com/artist/1aPbjvNpEWshO8HV7WOWGq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337413,
+      "name": "My Fatherland",
+      "url": "https://open.spotify.com/track/1SZmCwyjY8sEd7jYXke9gn"
     },
     {
       "album": {
@@ -3038,6 +3128,40 @@
       "duration_ms": 180706,
       "name": "Un homme et une femme",
       "url": "https://open.spotify.com/track/1fNawoarma7dusg6ch2wlV"
+    },
+    {
+      "album": {
+        "name": "Under the Moonlight",
+        "url": "https://open.spotify.com/album/0RBGOMyfuVSygTnzq3kWM2"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Philipp Schupelius",
+          "url": "https://open.spotify.com/artist/5GVDvbvOn2HQ6dcKLXohKT"
+        },
+        {
+          "name": "Shanghai Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8"
+        },
+        {
+          "name": "Liang Zhang",
+          "url": "https://open.spotify.com/artist/2ps20TD19WuTC4OwEETvqf"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345996,
+      "name": "Under the Moonlight",
+      "url": "https://open.spotify.com/track/0DzBIrVOJuNH6C6lgWp8On"
     },
     {
       "album": {

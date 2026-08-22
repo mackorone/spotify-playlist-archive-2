@@ -4,7 +4,7 @@
 
 > Pop on the rise you should know, featuring LAGOS & Yorghaki.
 
-911 songs - 1 day 22 hr 55 min
+912 songs - 1 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,6 +837,7 @@
 | [Tu Cuarto](https://open.spotify.com/track/2QoErhGjIryuXKmWxtjT0R) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Tu Cuarto](https://open.spotify.com/album/4Q7Pyt1LPWafVkoXYd3Od2) | 2:57 | 2021-12-16 | 2022-06-16 |
 | [Tu Cárcel](https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tu Cárcel](https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv) | 3:36 | 2026-02-27 | 2026-06-06 |
 | [Tu Gata](https://open.spotify.com/track/7j4kf9YhvElmjz3if93V49) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 2:36 | 2026-04-10 | 2026-06-06 |
+| [Tu lunar](https://open.spotify.com/track/6IVFgWwTxe3pBwNqC1Mpiw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Tu lunar](https://open.spotify.com/album/5n5GfmjH1zHT8htiBsjKOT) | 2:18 | 2026-08-21 |  |
 | [Tu recuerdo](https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Tu recuerdo](https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw) | 3:55 | 2026-05-15 |  |
 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 | 2023-04-14 | 2023-07-29 |
 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 | 2024-02-16 | 2024-05-04 |
@@ -902,7 +903,7 @@
 | [Yo No Quiero Suerte](https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sanz](https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4) | 4:24 | 2022-01-28 | 2022-03-12 |
 | [Yo No Te Olvido](https://open.spotify.com/track/0B1wfBxRDSUEYnzcyQYmyi) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Yo No Te Olvido](https://open.spotify.com/album/5TDXuO3jMxlrjoy3cmLMyo) | 2:42 | 2021-12-16 | 2022-07-09 |
 | [yo pr1mero](https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [yo pr1mero](https://open.spotify.com/album/0iD5NLijJ6vFTQO6OlEk7i) | 3:14 | 2023-02-03 | 2023-03-18 |
-| [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 | 2026-04-03 |  |
+| [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 | 2026-04-03 | 2026-08-22 |
 | [yo tuya, tú mío](https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:51 | 2024-01-19 | 2024-03-16 |
 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 | 2024-07-12 | 2024-11-02 |
 | [Ysilandia](https://open.spotify.com/track/1Uiees22RmVuFaGrbdCbR5) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Ysilandia](https://open.spotify.com/album/3P2TJ5AUSNb0yCdXqX9QvZ) | 3:37 | 2025-02-14 | 2025-04-26 |

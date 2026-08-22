@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,769 songs - 7 day 2 hr 39 min
+2,770 songs - 7 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1033,6 +1033,7 @@
 | [PLAY BOY](https://open.spotify.com/track/6S4Rnq6SiezLyFQuxcVlws) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [PLAY BOY](https://open.spotify.com/album/4dtfnK52VwroWF6hLKivaf) | 4:56 | 2023-06-29 | 2023-08-02 |
 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 | 2025-01-19 | 2025-07-11 |
 | [Please, please!](https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [Please, please!](https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL) | 3:42 | 2023-07-04 | 2023-10-08 |
+| [po\-ai feat\. Mirai Moriyama](https://open.spotify.com/track/3QaKwZt5c1EK0DaUqkr7N3) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH), [Mirai Moriyama](https://open.spotify.com/artist/510z2RL7VI7kusI6amRaPq) | [po\-ai feat\. Mirai Moriyama](https://open.spotify.com/album/0NLOU5Ig2OGAxxJwRqCPb4) | 3:38 | 2026-08-21 |  |
 | [poi](https://open.spotify.com/track/76z0Vtt2c0fKvbXpJWS5qd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [poi](https://open.spotify.com/album/0lD4bSVS2RIxBYan6avJ3n) | 3:21 | 2024-04-04 | 2024-05-29 |
 | [Poker Face](https://open.spotify.com/track/2JZ8odAC7pCQenQZIakrdF) | [あみゅり](https://open.spotify.com/artist/05H9bHkWC2bCGgfLKbIUuT) | [Poker Face](https://open.spotify.com/album/4hXWWBk11hqUrqz3mTJkvD) | 3:02 | 2025-07-14 | 2025-08-06 |
 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-28 | 2022-09-30 |
@@ -1150,7 +1151,7 @@
 | [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-05 | 2025-01-22 |
 | [Sailor, Sail On](https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Sailor, Sail On](https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P) | 4:08 | 2025-12-18 | 2026-01-21 |
 | [Sakujitsu feat\. Yoshino](https://open.spotify.com/track/2YEnUfQGubDsBaKtj3tAXu) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg), [Yoshino](https://open.spotify.com/artist/1wxjNzmgvPAUKWaDRfn8LT) | [Sakujitsu feat\. Yoshino](https://open.spotify.com/album/70Z9YOvlJty23tdoIV8vQD) | 3:20 | 2026-02-10 | 2026-04-08 |
-| [Sakura Chill](https://open.spotify.com/track/168GgEZoexG5dqYaqUQsX5) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [Sakura Chill](https://open.spotify.com/album/5QfFWOTH5YncR4hK2NjtFQ) | 3:22 | 2026-07-28 |  |
+| [Sakura Chill](https://open.spotify.com/track/168GgEZoexG5dqYaqUQsX5) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [Sakura Chill](https://open.spotify.com/album/5QfFWOTH5YncR4hK2NjtFQ) | 3:22 | 2026-07-28 | 2026-08-22 |
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-11 | 2023-04-26 |
 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 | 2025-10-07 | 2026-01-15 |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-08-29 | 2023-10-08 |

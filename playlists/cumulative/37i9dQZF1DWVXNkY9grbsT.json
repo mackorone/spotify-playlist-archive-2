@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 109937,
       "name": "3eee",
       "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
@@ -1302,6 +1302,24 @@
       "duration_ms": 326362,
       "name": "Apparences",
       "url": "https://open.spotify.com/track/2x70m39lWNsjwgG2bmx2aT"
+    },
+    {
+      "album": {
+        "name": "Melting Days",
+        "url": "https://open.spotify.com/album/1tLBaM7LWJkX1zi3K6wuLu"
+      },
+      "artists": [
+        {
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310306,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/1ddZqlrZuRnfwPk0bw5iRg"
     },
     {
       "album": {
@@ -6123,6 +6141,28 @@
     },
     {
       "album": {
+        "name": "Water, CA",
+        "url": "https://open.spotify.com/album/2JV2XSr6HdiSJt7DIGGNvr"
+      },
+      "artists": [
+        {
+          "name": "Donatell",
+          "url": "https://open.spotify.com/artist/02fjEKYRLC2XhQrTKLJy3d"
+        },
+        {
+          "name": "Zack Sekoff",
+          "url": "https://open.spotify.com/artist/2Jk17dvbqUDGvraV7KyLrq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161670,
+      "name": "JV Jordan",
+      "url": "https://open.spotify.com/track/3ZMAVbspTpxPB7LFkTiQBg"
+    },
+    {
+      "album": {
         "name": "Kammerkonzert",
         "url": "https://open.spotify.com/album/4YRwqvWAu1cjBDyRRXz0Ee"
       },
@@ -6250,7 +6290,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 133751,
       "name": "La Hormiga",
       "url": "https://open.spotify.com/track/0pwuRwjgzeOFF8FmB3pjyM"

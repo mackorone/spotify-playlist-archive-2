@@ -1,12 +1,12 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 124768,
+  "num_followers": 124798,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADKEi8dWo6jw9ywGKTbxzRiTMqAd",
+  "snapshot_id": "AAAAADXBE14Vl2hVpGTZ9sxlzn/L4SU2",
   "tracks": [
     {
       "added_at": "2026-07-29 15:45:01",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Thank God I'm Free",
-        "url": "https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 171670,
-      "name": "Thank God I'm Free",
-      "url": "https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 199573,
       "name": "Good Lord",
       "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Thank God I'm Free",
+        "url": "https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 171670,
+      "name": "Thank God I'm Free",
+      "url": "https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "New Thing (Live)",
         "url": "https://open.spotify.com/album/7BJHaIRiNlTtHNe7yxuCJa"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 271208,
       "name": "New Thing - Live",
       "url": "https://open.spotify.com/track/6upp8gy0AqRf0gWJ5T4lct"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -843,34 +843,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "honeydew (praise the Lord)",
-        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 224000,
-      "name": "honeydew (praise the Lord)",
-      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "call My name (YHWH) - EP",
-        "url": "https://open.spotify.com/album/3xkEYvZzLqwHiK8V8IqbhA"
-      },
-      "artists": [
-        {
-          "name": "Tenroc",
-          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "call My name (YHWH)",
-      "url": "https://open.spotify.com/track/6C4vYEk9YkITQf8jbYg6Dv"
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -891,18 +875,34 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+        "name": "call My name (YHWH) - EP",
+        "url": "https://open.spotify.com/album/3xkEYvZzLqwHiK8V8IqbhA"
       },
       "artists": [
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
         }
       ],
-      "duration_ms": 172217,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
+      "duration_ms": 175093,
+      "name": "call My name (YHWH)",
+      "url": "https://open.spotify.com/track/6C4vYEk9YkITQf8jbYg6Dv"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "honeydew (praise the Lord)",
+        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "honeydew (praise the Lord)",
+      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6"
+      },
+      "artists": [
+        {
+          "name": "Phil the Voice",
+          "url": "https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Day for Singing",
         "url": "https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 341200,
       "name": "Day For Singing - Live",
       "url": "https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6"
-      },
-      "artists": [
-        {
-          "name": "Phil the Voice",
-          "url": "https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA"
     }
   ],
   "unique_name": "GOoD Morning",

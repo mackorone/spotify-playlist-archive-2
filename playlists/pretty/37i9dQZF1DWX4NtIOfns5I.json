@@ -1,12 +1,12 @@
 {
   "description": "now all I know is the ending",
-  "num_followers": 148427,
+  "num_followers": 148458,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/IV0GsMNOm7frnhPo6EyoXsU+Y",
+  "snapshot_id": "AAAAAExtz4ku9quJhdizN+5UYWIYmVQN",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:50",
@@ -71,6 +71,22 @@
       "duration_ms": 205144,
       "name": "Officially",
       "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Hey Big Dipper",
+        "url": "https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 186806,
+      "name": "Hey Big Dipper",
+      "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
     },
     {
       "added_at": "2026-08-14 04:01:50",
@@ -1547,22 +1563,6 @@
       "duration_ms": 237575,
       "name": "I'm not where you're at",
       "url": "https://open.spotify.com/track/2kZnmgEPGNhs0BpcswCSnD"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Miffed It",
-        "url": "https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Miffed It",
-      "url": "https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff"
     },
     {
       "added_at": "2026-06-19 04:01:40",

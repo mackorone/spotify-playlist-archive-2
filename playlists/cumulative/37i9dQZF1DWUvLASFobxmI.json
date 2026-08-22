@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Dos de Tamaulipas y Clave Especial en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Bolela, Bohemio en portada.",
   "name": "Norte\u00f1o 2026",
   "tracks": [
     {
@@ -1470,6 +1470,28 @@
       "duration_ms": 135960,
       "name": "Arriba Las Manos",
       "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
+    },
+    {
+      "album": {
+        "name": "ASUNTOS PENDIENTES",
+        "url": "https://open.spotify.com/album/2qVp2WXlNuG4bqyrRkfCb6"
+      },
+      "artists": [
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        },
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "ASUNTOS PENDIENTES",
+      "url": "https://open.spotify.com/track/1H1A2GBAln4ThLSV2HcW5u"
     },
     {
       "album": {
@@ -8008,7 +8030,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 188820,
       "name": "Frente a Frente - En Vivo",
       "url": "https://open.spotify.com/track/0hf92UPty6IZeN9U2tgahH"
@@ -8718,7 +8740,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 205162,
       "name": "Hombre Libre",
       "url": "https://open.spotify.com/track/3SQMrUdOqjyQS78iJT8fKn"
@@ -9946,7 +9968,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 146619,
       "name": "La Misma Luna",
       "url": "https://open.spotify.com/track/0vLakhyglDq1r7w9DENgXR"
@@ -10008,7 +10030,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 159994,
       "name": "La M\u00e1s Chula",
       "url": "https://open.spotify.com/track/12tWgQj804EGTGoivIWQxi"
@@ -10196,7 +10218,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 146474,
       "name": "La Soluci\u00f3n",
       "url": "https://open.spotify.com/track/7My7ANjRIKAcoavRGchP25"
@@ -11077,6 +11099,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Yo M\u00e1s Quiero",
+        "url": "https://open.spotify.com/album/1YajfU6lgORvLT54x7ddhY"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153168,
+      "name": "Lo Que Yo M\u00e1s Quiero",
+      "url": "https://open.spotify.com/track/2NezX5wn4kfTeyIcyqPFdk"
+    },
+    {
+      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0"
       },
@@ -11168,6 +11208,24 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+    },
+    {
+      "album": {
+        "name": "Loco Jodido",
+        "url": "https://open.spotify.com/album/6CyVv4Gu9Y3ZXrpS6ldfD8"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188665,
+      "name": "Loco Jodido",
+      "url": "https://open.spotify.com/track/0Fkc7mopyiSWLMQSYOhDMy"
     },
     {
       "album": {
@@ -13298,7 +13356,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 156590,
       "name": "No Me Vuelvo Enamorar",
       "url": "https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0"
@@ -14330,7 +14388,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 203733,
       "name": "Para Que Ya No Duela - Remix",
       "url": "https://open.spotify.com/track/4xTqoUyUHyltXykpwOJOdg"
@@ -15579,6 +15637,24 @@
     },
     {
       "album": {
+        "name": "Que Se Vaya",
+        "url": "https://open.spotify.com/album/5o1z80S9I0tVQk9Qk2NA7H"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Que Se Vaya",
+      "url": "https://open.spotify.com/track/3uBksEvrCiVBRsBW0zSw2n"
+    },
+    {
+      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -15906,6 +15982,24 @@
       "duration_ms": 161332,
       "name": "Qu\u00e9 Guapo Estoy",
       "url": "https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Mal",
+        "url": "https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175105,
+      "name": "Qu\u00e9 Mal",
+      "url": "https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc"
     },
     {
       "album": {
@@ -16344,6 +16438,24 @@
       "duration_ms": 226870,
       "name": "SE OLVID\u00d3",
       "url": "https://open.spotify.com/track/6dJeWi5BvpppJB3IXU1cn6"
+    },
+    {
+      "album": {
+        "name": "Se Pudo",
+        "url": "https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170323,
+      "name": "Se Pudo",
+      "url": "https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1"
     },
     {
       "album": {
@@ -17998,6 +18110,28 @@
       "duration_ms": 197062,
       "name": "Terco Soy",
       "url": "https://open.spotify.com/track/4mbWLsNAgFcB8Rvue936rN"
+    },
+    {
+      "album": {
+        "name": "Terco Y Que",
+        "url": "https://open.spotify.com/album/1u3dbpuXQkWP4p4CNUjqVV"
+      },
+      "artists": [
+        {
+          "name": "Lui Santo",
+          "url": "https://open.spotify.com/artist/2QoMCjd4XA9bZKXWWLSxGq"
+        },
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142586,
+      "name": "Terco Y Que",
+      "url": "https://open.spotify.com/track/5gm23dibSsjTnlPEU3Yj7V"
     },
     {
       "album": {

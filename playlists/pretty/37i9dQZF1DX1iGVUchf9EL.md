@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1iGVUchf9EL.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/laurenlondon/">Lauren London</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293 likes - 57 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,292 likes - 57 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1iGVUchf9EL.md) - [plain]
 | 56 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 |
 | 57 | [This Is for the Lover in You](https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Three for Love](https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X) | 5:04 |
 
-Snapshot ID: `AAAAAJ59ai///j/akPUb2I/29LXS8uN2`
+Snapshot ID: `AAAAAA2yzPkd5mHG2boAp0z4En2m+IBd`

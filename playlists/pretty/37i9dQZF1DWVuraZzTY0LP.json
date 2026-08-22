@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 353983,
+  "num_followers": 354028,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACD5rNQQr4ewMn84A4gSUDA6Kab2",
+  "snapshot_id": "AAAAAASyhvMAB1fAFPHSiZJGtz7X7Qh4",
   "tracks": [
     {
       "added_at": "2026-02-27 06:00:31",
@@ -279,7 +279,7 @@
     {
       "added_at": "2026-02-27 06:00:31",
       "album": {
-        "name": "Dracula (Remix)",
+        "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
       "artists": [
@@ -293,7 +293,7 @@
         }
       ],
       "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
+      "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-02-27 06:00:31",
       "album": {
-        "name": "Nada Te Lastima",
-        "url": "https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2"
-      },
-      "artists": [
-        {
-          "name": "Valsian",
-          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
-        },
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 248750,
-      "name": "Nada Te Lastima",
-      "url": "https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d"
-    },
-    {
-      "added_at": "2026-02-27 06:00:31",
-      "album": {
         "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
         "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 182946,
       "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
       "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
+    },
+    {
+      "added_at": "2026-02-27 06:00:31",
+      "album": {
+        "name": "Nada Te Lastima",
+        "url": "https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2"
+      },
+      "artists": [
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        },
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 248750,
+      "name": "Nada Te Lastima",
+      "url": "https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d"
     },
     {
       "added_at": "2026-02-27 06:00:31",

@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: The Tullamarines
 
-1,089 songs - 2 day 13 hr 5 min
+1,089 songs - 2 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [I Don't Understand How Planes Work](https://open.spotify.com/track/12DXULWlJOyrf0zL9wCylR) | [Suzi](https://open.spotify.com/artist/7yyW28zOEIrNs2Rs3eq9cI) | [I Don't Understand How Planes Work](https://open.spotify.com/album/0KmQ6NDMm6hqeVGrs5pv5v) | 3:24 | 2024-10-11 | 2025-01-17 |
 | [I Forget About Time](https://open.spotify.com/track/3UX8saAG4BYfGNmObk8aMv) | [Salarymen](https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM) | [I Forget About Time](https://open.spotify.com/album/6Gl0l8dWvCw9B7ttr64QTv) | 4:13 | 2024-07-25 | 2024-09-10 |
 | [I HATE RICH CUNTS](https://open.spotify.com/track/12cPzoY08JZVx7JnJNtGak) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [I HATE RICH CUNTS](https://open.spotify.com/album/1fVOXvSuzZBiYX0Tmhbev1) | 2:46 | 2024-05-24 | 2024-07-27 |
+| [I Just Don't Know You Yet](https://open.spotify.com/track/3v4jK4krT3tKmulGTz1RKZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Cheesy Love Songs](https://open.spotify.com/album/60SccoaVP6AIOVcA9HgRT6) | 3:41 | 2026-08-20 |  |
 | [I Killed Satan](https://open.spotify.com/track/2yLodN25W5PJVheWxj7Dtz) | [Battlesnake](https://open.spotify.com/artist/2jrvVsbr886ElfLO355U3y) | [I Killed Satan](https://open.spotify.com/album/6Lnf993SBZvxQoJGVKzp7r) | 3:30 | 2026-06-11 | 2026-08-14 |
 | [I Know \(In The End\)](https://open.spotify.com/track/1uYOte1ZH6iaXiUcw8E5DX) | [Sonic Reducer](https://open.spotify.com/artist/4fSqBIjaypPHHyGIkrebEL) | [I Know \(In The End\)](https://open.spotify.com/album/0aBv75Aj04vMrPH2rH0WLc) | 2:13 | 2026-04-02 | 2026-07-10 |
 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-03-05 | 2026-06-26 |
@@ -1007,7 +1008,6 @@
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Tough Love](https://open.spotify.com/track/69ySxELQeIw557VWfbAwq9) | [Bugs](https://open.spotify.com/artist/6kjbCSFaHOo2deId1wSaeL) | [Tough Love](https://open.spotify.com/album/3cGv3kPBB8ye4hKAra1MSL) | 3:25 | 2026-07-30 |  |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 9](https://open.spotify.com/track/3v4jK4krT3tKmulGTz1RKZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Cheesy Love Songs](https://open.spotify.com/album/60SccoaVP6AIOVcA9HgRT6) | 0:00 | 2026-08-20 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Trapezoid](https://open.spotify.com/track/58no1ulZZDdRcXm2oPTVM3) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Trapezoid](https://open.spotify.com/album/1ZXxB14E1TYIESUR6Dvxsb) | 2:30 | 2026-07-30 |  |
 | [Tricky](https://open.spotify.com/track/2647HRwRxWV8GXDCVYeYyr) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Tricky](https://open.spotify.com/album/3N7n0230jkmS4A9OZF9qIX) | 3:22 | 2025-10-16 | 2026-01-23 |

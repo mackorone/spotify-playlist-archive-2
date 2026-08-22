@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Megadeth",
-  "num_followers": 585571,
+  "num_followers": 585593,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIiu/XlAGc3YLxkH3ICatma7IWRP",
+  "snapshot_id": "AAAAABnKAyE9YH7Fzq1bnYXhAzvYjjhn",
   "tracks": [
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Forbidden Evil",
-        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
-      },
-      "artists": [
-        {
-          "name": "Forbidden",
-          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
-        }
-      ],
-      "duration_ms": 384853,
-      "name": "Through Eyes of Glass",
-      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Worlds Torn Asunder",
         "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 261560,
       "name": "Living Weapon",
       "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Forbidden Evil",
+        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+      },
+      "artists": [
+        {
+          "name": "Forbidden",
+          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+        }
+      ],
+      "duration_ms": 384853,
+      "name": "Through Eyes of Glass",
+      "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Heavy Metal Maniac",
-        "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
-      },
-      "artists": [
-        {
-          "name": "Exciter",
-          "url": "https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Heavy Metal Maniac",
-      "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Forbidden Evil",
         "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Empire of the Blind",
-        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
+        "name": "Heavy Metal Maniac",
+        "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
       },
       "artists": [
         {
-          "name": "Heathen",
-          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+          "name": "Exciter",
+          "url": "https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd"
         }
       ],
-      "duration_ms": 351613,
-      "name": "Empire of the Blind",
-      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
+      "duration_ms": 227453,
+      "name": "Heavy Metal Maniac",
+      "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -1451,6 +1435,22 @@
       "duration_ms": 202146,
       "name": "Sin",
       "url": "https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Empire of the Blind",
+        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
+      },
+      "artists": [
+        {
+          "name": "Heathen",
+          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+        }
+      ],
+      "duration_ms": 351613,
+      "name": "Empire of the Blind",
+      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2"
-      },
-      "artists": [
-        {
-          "name": "Hirax",
-          "url": "https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm"
-        }
-      ],
-      "duration_ms": 107773,
-      "name": "Bombs of Death",
-      "url": "https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 218406,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2"
+      },
+      "artists": [
+        {
+          "name": "Hirax",
+          "url": "https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm"
+        }
+      ],
+      "duration_ms": 107773,
+      "name": "Bombs of Death",
+      "url": "https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
+        "name": "Weapons of Thrash Destruction",
+        "url": "https://open.spotify.com/album/3tZJFYEx0PW4vFHDaBrGRg"
+      },
+      "artists": [
+        {
+          "name": "Terrifier",
+          "url": "https://open.spotify.com/artist/6CAS7EDKRPjByncY9Ca3qD"
+        }
+      ],
+      "duration_ms": 324182,
+      "name": "Reanimator",
+      "url": "https://open.spotify.com/track/5ihVldDm01ZzROCvW5rECC"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
         "name": "Schizophrenia (Re-Recorded)",
         "url": "https://open.spotify.com/album/3SlfkVIXt6loQjZOByllmv"
       },
@@ -2179,22 +2195,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Weapons of Thrash Destruction",
-        "url": "https://open.spotify.com/album/3tZJFYEx0PW4vFHDaBrGRg"
-      },
-      "artists": [
-        {
-          "name": "Terrifier",
-          "url": "https://open.spotify.com/artist/6CAS7EDKRPjByncY9Ca3qD"
-        }
-      ],
-      "duration_ms": 324182,
-      "name": "Reanimator",
-      "url": "https://open.spotify.com/track/5ihVldDm01ZzROCvW5rECC"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Spread the Fire",
         "url": "https://open.spotify.com/album/4bwww1qTnCIRQdWjJIrAkX"
       },
@@ -2207,6 +2207,22 @@
       "duration_ms": 314786,
       "name": "Thrash Is Back",
       "url": "https://open.spotify.com/track/0mTHshGGNTGxUiyohrdj2Z"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Unhealthy Mechanisms",
+        "url": "https://open.spotify.com/album/12TN9balowogEa9934vX3O"
+      },
+      "artists": [
+        {
+          "name": "Go Ahead And Die",
+          "url": "https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113"
+        }
+      ],
+      "duration_ms": 232406,
+      "name": "Drug-O-Cop",
+      "url": "https://open.spotify.com/track/18GlFhUte9Rdqax6WtlIx2"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2247,22 +2263,6 @@
       "duration_ms": 229580,
       "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
       "url": "https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "Unhealthy Mechanisms",
-        "url": "https://open.spotify.com/album/12TN9balowogEa9934vX3O"
-      },
-      "artists": [
-        {
-          "name": "Go Ahead And Die",
-          "url": "https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113"
-        }
-      ],
-      "duration_ms": 232406,
-      "name": "Drug-O-Cop",
-      "url": "https://open.spotify.com/track/18GlFhUte9Rdqax6WtlIx2"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Extinction",
-        "url": "https://open.spotify.com/album/4v1qcY67EgCYu2xbUkUWPp"
-      },
-      "artists": [
-        {
-          "name": "Harlott",
-          "url": "https://open.spotify.com/artist/55P952flfiJs68ellyqFHU"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "First World Solutions",
-      "url": "https://open.spotify.com/track/2BKaYacYK33sCj0wQmelzs"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 341804,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Extinction",
+        "url": "https://open.spotify.com/album/4v1qcY67EgCYu2xbUkUWPp"
+      },
+      "artists": [
+        {
+          "name": "Harlott",
+          "url": "https://open.spotify.com/artist/55P952flfiJs68ellyqFHU"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "First World Solutions",
+      "url": "https://open.spotify.com/track/2BKaYacYK33sCj0wQmelzs"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2603,18 +2603,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Reapers Fool",
-        "url": "https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa"
+        "name": "Disco Nnection",
+        "url": "https://open.spotify.com/album/0SI5GPdVgtuOIZ40QGGnxK"
       },
       "artists": [
         {
-          "name": "Lowest Creature",
-          "url": "https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e"
+          "name": "Dust Bolt",
+          "url": "https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q"
         }
       ],
-      "duration_ms": 202019,
-      "name": "Reapers Fool",
-      "url": "https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh"
+      "duration_ms": 255053,
+      "name": "Disco Nnection",
+      "url": "https://open.spotify.com/track/5fkylI4UHIFITBnfpZQml9"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2635,18 +2635,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Disco Nnection",
-        "url": "https://open.spotify.com/album/0SI5GPdVgtuOIZ40QGGnxK"
+        "name": "Reapers Fool",
+        "url": "https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa"
       },
       "artists": [
         {
-          "name": "Dust Bolt",
-          "url": "https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q"
+          "name": "Lowest Creature",
+          "url": "https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e"
         }
       ],
-      "duration_ms": 255053,
-      "name": "Disco Nnection",
-      "url": "https://open.spotify.com/track/5fkylI4UHIFITBnfpZQml9"
+      "duration_ms": 202019,
+      "name": "Reapers Fool",
+      "url": "https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Full HD",
-        "url": "https://open.spotify.com/album/3CNbdTTnhByCKDlW7aONOY"
-      },
-      "artists": [
-        {
-          "name": "Crisix",
-          "url": "https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s"
-        }
-      ],
-      "duration_ms": 292241,
-      "name": "The Many Licit Paths",
-      "url": "https://open.spotify.com/track/0cGj5pqSVgjMYzp0mJ4QpS"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5A1PP7qT0HqxEFAl97mrEM"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 190952,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/76GuF96xWQSP1sCalY3tJ6"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Full HD",
+        "url": "https://open.spotify.com/album/3CNbdTTnhByCKDlW7aONOY"
+      },
+      "artists": [
+        {
+          "name": "Crisix",
+          "url": "https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s"
+        }
+      ],
+      "duration_ms": 292241,
+      "name": "The Many Licit Paths",
+      "url": "https://open.spotify.com/track/0cGj5pqSVgjMYzp0mJ4QpS"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Exiled To The Surface",
-        "url": "https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT"
-      },
-      "artists": [
-        {
-          "name": "Traitor",
-          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
-        }
-      ],
-      "duration_ms": 249531,
-      "name": "66 Exeter Street",
-      "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Leave Nothing Behind",
         "url": "https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl"
       },
@@ -2843,18 +2827,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Bow Down To the Clowns",
-        "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
+        "name": "Exiled To The Surface",
+        "url": "https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT"
       },
       "artists": [
         {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+          "name": "Traitor",
+          "url": "https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM"
         }
       ],
-      "duration_ms": 290600,
-      "name": "Bow Down To the Clowns",
-      "url": "https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy"
+      "duration_ms": 249531,
+      "name": "66 Exeter Street",
+      "url": "https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2871,6 +2855,22 @@
       "duration_ms": 295507,
       "name": "The Affair of the Poisons",
       "url": "https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Bow Down To the Clowns",
+        "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Bow Down To the Clowns",
+      "url": "https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2955,18 +2955,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Casket",
-        "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
+        "name": "Bleeding Out",
+        "url": "https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO"
       },
       "artists": [
         {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+          "name": "Xentrix",
+          "url": "https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO"
         }
       ],
-      "duration_ms": 113870,
-      "name": "Casket",
-      "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
+      "duration_ms": 273989,
+      "name": "Bleeding Out",
+      "url": "https://open.spotify.com/track/43leqVDeli1HgybvpX93GG"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -2987,18 +2987,18 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Bleeding Out",
-        "url": "https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO"
+        "name": "Casket",
+        "url": "https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS"
       },
       "artists": [
         {
-          "name": "Xentrix",
-          "url": "https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO"
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
         }
       ],
-      "duration_ms": 273989,
-      "name": "Bleeding Out",
-      "url": "https://open.spotify.com/track/43leqVDeli1HgybvpX93GG"
+      "duration_ms": 113870,
+      "name": "Casket",
+      "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3019,6 +3019,22 @@
       "duration_ms": 300120,
       "name": "Egyptron",
       "url": "https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "A Bitter Pill",
+        "url": "https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr"
+      },
+      "artists": [
+        {
+          "name": "Razor",
+          "url": "https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B"
+        }
+      ],
+      "duration_ms": 167191,
+      "name": "A Bitter Pill",
+      "url": "https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3051,22 +3067,6 @@
       "duration_ms": 297238,
       "name": "Prove Them Wrong",
       "url": "https://open.spotify.com/track/3W557pYlVALCtGHlCJEgIa"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
-        "name": "A Bitter Pill",
-        "url": "https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr"
-      },
-      "artists": [
-        {
-          "name": "Razor",
-          "url": "https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B"
-        }
-      ],
-      "duration_ms": 167191,
-      "name": "A Bitter Pill",
-      "url": "https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb"
     },
     {
       "added_at": "2026-02-06 16:07:07",
@@ -3171,22 +3171,6 @@
     {
       "added_at": "2026-02-06 16:07:07",
       "album": {
-        "name": "Origins Of Aggression",
-        "url": "https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 114066,
-      "name": "Thermonuclear Devastation of the Planet Earth - 2025 Re-Recording",
-      "url": "https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi"
-    },
-    {
-      "added_at": "2026-02-06 16:07:07",
-      "album": {
         "name": "Mochado",
         "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
       },
@@ -3199,6 +3183,22 @@
       "duration_ms": 175333,
       "name": "Mochado",
       "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
+    },
+    {
+      "added_at": "2026-02-06 16:07:07",
+      "album": {
+        "name": "Origins Of Aggression",
+        "url": "https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 114066,
+      "name": "Thermonuclear Devastation of the Planet Earth - 2025 Re-Recording",
+      "url": "https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi"
     },
     {
       "added_at": "2026-02-06 16:07:07",

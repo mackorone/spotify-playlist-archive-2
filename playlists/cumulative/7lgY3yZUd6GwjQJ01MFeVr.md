@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb
 
-317 songs - 16 hr 58 min
+320 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Relapse](https://open.spotify.com/track/78DcrUOhBhVod09vFiXn7P) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN) | 2:38 | 2024-12-10 | 2025-03-20 |
 | [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-12-08 | 2024-06-06 |
 | [Restless Mind \(feat\. Avery Anna\)](https://open.spotify.com/track/3HxEGE7XpzqTVHEui3IMyb) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 3:40 | 2024-11-02 |  |
+| [Ride The River](https://open.spotify.com/track/2EsMBsv3uFaUEF8fCOLMoA) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [Ride The River](https://open.spotify.com/album/4sy5R6NhnHxH5rVFHKAyod) | 3:09 | 2026-08-21 |  |
 | [River Washed Hair](https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 4:21 | 2025-07-05 | 2026-01-15 |
 | [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 | 2024-08-10 | 2025-09-13 |
 | [S.O.B.](https://open.spotify.com/track/3h65hnA2SkIeOK3aVyUIe7) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [S.O.B.](https://open.spotify.com/album/1ueSCQNbsw3cZ0sV97Qrka) | 3:03 | 2024-02-09 | 2024-03-16 |
@@ -260,6 +261,7 @@
 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-03-15 | 2024-11-02 |
 | [Stay in Your Lane](https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Stay in Your Lane](https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh) | 3:29 | 2025-03-25 |  |
 | [Streetlight](https://open.spotify.com/track/2m3MghNJc7uwB9sBBtTcW9) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Streetlight](https://open.spotify.com/album/5Wo944H6nfB7HS32hKUXRK) | 3:12 | 2024-03-15 | 2024-11-02 |
+| [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 | 2026-08-21 |  |
 | [Sweet Lady](https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Sweet Lady](https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM) | 2:59 | 2025-08-09 |  |
 | [Take A Broken Heart](https://open.spotify.com/track/2xAD7x9ZZ0JRzTg9X63Yxt) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Take A Broken Heart](https://open.spotify.com/album/2Gdv4H1aIjyLMklwti30lM) | 2:49 | 2023-12-08 | 2024-11-02 |
 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 | 2023-12-08 | 2024-02-03 |
@@ -277,6 +279,7 @@
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-19 | 2026-05-05 |
 | [The Hard Way](https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/52Xjyzwd2vW3fshL00SYU0) | 2:42 | 2025-09-13 | 2025-11-18 |
 | [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 | 2026-04-07 |  |
+| [The Old Guys](https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Young](https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX) | 3:13 | 2026-08-21 |  |
 | [The Painter](https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:31 | 2024-01-26 | 2026-05-05 |
 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 | 2023-12-08 | 2024-01-20 |
 | [These Nights](https://open.spotify.com/track/75gdNK4k5wl7aXh2CcCzU5) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:39 | 2025-08-09 | 2025-09-13 |

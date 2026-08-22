@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,729 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,732 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 78 | [You Don't Want Me No More](https://open.spotify.com/track/4cQ1CLgqhJtlskXUpM25VE) | [Major Lance](https://open.spotify.com/artist/7onp6ew3LGoQImTt1I78gt) | [The Best Of Major Lance: Everybody Loves A Good Time!](https://open.spotify.com/album/2MzrmQwcw5sWN5cx3amAPC) | 2:12 |
 | 79 | [Under Your Powerful Love](https://open.spotify.com/track/4LHGfnRAzkwM24MMALFQxU) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Joe Tex Collection Vol\. 2](https://open.spotify.com/album/1fKKAl08O1wOUicU1cY0M3) | 4:26 |
 | 80 | [You Just Don't Know \(What You Do To Me\)](https://open.spotify.com/track/4Q6gZa8pEcTuaMteHEEYdl) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Hits Of '65](https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9) | 2:30 |
-| 81 | [I'm Where It's At](https://open.spotify.com/track/2ETtE2nroXLwviIrTkopbW) | [The Jades](https://open.spotify.com/artist/35ygC5lMRprqOIHZbcjsK0) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:28 |
-| 82 | [She Kissed Me](https://open.spotify.com/track/4QZGpOChUV3r36qd0J3gZj) | [Frankie Beverly And The Butlers](https://open.spotify.com/artist/2XVmdPWJyOZd6iRVmlQNMg) | [Cameo Parkway Pop And Soul Gems Of 1966 Vol\. 2](https://open.spotify.com/album/2Qu5NZYF3JxaG2SpcfvrTv) | 2:30 |
+| 81 | [She Kissed Me](https://open.spotify.com/track/4QZGpOChUV3r36qd0J3gZj) | [Frankie Beverly And The Butlers](https://open.spotify.com/artist/2XVmdPWJyOZd6iRVmlQNMg) | [Cameo Parkway Pop And Soul Gems Of 1966 Vol\. 2](https://open.spotify.com/album/2Qu5NZYF3JxaG2SpcfvrTv) | 2:30 |
+| 82 | [I'm Where It's At](https://open.spotify.com/track/2ETtE2nroXLwviIrTkopbW) | [The Jades](https://open.spotify.com/artist/35ygC5lMRprqOIHZbcjsK0) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:28 |
 | 83 | [Name It You Got It](https://open.spotify.com/track/4rf0BgkvLftBjVCfCA9qXV) | [Micky Moonshine](https://open.spotify.com/artist/7KSmZ7H3mfxLiuh27Fc2L7) | [The Northern Soul Scene](https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk) | 3:24 |
 | 84 | [Hit And Run](https://open.spotify.com/track/5Hoe35sDiPC7XyY1ocZI91) | [Rose Batiste](https://open.spotify.com/artist/5LP4nRFZbdswDSBbCYP4gH) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:11 |
 | 85 | [It Really Hurts Me Girl](https://open.spotify.com/track/7ARc5XRTlhg5KMrZeFnjbi) | [The Carstairs](https://open.spotify.com/artist/1RSTlxBlVr8XeyoFFa8qo0) | [The Stars Of Northern Soul Volume 1](https://open.spotify.com/album/1x6I4OVVnsZGTSBznVw9WY) | 3:27 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 95 | [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [The Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 |
 | 96 | [Change Your Ways](https://open.spotify.com/track/20hJJEwKs22FGHa41NwDO1) | [Willie Kendrick](https://open.spotify.com/artist/70Pp3qLS73T2JAaUAr7RQ4) | [The Northern Soul Story Vol.2: The Golden Torch](https://open.spotify.com/album/4zfzl9fPsQccToLbNMsoLM) | 2:24 |
 | 97 | [Think It Over](https://open.spotify.com/track/5yiVaLYpDFcOIq0Qkz1i61) | [The Harvey Averne Dozen](https://open.spotify.com/artist/1mck5dIwHpn9Roun7jD1lJ) | [Viva Soul](https://open.spotify.com/album/4QFIv1WCGUe2n9ir61BLNB) | 2:37 |
-| 98 | [Girls Are Out to Get You](https://open.spotify.com/track/0JpUdYW1hKU1fGqjy0xvHY) | [The Andantes](https://open.spotify.com/artist/1JYHTYpWbYyOgYK3eAJgqK) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:23 |
-| 99 | [This Heart of Mine](https://open.spotify.com/track/1RGWRD9vqwgu7APmedrpJs) | [The Artistics](https://open.spotify.com/artist/2iy394hZHUSLDMIxAnrz8x) | [Northern Soul: Keep the Faith!](https://open.spotify.com/album/4syXcIzY2okMdzgktYYVkJ) | 2:29 |
+| 98 | [This Heart of Mine](https://open.spotify.com/track/1RGWRD9vqwgu7APmedrpJs) | [The Artistics](https://open.spotify.com/artist/2iy394hZHUSLDMIxAnrz8x) | [Northern Soul: Keep the Faith!](https://open.spotify.com/album/4syXcIzY2okMdzgktYYVkJ) | 2:29 |
+| 99 | [Girls Are Out to Get You](https://open.spotify.com/track/0JpUdYW1hKU1fGqjy0xvHY) | [The Andantes](https://open.spotify.com/artist/1JYHTYpWbYyOgYK3eAJgqK) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:23 |
 | 100 | [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 |
 
-Snapshot ID: `AAAAANYLrUih+kex9pKrhjPRXS1ugk3g`
+Snapshot ID: `AAAAABRAbaugP3snPPhjC6T5vM65lNST`

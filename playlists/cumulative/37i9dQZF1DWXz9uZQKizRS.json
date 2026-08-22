@@ -14343,6 +14343,40 @@
     },
     {
       "album": {
+        "name": "Mama's Car",
+        "url": "https://open.spotify.com/album/6l4chdP6cC1dtkmKlKk7zQ"
+      },
+      "artists": [
+        {
+          "name": "Paulina Przybysz",
+          "url": "https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API"
+        },
+        {
+          "name": "Marek P\u0119dziwiatr",
+          "url": "https://open.spotify.com/artist/285rwNDOrGIgleNASuWyXr"
+        },
+        {
+          "name": "Wiktoria Jakubowska",
+          "url": "https://open.spotify.com/artist/03B9rUpfuSXCXbSS3OmFZG"
+        },
+        {
+          "name": "Tymon Kosma",
+          "url": "https://open.spotify.com/artist/6eZJuqPbaYUJ5Hypwuge7j"
+        },
+        {
+          "name": "Max Mucha",
+          "url": "https://open.spotify.com/artist/2RqS1rvJaijxztXzwzAihD"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193227,
+      "name": "Mama's Car",
+      "url": "https://open.spotify.com/track/1916LFOLD6clD6v1nzW3w0"
+    },
+    {
+      "album": {
         "name": "MAMONY MILION",
         "url": "https://open.spotify.com/album/1Webw1M55Xd9Rr1n51Qk70"
       },

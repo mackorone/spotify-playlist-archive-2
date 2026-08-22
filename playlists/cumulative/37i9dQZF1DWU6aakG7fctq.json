@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Pink Pablo",
+  "description": "Fresh Latin Indie you should know. Cover: natxo",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "me da miedo ser feliz (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3KKYPUn7j8M4IZqbdqhtXj"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223512,
+      "name": "aqu\u00ed cabemos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7EMyKWsKkEu1eGekPgK3kP"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed nadie se puede morir (feat. Santi Balmes)",
         "url": "https://open.spotify.com/album/0riOpdR8KGCIVCpZXkq3i0"
       },
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 171355,
       "name": "As\u00ed Soy Yo",
       "url": "https://open.spotify.com/track/2bHLy5hln1ndrh1MwsjHUc"
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 179720,
       "name": "BESITO",
       "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
@@ -5580,7 +5598,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 250006,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
@@ -5606,6 +5624,28 @@
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+    },
+    {
+      "album": {
+        "name": "DIAS LLUVIOSOS",
+        "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
+      },
+      "artists": [
+        {
+          "name": "Jas Marty",
+          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "DIAS LLUVIOSOS",
+      "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
     },
     {
       "album": {
@@ -7644,7 +7684,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 226412,
       "name": "Estar sin ti",
       "url": "https://open.spotify.com/track/7gG1s2TLUXdttl7FJ8KtU1"
@@ -8050,6 +8090,28 @@
       "duration_ms": 214573,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
+    },
+    {
+      "album": {
+        "name": "flores",
+        "url": "https://open.spotify.com/album/6jEDnIHxmmMODa1pkXmlNd"
+      },
+      "artists": [
+        {
+          "name": "natxo",
+          "url": "https://open.spotify.com/artist/6P7AHRoOhZJBgVjOuPL64R"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177108,
+      "name": "flores",
+      "url": "https://open.spotify.com/track/4iyFSLbG83uQk3R3VFjzrj"
     },
     {
       "album": {
@@ -9698,6 +9760,28 @@
       "duration_ms": 142000,
       "name": "INVISIBLE",
       "url": "https://open.spotify.com/track/3OlK094z1LQdceoqsyQlhv"
+    },
+    {
+      "album": {
+        "name": "Iridiscente (Se Contagia)",
+        "url": "https://open.spotify.com/album/0nBUs8eygWvByXTEs3sd15"
+      },
+      "artists": [
+        {
+          "name": "Val Acosta",
+          "url": "https://open.spotify.com/artist/27mmTV4E5hIwxznMdoOQSj"
+        },
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210261,
+      "name": "Iridiscente (Se Contagia)",
+      "url": "https://open.spotify.com/track/5iuUHLp94rjxfsjBvktUdb"
     },
     {
       "album": {
@@ -13423,6 +13507,24 @@
     },
     {
       "album": {
+        "name": "mis amigas",
+        "url": "https://open.spotify.com/album/32DuGZhcKgAfvvzvb2LaLf"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139560,
+      "name": "mis amigas",
+      "url": "https://open.spotify.com/track/549nYHp4rMtzv44Djmt0Xd"
+    },
+    {
+      "album": {
         "name": "mis compas tan aqu\u00ed",
         "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
       },
@@ -14454,7 +14556,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 185118,
       "name": "No pega igual (Stuck on replay)",
       "url": "https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ"
@@ -16194,7 +16296,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 156909,
       "name": "penso en voce",
       "url": "https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow"
@@ -16614,6 +16716,24 @@
       "duration_ms": 168320,
       "name": "poco a poquito",
       "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
+    },
+    {
+      "album": {
+        "name": "Poeta",
+        "url": "https://open.spotify.com/album/6c2NxL8g6nrpA48wR814Uo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Carrera",
+          "url": "https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Poeta",
+      "url": "https://open.spotify.com/track/6McYM1HmEhcWxp0KGVXXJS"
     },
     {
       "album": {
@@ -20123,6 +20243,28 @@
     },
     {
       "album": {
+        "name": "Tan Lejos",
+        "url": "https://open.spotify.com/album/3HRob2GGrhgpBoSH6pMFvZ"
+      },
+      "artists": [
+        {
+          "name": "Vernat",
+          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
+        },
+        {
+          "name": "diego vega",
+          "url": "https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158890,
+      "name": "Tan Lejos",
+      "url": "https://open.spotify.com/track/6TBRPzVnw01sQuFxHVa9Dr"
+    },
+    {
+      "album": {
         "name": "QUIZ\u00c1S INCLUSO MA\u00d1ANA",
         "url": "https://open.spotify.com/album/3JXZ0QjLuS1sjPIS5LV41G"
       },
@@ -22516,7 +22658,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 211219,
       "name": "va a pasar",
       "url": "https://open.spotify.com/track/78vtCWytc2AKWD0mpBFT2I"
@@ -22842,6 +22984,28 @@
       "duration_ms": 228250,
       "name": "Volando",
       "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
+    },
+    {
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/72xTzscV0cEu7i0Z8dSAhq"
+      },
+      "artists": [
+        {
+          "name": "Ben Yart",
+          "url": "https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV"
+        },
+        {
+          "name": "Mr. Worth",
+          "url": "https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169150,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/2qfRr8M9CsceZGIn3MAAQe"
     },
     {
       "album": {
@@ -23308,7 +23472,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 193679,
       "name": "Y te olvidaste (feat. Alvaro Diaz)",
       "url": "https://open.spotify.com/track/0682TWsQ7kK1XP6rBLCsG6"

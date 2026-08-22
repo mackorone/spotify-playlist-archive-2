@@ -278,8 +278,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 268 | [Say It Again](https://open.spotify.com/track/4zXuXX7HVVIi4P73I3igSv) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [All Out EP](https://open.spotify.com/album/2MtXlZW7qER88eQvxojeaR) | 4:31 |
 | 269 | [Til You Pulled Up](https://open.spotify.com/track/5S5KnGO2w0PX9isNmQ0hZk) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Love Center](https://open.spotify.com/album/2y5JTyJ84CYPR2EbFuKDCv) | 3:53 |
 | 270 | [Stop Pretending](https://open.spotify.com/track/20o6ExIV3EoYN1bQctdAla) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Vicci](https://open.spotify.com/album/2tzCITYeQli59uiFyIVszB) | 3:13 |
-| 271 | [Bass Drum Dealer](https://open.spotify.com/track/76MgXnVKDYSqjoZ8P8J8uu) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Bass Drum Dealer](https://open.spotify.com/album/3dvoeqGXHBi695Wm6iqrYE) | 3:54 |
-| 272 | [Shangaladang](https://open.spotify.com/track/2wqoHZ3ku9ws6v60I8D2ff) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 3:08 |
+| 271 | [Shangaladang](https://open.spotify.com/track/2wqoHZ3ku9ws6v60I8D2ff) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 3:08 |
+| 272 | [Bass Drum Dealer](https://open.spotify.com/track/76MgXnVKDYSqjoZ8P8J8uu) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Bass Drum Dealer](https://open.spotify.com/album/3dvoeqGXHBi695Wm6iqrYE) | 3:54 |
 | 273 | [The Remedy](https://open.spotify.com/track/5UFXNBh3zX0Vo0rehAXlPk) | [Josh Krajcik](https://open.spotify.com/artist/0ngASMM5dPGOByz9QmIY7C) | [Blindly, Lonely, Lovely](https://open.spotify.com/album/7dugoBUZwtpVqnXo7rMTIh) | 4:26 |
 | 274 | [Runnin'](https://open.spotify.com/track/1ea2dRo2tSRhxMagoX7EWj) | [Nadine Coyle](https://open.spotify.com/artist/3fWTpVNnrGmdo0jMbsRsRf) | [Insatiable](https://open.spotify.com/album/0T3zANiTRRlO1J5rmGp3na) | 4:05 |
 | 275 | [Those Days](https://open.spotify.com/track/2MFZ0TXAD6FfLNYnpwdM1E) | [Taylor Berrett](https://open.spotify.com/artist/1tCanPo942hgj1AMNaGU88) | [Great Falls](https://open.spotify.com/album/3BBBzg7Gp3PuAw1uXYza9m) | 3:38 |
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 317 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 318 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcaHTAAAAABrAwsX6AiTAtzHZbV7vWEa`
+Snapshot ID: `AcaM7AAAAAAP1ibCSwUhhsg4wRoWSkl7`

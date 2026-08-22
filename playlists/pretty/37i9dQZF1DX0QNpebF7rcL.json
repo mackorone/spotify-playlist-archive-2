@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Ruthie Foster",
-  "num_followers": 158137,
+  "num_followers": 158168,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANx9yvcDP86u1bTQEaXnDACmt2Km",
+  "snapshot_id": "AAAAAHIdC/59K7qNyvq3BvmvYjR9MLn6",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:00:23",
+      "album": {
+        "name": "The Breakdown",
+        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Take 6",
+          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+        }
+      ],
+      "duration_ms": 282581,
+      "name": "They Don\u2019t Make \u2019Em Like They Used to (feat. Take 6)",
+      "url": "https://open.spotify.com/track/4jLOt63posrIQXjap1muX3"
+    },
     {
       "added_at": "2026-08-14 04:00:37",
       "album": {

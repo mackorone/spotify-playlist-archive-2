@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-621 songs - 1 day 7 hr 14 min
+622 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-07-06 | 2025-02-22 |
 | [All In](https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Burnout \(Deluxe\)](https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7) | 3:36 | 2026-02-20 |  |
 | [All My Friends](https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Big Ole Album Vol\. 1](https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg) | 3:01 | 2025-07-07 |  |
+| [All or Nothing](https://open.spotify.com/track/10A8idGyFoxYjRHlL08UGP) | [RODERIK](https://open.spotify.com/artist/6ZWEU3cIwl4EdCVRaeLtZS) | [All or Nothing](https://open.spotify.com/album/24DUTjkvAU6WUd7vnxrPAk) | 3:05 | 2026-07-24 |  |
 | [All This Time](https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [All This Time](https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30) | 2:48 | 2024-05-10 | 2025-05-14 |
 | [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 | 2024-02-05 | 2024-02-24 |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-14 | 2024-11-19 |
@@ -200,7 +201,7 @@
 | [First to Fake It](https://open.spotify.com/track/0bmwuoJqTKoMwAEO7VRBXy) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [First to Fake It](https://open.spotify.com/album/1K2jEvzCM5kqH5TvRT2uTK) | 2:40 | 2021-12-20 | 2022-06-15 |
 | [Flip It](https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Flip It](https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE) | 3:08 | 2022-10-13 | 2022-11-13 |
 | [For Me This Is Heaven](https://open.spotify.com/track/52TEZQ5bTDa5qhnHD0hLQb) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity: Phoenix Sessions](https://open.spotify.com/album/6mnGRO87UFiKOoHL3BezZ7) | 4:03 | 2021-12-20 | 2022-06-15 |
-| [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 | 2025-02-21 |  |
+| [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 | 2025-02-21 | 2026-08-22 |
 | [Free Yourself](https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Free Yourself](https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8) | 2:25 | 2026-07-17 |  |
 | [Friendzone](https://open.spotify.com/track/2TIsg3maE0ssdgjsc8qh8O) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Friendzone](https://open.spotify.com/album/7umNabuZvQNXFIgB2CkKKQ) | 3:10 | 2022-04-04 | 2023-02-18 |
 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 | 2022-10-13 | 2023-01-30 |

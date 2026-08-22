@@ -4,7 +4,7 @@
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-129 songs - 10 hr 6 min
+130 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Gottes Zeit ist die allerbeste Zeit, Sonatina az "Actus tragicus"\-ból, BWV 106](https://open.spotify.com/track/4SvoO5lHeDUIVYDpPF5YAO) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Márta Kurtág](https://open.spotify.com/artist/1S7UUjCyXGTB8L2TYVIhcX), [György Kurtág](https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E) | [Bach Eternal](https://open.spotify.com/album/3D7QDPIZdKkCbpS1msH6Mw) | 2:18 | 2020-09-04 | 2024-04-19 |
 | [Harpsichord Concerto No\. 5 in F Minor, BWV 1056: II\. Largo \- Arr\. for Solo Piano by Wilhelm Kempff](https://open.spotify.com/track/0q8tzHmi8QUtjY8iss0xmw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Vadim Chaimovich](https://open.spotify.com/artist/5EfeuEtilmCk8J49T35rqb) | [Bach: Harpsichord Concerto No\. 5 in F Minor, BWV 1056: II\. Largo \(Arr\. for Solo Piano by Wilhelm Kempff\)](https://open.spotify.com/album/4L0W0mJYu2l7Hnud2ZSKgl) | 4:00 | 2025-12-22 |  |
 | [Händel: Tema con Variazioni](https://open.spotify.com/track/7qgQ7VV7DGXZ0CTUHeW6GC) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Unfolding Lines](https://open.spotify.com/album/6t5pw5WCiQlpmo0aIkejXk) | 5:07 | 2026-04-10 |  |
+| [Ilhas Concertantes: II\. La Graciosa \- Live](https://open.spotify.com/track/7BD1XExWODtk6VsmZkgUGd) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Sérgio Assad](https://open.spotify.com/artist/4swcKk3MACehmkZYDvPr5z), [Alondra de la Parra](https://open.spotify.com/artist/1WsQ6agpH5ybgaryTl3gyP), [The Impossible Orchestra](https://open.spotify.com/artist/6nq0ITtXLvT6vKGgvWtER0) | [Assad: Ilhas Concertantes: II\. La Graciosa](https://open.spotify.com/album/3OCXX9LiOzrJBKdIZYIKhP) | 6:01 | 2026-08-21 |  |
 | [Innocence \- Nowhere Sessions](https://open.spotify.com/track/3y9YR3AVhOws7ayEXnsZJo) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Nowhere Sessions](https://open.spotify.com/album/1hpZNZUYan5cYkfgMq6GK4) | 2:31 | 2026-06-12 |  |
 | [Jesu, Joy of Man's Desiring, BWV 147/X \(Arr\. Figueroa for Chamber Orchestra\)](https://open.spotify.com/track/2XNpCyO5ER63K0yAjDlefv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Orpheus Chamber Orchestra](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) | [Orpheus Chamber Orchestra \- Baroque Highlights](https://open.spotify.com/album/2e0FIWorD7mcJNs573R4Zq) | 3:28 | 2020-09-04 |  |
 | [Komorebi](https://open.spotify.com/track/5fVXEeKxmXJiP7cyvdGEz5) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Komorebi](https://open.spotify.com/album/3WXXGWcMiVsri5wgvsuEGT) | 1:48 | 2026-05-15 |  |

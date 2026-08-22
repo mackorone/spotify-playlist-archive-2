@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Hyldon",
+  "description": "As belas novidades da MPB. Foto: Mariana Volker",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -7273,6 +7273,28 @@
     },
     {
       "album": {
+        "name": "Dr\u00e3o",
+        "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
+      },
+      "artists": [
+        {
+          "name": "Trio Mana Flor",
+          "url": "https://open.spotify.com/artist/6ukYLqyY9U2iLEzikHCkNT"
+        },
+        {
+          "name": "M\u00e3eana",
+          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205415,
+      "name": "Dr\u00e3o",
+      "url": "https://open.spotify.com/track/3iULRVHchU7ARgxHrIzsTS"
+    },
+    {
+      "album": {
         "name": "Dr\u00e3o (Remasterizado)",
         "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
       },
@@ -8885,6 +8907,24 @@
     },
     {
       "album": {
+        "name": "Inofensiva Flor",
+        "url": "https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158731,
+      "name": "Fera Domesticada",
+      "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
+    },
+    {
+      "album": {
         "name": "Festa de Magia",
         "url": "https://open.spotify.com/album/2ePHdcvNcavRLDMwUqRgGw"
       },
@@ -9398,6 +9438,32 @@
       "duration_ms": 172258,
       "name": "Fullg\u00e1s",
       "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+    },
+    {
+      "album": {
+        "name": "Futuro Fruto",
+        "url": "https://open.spotify.com/album/1ScLvaQJbDZGj3cTjRVDQc"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Segreto",
+          "url": "https://open.spotify.com/artist/28pxSg0WMlowA3haXnDmli"
+        },
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        },
+        {
+          "name": "Loretta",
+          "url": "https://open.spotify.com/artist/3xdzF7iufg0uaMhRs4Ychr"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134341,
+      "name": "Futuro Fruto",
+      "url": "https://open.spotify.com/track/7BAi4V7nTi5NCDXLXvBwOt"
     },
     {
       "album": {
@@ -11761,6 +11827,24 @@
     },
     {
       "album": {
+        "name": "Reconstruir / Mancha de Dend\u00ea",
+        "url": "https://open.spotify.com/album/5rcaJoROklX83yCv1YPKsC"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176409,
+      "name": "Mancha de Dend\u00ea",
+      "url": "https://open.spotify.com/track/6ilAuzERZj7AnA2vGcnScQ"
+    },
+    {
+      "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
@@ -12596,7 +12680,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 238250,
       "name": "Memento",
       "url": "https://open.spotify.com/track/62wpMObmC8YYekio1XDY2y"
@@ -13492,7 +13576,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 314357,
       "name": "M\u00edstica (Agora)",
       "url": "https://open.spotify.com/track/4xshn2BR775ekAjODe6EfG"
@@ -21211,6 +21295,28 @@
     },
     {
       "album": {
+        "name": "ContraTempo",
+        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192519,
+      "name": "Sinto",
+      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
+    },
+    {
+      "album": {
         "name": "Sobre N\u00f3s",
         "url": "https://open.spotify.com/album/4ISIv55VN8nA9IlnGdeUEW"
       },
@@ -21834,7 +21940,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 155302,
       "name": "S\u00f3 Quero Te Amar",
       "url": "https://open.spotify.com/track/5AKthff2UBBcZn5P288SBr"
@@ -22930,7 +23036,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 238000,
       "name": "Todo Sempre",
       "url": "https://open.spotify.com/track/5u1l5PBoTZDZbqwfgJA6dP"
@@ -24215,6 +24321,28 @@
     },
     {
       "album": {
+        "name": "Varandas",
+        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223680,
+      "name": "Varandas",
+      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
+    },
+    {
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -24298,7 +24426,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 185238,
       "name": "veneza",
       "url": "https://open.spotify.com/track/52TmF4X55FgLoGNoclyxre"
@@ -24564,7 +24692,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 219989,
       "name": "Vida Maneira",
       "url": "https://open.spotify.com/track/4fPgkMghOSkBOJmTyImOBW"
@@ -25206,7 +25334,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 202555,
       "name": "\u00c1frica Em Mim",
       "url": "https://open.spotify.com/track/7qkHJZGB3s2jAXgTBAmbiQ"
@@ -25418,6 +25546,24 @@
       "duration_ms": 245666,
       "name": "\u00c9 Preciso Perdoar",
       "url": "https://open.spotify.com/track/0krzUBNYlpOtWN9alUDP3r"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Segredo",
+        "url": "https://open.spotify.com/album/1APuWL3FkCtKXZsiInnDMY"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173100,
+      "name": "\u00c9 Segredo",
+      "url": "https://open.spotify.com/track/6st5PHzmcwv6XlDyEHqHbJ"
     },
     {
       "album": {

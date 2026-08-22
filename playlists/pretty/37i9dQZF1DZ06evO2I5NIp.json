@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 6007,
+  "num_followers": 6008,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAC8gKYDwHzjz3Sh+i2MXMAH",
+  "snapshot_id": "aoZDgAAAAADDkyYeNq7kGcS64UJ61IWB",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 254776,
-      "name": "Tough Mother",
-      "url": "https://open.spotify.com/track/2X6TcgwbtvKLk6nXWySAOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morgan Freeman's Symphonic Blues Experience",
         "url": "https://open.spotify.com/album/2pCUARTi6tBF0hMZtTz5ox"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 221546,
       "name": "Traveling Riverside Blues",
       "url": "https://open.spotify.com/track/1q6a5AZllhZb7jIM7ToThW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 254776,
+      "name": "Tough Mother",
+      "url": "https://open.spotify.com/track/2X6TcgwbtvKLk6nXWySAOB"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 223400,
-      "name": "Big Lovin' Woman",
-      "url": "https://open.spotify.com/track/2RTCqxVDyxAkAonUeF7EDh"
+      "duration_ms": 235893,
+      "name": "Suspicion",
+      "url": "https://open.spotify.com/track/54GemqkThOyu7uX0YEMMdI"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Outskirts Of Love",
-      "url": "https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 228066,
       "name": "The Push I Need",
       "url": "https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Outskirts Of Love",
+      "url": "https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw"
     },
     {
       "added_at": null,

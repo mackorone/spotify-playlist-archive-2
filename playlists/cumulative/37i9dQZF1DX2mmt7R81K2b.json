@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/2iFHutm5pjfvxp6kLW3ffg"
+      },
+      "artists": [
+        {
+          "name": "Fuse",
+          "url": "https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462266,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1AHmeUQfmNrrdeoHrokndw"
+    },
+    {
+      "album": {
         "name": "Marzamemi",
         "url": "https://open.spotify.com/album/3DAQwOi0le2C5l9RgbCiry"
       },

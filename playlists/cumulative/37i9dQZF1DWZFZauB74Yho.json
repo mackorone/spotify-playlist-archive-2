@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "10,000 Miles From a Friend",
+        "url": "https://open.spotify.com/album/045cbYblo7x4Ir4vOElCfk"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306462,
+      "name": "10,000 Miles From a Friend",
+      "url": "https://open.spotify.com/track/6TIiTVfOnsg3oaxw8GohHV"
+    },
+    {
+      "album": {
         "name": "Campfire Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/6fayQ7T8NS24wUaKTe85jM"
       },
@@ -1080,6 +1098,24 @@
       "duration_ms": 203141,
       "name": "Bluefield Mountain Wind",
       "url": "https://open.spotify.com/track/5r4X6eiwkdXXsQOon6awnY"
+    },
+    {
+      "album": {
+        "name": "Fifty Years of Clown School",
+        "url": "https://open.spotify.com/album/3Q1sQBPl7zQgfpj7o7GNmD"
+      },
+      "artists": [
+        {
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234927,
+      "name": "Bluegrass Country Club",
+      "url": "https://open.spotify.com/track/5uflODcYkr4F5DOQl2wqNX"
     },
     {
       "album": {
@@ -2890,7 +2926,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 180084,
       "name": "Fifty Years of Clown School",
       "url": "https://open.spotify.com/track/4aukzvlumumfmV8EX1sKus"
@@ -3126,7 +3162,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 385441,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/3o0TGciPBK3SLVBT0q0i29"
@@ -3843,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "High Hoping",
+        "url": "https://open.spotify.com/album/0thUyC0fFemucdUPT9l3cK"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205780,
+      "name": "High Hoping",
+      "url": "https://open.spotify.com/track/6ItSQmtHLj7tuTWs1obPv9"
+    },
+    {
+      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/0iJRhOqdyE4arCftukw6CN"
       },
@@ -4000,7 +4054,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 300758,
       "name": "How A Muse Gets By",
       "url": "https://open.spotify.com/track/66XDaLicNv3UUQFMiL05Ij"
@@ -4600,7 +4654,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 180040,
       "name": "If You're Gonna Be Dumb, You Gotta Be Tough (from jackass: best and last)",
       "url": "https://open.spotify.com/track/4fDZIUFr4ntAQvqCHCvl3k"
@@ -9000,6 +9054,28 @@
       "duration_ms": 140000,
       "name": "Tennessee Hound Dog",
       "url": "https://open.spotify.com/track/3CqcTeCtBPLazFandOSy9b"
+    },
+    {
+      "album": {
+        "name": "That Guy",
+        "url": "https://open.spotify.com/album/6u7hgMIM4FuHZlWRVTq7KZ"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        },
+        {
+          "name": "Kym Warner",
+          "url": "https://open.spotify.com/artist/6tNhp7ssvjOerCX5JAuMBS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232613,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/5qSBZwInMyHeCwwRZtgRQj"
     },
     {
       "album": {

@@ -1,13 +1,73 @@
 {
-  "description": "New jazz for open minds. Cover: Dana and Alden",
-  "num_followers": 1049707,
+  "description": "New jazz for open minds. Cover: Kiefer",
+  "num_followers": 1049688,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHnYiJNqLdDqxEHBAxJpavo2ql3g",
+  "snapshot_id": "AAAAAHUegBHnCUPp5Qiyv7OGhCMPZeqX",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:00:22",
+      "album": {
+        "name": "Memory Bomb",
+        "url": "https://open.spotify.com/album/617gOMW4LhxYZi5BE6s4B1"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        },
+        {
+          "name": "Flanafi",
+          "url": "https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d"
+        },
+        {
+          "name": "Shibo",
+          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
+        }
+      ],
+      "duration_ms": 230645,
+      "name": "Memory Bomb (feat. Walter Smith III, Flanafi, Shibo)",
+      "url": "https://open.spotify.com/track/3d9j2wiKls3PpfRlFCQliw"
+    },
+    {
+      "added_at": "2026-08-21 04:00:22",
+      "album": {
+        "name": "Feels Like Destiny",
+        "url": "https://open.spotify.com/album/5MzQ9WsAEm6gg8O9pQX073"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 297609,
+      "name": "The Fifth Floor",
+      "url": "https://open.spotify.com/track/6HpnZDs4eEX8nC2dBVbQ97"
+    },
+    {
+      "added_at": "2026-08-21 04:00:22",
+      "album": {
+        "name": "Secure the Bag",
+        "url": "https://open.spotify.com/album/5C2TVIxpDsyRMRz9Dlr9a8"
+      },
+      "artists": [
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "duration_ms": 390308,
+      "name": "Secure the Bag",
+      "url": "https://open.spotify.com/track/6uSG3r0yQMA5QVNwPomgf4"
+    },
     {
       "added_at": "2026-08-14 04:01:03",
       "album": {
@@ -559,22 +619,6 @@
     {
       "added_at": "2026-06-26 04:00:18",
       "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/2J7s7Zo6TNPeKSYnAVz2KF"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 399992,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/4j95thWu0vNFOB1qWKkxV9"
-    },
-    {
-      "added_at": "2026-06-26 04:00:18",
-      "album": {
         "name": "SNEAKPEAK feat. Shing02",
         "url": "https://open.spotify.com/album/4T8yFAKBzi7HfUCpaph1sC"
       },
@@ -711,34 +755,6 @@
       "duration_ms": 116000,
       "name": "Out of Range",
       "url": "https://open.spotify.com/track/2Yk0XC7TvfevTBHyOjk2lt"
-    },
-    {
-      "added_at": "2025-11-21 05:47:14",
-      "album": {
-        "name": "the decoupling of the nuclear family FEAT HAWA, GHOSTFACE KILLAH & RAPSODY",
-        "url": "https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE"
-      },
-      "artists": [
-        {
-          "name": "_BY.ALEXANDER",
-          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
-        },
-        {
-          "name": "HAWA",
-          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 229220,
-      "name": "the decoupling of the nuclear family FEAT HAWA, GHOSTFACE KILLAH & RAPSODY",
-      "url": "https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT"
     },
     {
       "added_at": "2026-01-23 05:00:34",
@@ -1103,30 +1119,6 @@
       "duration_ms": 420630,
       "name": "Dawn Patrol",
       "url": "https://open.spotify.com/track/0k0iArgkcuCIbug49dhrzR"
-    },
-    {
-      "added_at": "2025-11-21 05:47:14",
-      "album": {
-        "name": "Somni",
-        "url": "https://open.spotify.com/album/72Tr4gYIAko7djIwgfS4i1"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 652858,
-      "name": "It Stays With You",
-      "url": "https://open.spotify.com/track/3XckH9nZTF2Y2gp6UoMotk"
     },
     {
       "added_at": "2026-05-01 04:11:09",

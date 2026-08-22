@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Uncle Ben
 
-191 songs - 13 hr 17 min
+192 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,10 +167,11 @@
 | [เสื้อผ้า \(Things\)](https://open.spotify.com/track/0jlUg5VpNwTmVBIUfaIrX7) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [เสื้อผ้า \(Things\)](https://open.spotify.com/album/1xffkUWEw0zOOms7SRZ7Uu) | 4:42 | 2026-07-10 | 2026-08-01 |
 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 | 2025-12-07 |  |
 | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/track/6nGCZQxuPyeLLMZLt9oIr0) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/album/4WuZYQx6xvRxwvhlNqroZl) | 4:03 | 2025-07-18 |  |
-| [เห็นหน้าเธอแล้วอยากแต่งงาน](https://open.spotify.com/track/0Tjiv7NXXaSZsLoGetuuYm) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [เห็นหน้าเธอแล้วอยากแต่งงาน](https://open.spotify.com/album/79fOgqBPYeDSoawbxZ4Ss4) | 3:44 | 2026-08-07 |  |
+| [เห็นหน้าเธอแล้วอยากแต่งงาน](https://open.spotify.com/track/0Tjiv7NXXaSZsLoGetuuYm) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [เห็นหน้าเธอแล้วอยากแต่งงาน](https://open.spotify.com/album/79fOgqBPYeDSoawbxZ4Ss4) | 3:44 | 2026-08-07 | 2026-08-22 |
 | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/track/1WJ5tWjTdfywqMANcu7jXi) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC) | 4:34 | 2024-06-27 | 2025-05-17 |
 | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 | 2024-06-27 | 2025-11-01 |
 | [แด่ทุกความหวัง](https://open.spotify.com/track/0vnuqB3psAS2HImfo0C3BD) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [แด่ทุกความหวัง](https://open.spotify.com/album/332NqRo6dLl5YgjpYfN96P) | 3:53 | 2024-10-18 | 2025-03-01 |
+| [แด่เพียงผู้เดียว \(If\)](https://open.spotify.com/track/3tPUesIF4izzZw5Xe5MuNr) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [แด่เพียงผู้เดียว \(If\)](https://open.spotify.com/album/4HrU9IKZvBN8MZMFz5mbR1) | 5:05 | 2026-08-21 |  |
 | [แบบที่ฉันเคยทำ](https://open.spotify.com/track/3lR3TCz0rBkXxL9XTpBMNB) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [แบบที่ฉันเคยทำ](https://open.spotify.com/album/4obX6QrYrEGPI2LgVVWnoL) | 4:16 | 2024-06-27 | 2025-05-02 |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-27 | 2024-07-27 |
 | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt) | 3:30 | 2025-11-21 | 2026-02-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,572 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,579 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [Piscine de billets avec débordement](https://open.spotify.com/track/6aWTFEVWMVPUccV0kqQqAX) | [Lexsaburo](https://open.spotify.com/artist/4gdGGF5b5CmhxYophp5yRz), [Oni Kira](https://open.spotify.com/artist/4whmrth50Dva4FQMy3qAv4) | [Tivoli](https://open.spotify.com/album/2a4RR5W80WHsCWK0jJhW78) | 2:22 |
 | 40 | [endless blooming](https://open.spotify.com/track/1rSMBhv5oAKhHxprdZf21G) | [Kaba](https://open.spotify.com/artist/18BCzFFTNty1NeevlaCjuN), [Hyas](https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA), [Goldie B](https://open.spotify.com/artist/0jFDyXLQ2Dx2TcjDOFZ0dv) | [endless blooming](https://open.spotify.com/album/7JrZPjTyVE4A0Vn9Qiq59E) | 3:49 |
 
-Snapshot ID: `AAAAAPU30JfYdL6TFcy+nBiuvx1lz2lE`
+Snapshot ID: `AAAAALr6vIjcIBPEH7KReK6Z0lQtB2e4`

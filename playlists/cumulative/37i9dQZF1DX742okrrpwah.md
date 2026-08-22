@@ -4,7 +4,7 @@
 
 > Joseph Kamel x Vitaa, Tayc, Sam Smith et Gradur au top des nouveautés de la semaine !
 
-10,593 songs - 22 day 19 hr 31 min
+10,594 songs - 22 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1625,6 +1625,7 @@
 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 | 2025-01-09 | 2025-01-17 |
 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-22 | 2024-08-30 |
 | [Catamaran](https://open.spotify.com/track/5eLWNJgc2WKS1rSyQlukkk) | [Zé](https://open.spotify.com/artist/4HqcsYNS7yVElPHKULpbqu) | [Catamaran](https://open.spotify.com/album/6YSXwpeH1GaP59OMUmeunl) | 3:18 | 2025-09-04 | 2025-09-12 |
+| [Catch a Fire](https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i) | [Giv Dem Wha Dey Wan](https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf) | 2:26 | 2026-08-20 |  |
 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 | 2024-09-26 | 2024-10-04 |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-03 | 2025-04-11 |
 | [Catch Ya In The Lie](https://open.spotify.com/track/6b7zE30oR2mhX985kZ4ZEZ) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Le'Asha](https://open.spotify.com/artist/4IJLRIaMO0OcXa4mCjHVfT) | [Catch Ya In The Lie](https://open.spotify.com/album/2CKBLg73Zbk3EHl7x2ipTx) | 2:10 | 2024-08-29 | 2024-09-06 |
@@ -3221,6 +3222,7 @@
 | [fly](https://open.spotify.com/track/2ylwgKfxMsZRdjmOqPvzNH) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [journée à paris](https://open.spotify.com/album/05ed2hnhQTx5YqZRCNqbJs) | 2:23 | 2024-05-30 | 2024-06-07 |
 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2024-08-08 | 2024-08-16 |
 | [Fly Away](https://open.spotify.com/track/4FdN9rbYlMuJEoj1FNjwQY) | [INES VITALE](https://open.spotify.com/artist/2gTyXb4nqIW3Efsk2xydOT) | [Fly Away](https://open.spotify.com/album/7DXxuoVoUG791Kai1OtojD) | 3:34 | 2024-06-20 | 2024-06-28 |
+| [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 | 2026-08-20 |  |
 | [Flying](https://open.spotify.com/track/6McxWlzA4RqRJ6Cv7RB68I) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Flying](https://open.spotify.com/album/1M2ENVTvOvVshu6Td989QU) | 2:25 | 2026-07-02 | 2026-07-10 |
 | [Flying Blue](https://open.spotify.com/track/7JGEUwyfP2oH2nbMllxeo8) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Flying Blue](https://open.spotify.com/album/2n2zlLuUnCKLgjQLPLEsMS) | 2:40 | 2025-09-11 | 2025-09-19 |
 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 | 2025-11-13 | 2025-11-21 |
@@ -9621,7 +9623,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
 | [TP sur TP](https://open.spotify.com/track/5pEftKLE1dyuOLTewNQZeX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:06 | 2025-12-04 | 2025-12-12 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-05 |
-| [Track 6](https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Giv Dem Wha Dey Wan](https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf) | 0:00 | 2026-08-20 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 | 2026-07-17 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [TRAHISON POUR DU PAPERS](https://open.spotify.com/track/386lC3S1fta3sRqXai233D) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [THUG CEREMONY](https://open.spotify.com/album/7HXLcrvfG2UXJcZFLdKfB5) | 2:29 | 2026-01-15 | 2026-01-23 |

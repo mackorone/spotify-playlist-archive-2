@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "the best underground club tracks \ud83d\udcaf feat. Nikki Nair \ud83d\udcaf",
+  "description": "the best underground club tracks \u2764\ufe0f\u200d\ud83d\udd25 ft. BIIANCO \u2764\ufe0f\u200d\ud83d\udd25",
   "name": "Club Culture",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 330240,
       "name": "12 Tsuki",
       "url": "https://open.spotify.com/track/3RJRG34MYmh028ba4zUf7g"
@@ -4822,7 +4822,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 233600,
       "name": "D.N.A (Dance all night)",
       "url": "https://open.spotify.com/track/0Nd1smv0iYOxfdOKrXXGQT"
@@ -4982,7 +4982,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 226866,
       "name": "Dark Web Pinger",
       "url": "https://open.spotify.com/track/2b9mN6jNFYJnY8ADEv6U6Y"
@@ -5156,6 +5156,24 @@
       "duration_ms": 292173,
       "name": "DEEJAY",
       "url": "https://open.spotify.com/track/5bcsC9QqXSd8Foda9My7vj"
+    },
+    {
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/1NclIHpPQr0oLi8A8S8QOy"
+      },
+      "artists": [
+        {
+          "name": "Myriad",
+          "url": "https://open.spotify.com/artist/1qxpyMBSwdlLyHN85IeZfu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342719,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/6nq4KTBV7CwgPXr7nJU3iv"
     },
     {
       "album": {
@@ -5464,7 +5482,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 224085,
       "name": "DIP TEK",
       "url": "https://open.spotify.com/track/3oOOfFJGEkxaErbBFHQJyp"
@@ -5834,7 +5852,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 290539,
       "name": "Drama",
       "url": "https://open.spotify.com/track/1acvvAbrCIA8U1ts13n8Ux"
@@ -6208,6 +6226,32 @@
       "duration_ms": 333301,
       "name": "Echoed Dafnino",
       "url": "https://open.spotify.com/track/5j1easQ6EXdPWE8DGF7CEo"
+    },
+    {
+      "album": {
+        "name": "Echoed Dafnino (Pearson Sound Remix)",
+        "url": "https://open.spotify.com/album/4DCNHSfidxHcFpK61aPraT"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        },
+        {
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
+        },
+        {
+          "name": "Pearson Sound",
+          "url": "https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309059,
+      "name": "Echoed Dafnino - Pearson Sound Remix",
+      "url": "https://open.spotify.com/track/67Si0YFqgMomIJNbnr88Ga"
     },
     {
       "album": {
@@ -7198,7 +7242,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 218786,
       "name": "Flauta Nahua",
       "url": "https://open.spotify.com/track/5rGZlI9JXIMlMqp3hqAWhK"
@@ -7216,7 +7260,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 247820,
       "name": "flight fm",
       "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
@@ -11456,7 +11500,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 227757,
       "name": "Lime Tikka",
       "url": "https://open.spotify.com/track/64LhB2eoPkeY582Ys0D7eE"
@@ -11932,7 +11976,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 274512,
       "name": "Mangled",
       "url": "https://open.spotify.com/track/68Dlx17lLlC11CexGoA5P3"
@@ -12300,7 +12344,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 229708,
       "name": "MEL\u00d4 DO SPEED",
       "url": "https://open.spotify.com/track/2aA0dFofIe4ikWBkxdasbu"
@@ -12692,7 +12736,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 236417,
       "name": "Moving",
       "url": "https://open.spotify.com/track/4DO0st2jNIC8Rp02wDRLZB"
@@ -13008,6 +13052,28 @@
       "duration_ms": 166214,
       "name": "Needle Guy (Nick Le\u00f3n Remix)",
       "url": "https://open.spotify.com/track/5nRwtnmXZrtznLlYxsJLtM"
+    },
+    {
+      "album": {
+        "name": "Nemesi",
+        "url": "https://open.spotify.com/album/6rKju95okmnarLyXSDntGs"
+      },
+      "artists": [
+        {
+          "name": "HLRTY",
+          "url": "https://open.spotify.com/artist/3d8yEl9r4C6FKNoqZ6PykY"
+        },
+        {
+          "name": "COIDO",
+          "url": "https://open.spotify.com/artist/3pY8LTXZvim2leLtFv1jej"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248760,
+      "name": "Nemesi",
+      "url": "https://open.spotify.com/track/1kxNIAq82ssplySmYOOiba"
     },
     {
       "album": {
@@ -14580,7 +14646,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 288500,
       "name": "Petty Vengeance",
       "url": "https://open.spotify.com/track/6ohcbNDyQKBgemKFZJRiEX"
@@ -15693,6 +15759,24 @@
     },
     {
       "album": {
+        "name": "Ravengue",
+        "url": "https://open.spotify.com/album/3gS92wZuXmwe3h4rfjRfOC"
+      },
+      "artists": [
+        {
+          "name": "Keynoise",
+          "url": "https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Ravengue",
+      "url": "https://open.spotify.com/track/6JMrugZ8uJc4xv16hH1MJ1"
+    },
+    {
+      "album": {
         "name": "Razzclart",
         "url": "https://open.spotify.com/album/7pb4GNvMnFSZiop8nebPqo"
       },
@@ -16366,7 +16450,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 126404,
       "name": "S.C.M.",
       "url": "https://open.spotify.com/track/6lAqESDdO468t5psntzN8m"
@@ -19394,7 +19478,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 216774,
       "name": "think & dream",
       "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
@@ -19510,6 +19594,24 @@
       "duration_ms": 168000,
       "name": "Through Sterile Appropriation",
       "url": "https://open.spotify.com/track/16C66rWnvK0XRdnx23XZ7y"
+    },
+    {
+      "album": {
+        "name": "TI",
+        "url": "https://open.spotify.com/album/6fCvpJNR1MQGdg24OjApfP"
+      },
+      "artists": [
+        {
+          "name": "S.3.R",
+          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "TI",
+      "url": "https://open.spotify.com/track/3vJ5CyqE3ehopG1SZSSbG5"
     },
     {
       "album": {
@@ -20058,7 +20160,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 192727,
       "name": "Tweetaholic",
       "url": "https://open.spotify.com/track/745yJ3uyueMu55w9q0ilNP"
@@ -21311,6 +21413,24 @@
     },
     {
       "album": {
+        "name": "where_the_drummer_at?",
+        "url": "https://open.spotify.com/album/5IxKj56NYEWf1LqSqkhhNq"
+      },
+      "artists": [
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195208,
+      "name": "where_the_drummer_at?",
+      "url": "https://open.spotify.com/track/6pwFszXCXChNmckOdoJA8c"
+    },
+    {
+      "album": {
         "name": "While We're Young",
         "url": "https://open.spotify.com/album/6pc7rAgyCg8SehOOOwFAnH"
       },
@@ -21952,7 +22072,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 237945,
       "name": "Yessirski",
       "url": "https://open.spotify.com/track/092513WnBj0suEbonpQ0wu"

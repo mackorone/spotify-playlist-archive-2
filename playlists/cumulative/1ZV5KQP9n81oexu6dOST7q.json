@@ -2009,6 +2009,28 @@
     },
     {
       "album": {
+        "name": "Lucky Ones",
+        "url": "https://open.spotify.com/album/4wkd115wLpSfGKS4bFlQsx"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "carteblanche",
+          "url": "https://open.spotify.com/artist/6laKnr07BfCDke48edvIPG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/4xStcEBEoOYfBH0fTMM5hN"
+    },
+    {
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
       },
@@ -3168,6 +3190,28 @@
       "duration_ms": 187031,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+    },
+    {
+      "album": {
+        "name": "Tot Sluit",
+        "url": "https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg"
+      },
+      "artists": [
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        },
+        {
+          "name": "Amelie",
+          "url": "https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Tot Sluit",
+      "url": "https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU"
     },
     {
       "album": {

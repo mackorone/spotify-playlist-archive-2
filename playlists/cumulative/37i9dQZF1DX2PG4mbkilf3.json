@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with THEHONESTGUY from Brampton, ON.",
+  "description": "Your guide to R&B in Canada, with Zenesoul from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -2547,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/3RBTfn38vkZuE2XQ91ja7X"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144951,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1tgtF6WzgYOPaIWKKhoBgC"
+    },
+    {
+      "album": {
         "name": "Bad Bad",
         "url": "https://open.spotify.com/album/1bQvvahTarm2ZJN7iFHr5A"
       },
@@ -3424,7 +3442,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 151578,
       "name": "bird of mine",
       "url": "https://open.spotify.com/track/0IGCDWxVTtu4g8c0YmQhOq"
@@ -3808,7 +3826,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 155744,
       "name": "Body",
       "url": "https://open.spotify.com/track/1e7b15m123NPgA9XFBHIBQ"
@@ -4236,7 +4254,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 128634,
       "name": "BURN LIKE FYA",
       "url": "https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13"
@@ -6662,6 +6680,28 @@
       "duration_ms": 178509,
       "name": "Did U Get The Flowers?",
       "url": "https://open.spotify.com/track/2qLmFVAnKfamULrFnjImfg"
+    },
+    {
+      "album": {
+        "name": "Didn't Mean To Turn You On (with Rochelle Jordan)",
+        "url": "https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Didn't Mean To Turn You On - with Rochelle Jordan",
+      "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
     },
     {
       "album": {
@@ -10848,7 +10888,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 242924,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/4h78oPMoSU1khs6uhDGUyZ"
@@ -14333,6 +14373,24 @@
     },
     {
       "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/3HiW4sq4kAu58RkA3SW6dS"
+      },
+      "artists": [
+        {
+          "name": "Eric Ryan",
+          "url": "https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231874,
+      "name": "JADED",
+      "url": "https://open.spotify.com/track/4ySYjhVFFtn83HFhhQ1HKc"
+    },
+    {
+      "album": {
         "name": "VELVET SOUL: SIDE A",
         "url": "https://open.spotify.com/album/7lDhFYEScJqHq9UUEoxoct"
       },
@@ -15689,6 +15747,28 @@
     },
     {
       "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1S4qisFcpxXZwMH8cZZz9t"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        },
+        {
+          "name": "Yzabo",
+          "url": "https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235822,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/3KV99XGW5xzq8wO0lbzbRO"
+    },
+    {
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
@@ -16582,7 +16662,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 310053,
       "name": "Love Comes Thru",
       "url": "https://open.spotify.com/track/526J8PWQ3n1bd4vdL7wILQ"
@@ -16742,6 +16822,24 @@
       "duration_ms": 166200,
       "name": "Love language",
       "url": "https://open.spotify.com/track/7ps2R27n2YEP8SRsRaXkqA"
+    },
+    {
+      "album": {
+        "name": "Love Like Her",
+        "url": "https://open.spotify.com/album/40Wp2QGzDk4y5zSsYyYOyf"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126530,
+      "name": "Love Like Her",
+      "url": "https://open.spotify.com/track/3w7rR5UzrbJyn3sK28qYkD"
     },
     {
       "album": {
@@ -18544,7 +18642,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 246808,
       "name": "Mr. Right",
       "url": "https://open.spotify.com/track/42jJJ9lmgR5pLxVjm4Sckn"
@@ -22537,6 +22635,28 @@
     },
     {
       "album": {
+        "name": "Preacherman",
+        "url": "https://open.spotify.com/album/5rIF3TL9ToRbHDQDmcVANn"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132489,
+      "name": "Preacherman",
+      "url": "https://open.spotify.com/track/19PCI3AINRtzUzXwFfTIOF"
+    },
+    {
+      "album": {
         "name": "Precious",
         "url": "https://open.spotify.com/album/7Mv6IVfkVlzxlyAihQspQK"
       },
@@ -24170,7 +24290,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 264000,
       "name": "RUDE",
       "url": "https://open.spotify.com/track/1flmYT9OoihHBytgH8YYYF"
@@ -26257,6 +26377,24 @@
     },
     {
       "album": {
+        "name": "SO NICE",
+        "url": "https://open.spotify.com/album/1PnvmMkZvd4dqidHYM2xEu"
+      },
+      "artists": [
+        {
+          "name": "AHSIA",
+          "url": "https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271699,
+      "name": "SO NICE",
+      "url": "https://open.spotify.com/track/3cQrfgbFE3Zvk7bkFzKAAw"
+    },
+    {
+      "album": {
         "name": "So Scandalous",
         "url": "https://open.spotify.com/album/7zx3zzLxKuz7YfuZOmFUzB"
       },
@@ -26452,6 +26590,24 @@
       "duration_ms": 194851,
       "name": "Some Nights",
       "url": "https://open.spotify.com/track/7dEj8MNDvefKvMuS4w8fwl"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159650,
+      "name": "Some of Your Love",
+      "url": "https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H"
     },
     {
       "album": {
@@ -27958,7 +28114,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 195851,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq"
@@ -28200,7 +28356,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 223520,
       "name": "Sweet Sensation",
       "url": "https://open.spotify.com/track/08lMm17NyaTxqE2pnyLNi8"
@@ -33144,6 +33300,24 @@
       "duration_ms": 96408,
       "name": "You Do You",
       "url": "https://open.spotify.com/track/0pQFEpe9ey17dMPEvAlVDR"
+    },
+    {
+      "album": {
+        "name": "Under the Same Sky",
+        "url": "https://open.spotify.com/album/0rXmFmuQm7cbb2NuPHF8lS"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161525,
+      "name": "You Found Her",
+      "url": "https://open.spotify.com/track/5JSyd3ormliZCoveePc63H"
     },
     {
       "album": {

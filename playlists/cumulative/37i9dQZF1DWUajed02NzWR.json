@@ -1199,6 +1199,36 @@
     },
     {
       "album": {
+        "name": "Assad: Ilhas Concertantes: II. La Graciosa",
+        "url": "https://open.spotify.com/album/3OCXX9LiOzrJBKdIZYIKhP"
+      },
+      "artists": [
+        {
+          "name": "Yamandu Costa",
+          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
+        },
+        {
+          "name": "S\u00e9rgio Assad",
+          "url": "https://open.spotify.com/artist/4swcKk3MACehmkZYDvPr5z"
+        },
+        {
+          "name": "Alondra de la Parra",
+          "url": "https://open.spotify.com/artist/1WsQ6agpH5ybgaryTl3gyP"
+        },
+        {
+          "name": "The Impossible Orchestra",
+          "url": "https://open.spotify.com/artist/6nq0ITtXLvT6vKGgvWtER0"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361000,
+      "name": "Ilhas Concertantes: II. La Graciosa - Live",
+      "url": "https://open.spotify.com/track/7BD1XExWODtk6VsmZkgUGd"
+    },
+    {
+      "album": {
         "name": "Nowhere Sessions",
         "url": "https://open.spotify.com/album/1hpZNZUYan5cYkfgMq6GK4"
       },

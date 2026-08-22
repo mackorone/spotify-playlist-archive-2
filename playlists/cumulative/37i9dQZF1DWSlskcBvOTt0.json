@@ -3420,7 +3420,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 208524,
       "name": "Blower",
       "url": "https://open.spotify.com/track/0fC67A99zxU0gzhLibyTsK"
@@ -7696,6 +7696,28 @@
       "duration_ms": 141467,
       "name": "Florianopolis",
       "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
+    },
+    {
+      "album": {
+        "name": "Flotando",
+        "url": "https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235795,
+      "name": "Flotando",
+      "url": "https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E"
     },
     {
       "album": {
@@ -18794,7 +18816,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 286229,
       "name": "Ride",
       "url": "https://open.spotify.com/track/71XJZeCmG14wFL58SNcQgd"
@@ -20614,6 +20636,32 @@
       "duration_ms": 384000,
       "name": "Sol",
       "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
+    },
+    {
+      "album": {
+        "name": "Solar Skin (feat. jasper.wav)",
+        "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "jasper.wav",
+          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Solar Skin (feat. jasper.wav)",
+      "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
     },
     {
       "album": {

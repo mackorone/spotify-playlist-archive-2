@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 137137,
       "name": "Apoco Si",
       "url": "https://open.spotify.com/track/2yeEao7S87uFnBvXXoj7Vb"
@@ -2144,6 +2144,36 @@
       "duration_ms": 166829,
       "name": "bb q paso contigo.mpeg",
       "url": "https://open.spotify.com/track/32yiSOgDYDc54n2bWG8uyT"
+    },
+    {
+      "album": {
+        "name": "bbylover",
+        "url": "https://open.spotify.com/album/3zyXb9htHDcUp7MOzhYgYB"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        },
+        {
+          "name": "Josa El Menor",
+          "url": "https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "Ikoniko",
+          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166281,
+      "name": "bbylover",
+      "url": "https://open.spotify.com/track/0JEjHYelV9RtP1TjDvkU4m"
     },
     {
       "album": {
@@ -4950,7 +4980,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 151304,
       "name": "CONTIGO",
       "url": "https://open.spotify.com/track/03AL8xQYFTZOojUAg8AM5c"
@@ -6384,7 +6414,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 170094,
       "name": "Dime Quien",
       "url": "https://open.spotify.com/track/1N4WuKgFenQkZ6MsweGXGL"
@@ -18395,6 +18425,28 @@
     },
     {
       "album": {
+        "name": "Ponte",
+        "url": "https://open.spotify.com/album/7Hj1Thk8qQPmKTw987UXsS"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Ponte",
+      "url": "https://open.spotify.com/track/3UceAWztKeghzo6ni26N8v"
+    },
+    {
+      "album": {
         "name": "BLESSS THE ALBUM",
         "url": "https://open.spotify.com/album/7F0lQmC0N6cW5S0AtoSyF6"
       },
@@ -19096,7 +19148,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 158400,
       "name": "Putiperreo",
       "url": "https://open.spotify.com/track/6J2bbCuI1gxlbyjUyIh8KS"
@@ -19514,6 +19566,32 @@
       "duration_ms": 187115,
       "name": "Quiere Q'",
       "url": "https://open.spotify.com/track/4iEzSD7nKccwynX40ivljp"
+    },
+    {
+      "album": {
+        "name": "QUIERE UN WINIPU",
+        "url": "https://open.spotify.com/album/2th0sCH9gSsBGZRrtVy7iO"
+      },
+      "artists": [
+        {
+          "name": "Jeidy TQM",
+          "url": "https://open.spotify.com/artist/4GLI6dlGcAbtJBX0AE3fYT"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Ezkaii",
+          "url": "https://open.spotify.com/artist/0iL5zvN0P2mMRHAbCuqabD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138207,
+      "name": "QUIERE UN WINIPU",
+      "url": "https://open.spotify.com/track/4Y75DVO6fvdwrzAgNOraEj"
     },
     {
       "album": {
@@ -24218,6 +24296,32 @@
       "duration_ms": 167960,
       "name": "Un Pacto",
       "url": "https://open.spotify.com/track/4WQnJ9yzHxpfTIoQf1GKra"
+    },
+    {
+      "album": {
+        "name": "Un Perreke",
+        "url": "https://open.spotify.com/album/1RcYr5Defl9uCWaquRvyzV"
+      },
+      "artists": [
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        },
+        {
+          "name": "Pablonick",
+          "url": "https://open.spotify.com/artist/1kad23CMVlaOX94J8GIwbO"
+        },
+        {
+          "name": "EZY AZZDI",
+          "url": "https://open.spotify.com/artist/7CW4A93ozwdreLzrPc2Ies"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133026,
+      "name": "Un Perreke",
+      "url": "https://open.spotify.com/track/6aI7GyDdPYMBAtivIwa8kg"
     },
     {
       "album": {

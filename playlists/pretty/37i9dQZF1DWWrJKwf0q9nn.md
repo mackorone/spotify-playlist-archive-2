@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Alesso
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,416 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,457 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 6 | [Arcadia](https://open.spotify.com/track/568sHVfdhdW55FWLBptScf) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Arcadia](https://open.spotify.com/album/2JXAsLoPlEknX2ejuNERZK) | 3:21 |
 | 7 | [Say Something](https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Say Something](https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i) | 3:48 |
 | 8 | [I Will Find You](https://open.spotify.com/track/3rhrqnBTJVocOAOFFPsYYf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [I Will Find You](https://open.spotify.com/album/00zVD6CI5uL5co5xzUjTS1) | 3:19 |
-| 9 | [Wild \(feat\. Louis du Sauzay\)](https://open.spotify.com/track/2zLCWBGX1cXMU8X4HXqtS8) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [Louis Du Sauzay](https://open.spotify.com/artist/06cHR0P90tGCKqQByCtiLJ) | [Wild \(feat\. Louis du Sauzay\)](https://open.spotify.com/album/5ZXPBKeTuO2XwCIf9SqNJm) | 2:30 |
+| 9 | [Wild \(feat\. Louis du Sauzay\)](https://open.spotify.com/track/2zLCWBGX1cXMU8X4HXqtS8) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [Louis du Sauzay](https://open.spotify.com/artist/06cHR0P90tGCKqQByCtiLJ) | [Wild \(feat\. Louis du Sauzay\)](https://open.spotify.com/album/5ZXPBKeTuO2XwCIf9SqNJm) | 2:30 |
 | 10 | [Good Girl](https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Good Girl](https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx) | 3:01 |
 | 11 | [Echoes From The 90s](https://open.spotify.com/track/7ImUOhb1xKibBXXJVZ7PK5) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Summum](https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw), [Atlantic Ocean](https://open.spotify.com/artist/33RLygRVVK3UShsvflkb5M) | [Echoes From The 90s](https://open.spotify.com/album/7mOkoTACtQ51YEOlW2Rv0D) | 3:15 |
 | 12 | [Something To Believe In](https://open.spotify.com/track/1w7Ni4oUar165on93oGiFT) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Something To Believe In](https://open.spotify.com/album/114BJdz5GPMZsDuUaZShtx) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 99 | [Moonblower](https://open.spotify.com/track/6IEJblHp8m40ceXwFw2bPw) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Descent](https://open.spotify.com/artist/2lkpWTHHz2wqjXk5cLTc4I), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Moonblower](https://open.spotify.com/album/5RHSQF9j9G1DOcJTSOLDMj) | 3:34 |
 | 100 | [You Make Me Feel Alive](https://open.spotify.com/track/7qyyRciWnIXp1Bv56xnFrm) | [Bobby & Djenko](https://open.spotify.com/artist/66FPEh7FWHOM30bckLmOux) | [Burning Up EP](https://open.spotify.com/album/0BaMRGO3uK8zIa6SESoVjq) | 3:47 |
 
-Snapshot ID: `AAAAAK6Zgb5JCocHvNQW4AbY9+napNZ2`
+Snapshot ID: `AAAAAOblHqC0aWM81NpzZ8TE93sWCh7u`

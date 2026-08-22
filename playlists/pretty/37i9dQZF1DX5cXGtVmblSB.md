@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,395 likes - 235 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,518 likes - 235 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 234 | [In Memory](https://open.spotify.com/track/6q3d1ppfIBSnCnjCmXMiVI) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [In Memory](https://open.spotify.com/album/4LVaqhni7Kz6hCCQmITrwh) | 2:33 |
 | 235 | [528hz Love Frequency](https://open.spotify.com/track/7mxLKVzvBUb0K6W8wKwBcx) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:46 |
 
-Snapshot ID: `AAAAAIcAQHdFKNTSD0pKvvdQjfDEEQTF`
+Snapshot ID: `AAAAAOWYtbZXRGMtSAev2EvBJAwV43bp`

@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65683,
+  "num_followers": 65685,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABCXbv2c/DCcyFyddRIAdkP",
+  "snapshot_id": "aoZDgAAAAACHvpNeAVKBCY8AWrIneLgy",
   "tracks": [
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 119156,
+      "name": "6:16am",
+      "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's Beautiful.",
         "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 334285,
       "name": "Days Are Getting Shorter",
       "url": "https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 119156,
-      "name": "6:16am",
-      "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
     },
     {
       "added_at": null,

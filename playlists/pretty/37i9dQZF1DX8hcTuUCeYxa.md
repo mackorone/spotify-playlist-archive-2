@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,940 likes - 89 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,969 likes - 89 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 7 | [Hound](https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Hound](https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT) | 4:27 |
 | 8 | [Don't Mess With Me](https://open.spotify.com/track/5UyDmtepxmd3K8cOTEqlr0) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Don't Mess With Me](https://open.spotify.com/album/7fNGYIwIf6gz2sXpb8qOTu) | 3:24 |
 | 9 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
-| 10 | [Track 6](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 0:00 |
+| 10 | [Long Lonely Road](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 4:20 |
 | 11 | [Fur Elise](https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Fur Elise](https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF) | 4:16 |
 | 12 | [Hunter](https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Hunter](https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR) | 4:12 |
 | 13 | [Pigwig](https://open.spotify.com/track/2XhhfuoDP4WxCu7cnaNMJ0) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Pigwig](https://open.spotify.com/album/6vEukBpYbIROgpKUr8A1ti) | 3:29 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 88 | [Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Robotboy](https://open.spotify.com/album/02XtoOnK9btJCcMgVpk11Z) | 2:34 |
 | 89 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
 
-Snapshot ID: `AAAAAPnbT9AFJTY0ilMEYKGVVhuvbER6`
+Snapshot ID: `AAAAAPeBriKYmbEKUdR1wxEfcaq/FHOo`

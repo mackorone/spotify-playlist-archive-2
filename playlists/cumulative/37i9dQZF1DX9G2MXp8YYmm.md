@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Umur Doma
 
-706 songs - 1 day 11 hr 49 min
+707 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,7 +563,7 @@
 | [Sur](https://open.spotify.com/track/5o8AA7rdZceZFV3hK1s5zT) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Sur](https://open.spotify.com/album/7iepaVJHrulbWXaXnuSxNt) | 3:04 | 2025-02-13 | 2025-02-21 |
 | [Sus Konuşma](https://open.spotify.com/track/4qInXcpSFRESnLTub8oD6J) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Sus Konuşma](https://open.spotify.com/album/2GNX1V9mSTmBmUXe3SkQA0) | 3:39 | 2026-04-09 | 2026-04-27 |
 | [Susmayı Öğrendim](https://open.spotify.com/track/3lfvzkMQXnmaQLGiwRfAPi) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Susmayı Öğrendim](https://open.spotify.com/album/6jgyRe0ZVR4xdimu9ned2V) | 3:16 | 2025-10-23 | 2025-12-11 |
-| [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/track/2hVOpFUzAvC2lqCGJXJFKy) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/album/6xAyvIhPkqezIrLTRT5xtK) | 2:29 | 2026-02-12 |  |
+| [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/track/2hVOpFUzAvC2lqCGJXJFKy) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/album/6xAyvIhPkqezIrLTRT5xtK) | 2:29 | 2026-02-12 | 2026-08-22 |
 | [Sürün](https://open.spotify.com/track/4AsGUZ3LvGoIEUKzFrSxNU) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Sürün](https://open.spotify.com/album/4SLuV481IYuMvrjMSOPcjL) | 3:12 | 2026-08-06 |  |
 | [Ta Burama](https://open.spotify.com/track/1ljQ6p7H1xYqiuOYF67MUQ) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Ta Burama](https://open.spotify.com/album/4Ze8NzsnRkfOU2J3qJhPaq) | 2:44 | 2026-08-06 |  |
 | [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 | 2025-12-13 |
@@ -668,6 +668,7 @@
 | [Yıkamazlar Beni](https://open.spotify.com/track/2VPE8auYaA569dbW3P96N0) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Yıkamazlar Beni](https://open.spotify.com/album/0mvhXUwpK96nRBswcbDRik) | 2:56 | 2025-09-25 | 2025-10-10 |
 | [Yıkılana Kadar](https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Yıkılana Kadar](https://open.spotify.com/album/3oP289E84GWpjyPFWfE3qg) | 3:00 | 2025-11-06 | 2025-11-28 |
 | [Yıkılana Kadar \- with İrem Derici](https://open.spotify.com/track/7i06FmelUto7k4Y3j4Vc7f) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Yıkılana Kadar \(with İrem Derici\)](https://open.spotify.com/album/4eo1mwSnNEoNhwOzY8odR1) | 3:00 | 2026-04-16 | 2026-05-02 |
+| [Yıkılmayız Öyle](https://open.spotify.com/track/7JaJ9XbLEaCGvFsY4cxkAJ) | [İdo Tatlıses](https://open.spotify.com/artist/2OWh9iyVeIqJm04kwcaArP) | [Yıkılmayız Öyle](https://open.spotify.com/album/5hzKdDrcKcaZUGENPKMaFW) | 3:14 | 2026-08-20 |  |
 | [Yıllar Sonra Ne Güzel Olmuşsun](https://open.spotify.com/track/2BigllsJaELRIdoog1fDCO) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Summerland](https://open.spotify.com/album/7yjs2zcZUYTRTQym3gxioz) | 2:06 | 2024-07-11 | 2024-07-27 |
 | [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-01 | 2024-08-15 |
 | [Zarf](https://open.spotify.com/track/0YOQGvIBJMYSylAD10tW6X) | [Erol Evgin](https://open.spotify.com/artist/6zzBsqAEDo53s2dSeZzWvo) | [Zarf](https://open.spotify.com/album/6Vs3alB3ZQJtMxqStSVho4) | 4:02 | 2026-07-23 | 2026-08-07 |

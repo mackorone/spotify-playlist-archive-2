@@ -1,12 +1,12 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Appel, Riaan Benad\u00e9, Ricus Nel en Bok Van Blerk",
-  "num_followers": 149747,
+  "num_followers": 149798,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADWZzK5iEi0JU+p4mTnMAarRyyPB",
+  "snapshot_id": "AAAAAEP0IhPA0Tqylm440Mx+8ioCIVnC",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:05",
@@ -159,18 +159,18 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Roeper",
-        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
+        "name": "Swaartekrag",
+        "url": "https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt"
       },
       "artists": [
         {
-          "name": "Theuns Jordaan",
-          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Sal Jy Bly",
-      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
+      "duration_ms": 178021,
+      "name": "Lenie Blou",
+      "url": "https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV"
     },
     {
       "added_at": "2026-07-30 22:01:18",
@@ -191,18 +191,18 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Swaartekrag",
-        "url": "https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt"
+        "name": "Roeper",
+        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
       },
       "artists": [
         {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+          "name": "Theuns Jordaan",
+          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
         }
       ],
-      "duration_ms": 178021,
-      "name": "Lenie Blou",
-      "url": "https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV"
+      "duration_ms": 228440,
+      "name": "Sal Jy Bly",
+      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
+        "name": "Regte Plekke",
+        "url": "https://open.spotify.com/album/5KzZjYynM9m6tpHyh5JAwS"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 189611,
+      "name": "Regte Plekke",
+      "url": "https://open.spotify.com/track/2bANJniJ1ThjaLOvTfJTy1"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
         "name": "Sterre",
         "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Regte Plekke",
-        "url": "https://open.spotify.com/album/5KzZjYynM9m6tpHyh5JAwS"
-      },
-      "artists": [
-        {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
-        }
-      ],
-      "duration_ms": 189611,
-      "name": "Regte Plekke",
-      "url": "https://open.spotify.com/track/2bANJniJ1ThjaLOvTfJTy1"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Tina Tequila",
         "url": "https://open.spotify.com/album/6GzJ2540kUZMNhARYbKL61"
       },
@@ -747,38 +747,6 @@
       "duration_ms": 201230,
       "name": "Tina Tequila",
       "url": "https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP"
-    },
-    {
-      "added_at": "2026-06-18 22:02:15",
-      "album": {
-        "name": "Genadewater",
-        "url": "https://open.spotify.com/album/1wJ03ZK8Gks4sGewzfKx8V"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 168624,
-      "name": "Genadewater",
-      "url": "https://open.spotify.com/track/7rMAZdd1TPdh20bCiRBqJd"
-    },
-    {
-      "added_at": "2026-07-09 22:00:56",
-      "album": {
-        "name": "Vra Net Vir Jou",
-        "url": "https://open.spotify.com/album/17qeeLEcYt674KEQuHs6em"
-      },
-      "artists": [
-        {
-          "name": "Gerhard Steyn",
-          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "Vra Net Vir Jou",
-      "url": "https://open.spotify.com/track/6n5dI8KlITx2vRvsm9ddF0"
     },
     {
       "added_at": "2026-05-28 22:01:39",
@@ -797,6 +765,38 @@
       "url": "https://open.spotify.com/track/2GAksPn9Omb2JusaztzY6V"
     },
     {
+      "added_at": "2026-07-09 22:00:56",
+      "album": {
+        "name": "Vra Net Vir Jou",
+        "url": "https://open.spotify.com/album/17qeeLEcYt674KEQuHs6em"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "Vra Net Vir Jou",
+      "url": "https://open.spotify.com/track/6n5dI8KlITx2vRvsm9ddF0"
+    },
+    {
+      "added_at": "2026-06-18 22:02:15",
+      "album": {
+        "name": "Genadewater",
+        "url": "https://open.spotify.com/album/1wJ03ZK8Gks4sGewzfKx8V"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 168624,
+      "name": "Genadewater",
+      "url": "https://open.spotify.com/track/7rMAZdd1TPdh20bCiRBqJd"
+    },
+    {
       "added_at": "2026-05-21 22:02:06",
       "album": {
         "name": "Sonsak In Die Vrystaat",
@@ -811,6 +811,22 @@
       "duration_ms": 264935,
       "name": "Sonsak In Die Vrystaat",
       "url": "https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "duration_ms": 180534,
+      "name": "Hop Hop Spinnekop",
+      "url": "https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3"
     },
     {
       "added_at": "2026-06-04 22:01:24",
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS"
+        "name": "Rooi Vlag",
+        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
       },
       "artists": [
         {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 180534,
-      "name": "Hop Hop Spinnekop",
-      "url": "https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3"
+      "duration_ms": 246393,
+      "name": "Rooi Vlag",
+      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -859,22 +875,6 @@
       "duration_ms": 221040,
       "name": "Lei My Na Die Water",
       "url": "https://open.spotify.com/track/15bXmhHbsXEYa6YKESByDH"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
-        "name": "Rooi Vlag",
-        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 246393,
-      "name": "Rooi Vlag",
-      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Kroeg Cowboys",
-        "url": "https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc"
-      },
-      "artists": [
-        {
-          "name": "Fran Prins",
-          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
-        },
-        {
-          "name": "Ivan Roux",
-          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
-        }
-      ],
-      "duration_ms": 187617,
-      "name": "Kroeg Cowboys",
-      "url": "https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
         "url": "https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 182927,
       "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
       "url": "https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Kroeg Cowboys",
+        "url": "https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc"
+      },
+      "artists": [
+        {
+          "name": "Fran Prins",
+          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+        },
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "duration_ms": 187617,
+      "name": "Kroeg Cowboys",
+      "url": "https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e"
     },
     {
       "added_at": "2026-06-14 09:07:48",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Bitterblou",
-        "url": "https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC"
-      },
-      "artists": [
-        {
-          "name": "Fran Prins",
-          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
-        }
-      ],
-      "duration_ms": 212095,
-      "name": "Bitterblou",
-      "url": "https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "308",
         "url": "https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 167472,
       "name": "308",
       "url": "https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Bitterblou",
+        "url": "https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC"
+      },
+      "artists": [
+        {
+          "name": "Fran Prins",
+          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+        }
+      ],
+      "duration_ms": 212095,
+      "name": "Bitterblou",
+      "url": "https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Dis Raak",
-        "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
-      },
-      "artists": [
-        {
-          "name": "Bok Van Blerk",
-          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
-        }
-      ],
-      "duration_ms": 213214,
-      "name": "Dis Raak",
-      "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Klein Dingetjies",
         "url": "https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 177984,
       "name": "Iemand Soos Jy",
       "url": "https://open.spotify.com/track/298k3iGimVSsClUG9KolBF"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Dis Raak",
+        "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
+      },
+      "artists": [
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        }
+      ],
+      "duration_ms": 213214,
+      "name": "Dis Raak",
+      "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
     },
     {
       "added_at": "2026-05-21 22:02:06",

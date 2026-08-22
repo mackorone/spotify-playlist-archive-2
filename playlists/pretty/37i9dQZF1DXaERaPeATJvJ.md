@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Pas Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,019 likes - 128 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,022 likes - 128 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 127 | [Lovelies \- Live](https://open.spotify.com/track/2s9kJ7sZHgozm1cXqqtCTN) | [Sweaters](https://open.spotify.com/artist/24wCIVc6T6hmBCjJ8aiAKl) | [Sweaters \(Live\)](https://open.spotify.com/album/45QGhx0C4sVXp60VoRhkIE) | 4:43 |
 | 128 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 |
 
-Snapshot ID: `AAAAAN8fA3S+OuDmweK9RJcIOCTRo5st`
+Snapshot ID: `AAAAAMx1GUMUCvR0SV+UnhoTtBygF9CG`

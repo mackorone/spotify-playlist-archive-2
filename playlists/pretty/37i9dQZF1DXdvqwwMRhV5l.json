@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs uit de 00's! Cover: Dinand Woesthoff (Kane)",
-  "num_followers": 75052,
+  "num_followers": 75057,
   "original_name": "00's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALtd31a6Iy2nodiDGBZrCc4P0t4s",
+  "snapshot_id": "AAAAAAsbk+SSg0t0dVcWbgZaNx2ZDf6m",
   "tracks": [
     {
       "added_at": "2024-07-19 06:48:03",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Bailamos - From \"Wild Wild West\"",
-      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 235266,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Bailamos - From \"Wild Wild West\"",
+      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Live It Out",
-        "url": "https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6"
-      },
-      "artists": [
-        {
-          "name": "Alain Clark",
-          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Father & Friend",
-      "url": "https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Remix Hits, Vol.1",
         "url": "https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 229880,
       "name": "Summer Jam 2003 - Remix",
       "url": "https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Live It Out",
+        "url": "https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6"
+      },
+      "artists": [
+        {
+          "name": "Alain Clark",
+          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Father & Friend",
+      "url": "https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE"
     }
   ],
   "unique_name": "00's Allerbeste",

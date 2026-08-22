@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Creepy Nuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,579 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,590 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 71 | [LIVING DEAD DINER GIRLS \-HALLOWEEN\-](https://open.spotify.com/track/08Hty7Sm9hIExaAXcQRtdl) | [Tommy heavenly6](https://open.spotify.com/artist/6ClPIi6VMHv2Q3OZ4R17wV), [奥田俊作](https://open.spotify.com/artist/5zR7laF6TkPmDm0sp9hAF7) | [LIVING DEAD DINER GIRLS \-HALLOWEEN\-](https://open.spotify.com/album/1xDOSn5NnyPWD0kVQlCbFX) | 5:53 |
 | 72 | [BLACK](https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [BLACK](https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH) | 3:02 |
 | 73 | [Tsukihime](https://open.spotify.com/track/1JhJLxLjNTAnp5OpYcN76p) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Tsukihime](https://open.spotify.com/album/3MvmQpwDcL8D5soFfTntHv) | 2:15 |
-| 74 | [pink flamingo](https://open.spotify.com/track/13RAle8tNej3u5Y4pSHB9c) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm) | [outernet 開く](https://open.spotify.com/album/7LRnYt4Cc4SeXoTNCn62vg) | 2:52 |
+| 74 | [Hyper Vip](https://open.spotify.com/track/7agFnJp6OmdgwzSzAFKf7Q) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Travelogue I](https://open.spotify.com/album/4rHApC99EydLlqldhcauVs) | 3:13 |
 | 75 | [BUGS LIFE](https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [BUGS LIFE](https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t) | 2:59 |
 
-Snapshot ID: `AAAAAO+CAoF4QWvcec5ZyjKGkFBDY0OZ`
+Snapshot ID: `AAAAAKnCX/TxQFjd75LyTiNfBIbzJ+L8`

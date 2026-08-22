@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 97559,
+  "num_followers": 97575,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMiBojLHbFqgblE3U4Q9TlWba++9",
+  "snapshot_id": "AAAAAOiVHCJUJRsurrgoaRvXqYpuGvTT",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "El Amor de Tu Vida",
-        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
-      },
-      "artists": [
-        {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 580430,
       "name": "Ser\u00e1 Mi Castigo / La Silla Vac\u00eda / Somos Ajenos (En Vivo)",
       "url": "https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "El Amor de Tu Vida",
+        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1243,38 +1243,18 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Canci\u00f3n a mi Pap\u00e1",
-        "url": "https://open.spotify.com/album/2848T5rwOKJwxPElYm1Xls"
+        "name": "La Reyna de Tierra Caliente",
+        "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
       },
       "artists": [
         {
           "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
           "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        },
-        {
-          "name": "Los Numero 1",
-          "url": "https://open.spotify.com/artist/5NguftlrG2vteEZ6WVgugW"
         }
       ],
-      "duration_ms": 170812,
-      "name": "Canci\u00f3n a mi Pap\u00e1",
-      "url": "https://open.spotify.com/track/5SgNpLaVzP1r2oewqS5DIk"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        }
-      ],
-      "duration_ms": 192991,
-      "name": "Hasta La Perra Te Extra\u00f1a",
-      "url": "https://open.spotify.com/track/7r71DCe6Tq120haZVL3gVO"
+      "duration_ms": 165225,
+      "name": "En C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1291,6 +1271,22 @@
       "duration_ms": 239737,
       "name": "Casita de Adobe",
       "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 192991,
+      "name": "Hasta La Perra Te Extra\u00f1a",
+      "url": "https://open.spotify.com/track/7r71DCe6Tq120haZVL3gVO"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1391,22 +1387,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Tercia de Reyes",
-        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
-      },
-      "artists": [
-        {
-          "name": "Los hermanos Jimenez",
-          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
-        }
-      ],
-      "duration_ms": 148520,
-      "name": "No Compro Amores",
-      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Se Equivoco Tu Corazon",
         "url": "https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb"
       },
@@ -1419,6 +1399,22 @@
       "duration_ms": 149693,
       "name": "Lo Descubri En Tus Brazos",
       "url": "https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Tercia de Reyes",
+        "url": "https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Jimenez",
+          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
+        }
+      ],
+      "duration_ms": 148520,
+      "name": "No Compro Amores",
+      "url": "https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1471,22 +1467,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Los Huaches Vip 2015",
-        "url": "https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF"
-      },
-      "artists": [
-        {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
-        }
-      ],
-      "duration_ms": 188397,
-      "name": "Conchita Del Mar",
-      "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "2 Cruces",
         "url": "https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL"
       },
@@ -1499,6 +1479,22 @@
       "duration_ms": 187637,
       "name": "2 Cruces",
       "url": "https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Los Huaches Vip 2015",
+        "url": "https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF"
+      },
+      "artists": [
+        {
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+        }
+      ],
+      "duration_ms": 188397,
+      "name": "Conchita Del Mar",
+      "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1739,6 +1735,22 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "Ojos Negros Nunca Enganan",
+        "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rebeldia",
+          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
+        }
+      ],
+      "duration_ms": 192104,
+      "name": "Ojos Negros Nunca Enga\u00f1an",
+      "url": "https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
       },
@@ -1771,22 +1783,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Canciones Tristes Canciones",
-        "url": "https://open.spotify.com/album/4JJk27eqo5Rh21g8E4uxJn"
-      },
-      "artists": [
-        {
-          "name": "Banda Roja de Jose Leon",
-          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
-        }
-      ],
-      "duration_ms": 181552,
-      "name": "El Diablo en una Botella",
-      "url": "https://open.spotify.com/track/6UeFg2AN97BDm5GkD7vrpd"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Era Casada",
         "url": "https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv"
       },
@@ -1799,6 +1795,22 @@
       "duration_ms": 176666,
       "name": "El Rey De Oros",
       "url": "https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Canciones Tristes Canciones",
+        "url": "https://open.spotify.com/album/4JJk27eqo5Rh21g8E4uxJn"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja de Jose Leon",
+          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
+        }
+      ],
+      "duration_ms": 181552,
+      "name": "El Diablo en una Botella",
+      "url": "https://open.spotify.com/track/6UeFg2AN97BDm5GkD7vrpd"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1919,22 +1931,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Ojos Negros Nunca Enganan",
-        "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
-      },
-      "artists": [
-        {
-          "name": "Banda Rebeldia",
-          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
-        }
-      ],
-      "duration_ms": 192104,
-      "name": "Ojos Negros Nunca Enga\u00f1an",
-      "url": "https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Puros Corridos Y No Cochadas (En Vivo)",
         "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
       },
@@ -1963,6 +1959,22 @@
       "duration_ms": 207925,
       "name": "\u00bfComo Le Hiciste?",
       "url": "https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Para el Amor de Mi Vida",
+        "url": "https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa"
+      },
+      "artists": [
+        {
+          "name": "Banda Rebeldia",
+          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
+        }
+      ],
+      "duration_ms": 240248,
+      "name": "Para El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -2003,22 +2015,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Para el Amor de Mi Vida",
-        "url": "https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa"
-      },
-      "artists": [
-        {
-          "name": "Banda Rebeldia",
-          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
-        }
-      ],
-      "duration_ms": 240248,
-      "name": "Para El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Puros Corridos Y No Cochadas (En Vivo)",
         "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
       },
@@ -2035,34 +2031,38 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "La Reyna de Tierra Caliente",
-        "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
+        "name": "Canci\u00f3n a mi Pap\u00e1",
+        "url": "https://open.spotify.com/album/2848T5rwOKJwxPElYm1Xls"
       },
       "artists": [
         {
           "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
           "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        },
+        {
+          "name": "Los Numero 1",
+          "url": "https://open.spotify.com/artist/5NguftlrG2vteEZ6WVgugW"
         }
       ],
-      "duration_ms": 165225,
-      "name": "En C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
+      "duration_ms": 170812,
+      "name": "Canci\u00f3n a mi Pap\u00e1",
+      "url": "https://open.spotify.com/track/5SgNpLaVzP1r2oewqS5DIk"
     },
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Pasito a Pasito",
-        "url": "https://open.spotify.com/album/6neYguTvvwimkTyf3yjEyi"
+        "name": "\u00c9chame La Culpa A Mi",
+        "url": "https://open.spotify.com/album/1MQKjRr3LQmOUSnKfrBb3l"
       },
       "artists": [
         {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 164613,
-      "name": "Pasito a Pasito",
-      "url": "https://open.spotify.com/track/57BNfo1TVljv47AH3RU1FP"
+      "duration_ms": 202794,
+      "name": "\u00c9chame La Culpa A Mi",
+      "url": "https://open.spotify.com/track/271VZINotNJnfByIZW3SGK"
     }
   ],
   "unique_name": "Tierra Caliente",

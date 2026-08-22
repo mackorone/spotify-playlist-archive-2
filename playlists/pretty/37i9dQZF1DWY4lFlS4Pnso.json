@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest playlist. Cover: Fontaines D.C.",
-  "num_followers": 2992103,
+  "num_followers": 2991652,
   "original_name": "Hot Hits UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfUNMRW0h6hgG64tSGZJGBAo4QW",
+  "snapshot_id": "AAAAAAWDv8ozElplLO8UPcNgeJJdwsrG",
   "tracks": [
     {
       "added_at": "2026-08-20 23:00:16",
@@ -723,7 +723,7 @@
     {
       "added_at": "2026-08-20 23:00:16",
       "album": {
-        "name": "Dracula (Remix)",
+        "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
       "artists": [
@@ -737,7 +737,7 @@
         }
       ],
       "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
+      "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Miss Kaninna
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,972 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,988 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [STOLEN WAGES](https://open.spotify.com/track/2aiHW27abPahmF26aVA395) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [BLACKPRINT](https://open.spotify.com/album/2uzgh5Mg9CYfRHIlQvwyw4) | 3:00 |
 | 2 | [HIM](https://open.spotify.com/track/3nIZYfa1Ij4XrarJd1TNXP) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [HIM](https://open.spotify.com/album/3y2v2sPbg91vGzTcXrTX8r) | 2:52 |
 | 3 | [Packed Up](https://open.spotify.com/track/1vFnwVp7boQo7tztcYYDsT) | [Sidney Phillips](https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T) | [C\*\*T](https://open.spotify.com/album/6UoD51KZ6eh0fJFpHqrw5v) | 2:40 |
-| 4 | [Track 2](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 0:00 |
+| 4 | [Opium](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 3:38 |
 | 5 | [2016](https://open.spotify.com/track/3UvjjcxvC6hOJON7OzRMDS) | [Baakio](https://open.spotify.com/artist/36ws0N21AlYMI8YMyiz2Il), [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [All Eyes](https://open.spotify.com/album/2K4HdHvotZBsEP5mXV9OGe) | 1:53 |
 | 6 | [BUNUBA BABY](https://open.spotify.com/track/7vJWLvuDuXDd9hK0eGjgKT) | [Kayps](https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx) | [BUNUBA BABY](https://open.spotify.com/album/71B7WqBfnzlzXLYChx68ab) | 2:36 |
 | 7 | [Out The Blue](https://open.spotify.com/track/3dQ8MRBpgHLm2fKBkxLykd) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Out The Blue](https://open.spotify.com/album/2xJTHtzH8amjbriR8O2zJg) | 1:59 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 9 | [ONE OF A KIND](https://open.spotify.com/track/3wUQIkYcuNKtK8WYUdBqLt) | [DAY1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [ONE OF A KIND](https://open.spotify.com/album/1nT9x4bQpEavlOkt73E9YW) | 3:00 |
 | 10 | [Back Into It](https://open.spotify.com/track/2fpBl6CLmbGJ6bT4IBt6Vm) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Back Into It](https://open.spotify.com/album/7yZyK2GrqfCmXu7rc5mrQM) | 2:07 |
 | 11 | [Troops](https://open.spotify.com/track/7BAJ8wZW4kNVyHYoYvpZWf) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce), [CV](https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS) | [Troops](https://open.spotify.com/album/6IEg6vhXJfBEpE82h14lBv) | 2:29 |
-| 12 | [Track 1](https://open.spotify.com/track/5jkmVlMM2uAOw65NcCcbpR) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [ORUN](https://open.spotify.com/album/2pKVfUXa6yyXc0OKTJFDC0) | 0:00 |
+| 12 | [Wildin' Out](https://open.spotify.com/track/5jkmVlMM2uAOw65NcCcbpR) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [ORUN](https://open.spotify.com/album/2pKVfUXa6yyXc0OKTJFDC0) | 2:45 |
 | 13 | [IN THE AIR](https://open.spotify.com/track/68cNc3MXZi4O3z9zixvTvb) | [DAY1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [IN THE AIR](https://open.spotify.com/album/2rKdnQhWqMoMnUPSn0EqKd) | 2:58 |
 | 14 | [Honey N Lemon](https://open.spotify.com/track/5Jl0mPHioA6Vn9DPjVwY7A) | [Jonny Chopps](https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS) | [Catalyst](https://open.spotify.com/album/1o9APyXJ97FvGiJZbFZjst) | 2:21 |
 | 15 | [Taniwha](https://open.spotify.com/track/6zIYJWxYRa70RP7946233h) | [MOHI](https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R) | [Taniwha](https://open.spotify.com/album/5kMetK3yoM2cLkZqWmo1fR) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Swear Mums](https://open.spotify.com/track/6aSYO9VhwKOj7Za4OOJ8az) | [That Kid Kearve](https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR) | [Swear Mums](https://open.spotify.com/album/5K5vM1aJBKrbLthAZJFoJn) | 3:16 |
 | 100 | [Last Laugh](https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Last Laugh](https://open.spotify.com/album/3yCjtfPnNTBSuamHb1Zf8A) | 3:27 |
 
-Snapshot ID: `AAAAADxaV305yszTjDE97QCTDqZEvxxN`
+Snapshot ID: `AAAAANkz1GxKcFvJ7CBzb4Junjf7bWIk`

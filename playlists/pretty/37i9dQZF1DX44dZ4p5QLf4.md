@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: Noha Saré
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,189 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,180 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Shades Of Navy](https://open.spotify.com/track/0OCARaEpywHVK1tN5KUsKV) | [Kunde](https://open.spotify.com/artist/2HoM9oaAr7jTKHEGuqgzry), [Helena Casella](https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN) | [Shades Of Navy](https://open.spotify.com/album/4eI27PGRmDUvR5nBX92aqi) | 3:09 |
 | 80 | [Glow](https://open.spotify.com/track/0X9ViQWrgaSzDE7mACBH4R) | [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Glow](https://open.spotify.com/album/4bK2DGVw3hFSPhHvI8ShZg) | 2:36 |
 
-Snapshot ID: `AAAAAB/2U7CCF+ShuOkBUjLSGFmctRAX`
+Snapshot ID: `AAAAAKGeS6Wx0R5vx8Wuh60PoRN+XGVl`

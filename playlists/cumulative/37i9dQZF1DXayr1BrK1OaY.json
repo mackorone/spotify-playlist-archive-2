@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 210234,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 158400,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 177920,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8"
@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 200000,
       "name": "dance the night away",
       "url": "https://open.spotify.com/track/1PtlrKBRzGALZr4DGL3Dub"
@@ -3581,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "everytimeicry",
+        "url": "https://open.spotify.com/album/0opf1bMMitxUEN9V184FfR"
+      },
+      "artists": [
+        {
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "everytimeicry",
+      "url": "https://open.spotify.com/track/3pizmm8J8D6J1F31etHVLb"
+    },
+    {
+      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
       },
@@ -3680,6 +3698,28 @@
       "duration_ms": 249225,
       "name": "Faded",
       "url": "https://open.spotify.com/track/5HUcdWBPlXRQXBTW2XnfKM"
+    },
+    {
+      "album": {
+        "name": "Faded Eyes",
+        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177713,
+      "name": "Faded Eyes",
+      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
     },
     {
       "album": {
@@ -4694,7 +4734,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
@@ -5746,7 +5786,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 167792,
       "name": "I Hear No More",
       "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
@@ -5952,6 +5992,24 @@
       "duration_ms": 258295,
       "name": "I Want You (feat. braev)",
       "url": "https://open.spotify.com/track/4erSEnRWE2diyHCfEjzW5Z"
+    },
+    {
+      "album": {
+        "name": "I Will Find You",
+        "url": "https://open.spotify.com/album/00zVD6CI5uL5co5xzUjTS1"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "I Will Find You",
+      "url": "https://open.spotify.com/track/3rhrqnBTJVocOAOFFPsYYf"
     },
     {
       "album": {
@@ -6794,7 +6852,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 274838,
       "name": "Lapse",
       "url": "https://open.spotify.com/track/377RmrO11H79ovI14DEM2F"
@@ -7754,7 +7812,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 219865,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/4S3GA50uBSXbzDxR0Xi09V"
@@ -7864,6 +7922,24 @@
       "duration_ms": 253121,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/26wuBc04catG1QQyYupr35"
+    },
+    {
+      "album": {
+        "name": "Love Me For Real",
+        "url": "https://open.spotify.com/album/0wcZU2ve89Yx4mndvcku0B"
+      },
+      "artists": [
+        {
+          "name": "Ocean",
+          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317142,
+      "name": "Love Me For Real",
+      "url": "https://open.spotify.com/track/1c6ccgNZU2oULnXDilF5gm"
     },
     {
       "album": {
@@ -8586,7 +8662,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 180956,
       "name": "Naive",
       "url": "https://open.spotify.com/track/0XYjFOhn4vchGIuDkQdk4D"
@@ -9524,7 +9600,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 158769,
       "name": "Only Friends",
       "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
@@ -9594,7 +9670,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 194782,
       "name": "Out Like This",
       "url": "https://open.spotify.com/track/50SsmJihXzmw80wwCjaIyd"
@@ -10400,7 +10476,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 210297,
       "name": "Run",
       "url": "https://open.spotify.com/track/6kH58ciITQKhQ6x5kYQjPD"
@@ -11860,7 +11936,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 180564,
       "name": "Still Blessed",
       "url": "https://open.spotify.com/track/11bQyKzWR4jDZ4NjbWNFyK"
@@ -13370,7 +13446,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 214100,
       "name": "Ventricle",
       "url": "https://open.spotify.com/track/6vrVUOH8GBueYVLXXOIlfe"
@@ -14482,7 +14558,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 211428,
       "name": "You And I",
       "url": "https://open.spotify.com/track/56Q8dn5LGmBRdmXSpi7vX8"
@@ -14536,7 +14612,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 147187,
       "name": "You Said Forever",
       "url": "https://open.spotify.com/track/5fjIr7fMC19Jmz97GmmSB7"

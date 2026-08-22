@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,334 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,339 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 17 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
 | 18 | [Je Bent Niet Hip](https://open.spotify.com/track/0658jhE6xvdROR3mYKvn7P) | [Patricia Paay](https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:41 |
 | 19 | [De Kat Van Ome Willem](https://open.spotify.com/track/4BZCJXgKSg7UudaRiWfmt7) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10), [Hetty Blok](https://open.spotify.com/artist/0VwzejS59E7wzdAEomSwoU) | [Het Mooiste Van Wim Sonneveld](https://open.spotify.com/album/3WGx6ms5LvfGuJ52eDT3tB) | 2:09 |
-| 20 | [Patsy](https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6) | [Rein De Vries](https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:54 |
+| 20 | [Dans Je De Hele Nacht Met Mij?](https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG) | [Karin Kent](https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:39 |
 | 21 | [Een Meisje Van Zestien](https://open.spotify.com/track/30EmdbhfuBgKd9jtQQag9r) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:59 |
-| 22 | [Dans Je De Hele Nacht Met Mij?](https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG) | [Karin Kent](https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:39 |
+| 22 | [Patsy](https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6) | [Rein De Vries](https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:54 |
 | 23 | [Katinka](https://open.spotify.com/track/6vljr41C784IaL4h2gkx8A) | [De Spelbrekers](https://open.spotify.com/artist/2PLaITIwJ2PSGwid7cvMfm) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:51 |
 | 24 | [Brandend Zand](https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:51 |
 | 25 | [We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar](https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s) | [Adele Bloemendaal](https://open.spotify.com/artist/0pNIifC8tolZOMkQi08w7L), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10), [Piet Romer](https://open.spotify.com/artist/4P4zMmwrUImvXjHD6WcdkR), [Choir](https://open.spotify.com/artist/6T1zPwkNslEt3YD1SckRd9) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:43 |
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 53 | [De Ploem\-Ploem Jenka](https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:01 |
 | 54 | [Kangaroe Eiland](https://open.spotify.com/track/0iVB5A9tWOYWP403yqgcXR) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [De Regenboog Serie: Cocktail Trio](https://open.spotify.com/album/6O0otUrHvn27olinmbP8bu) | 2:26 |
 | 55 | [Waar En Wanneer](https://open.spotify.com/track/2zNv1HqUrYRoYCKry4P5bD) | [Bob Benny](https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH) | [Het Beste Van](https://open.spotify.com/album/1XeTdhNPw6BSdPQrb13TcW) | 2:31 |
-| 56 | [Iedere Avond](https://open.spotify.com/track/27K4ItIdSmWm9VKiteM5m2) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:36 |
+| 56 | [Geweldig](https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 1:57 |
 | 57 | [Vanavond Om Kwart Over Zes Ben Ik Vrij](https://open.spotify.com/track/61D60xl8OUaRRmsQoexzAR) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:29 |
 | 58 | [Frater Venantius \- Live](https://open.spotify.com/track/7nnjpu2Cbh9DUdSSp8hFJA) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Een Avond Met Wim Sonneveld](https://open.spotify.com/album/3Loxvfv6tOPhOoQBmLBrDI) | 8:19 |
 | 59 | [Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw](https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A) | [Max Woiski Jr.](https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF) | [Rijst Met Kouseband \(En Andere Poku's\)](https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz) | 2:04 |
 | 60 | [Een glaasje madeira](https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd) | [Ted De Braak](https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF) | [Hollands Glorie Liedjes van vroeger Top 100](https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX) | 5:15 |
-| 61 | [Geweldig](https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 1:57 |
+| 61 | [Iedere Avond](https://open.spotify.com/track/27K4ItIdSmWm9VKiteM5m2) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:36 |
 | 62 | [Mijn Dagboek](https://open.spotify.com/track/1ivPaxFyaHT8rlphPx5vO8) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:00 |
 | 63 | [Da Doo Ron Ron](https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:17 |
 | 64 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 89 | [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 |
 | 90 | [Vaarwel Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/track/5B3Ks1FRxvLRFcFEnV79BD) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [60 Hits](https://open.spotify.com/album/18JsD3oxq36xy7uEIzya6B) | 3:32 |
 
-Snapshot ID: `AAAAANqQQIYDrEhQRywEoRiE9nhb4zTZ`
+Snapshot ID: `AAAAAFprHm6W5BcNKQ1atFAIMknMrKzr`

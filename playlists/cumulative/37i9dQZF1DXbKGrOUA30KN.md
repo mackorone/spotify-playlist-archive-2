@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Montez
 
-696 songs - 1 day 7 hr 13 min
+696 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,7 +586,6 @@
 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 | 2026-05-07 | 2026-07-31 |
 | [TIPICO!](https://open.spotify.com/track/2SC0tWaxDDTZn1N3HNG1K1) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [TIPICO!](https://open.spotify.com/album/7ydHkHaaiC8ZiryhzfegbV) | 2:11 | 2026-08-20 |  |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 6](https://open.spotify.com/track/59SaHcYpMIsKmv380hE1wF) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Lotte](https://open.spotify.com/album/2lEMVmUh3kRP9qH2F0Rdw7) | 0:00 | 2026-08-20 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 | 2026-05-15 |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |
@@ -676,6 +675,7 @@
 | [Wie man tanzt](https://open.spotify.com/track/24cEVAkUqDen6ZmYGfwf4T) | [Sarro](https://open.spotify.com/artist/6cFU9LlvHa1exQs5MJg6vB) | [Wie man tanzt](https://open.spotify.com/album/60QgySsUojKs6F7luRS14s) | 2:12 | 2026-06-18 | 2026-07-03 |
 | [wie schön](https://open.spotify.com/track/0tGmUBMkkICi049JU5rm18) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wie schön](https://open.spotify.com/album/0P3z0tHi2hTipd3h2Kgupn) | 2:49 | 2026-03-12 | 2026-04-03 |
 | [Wiedersehen](https://open.spotify.com/track/7LZvsZk28oH1cgy9ANw3cM) | [Frida Gold](https://open.spotify.com/artist/1Q229kIsASlkUb3VBeQmIL) | [Wiedersehen](https://open.spotify.com/album/1K7mFTIOOih9CiRk06j5zB) | 3:14 | 2026-05-07 | 2026-05-29 |
+| [wildes Kind](https://open.spotify.com/track/59SaHcYpMIsKmv380hE1wF) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Lotte](https://open.spotify.com/album/2lEMVmUh3kRP9qH2F0Rdw7) | 5:09 | 2026-08-20 |  |
 | [Windmühlen](https://open.spotify.com/track/2kictPiMw9VZihXve3de9k) | [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A) | [Windmühlen](https://open.spotify.com/album/08FjvYWLQEerdF0OZO0OHL) | 3:26 | 2026-04-30 | 2026-06-12 |
 | [Wir tanzen den Regen weg](https://open.spotify.com/track/7tnm7BOAvYriNjqfZ199bm) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 3:33 | 2025-10-24 | 2025-12-19 |
 | [Wo diese Liebe hinfällt \(Krater\)](https://open.spotify.com/track/5pZgHJlcOqAfwbYvef8fLx) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL) | [Wo diese Liebe hinfällt \(Krater\)](https://open.spotify.com/album/4ewZqTSmsqygHZf0ywDm7I) | 3:09 | 2026-06-04 | 2026-07-10 |

@@ -6,10 +6,98 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHbyX4JV5+Sq0bVjCFANT+hnWByR",
+  "snapshot_id": "AAAAAMLlKeR/dY4+kkG49UHT/tn74fiS",
   "tracks": [
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "The Documentary III",
+        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Mike & Keys",
+          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
+        }
+      ],
+      "duration_ms": 260695,
+      "name": "40 Nights",
+      "url": "https://open.spotify.com/track/2CTwK5KZryhCTxLwv0TAJg"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "You Won't Knock Me Down",
+        "url": "https://open.spotify.com/album/4bi2EhxcVR5c84LOtVNqjU"
+      },
+      "artists": [
+        {
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+        },
+        {
+          "name": "Herbert Skillz",
+          "url": "https://open.spotify.com/artist/4HfzjhjlWNVd8mJwU6AHjM"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 158518,
+      "name": "You Won't Knock Me Down",
+      "url": "https://open.spotify.com/track/4oZsYysd3GfzJYFU29P6jz"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "The Old Guys",
+      "url": "https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/1m9ymR2qnz8Yu2rzsyEze8"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 193963,
+      "name": "By Any Means - Soundtrack Version",
+      "url": "https://open.spotify.com/track/7frOwE0raQwmw8oNDgntJS"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "MYSTERY OF RAW",
         "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
@@ -33,7 +121,23 @@
       "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Reality Awaits",
+        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Lonely in the Future",
+      "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "Nostalgia EP",
         "url": "https://open.spotify.com/album/3pTZy5S0FrRBIB9FqcXzwY"
@@ -49,7 +153,7 @@
       "url": "https://open.spotify.com/track/04djrIRsjKnHhTgQhOk2Nr"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "Why Aren't You Suckin' My Dick?",
         "url": "https://open.spotify.com/album/2lvRtCSWqxoVnqO2aO7RQl"
@@ -65,7 +169,179 @@
       "url": "https://open.spotify.com/track/0DCSchgvashJmjW9JeGoJM"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Saw You Stand",
+        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 289187,
+      "name": "Saw You Stand",
+      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "AND FLY",
+        "url": "https://open.spotify.com/album/7edISwQZLLb6RuHN6N0jy3"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 231901,
+      "name": "YOU CAN ALWAYS COME BACK HOME",
+      "url": "https://open.spotify.com/track/2vqBRoGsI41kO1f7sIp6qE"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "The Time Of My Life",
+        "url": "https://open.spotify.com/album/3cioBqHvC9NN9SQVSQP5Uh"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "duration_ms": 237458,
+      "name": "The Time Of My Life",
+      "url": "https://open.spotify.com/track/5APLZ2fyg5ksgX5t3xh4G9"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "This Ring (25th Anniversary) (Remastered 2026)",
+        "url": "https://open.spotify.com/album/12I65mTRhgyB2DiDWcArnF"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 355334,
+      "name": "This Ring (25th Anniversary) (Remastered 2026)",
+      "url": "https://open.spotify.com/track/2wit2ysL7kcRH5rmpYINCb"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Nimrods Original Soundtrack",
+        "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 72528,
+      "name": "Auld Lang Syne - Live",
+      "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 159810,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "HUN",
+        "url": "https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 275227,
+      "name": "Horsemen",
+      "url": "https://open.spotify.com/track/312y90eEwVzpMT5SQD3w0C"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "GHOST DOG.",
+        "url": "https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 179130,
+      "name": "GHOST DOG.",
+      "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "Not Free Money",
         "url": "https://open.spotify.com/album/5gdNgqZU8jMZe21r90uJeK"
@@ -85,7 +361,51 @@
       "url": "https://open.spotify.com/track/2u5FvWhFwLjUtRbNFmFxUP"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Can\u2019t Take My Eyes Off You",
+        "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 150442,
+      "name": "Can\u2019t Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "YOU AND YOU ONLY",
+        "url": "https://open.spotify.com/album/6u9tWSStA3YPwPktqRZjLp"
+      },
+      "artists": [
+        {
+          "name": "TJ DA ZULU",
+          "url": "https://open.spotify.com/artist/1ZwzT8SFz0FCQqyiuVlhjd"
+        },
+        {
+          "name": "BOBBY HIT THE FAN",
+          "url": "https://open.spotify.com/artist/6kHlUQA2uSh1YinG7Nbdmo"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "name": "Iamtheos",
+          "url": "https://open.spotify.com/artist/03YfOE13CrD2ptXXiERcdY"
+        }
+      ],
+      "duration_ms": 160879,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/5Rfg5cZiaEnhNfJz1eSO9q"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "Work Song (Antdot Remix)",
         "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
@@ -105,23 +425,23 @@
       "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
       "album": {
-        "name": "Mess",
-        "url": "https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH"
+        "name": "Maverick \u201cAlmost Forever\u201d EP",
+        "url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 159810,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf"
+      "duration_ms": 180369,
+      "name": "Poured",
+      "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "Goat Food",
         "url": "https://open.spotify.com/album/3qmbmC46WOFVHHA8mJ40ZX"
@@ -149,7 +469,23 @@
       "url": "https://open.spotify.com/track/3jj1qRsDIvU4zgMo3YKDkD"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Hookah Baby",
+        "url": "https://open.spotify.com/album/0JNWe4nvM807Bw5qMO3Me0"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Hookah Baby",
+      "url": "https://open.spotify.com/track/5K32Q21Oc1weiMtLDqVULI"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "OUT THE BOX",
         "url": "https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD"
@@ -169,7 +505,43 @@
       "url": "https://open.spotify.com/track/1ffYjtf97k2iKoSNGWxkTH"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "rappers suck.",
+        "url": "https://open.spotify.com/album/1KHqbsSe89bLcJ85l27w5r"
+      },
+      "artists": [
+        {
+          "name": "Cletus Strap",
+          "url": "https://open.spotify.com/artist/00vh4ZUVEvrbagTVh7gf15"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 221539,
+      "name": "nonchalant - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/0eUoSdKd1bh6nvnyBTbLHp"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Still Crying",
+        "url": "https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 249654,
+      "name": "Still Crying",
+      "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "Witch Doctor",
         "url": "https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm"
@@ -189,7 +561,75 @@
       "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Whatchu Bringing?",
+        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 163935,
+      "name": "Stop Being Late (feat. J. Ivy)",
+      "url": "https://open.spotify.com/track/4vi1vMGebwMS8KzumrEPDw"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "On Melancholy Hill",
+        "url": "https://open.spotify.com/album/5Ju9F3H4rR3yRlSwUc2uO9"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 186144,
+      "name": "On Melancholy Hill",
+      "url": "https://open.spotify.com/track/21k2ZXCeUNuHN7lgkGWYjD"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/1bc1n9OOm4BDud97xlorYi"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "duration_ms": 279779,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/21WWur6B3kTFoIRPxQlBlZ"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "LIQUID CRACK",
         "url": "https://open.spotify.com/album/12WhGBOmAadtfeGiP22oBN"
@@ -213,7 +653,55 @@
       "url": "https://open.spotify.com/track/4kwslS4Kknwe0BU19XIUnz"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Whatchu Bringing?",
+        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Mutual Respect (feat. Phoelix)",
+      "url": "https://open.spotify.com/track/5xjILyg4FBMlNlOAGQ9BPq"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Philip Glass: Evening Song No.3",
+        "url": "https://open.spotify.com/album/3UqOjOrakeACSn8Zk3joZs"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Chase Spruill",
+          "url": "https://open.spotify.com/artist/0BAmi9xRzmDOwkQXUhivft"
+        }
+      ],
+      "duration_ms": 271371,
+      "name": "Evening Song No.3 for Solo Violin",
+      "url": "https://open.spotify.com/track/58JaKRhM1DnaK1vLGT3Oy9"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\"/III. Scherzo. Allegro vivace",
         "url": "https://open.spotify.com/album/0Z3NEbszFJ6dMTCIloKdQP"
@@ -245,7 +733,47 @@
       "url": "https://open.spotify.com/track/6boOjP1lz9HUKZBe8xlOh2"
     },
     {
-      "added_at": "2026-08-14 04:00:00",
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "The Clock Don\u2019t Go Back",
+        "url": "https://open.spotify.com/album/03Rtmq1Acm34vWhG6eOYd6"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 295088,
+      "name": "Everybody Makes Mistakes (feat. Georgia Anne Muldrow)",
+      "url": "https://open.spotify.com/track/7c36Ha6wj7f3qrONZkVD9b"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
+      "album": {
+        "name": "Floette ft. John Glacier",
+        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 192212,
+      "name": "Floette ft. John Glacier",
+      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
+    },
+    {
+      "added_at": "2026-08-21 04:00:00",
       "album": {
         "name": "Natural Blues (TECIE)",
         "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
@@ -271,446 +799,6 @@
       "duration_ms": 252857,
       "name": "Natural Blues (TECIE)",
       "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Reality Awaits",
-        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Lonely in the Future",
-      "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Saw You Stand",
-        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 289187,
-      "name": "Saw You Stand",
-      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "AND FLY",
-        "url": "https://open.spotify.com/album/7edISwQZLLb6RuHN6N0jy3"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 231901,
-      "name": "YOU CAN ALWAYS COME BACK HOME",
-      "url": "https://open.spotify.com/track/2vqBRoGsI41kO1f7sIp6qE"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "The Time Of My Life",
-        "url": "https://open.spotify.com/album/3cioBqHvC9NN9SQVSQP5Uh"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "The Time Of My Life",
-      "url": "https://open.spotify.com/track/5APLZ2fyg5ksgX5t3xh4G9"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "This Ring (25th Anniversary) (Remastered 2026)",
-        "url": "https://open.spotify.com/album/12I65mTRhgyB2DiDWcArnF"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 355334,
-      "name": "This Ring (25th Anniversary) (Remastered 2026)",
-      "url": "https://open.spotify.com/track/2wit2ysL7kcRH5rmpYINCb"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "HUN",
-        "url": "https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 275227,
-      "name": "Horsemen",
-      "url": "https://open.spotify.com/track/312y90eEwVzpMT5SQD3w0C"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 184248,
-      "name": "petal",
-      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Nimrods Original Soundtrack",
-        "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 72528,
-      "name": "Auld Lang Syne - Live",
-      "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "GHOST DOG.",
-        "url": "https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 179130,
-      "name": "GHOST DOG.",
-      "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Can\u2019t Take My Eyes Off You",
-        "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 150442,
-      "name": "Can\u2019t Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "YOU AND YOU ONLY",
-        "url": "https://open.spotify.com/album/6u9tWSStA3YPwPktqRZjLp"
-      },
-      "artists": [
-        {
-          "name": "TJ DA ZULU",
-          "url": "https://open.spotify.com/artist/1ZwzT8SFz0FCQqyiuVlhjd"
-        },
-        {
-          "name": "BOBBY HIT THE FAN",
-          "url": "https://open.spotify.com/artist/6kHlUQA2uSh1YinG7Nbdmo"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        },
-        {
-          "name": "Iamtheos",
-          "url": "https://open.spotify.com/artist/03YfOE13CrD2ptXXiERcdY"
-        }
-      ],
-      "duration_ms": 160879,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/5Rfg5cZiaEnhNfJz1eSO9q"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Hookah Baby",
-        "url": "https://open.spotify.com/album/0JNWe4nvM807Bw5qMO3Me0"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Hookah Baby",
-      "url": "https://open.spotify.com/track/5K32Q21Oc1weiMtLDqVULI"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Maverick \u201cAlmost Forever\u201d EP",
-        "url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 180369,
-      "name": "Poured",
-      "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "rappers suck.",
-        "url": "https://open.spotify.com/album/1KHqbsSe89bLcJ85l27w5r"
-      },
-      "artists": [
-        {
-          "name": "Cletus Strap",
-          "url": "https://open.spotify.com/artist/00vh4ZUVEvrbagTVh7gf15"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 221539,
-      "name": "nonchalant - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/0eUoSdKd1bh6nvnyBTbLHp"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Whatchu Bringing?",
-        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
-      },
-      "artists": [
-        {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Phoelix",
-          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
-        }
-      ],
-      "duration_ms": 137984,
-      "name": "I Wonder (feat. Phoelix)",
-      "url": "https://open.spotify.com/track/23DXnuvmYOezDiKTFSt91l"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Still Crying",
-        "url": "https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 249654,
-      "name": "Still Crying",
-      "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "On Melancholy Hill",
-        "url": "https://open.spotify.com/album/5Ju9F3H4rR3yRlSwUc2uO9"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 186144,
-      "name": "On Melancholy Hill",
-      "url": "https://open.spotify.com/track/21k2ZXCeUNuHN7lgkGWYjD"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Now Or Never",
-        "url": "https://open.spotify.com/album/1bc1n9OOm4BDud97xlorYi"
-      },
-      "artists": [
-        {
-          "name": "Yngwie Malmsteen",
-          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
-        }
-      ],
-      "duration_ms": 279779,
-      "name": "Now Or Never",
-      "url": "https://open.spotify.com/track/21WWur6B3kTFoIRPxQlBlZ"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Whatchu Bringing?",
-        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
-      },
-      "artists": [
-        {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Phoelix",
-          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "Mutual Respect (feat. Phoelix)",
-      "url": "https://open.spotify.com/track/5xjILyg4FBMlNlOAGQ9BPq"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Philip Glass: Evening Song No.3",
-        "url": "https://open.spotify.com/album/3UqOjOrakeACSn8Zk3joZs"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Chase Spruill",
-          "url": "https://open.spotify.com/artist/0BAmi9xRzmDOwkQXUhivft"
-        }
-      ],
-      "duration_ms": 271371,
-      "name": "Evening Song No.3 for Solo Violin",
-      "url": "https://open.spotify.com/track/58JaKRhM1DnaK1vLGT3Oy9"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "The Clock Don\u2019t Go Back",
-        "url": "https://open.spotify.com/album/03Rtmq1Acm34vWhG6eOYd6"
-      },
-      "artists": [
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        },
-        {
-          "name": "Myles & Kamai",
-          "url": "https://open.spotify.com/artist/0MnAfptaQWfoCoTCQSCHM3"
-        }
-      ],
-      "duration_ms": 255045,
-      "name": "You Gonna Learn Today (feat. Myles & Kamai, Georgia Anne Muldrow)",
-      "url": "https://open.spotify.com/track/4baP0NvNpC6KHvo1Xa6nQ1"
-    },
-    {
-      "added_at": "2026-08-14 04:00:00",
-      "album": {
-        "name": "Floette ft. John Glacier",
-        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 192212,
-      "name": "Floette ft. John Glacier",
-      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

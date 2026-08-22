@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 435442,
+  "num_followers": 435438,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM4XzGLRYdtpCzTM6pGxOb4SOehX",
+  "snapshot_id": "AAAAAMzv+6QGlJnfOfcb3rYhVZE61D1k",
   "tracks": [
     {
       "added_at": "2022-04-13 19:43:54",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 224849,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
+    },
+    {
       "added_at": "2021-09-20 19:34:04",
       "album": {
         "name": "Leave Before You Love Me",
@@ -755,22 +771,6 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
     },
     {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Red (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "I Knew You Were Trouble.",
+      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
+    },
+    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Se\u00f1orita",
@@ -971,22 +987,6 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Red (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "I Knew You Were Trouble.",
-      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1941,22 +1941,6 @@
       "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "1989 (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/4D7kxLhSz7siCOw7KA5rQn"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Acapulco",
@@ -1971,6 +1955,22 @@
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "1989 (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4D7kxLhSz7siCOw7KA5rQn"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "It Won't Be Soon Before Long.",
         "url": "https://open.spotify.com/album/29hJ8AFYZU98OzenrMr6iU"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 211080,
       "name": "Makes Me Wonder",
       "url": "https://open.spotify.com/track/1lHXlGlve5Zx8tXLhyjDwM"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Phoenix (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/6Xy72HZ9nf2jx48dQuF1mA"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Piece By Piece (Deluxe Version)",
         "url": "https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 198741,
       "name": "Heartbeat Song",
       "url": "https://open.spotify.com/track/7FC9Lng8iXU081lbigu8m8"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Phoenix (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/6Xy72HZ9nf2jx48dQuF1mA"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2329,22 +2329,6 @@
       "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Our Version Of Events",
-        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Next To Me",
-      "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
-    },
-    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "Love Back",
@@ -2359,6 +2343,22 @@
       "duration_ms": 185850,
       "name": "Love Back",
       "url": "https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Our Version Of Events",
+        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -2665,22 +2665,6 @@
       "url": "https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "The Veronicas",
-        "url": "https://open.spotify.com/album/2zzBNay9x9XyCmk5SzesAD"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 180073,
-      "name": "If You Love Someone",
-      "url": "https://open.spotify.com/track/6JvrOdeiEqWyCta29Xc4mR"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Honey In The Summer",
@@ -2695,6 +2679,22 @@
       "duration_ms": 200000,
       "name": "Honey In The Summer",
       "url": "https://open.spotify.com/track/69KERH8EU5P2VwxWlmOVcU"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "The Veronicas",
+        "url": "https://open.spotify.com/album/2zzBNay9x9XyCmk5SzesAD"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 180073,
+      "name": "If You Love Someone",
+      "url": "https://open.spotify.com/track/6JvrOdeiEqWyCta29Xc4mR"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2813,22 +2813,6 @@
       "url": "https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz"
     },
     {
-      "added_at": "2021-09-24 04:01:00",
-      "album": {
-        "name": "All Damn Day!",
-        "url": "https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy"
-      },
-      "artists": [
-        {
-          "name": "Ant Saunders",
-          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
-        }
-      ],
-      "duration_ms": 168627,
-      "name": "All Damn Day!",
-      "url": "https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Nervous (The Ooh Song/Mark McCabe Remix)",
@@ -2847,6 +2831,22 @@
       "duration_ms": 195413,
       "name": "Nervous - The Ooh Song/Mark McCabe Remix",
       "url": "https://open.spotify.com/track/3eRvE11OJfCYnaZwCFhMZD"
+    },
+    {
+      "added_at": "2021-09-24 04:01:00",
+      "album": {
+        "name": "All Damn Day!",
+        "url": "https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy"
+      },
+      "artists": [
+        {
+          "name": "Ant Saunders",
+          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
+        }
+      ],
+      "duration_ms": 168627,
+      "name": "All Damn Day!",
+      "url": "https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3127,22 +3127,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Greatest Hits...So Far!!!",
-        "url": "https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "F**kin' Perfect",
-      "url": "https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Skate",
         "url": "https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo"
       },
@@ -3163,6 +3147,22 @@
       "duration_ms": 203122,
       "name": "Skate",
       "url": "https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Greatest Hits...So Far!!!",
+        "url": "https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "F**kin' Perfect",
+      "url": "https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S"
     },
     {
       "added_at": "2021-09-03 04:01:00",

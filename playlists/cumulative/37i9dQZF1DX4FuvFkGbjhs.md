@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Shygirl
 
-999 songs - 2 day 9 hr 24 min
+1,000 songs - 2 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [courage](https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:11 | 2026-08-20 |  |
 | [Cows Come Home](https://open.spotify.com/track/7D7XVolNtIMUZbJdf76BwY) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Duppy Gun](https://open.spotify.com/album/3afz4ORD26X2AkSM5BPIsW) | 2:52 | 2024-06-27 | 2024-08-09 |
 | [Crazy World](https://open.spotify.com/track/6PPqDI67fz24aIBB4EMfPs) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Crazy World](https://open.spotify.com/album/04BXSpQ5QdkXwqL8Bzr1Mm) | 3:05 | 2026-01-16 | 2026-02-06 |
+| [Creepy](https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW) | [Soraya Cinema](https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9) | [Creepy](https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn) | 2:20 | 2026-08-21 |  |
 | [Crown for you](https://open.spotify.com/track/6bS0BXuDlONBV3L3OTOsQ0) | [Andrew Aged](https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG) | [crown](https://open.spotify.com/album/4I66uDblwwE9jw4jqSR3VQ) | 2:43 | 2025-12-05 | 2026-02-14 |
 | [Crown Jewel](https://open.spotify.com/track/2RxCAkAfunFJbrImtXMcTR) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Crown Jewel](https://open.spotify.com/album/4pNYHMMs5C1lQwyCA4COEH) | 4:01 | 2026-06-12 | 2026-08-21 |
 | [Crying Out For Love](https://open.spotify.com/track/04g8JIcLIEeaKhJC0UHnmP) | [Tom Vek](https://open.spotify.com/artist/4dGVRIf2xj0JhawVheLiOI) | [Crying Out For Love](https://open.spotify.com/album/3ee2pERWiIBRX2aPPW2DzZ) | 4:01 | 2024-09-05 | 2024-09-21 |
@@ -690,7 +691,7 @@
 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 | 2025-08-07 | 2025-11-28 |
 | [Post Romance](https://open.spotify.com/track/7p5hSZgshzsERQyTj3gXZh) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Post Romance](https://open.spotify.com/album/58PgUMhfc95w6sXHxLLIUc) | 3:55 | 2025-02-07 | 2025-03-28 |
 | [Prada Boo](https://open.spotify.com/track/493StZUc3moeLSbY60CLZl) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Prada Boo](https://open.spotify.com/album/4P68ccoHnsZNH1paDPjIcp) | 2:33 | 2025-08-14 | 2026-02-06 |
-| [praise](https://open.spotify.com/track/3albxuvvt3sQ8TxjUwiGbR) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [praise](https://open.spotify.com/album/4yQOS1843MpgLsxEOgG2Wp) | 3:24 | 2026-07-09 |  |
+| [praise](https://open.spotify.com/track/3albxuvvt3sQ8TxjUwiGbR) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [praise](https://open.spotify.com/album/4yQOS1843MpgLsxEOgG2Wp) | 3:24 | 2026-07-09 | 2026-08-22 |
 | [praxis](https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [praxis](https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0) | 3:28 | 2026-01-30 | 2026-02-13 |
 | [Pray for Me](https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 7:14 | 2024-12-23 | 2025-02-14 |
 | [Precious](https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 3:40 | 2024-10-17 | 2025-02-14 |

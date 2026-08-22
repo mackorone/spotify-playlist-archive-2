@@ -1,13 +1,29 @@
 {
   "description": "Today's top country music! Cover: Cameron Whitcomb",
-  "num_followers": 35133,
+  "num_followers": 35141,
   "original_name": "Top Country Hits",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAftz5KHZgMMQ3VyO+7W9127x8TY6wg",
+  "snapshot_id": "AAAfvY5DskCaij1qIYSXKtSJPONSl9FP",
   "tracks": [
+    {
+      "added_at": "2026-04-15 18:39:36",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
     {
       "added_at": "2026-04-01 18:42:42",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
     },
     {
-      "added_at": "2026-04-15 18:39:36",
+      "added_at": "2026-08-07 14:02:35",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+        "name": "Banks Of The Trinity",
+        "url": "https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+      "duration_ms": 178573,
+      "name": "Take Me Back (Leave Me There)",
+      "url": "https://open.spotify.com/track/3eZcmEO0X0nsfV8E3NZelo"
     },
     {
       "added_at": "2026-05-04 14:03:44",
@@ -89,20 +105,56 @@
       "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
     },
     {
-      "added_at": "2026-08-07 14:02:35",
+      "added_at": "2026-08-21 17:12:40",
       "album": {
-        "name": "Banks Of The Trinity",
-        "url": "https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD"
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
       },
       "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 187265,
+      "name": "Summer You Were Mine",
+      "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
+    },
+    {
+      "added_at": "2026-08-21 17:12:48",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
         {
           "name": "Cody Johnson",
           "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Take Me Back (Leave Me There)",
-      "url": "https://open.spotify.com/track/3eZcmEO0X0nsfV8E3NZelo"
+      "duration_ms": 193573,
+      "name": "The Old Guys",
+      "url": "https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy"
+    },
+    {
+      "added_at": "2026-08-21 17:13:10",
+      "album": {
+        "name": "Ride The River",
+        "url": "https://open.spotify.com/album/4sy5R6NhnHxH5rVFHKAyod"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 189085,
+      "name": "Ride The River",
+      "url": "https://open.spotify.com/track/2EsMBsv3uFaUEF8fCOLMoA"
     },
     {
       "added_at": "2026-08-04 15:55:13",
@@ -332,7 +384,7 @@
           "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
         }
       ],
-      "duration_ms": 197262,
+      "duration_ms": 197590,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/7gSfFlfC5w2JjqChH8P8mv"
     },

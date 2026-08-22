@@ -8219,6 +8219,24 @@
     },
     {
       "album": {
+        "name": "Cheesy Love Songs",
+        "url": "https://open.spotify.com/album/60SccoaVP6AIOVcA9HgRT6"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221640,
+      "name": "I Just Don't Know You Yet",
+      "url": "https://open.spotify.com/track/3v4jK4krT3tKmulGTz1RKZ"
+    },
+    {
+      "album": {
         "name": "I Killed Satan",
         "url": "https://open.spotify.com/album/6Lnf993SBZvxQoJGVKzp7r"
       },
@@ -18140,24 +18158,6 @@
       "duration_ms": 190728,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa"
-    },
-    {
-      "album": {
-        "name": "Cheesy Love Songs",
-        "url": "https://open.spotify.com/album/60SccoaVP6AIOVcA9HgRT6"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/3v4jK4krT3tKmulGTz1RKZ"
     },
     {
       "album": {

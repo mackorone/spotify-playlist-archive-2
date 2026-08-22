@@ -3560,7 +3560,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -5532,7 +5532,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 313928,
       "name": "Ember",
       "url": "https://open.spotify.com/track/6f3VIa4jtkRjZtacDdmzsY"
@@ -5586,7 +5586,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 260079,
       "name": "Endless Lovers Story",
       "url": "https://open.spotify.com/track/6haxQP3HmWLc3ccN8d6KGm"
@@ -8430,7 +8430,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 229000,
       "name": "I Need Something Stronger",
       "url": "https://open.spotify.com/track/4nAeuKOsuzJHWubLQzBrwr"
@@ -9880,7 +9880,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "Komputasad",
       "url": "https://open.spotify.com/track/07Av6Z7plwjdkN4msaeGuc"
@@ -10396,7 +10396,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -11338,7 +11338,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 197811,
       "name": "MINOTAUR",
       "url": "https://open.spotify.com/track/47My6EV8qNkxAqYDe1HsxQ"
@@ -11396,6 +11396,24 @@
       "duration_ms": 183857,
       "name": "Mission",
       "url": "https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma"
+    },
+    {
+      "album": {
+        "name": "The Shape Of Things",
+        "url": "https://open.spotify.com/album/5PkvBxnqiDOpekVPbDnfNr"
+      },
+      "artists": [
+        {
+          "name": "Bugeye",
+          "url": "https://open.spotify.com/artist/5coA87VxMQH8xZRRbhc03m"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Model Behaviour",
+      "url": "https://open.spotify.com/track/7cgzFBXhRtgVDupouGXoxg"
     },
     {
       "album": {
@@ -13216,7 +13234,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "Pretty Privilege",
       "url": "https://open.spotify.com/track/4Pe9cgCDHwmZOH6afOYPLE"
@@ -14086,7 +14104,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 153250,
       "name": "running joke",
       "url": "https://open.spotify.com/track/61tQINMAv7Kix961SOwGbd"
@@ -17138,7 +17156,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 273933,
       "name": "The Desert Inside",
       "url": "https://open.spotify.com/track/4YJXajzFrDy7NO9TNYU1Rl"
@@ -19035,6 +19053,28 @@
     },
     {
       "album": {
+        "name": "Details Fade",
+        "url": "https://open.spotify.com/album/5T10bcTgNB0WgB830zi1QE"
+      },
+      "artists": [
+        {
+          "name": "Ex-Hyena",
+          "url": "https://open.spotify.com/artist/11D5VgpWFKj07ubyMkhhtS"
+        },
+        {
+          "name": "The Axiom Divide",
+          "url": "https://open.spotify.com/artist/4e31B2WHoGxy55ieWkGA6B"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374488,
+      "name": "Unexpected Love - The Axiom Divide Remix",
+      "url": "https://open.spotify.com/track/64gPgNHLRBTmuQbM5Js9Jf"
+    },
+    {
+      "album": {
         "name": "Unfulfilled",
         "url": "https://open.spotify.com/album/22dh3WlrZpPOPuuMZfmoFD"
       },
@@ -20214,7 +20254,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
@@ -20758,7 +20798,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 232727,
       "name": "Your Blood",
       "url": "https://open.spotify.com/track/6akKRWsHi55Qxd9SPLQMSm"

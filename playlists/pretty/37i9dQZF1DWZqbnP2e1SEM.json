@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325277,
+  "num_followers": 325263,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKx1K/HMiY1raTQWhalUUoy4YJwb",
+  "snapshot_id": "AAAAAElwFwT5tMfB+Bt3xk343nFlgG6L",
   "tracks": [
     {
       "added_at": "2026-08-20 23:00:30",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Children (Dance Vault Mixes)",
-        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
-      },
-      "artists": [
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 181411,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Children (Dance Vault Mixes)",
+        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
+      },
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "All the Things She Said",
-        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 170891,
-      "name": "All the Things She Said",
-      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Dumb Decisions",
         "url": "https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 118119,
       "name": "Dumb Decisions",
       "url": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 170891,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Closer To The Floor",
-        "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Ankho\u00ef",
-          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
-        }
-      ],
-      "duration_ms": 162644,
-      "name": "Closer To The Floor",
-      "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Back to the 305",
         "url": "https://open.spotify.com/album/5bz83EFYjM4ToJVofVL71a"
       },
@@ -1315,22 +1295,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Lifting",
-        "url": "https://open.spotify.com/album/3cSNiUGgO7a6IcGANlCsJg"
+        "name": "Closer To The Floor",
+        "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
       "artists": [
         {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         },
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "Ankho\u00ef",
+          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Lifting",
-      "url": "https://open.spotify.com/track/5FYqQZJG2PRl2WqttIseZ1"
+      "duration_ms": 162644,
+      "name": "Closer To The Floor",
+      "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1351,6 +1331,26 @@
       "duration_ms": 185000,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Lifting",
+        "url": "https://open.spotify.com/album/3cSNiUGgO7a6IcGANlCsJg"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Lifting",
+      "url": "https://open.spotify.com/track/5FYqQZJG2PRl2WqttIseZ1"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Pretty Green Eyes (Remixes)",
-        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
-      },
-      "artists": [
-        {
-          "name": "Ultrabeat",
-          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Pretty Green Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "All I Know (with Khalid)",
         "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 176046,
       "name": "All I Know (with Khalid)",
       "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Pretty Green Eyes (Remixes)",
+        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
+      },
+      "artists": [
+        {
+          "name": "Ultrabeat",
+          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Pretty Green Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1787,62 +1787,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Baian\u00e1 (Boa Noite)",
-        "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Baian\u00e1 (Boa Noite)",
-      "url": "https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "On A Wave",
-        "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
-      },
-      "artists": [
-        {
-          "name": "East End Dubs",
-          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "On A Wave",
-      "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml"
       },
@@ -1867,6 +1811,62 @@
       "duration_ms": 181363,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Baian\u00e1 (Boa Noite)",
+        "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Baian\u00e1 (Boa Noite)",
+      "url": "https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "On A Wave",
+        "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
+      },
+      "artists": [
+        {
+          "name": "East End Dubs",
+          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "On A Wave",
+      "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
     },
     {
       "added_at": "2026-08-20 23:00:30",

@@ -115,6 +115,32 @@
     },
     {
       "album": {
+        "name": "Alfonsina y el Mar (Arr. for Guitar by Jorge Cardoso)",
+        "url": "https://open.spotify.com/album/2bZ9DWYrBiX6JV0uva5m3V"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "F\u00e9lix Luna",
+          "url": "https://open.spotify.com/artist/6aV7Q0EnQo7ssGbs6rlY6T"
+        },
+        {
+          "name": "Yuval Te\u2019eni",
+          "url": "https://open.spotify.com/artist/6yVVeQaeDa337ZSg471SQm"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282320,
+      "name": "Alfonsina y el Mar (Arr. for Guitar by Jorge Cardoso)",
+      "url": "https://open.spotify.com/track/6m8FjkYbXceTyNalQGfYCT"
+    },
+    {
+      "album": {
         "name": "En otra parte",
         "url": "https://open.spotify.com/album/3TRN62RoTGNXKtKEu2JvxW"
       },
@@ -1106,6 +1132,24 @@
       "duration_ms": 153946,
       "name": "Preludes, Book 1: No. 8, La fille aux cheveux de lin (Arr. For guitar)",
       "url": "https://open.spotify.com/track/3prOOjZVKg5Y8yp4RxIiZY"
+    },
+    {
+      "album": {
+        "name": "Kyoto Rain",
+        "url": "https://open.spotify.com/album/1Ftj3fqqY66oGWiSpnXY0t"
+      },
+      "artists": [
+        {
+          "name": "Alan Gogoll",
+          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Pumpkin Sunrise - Kyoto Session",
+      "url": "https://open.spotify.com/track/1BJkgIcEgpockF0xNWcKyQ"
     },
     {
       "album": {

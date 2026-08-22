@@ -2,9 +2,9 @@
 
 ### [Modern Blues Rock](https://open.spotify.com/playlist/37i9dQZF1DX7Y7BqFok9IQ)
 
-> The best of modern blues rock\. Cover: The Black Keys
+> The best of modern blues rock\. Cover: Ghost Hounds
 
-424 songs - 1 day 3 hr 15 min
+426 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Don't Hold Back](https://open.spotify.com/track/7KuzFCe2TWROqlvBzfIuAV) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Don't Hold Back](https://open.spotify.com/album/7wwoBmP3QNiAEhYcjaBYQr) | 4:06 | 2023-05-26 | 2023-06-24 |
 | [Don't Look Down](https://open.spotify.com/track/4AlmXv44tiJ9dbJSeX8EKD) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Don't Look Down](https://open.spotify.com/album/1fKlDb2Fk6pRpnt1DFQVTO) | 4:16 | 2023-07-07 | 2023-11-18 |
 | [Down and Dirty Blues](https://open.spotify.com/track/5Vx8mhiTctoYUgGMeIum9r) | [Gary Dranow](https://open.spotify.com/artist/0ln6vyEEr8rYl7ZB5aJv0T) | [Down and Dirty Blues](https://open.spotify.com/album/47ibvqZHAEbaBZ2yyVVfHb) | 5:01 | 2024-07-19 |  |
-| [Down On The Bottom](https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Down On The Bottom](https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX) | 4:36 | 2021-08-06 |  |
+| [Down On The Bottom](https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Down On The Bottom](https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX) | 4:36 | 2021-08-06 | 2026-08-22 |
 | [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 | 2022-10-28 | 2022-11-28 |
 | [Dragging Me Down](https://open.spotify.com/track/1tC3Lk0Bh7wFPctiowuxJb) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Dragging Me Down](https://open.spotify.com/album/6rzhy4RQStHp5feC3jugma) | 4:35 | 2024-03-08 | 2024-10-26 |
 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2020-10-16 | 2023-08-19 |
@@ -215,7 +215,7 @@
 | [Let's Get Together](https://open.spotify.com/track/4HETqNVzwib2kYFfukHRys) | [The Fever Dreams](https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Let's Get Together](https://open.spotify.com/album/79G3AEpniTseURdIS645ww) | 2:36 | 2025-02-07 |  |
 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 | 2022-06-24 |  |
 | [Light It Up](https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Light It Up](https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF) | 3:48 | 2022-07-29 |  |
-| [Light Of The Moon](https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Light Of The Moon](https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ) | 3:13 | 2021-07-30 |  |
+| [Light Of The Moon](https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Light Of The Moon](https://open.spotify.com/album/39Q163JUbwGHACKXI3HUYZ) | 3:13 | 2021-07-30 | 2026-08-22 |
 | [Light Of The Moon](https://open.spotify.com/track/6fZqH2RSqDS0DWIi1US4BO) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 3:13 | 2021-07-30 | 2024-04-19 |
 | [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 | 2021-04-16 | 2025-07-19 |
 | [Little More Rope](https://open.spotify.com/track/0wqXrS4GJ7ZK1n4MYPiI63) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Little More Rope](https://open.spotify.com/album/6IxOUgY9J3IWg7qPXXWsm8) | 2:51 | 2025-02-21 | 2025-05-24 |
@@ -235,6 +235,7 @@
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-10-16 | 2024-03-23 |
 | [Lucky](https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Rollin'](https://open.spotify.com/album/3zv68B02yNlKFqlIbRDY0o) | 4:54 | 2022-04-29 |  |
 | [Madame President](https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP) | [The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 2:26 | 2026-02-27 |  |
+| [Main Street U.S.A.](https://open.spotify.com/track/0vBLkHfCoJ7SEVyzDW86Co) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Trespasser](https://open.spotify.com/album/5LsTcgEL5o7ivH0CUeAgXm) | 3:35 | 2026-08-21 |  |
 | [Make It \- Live To Tape Session](https://open.spotify.com/track/5nAT9cIj9PbqM3F7A0iKYv) | [Zach Person](https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA), [Rhett Shull](https://open.spotify.com/artist/5llKYgJlzPpMaDPmuATus5) | [Make It \(Live To Tape Session\)](https://open.spotify.com/album/3pgUURlyqRdc13C5DnBQ8A) | 10:30 | 2025-01-10 |  |
 | [Make It Shake](https://open.spotify.com/track/57uYXpzoI7dOxdrOPWxZGT) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Make It Shake](https://open.spotify.com/album/165D6axZ9zq76cV1ip2qpo) | 3:14 | 2023-05-05 | 2023-05-20 |
 | [Make Your Move](https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N) | [Beyond the Badlands](https://open.spotify.com/artist/5Od4vhwUDRjIKGCu7OrFsP) | [Make Your Move](https://open.spotify.com/album/5upDTjsYYm1tAU1CWHruPz) | 3:21 | 2021-04-16 | 2026-06-13 |
@@ -286,6 +287,7 @@
 | [Out Of My Head](https://open.spotify.com/track/7KzCDlgiVOY8sQOKlbUy1m) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Out Of My Head](https://open.spotify.com/album/3hK0Qi59tuXjInHFnEIC0r) | 3:58 | 2021-08-20 | 2022-07-29 |
 | [Painted Horse](https://open.spotify.com/track/2FWKa4zEa6lrdTDuGNMur9) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Painted Horse](https://open.spotify.com/album/0KFGI2lrMjXjq1w74dfDkz) | 3:45 | 2022-08-26 | 2025-03-15 |
 | [Painted Horse](https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [High Voltage Blues](https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey) | 3:45 | 2022-08-26 | 2024-04-19 |
+| [Pale Horse](https://open.spotify.com/track/51pstE9YQnS1LCKqEeycgi) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Justified](https://open.spotify.com/album/1DmItVZqBzfbWwmd7lSXGA) | 3:16 | 2026-08-21 |  |
 | [Papa Was A Rollin' Stone](https://open.spotify.com/track/1XwloNz9FH1feiKJE9teK1) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Law Of The Land \(Expanded Edition\)](https://open.spotify.com/album/4sGfjIwjnGT2tn4IPVJmuz) | 3:26 | 2024-05-24 | 2024-07-06 |
 | [Papa Was A Rolling Stone feat\. Demi Lovato](https://open.spotify.com/track/6CrfUWMJeXpdFQQdew5OBf) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Orgy of the Damned](https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc) | 7:52 | 2024-05-24 | 2024-07-06 |
 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 | 2020-10-16 | 2024-04-19 |

@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 263920,
       "name": "Animal Friends / With a Smile and a Song",
       "url": "https://open.spotify.com/track/72cMnqPIvKZOIkvsMMnHjp"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 135346,
       "name": "Best of Friends - From \"The Fox & The Hound\" / Soundtrack",
       "url": "https://open.spotify.com/track/3lP9eoNsz04dMCfPIG0PpK"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 332400,
       "name": "Grim Grinning Ghosts - From \"The Haunted Mansion\"",
       "url": "https://open.spotify.com/track/22HoAbMq2QiKjfc1ZNqy0D"
@@ -4639,6 +4639,32 @@
     },
     {
       "album": {
+        "name": "Camp Rock 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
+      },
+      "artists": [
+        {
+          "name": "Connect 3",
+          "url": "https://open.spotify.com/artist/5VO7OPvja8CKKy7zvmmb8F"
+        },
+        {
+          "name": "Camp Rock \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164448,
+      "name": "We Rock",
+      "url": "https://open.spotify.com/track/7LAvnWNp8sojHaKwTgAY1q"
+    },
+    {
+      "album": {
         "name": "High School Musical",
         "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
       },
@@ -4672,7 +4698,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 242160,
       "name": "What Dreams Are Made Of",
       "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"

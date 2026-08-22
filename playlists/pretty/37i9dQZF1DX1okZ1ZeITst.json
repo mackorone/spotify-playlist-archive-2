@@ -1,12 +1,12 @@
 {
   "description": "Sing along with Moana and Maui to \"How Far I'll Go,\" \"You're Welcome\" and other Disney favorites! Disney's Moana, in theaters soon.",
-  "num_followers": 1178416,
+  "num_followers": 1178551,
   "original_name": "Disney Sing-Alongs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMFIgt8rohAHNv594plThHSAt9sy",
+  "snapshot_id": "AAAAAIED8MhF1Lg8NKBUgQeINtaX7ubf",
   "tracks": [
     {
       "added_at": "2026-06-29 13:00:22",
@@ -885,6 +885,26 @@
       "url": "https://open.spotify.com/track/28UMEtwyUUy5u0UWOVHwiI"
     },
     {
+      "added_at": "2026-08-21 04:00:28",
+      "album": {
+        "name": "Camp Rock 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
+      },
+      "artists": [
+        {
+          "name": "Camp Rock \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 137151,
+      "name": "Play My Music",
+      "url": "https://open.spotify.com/track/07YhTW6tI7NjRY5zVGAOT1"
+    },
+    {
       "added_at": "2026-06-29 13:00:22",
       "album": {
         "name": "The Princess and the Frog: Tiana and Her Princess Friends",
@@ -1079,26 +1099,6 @@
       "duration_ms": 291693,
       "name": "Poor Unfortunate Souls",
       "url": "https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2"
-    },
-    {
-      "added_at": "2026-06-29 13:00:22",
-      "album": {
-        "name": "A Whole New Sound",
-        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 173350,
-      "name": "Can You Feel the Love Tonight",
-      "url": "https://open.spotify.com/track/63BZR6Dtvag8JSLYO0kiok"
     },
     {
       "added_at": "2026-06-29 13:00:22",

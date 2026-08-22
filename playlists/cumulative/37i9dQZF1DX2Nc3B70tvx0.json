@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "A delicious mix of new songs in high rotation. Cover: Love Spells",
+  "description": "A delicious mix of new songs in high rotation. Cover: Phoebe Bridgers",
   "name": "Indie's Top 50",
   "tracks": [
     {
@@ -20959,6 +20959,24 @@
     },
     {
       "album": {
+        "name": "The Veil",
+        "url": "https://open.spotify.com/album/5Mq7m9OCPceg7rM9L3hSS1"
+      },
+      "artists": [
+        {
+          "name": "Gliiico",
+          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145266,
+      "name": "Gut",
+      "url": "https://open.spotify.com/track/1KJUdGbJILllYPBOsM4z9m"
+    },
+    {
+      "album": {
         "name": "Guthrie",
         "url": "https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy"
       },
@@ -25076,7 +25094,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 203723,
       "name": "i wish you were here",
       "url": "https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM"
@@ -26358,6 +26376,28 @@
       "duration_ms": 233307,
       "name": "Incomprehensible",
       "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
+    },
+    {
+      "album": {
+        "name": "Indecision (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Indecision (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
     },
     {
       "album": {
@@ -31993,6 +32033,24 @@
     },
     {
       "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
+    },
+    {
+      "album": {
         "name": "Marie",
         "url": "https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7"
       },
@@ -36456,6 +36514,24 @@
       "duration_ms": 204280,
       "name": "Now I'm In It",
       "url": "https://open.spotify.com/track/5K7x78NAL50rhfhm73ePNb"
+    },
+    {
+      "album": {
+        "name": "Now I've Got A Lot You Know",
+        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310596,
+      "name": "Now I've Got A Lot You Know",
+      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
     },
     {
       "album": {
@@ -45100,7 +45176,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 192439,
       "name": "skinny dip",
       "url": "https://open.spotify.com/track/3GR1J0gHGBN4jX2auDDE2j"
@@ -47664,7 +47740,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 211893,
       "name": "Stupid Bitches",
       "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
@@ -48130,6 +48206,24 @@
       "duration_ms": 217293,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
     },
     {
       "album": {
@@ -50784,6 +50878,24 @@
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa"
+    },
+    {
+      "album": {
+        "name": "The Rot",
+        "url": "https://open.spotify.com/album/04TXLv2JHrjWwedE0e4BvF"
+      },
+      "artists": [
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196453,
+      "name": "The Rot",
+      "url": "https://open.spotify.com/track/0BXd8OZonjsjn6VelekrpD"
     },
     {
       "album": {

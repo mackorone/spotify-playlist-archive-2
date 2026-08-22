@@ -3237,6 +3237,28 @@
     },
     {
       "album": {
+        "name": "Chuva cai",
+        "url": "https://open.spotify.com/album/1EOm8FqYN3b3v5j9YeTVrT"
+      },
+      "artists": [
+        {
+          "name": "JayPluggz",
+          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125968,
+      "name": "Chuva cai",
+      "url": "https://open.spotify.com/track/6yZkQJ9pYyrSmfXs8FrMP9"
+    },
+    {
+      "album": {
         "name": "AL\u00c9M DE LOVE",
         "url": "https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3"
       },

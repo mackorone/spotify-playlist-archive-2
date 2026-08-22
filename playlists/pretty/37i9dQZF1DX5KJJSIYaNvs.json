@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover - Shakthisree Gopalan",
-  "num_followers": 108236,
+  "num_followers": 108272,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOEfRIto4rLuM9CyNjUM3QEhh3aq",
+  "snapshot_id": "AAAAAPX4vGRlEf2FMLApSwx8KoU7r49b",
   "tracks": [
     {
       "added_at": "2026-08-20 04:55:26",
@@ -327,6 +327,30 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
+        "name": "Almost Loved (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Jaane Na Tu (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA"
+    },
+    {
+      "added_at": "2026-08-20 04:55:26",
+      "album": {
         "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
         "url": "https://open.spotify.com/album/3ZuPJdRCHLLmqr2y6qrqKC"
       },
@@ -351,30 +375,6 @@
       "duration_ms": 250040,
       "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/1qJiRzRlmNrzYBsMdVPqT2"
-    },
-    {
-      "added_at": "2026-08-20 04:55:26",
-      "album": {
-        "name": "Almost Loved (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96"
-      },
-      "artists": [
-        {
-          "name": "Bhoomi",
-          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
-        },
-        {
-          "name": "Naaz",
-          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
-        },
-        {
-          "name": "Saaheal",
-          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Jaane Na Tu (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA"
     },
     {
       "added_at": "2026-08-20 04:55:26",
@@ -567,30 +567,6 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
-        "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
-        "url": "https://open.spotify.com/album/0FIAu4n2sm21shBPtooJBe"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
-        }
-      ],
-      "duration_ms": 210267,
-      "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
-      "url": "https://open.spotify.com/track/6cYWjvAPGJrb6ZOJn1URn2"
-    },
-    {
-      "added_at": "2026-08-20 04:55:26",
-      "album": {
         "name": "Paon Ki Jutti",
         "url": "https://open.spotify.com/album/0kvLQHTVY3ocSh0K64f7I3"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 208965,
       "name": "Paon Ki Jutti",
       "url": "https://open.spotify.com/track/0TrsGqtFXMWCrF9pPMICY9"
+    },
+    {
+      "added_at": "2026-08-20 04:55:26",
+      "album": {
+        "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/0FIAu4n2sm21shBPtooJBe"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "duration_ms": 210267,
+      "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/6cYWjvAPGJrb6ZOJn1URn2"
     },
     {
       "added_at": "2026-08-20 04:55:26",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
+        "name": "Jaane Bhi Do",
+        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        }
+      ],
+      "duration_ms": 170890,
+      "name": "Jaane Bhi Do",
+      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
+    },
+    {
+      "added_at": "2026-08-20 04:55:26",
+      "album": {
         "name": "Chhaila (From \"Bhoomi 2024\")",
         "url": "https://open.spotify.com/album/7jt9ta30emHh5myR2YButg"
       },
@@ -1235,30 +1259,6 @@
       "duration_ms": 234913,
       "name": "Leta Jaijo Re | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
-    },
-    {
-      "added_at": "2026-08-20 04:55:26",
-      "album": {
-        "name": "Jaane Bhi Do",
-        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
-      },
-      "artists": [
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Pavithra Chari",
-          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
-        },
-        {
-          "name": "Rahul Shah",
-          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
-        }
-      ],
-      "duration_ms": 170890,
-      "name": "Jaane Bhi Do",
-      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
     },
     {
       "added_at": "2026-08-20 04:55:26",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
+        "name": "Dil Ki Yaari",
+        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "duration_ms": 213187,
+      "name": "Dil Ki Yaari",
+      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+    },
+    {
+      "added_at": "2026-08-20 04:55:26",
+      "album": {
         "name": "Birha",
         "url": "https://open.spotify.com/album/0kAAQTEEYsQ162uDSs0ncv"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
-        "name": "Dil Ki Yaari",
-        "url": "https://open.spotify.com/album/06hr0qZwQgj4KBhaUGcUEf"
-      },
-      "artists": [
-        {
-          "name": "Arunima Wali",
-          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
-        }
-      ],
-      "duration_ms": 213187,
-      "name": "Dil Ki Yaari",
-      "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
-    },
-    {
-      "added_at": "2026-08-20 04:55:26",
-      "album": {
         "name": "giraft",
         "url": "https://open.spotify.com/album/1qmVKxb0th57tObxxwaoLw"
       },
@@ -1407,6 +1407,30 @@
       "duration_ms": 168075,
       "name": "giraft",
       "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
+    },
+    {
+      "added_at": "2026-08-20 04:55:26",
+      "album": {
+        "name": "Behte Jana Hai",
+        "url": "https://open.spotify.com/album/5FbDVzw5Y0OiYj5qocRLyA"
+      },
+      "artists": [
+        {
+          "name": "Aroob Khan",
+          "url": "https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Behte Jana Hai",
+      "url": "https://open.spotify.com/track/0TjfzgRac1kPfD0pSAs066"
     },
     {
       "added_at": "2026-08-20 04:55:26",
@@ -1467,26 +1491,26 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
-        "name": "Behte Jana Hai",
-        "url": "https://open.spotify.com/album/5FbDVzw5Y0OiYj5qocRLyA"
+        "name": "Ek Din (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6wjziPdeJgVa4AcUoKmX8m"
       },
       "artists": [
         {
-          "name": "Aroob Khan",
-          "url": "https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a"
+          "name": "Meghna Mishra",
+          "url": "https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq"
         },
         {
-          "name": "Rajat Nagpal",
-          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
         },
         {
-          "name": "Rana Sotal",
-          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Behte Jana Hai",
-      "url": "https://open.spotify.com/track/0TjfzgRac1kPfD0pSAs066"
+      "duration_ms": 267272,
+      "name": "Ek Din Title Track (Female) - From \"Ek Din\"",
+      "url": "https://open.spotify.com/track/3kO4Zzo9tKkoq2iNElaPIz"
     },
     {
       "added_at": "2026-08-20 04:55:26",
@@ -1511,30 +1535,6 @@
       "duration_ms": 210000,
       "name": "Mainu Ki Pata",
       "url": "https://open.spotify.com/track/1A9fAmJca9d0HlN39iwY4h"
-    },
-    {
-      "added_at": "2026-08-20 04:55:26",
-      "album": {
-        "name": "Ek Din (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6wjziPdeJgVa4AcUoKmX8m"
-      },
-      "artists": [
-        {
-          "name": "Meghna Mishra",
-          "url": "https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq"
-        },
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        }
-      ],
-      "duration_ms": 267272,
-      "name": "Ek Din Title Track (Female) - From \"Ek Din\"",
-      "url": "https://open.spotify.com/track/3kO4Zzo9tKkoq2iNElaPIz"
     },
     {
       "added_at": "2026-08-20 04:55:26",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-08-20 04:55:26",
       "album": {
-        "name": "Ho Jaa",
-        "url": "https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF"
-      },
-      "artists": [
-        {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
-        }
-      ],
-      "duration_ms": 212909,
-      "name": "Ho Jaa",
-      "url": "https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc"
-    },
-    {
-      "added_at": "2026-08-20 04:55:26",
-      "album": {
         "name": "umraan",
         "url": "https://open.spotify.com/album/0RYVngJi1hWo7yqsy2dzN7"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 151874,
       "name": "umraan",
       "url": "https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab"
+    },
+    {
+      "added_at": "2026-08-20 04:55:26",
+      "album": {
+        "name": "Ho Jaa",
+        "url": "https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        }
+      ],
+      "duration_ms": 212909,
+      "name": "Ho Jaa",
+      "url": "https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc"
     }
   ],
   "unique_name": "EQUAL India",

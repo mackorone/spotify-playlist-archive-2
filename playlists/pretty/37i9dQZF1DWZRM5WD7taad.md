@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. J Noa en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,487 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,491 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 8 | [No Plata](https://open.spotify.com/track/3FM8QJ4nyvs2boZJqG2VBq) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Dj Koo](https://open.spotify.com/artist/7en3YUdrBkP4L87wxRwOnN) | [No Plata](https://open.spotify.com/album/19YJqxkqmZJqIYmCA7oQSn) | 2:48 |
 | 9 | [TE ASUSTASTE](https://open.spotify.com/track/5HmnuoBHRGdUZGLaYtoDx2) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [PUNTO DE QUIEBRE](https://open.spotify.com/album/7IwKAbHti1pHDdXApyCbmd) | 2:55 |
 | 10 | [Enfermo](https://open.spotify.com/track/4K62SKo5IiAqQNXrwBlefh) | [Lil Boo](https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W) | [Enfermo](https://open.spotify.com/album/6KQVHBumcFp8IzfHQUUUjw) | 2:13 |
-| 11 | [¡BASTA YA! \- Snow Tha Product Remix](https://open.spotify.com/track/4NuZEEzAHnjFc3QZfIugGs) | [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub), [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [¡BASTA YA!](https://open.spotify.com/album/5sdlUXAudptbwSbY6CBtkd) | 2:44 |
+| 11 | [¡BASTA YA!](https://open.spotify.com/track/4NuZEEzAHnjFc3QZfIugGs) | [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub), [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [¡BASTA YA!](https://open.spotify.com/album/5sdlUXAudptbwSbY6CBtkd) | 2:44 |
 | 12 | [NOS RELOJEAN](https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [NOS RELOJEAN](https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge) | 3:05 |
 | 13 | [Fuego](https://open.spotify.com/track/5HJBRIpUSGgrgHXX9D4AhP) | [Afromak](https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK), [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Fuego](https://open.spotify.com/album/4lrRrgdVuSfnU40zrg69zj) | 2:39 |
 | 14 | [Pene Bonsai](https://open.spotify.com/track/1K2BL5tG8TOjcFZXjX3WzI) | [Laura sad](https://open.spotify.com/artist/4IRXvbsbSP4oHm4adUdQlt), [Ninja Nigro](https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu) | [Pene Bonsai](https://open.spotify.com/album/63fhXiSxcrrtzDi6wQmhGj) | 1:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 99 | [LÁSER](https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [LÁSER](https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC) | 2:39 |
 | 100 | [Hija De P](https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Hija De P](https://open.spotify.com/album/5ayP0qmXTKQfGUgMRXoEg9) | 2:05 |
 
-Snapshot ID: `AAAAALj1qq/2+0W+NbbZrOyGV8MrseOy`
+Snapshot ID: `AAAAAPAGRP2KY/UWPP53+TdmLwaiQjAf`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 
 > <a href="spotify:artist:62k5LKMhymqlDNo2DWOvvv">Boys Noize</a>'s favorite tracks\. Updated regularly\. Curated by Boys Noize\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,326 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,337 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shut It Down](https://open.spotify.com/track/75LdIYSLqY9kBXZIHnqf9U) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Taube](https://open.spotify.com/artist/7CkJFCrOBweQ9bOL3C5MCu) | [Shut It Down](https://open.spotify.com/album/4C7lqD1l78gnaMTLVA9JGW) | 3:32 |
 | 2 | [Into the Sky](https://open.spotify.com/track/2bo1qVBpVO9xHDuOmJzcCZ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Into The Sky](https://open.spotify.com/album/6y6mFe56cz3DFMpXaXOBag) | 2:15 |
 | 3 | [Destrava](https://open.spotify.com/track/6LKN0L3C15O6jB57yLFxa3) | [Adame DJ](https://open.spotify.com/artist/7lOdAZzqR1Ju4bhq1kZUvy), [Mc Mr Bim](https://open.spotify.com/artist/037xCJ62sVpX7xYMnvhnwx), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Destrava / A bucetada melodica](https://open.spotify.com/album/0NvzKs5ytzrQpywIQn6zMX) | 2:22 |
-| 4 | [Dracula \- JENNIE Remix \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(JENNIE Remix \- Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
+| 4 | [Dracula \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
 | 5 | [Anytime Anywhere](https://open.spotify.com/track/4xdxNreSjuSF8lrOPqwIvX) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1) | [Beautiful](https://open.spotify.com/album/7BFol5q1oT3YGBxF1zZqFd) | 2:22 |
 | 6 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 7 | [FUCK THE SPEAKERZ UP \- Boys Noize Remix](https://open.spotify.com/track/6nQa2Qc8GhNGVHR9J3DzO6) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [FUCK THE SPEAKERZ UP \(Boys Noize Remix\)](https://open.spotify.com/album/3t5k5AL6pll2p1jerRgChw) | 3:31 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 | 58 | [How's It Gonna Be?](https://open.spotify.com/track/6XlKMyod11QQR0uOIho1dF) | [Rein](https://open.spotify.com/artist/081nh5DBAXiKgJhOlqgU2V) | [God Is A Woman](https://open.spotify.com/album/6QyUpXrwVpPbJ0pAiY33w4) | 3:12 |
 | 59 | [Goodbye Horses \- Single](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 |
 
-Snapshot ID: `AAAAAFFdYSDgSQu/E/3XTBHkNZQtef3R`
+Snapshot ID: `AAAAAEl7mPfC9hcVI/Mo1lY9QWmA+gj6`

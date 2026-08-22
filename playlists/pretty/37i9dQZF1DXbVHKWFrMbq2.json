@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEvmb24QFG58QhJXbZyf/9gHCdDy",
+  "snapshot_id": "AAAAAD28clCMop15Dgr1vDvBkEBzLwEP",
   "tracks": [
     {
       "added_at": "2026-08-20 22:49:00",
@@ -415,8 +415,8 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "A Pesar De Ti y De Mi",
-        "url": "https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8"
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 249124,
-      "name": "A Pesar De Ti y De Mi",
-      "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
+      "duration_ms": 196602,
+      "name": "Estoy Llorando De Tanta Belleza",
+      "url": "https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -507,8 +507,8 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Femme Fatale Vol. 2",
-        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+        "name": "A Pesar De Ti y De Mi",
+        "url": "https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 196602,
-      "name": "Estoy Llorando De Tanta Belleza",
-      "url": "https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0"
+      "duration_ms": 249124,
+      "name": "A Pesar De Ti y De Mi",
+      "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Querida Yo",
-        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 148037,
-      "name": "Devu\u00e9lvemela",
-      "url": "https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "mimos",
         "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 148037,
+      "name": "Devu\u00e9lvemela",
+      "url": "https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "Odio Odiarme",
+        "url": "https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 126526,
+      "name": "Odio Odiarme",
+      "url": "https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "M\u00e1quina del Tiempo",
         "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 247412,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "Odio Odiarme",
-        "url": "https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 126526,
-      "name": "Odio Odiarme",
-      "url": "https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "mil veces mas",
         "url": "https://open.spotify.com/album/2HfOkfxmNSbTFG0huGbTR9"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
       },
       "artists": [
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
         }
       ],
-      "duration_ms": 179533,
-      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
+      "duration_ms": 231586,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
-      },
-      "artists": [
-        {
-          "name": "Oriana",
-          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "no llames lo m\u00edo nuestro",
         "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
       },
@@ -1055,26 +1055,6 @@
       "duration_ms": 201661,
       "name": "El Momento Perfecto",
       "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "EL MENSAJERO",
-        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
-      },
-      "artists": [
-        {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
-        },
-        {
-          "name": "Cocodrilo P&B",
-          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "EL MENSAJERO",
-      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1119,6 +1099,26 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "EL MENSAJERO",
+        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        },
+        {
+          "name": "Cocodrilo P&B",
+          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
+        }
+      ],
+      "duration_ms": 148421,
+      "name": "EL MENSAJERO",
+      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "Una Herida Y Un Adi\u00f3s",
         "url": "https://open.spotify.com/album/6gcvjfv3oLAHg5LYDLt4QL"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "escapar de m\u00ed",
-        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "escapar de m\u00ed",
-      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "QUIZ\u00c1S LAS HORAS SUMAN MESES",
         "url": "https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg"
       },
@@ -1195,22 +1179,18 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "De M\u00ed",
-        "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
+        "name": "escapar de m\u00ed",
+        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
       },
       "artists": [
         {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 180073,
-      "name": "De M\u00ed",
-      "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
+      "duration_ms": 228533,
+      "name": "escapar de m\u00ed",
+      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1231,6 +1211,26 @@
       "duration_ms": 163682,
       "name": "Antiguo y moderno",
       "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "De M\u00ed",
+        "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
+      },
+      "artists": [
+        {
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 180073,
+      "name": "De M\u00ed",
+      "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "Superpoder",
+        "url": "https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 144272,
+      "name": "Superpoder",
+      "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "MUCHO CON DEMASIAO'",
         "url": "https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 139049,
       "name": "MUCHO CON DEMASIAO'",
       "url": "https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "Superpoder",
-        "url": "https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 144272,
-      "name": "Superpoder",
-      "url": "https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "calma",
+        "url": "https://open.spotify.com/album/0FxGdicC03LBraAb4Zcglc"
+      },
+      "artists": [
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
+        }
+      ],
+      "duration_ms": 119336,
+      "name": "calma",
+      "url": "https://open.spotify.com/track/72u9TVViPWzK3xiuhxRgf0"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "Hasta la Ra\u00edz",
         "url": "https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 159285,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "calma",
-        "url": "https://open.spotify.com/album/0FxGdicC03LBraAb4Zcglc"
-      },
-      "artists": [
-        {
-          "name": "Lito",
-          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
-        }
-      ],
-      "duration_ms": 119336,
-      "name": "calma",
-      "url": "https://open.spotify.com/track/72u9TVViPWzK3xiuhxRgf0"
     },
     {
       "added_at": "2026-08-20 22:49:00",

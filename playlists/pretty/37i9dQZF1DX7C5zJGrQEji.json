@@ -1,12 +1,12 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 15448,
+  "num_followers": 15464,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA1DJ1kCaZvoSINBERewmyTJJaiv",
+  "snapshot_id": "AAAAAAugugKeMBsxW+Zo4CH66JKdhI0n",
   "tracks": [
     {
       "added_at": "2026-06-08 00:27:39",
@@ -737,50 +737,6 @@
       "url": "https://open.spotify.com/track/700of47YXxOgYspt3wjqbg"
     },
     {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4ZwkLK9fernytb3aZvPoAl"
-      },
-      "artists": [
-        {
-          "name": "AySay",
-          "url": "https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Biophonica",
-          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4348UXOK0dbQb4oBQUM31f"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Tiene Poderes (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7m2nAKwrKffUCf0hfybwUq"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Tiene Poderes (feat. NATURE)",
-      "url": "https://open.spotify.com/track/5PU2zLm2VFtORxvbC6GYjr"
-    },
-    {
       "added_at": "2026-04-21 10:00:28",
       "album": {
         "name": "A Shared Pulse",
@@ -803,6 +759,50 @@
       "duration_ms": 144000,
       "name": "Birds Creek",
       "url": "https://open.spotify.com/track/3mNT5C9NJRKT6LhkU9YDXb"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Tiene Poderes (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7m2nAKwrKffUCf0hfybwUq"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Tiene Poderes (feat. NATURE)",
+      "url": "https://open.spotify.com/track/5PU2zLm2VFtORxvbC6GYjr"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4ZwkLK9fernytb3aZvPoAl"
+      },
+      "artists": [
+        {
+          "name": "AySay",
+          "url": "https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Biophonica",
+          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4348UXOK0dbQb4oBQUM31f"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "DON'T ASK DON'T ANSWER (feat. NATURE)",
-        "url": "https://open.spotify.com/album/5IHpH7DE5YWsqhL93aBGv7"
-      },
-      "artists": [
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "DON'T ASK DON'T ANSWER (feat. NATURE)",
-      "url": "https://open.spotify.com/track/3OKpzbpU6pfvBq5SIVLbVb"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Pending (feat. NATURE)",
         "url": "https://open.spotify.com/album/7nMnJbOpcPuQdP2rIRvWaC"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 342400,
       "name": "Pending (feat. NATURE)",
       "url": "https://open.spotify.com/track/02CH0iKD7ME2F2pqOqiEaR"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "DON'T ASK DON'T ANSWER (feat. NATURE)",
+        "url": "https://open.spotify.com/album/5IHpH7DE5YWsqhL93aBGv7"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "DON'T ASK DON'T ANSWER (feat. NATURE)",
+      "url": "https://open.spotify.com/track/3OKpzbpU6pfvBq5SIVLbVb"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Shelter Me (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1nI0Jl5fJmAT3Ouzdujft6"
-      },
-      "artists": [
-        {
-          "name": "Jenny Sturgeon",
-          "url": "https://open.spotify.com/artist/1bzktbHrIylEk8EpIbywZJ"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 254975,
-      "name": "Shelter Me (feat. NATURE)",
-      "url": "https://open.spotify.com/track/00TdCnlbgAGIJE3rWqP1hU"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "In Purpose (feat. NATURE)",
         "url": "https://open.spotify.com/album/0EHyjPgDfmVplZ2oaPLEQG"
       },
@@ -1187,22 +1167,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Orange Skies - Chapter 2 (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4jgHswvb5geQh6pI6EBRur"
+        "name": "Shelter Me (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1nI0Jl5fJmAT3Ouzdujft6"
       },
       "artists": [
         {
-          "name": "Rozzi",
-          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+          "name": "Jenny Sturgeon",
+          "url": "https://open.spotify.com/artist/1bzktbHrIylEk8EpIbywZJ"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 206877,
-      "name": "Orange Skies - Chapter 2 (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4Y2ZhE91YTh1LCZfbW7LhW"
+      "duration_ms": 254975,
+      "name": "Shelter Me (feat. NATURE)",
+      "url": "https://open.spotify.com/track/00TdCnlbgAGIJE3rWqP1hU"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1231,46 +1211,42 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "You & I - Sounds Right (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3GGmipFQbETmm6Frc9v76M"
+        "name": "Orange Skies - Chapter 2 (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4jgHswvb5geQh6pI6EBRur"
       },
       "artists": [
         {
-          "name": "ONR",
-          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
-        },
-        {
-          "name": "Biophonica",
-          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 228693,
-      "name": "You & I - Sounds Right (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2beuW2zkLOUDUcdaoACTuA"
+      "duration_ms": 206877,
+      "name": "Orange Skies - Chapter 2 (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4Y2ZhE91YTh1LCZfbW7LhW"
     },
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Hot Dog on a Stick (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
+        "name": "We Are More (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3SgH8eZY5U8EvhtIQkjjct"
       },
       "artists": [
         {
-          "name": "Quinn Christopherson",
-          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 168260,
-      "name": "Hot Dog on a Stick (feat. NATURE)",
-      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
+      "duration_ms": 181007,
+      "name": "We Are More (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6f4L4gG1eI2jAQBhJ4SfY2"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1303,6 +1279,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "You & I - Sounds Right (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3GGmipFQbETmm6Frc9v76M"
+      },
+      "artists": [
+        {
+          "name": "ONR",
+          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
+        },
+        {
+          "name": "Biophonica",
+          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "You & I - Sounds Right (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2beuW2zkLOUDUcdaoACTuA"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Metropolis (feat. NATURE)",
         "url": "https://open.spotify.com/album/56LyWTBEzesbge7fz95sTi"
       },
@@ -1323,6 +1323,26 @@
       "duration_ms": 291461,
       "name": "Metropolis (feat. NATURE)",
       "url": "https://open.spotify.com/track/2eisqIatF58br1F2BA6b3N"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Hot Dog on a Stick (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
+      },
+      "artists": [
+        {
+          "name": "Quinn Christopherson",
+          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Hot Dog on a Stick (feat. NATURE)",
+      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1415,22 +1435,50 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "We Are More (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3SgH8eZY5U8EvhtIQkjjct"
+        "name": "Oregon Rain (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
       },
       "artists": [
         {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Fay Funk",
+          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
+        },
+        {
+          "name": "Gentle Millennials",
+          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
+        }
+      ],
+      "duration_ms": 260657,
+      "name": "Oregon Rain (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Nightingale (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
+      },
+      "artists": [
+        {
+          "name": "Wildforms",
+          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 181007,
-      "name": "We Are More (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6f4L4gG1eI2jAQBhJ4SfY2"
+      "duration_ms": 163408,
+      "name": "Nightingale (feat. NATURE)",
+      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1463,26 +1511,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Nightingale (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
-      },
-      "artists": [
-        {
-          "name": "Wildforms",
-          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 163408,
-      "name": "Nightingale (feat. NATURE)",
-      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Breathe (feat. NATURE)",
         "url": "https://open.spotify.com/album/4gr69bVV2WxDFAqYf3q2It"
       },
@@ -1503,34 +1531,6 @@
       "duration_ms": 180613,
       "name": "Breathe (feat. NATURE) - Ocean Edit",
       "url": "https://open.spotify.com/track/1SdqHTOuQsSl9I893o4iAr"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Oregon Rain (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Fay Funk",
-          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
-        },
-        {
-          "name": "Gentle Millennials",
-          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
-        }
-      ],
-      "duration_ms": 260657,
-      "name": "Oregon Rain (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1599,30 +1599,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "We Can't Walk Away (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3xGkTOw4uW3y80ViuvcRsW"
-      },
-      "artists": [
-        {
-          "name": "Dirty Vegas",
-          "url": "https://open.spotify.com/artist/2IkHcHKErbWa0TA14yHkbl"
-        },
-        {
-          "name": "Storeys",
-          "url": "https://open.spotify.com/artist/3gba6ezq6TiP73eFzGcMLr"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 241846,
-      "name": "We Can't Walk Away (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7BNm9A4t8tSTrJve0iuiSB"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Running Water (feat.NATURE)",
         "url": "https://open.spotify.com/album/5AtZIB54Q1F6syKbjqiXM7"
       },
@@ -1643,6 +1619,30 @@
       "duration_ms": 178666,
       "name": "Running Water (feat.NATURE)",
       "url": "https://open.spotify.com/track/7lc1sk4MXZUvTvDvheOAaN"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "We Can't Walk Away (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3xGkTOw4uW3y80ViuvcRsW"
+      },
+      "artists": [
+        {
+          "name": "Dirty Vegas",
+          "url": "https://open.spotify.com/artist/2IkHcHKErbWa0TA14yHkbl"
+        },
+        {
+          "name": "Storeys",
+          "url": "https://open.spotify.com/artist/3gba6ezq6TiP73eFzGcMLr"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 241846,
+      "name": "We Can't Walk Away (feat. NATURE)",
+      "url": "https://open.spotify.com/track/7BNm9A4t8tSTrJve0iuiSB"
     },
     {
       "added_at": "2026-04-21 10:00:28",

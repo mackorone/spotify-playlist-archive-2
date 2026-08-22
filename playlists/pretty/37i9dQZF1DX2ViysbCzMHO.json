@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176860,
+  "num_followers": 176863,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIpEqbkAwDNIhdFCbiXan2Kq/zUd",
+  "snapshot_id": "AAAAACpPtK58TvlKIhfh794W2CkqanlD",
   "tracks": [
     {
       "added_at": "2026-06-12 04:02:08",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
         "name": "One Percent (Acoustic)",
         "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "We Got History (Acoustic)",
-        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "We Got History - Acoustic",
-      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
       },
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
       "artists": [
         {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
         "name": "Narcissist (Piano Version)",
         "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 196986,
       "name": "goodbye looks good on you feat. Mitchell Tenpenny (acoustic)",
       "url": "https://open.spotify.com/track/5KhBQkh2LvhuQQCW0hFjNo"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Something's Gonna Kill Me (Piano)",
-        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
+        "name": "Almost Maybes (Acoustic)",
+        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 182893,
-      "name": "Something's Gonna Kill Me - Piano",
-      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
+      "duration_ms": 179907,
+      "name": "Almost Maybes - Acoustic",
+      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
     }
   ],
   "unique_name": "Nashville Stripped",

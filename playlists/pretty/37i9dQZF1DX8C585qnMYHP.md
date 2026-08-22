@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. DjRUM on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,774 likes - 73 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,832 likes - 73 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 72 | [no answer greater than silence, no punishment greater than forgiveness](https://open.spotify.com/track/1yFJ1xSM057m00HXDMHsJK) | [mu tate](https://open.spotify.com/artist/3vFTZMsaFnLOcqvjxCofTP) | [life of mu](https://open.spotify.com/album/1b09PxhpiNit55Eb4Ut7bC) | 3:13 |
 | 73 | [teide//duquedecabra](https://open.spotify.com/track/4YDgwaMdgrm0OgywrMDVzG) | [Pleito](https://open.spotify.com/artist/4O1LWWl1H4vlqn5br1p0Fw) | [teide//duquedecabra](https://open.spotify.com/album/07vZRgCPznpWkPJlvZTGgZ) | 5:07 |
 
-Snapshot ID: `AAAAAJFlOFwMgabfofPykcQGTLnbQH4R`
+Snapshot ID: `AAAAAHn40Rc5qvde7S5YRZeckn66i6DM`

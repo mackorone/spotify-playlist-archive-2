@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "10 Raccoons",
+        "url": "https://open.spotify.com/album/7cnBJ2e7qxKTjbCtOSeoXf"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "10 Raccoons",
+      "url": "https://open.spotify.com/track/5mY7vr3RaRbH3CJQd1sbJe"
+    },
+    {
+      "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
@@ -248,7 +266,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 255786,
       "name": "9",
       "url": "https://open.spotify.com/track/4uCAKqQQYJaIvyzq4sZkaO"
@@ -314,6 +332,28 @@
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176568,
+      "name": "Ah\u00ed",
+      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
     },
     {
       "album": {
@@ -544,7 +584,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 303068,
       "name": "Another Life (Marten Lou Remix)",
       "url": "https://open.spotify.com/track/5EtqS2ue330CHHO1b9AHYS"
@@ -584,7 +624,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 258592,
       "name": "Away From Home",
       "url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
@@ -704,10 +744,28 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 211859,
       "name": "BBW",
       "url": "https://open.spotify.com/track/4gIzhWC1f98N3NtNlyPfY5"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201450,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
     },
     {
       "album": {
@@ -899,6 +957,24 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise",
+        "url": "https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202421,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/5CUs8GTSe0mNt6SOrg0RVH"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
       },
@@ -910,7 +986,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 202421,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
@@ -983,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise",
+        "url": "https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/3nMT1Jf7Uogt2LY7uZvXwV"
+    },
+    {
+      "album": {
         "name": "The Only Love We Know",
         "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
       },
@@ -994,10 +1088,32 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 237210,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+    },
+    {
+      "album": {
+        "name": "Bittersweet (Arabic Piano Remix)",
+        "url": "https://open.spotify.com/album/6kuTvWlPcOV0frcP8dWku8"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Arabic Piano",
+          "url": "https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220819,
+      "name": "Bittersweet (Arabic Piano Remix)",
+      "url": "https://open.spotify.com/track/6rpRzwSKhVFMnmV12rj0NJ"
     },
     {
       "album": {
@@ -1178,6 +1294,24 @@
       "duration_ms": 129005,
       "name": "Bring It To The Room",
       "url": "https://open.spotify.com/track/5mrSJHYXtLyZM1r7HC00zc"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134577,
+      "name": "Brunch",
+      "url": "https://open.spotify.com/track/1jNou4EWZLhHdS4ariitX3"
     },
     {
       "album": {
@@ -1499,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise",
+        "url": "https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214313,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/7ueWMZPnxkkPLUepOUyTNY"
+    },
+    {
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
       },
@@ -1790,6 +1942,28 @@
       "duration_ms": 235477,
       "name": "Come and See Me (feat. Drake)",
       "url": "https://open.spotify.com/track/1wZqJM5FGDEl3FjHDxDyQd"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235477,
+      "name": "Come and See Me (feat. Drake)",
+      "url": "https://open.spotify.com/track/65YJ7HVr5COPRMhvQStiaR"
     },
     {
       "album": {
@@ -2281,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243977,
+      "name": "Don't Run",
+      "url": "https://open.spotify.com/track/16fbKhMaqmnAXIwFJiLV6s"
+    },
+    {
+      "album": {
         "name": "Working On My Karma",
         "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
@@ -2586,7 +2778,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 138865,
       "name": "Energize Bunny",
       "url": "https://open.spotify.com/track/5X0Mf0JPVzU2xXxylyW0h5"
@@ -3076,6 +3268,24 @@
       "duration_ms": 254407,
       "name": "Flight's Booked",
       "url": "https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/3ejC7JGu5WeszCY5Viy9Nb"
     },
     {
       "album": {
@@ -3833,6 +4043,24 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise",
+        "url": "https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Half a Lie",
+      "url": "https://open.spotify.com/track/3gC58YEOdePPleyDPkwrDd"
+    },
+    {
+      "album": {
         "name": "SEPT 5TH",
         "url": "https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc"
       },
@@ -4231,6 +4459,24 @@
     },
     {
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151657,
+      "name": "How You Say My Name",
+      "url": "https://open.spotify.com/track/6KHc4pTSyvmCF73wpO8CCU"
+    },
+    {
+      "album": {
         "name": "HABIBTI",
         "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
       },
@@ -4319,6 +4565,28 @@
     },
     {
       "album": {
+        "name": "I Know (Alex Lustig Remix)",
+        "url": "https://open.spotify.com/album/2bbgIJRJR3WlbXBdiosyXo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "I Know (Alex Lustig Remix)",
+      "url": "https://open.spotify.com/track/19FaT08KI3bTSDushnlaFp"
+    },
+    {
+      "album": {
         "name": "Flower City Heartbreak",
         "url": "https://open.spotify.com/album/4r3eoK1hWHYrsiBJUkCCeB"
       },
@@ -4334,6 +4602,24 @@
       "duration_ms": 192000,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/5yi9vna4VxfT4YzfIkBsyw"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175838,
+      "name": "I Wanna Know",
+      "url": "https://open.spotify.com/track/7jpmwDMfPUrYQrMT0RSdZ3"
     },
     {
       "album": {
@@ -5408,7 +5694,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 301950,
       "name": "Make Them Pay",
       "url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
@@ -5714,7 +6000,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 176316,
       "name": "Miss That",
       "url": "https://open.spotify.com/track/6TtK9zgvxWu3JDzEXMhyuO"
@@ -5736,7 +6022,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 220705,
       "name": "Miss That - Marten Lou Remix",
       "url": "https://open.spotify.com/track/01jOgVUVbmT0lXRaWRmYqi"
@@ -6325,6 +6611,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/2W9N3PX5XmbvF5HA7OR1zo"
+    },
+    {
+      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI"
       },
@@ -6725,6 +7029,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175211,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/3NGOL9YK9gIlY1pEvs96rf"
+    },
+    {
+      "album": {
         "name": "Oprah\u2019s Bank Account (Lil Yachty & DaBaby feat. Drake)",
         "url": "https://open.spotify.com/album/56Abu6NLfNM5X7rJhrUdO4"
       },
@@ -6878,7 +7200,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 272573,
       "name": "Over My Dead Body",
       "url": "https://open.spotify.com/track/749SJvmRHD43wFUnBtUJ36"
@@ -7093,6 +7415,46 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise",
+        "url": "https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Pink City",
+      "url": "https://open.spotify.com/track/10MYtw6MXU4bwDwtww0A1I"
+    },
+    {
+      "album": {
+        "name": "Pink City (Alex Lustig Remix)",
+        "url": "https://open.spotify.com/album/54iAG1iqXe7h8frJHjQvew"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228292,
+      "name": "Pink City (Alex Lustig Remix)",
+      "url": "https://open.spotify.com/track/0K6OhGGsPPol4XyxIBi8MR"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -7232,7 +7594,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 193748,
       "name": "Princess",
       "url": "https://open.spotify.com/track/2OrkG4TIWdm5ZhBwpbr3o0"
@@ -7839,6 +8201,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188940,
+      "name": "Routine Rouge",
+      "url": "https://open.spotify.com/track/3XE4ONqvAqbyADR17aoGO4"
+    },
+    {
+      "album": {
         "name": "Run Up (Remixes)",
         "url": "https://open.spotify.com/album/0dkxUsQkWNVxeU5pSOwbIj"
       },
@@ -7970,6 +8350,28 @@
       "duration_ms": 187066,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/1vScfhgwjsSWwaL8Mlllxc"
+    },
+    {
+      "album": {
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256179,
+      "name": "Say What (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq"
     },
     {
       "album": {
@@ -8372,6 +8774,24 @@
       "duration_ms": 118813,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159650,
+      "name": "Some of Your Love",
+      "url": "https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H"
     },
     {
       "album": {
@@ -9394,7 +9814,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 149504,
       "name": "Time And Trust",
       "url": "https://open.spotify.com/track/2YF0azIXfXDjWCcDbOWCyG"
@@ -9699,6 +10119,24 @@
     },
     {
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173379,
+      "name": "Trust and Believe",
+      "url": "https://open.spotify.com/track/5FiXLGpT8yVhJJWoixbgtM"
+    },
+    {
+      "album": {
         "name": "Trust and Believe",
         "url": "https://open.spotify.com/album/4RmiyoWrOY0MnJPg7bREhg"
       },
@@ -9710,7 +10148,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 173379,
       "name": "Trust and Believe",
       "url": "https://open.spotify.com/track/6hZNetGru859NdFTrzVq2l"
@@ -9732,6 +10170,24 @@
       "duration_ms": 281518,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq"
+    },
+    {
+      "album": {
+        "name": "No Sleep In Paradise",
+        "url": "https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186151,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/3JUcAOTMhZ5U8FFLvDPxGT"
     },
     {
       "album": {
@@ -9846,6 +10302,42 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/3GjFRgUzylTZO5wqxFt9e0"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Two Roads",
+      "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"
+    },
+    {
+      "album": {
+        "name": "Two Tone",
+        "url": "https://open.spotify.com/album/3ko2jwwfdGLtj7U01x12sB"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Two Tone",
+      "url": "https://open.spotify.com/track/3PWjBNSU4kiX11IF1HfY2I"
     },
     {
       "album": {
@@ -10203,6 +10695,24 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise",
+        "url": "https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "Was It Ever Love",
+      "url": "https://open.spotify.com/track/2dUWA1UqoapADqbnUkdhRJ"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Come Home",
         "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
       },
@@ -10353,6 +10863,24 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise",
+        "url": "https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/1f22FGmvlDQ2CPGPE24hDz"
+    },
+    {
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/1ZisyqUteFygp1mxrhh6pr"
       },
@@ -10364,7 +10892,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 208695,
       "name": "Weak",
       "url": "https://open.spotify.com/track/3Xpw079r8oMTfgjCK7dfBB"
@@ -10912,6 +11440,24 @@
       "duration_ms": 230709,
       "name": "You Broke My Heart",
       "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185007,
+      "name": "You Made It",
+      "url": "https://open.spotify.com/track/0ltp7EEFhsMeYjoxywDljd"
     },
     {
       "album": {

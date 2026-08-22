@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47616,
+  "num_followers": 47617,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABVJQFbcI11i/03+0jaLgaF",
+  "snapshot_id": "aoZDgAAAAACO41Z3ZNF3RxwmDx4VG5Cs",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
-        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "No Me Amenaces",
-      "url": "https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mentiras Bonitas",
         "url": "https://open.spotify.com/album/2xGE2zV6wlTDzvnr8aOxcH"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 188644,
       "name": "Mentiras Bonitas",
       "url": "https://open.spotify.com/track/6qBiTDIcNYrGnnGZvZ4hu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "No Me Amenaces",
+      "url": "https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz"
     },
     {
       "added_at": null,

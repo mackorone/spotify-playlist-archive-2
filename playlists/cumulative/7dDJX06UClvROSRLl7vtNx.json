@@ -15941,6 +15941,24 @@
     },
     {
       "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144590,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y"
+    },
+    {
+      "album": {
         "name": "Lie In The Sun",
         "url": "https://open.spotify.com/album/35UaAwNN2jRoooZQKyxjDZ"
       },
@@ -20845,6 +20863,24 @@
     },
     {
       "album": {
+        "name": "Ocean Blue",
+        "url": "https://open.spotify.com/album/28febOzPj7hSiLIYCyCLyg"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/5wMFeAazYMjYVy41pB8JmZ"
+    },
+    {
+      "album": {
         "name": "Ocean Drive",
         "url": "https://open.spotify.com/album/4HbnYh9b5QLGB4WBcXPlKt"
       },
@@ -23098,6 +23134,28 @@
       "duration_ms": 150967,
       "name": "Right For You",
       "url": "https://open.spotify.com/track/6U7N9Avvc1ZHt1ffuSN5cI"
+    },
+    {
+      "album": {
+        "name": "Right Here Tonight",
+        "url": "https://open.spotify.com/album/6oAaD41D9UUeVrgw4avhxC"
+      },
+      "artists": [
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        },
+        {
+          "name": "Juron Cole",
+          "url": "https://open.spotify.com/artist/0zRN5gl7c9aSk5BNie0Kng"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132072,
+      "name": "Right Here Tonight",
+      "url": "https://open.spotify.com/track/7yYmUwVjqEOlmSsxF5PFfW"
     },
     {
       "album": {

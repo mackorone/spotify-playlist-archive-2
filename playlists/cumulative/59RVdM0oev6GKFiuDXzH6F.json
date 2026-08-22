@@ -9535,6 +9535,28 @@
     },
     {
       "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/2VIFfYTg72pDZnuHRkMn6m"
+      },
+      "artists": [
+        {
+          "name": "DANIQ",
+          "url": "https://open.spotify.com/artist/4pVwni0qNGtLWvGhRiXmZl"
+        },
+        {
+          "name": "DRIXS",
+          "url": "https://open.spotify.com/artist/6YYrFdjXYNOIHnoYSsDUBF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149275,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/6UhvUsRQ85ug3Zh0GzHfI9"
+    },
+    {
+      "album": {
         "name": "IDX1",
         "url": "https://open.spotify.com/album/30sETYacvlrmGHTVFumaO5"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Genezio",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Bello&Dallas",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -1149,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "Argent Sale - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Argent Sale - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
+    },
+    {
+      "album": {
         "name": "Ask About Me",
         "url": "https://open.spotify.com/album/6NEcHHEPV0TPY0Gg85UA3C"
       },
@@ -1533,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "Casus Belli",
+        "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Ballon D'or",
+      "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
+    },
+    {
+      "album": {
         "name": "Apr\u00e8s La Vague",
         "url": "https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM"
       },
@@ -1639,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "BBL",
+        "url": "https://open.spotify.com/album/5vETXvgVjoVMQPuduE0pqM"
+      },
+      "artists": [
+        {
+          "name": "OG Plugging",
+          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135793,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/3zoUavHhrlojdvFOxZo1Ny"
+    },
+    {
+      "album": {
         "name": "BEAUX GAR\u00c7ONS",
         "url": "https://open.spotify.com/album/5rstd8cBg9dbCzEpS2KxQw"
       },
@@ -1720,6 +1782,24 @@
       "duration_ms": 158355,
       "name": "Belles choses",
       "url": "https://open.spotify.com/track/7GmH8W71OUqdE2mMPhVDpI"
+    },
+    {
+      "album": {
+        "name": "Belvedere",
+        "url": "https://open.spotify.com/album/5YnbCL9UKWTNZXrISGZV8h"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Belvedere",
+      "url": "https://open.spotify.com/track/5HjHYoZgZCeNvxG0IgmSNE"
     },
     {
       "album": {
@@ -1880,7 +1960,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 207991,
       "name": "Billets Mauves (feat. SDM)",
       "url": "https://open.spotify.com/track/3yz9i3umZaQTIlUYb8o6bn"
@@ -2934,7 +3014,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 159286,
       "name": "Charbon & Diamant",
       "url": "https://open.spotify.com/track/5oG155kA2TGH7ZghnnB6XG"
@@ -4410,7 +4490,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 191136,
       "name": "Dunes & Icebergs",
       "url": "https://open.spotify.com/track/6wB96QMTn984cG7KN2Qt0M"
@@ -4824,7 +4904,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 153490,
       "name": "EXPLICIT 69",
       "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
@@ -5280,7 +5360,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 212636,
       "name": "FOKONKITTELEBANDO (feat. Josman)",
       "url": "https://open.spotify.com/track/2uXytsE3x3BIDHKmGQERNM"
@@ -5392,7 +5472,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 135931,
       "name": "FYL",
       "url": "https://open.spotify.com/track/7FetoUd1SoaTlagkGND9QN"
@@ -6445,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/5GVCopfU4tCgdEEsPeYCiB"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161690,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/4OzXMWmpGN62KLfdy6jAxF"
+    },
+    {
+      "album": {
         "name": "J'aime bien",
         "url": "https://open.spotify.com/album/5rivk9lkTtNj8Qq7kn9dnK"
       },
@@ -6598,6 +6696,24 @@
       "duration_ms": 218000,
       "name": "Jamais",
       "url": "https://open.spotify.com/track/2QLoJNoisxCnoRJiDmDBBj"
+    },
+    {
+      "album": {
+        "name": "Jeunesse Dor\u00e9e",
+        "url": "https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172786,
+      "name": "Je pense \u00e0 toi",
+      "url": "https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8"
     },
     {
       "album": {
@@ -7472,7 +7588,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 102352,
       "name": "LA VAR",
       "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
@@ -7885,6 +8001,28 @@
     },
     {
       "album": {
+        "name": "M.I.L.S 4",
+        "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152282,
+      "name": "LES DIAMANTS DE BOKASSA",
+      "url": "https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK"
+    },
+    {
+      "album": {
         "name": "J.000.$",
         "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
       },
@@ -7962,7 +8100,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 140800,
       "name": "LES NUAGES",
       "url": "https://open.spotify.com/track/5Qq4sDu1AnFOlpldGnjO9Y"
@@ -8184,6 +8322,24 @@
       "duration_ms": 153019,
       "name": "Love ou la monnaie",
       "url": "https://open.spotify.com/track/168wDKskq9yL9n0DusSy4X"
+    },
+    {
+      "album": {
+        "name": "LOVE YOU",
+        "url": "https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "LOVE YOU",
+      "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
     },
     {
       "album": {
@@ -8522,7 +8678,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 142153,
       "name": "MARRAKECH",
       "url": "https://open.spotify.com/track/0WgP5mMrAcsntAw9pilJ5N"
@@ -9835,6 +9991,24 @@
     },
     {
       "album": {
+        "name": "Nowhere 2",
+        "url": "https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179301,
+      "name": "Nowhere 2",
+      "url": "https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD"
+    },
+    {
+      "album": {
         "name": "Que de l'amour 2",
         "url": "https://open.spotify.com/album/4eiOL9WAb34hnjkWf6LFKW"
       },
@@ -9963,6 +10137,24 @@
     },
     {
       "album": {
+        "name": "En Croix",
+        "url": "https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv"
+      },
+      "artists": [
+        {
+          "name": "Lagui",
+          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Olivia Valere",
+      "url": "https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm"
+    },
+    {
+      "album": {
         "name": "Omerta 19",
         "url": "https://open.spotify.com/album/7AsadRpwB5tzCxWWv6uqik"
       },
@@ -10070,7 +10262,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 154000,
       "name": "Opps",
       "url": "https://open.spotify.com/track/64w194RfaOBL7bJr2uD2Zg"
@@ -12310,7 +12502,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 148143,
       "name": "SANTA BARBARA",
       "url": "https://open.spotify.com/track/4hwoCT8J6IbYkvywzBo9Qx"
@@ -13173,6 +13365,28 @@
     },
     {
       "album": {
+        "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
+        "url": "https://open.spotify.com/album/1Fbqsi2HxBGmopqqBQ6iBt"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
+      "url": "https://open.spotify.com/track/58o2zTwld2GgP7RQ2BYU94"
+    },
+    {
+      "album": {
         "name": "T'\u00e9tais pas l\u00e0",
         "url": "https://open.spotify.com/album/4O3pxSltDoV3OtYomu6uAx"
       },
@@ -13224,7 +13438,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 102250,
       "name": "Tadam - Gingembre #2",
       "url": "https://open.spotify.com/track/4clP9lyNGsbh1lAhOeCNyA"
@@ -14710,7 +14924,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 131578,
       "name": "\u00c0 la base",
       "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"

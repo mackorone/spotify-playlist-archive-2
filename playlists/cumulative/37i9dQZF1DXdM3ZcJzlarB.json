@@ -4825,6 +4825,36 @@
     },
     {
       "album": {
+        "name": "Movin' Thru Your System",
+        "url": "https://open.spotify.com/album/466AFfQg86T6QCBh3sqWHa"
+      },
+      "artists": [
+        {
+          "name": "Jark Prongo",
+          "url": "https://open.spotify.com/artist/4ClEUQ8NxfO6jVClYXE2Zh"
+        },
+        {
+          "name": "Chocolate Puma",
+          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+        },
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Brigado Crew",
+          "url": "https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234239,
+      "name": "Movin' Thru Your System",
+      "url": "https://open.spotify.com/track/224jZfleU5Xfq4bAVCTWZ6"
+    },
+    {
+      "album": {
         "name": "Noche Galactica, Vol. 11 (DJ Mix)",
         "url": "https://open.spotify.com/album/6higzHaZhDAVNtZSLKVDfD"
       },
@@ -5918,7 +5948,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 260329,
       "name": "ReAnimation",
       "url": "https://open.spotify.com/track/43ofk81krK92e5sM12mfPC"
@@ -6038,7 +6068,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 447999,
       "name": "Right Place, Right Time - Nicholas Van Orton Remix",
       "url": "https://open.spotify.com/track/4MmRVFNwsCYmIqYo0TImAj"
@@ -6223,6 +6253,24 @@
     },
     {
       "album": {
+        "name": "Rompecorazones",
+        "url": "https://open.spotify.com/album/15s6HeCrMEnbS0X4DYLyA3"
+      },
+      "artists": [
+        {
+          "name": "Eclipse Sonar",
+          "url": "https://open.spotify.com/artist/5lSfIjckXcuXwWEb3BZ3hW"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279090,
+      "name": "Rompecorazones",
+      "url": "https://open.spotify.com/track/62Cc3SGN3o1GNog2D69yxa"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/74Zbn8sDwMG7aQ6WwZZdC1"
       },
@@ -6346,6 +6394,24 @@
       "duration_ms": 282240,
       "name": "Secret Society",
       "url": "https://open.spotify.com/track/7H7YhNmZgcpAwxfuIc9mGj"
+    },
+    {
+      "album": {
+        "name": "Sedosa Medusa",
+        "url": "https://open.spotify.com/album/2kra1QrPDPp7e09mE8kXIW"
+      },
+      "artists": [
+        {
+          "name": "Agustin Giri",
+          "url": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334577,
+      "name": "Sedosa Medusa",
+      "url": "https://open.spotify.com/track/0ZCUsWDSYklnvg2FdnlXGR"
     },
     {
       "album": {
@@ -8150,7 +8216,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 447540,
       "name": "White Room",
       "url": "https://open.spotify.com/track/0cxjbvdlo5pNWJWgfOzZir"

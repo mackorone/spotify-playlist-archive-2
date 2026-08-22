@@ -1,12 +1,12 @@
 {
   "description": "Feeling dramatic? All eyes on you. Cover: Josie Edwards",
-  "num_followers": 566686,
+  "num_followers": 566693,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJgCzbE2CI6cYU5xJdlVFs4cNPxO",
+  "snapshot_id": "AAAAAPH7E6jTZMqDKzkU5efjb9YjVBzm",
   "tracks": [
     {
       "added_at": "2026-08-14 00:00:20",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/7xyxpnf63Bad2KTRNY5a5b"
     },
     {
-      "added_at": "2026-07-31 04:00:20",
+      "added_at": "2026-08-21 04:00:24",
       "album": {
-        "name": "Knight of Swords",
-        "url": "https://open.spotify.com/album/1QspQHGZ9yJhibMqUshuA0"
+        "name": "STARCROSSED",
+        "url": "https://open.spotify.com/album/7B883f1Pcg6WGmP9hz8BOg"
       },
       "artists": [
         {
-          "name": "Alexandria",
-          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        },
+        {
+          "name": "Lydia the Bard",
+          "url": "https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ"
         }
       ],
-      "duration_ms": 159157,
-      "name": "Knight of Swords",
-      "url": "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2"
+      "duration_ms": 185000,
+      "name": "STARCROSSED",
+      "url": "https://open.spotify.com/track/3bxGv7giekHGcXUtGumcVp"
     },
     {
       "added_at": "2026-05-22 04:02:09",
@@ -55,6 +59,22 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-07-31 04:00:20",
+      "album": {
+        "name": "Knight of Swords",
+        "url": "https://open.spotify.com/album/1QspQHGZ9yJhibMqUshuA0"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Knight of Swords",
+      "url": "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2"
     },
     {
       "added_at": "2026-07-24 04:02:21",
@@ -89,20 +109,20 @@
       "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
     },
     {
-      "added_at": "2026-08-07 05:15:42",
+      "added_at": "2026-08-22 01:41:56",
       "album": {
-        "name": "You Are Never Gone From Me",
-        "url": "https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ"
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/53JPasi27ftf9I3E83m8xa"
       },
       "artists": [
         {
-          "name": "Morgana",
-          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
         }
       ],
-      "duration_ms": 212055,
-      "name": "You Are Never Gone From Me",
-      "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
+      "duration_ms": 152352,
+      "name": "born to be",
+      "url": "https://open.spotify.com/track/4Etdr5XcKHRPQ1zy0x4f2K"
     },
     {
       "added_at": "2026-04-03 04:01:43",
@@ -119,6 +139,38 @@
       "duration_ms": 184788,
       "name": "Night at the Opera",
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+    },
+    {
+      "added_at": "2026-07-31 04:00:20",
+      "album": {
+        "name": "Puppet Show",
+        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 182665,
+      "name": "Puppet Show",
+      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+    },
+    {
+      "added_at": "2026-08-07 05:15:42",
+      "album": {
+        "name": "You Are Never Gone From Me",
+        "url": "https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "duration_ms": 212055,
+      "name": "You Are Never Gone From Me",
+      "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
     },
     {
       "added_at": "2026-07-20 18:13:27",
@@ -167,22 +219,6 @@
       "duration_ms": 199973,
       "name": "Expensive Taste",
       "url": "https://open.spotify.com/track/2Q3mfoPvqOZ4TtoXr4Uyv0"
-    },
-    {
-      "added_at": "2026-07-31 04:00:20",
-      "album": {
-        "name": "Puppet Show",
-        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 182665,
-      "name": "Puppet Show",
-      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
     },
     {
       "added_at": "2026-07-10 04:24:09",
@@ -1225,26 +1261,6 @@
       "url": "https://open.spotify.com/track/6hgBTpKs8Ac8a8owmUIwba"
     },
     {
-      "added_at": "2025-08-29 04:00:39",
-      "album": {
-        "name": "TALK SHIT!",
-        "url": "https://open.spotify.com/album/6k3PqczkdzXWh4HQMbAEJe"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        },
-        {
-          "name": "Thomas Sanders",
-          "url": "https://open.spotify.com/artist/2HFEmkJdJwdaSxJbxJpFPs"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "TALK SHIT!",
-      "url": "https://open.spotify.com/track/0pv5rs5Bsq3wY2xz9g66y9"
-    },
-    {
       "added_at": "2025-09-15 22:13:38",
       "album": {
         "name": "Little Caesar",
@@ -1275,22 +1291,6 @@
       "duration_ms": 264386,
       "name": "Me and Mr Wolf",
       "url": "https://open.spotify.com/track/1v6IAzMitH1xrFEZLQmmRN"
-    },
-    {
-      "added_at": "2025-08-18 02:36:33",
-      "album": {
-        "name": "LOCK ME OUT",
-        "url": "https://open.spotify.com/album/1aV0qY4sy2PODMe1pUYRS0"
-      },
-      "artists": [
-        {
-          "name": "Johnny Huynh",
-          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "LOCK ME OUT",
-      "url": "https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW"
     },
     {
       "added_at": "2025-05-27 15:37:48",

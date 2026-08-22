@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 
 > Spellistan att ta fram när det är dags för dans runt midsommarstången.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,886 likes - 40 songs - 53 min 49 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,885 likes - 40 songs - 53 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 | 39 | [Gossen skulle aka](https://open.spotify.com/track/3KQ8Beh0QbZ28fJoWYocKa) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 1:43 |
 | 40 | [Viljen i veta och viljen i förstå](https://open.spotify.com/track/5xq6twDsCl77iS6h9K7NKM) | [Egon Kjerrman med kör och orkester](https://open.spotify.com/artist/0MVzR1WKfkWGTtJXSl4ijD) | [Midsommardanser & lekar](https://open.spotify.com/album/5S1srIhFiebSLvjbmVIdom) | 1:18 |
 
-Snapshot ID: `AAAAAFOy61SC3ifpSmUgNiSph+vsRMm3`
+Snapshot ID: `AAAAAJe0CbWYr9WBwHVpzOerAIz4B1Ln`

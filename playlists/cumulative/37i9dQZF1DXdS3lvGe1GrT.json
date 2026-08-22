@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "A Horse Named Friday",
+        "url": "https://open.spotify.com/album/21qmtTkIwzYprRM6JjXFkH"
+      },
+      "artists": [
+        {
+          "name": "Theo Kandel",
+          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
+        },
+        {
+          "name": "Jackie Evans",
+          "url": "https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259107,
+      "name": "About Dreams",
+      "url": "https://open.spotify.com/track/0ygSWgTJrvmm5jIsxqp3sJ"
+    },
+    {
+      "album": {
         "name": "About It",
         "url": "https://open.spotify.com/album/2tA9iTX6e5UbpCSE3axalq"
       },
@@ -11846,6 +11868,24 @@
       "duration_ms": 223127,
       "name": "Fear of the Unknown",
       "url": "https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy"
+    },
+    {
+      "album": {
+        "name": "Feel The Cold",
+        "url": "https://open.spotify.com/album/6EluIVtZFAVC8yBCMfLuoi"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215565,
+      "name": "Feel The Cold",
+      "url": "https://open.spotify.com/track/6yABWz5onWwYfJR7PUoLfP"
     },
     {
       "album": {

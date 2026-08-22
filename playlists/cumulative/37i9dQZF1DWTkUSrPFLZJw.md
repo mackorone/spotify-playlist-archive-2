@@ -4,7 +4,7 @@
 
 > atopa risers
 
-114 songs - 5 hr 30 min
+115 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Olivia](https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Olivia](https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm) | 3:05 | 2025-10-24 | 2026-07-26 |
 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 | 2025-10-24 |  |
 | [OMO TI O COMMON](https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [OMO TI O COMMON](https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE) | 2:54 | 2026-03-06 | 2026-04-21 |
+| [Osei Baby](https://open.spotify.com/track/0djbgPJX00eWz6TOq0oaxx) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Osei Baby](https://open.spotify.com/album/5TPs8kUvZfRQr7IG0EzWUw) | 2:32 | 2026-08-19 |  |
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2025-10-24 | 2025-12-19 |
 | [PERFECT](https://open.spotify.com/track/5VcBK6eirQsOO92WnPttfV) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [PERFECT](https://open.spotify.com/album/0XDuOML42KfQQDHX7wsXgo) | 3:06 | 2026-04-10 | 2026-05-15 |
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2025-10-24 |  |
@@ -91,7 +92,7 @@
 | [Ruwa II](https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Prince Mk Baagi](https://open.spotify.com/artist/5XjKFOEIxrR3zRZcVHFYfT) | [From The Soil \(Deluxe\)](https://open.spotify.com/album/59SDRCS6J3z8NouM1PRHDO) | 3:03 | 2025-12-05 | 2026-05-15 |
 | [sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 | 2025-10-24 | 2026-07-31 |
 | [Scatter](https://open.spotify.com/track/6v0ipIa8GlGXd6kkzYiaYn) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Scatter](https://open.spotify.com/album/3BDEtVroY0AYKNJ7m51JO2) | 2:09 | 2026-02-27 | 2026-03-06 |
-| [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 | 2025-10-24 |  |
+| [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 | 2025-10-24 | 2026-08-22 |
 | [See What We've Done](https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42) | 3:05 | 2025-10-24 |  |
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-10-24 | 2026-05-15 |
 | [SHINO](https://open.spotify.com/track/3fFA0WjTKhmzUvZfs7oSMP) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [SHINO](https://open.spotify.com/album/2AsWpX2iv574sBU1aSsscw) | 2:26 | 2026-02-06 | 2026-04-17 |

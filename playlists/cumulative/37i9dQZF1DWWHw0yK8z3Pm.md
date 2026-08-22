@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Orville Peck
 
-759 songs - 1 day 21 hr 58 min
+760 songs - 1 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Back On The Gas](https://open.spotify.com/track/2QC0ghem0k3a6ACILZEJ3N) | [John Shambles](https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl) | [Back On The Gas](https://open.spotify.com/album/7qQJvQr6iuQ5kzTzclsSrS) | 2:50 | 2026-02-06 | 2026-03-22 |
 | [Back to Me](https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Back to Me](https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML) | 3:01 | 2025-10-17 |  |
 | [Back to You](https://open.spotify.com/track/6mUwYseemAWVt1BJJhcSDC) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Back to You](https://open.spotify.com/album/4ieLgIodUv5nDX2LlRUSpe) | 2:57 | 2024-06-28 | 2025-02-21 |
+| [Bad Bad Women](https://open.spotify.com/track/55O5z2DPUJnmOttl91NYMr) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Bad Bad Women](https://open.spotify.com/album/55IToxJrbccNeyGNztfcKG) | 3:06 | 2026-07-10 |  |
 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 | 2022-07-29 | 2022-09-25 |
 | [Bad Behavior](https://open.spotify.com/track/32QNlupJDEx6Ha2eT8RNvp) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Bad Behavior](https://open.spotify.com/album/5MRIfoEi8dvZpncW13iUlQ) | 3:37 | 2022-07-29 | 2022-11-14 |
 | [Bad Behavior](https://open.spotify.com/track/5vKoSX086LuAR2iZFQMwGa) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/46FhQ98XqfWOMraBAouQ2n) | 3:37 | 2022-09-23 | 2023-07-12 |
@@ -369,7 +370,7 @@
 | [It's So Hard to Hold On](https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [It's so Hard to Hold On](https://open.spotify.com/album/64z3mnnIQf44D7dumfUWJY) | 3:37 | 2022-06-17 | 2022-11-12 |
 | [Iydlmlmg](https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2) | [The Secret Beach](https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3) | [Iydlmlmg](https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1) | 2:57 | 2022-12-09 | 2023-05-04 |
 | [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 | 2022-09-10 |
-| [January](https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP) | [Marie Dresselhuis](https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL) | [January](https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w) | 3:17 | 2026-01-09 |  |
+| [January](https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP) | [Marie Dresselhuis](https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL) | [January](https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w) | 3:17 | 2026-01-09 | 2026-08-22 |
 | [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 | 2023-04-21 | 2024-11-01 |
 | [John Came Home](https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:11 | 2023-04-21 | 2023-06-24 |
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-12-06 | 2025-01-18 |

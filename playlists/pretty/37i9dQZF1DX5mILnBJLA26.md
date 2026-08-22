@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves right now\.  Cover: Xduppy, Angekebabuye Mc
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,184 likes - 50 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,694 likes - 50 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Bhampa](https://open.spotify.com/track/1WNbXkIVNxBM8wEeZnHcun) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Bhampa](https://open.spotify.com/album/66O7J1XvlMjXYgVQQJZJ23) | 6:47 |
 | 50 | [ZENZELE \(feat\. Royal MusiQ, Uncool MC, Xduppy, & CowBoii\)](https://open.spotify.com/track/4foPE26gCg9uNJKTV8Mi4C) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [4 Da Ho's](https://open.spotify.com/album/5Pk03zQ4TZY7s72qtMX0HR) | 4:33 |
 
-Snapshot ID: `AAAAAM+jBQX2zQlGH1+/bXnEY/d/Be+i`
+Snapshot ID: `AAAAAFS8gPflx5wqvz1Yz9KIsu/cEn46`

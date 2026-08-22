@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 290955,
+  "num_followers": 290978,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxfXw7CcZav5MQ8FUj7vnhK/i+m",
+  "snapshot_id": "AAAAALyemFxZXI97onZzkiXtcP6aZCsX",
   "tracks": [
     {
       "added_at": "2026-02-11 22:47:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Cold Hard Truth",
-        "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Choices",
-      "url": "https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "You In A Honky Tonk",
         "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 183570,
       "name": "You In A Honky Tonk",
       "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Cold Hard Truth",
+        "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
-      },
-      "artists": [
-        {
-          "name": "Charlie Robison",
-          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 187106,
       "name": "If I Had A Boat",
       "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
+      },
+      "artists": [
+        {
+          "name": "Charlie Robison",
+          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Three Days",
-        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Tramp On Your Street",
         "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 169440,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Three Days",
-        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Texas On My Mind",
-      "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Billy Joe Shaver",
         "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 176973,
       "name": "I Been to Georgia on a Fast Train",
       "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Texas On My Mind",
+      "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Beer, Bait and Ammo",
-        "url": "https://open.spotify.com/album/7eM2NVyKYavESvxkNxrE8T"
-      },
-      "artists": [
-        {
-          "name": "Kevin Fowler",
-          "url": "https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n"
-        }
-      ],
-      "duration_ms": 315924,
-      "name": "Beer, Bait and Ammo",
-      "url": "https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Brand New Me",
         "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 189413,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Beer, Bait and Ammo",
+        "url": "https://open.spotify.com/album/7eM2NVyKYavESvxkNxrE8T"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fowler",
+          "url": "https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n"
+        }
+      ],
+      "duration_ms": 315924,
+      "name": "Beer, Bait and Ammo",
+      "url": "https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Texas Cookin",
-        "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "Anyhow, I Love You",
-      "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "The Waiting",
         "url": "https://open.spotify.com/album/0n6zxAXMLA2dDZx4bLs6IG"
       },
@@ -1327,22 +1311,6 @@
       "duration_ms": 275523,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/3dlM0Jy0cLRzAOeBxMt7Mw"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
-        "name": "How Lucky Am I",
-        "url": "https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 237578,
-      "name": "How Lucky Am I",
-      "url": "https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1363,18 +1331,34 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Love Me Instead",
-        "url": "https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR"
+        "name": "How Lucky Am I",
+        "url": "https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 181560,
-      "name": "Mine All Mine",
-      "url": "https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn"
+      "duration_ms": 237578,
+      "name": "How Lucky Am I",
+      "url": "https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Texas Cookin",
+        "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "Anyhow, I Love You",
+      "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1395,34 +1379,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Milestones- Greatest Hits",
-        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
+        "name": "Love Me Instead",
+        "url": "https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR"
       },
       "artists": [
         {
-          "name": "Holly Dunn",
-          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 157773,
-      "name": "There Goes My Heart Again",
-      "url": "https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
-        "name": "Marfa Lights",
-        "url": "https://open.spotify.com/album/24NOQ09OAx540cYX976EEo"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Marfa Lights",
-      "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
+      "duration_ms": 181560,
+      "name": "Mine All Mine",
+      "url": "https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1443,6 +1411,22 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
+        "name": "Marfa Lights",
+        "url": "https://open.spotify.com/album/24NOQ09OAx540cYX976EEo"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Marfa Lights",
+      "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
         "name": "Lovers and Leavers",
         "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 248440,
       "name": "The Love That We Need",
       "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Milestones- Greatest Hits",
+        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
+      },
+      "artists": [
+        {
+          "name": "Holly Dunn",
+          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "There Goes My Heart Again",
+      "url": "https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH"
     },
     {
       "added_at": "2026-02-11 22:47:27",

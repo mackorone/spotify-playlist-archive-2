@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Os Amantes, Jaloo, Strobo",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Turmallina",
   "name": "alt BR",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 172053,
       "name": "Agu\u00e7a",
       "url": "https://open.spotify.com/track/4QoRAKN5XUGSN2zEekKrnK"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 169000,
       "name": "BALA DE BANANA",
       "url": "https://open.spotify.com/track/48TkQgizaqWSIajEodSKLx"
@@ -2514,6 +2514,32 @@
       "duration_ms": 140242,
       "name": "Bonde das Onri\u00e7ada",
       "url": "https://open.spotify.com/track/2iMmCHAkh92esr7gM9JP8z"
+    },
+    {
+      "album": {
+        "name": "BONDE MACONHA DINHEIRO",
+        "url": "https://open.spotify.com/album/7Bdx6kJmfTotWhlv9DiOlw"
+      },
+      "artists": [
+        {
+          "name": "Edgar",
+          "url": "https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z"
+        },
+        {
+          "name": "Os Fita",
+          "url": "https://open.spotify.com/artist/7wua7sU6gveVafplNfkruj"
+        },
+        {
+          "name": "Jup do Bairro",
+          "url": "https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206972,
+      "name": "BONDE MACONHA DINHEIRO",
+      "url": "https://open.spotify.com/track/6MB0tz8Z4F702FXuVznf3M"
     },
     {
       "album": {
@@ -5593,6 +5619,24 @@
     },
     {
       "album": {
+        "name": "Enquanto o Mundo Dorme",
+        "url": "https://open.spotify.com/album/4nh8zz4n025C1gpk8mEYNe"
+      },
+      "artists": [
+        {
+          "name": "Turmallina",
+          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246692,
+      "name": "Enquanto o Mundo Dorme",
+      "url": "https://open.spotify.com/track/1Aizc7h1FQLvanoAM9j1Fx"
+    },
+    {
+      "album": {
         "name": "Ensaio",
         "url": "https://open.spotify.com/album/3ur8ZakC3YuzTtIqVgIFyz"
       },
@@ -7068,6 +7112,24 @@
       "duration_ms": 171496,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/070LHp7zkcBY0e3yaGBWjH"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e9inquinump\u00e1ra 09: Fortaleza",
+        "url": "https://open.spotify.com/album/5zvjxc5Ap4A0BECbcGKWow"
+      },
+      "artists": [
+        {
+          "name": "Vitor Brauer",
+          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228469,
+      "name": "Fortaleza Wonderland",
+      "url": "https://open.spotify.com/track/3RUDkFfdoVnBt1sbQ4RRUh"
     },
     {
       "album": {
@@ -9206,7 +9268,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 104125,
       "name": "Me Diz Que Vai Ficar Tudo Bem",
       "url": "https://open.spotify.com/track/0odwNQkRJs4vrvPfovvOHl"
@@ -10010,6 +10072,40 @@
     {
       "album": {
         "name": "Miragem",
+        "url": "https://open.spotify.com/album/0zRBBc9pFNp01FGZU5QLOf"
+      },
+      "artists": [
+        {
+          "name": "Chico e o Mar",
+          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
+        },
+        {
+          "name": "Dani Moreira",
+          "url": "https://open.spotify.com/artist/0YerJYEEjFvkA4QolzhvVa"
+        },
+        {
+          "name": "Thales Siqueira",
+          "url": "https://open.spotify.com/artist/31KbZX4ariVrEsA2g50GeT"
+        },
+        {
+          "name": "dereco",
+          "url": "https://open.spotify.com/artist/6rFTJ13LrX7GY9wsvRRIw0"
+        },
+        {
+          "name": "GUI HOPE",
+          "url": "https://open.spotify.com/artist/0oEm2Z7kGNSuDVXCpIniC9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162919,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/2JpJZNS3cMAU9FyfbYjYpZ"
+    },
+    {
+      "album": {
+        "name": "Miragem",
         "url": "https://open.spotify.com/album/0HojO28voC2yp1xbnIIldq"
       },
       "artists": [
@@ -10686,6 +10782,24 @@
       "duration_ms": 350549,
       "name": "Netuno",
       "url": "https://open.spotify.com/track/4txAAaLKHl9ZZGx3Zm0vDy"
+    },
+    {
+      "album": {
+        "name": "New Country",
+        "url": "https://open.spotify.com/album/49wE44zCkyZJdplyQFqIFK"
+      },
+      "artists": [
+        {
+          "name": "Garotas Suecas",
+          "url": "https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268593,
+      "name": "New Country",
+      "url": "https://open.spotify.com/track/1682LH1SQUVyUsHHZM6zWr"
     },
     {
       "album": {
@@ -17586,7 +17700,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 204019,
       "name": "Vestida de Vento",
       "url": "https://open.spotify.com/track/1DIZQjhCkTRYr3ci5qFiqZ"
@@ -17884,7 +17998,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 227807,
       "name": "Voc\u00ea J\u00e1 Sabe Que Eu Te Amo",
       "url": "https://open.spotify.com/track/5Rnie3NITLaAfeBKIcTSPu"

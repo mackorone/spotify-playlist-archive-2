@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Clair de Lune Variation (After Suite Bergamasque CD 82/L.75: III. Clair de Lune)",
+        "url": "https://open.spotify.com/album/6fXix6kDoCq46NqJvssuAF"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105527,
+      "name": "Clair de Lune Variation (After Suite Bergamasque CD 82/L.75: III. Clair de Lune)",
+      "url": "https://open.spotify.com/track/3MB6PEhgViZUiTc6u9Esod"
+    },
+    {
+      "album": {
         "name": "Constant Flow",
         "url": "https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6"
       },
@@ -1846,6 +1868,28 @@
       "duration_ms": 171381,
       "name": "Stronghold",
       "url": "https://open.spotify.com/track/7u88VSbgr8shaE8AEQgxWr"
+    },
+    {
+      "album": {
+        "name": "Sula bassana",
+        "url": "https://open.spotify.com/album/1cvq1mlUEqgHkRQFpmx3AG"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163658,
+      "name": "Sula bassana - Excerpt II",
+      "url": "https://open.spotify.com/track/4gLfPQ5wKTjH6wpx74Irdr"
     },
     {
       "album": {

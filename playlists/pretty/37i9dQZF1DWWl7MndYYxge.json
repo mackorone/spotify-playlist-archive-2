@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 1178564,
+  "num_followers": 1178549,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBbIGCnGNmnTUkz1LJAinS9fkUe",
+  "snapshot_id": "AAAAAF00VPF/Wdpf6Ux5pfhYqpxuuHt+",
   "tracks": [
     {
       "added_at": "2026-03-19 15:24:01",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 208000,
       "name": "Words - Original Version 1983",
       "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
+        "name": "Dure limite (Remasteris\u00e9 en 2015)",
+        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9phone",
+          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "\u00c7a (c'est vraiment toi) - Remasteris\u00e9 en 2015",
+      "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
         "name": "\u00c9videmment",
         "url": "https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 291400,
       "name": "Ella, elle l'a",
       "url": "https://open.spotify.com/track/3XM3TD08DSAzl84yasWP1x"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Dure limite (Remasteris\u00e9 en 2015)",
-        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
+        "name": "Macumba",
+        "url": "https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8"
       },
       "artists": [
         {
-          "name": "T\u00e9l\u00e9phone",
-          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
+          "name": "Jean-Pierre Mader",
+          "url": "https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI"
         }
       ],
-      "duration_ms": 268560,
-      "name": "\u00c7a (c'est vraiment toi) - Remasteris\u00e9 en 2015",
-      "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
+      "duration_ms": 219835,
+      "name": "Macumba",
+      "url": "https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Macumba",
-        "url": "https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8"
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
       "artists": [
         {
-          "name": "Jean-Pierre Mader",
-          "url": "https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 219835,
-      "name": "Macumba",
-      "url": "https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2"
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
-      },
-      "artists": [
-        {
-          "name": "Indeep",
-          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
-        }
-      ],
-      "duration_ms": 341426,
-      "name": "Last Night a D.J. Saved My Life",
-      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "True Colors: The Best Of Cyndi Lauper",
         "url": "https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 236293,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
+      },
+      "artists": [
+        {
+          "name": "Indeep",
+          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Last Night a D.J. Saved My Life",
+      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
     },
     {
       "added_at": "2026-03-19 15:24:01",

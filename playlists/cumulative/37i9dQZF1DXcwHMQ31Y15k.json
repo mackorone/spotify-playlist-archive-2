@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk, Arlida Putri\n",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty\n",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -9327,6 +9327,32 @@
     },
     {
       "album": {
+        "name": "Sekip \"Setia Kui Pekok\"",
+        "url": "https://open.spotify.com/album/1wzqa35XAl68qOTkCqeq2S"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Jeyma Monica",
+          "url": "https://open.spotify.com/artist/13TIqNSApj4u450gNHdCHN"
+        },
+        {
+          "name": "Mabes Balker",
+          "url": "https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328800,
+      "name": "Sekip \"Setia Kui Pekok\"",
+      "url": "https://open.spotify.com/track/7q5BFR9RaX1mxy6xvR1t6d"
+    },
+    {
+      "album": {
         "name": "Sekip (Setia Kui Pekok)",
         "url": "https://open.spotify.com/album/1tnRVtz5YEMb8eagnIkgz6"
       },
@@ -9824,6 +9850,28 @@
       "duration_ms": 267428,
       "name": "Sinau Nrimo",
       "url": "https://open.spotify.com/track/0xnUxhsbccYpkX1myS74M8"
+    },
+    {
+      "album": {
+        "name": "Sinedya",
+        "url": "https://open.spotify.com/album/6FqDh3JKeEARCtEiPgHj0I"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Damar Panggalih",
+          "url": "https://open.spotify.com/artist/6yMvE7gFLEhI9oJKEIR7ru"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298376,
+      "name": "Sinedya",
+      "url": "https://open.spotify.com/track/2jpvBk5k2QOK1dOu22eKi3"
     },
     {
       "album": {

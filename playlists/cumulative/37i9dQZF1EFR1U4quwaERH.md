@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 6 hr 18 min
+119 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [If You Wanted To You Would](https://open.spotify.com/track/50wU2r744nTEXB7US8uj0H) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:11 | 2026-06-28 |  |
 | [Impala](https://open.spotify.com/track/1hSd9wVOZKN9bkctsRMSJM) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [APPETITE FOR DISASTER](https://open.spotify.com/album/2xKVOKhRSFgKTrwhTPGoZe) | 3:07 | 2025-11-07 |  |
 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-11-07 |  |
+| [Joshua Tree](https://open.spotify.com/track/6HzNXN730dXkoUeSlPFWrv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep \(Little Bit Extra Version\)](https://open.spotify.com/album/38jx3wDxS45zzKUIeAE4Z7) | 3:23 | 2026-08-21 |  |
 | [Just Like Jenny](https://open.spotify.com/track/39fXwsp5ZQG76nN9mGBzbb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:58 | 2025-11-07 | 2026-04-13 |
 | [Just Like Jenny](https://open.spotify.com/track/5C2EPFs7ZWqARGv5qZJurY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:58 | 2026-04-12 |  |
 | [Just Like Magic](https://open.spotify.com/track/4qiyNCTRPTMQsWcANwYSMt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3), [Genuine](https://open.spotify.com/artist/4nmRuRFucxxIWpYvlYyPcq) | [THE COLLECTIVE \(VOLUME 01\)](https://open.spotify.com/album/3h5rFOauIzjwqCUMWFNDLi) | 2:24 | 2025-11-07 |  |

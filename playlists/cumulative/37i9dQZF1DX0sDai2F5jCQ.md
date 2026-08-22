@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Nerve
 
-910 songs - 1 day 19 hr 42 min
+910 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 | 2024-05-30 | 2025-01-10 |
 | [OneFiftySix](https://open.spotify.com/track/0DFqnJth2R095rHyUYV5WJ) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [OneFiftySix](https://open.spotify.com/album/10hbqvq12fb3EQYwSVijj6) | 1:43 | 2025-07-17 | 2026-01-23 |
 | [Only Time](https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Only Time](https://open.spotify.com/album/2Y9KP6WWhMETlq1IwGCE2d) | 3:22 | 2025-10-02 | 2025-12-05 |
+| [Opium](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 3:38 | 2026-08-20 |  |
 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 | 2024-10-31 | 2025-02-28 |
 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 | 2024-09-05 | 2024-12-13 |
 | [Organic Motion \(feat\. DJ.Fresh\)](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Organic Motion \(feat\. DJ.Fresh\)](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 | 2026-07-02 |  |
@@ -738,6 +739,7 @@
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-09-22 | 2024-01-05 |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-22 | 2025-05-16 |
 | [STACEY DASH](https://open.spotify.com/track/0J9YLQGnB9cFavyuUNeQED) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [KEEP YOUR EYE ON THE SPARROW](https://open.spotify.com/album/1Lpe2J6iS42mPh7yoQGr6o) | 3:06 | 2025-06-19 | 2025-07-22 |
+| [Standing on It](https://open.spotify.com/track/764bnTCXLpQY73bNB5uZDL) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [The Price Of Fame](https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu) | 2:46 | 2026-08-20 |  |
 | [STARGAZING](https://open.spotify.com/track/3j9p8mytLdqHSYcGIkGYuq) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [STARGAZING](https://open.spotify.com/album/4DzFlutgVcuBtfHrY66Ieb) | 2:58 | 2023-09-22 | 2023-10-27 |
 | [Statistic](https://open.spotify.com/track/1oNCGrtyBeljG6xovZfa6m) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO) | [Statistic](https://open.spotify.com/album/2hbb8uAn508T2KtLdaLFGO) | 3:05 | 2024-01-25 | 2024-03-01 |
 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 | 2024-04-02 | 2024-06-14 |
@@ -823,8 +825,6 @@
 | [Touch Tight](https://open.spotify.com/track/573IKEOcJbl5FOKLrZfoPl) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Touch Tight](https://open.spotify.com/album/4s6Wa5Rokzi0dmSmxdNFGm) | 1:31 | 2024-12-05 | 2025-03-21 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-10-11 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-09-22 | 2023-12-22 |
-| [Track 2](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 0:00 | 2026-08-20 |  |
-| [Track 4](https://open.spotify.com/track/764bnTCXLpQY73bNB5uZDL) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [The Price Of Fame](https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu) | 0:00 | 2026-08-20 |  |
 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 | 2026-01-29 | 2026-06-19 |
 | [Trance \(Walk It Down\)](https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trance \(Walk It Down\)](https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40) | 2:41 | 2026-08-14 |  |
 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 | 2025-02-20 | 2025-05-30 |

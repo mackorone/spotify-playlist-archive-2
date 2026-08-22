@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Relaxed beats to game, vibe and stay unbothered
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,459 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,586 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [BUTTERFLY EFFECT](https://open.spotify.com/track/5iNd2j2BsJvG27QohTUlNn) | [ANDER](https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d) | [BUTTERFLY EFFECT](https://open.spotify.com/album/5FoEBAa5jL8AJZIGWeKzaN) | 2:22 |
 | 50 | [Lost in 84](https://open.spotify.com/track/0EZkhX2ROJGSxsAaD3qLxA) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Lost in 84](https://open.spotify.com/album/4OWyKPQutGfrKK4sINSvmh) | 2:34 |
 
-Snapshot ID: `AAAAAP9vVEv9n6jZ4bhZ48c4yOWmXltr`
+Snapshot ID: `AAAAAINN5inmqoz7iXp5QGB5iN6qTIaq`

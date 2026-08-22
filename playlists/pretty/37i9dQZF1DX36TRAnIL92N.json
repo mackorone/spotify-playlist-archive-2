@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 502412,
+  "num_followers": 502585,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOGVcdG1EZSN23ypDE/IIIQ46zTG",
+  "snapshot_id": "AAAAANErFnAOu9S5Q6+bALTCqBaDUx9p",
   "tracks": [
     {
       "added_at": "2026-08-07 04:11:56",
@@ -787,18 +787,22 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
+        "name": "See Me Coming",
+        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
         }
       ],
-      "duration_ms": 169105,
-      "name": "Testo Skin Part 1",
-      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
+      "duration_ms": 256511,
+      "name": "See Me Coming",
+      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -819,22 +823,18 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "See Me Coming",
-        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
       },
       "artists": [
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 256511,
-      "name": "See Me Coming",
-      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
+      "duration_ms": 169105,
+      "name": "Testo Skin Part 1",
+      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
     },
     {
       "added_at": "2026-08-07 04:11:56",

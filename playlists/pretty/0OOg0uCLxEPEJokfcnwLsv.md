@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,246 likes - 85 songs - 5 hr 6 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,255 likes - 89 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 83 | [Where Did You Sleep Last Night](https://open.spotify.com/track/5vMHbAgEDngb6bD2XLbkl6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Where Did You Sleep Last Night](https://open.spotify.com/album/0xLiJzAYXwsMjN97xRJjZ5) | 4:37 |
 | 84 | [Old Enough](https://open.spotify.com/track/72Fx8gY38Wr9XxETrPEvKd) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Old Enough](https://open.spotify.com/album/7b6P1hUrUxbPTOXU4E7EkI) | 3:26 |
 | 85 | [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 |
+| 86 | [Sombra](https://open.spotify.com/track/5BMFCvyN2LsLyiZTk1yFWj) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto III](https://open.spotify.com/album/3CwO3k5yLQmvPr6wXfY8xq) | 5:14 |
+| 87 | [Immaterial](https://open.spotify.com/track/3ch8q6zYdTeVCxBDZylFT2) | [Angela Begin](https://open.spotify.com/artist/3342mS0xaJlst2UDMCMvPY) | [Immaterial](https://open.spotify.com/album/2CXAueGVyyVU9vUF38yWry) | 2:22 |
+| 88 | [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 |
+| 89 | [Skinny Boyfriend](https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Skinny Boyfriend](https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J) | 3:29 |
 
-Snapshot ID: `AAAG1POH4sQap39pgMwAUZ+yZtPZRxWS`
+Snapshot ID: `AAAG2NpfSK8X1Erbwd7EX4cAmxkSaayf`

@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "Ankomst",
+        "url": "https://open.spotify.com/album/3SRnF9hyMqeN4NX2Ymx6Ls"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        },
+        {
+          "name": "Nico Rosenberg",
+          "url": "https://open.spotify.com/artist/4MezBnEnw5gvmQamhQfvXs"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Ankomst",
+      "url": "https://open.spotify.com/track/6mFz5W8sA3Kpp5BSWYh13k"
+    },
+    {
+      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/3NechcpDZ40RPHAwh5MUdb"
       },
@@ -1377,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Car Fights Ep",
+        "url": "https://open.spotify.com/album/566VgXixPOJmI1p3zYNfAS"
+      },
+      "artists": [
+        {
+          "name": "Royal Vera",
+          "url": "https://open.spotify.com/artist/1qVUTHjwFxRVHmnY3V1Pn2"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1056000,
+      "name": "Car Fights",
+      "url": "https://open.spotify.com/track/4J8HZqepzqv1S6nngxtYkR"
+    },
+    {
+      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV"
       },
@@ -1676,7 +1716,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 183652,
       "name": "Continuum",
       "url": "https://open.spotify.com/track/6swozrqHhagXLafbMLCHKJ"
@@ -3683,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "Inner Sun",
+        "url": "https://open.spotify.com/album/3LbZ2rwV1HC4grCSHgp2Wv"
+      },
+      "artists": [
+        {
+          "name": "Koroan",
+          "url": "https://open.spotify.com/artist/2ZiQmEObZQrqrEZuibyqFD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137777,
+      "name": "Inner Sun",
+      "url": "https://open.spotify.com/track/78uY1a1m6646hmA9oBWS11"
+    },
+    {
+      "album": {
         "name": "Inner Sunrise",
         "url": "https://open.spotify.com/album/0rXmkmKUzX4hcAZVpwHZZ5"
       },
@@ -4865,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Morning on Mars",
+        "url": "https://open.spotify.com/album/1cpJ1xMGTytROAHws46w2z"
+      },
+      "artists": [
+        {
+          "name": "Moving Gradients",
+          "url": "https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198007,
+      "name": "Morning on Mars",
+      "url": "https://open.spotify.com/track/0ClV6xYhZelZahYEv93wOB"
+    },
+    {
+      "album": {
         "name": "Muons",
         "url": "https://open.spotify.com/album/5ioCD8xo3Ns2wnHc6nNvUh"
       },
@@ -5099,6 +5175,24 @@
     },
     {
       "album": {
+        "name": "New Spring",
+        "url": "https://open.spotify.com/album/3OeyXvrp0Fm4LoNPB0TzJ3"
+      },
+      "artists": [
+        {
+          "name": "Drift & Thread",
+          "url": "https://open.spotify.com/artist/3iPIJlWTbjSCQIdpkpznGy"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "New Spring",
+      "url": "https://open.spotify.com/track/0C0pbJZs9eYk1irPGMD1Ql"
+    },
+    {
+      "album": {
         "name": "Night's within",
         "url": "https://open.spotify.com/album/5WU1lIbSOo8E9rL9j8Jens"
       },
@@ -5146,7 +5240,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 142916,
       "name": "Night\u2019s Deep Silence",
       "url": "https://open.spotify.com/track/0Rn3MXH369fACAZZZBlfWH"
@@ -6292,7 +6386,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 178909,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/149Xy5MvcQDcjojG58dks2"
@@ -6350,6 +6444,24 @@
       "duration_ms": 145768,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
+    },
+    {
+      "album": {
+        "name": "Tabula Rasa",
+        "url": "https://open.spotify.com/album/46V2gIUIyjRbuYdnVTC6zo"
+      },
+      "artists": [
+        {
+          "name": "Sun Rain",
+          "url": "https://open.spotify.com/artist/4gbnaYTPtgBssKasyGWPZH"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227667,
+      "name": "Sol 3",
+      "url": "https://open.spotify.com/track/4oopkIwUazOQDOWeHh4Rlu"
     },
     {
       "album": {
@@ -6965,6 +7077,36 @@
     },
     {
       "album": {
+        "name": "II Reworked",
+        "url": "https://open.spotify.com/album/1EsypK4DiuwCIWJKghB9Hy"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255248,
+      "name": "Sworn - Alex Somers Rework",
+      "url": "https://open.spotify.com/track/0VaNWbl9KRhiQKeKymUb65"
+    },
+    {
+      "album": {
         "name": "S\u00f3lestur",
         "url": "https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN"
       },
@@ -7217,6 +7359,46 @@
     },
     {
       "album": {
+        "name": "The Slow Within",
+        "url": "https://open.spotify.com/album/3PftfxUI1JspoBtYoAPf6E"
+      },
+      "artists": [
+        {
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+        },
+        {
+          "name": "SOOTHE & SLEEP",
+          "url": "https://open.spotify.com/artist/2RekgqfzfdeUzGS6a7Q6Gv"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "The Slow Within",
+      "url": "https://open.spotify.com/track/6SCU524tS3UwL3bHJfOkMt"
+    },
+    {
+      "album": {
+        "name": "The Water Beyond the Leaves",
+        "url": "https://open.spotify.com/album/25LTs0xgM8truZ9if6bh8d"
+      },
+      "artists": [
+        {
+          "name": "Mossveil",
+          "url": "https://open.spotify.com/artist/1pGMWeyrRfSLEB3p6XCxO5"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "The Water Beyond the Leaves",
+      "url": "https://open.spotify.com/track/7ArIeZLkZ9BhwtrPEj1jQP"
+    },
+    {
+      "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg"
       },
@@ -7250,6 +7432,28 @@
       "duration_ms": 162000,
       "name": "Through The Mist",
       "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
+    },
+    {
+      "album": {
+        "name": "Tidal Memory",
+        "url": "https://open.spotify.com/album/6xJ5YPk4PcMSbsGhAk7X6S"
+      },
+      "artists": [
+        {
+          "name": "Human Is Alive",
+          "url": "https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7"
+        },
+        {
+          "name": "Le Code",
+          "url": "https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Tidal Memory",
+      "url": "https://open.spotify.com/track/56aE0uJxlK9wRxPwuRTy1V"
     },
     {
       "album": {
@@ -7779,6 +7983,24 @@
     },
     {
       "album": {
+        "name": "What Remains",
+        "url": "https://open.spotify.com/album/7BdckfzjbDuo2zApHXDbPF"
+      },
+      "artists": [
+        {
+          "name": "Raphah",
+          "url": "https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "What Remains",
+      "url": "https://open.spotify.com/track/6LyAcTGg9mEWhfWLsDjkQr"
+    },
+    {
+      "album": {
         "name": "When It Was Just A Dream",
         "url": "https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ"
       },
@@ -7952,7 +8174,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 190434,
       "name": "With All My Heart",
       "url": "https://open.spotify.com/track/0Rv7UMvF5vaBdY4MgIRofT"

@@ -2,9 +2,9 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Jovem MK, Majis, CRYSTAYLE, MC KTRINE, Paola Spena
+> Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Muse Maya
 
-261 songs - 11 hr 34 min
+262 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Polaroid](https://open.spotify.com/track/7Ic1gXHYOwfAPDpYQIYvef) | [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94), [Madhí](https://open.spotify.com/artist/2jJyxRBbyAEPJ5tm8zXsaY), [Lucas Coji](https://open.spotify.com/artist/21clDnn5F4vdFthtKFO5lY) | [Polaroid](https://open.spotify.com/album/47CHenMbZPUpsD7mEBl0uw) | 2:32 | 2023-07-28 | 2024-03-16 |
 | [Pouco Papo](https://open.spotify.com/track/1Aym3JK7L1rWBqhFuoC0qJ) | [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Pouco Papo](https://open.spotify.com/album/3m5L2aX6vQ0m1XIN0etKha) | 2:59 | 2024-10-11 |  |
 | [Pra Te Envolver](https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Pra Te Envolver](https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1) | 2:15 | 2022-03-18 | 2026-03-28 |
+| [PREDESTINADA \(feat\. Nagalli\)](https://open.spotify.com/track/6I2Rp5BPCCEBoknjR2Cbx5) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 1:46 | 2026-08-21 |  |
 | [Preta f\* quente](https://open.spotify.com/track/2330GWgB2sdm1XIqhrp97W) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Cacau 50% , Vol.2](https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG) | 2:19 | 2026-05-29 |  |
 | [Pretinha de Lace](https://open.spotify.com/track/0Axye7yoG2A8gpwb0UyUzz) | [Raabe](https://open.spotify.com/artist/0yAvQF59yzNugeb7m0LD5Z), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Pretinha de Lace](https://open.spotify.com/album/0CbZ6pwIukM4Y2iPFQ7Ztq) | 2:10 | 2023-07-28 | 2023-09-26 |
 | [Princesinha 220v](https://open.spotify.com/track/6BBxKxvZC6oI01ujBVeI5a) | [Thaiga](https://open.spotify.com/artist/2pah7gsh8SfyngWVHzvsY4), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY) | [Princesinha 220v](https://open.spotify.com/album/6JtCRz1ZnHQWMLpqQrw5c2) | 3:27 | 2022-10-14 | 2023-07-01 |
@@ -215,7 +216,7 @@
 | [PROFESSORA](https://open.spotify.com/track/60eDrFcc9Rmj91W3NTdByE) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [BRUNE](https://open.spotify.com/artist/6LFvBfpdorzVD0EH2ljTZY), [Hadockhouse](https://open.spotify.com/artist/6lTQ3q3T4dJaaGbGINUmgh) | [PROFESSORA](https://open.spotify.com/album/0jQRQtskkBvQKBosVV1LD2) | 2:38 | 2024-09-20 |  |
 | [Pula em Mim](https://open.spotify.com/track/3hIc3UgiyAF8290nR24149) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Volúpia](https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8) | 2:17 | 2022-03-18 | 2022-05-14 |
 | [Pussy Gang](https://open.spotify.com/track/2uXXWRuYv6A70mj0cq3qhI) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pussy Gang](https://open.spotify.com/album/67ZypIXlENQDTdK8b61b8M) | 2:43 | 2022-03-18 | 2023-07-01 |
-| [Qual Teu Preço](https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Qual Teu Preço](https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK) | 2:35 | 2022-09-23 |  |
+| [Qual Teu Preço](https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Qual Teu Preço](https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK) | 2:35 | 2022-09-23 | 2026-08-22 |
 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 | 2022-03-18 | 2023-05-06 |
 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 | 2023-08-04 |  |
 | [QUEEN](https://open.spotify.com/track/6jAKucqBZTsUImOlZQvBnS) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [QUEEN](https://open.spotify.com/album/7qeWEAZSxFvAkW2IaMOrQV) | 3:10 | 2023-11-10 | 2024-02-17 |

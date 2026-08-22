@@ -1,12 +1,12 @@
 {
   "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Queens of the Stoneage",
-  "num_followers": 906049,
+  "num_followers": 905917,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPD8ri4PRhoCRQS1StyleoWU/Ufz",
+  "snapshot_id": "AAAAAD2iagZaCeXO1JONI0rX1gK4oztA",
   "tracks": [
     {
       "added_at": "2026-07-17 17:11:11",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-07-17 17:11:11",
       "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
+    },
+    {
+      "added_at": "2026-07-17 17:11:11",
+      "album": {
         "name": "No More Tears To Cry",
         "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/1bmip4OvKbC0t1VYbZqv8O"
-    },
-    {
-      "added_at": "2026-07-17 17:11:11",
-      "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
     },
     {
       "added_at": "2026-07-17 17:11:11",

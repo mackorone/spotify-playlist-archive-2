@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟<br/>cover: Grace Carter
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,372 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,387 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 79 | [DON'T KNOW MY NAME](https://open.spotify.com/track/0beqxMYv8GFXgDIGrd7Y5g) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [DON'T KNOW MY NAME](https://open.spotify.com/album/0eItI8wzjDThHfU0eqCo2C) | 2:52 |
 | 80 | [Bad Girl July](https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Bad Girl July](https://open.spotify.com/album/4YZfvDqzaQSrEmTcpdfRq5) | 4:01 |
 
-Snapshot ID: `AAAAAP6p+/AUd9ZwLno5W+cpGjRo+2DT`
+Snapshot ID: `AAAAAMoP8Z3ColEus6MjpVWgZQzIMkyK`

@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/2yS1sw7IMW7pRLZYhULYjK"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112659,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/5UdAHGey3lg8HBmAgRzNop"
+    },
+    {
+      "album": {
         "name": "Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",
         "url": "https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9"
       },

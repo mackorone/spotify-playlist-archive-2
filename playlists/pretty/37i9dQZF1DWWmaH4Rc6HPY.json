@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Cherry Chola en portada.",
-  "num_followers": 39281,
+  "num_followers": 39280,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFU3pqALGZB+y29lhkBdY9Ni435X",
+  "snapshot_id": "AAAAAKVsuxtLesfXZ0wQ82Mq4IRYIb9l",
   "tracks": [
     {
       "added_at": "2026-08-14 06:00:34",
@@ -31,18 +31,18 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 191526,
-      "name": "YO VISTO AS\u00cd",
-      "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"
+      "duration_ms": 180000,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -63,18 +63,18 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
+      "duration_ms": 191526,
+      "name": "YO VISTO AS\u00cd",
+      "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Ya Es Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Vuelvo A Ti",
-      "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Plan A",
         "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 178202,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Ya Es Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Vuelvo A Ti",
+      "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Faltas T\u00fa",
-        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "Faltas T\u00fa",
-      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Vinculo",
         "url": "https://open.spotify.com/album/33sr9mQyBS6HDyG9NpSRpi"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 256713,
       "name": "Vinculo",
       "url": "https://open.spotify.com/track/2JXWGqA83AR8QDrYHnWabc"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "Pop Rock",
+        "url": "https://open.spotify.com/album/0fBK2XFrgxTKQMYrLDQxsI"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Veneno y Arena",
+      "url": "https://open.spotify.com/track/4xRc4vzso6gm1waaBUFIoM"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "Me Toca A M\u00ed",
         "url": "https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 180340,
       "name": "Me Toca A M\u00ed",
       "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Pop Rock",
-        "url": "https://open.spotify.com/album/0fBK2XFrgxTKQMYrLDQxsI"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Veneno y Arena",
-      "url": "https://open.spotify.com/track/4xRc4vzso6gm1waaBUFIoM"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Por Si No Te Vuelvo A Ver",
-        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 185464,
-      "name": "Por Si No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Jet Love",
         "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 203193,
       "name": "Cinco Horas Menos",
       "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Por Si No Te Vuelvo A Ver",
+        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 185464,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "MAPAS II",
-        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 223125,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Alta Fidelidad",
         "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 230097,
       "name": "Quisiera Ser Como T\u00fa",
       "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "MAPAS II",
+        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -987,18 +987,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Mentiras Arriesgadas",
-        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
+        "name": "7 Secretos",
+        "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
       },
       "artists": [
         {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 212960,
-      "name": "Mentiras Arriesgadas",
-      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
+      "duration_ms": 191107,
+      "name": "Dame Love - Remix",
+      "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "7 Secretos",
-        "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
+        "name": "Mentiras Arriesgadas",
+        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
       },
       "artists": [
         {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
         }
       ],
-      "duration_ms": 191107,
-      "name": "Dame Love - Remix",
-      "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
+      "duration_ms": 212960,
+      "name": "Mentiras Arriesgadas",
+      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We? (Deluxe / Remastered 2026)",
         "url": "https://open.spotify.com/album/7ktarJEh4sDBnMvmGeAXuA"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 277557,
       "name": "Dreams - Spanish Mix (2026)",
       "url": "https://open.spotify.com/track/05T4MrrXyH4HvBCFieKqKY"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
     },
     {
       "added_at": "2026-08-14 06:00:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Temsu Clover
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,599 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,686 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 46 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 |
 | 47 | [Woh](https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY), [Sthiti](https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw), [Shruti Prakash Dash](https://open.spotify.com/artist/2FeA4uJpvcZ1uemmSaC1Qj) | [Woh](https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x) | 3:14 |
 | 48 | [Aas](https://open.spotify.com/track/7MLSIlkM9B2NhKMlAFRQc7) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Aaghaz](https://open.spotify.com/artist/6VblvHVLbQqdZvCeg9IcTA) | [Aas](https://open.spotify.com/album/3ouQsqA555hLFhrObzNezV) | 3:10 |
-| 49 | [Heeriye](https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK) | [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Heeriye](https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj) | 3:35 |
-| 50 | [Dil Se](https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Dil Se](https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg) | 4:17 |
+| 49 | [Dil Se](https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Dil Se](https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg) | 4:17 |
+| 50 | [Heeriye](https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK) | [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Heeriye](https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj) | 3:35 |
 | 51 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 |
 | 52 | [Jee Na Paaye](https://open.spotify.com/track/1IGvo9KLLTHiW35zisOi8I) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Priyankit Jaiswal](https://open.spotify.com/artist/2m2eci1WqPBHVqrHyrpCsP), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Jee Na Paaye](https://open.spotify.com/album/7ddSBdRGiFibkVZsqEztuL) | 3:52 |
 | 53 | [Piya](https://open.spotify.com/track/067DbzLwQzTCkhz7Aw4GN8) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Haal\-e\-Dil](https://open.spotify.com/album/08MA1gXMtK4u5dmsyJEURe) | 2:21 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 63 | [Dariya](https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 2:52 |
 | 64 | [Le Jaa](https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr) | [Adeetiiya](https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Le Jaa](https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA) | 2:34 |
 | 65 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
-| 66 | [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 |
-| 67 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
+| 66 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
+| 67 | [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 |
 | 68 | [Saanjh](https://open.spotify.com/track/73HnMlPFhxQ4jqvqUWS0qO) | [Kartik Raman](https://open.spotify.com/artist/7a85VvAoGbPO0AKuYnq7Oc), [Vinayak Raman Krishnamurthy](https://open.spotify.com/artist/2cj1ZOGcrt32VfxqWALf0d) | [Saanjh](https://open.spotify.com/album/2eselSZqVzpUQXp2SYcamV) | 4:00 |
 | 69 | [Thirinjin](https://open.spotify.com/track/7xks8vdAWuKzoh8xHJLntX) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 3:03 |
 | 70 | [Jaa Tujhe Ishq Ho](https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH) | [Snehdeep Singh Kalsi](https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Jaa Tujhe Ishq Ho](https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
 | 75 | [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 |
 
-Snapshot ID: `AAAAAIhkRI20td04i4hoC0LVDCMxHotN`
+Snapshot ID: `AAAAAMLrsJsQpejNh4KnmYbDRqlfZHIO`

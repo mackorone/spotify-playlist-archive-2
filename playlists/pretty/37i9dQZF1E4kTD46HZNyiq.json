@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALlt/w5JIcqpGNBHza8FHfcxGGbl",
+  "snapshot_id": "AAAAAA7mLYnUH+QzdTTP6JLIS/3RFpFJ",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olympia",
+        "url": "https://open.spotify.com/album/3joUkie2ZoNneYqgM4NpDJ"
+      },
+      "artists": [
+        {
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Olympia",
+      "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lost Years",
         "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
       },
@@ -132,41 +148,25 @@
           "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Through the Silence",
-      "url": "https://open.spotify.com/track/40pt5JgG38qE0Z2Bqx51lf"
+      "duration_ms": 245511,
+      "name": "Miles Ahead",
+      "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vacation Manor",
-        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
+        "name": "Heart Baby",
+        "url": "https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq"
       },
       "artists": [
         {
-          "name": "Vacation Manor",
-          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
+          "name": "Recent Rumors",
+          "url": "https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn"
         }
       ],
-      "duration_ms": 296426,
-      "name": "If Only for Tonight",
-      "url": "https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Second Wind",
-        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
-      },
-      "artists": [
-        {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Notice",
-      "url": "https://open.spotify.com/track/2l4RX5GHXaoJdKbRZkFji8"
+      "duration_ms": 186763,
+      "name": "Kissing Slowly",
+      "url": "https://open.spotify.com/track/0lwvhzjVdByuRWMz2f7Sfl"
     },
     {
       "added_at": null,
@@ -187,18 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1pkSvMMS7vSTpYNcVhNE4d"
+        "name": "Beautiful Dangerous",
+        "url": "https://open.spotify.com/album/4EzK08959kkIicOgW59P7s"
       },
       "artists": [
         {
-          "name": "thebandfriday",
-          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+          "name": "Heart Of Gold",
+          "url": "https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ"
         }
       ],
-      "duration_ms": 180952,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2jW4NPHX8uilq8HtZY7xbR"
+      "duration_ms": 215923,
+      "name": "Co-Dependent",
+      "url": "https://open.spotify.com/track/3x4iiQSOqfzfZ4MFmKMSAv"
     },
     {
       "added_at": null,
@@ -267,18 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart Baby",
-        "url": "https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq"
+        "name": "Love is Complicated",
+        "url": "https://open.spotify.com/album/6Tfulm7bKzePnNBUZrzGRt"
       },
       "artists": [
         {
-          "name": "Recent Rumors",
-          "url": "https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn"
+          "name": "Drive!Drive!",
+          "url": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
         }
       ],
-      "duration_ms": 186763,
-      "name": "Kissing Slowly",
-      "url": "https://open.spotify.com/track/0lwvhzjVdByuRWMz2f7Sfl"
+      "duration_ms": 163619,
+      "name": "Love Is Complicated",
+      "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
+      },
+      "artists": [
+        {
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Notice",
+      "url": "https://open.spotify.com/track/2l4RX5GHXaoJdKbRZkFji8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lost Years",
         "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
       },
@@ -308,25 +324,9 @@
           "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
         }
       ],
-      "duration_ms": 245511,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As The Light Fades",
-        "url": "https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb"
-      },
-      "artists": [
-        {
-          "name": "Rohin",
-          "url": "https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "Chinatown In The Rain",
-      "url": "https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM"
+      "duration_ms": 228000,
+      "name": "Through the Silence",
+      "url": "https://open.spotify.com/track/40pt5JgG38qE0Z2Bqx51lf"
     },
     {
       "added_at": null,
@@ -340,41 +340,41 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 275400,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4L1OHPKmNkkZ7AhBDfsU3H"
+      "duration_ms": 219440,
+      "name": "Ghost Hotel",
+      "url": "https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Olympia",
-        "url": "https://open.spotify.com/album/3joUkie2ZoNneYqgM4NpDJ"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1pkSvMMS7vSTpYNcVhNE4d"
       },
       "artists": [
         {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Olympia",
-      "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
+      "duration_ms": 180952,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2jW4NPHX8uilq8HtZY7xbR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Things I Can't Explain",
-        "url": "https://open.spotify.com/album/7wgZmvDWGSc66ldpWFXX6g"
+        "name": "Vacation Manor",
+        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
       },
       "artists": [
         {
-          "name": "Dekleyn",
-          "url": "https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI"
+          "name": "Vacation Manor",
+          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
         }
       ],
-      "duration_ms": 229685,
-      "name": "Things I Can't Explain",
-      "url": "https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq"
+      "duration_ms": 211613,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hotel",
-        "url": "https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP"
+        "name": "III",
+        "url": "https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
         }
       ],
-      "duration_ms": 240746,
-      "name": "The Hotel",
-      "url": "https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6"
+      "duration_ms": 252200,
+      "name": "hey, u up?",
+      "url": "https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1"
     },
     {
       "added_at": null,
@@ -443,18 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "On the Corner Where You Live",
-        "url": "https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU"
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/71CdtfTUZJ7D82iiF4SWsp"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Heart Of Gold",
+          "url": "https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ"
         }
       ],
-      "duration_ms": 276480,
-      "name": "On the Corner Where You Live",
-      "url": "https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS"
+      "duration_ms": 212416,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/3I3cztm9B7DIryjEegY1AY"
     },
     {
       "added_at": null,
@@ -475,6 +475,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
+      },
+      "artists": [
+        {
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+        }
+      ],
+      "duration_ms": 175374,
+      "name": "Honey (I believe in us)",
+      "url": "https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4L1OHPKmNkkZ7AhBDfsU3H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Dream Through Open Eyes",
         "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
       },
@@ -491,66 +523,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu"
+        "name": "Over Overthinking EP",
+        "url": "https://open.spotify.com/album/4Y6JYm6j5WB6rgWBAJvNPZ"
       },
       "artists": [
         {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+          "name": "Dekleyn",
+          "url": "https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI"
         }
       ],
-      "duration_ms": 219440,
-      "name": "Ghost Hotel",
-      "url": "https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh"
+      "duration_ms": 212752,
+      "name": "Stuck On Repeat",
+      "url": "https://open.spotify.com/track/4IumexempE0GomP9xOj30B"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vacation Manor",
-        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
+        "name": "Lost In The Everglow",
+        "url": "https://open.spotify.com/album/1tikGiZYjz59UCtaadfoDD"
       },
       "artists": [
         {
-          "name": "Vacation Manor",
-          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
+          "name": "Chief",
+          "url": "https://open.spotify.com/artist/03rKoyn1N8wUowLCHGcG33"
         }
       ],
-      "duration_ms": 236330,
-      "name": "Thoughts in Progress",
-      "url": "https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Dangerous",
-        "url": "https://open.spotify.com/album/4EzK08959kkIicOgW59P7s"
-      },
-      "artists": [
-        {
-          "name": "Heart Of Gold",
-          "url": "https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ"
-        }
-      ],
-      "duration_ms": 215923,
-      "name": "Co-Dependent",
-      "url": "https://open.spotify.com/track/3x4iiQSOqfzfZ4MFmKMSAv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Masse",
-        "url": "https://open.spotify.com/album/5Tt9C5IN4ZPLqKqhxHcjGb"
-      },
-      "artists": [
-        {
-          "name": "Mike Edel",
-          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Still Thinking About You",
-      "url": "https://open.spotify.com/track/1g4iJDDM1tBIE0cIVVkscX"
+      "duration_ms": 223932,
+      "name": "Your Weather",
+      "url": "https://open.spotify.com/track/0lTYWQMg4TufelFuXlKwCC"
     },
     {
       "added_at": null,
@@ -580,15 +580,15 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 320493,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3uX0hLfztbtbZOs88lhHyh"
+      "duration_ms": 203600,
+      "name": "Put Your Money On Me",
+      "url": "https://open.spotify.com/track/0m0WnrSwoiH9cJe0ZxnkfT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Craving",
-        "url": "https://open.spotify.com/album/2QuTqltRhdGF4jjNc4r6iT"
+        "name": "The Hotel",
+        "url": "https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP"
       },
       "artists": [
         {
@@ -596,15 +596,15 @@
           "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
         }
       ],
-      "duration_ms": 221624,
-      "name": "Craving",
-      "url": "https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd"
+      "duration_ms": 240746,
+      "name": "The Hotel",
+      "url": "https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Young and in Love",
-        "url": "https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo"
+        "name": "Outta This Town",
+        "url": "https://open.spotify.com/album/1j1svJWfsmWNbWB7bRaQsX"
       },
       "artists": [
         {
@@ -612,25 +612,25 @@
           "url": "https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y"
         }
       ],
-      "duration_ms": 222750,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1eZfQxzuj9HzQ0SrPJAhOy"
+      "duration_ms": 176250,
+      "name": "Outta This Town",
+      "url": "https://open.spotify.com/track/1XB5f0zAlslSQcYflH1il3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019ll Explain Later",
-        "url": "https://open.spotify.com/album/4Kr3QVLQx9tIb9FMqYSwn1"
+        "name": "As The Light Fades",
+        "url": "https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb"
       },
       "artists": [
         {
-          "name": "Hotel Apache",
-          "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
+          "name": "Rohin",
+          "url": "https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs"
         }
       ],
-      "duration_ms": 230138,
-      "name": "Maybe, One Day",
-      "url": "https://open.spotify.com/track/7lDD6klBmwKuoqmql1RuE2"
+      "duration_ms": 236773,
+      "name": "Chinatown In The Rain",
+      "url": "https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM"
     },
     {
       "added_at": null,
@@ -660,9 +660,25 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 313400,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M"
+      "duration_ms": 292200,
+      "name": "Don't Go Dark",
+      "url": "https://open.spotify.com/track/1f4CgPlQUVrhXphghXUU3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I\u2019ll Explain Later",
+        "url": "https://open.spotify.com/album/4Kr3QVLQx9tIb9FMqYSwn1"
+      },
+      "artists": [
+        {
+          "name": "Hotel Apache",
+          "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
+        }
+      ],
+      "duration_ms": 230138,
+      "name": "Maybe, One Day",
+      "url": "https://open.spotify.com/track/7lDD6klBmwKuoqmql1RuE2"
     },
     {
       "added_at": null,
@@ -676,57 +692,41 @@
           "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
         }
       ],
-      "duration_ms": 228080,
-      "name": "Soundtrack",
-      "url": "https://open.spotify.com/track/0EyVRIUOD2x2oiv8VqC8wK"
+      "duration_ms": 204040,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lost In The Everglow",
-        "url": "https://open.spotify.com/album/1tikGiZYjz59UCtaadfoDD"
+        "name": "En Masse",
+        "url": "https://open.spotify.com/album/5Tt9C5IN4ZPLqKqhxHcjGb"
       },
       "artists": [
         {
-          "name": "Chief",
-          "url": "https://open.spotify.com/artist/03rKoyn1N8wUowLCHGcG33"
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
         }
       ],
-      "duration_ms": 223932,
-      "name": "Your Weather",
-      "url": "https://open.spotify.com/track/0lTYWQMg4TufelFuXlKwCC"
+      "duration_ms": 207960,
+      "name": "Still Thinking About You",
+      "url": "https://open.spotify.com/track/1g4iJDDM1tBIE0cIVVkscX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pale Ash",
-        "url": "https://open.spotify.com/album/5OJo9rpvpcFLhrN9lk2gBN"
+        "name": "Runaround",
+        "url": "https://open.spotify.com/album/5MtOrMQwm9050zvX8DjaYo"
       },
       "artists": [
         {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+          "name": "The Catalina",
+          "url": "https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Pale Ash",
-      "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vacation Manor",
-        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
-      },
-      "artists": [
-        {
-          "name": "Vacation Manor",
-          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
+      "duration_ms": 197706,
+      "name": "Runaround",
+      "url": "https://open.spotify.com/track/4EyroIb0uLZLqhnLn8ymCH"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Put Your Money On Me",
-      "url": "https://open.spotify.com/track/0m0WnrSwoiH9cJe0ZxnkfT"
+      "duration_ms": 320493,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3uX0hLfztbtbZOs88lhHyh"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm"
+        "name": "Craving",
+        "url": "https://open.spotify.com/album/2QuTqltRhdGF4jjNc4r6iT"
       },
       "artists": [
         {
@@ -772,15 +772,15 @@
           "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
         }
       ],
-      "duration_ms": 252200,
-      "name": "hey, u up?",
-      "url": "https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1"
+      "duration_ms": 221624,
+      "name": "Craving",
+      "url": "https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Outta This Town",
-        "url": "https://open.spotify.com/album/1j1svJWfsmWNbWB7bRaQsX"
+        "name": "Cutting Edge Stuff",
+        "url": "https://open.spotify.com/album/1CwW0jNyO2eLdu7Udf6M8D"
       },
       "artists": [
         {
@@ -788,25 +788,25 @@
           "url": "https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Outta This Town",
-      "url": "https://open.spotify.com/track/1XB5f0zAlslSQcYflH1il3"
+      "duration_ms": 228260,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LIVE2CHANGE",
-        "url": "https://open.spotify.com/album/6ecWsjMZOSTlX6bc3IBJpQ"
+        "name": "Stranger (To Your Love)",
+        "url": "https://open.spotify.com/album/4BtvCNYsKi4wPnBTp04t4w"
       },
       "artists": [
         {
-          "name": "Hotel Apache",
-          "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
+          "name": "Heart Of Gold",
+          "url": "https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ"
         }
       ],
-      "duration_ms": 215882,
-      "name": "LIVE2CHANGE",
-      "url": "https://open.spotify.com/track/4wCqQgIc4K9VMWC7YZKcTS"
+      "duration_ms": 221982,
+      "name": "Stranger (To Your Love)",
+      "url": "https://open.spotify.com/track/3GvaA0jlVUoKqLORvgmOBn"
     }
   ],
   "unique_name": "NIGHT TRAVELER Radio",

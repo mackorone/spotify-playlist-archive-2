@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Ashley Milred",
-  "num_followers": 41656,
+  "num_followers": 41655,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOsTIETH0LYUlUNQyke5bk+25YDg",
+  "snapshot_id": "AAAAAPsICU55V/WqaDNOmnLhqHJWMWuK",
   "tracks": [
     {
       "added_at": "2026-07-03 12:10:50",
@@ -71,30 +71,6 @@
       "duration_ms": 217100,
       "name": "Nattamthiri",
       "url": "https://open.spotify.com/track/08EvZ9JF4jwBfqiu9i4750"
-    },
-    {
-      "added_at": "2026-01-16 09:26:59",
-      "album": {
-        "name": "Khuda",
-        "url": "https://open.spotify.com/album/0YHrwh80kqIX6NZ4NEcV9J"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        },
-        {
-          "name": "Suhail Koya",
-          "url": "https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv"
-        }
-      ],
-      "duration_ms": 324166,
-      "name": "Khuda",
-      "url": "https://open.spotify.com/track/3MdbyaX5P8fkgPrxEtfLwR"
     },
     {
       "added_at": "2026-06-11 23:33:10",
@@ -189,6 +165,26 @@
       "url": "https://open.spotify.com/track/6tNRFJDScbnLWNrOqIHeVv"
     },
     {
+      "added_at": "2026-08-21 11:42:55",
+      "album": {
+        "name": "Akale",
+        "url": "https://open.spotify.com/album/08p7H5AhHYnCNnARMRgatc"
+      },
+      "artists": [
+        {
+          "name": "Feby Mohan",
+          "url": "https://open.spotify.com/artist/5YMOSvuvrDBoJQz4XfwyOE"
+        },
+        {
+          "name": "Evugin",
+          "url": "https://open.spotify.com/artist/33QRiIIZlm5Rwc9qwkX5aI"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Akale",
+      "url": "https://open.spotify.com/track/3mxOqRat5L0KkUAGYvpyCF"
+    },
+    {
       "added_at": "2026-08-07 10:50:03",
       "album": {
         "name": "Aaro Aaro",
@@ -223,26 +219,6 @@
       "duration_ms": 190244,
       "name": "Ee Chandranum",
       "url": "https://open.spotify.com/track/2W9hWuajVBTGauBx3lJVkx"
-    },
-    {
-      "added_at": "2026-06-26 05:54:07",
-      "album": {
-        "name": "Noolamala",
-        "url": "https://open.spotify.com/album/4Ad426mNBONNpAty8mbJfC"
-      },
-      "artists": [
-        {
-          "name": "Agnivesh",
-          "url": "https://open.spotify.com/artist/01UX7W5Z9vhVafQVILiHXD"
-        },
-        {
-          "name": "Ganga Prakash",
-          "url": "https://open.spotify.com/artist/1vu8YOPMRbZ0B4EEDq9rNQ"
-        }
-      ],
-      "duration_ms": 225762,
-      "name": "Noolamala",
-      "url": "https://open.spotify.com/track/4Z0cF2rUYt94lgbM20OaQ8"
     },
     {
       "added_at": "2026-08-02 10:59:36",

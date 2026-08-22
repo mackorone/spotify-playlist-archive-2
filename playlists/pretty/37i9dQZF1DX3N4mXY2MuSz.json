@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE82xgGmLK55/Gh7TsJUc4Wo8S42",
+  "snapshot_id": "AAAAAJ71lxRA7vjGQwHNFQ/u5DceL/K/",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Groovy Xmas",
-        "url": "https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 133028,
-      "name": "Groovy Xmas",
-      "url": "https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Punk Rawk Christmas",
         "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 177666,
       "name": "Christmas Day",
       "url": "https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Groovy Xmas",
+        "url": "https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 133028,
+      "name": "Groovy Xmas",
+      "url": "https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Black Christmas",
-        "url": "https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9"
-      },
-      "artists": [
-        {
-          "name": "Poly Styrene",
-          "url": "https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Black Christmas",
-      "url": "https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Punk Rawk Christmas",
         "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 220593,
       "name": "Another Christmas",
       "url": "https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Black Christmas",
+        "url": "https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9"
+      },
+      "artists": [
+        {
+          "name": "Poly Styrene",
+          "url": "https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Black Christmas",
+      "url": "https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "A More Angry Than Naughty Kamakazi Christmas",
-        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
+        "name": "Christma-ska",
+        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
       },
       "artists": [
         {
-          "name": "A Kamakazi Christmas",
-          "url": "https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR"
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
         }
       ],
-      "duration_ms": 52250,
-      "name": "It's Beginning to Look a Lot Like Shitmas",
-      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
+      "duration_ms": 159133,
+      "name": "Rudy Christmas A Jail",
+      "url": "https://open.spotify.com/track/1iICcD096UT9ckrlTent5j"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christma-ska",
-        "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
+        "name": "A More Angry Than Naughty Kamakazi Christmas",
+        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
       },
       "artists": [
         {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+          "name": "A Kamakazi Christmas",
+          "url": "https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Rudy Christmas A Jail",
-      "url": "https://open.spotify.com/track/1iICcD096UT9ckrlTent5j"
+      "duration_ms": 52250,
+      "name": "It's Beginning to Look a Lot Like Shitmas",
+      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "All I Want for Christmas Is You",
-        "url": "https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0"
-      },
-      "artists": [
-        {
-          "name": "The Dollyrots",
-          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
-        }
-      ],
-      "duration_ms": 164655,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas is Canceled",
         "url": "https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 132509,
       "name": "Christmas is Canceled",
       "url": "https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "All I Want for Christmas Is You",
+        "url": "https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0"
+      },
+      "artists": [
+        {
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
+        }
+      ],
+      "duration_ms": 164655,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Father Christmas",
+        "url": "https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "duration_ms": 199071,
+      "name": "Father Christmas",
+      "url": "https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Come on Christmas",
         "url": "https://open.spotify.com/album/4ZHVwJlVzsiSr5E9Vow4lX"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 240846,
       "name": "Come on Christmas",
       "url": "https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Father Christmas",
-        "url": "https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG"
-      },
-      "artists": [
-        {
-          "name": "Lauran Hibberd",
-          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
-        }
-      ],
-      "duration_ms": 199071,
-      "name": "Father Christmas",
-      "url": "https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 183433,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/3rdKklYgxjaLegndPcetBW"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Tis The Season to Be Fearless",
         "url": "https://open.spotify.com/album/1aunad4duE4Okwq8ATBy2j"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 243946,
       "name": "Christmas Time Again",
       "url": "https://open.spotify.com/track/6IhdxymP4sDVwgBXCB4dOs"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 183433,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/3rdKklYgxjaLegndPcetBW"
     },
     {
       "added_at": "2023-11-18 13:41:26",

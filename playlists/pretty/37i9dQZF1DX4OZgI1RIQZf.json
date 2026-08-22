@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140724,
+  "num_followers": 140714,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL3lVKPr+Ij0GX9igr3BN+nA6QFu",
+  "snapshot_id": "AAAAAM3Zy96r/2m3RFXWs2nbwFRF9zhi",
   "tracks": [
     {
       "added_at": "2026-08-16 20:03:54",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-08-16 20:03:54",
       "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+    },
+    {
+      "added_at": "2026-08-16 20:03:54",
+      "album": {
         "name": "brainrot",
         "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 183240,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
-    },
-    {
-      "added_at": "2026-08-16 20:03:54",
-      "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2026-08-16 20:03:54",

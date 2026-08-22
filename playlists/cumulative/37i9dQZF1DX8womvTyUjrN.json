@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Lara Project & Gus",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Maia Reficco",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1250,6 +1250,24 @@
       "duration_ms": 191601,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/45wQICCratOjNmYPttJAHO"
+    },
+    {
+      "album": {
+        "name": "amapola",
+        "url": "https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx"
+      },
+      "artists": [
+        {
+          "name": "Maia Reficco",
+          "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180696,
+      "name": "amapola",
+      "url": "https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m"
     },
     {
       "album": {
@@ -12477,6 +12495,24 @@
     },
     {
       "album": {
+        "name": "LOS REPAS NO LLORAN",
+        "url": "https://open.spotify.com/album/63JLoIhIY4ZO5WQ9lhdkuk"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163526,
+      "name": "LOS REPAS NO LLORAN",
+      "url": "https://open.spotify.com/track/3V3VCoxZTb9cBautqIf2gt"
+    },
+    {
+      "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
       },
@@ -13224,7 +13260,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 171050,
       "name": "Ma\u00f1ana nos volvemos a odiar",
       "url": "https://open.spotify.com/track/7d5JPlh0sQynmCPSWAIZS9"
@@ -15210,7 +15246,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 135510,
       "name": "No Es Por Suerte",
       "url": "https://open.spotify.com/track/5mQ3LPOt5L6Lvna23x6rpk"
@@ -18370,7 +18406,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 136590,
       "name": "PUNTER\u00cdA (feat. Luis Mint)",
       "url": "https://open.spotify.com/track/7t9xKg1DSRBiQBBHJ9R9rF"
@@ -22528,6 +22564,24 @@
       "duration_ms": 180000,
       "name": "Tu Foto",
       "url": "https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD"
+    },
+    {
+      "album": {
+        "name": "Tu lunar",
+        "url": "https://open.spotify.com/album/5n5GfmjH1zHT8htiBsjKOT"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138850,
+      "name": "Tu lunar",
+      "url": "https://open.spotify.com/track/6IVFgWwTxe3pBwNqC1Mpiw"
     },
     {
       "album": {

@@ -1061,6 +1061,28 @@
     },
     {
       "album": {
+        "name": "Trap Thug Family",
+        "url": "https://open.spotify.com/album/2T5uqtLfuewixOOInuc6vC"
+      },
+      "artists": [
+        {
+          "name": "Trap Thug Family",
+          "url": "https://open.spotify.com/artist/5vaLtyVwbTErZSLqVRCd9b"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126093,
+      "name": "Love No Thot (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/10axzwbqRSkv4n56GmjmPH"
+    },
+    {
+      "album": {
         "name": "Memories in My Head",
         "url": "https://open.spotify.com/album/69AOXTmGNAwtL6jvdf3DEw"
       },

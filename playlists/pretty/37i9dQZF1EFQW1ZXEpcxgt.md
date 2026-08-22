@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366 likes - 150 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 150 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 75 | [Westside](https://open.spotify.com/track/2hkBrU5mjoielqu0SFW3DX) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Free TC \(Deluxe Edition\)](https://open.spotify.com/album/5nIgDHf42VCFVfBY9BG2fr) | 4:04 |
 | 76 | [Is It Just Me](https://open.spotify.com/track/7dEztoOcmsafZLM2GSPbna) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:37 |
 | 77 | [Mula Remix](https://open.spotify.com/track/4k1twluDPNSnrFd3Wxsibv) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 5:54 |
-| 78 | [Mona Lisa](https://open.spotify.com/track/6FjcShHWPvel5QPNhWivJe) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 3:30 |
-| 79 | [Americana](https://open.spotify.com/track/1js88EFNpRfBVpn2Pd2ZwR) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:00 |
+| 78 | [Americana](https://open.spotify.com/track/1js88EFNpRfBVpn2Pd2ZwR) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:00 |
+| 79 | [Mona Lisa](https://open.spotify.com/track/6FjcShHWPvel5QPNhWivJe) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 3:30 |
 | 80 | [Ricky Ricardo](https://open.spotify.com/track/7rzzhTtFSzuvQQw5eWCdwZ) | [KAPTN](https://open.spotify.com/artist/0uYtAzdxQVWpfAxQeNYCHN) | [Ricky Ricardo](https://open.spotify.com/album/2fGu6FNQCdXoIylmV08ain) | 3:33 |
 | 81 | [Maybach Curtains \(feat\. Nas, John Legend & Rick Ross\)](https://open.spotify.com/track/4KozGhbYbcVPTJN2XhAAng) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:52 |
 | 82 | [Gimme Your Number](https://open.spotify.com/track/76NZFxqS6b0xsd16e0LIfF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:37 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 149 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 150 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcaHJAAAAADayz8drk5P8QxMBpz41Suj`
+Snapshot ID: `AcaMxAAAAAAe0uEG/08ab6qlp8W5n8RO`

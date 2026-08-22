@@ -4,7 +4,7 @@
 
 > sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
-242 songs - 14 hr 33 min
+244 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Are You Satisfied?](https://open.spotify.com/track/6lKRMylSZMtA7EqPl0pcdI) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/3dWObfa3vKyudzgmh53Xzg) | 3:18 | 2023-09-01 |  |
 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 | 2022-08-19 | 2023-09-02 |
 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 3:19 | 2023-09-01 |  |
+| [Bad Girls Never Die](https://open.spotify.com/track/3yha8YHoOhBavQzBknq7dI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Bad Girls Never Die](https://open.spotify.com/album/1kUPbKp0C313Om6S26KLAk) | 2:46 | 2026-08-21 |  |
 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2023-09-01 |  |
 | [Banshee](https://open.spotify.com/track/3GmYxpXRc62mj4SuJ4WEsl) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Banshee](https://open.spotify.com/album/3dWQ2TtlpW3crGadeOldHe) | 3:46 | 2022-07-22 | 2023-09-02 |
 | [Beggin For Thread](https://open.spotify.com/track/5EE8q94vVYKzpCyk6KjocX) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess: Unplugged](https://open.spotify.com/album/7yHgjXbJdQ2bYMvo1kmFvD) | 4:43 | 2024-12-13 | 2025-02-08 |
@@ -63,7 +64,7 @@
 | [Fortune](https://open.spotify.com/track/4BkOReC45Z3Es7fgL5Gi51) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Fortune](https://open.spotify.com/album/5sqEmpdZRMONFXa90S5snF) | 3:49 | 2021-06-04 | 2022-07-29 |
 | [Fortune](https://open.spotify.com/track/33Fb2Ug5wGMXmMvaV2jrXC) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL) | 3:50 | 2023-05-12 | 2023-09-02 |
 | [Fuck Me Pumps](https://open.spotify.com/track/3ku4ScVEkZvurrcjmMrOAL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/664z6KAZKVhAY36vBCLmiN) | 3:20 | 2024-01-12 |  |
-| [Gangster's Wife](https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Sunny in London \(Acoustic\)](https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8) | 2:39 | 2026-02-13 |  |
+| [Gangster's Wife](https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Sunny in London \(Acoustic\)](https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8) | 2:39 | 2026-02-13 | 2026-08-22 |
 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 | 2021-06-04 | 2023-09-02 |
 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 | 2022-07-22 | 2023-09-02 |
 | [Ghost](https://open.spotify.com/track/1G3hr6HlP3d13477lbWw9Q) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/4uXHoKzORbwkOfDmrM9HVQ) | 4:03 | 2021-06-04 | 2022-07-29 |
@@ -111,7 +112,7 @@
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2023-09-01 |  |
 | [I Run So Far](https://open.spotify.com/track/6W9wsXu0E8m66W4IARQt7T) | [Pearl Charles](https://open.spotify.com/artist/5PWyKTCk0kzNytmI0NI2JX) | [Pearl Charles](https://open.spotify.com/album/7uj5ZZprEHLAHvoQRtYHxA) | 3:49 | 2021-06-04 | 2022-07-29 |
 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/5r0mgVWhaI2ZDzrXeXrEhq) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [I Shouldn't Go Anywhere](https://open.spotify.com/album/7AMhMkCD8KUh0q3jEtmP5A) | 3:43 | 2021-06-04 | 2022-07-29 |
-| [I'll come back to you](https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Lady Love](https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx) | 3:13 | 2026-03-06 |  |
+| [I'll come back to you](https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Lady Love](https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx) | 3:13 | 2026-03-06 | 2026-08-22 |
 | [I'm a Man](https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [I'm a Man](https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn) | 3:01 | 2022-07-22 | 2022-10-28 |
 | [I'm a Man](https://open.spotify.com/track/2IAyG4qRTI0FnFiDKiLzut) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Trouble With Fever](https://open.spotify.com/album/6RBwxi0etDSpfqrRo45phN) | 3:01 | 2022-07-22 | 2023-09-02 |
 | [If The World Falls To Pieces](https://open.spotify.com/track/0a1gmlG2b5ORYIbxOcoBO8) | [Young Summer](https://open.spotify.com/artist/2SlMPjZm02pC12ODpApdhB) | [If The World Falls To Pieces](https://open.spotify.com/album/3LoyD6LaPdRtEkxpq6JOAR) | 2:46 | 2021-06-04 | 2022-07-29 |
@@ -121,6 +122,7 @@
 | [It's All Okay](https://open.spotify.com/track/7FjA1ngiMjWOMUnFSZEKjp) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/2hIk2gdlhqFNgkRj6SGmFG) | 3:54 | 2021-06-04 | 2022-07-23 |
 | [Johanna](https://open.spotify.com/track/6gH2V6XzhDXfTqml6c2w4Z) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Johanna](https://open.spotify.com/album/7pF4a07flFvnyFUzZqn3Pv) | 2:35 | 2023-09-01 |  |
 | [Just for Fun](https://open.spotify.com/track/282p28Iff7PicfKaCpbl7F) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [Bon Adventure](https://open.spotify.com/album/7EGoVr8xneoTGBwPZTX1Ia) | 3:36 | 2022-12-02 | 2023-09-02 |
+| [Just One](https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Just One](https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy) | 3:12 | 2026-08-21 |  |
 | [K.](https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 5:19 | 2023-09-01 | 2023-09-21 |
 | [K.](https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 5:20 | 2023-09-18 | 2024-04-19 |
 | [Keep Lying \(Demo\)](https://open.spotify.com/track/6jCuYSwolhXm9umvZvv6ko) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Keep Lying \(Demo\)](https://open.spotify.com/album/5KmFgc0v96LnHNmUdTs5WJ) | 4:14 | 2021-06-04 | 2023-09-02 |

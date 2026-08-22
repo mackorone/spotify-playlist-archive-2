@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Hudson Freeman
+> Explore all things indie rock right now\. Featuring music from hey, nothing
 
-2,210 songs - 5 day 5 hr 21 min
+2,217 songs - 5 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-09 | 2025-03-08 |
 | [beautysleep](https://open.spotify.com/track/5NTFOg05K8RCKMb8kxQonW) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [swanlike \(loosies 2020\-2023\)](https://open.spotify.com/album/1uTLUieuvkY3bEPDpaKNJZ) | 2:09 | 2024-06-21 | 2024-09-21 |
 | [bed head fever](https://open.spotify.com/track/4zq2Yo2ry2y2f7sSeq4EFf) | [Matty Reynolds](https://open.spotify.com/artist/1UOd3DL67HSbpWgwnbG1sZ) | [bed head fever](https://open.spotify.com/album/4vjZilqqGbx4jHWzWlScfX) | 2:32 | 2022-01-28 | 2022-06-08 |
+| [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 | 2026-08-21 |  |
 | [Before We Knew](https://open.spotify.com/track/2tPXuksuhokCBYmAcKnx5B) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Before We Knew](https://open.spotify.com/album/6dwYzHRbq3591ac7ThF4rn) | 3:31 | 2021-08-13 | 2022-06-05 |
 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 | 2025-04-18 | 2026-01-17 |
 | [BEG](https://open.spotify.com/track/1CyHaB9SvOTOBRmOI3O23A) | [Cam Rao](https://open.spotify.com/artist/0reunFOO4l81BNysaJUCPV) | [BEG](https://open.spotify.com/album/3hRu8uw81oSlAXkGY3LqaZ) | 2:28 | 2024-05-03 | 2024-07-13 |
@@ -419,6 +420,7 @@
 | [Clean Heart](https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Clean Heart](https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV) | 3:52 | 2025-03-28 | 2025-07-12 |
 | [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2021-08-10 | 2022-04-20 |
 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-09-13 | 2024-10-05 |
+| [Cleveland](https://open.spotify.com/track/4KEjfcWa8AstOHOemI4rLQ) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Cleveland](https://open.spotify.com/album/03rWnhyzY3U8xwaLJbzhsK) | 2:53 | 2026-08-21 |  |
 | [Close Quarters](https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Close Quarters](https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif) | 3:40 | 2023-10-20 | 2024-01-13 |
 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 | 2021-06-07 | 2022-06-11 |
 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 | 2024-09-27 | 2024-12-14 |
@@ -780,6 +782,7 @@
 | [Fuggit](https://open.spotify.com/track/1LtEt78G9OUECa7uYw8D0x) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Fuggit](https://open.spotify.com/album/5OLxTroK4Zoo33baFPUgIh) | 4:29 | 2025-09-26 | 2025-12-13 |
 | [Funeral](https://open.spotify.com/track/3Wj1ucP4a0Dt9ik0n2pk0n) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Funeral](https://open.spotify.com/album/7zGTZ3urmwYmLeVgmELakg) | 4:35 | 2021-08-02 | 2022-04-21 |
 | [Funny Water](https://open.spotify.com/track/4m49u4HLRzOIn8Gd7aHfIr) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [Funny Water](https://open.spotify.com/album/4ZWu0IrmxRs9M7iUNLR9eV) | 3:23 | 2021-06-07 | 2022-02-05 |
+| [Fur Elise](https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Fur Elise](https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF) | 4:16 | 2026-08-21 |  |
 | [Futureproof](https://open.spotify.com/track/68G22FmZ30XgaRh00pKIeV) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Futureproof](https://open.spotify.com/album/3WPv587cMDBKsIDpgrZeEX) | 3:27 | 2021-06-11 | 2022-04-21 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-03-03 | 2023-04-22 |
 | [Games](https://open.spotify.com/track/7HA1olc168EV5By8K7kWq5) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Games](https://open.spotify.com/album/1MkvXneCkP1Aki2PsIQ0Fm) | 3:38 | 2023-07-14 | 2023-11-18 |
@@ -922,6 +925,7 @@
 | [HOT WHEELS](https://open.spotify.com/track/3qPgpfGvSo6Pm5R7jxEQoy) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [HOT WHEELS](https://open.spotify.com/album/3NFiegkOXhRXkhAXVTQVvO) | 2:53 | 2021-10-02 | 2022-06-11 |
 | [Hotel Toothbrush](https://open.spotify.com/track/1MagY2liSWTngL3oEJ9TE0) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [This Could Be Everything](https://open.spotify.com/album/1blx6l14QLdPb6rDzzpbov) | 2:01 | 2024-08-02 | 2024-09-07 |
 | [Hotel Window](https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Hotel Window](https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm) | 2:03 | 2023-03-03 | 2023-04-22 |
+| [Hound](https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Hound](https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT) | 4:27 | 2026-08-21 |  |
 | [HOUSE](https://open.spotify.com/track/50hBwOAvTw01fUF5xsYNvt) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [HOUSE](https://open.spotify.com/album/0C91lSjGtEnDbtBwyIiVJt) | 4:19 | 2026-03-13 |  |
 | [How Can I Love Her More?](https://open.spotify.com/track/5ZH5HVHFtxf7opSL8Tvo6r) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [How Can I Love Her More?](https://open.spotify.com/album/4AflCecOU26ScUgd34omyk) | 2:47 | 2024-04-12 | 2024-05-03 |
 | [How Dare You Want More](https://open.spotify.com/track/3ofm3iqaRbHBCGvqf5jK7H) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [How Dare You Want More](https://open.spotify.com/album/5VcCCWAqGq1Sl9VgSU7DOv) | 4:00 | 2021-06-11 | 2022-04-20 |
@@ -1247,6 +1251,7 @@
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-11 |  |
 | [Manipulator](https://open.spotify.com/track/4X6CZuqrnqMAbXbZpU6SrD) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Manipulator](https://open.spotify.com/album/1A681Tjkt5UucbyHeLoFIO) | 3:51 | 2023-03-31 | 2023-05-20 |
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-06-07 | 2022-04-27 |
+| [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 | 2026-08-21 |  |
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-06-07 | 2022-06-11 |
 | [Mark on You](https://open.spotify.com/track/3Ics7Qw1rxe121mHDLhRWD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Mark on You](https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN) | 2:21 | 2022-08-05 | 2022-09-03 |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2021-06-07 | 2022-06-11 |
@@ -1273,6 +1278,7 @@
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-06-30 | 2023-10-21 |
 | [Melody Experiment](https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:10 | 2023-10-20 | 2023-11-18 |
 | [Melt](https://open.spotify.com/track/41kgbvc2t0U8g1H2yDU9P2) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite EP](https://open.spotify.com/album/0tK8eY4V3CywBybDvu8P1N) | 3:04 | 2023-07-07 | 2023-08-26 |
+| [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 | 2026-08-21 |  |
 | [Memory Loss](https://open.spotify.com/track/6qnETnA4VJJi5TJKSuk6qK) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Shiver](https://open.spotify.com/album/1LgqOrmqQBWqnnZAHuNFwd) | 3:31 | 2024-03-08 | 2024-05-25 |
 | [Memoryology](https://open.spotify.com/track/5sQxDTlROyotpupjQ9M60q) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [NOAH](https://open.spotify.com/album/4BIysF8o9wr5FArNPzak2t) | 3:04 | 2023-10-13 | 2024-02-10 |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2022-01-14 | 2022-06-01 |
@@ -1662,6 +1668,7 @@
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2022-10-07 | 2022-12-08 |
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-06-10 | 2022-07-02 |
 | [Sell Out](https://open.spotify.com/track/5aWaPqgkheottumavM0tix) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Sell Out](https://open.spotify.com/album/1CTbodOT5kXvCLAyD2poEZ) | 3:07 | 2022-10-14 | 2022-11-19 |
+| [Sensational](https://open.spotify.com/track/0aU5XPireiOWn6or4RPSVS) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Sensational](https://open.spotify.com/album/14Raz7hdVfOisYs3nrg3Qq) | 3:36 | 2026-08-21 |  |
 | [September](https://open.spotify.com/track/28Ax0ZKpA7n5yh0xe9Bhio) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [September](https://open.spotify.com/album/6EOg0mbeoG7Qwsw2kV8fIx) | 4:14 | 2025-09-12 | 2026-04-25 |
 | [Serious](https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e), [Mothé](https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ) | [Serious](https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO) | 2:31 | 2025-09-26 | 2026-05-02 |
 | [Set the Stage](https://open.spotify.com/track/1i01FvuiITNlLIvVZPQhgI) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Set the Stage](https://open.spotify.com/album/5ZvEspmDWM6sbCar2TwlTU) | 2:59 | 2024-06-21 | 2024-08-03 |

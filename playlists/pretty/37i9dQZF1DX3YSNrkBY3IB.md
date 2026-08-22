@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 
 > Check out these hip\-hop classics that are great for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,770 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,813 likes - 40 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 18 | [Me Myself and I](https://open.spotify.com/track/792UwI6utk5DMQUT1KXa5E) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 3:49 |
 | 19 | [Killing Me Softly With His Song](https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [Greatest Hits](https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy) | 4:50 |
 | 20 | [Tennessee](https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [3 Years, 5 Months And 2 Days In The Life Of...](https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh) | 4:32 |
-| 21 | [Mistadobalina](https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [The Best Of Del Tha Funkee Homosapien \[The Elektra Years\]: The B\-Boy Handbook](https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur) | 4:20 |
-| 22 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/7xykwR6UJ4XNND931IsDLW) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remaster\)](https://open.spotify.com/album/6uMVAiciTpTyrQn5QJDPJM) | 4:17 |
+| 21 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/7xykwR6UJ4XNND931IsDLW) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remaster\)](https://open.spotify.com/album/6uMVAiciTpTyrQn5QJDPJM) | 4:17 |
+| 22 | [Mistadobalina](https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [The Best Of Del Tha Funkee Homosapien \[The Elektra Years\]: The B\-Boy Handbook](https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur) | 4:20 |
 | 23 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
 | 24 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 25 | [The Breaks](https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Kurtis Blow](https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt) | 7:43 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 39 | [My Adidas](https://open.spotify.com/track/64UQLXFp7Gs189kF3myYiq) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 2:48 |
 | 40 | [The World Is Yours \- Clean Album Version](https://open.spotify.com/track/4BWBpj8D0krkebqLTQx7SZ) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [10 Year Anniversary Illmatic Platinum Series](https://open.spotify.com/album/6rXstoVf7abF1VyuYRzxBw) | 4:50 |
 
-Snapshot ID: `AAAAABpM2vMYiB/e80FIibTPAwoJ8xdO`
+Snapshot ID: `AAAAAHzziD2quGIH08PL3JEDg0RDzqqK`

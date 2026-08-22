@@ -1,33 +1,13 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23974,
+  "num_followers": 23973,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAAf9Q6ItwuDDYiXOK/y8j4C",
+  "snapshot_id": "aoZDgAAAAACEr9oFRhDiI9GFTEi6jGL9",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santaolalla: Theme from \"The Last of Us\" (Transcr. Trifonov for Piano)",
-        "url": "https://open.spotify.com/album/3pfA3PO1UEEyMxO9YVB0gn"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
-        }
-      ],
-      "duration_ms": 219853,
-      "name": "Theme from \"The Last of Us\" (Transcr. Trifonov for Piano)",
-      "url": "https://open.spotify.com/track/0vmsddNToA3Q7m5BQF6DVX"
-    },
     {
       "added_at": null,
       "album": {
@@ -219,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "The Wings",
+      "url": "https://open.spotify.com/track/0NLinDVPDkD2OCCqhh6PZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last of Us Part II (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
       },
@@ -231,26 +227,6 @@
       "duration_ms": 168680,
       "name": "Allowed to be Happy",
       "url": "https://open.spotify.com/track/5WGCkFCPDoi06SAXIF05bu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 222994,
-      "name": "MELANCOL\u00cdA",
-      "url": "https://open.spotify.com/track/7FIWHKEE0ATHZkHi0USxCZ"
     },
     {
       "added_at": null,
@@ -291,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
       },
       "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 112546,
-      "name": "The Wings",
-      "url": "https://open.spotify.com/track/0NLinDVPDkD2OCCqhh6PZ5"
+      "duration_ms": 222994,
+      "name": "MELANCOL\u00cdA",
+      "url": "https://open.spotify.com/track/7FIWHKEE0ATHZkHi0USxCZ"
     },
     {
       "added_at": null,
@@ -627,38 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 101100,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ronroco (2024 Remaster)",
-        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Zenda - 2024 Remaster",
-      "url": "https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -691,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
+        "name": "Ronroco (2024 Remaster)",
+        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
       },
       "artists": [
         {
@@ -700,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 180306,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
+      "duration_ms": 203560,
+      "name": "Zenda - 2024 Remaster",
+      "url": "https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP"
     },
     {
       "added_at": null,
@@ -716,15 +664,15 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 179997,
-      "name": "Cordon de Plata",
-      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
+      "duration_ms": 101100,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ronroco (2024 Remaster)",
-        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
+        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
       },
       "artists": [
         {
@@ -732,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Jardin - 2024 Remaster",
-      "url": "https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX"
+      "duration_ms": 180306,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
     },
     {
       "added_at": null,
@@ -771,6 +719,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ronroco (2024 Remaster)",
+        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Jardin - 2024 Remaster",
+      "url": "https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "Cordon de Plata",
+      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
@@ -787,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+        "name": "Qhapaq \u00d1an",
+        "url": "https://open.spotify.com/album/5rFwK0uMpzhZh4l1RWrhjw"
       },
       "artists": [
         {
@@ -796,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 222834,
-      "name": "Seguir",
-      "url": "https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu"
+      "duration_ms": 202906,
+      "name": "La Noche Ya Es D\u00eda",
+      "url": "https://open.spotify.com/track/0BL1NoWM5pReYf3Gb3BiuJ"
     },
     {
       "added_at": null,
@@ -819,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qhapaq \u00d1an",
-        "url": "https://open.spotify.com/album/5rFwK0uMpzhZh4l1RWrhjw"
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
       "artists": [
         {
@@ -828,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 202906,
-      "name": "La Noche Ya Es D\u00eda",
-      "url": "https://open.spotify.com/track/0BL1NoWM5pReYf3Gb3BiuJ"
+      "duration_ms": 222834,
+      "name": "Seguir",
+      "url": "https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu"
     },
     {
       "added_at": null,
@@ -875,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Brokeback Mountain 2",
+      "url": "https://open.spotify.com/track/5kgQk3nXmgrd0UeC7440ac"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -907,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 116240,
-      "name": "Brokeback Mountain 2",
-      "url": "https://open.spotify.com/track/5kgQk3nXmgrd0UeC7440ac"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
@@ -939,6 +919,22 @@
       "duration_ms": 86757,
       "name": "Bravery",
       "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 131546,
+      "name": "Brokeback Mountain 3",
+      "url": "https://open.spotify.com/track/6kIRgHIOJjO6QbQcoSyJ33"
     },
     {
       "added_at": null,
@@ -975,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
       "artists": [
         {
@@ -984,9 +980,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 131546,
-      "name": "Brokeback Mountain 3",
-      "url": "https://open.spotify.com/track/6kIRgHIOJjO6QbQcoSyJ33"
+      "duration_ms": 42197,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

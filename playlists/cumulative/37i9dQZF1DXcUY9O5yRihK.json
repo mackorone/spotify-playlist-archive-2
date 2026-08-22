@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Bonanza",
+        "url": "https://open.spotify.com/album/4vOUZrCFX1opu7nkWc5r5V"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176296,
+      "name": "Bonanza",
+      "url": "https://open.spotify.com/track/3jKm9dqk7PdQXIF3KlPpYT"
+    },
+    {
+      "album": {
         "name": "boo hoo",
         "url": "https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM"
       },
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"

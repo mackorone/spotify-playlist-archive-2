@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809459,
+  "num_followers": 809476,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKiXRUJvcMYNwEUpit/mHF++GjvC",
+  "snapshot_id": "AAAAAG6VL7z90S0V7RNWbVWs76Ov+Wao",
   "tracks": [
     {
       "added_at": "2026-08-07 02:23:08",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "Reconstru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
@@ -567,26 +567,6 @@
       "duration_ms": 204895,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -623,6 +603,26 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "Agridoce",
         "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
       },
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
         "name": "Sua Onda",
         "url": "https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 186326,
       "name": "est\u00e1tua de m\u00e1rmore",
       "url": "https://open.spotify.com/track/1SWmKvrC13wQpASlKJHPzu"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Beleza. Mas agora a gente faz o que com isso?",
+        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "A Janela, Carolina",
+      "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "Mostrando Os Dentes",
         "url": "https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 151400,
       "name": "Deixar",
       "url": "https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Beleza. Mas agora a gente faz o que com isso?",
-        "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "A Janela, Carolina",
-      "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Logo agora",
+        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Logo agora",
+      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Logo agora",
-        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Logo agora",
-      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
     },
     {
       "added_at": "2026-08-07 02:23:08",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2026-08-07 02:23:08",
       "album": {
+        "name": "Mentiras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 178892,
+      "name": "Mentiras - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
+    },
+    {
+      "added_at": "2026-08-07 02:23:08",
+      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
-    },
-    {
-      "added_at": "2026-08-07 02:23:08",
-      "album": {
-        "name": "Mentiras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 178892,
-      "name": "Mentiras - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
     },
     {
       "added_at": "2026-08-07 02:23:08",

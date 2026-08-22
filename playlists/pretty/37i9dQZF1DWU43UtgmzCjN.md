@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 
 > Pa' toda la raza pesada\. Los Originales de San Juan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,969 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,073 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 | 69 | [Me Gusta la Buena Vida](https://open.spotify.com/track/6AkaFgtC9dwmG9sVObX9yd) | [Los Pumas Del Norte](https://open.spotify.com/artist/7oDAL6I6hsVHfn0ADFYpmh) | [Rugiendo Mejor Que Nunca \(El Rugido Más Poderoso\)](https://open.spotify.com/album/1mrhpmYIRkQm0OUJp511H7) | 2:32 |
 | 70 | [Los Gomeros](https://open.spotify.com/track/3evfrSg8NRpNl2DRQkxIYp) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Corridones](https://open.spotify.com/album/4vHMAnX4gxG4476f5LqpJ8) | 2:26 |
 
-Snapshot ID: `AAAAAKca3nowlkfjLrzhsZ6m0nmZYHRz`
+Snapshot ID: `AAAAAOn6+ltPX1bdHRoYZbKprrFpLUGZ`

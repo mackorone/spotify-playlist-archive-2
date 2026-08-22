@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música que representa a Cuba! Cover: IAmChino, Pitbull & Gente de Zona
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,572 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,603 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 33 | [E\-Charla](https://open.spotify.com/track/2xYin099dsquBdgTEQe4Oh) | [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [E\-Charla](https://open.spotify.com/album/2mDJ4ckYrPXq8leJmFqDHp) | 3:39 |
 | 34 | [Hace tiempo que no sé de tí](https://open.spotify.com/track/2QaX4WMwJNIxwio16tuxxI) | [Ozunaje](https://open.spotify.com/artist/6JIkIALBpxg5g5ia07E9bG), [El Dany MG](https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG), [Fernando Produce](https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ), [Cal Lybeat](https://open.spotify.com/artist/56NCcu2ap5rWxQx4FUosWB) | [Hace tiempo que no sé de tí](https://open.spotify.com/album/3uoaYIfJlv7PkBayh9rkiF) | 2:33 |
 | 35 | [POQUITICO](https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7) | [Zurdo Mc](https://open.spotify.com/artist/2WPnRprqCgkxTrErb9xuqN), [Payaso x Ley](https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [POQUITICO](https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT) | 3:18 |
-| 36 | [TODO SE SUPERA](https://open.spotify.com/track/7yclBy0HutOePT34WzbAxi) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk), [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB) | [TODO SE SUPERA](https://open.spotify.com/album/1dwGmtihvoExwvQ29jP3tw) | 2:45 |
-| 37 | [LA LA LA](https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I) | [Anyelazo](https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy), [Gallery Music](https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV) | [LA LA LA](https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP) | 2:12 |
+| 36 | [LA LA LA](https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I) | [Anyelazo](https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy), [Gallery Music](https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV) | [LA LA LA](https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP) | 2:12 |
+| 37 | [TODO SE SUPERA](https://open.spotify.com/track/7yclBy0HutOePT34WzbAxi) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk), [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB) | [TODO SE SUPERA](https://open.spotify.com/album/1dwGmtihvoExwvQ29jP3tw) | 2:45 |
 | 38 | [Yo lo sé](https://open.spotify.com/track/0VtU5p1WIayEkl1VcMQV6R) | [Nany La Kbra](https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU), [Yomil](https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV) | [Yo lo sé](https://open.spotify.com/album/14h07hUekVScQA99nBO1fI) | 2:58 |
 | 39 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
 | 40 | [MARIDON](https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw) | [Dale Pututi & Nesty](https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z) | [MARIDON](https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 49 | [El Men2 Remix](https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [El Men2 Remix](https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg) | 3:38 |
 | 50 | [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 |
 
-Snapshot ID: `AAAAADPpIVMUfgp7TTGhYce8ykhlIFTC`
+Snapshot ID: `AAAAANUv8m449D4iWJsbhT/rK38/uxhe`

@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Cam'ron",
-  "num_followers": 447271,
+  "num_followers": 447408,
   "original_name": "2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADEZiZT6nQUQsW6tIzfc1bBiLfbf",
+  "snapshot_id": "AAAAAL9i6DdoM0BKK54aNUQIkIajpkYU",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
-      },
-      "artists": [
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        },
-        {
-          "name": "Miri Ben-Ari",
-          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Overnight Celebrity (feat. Miri Ben-Ari)",
-      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
       },
@@ -871,18 +851,42 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Port Of Miami",
-        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
       },
       "artists": [
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
+          "name": "Miri Ben-Ari",
+          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
         }
       ],
-      "duration_ms": 254093,
-      "name": "Hustlin'",
-      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
+      "duration_ms": 233360,
+      "name": "Overnight Celebrity (feat. Miri Ben-Ari)",
+      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -911,22 +915,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+        "name": "Port Of Miami",
+        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
+      "duration_ms": 254093,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "iSouljaBoyTellem",
+        "url": "https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Turn My Swag On",
+      "url": "https://open.spotify.com/track/6ATrsVaZT7XjkCynxM8cTS"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Snap Yo Fingers - Single",
         "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 274386,
       "name": "Snap Yo Fingers",
       "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "iSouljaBoyTellem",
-        "url": "https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Turn My Swag On",
-      "url": "https://open.spotify.com/track/6ATrsVaZT7XjkCynxM8cTS"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "The Inspiration",
+        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "duration_ms": 240613,
+      "name": "I Luv It",
+      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Crime Mob",
         "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 205120,
       "name": "Knuck If You Buck (feat. Lil' Scrappy)",
       "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "The Inspiration",
-        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "I Luv It",
-      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        },
-        {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "What These Bitches Want",
-      "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Mississippi: The Album",
         "url": "https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 223066,
       "name": "Westside Story",
       "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "What These Bitches Want",
+      "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "A Gangster And A Gentleman",
+        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
+      },
+      "artists": [
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Light Poles And Pine Trees",
         "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 216000,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "A Gangster And A Gentleman",
-        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
-      },
-      "artists": [
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
     },
     {
       "added_at": "2024-12-06 05:00:00",

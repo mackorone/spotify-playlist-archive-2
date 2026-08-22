@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,981 likes - 108 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,074 likes - 108 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 107 | [Ufanelwe](https://open.spotify.com/track/0lO2SyYqT3mkg1KQrREZ7u) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [The Gift, Vol.2](https://open.spotify.com/album/06MaQU5ZxlypE9GKd5Ft7s) | 2:55 |
 | 108 | [Ebukhoneni](https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Thami Mthabela](https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi) | [Ivangeli](https://open.spotify.com/album/5I1BCKaeMEcnZ284Gcpo9Z) | 5:24 |
 
-Snapshot ID: `AAAAAE1dL/qGpQvIlO+hZHzq39vVxT+/`
+Snapshot ID: `AAAAAAz0WjPWtP90vMHkvXtYVfni6NXL`

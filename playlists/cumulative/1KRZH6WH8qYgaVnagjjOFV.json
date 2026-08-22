@@ -4283,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Who I Am To You",
+        "url": "https://open.spotify.com/album/4EOaaVcUrGgEA1lg2DBd8v"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190334,
+      "name": "Who I Am To You",
+      "url": "https://open.spotify.com/track/0m8LZQ4U90ztxmsanrSx9g"
+    },
+    {
+      "album": {
         "name": "WITH ME",
         "url": "https://open.spotify.com/album/4GNYbe1TGZGsbkcvtJ09MG"
       },

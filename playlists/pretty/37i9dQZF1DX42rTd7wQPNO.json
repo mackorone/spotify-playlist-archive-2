@@ -1,13 +1,29 @@
 {
   "description": "put a little yee haw in your laid back",
-  "num_followers": 436797,
+  "num_followers": 436905,
   "original_name": "coastal cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABwZsgNAOJ+wTp5Nh06Vaxi0m2hb",
+  "snapshot_id": "AAAAAHrPYlS1xUJFZ2p8vo9VRbqrEZJL",
   "tracks": [
+    {
+      "added_at": "2026-06-12 00:08:17",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
     {
       "added_at": "2026-06-12 00:08:17",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 240946,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/34D5CH3DKBGpAj8ktFOAUH"
-    },
-    {
-      "added_at": "2026-06-12 00:08:17",
-      "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 223332,
-      "name": "Mexico Honey",
-      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
     },
     {
       "added_at": "2026-06-12 00:08:17",
@@ -131,78 +131,6 @@
     {
       "added_at": "2026-06-12 00:08:17",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/0NOoxng1ibMGJQmSqr0uT3"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 307325,
-      "name": "Save My Soul",
-      "url": "https://open.spotify.com/track/7h7dOssdchfLK9GQ2NQBOT"
-    },
-    {
-      "added_at": "2026-06-12 00:08:17",
-      "album": {
-        "name": "July (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "July (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2026-06-12 00:08:17",
-      "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Neon Moon - with Kacey Musgraves",
-      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
-    },
-    {
-      "added_at": "2026-06-12 00:08:17",
-      "album": {
-        "name": "Born Wicked",
-        "url": "https://open.spotify.com/album/4uThGfX50aFL3O8CgkxmBT"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Born Wicked",
-      "url": "https://open.spotify.com/track/4sa1m3H5Aoxo21etGRBFIb"
-    },
-    {
-      "added_at": "2026-06-12 00:08:17",
-      "album": {
         "name": "Choosin' Texas",
         "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
       },
@@ -231,6 +159,94 @@
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
+    },
+    {
+      "added_at": "2026-06-12 00:08:17",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/0NOoxng1ibMGJQmSqr0uT3"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 307325,
+      "name": "Save My Soul",
+      "url": "https://open.spotify.com/track/7h7dOssdchfLK9GQ2NQBOT"
+    },
+    {
+      "added_at": "2026-08-21 04:01:22",
+      "album": {
+        "name": "Bullets",
+        "url": "https://open.spotify.com/album/5je7oJCztUuHgjhOPyECgm"
+      },
+      "artists": [
+        {
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
+        }
+      ],
+      "duration_ms": 228664,
+      "name": "Bullets",
+      "url": "https://open.spotify.com/track/2mi8K8wuSDRQ3h7k9lROsv"
+    },
+    {
+      "added_at": "2026-06-12 00:08:17",
+      "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Neon Moon - with Kacey Musgraves",
+      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
+    },
+    {
+      "added_at": "2026-06-12 00:08:17",
+      "album": {
+        "name": "July (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 152280,
+      "name": "July (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2026-06-12 00:08:17",
+      "album": {
+        "name": "Born Wicked",
+        "url": "https://open.spotify.com/album/4uThGfX50aFL3O8CgkxmBT"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Born Wicked",
+      "url": "https://open.spotify.com/track/4sa1m3H5Aoxo21etGRBFIb"
     },
     {
       "added_at": "2026-06-12 00:08:17",
@@ -1147,22 +1163,6 @@
       "duration_ms": 236800,
       "name": "The Last Resort",
       "url": "https://open.spotify.com/track/7f5z4IzFsYYhUyxBXbFXcr"
-    },
-    {
-      "added_at": "2026-06-12 00:08:17",
-      "album": {
-        "name": "Goodpain",
-        "url": "https://open.spotify.com/album/7soDnur2TfBoEJETTCws91"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 204208,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW"
     },
     {
       "added_at": "2026-06-12 00:08:17",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAA398S7kJzxZnJXtH1rD9yS",
+  "snapshot_id": "aoZDgAAAAAA/cF9EmuWXlZQ81C7o6DOo",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Hokkaido",
-      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
+      "duration_ms": 446000,
+      "name": "Nagoya",
+      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 446000,
-      "name": "Nagoya",
-      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
+      "duration_ms": 390000,
+      "name": "Hokkaido",
+      "url": "https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z"
     },
     {
       "added_at": null,

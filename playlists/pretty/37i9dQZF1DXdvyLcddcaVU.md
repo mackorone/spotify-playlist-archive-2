@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,054 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,101 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 69 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 |
 | 70 | [Papillon](https://open.spotify.com/track/65aoWADtWi6jDs2iP3vCPc) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw), [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [Papillon](https://open.spotify.com/album/4gLpcoXUoPHlFP7FGscEg9) | 2:26 |
 
-Snapshot ID: `AAAAANIbewDN/Mswurp7u9VlaAk9zxLn`
+Snapshot ID: `AAAAACyN+jp3rfdpZJYMyEd/OpdrdsJw`

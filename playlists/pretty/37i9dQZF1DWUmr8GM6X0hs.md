@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,230 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,254 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Me Engañas Mujer](https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 2:58 |
 | 60 | [Verdad Amarga](https://open.spotify.com/track/3IFP8kVXqDOwh3sMlfpaJ7) | [Elena Romero](https://open.spotify.com/artist/3XJXZS6MuLg9zCVJE4Gp7E) | [Divas Peruanas del Bolero, Vol\. 1](https://open.spotify.com/album/7aU7bwPKjedcZdNNuzNMvd) | 3:38 |
 
-Snapshot ID: `AAAAAFyjI37vUplWXAlEflIYWuP7h59U`
+Snapshot ID: `AAAAAKCANBlvzdHrlEoQ+YlVO+CqvsZP`

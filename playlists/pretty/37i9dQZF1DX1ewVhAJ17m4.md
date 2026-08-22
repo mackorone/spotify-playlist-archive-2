@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,451 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,469 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 46 | [Over My Head](https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Over My Head](https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a) | 3:02 |
 | 47 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
 | 48 | [Hard Call](https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Hard Call](https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy) | 3:10 |
-| 49 | [Stare at the Sun](https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Stare at the Sun](https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy) | 2:52 |
+| 49 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
 | 50 | [Good For Me](https://open.spotify.com/track/1OAMZ1AV5y6DHI5kzP0L3V) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Good For Me](https://open.spotify.com/album/4eQhubbT1QHzrBqAynOWhq) | 2:54 |
-| 51 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
+| 51 | [Stare at the Sun](https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Stare at the Sun](https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy) | 2:52 |
 | 52 | [Vodka Soda](https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Vodka Soda](https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X) | 3:13 |
 | 53 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 |
 | 54 | [Teeth](https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Teeth](https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV) | 2:44 |
@@ -82,19 +82,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 72 | [Oxy Moron](https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Oxy Moron](https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6) | 4:06 |
 | 73 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
 | 74 | [Do You Remember?](https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [As It Is](https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK) | 3:33 |
-| 75 | [X’s For Eyes](https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X's For Eyes](https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt) | 2:56 |
-| 76 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
+| 75 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
+| 76 | [X’s For Eyes](https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X's For Eyes](https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt) | 2:56 |
 | 77 | [FAKE FEELINGS](https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5) | [all in ur head](https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd) | [FAKE FEELINGS](https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF) | 3:05 |
-| 78 | [Incomplete](https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Incomplete](https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu) | 3:36 |
-| 79 | [That's So True](https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH) | [Jack The Underdog](https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A) | [That's So True](https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4) | 2:47 |
+| 78 | [That's So True](https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH) | [Jack The Underdog](https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A) | [That's So True](https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4) | 2:47 |
+| 79 | [Incomplete](https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Incomplete](https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu) | 3:36 |
 | 80 | [MissingNo.](https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Moments Before The Wind](https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng) | 3:09 |
 | 81 | [Right Thing, Wrong Time \(feat\. State Champs\)](https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [LET'S DO SOMETHING STUPID!](https://open.spotify.com/album/4gyEST1wQDRwIcGTXbsnDX) | 2:45 |
 | 82 | [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 |
 | 83 | [By My Side](https://open.spotify.com/track/37WXuf4FKCFgJ58YOHqTIu) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [By My Side](https://open.spotify.com/album/22jvQUpeTifAL3JSyptoeX) | 3:29 |
 | 84 | [Sandbox](https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sandbox](https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd) | 2:25 |
-| 85 | [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 |
-| 86 | [INMYFEELINGS](https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy) | [Hungover](https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e) | [INMYFEELINGS](https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM) | 3:32 |
-| 87 | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/5XC95kPi0453QJxtx0zLaS) | 2:42 |
+| 85 | [INMYFEELINGS](https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy) | [Hungover](https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e) | [INMYFEELINGS](https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM) | 3:32 |
+| 86 | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/5XC95kPi0453QJxtx0zLaS) | 2:42 |
+| 87 | [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 |
 | 88 | [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 |
 | 89 | [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 |
 | 90 | [Fields Behind the House](https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt) | [Oakwood](https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf) | [Fields Behind The House](https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF) | 2:42 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 97 | [Be Someone](https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Extremely Fragile Human Being](https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw) | 3:10 |
 | 98 | [One Zero Zero](https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [One Zero Zero](https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv) | 2:46 |
 | 99 | [F.O.M.O.](https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [F.O.M.O.](https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6) | 3:00 |
-| 100 | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 |
+| 100 | [All or Nothing](https://open.spotify.com/track/10A8idGyFoxYjRHlL08UGP) | [RODERIK](https://open.spotify.com/artist/6ZWEU3cIwl4EdCVRaeLtZS) | [All or Nothing](https://open.spotify.com/album/24DUTjkvAU6WUd7vnxrPAk) | 3:05 |
 
-Snapshot ID: `AAAAAIgwM0rSd688vQXbF9P4ypN5+fOF`
+Snapshot ID: `AAAAAJPl8zBB1ZmuRANeFkZh0ACR4uh8`

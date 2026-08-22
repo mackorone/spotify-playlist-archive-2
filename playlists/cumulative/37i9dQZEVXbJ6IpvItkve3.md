@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,486 songs - 3 day 12 hr 8 min
+1,487 songs - 3 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-29 | 2023-08-09 |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2022-05-08 | 2022-05-21 |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2025-01-04 | 2025-05-20 |
-| [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 | 2026-03-07 |  |
+| [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 | 2026-03-07 | 2026-08-22 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-02-25 | 2022-08-10 |
 | [Midnight Drive](https://open.spotify.com/track/4WIqSwFtfwa8LpUxjvZmud) | [IurisEkero](https://open.spotify.com/artist/4yh3pmJ514U9AfOrcPZyID) | [PROYECTO ONE](https://open.spotify.com/album/0EONaECmaYgR6xR3UT2tPl) | 3:59 | 2025-07-11 | 2025-07-13 |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
@@ -855,6 +855,7 @@
 | [גנזב](https://open.spotify.com/track/0TNpCF1hyufMCwuJUyfyzd) | [Balishag](https://open.spotify.com/artist/1zZ8q7ULCRLJDqRN2kMxC2) | [גנזב](https://open.spotify.com/album/2eCDM7Y3XlIxxHF2HErwam) | 3:18 | 2023-05-01 | 2023-05-05 |
 | [גנזב](https://open.spotify.com/track/6JaYJTrZMTlITIKWaGGY6h) | [Balishag](https://open.spotify.com/artist/1zZ8q7ULCRLJDqRN2kMxC2) | [גנזב](https://open.spotify.com/album/6Hk5tOX8lYZ74aIP56iUbq) | 3:18 | 2023-03-21 | 2023-05-02 |
 | [גשם](https://open.spotify.com/track/0ckd54NpB6QU3NIBdbkddf) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר כהן](https://open.spotify.com/album/1a8ERuwhbeXpbFF7TKReFX) | 3:04 | 2025-04-10 | 2025-11-06 |
+| [דאון](https://open.spotify.com/track/7sYnUihJysp9eSHUTFq9EP) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אוגוסט דאמפ 2026](https://open.spotify.com/album/2QX7YR9lBSYEtZQoWb6fri) | 3:10 | 2026-08-21 |  |
 | [דאמ](https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [דאמ](https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo) | 2:49 | 2024-08-15 | 2025-05-01 |
 | [דובאי](https://open.spotify.com/track/3FU0H5UoZMkz7c4mEfiB7S) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Gal Adam](https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K) | [השם יעזור](https://open.spotify.com/album/5tuYABXBjwZ5aUYQHmXzNk) | 2:39 | 2026-05-18 | 2026-06-14 |
 | [דובשנייה](https://open.spotify.com/track/67PF7VLcYEKKF82ziNf9Ur) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD) | [דובשנייה](https://open.spotify.com/album/55CGlMoTowH0a5vPjlS17I) | 2:32 | 2022-01-22 | 2023-06-13 |

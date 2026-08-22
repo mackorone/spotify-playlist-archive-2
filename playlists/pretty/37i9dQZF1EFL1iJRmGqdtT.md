@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uYXu9L0vzo1lcJk7SjgCT">Brittany "Chi" Coney</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,399 likes - 116 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,400 likes - 116 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 80 | [Talk with Your Body](https://open.spotify.com/track/7yPcAO4F6ozQi6lTi3n3Ai) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 3:08 |
 | 81 | [Know](https://open.spotify.com/track/6SPRv1ARom2ChnujUIVUjg) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Know](https://open.spotify.com/album/65JdepaCEar3u2L8G4ITjY) | 3:07 |
 | 82 | [Trustworthy \(Interlude\)](https://open.spotify.com/track/2TPggh1EPuvx8NoshafWn5) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 1:36 |
-| 83 | [No Ego](https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [No Ego](https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv) | 2:54 |
-| 84 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
+| 83 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
+| 84 | [No Ego](https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [No Ego](https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv) | 2:54 |
 | 85 | [Love Reggae \(feat\. Tinashe\)](https://open.spotify.com/track/4IzgObh0Xnu31feYkX9O6I) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [good to know \(Deluxe\)](https://open.spotify.com/album/4ZkPgA3xwggOxEtHndkb9R) | 3:27 |
 | 86 | [Ever Ever](https://open.spotify.com/track/0LcKqa1xohfdJZkbRnQHip) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 4:41 |
 | 87 | [Waste My Time](https://open.spotify.com/track/5P0E8KZB5Yo69j90RgEwo5) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:36 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 97 | [Chemistry](https://open.spotify.com/track/2wIxANHzWpJuGp7JbCW1Kk) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:01 |
 | 98 | [Love Suicide](https://open.spotify.com/track/19FFLSUP97EtKlicaB0slt) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Love Suicide \- Single](https://open.spotify.com/album/3588siG1z4pQFxBDHz8DC5) | 3:27 |
 | 99 | [Westside](https://open.spotify.com/track/3bItNedEUjf8f1BIUqWQay) | [Charm La'Donna](https://open.spotify.com/artist/4EATVWAsGWEbpI1GH0lCiT) | [La'Donna](https://open.spotify.com/album/3DCseDHoJhI3dLk3TwmjqH) | 2:56 |
-| 100 | [Keep Pushin’ \(Missy Elliott Remix\) \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/2iJD1owfFgSQjPQTnG7C0P) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rico Santana](https://open.spotify.com/artist/0WG1mFn0LkcBZSW7gvUlPV), [Corte Ellis](https://open.spotify.com/artist/4GsvJxjhrNMK7SpsmpbZFt) | [Keep Pushin’ \(Missy Elliott Remix\) \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/6rFY4YdVyFxWBTV3JtPJ7R) | 2:27 |
-| 101 | [Tarantino](https://open.spotify.com/track/3eS2V7HeofOeTXtxfDQbfb) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:57 |
+| 100 | [Tarantino](https://open.spotify.com/track/3eS2V7HeofOeTXtxfDQbfb) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:57 |
+| 101 | [Keep Pushin’ \(Missy Elliott Remix\) \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/2iJD1owfFgSQjPQTnG7C0P) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rico Santana](https://open.spotify.com/artist/0WG1mFn0LkcBZSW7gvUlPV), [Corte Ellis](https://open.spotify.com/artist/4GsvJxjhrNMK7SpsmpbZFt) | [Keep Pushin’ \(Missy Elliott Remix\) \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/6rFY4YdVyFxWBTV3JtPJ7R) | 2:27 |
 | 102 | [Can't Relate](https://open.spotify.com/track/2nSdR0dx4aVC1tQKSHbZFH) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Can't Relate](https://open.spotify.com/album/3n1BIU9Pd7chTwLODhyA4k) | 2:41 |
 | 103 | [Mama I Made It \(How We Do It\)](https://open.spotify.com/track/6SaMuPtzdKuRne9Q5ySoBR) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Say Mo](https://open.spotify.com/artist/2ifSFniWo6Q2KI6MhVvwwN) | [Mama I Made It \(How We Do It\)](https://open.spotify.com/album/4qHDwSgNteS5Nk2cS9Ug2Q) | 3:24 |
 | 104 | [Tipsey Love \(feat\. Future\)](https://open.spotify.com/track/6AxcuPmd597w8iA0NhW1Yg) | [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dusk Till Dawn](https://open.spotify.com/album/1galQgZ116WPcArwlmiYWi) | 4:07 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 115 | [Afterparty](https://open.spotify.com/track/0ZeD7U7TTQECHW8bU3l0WM) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [I've Seen The Lizard People](https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf) | 2:16 |
 | 116 | [Luv Hug](https://open.spotify.com/track/7AfipMJ54S6m004iJ3DvM9) | [Shunda K](https://open.spotify.com/artist/25EMx35978LX76CR9xPBhH), [Brittany Coney](https://open.spotify.com/artist/0jxdssOxFO2Z612ZOMbN1T) | [The Most Wanted](https://open.spotify.com/album/1T5GaDlXrcvs3UP1KBkQ0Q) | 3:44 |
 
-Snapshot ID: `AcaHTAAAAADIo8kaBKdRGFsfViXJJTFz`
+Snapshot ID: `AcaM7AAAAABSFqUpC2Qo7nWf87c0J+hR`

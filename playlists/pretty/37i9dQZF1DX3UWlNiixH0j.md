@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: MASS OF THE FERMENTING DREGS
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,077 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,107 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [cinema paradiso](https://open.spotify.com/track/5zlJEFexSDmVw6PEDwNJZf) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kimi wo omotte iru](https://open.spotify.com/album/0JeDfH9IBw1tWdXIekSq5d) | 4:22 |
 | 100 | [jaded](https://open.spotify.com/track/2713O1GS43HGWyQVucGFMX) | [the carber](https://open.spotify.com/artist/4E2egeJp2wLcNBVUEdRjTM) | [光](https://open.spotify.com/album/0GDrp8ro4sDsQQzALuGzJp) | 5:29 |
 
-Snapshot ID: `AAAAAK2qcIU1LhUiEA7Jarw7qkV3dMbK`
+Snapshot ID: `AAAAAOt4FCgpQghY6GSQcQbgKE0/nIKl`

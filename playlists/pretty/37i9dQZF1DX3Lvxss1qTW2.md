@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Kidd Carder
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,346 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,417 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 8 | [Jaiye](https://open.spotify.com/track/6nhnFcMt2qhDN87i28ocyV) | [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Jaiye](https://open.spotify.com/album/58lIUID2T62HCgt2OuQElk) | 2:44 |
 | 9 | [BB Lifestyle](https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [BB Lifestyle](https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE) | 3:08 |
 | 10 | [JET](https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [JET](https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW) | 2:55 |
-| 11 | [Alafia \(Peace\)](https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Alafia \(Peace\)](https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF) | 2:37 |
+| 11 | [Alafia \(Peace\)](https://open.spotify.com/track/7uZoMqtZ5C7xDMVzF6QCIu) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Alafia \(Peace\)](https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF) | 2:45 |
 | 12 | [God Abeg](https://open.spotify.com/track/7kzGpRbR0uwQrvqBs8Xskw) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [God Abeg](https://open.spotify.com/album/2V1mG4syocQGXnH2EFHMPN) | 3:10 |
 | 13 | [Gobe](https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Before I Blow](https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr) | 2:40 |
 | 14 | [1 of 1](https://open.spotify.com/track/1BImbxAJo7PNDWdPMC7c8l) | [Txmmyily](https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa) | [1 of 1](https://open.spotify.com/album/007o96OdGuH17jGD1SSVV3) | 2:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Pressure](https://open.spotify.com/track/5qXKP8mciCAtjLfr91LwVl) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 2:50 |
 | 80 | [Tease Me](https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [B4SAVEME](https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt) | 2:00 |
 
-Snapshot ID: `AAAAADyby3xVVtx9U5b/nr7M+iIUZkuo`
+Snapshot ID: `AAAAAF8ENlqvArq6Bl0Vm0dWlN6IUetz`

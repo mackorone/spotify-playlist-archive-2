@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1205394,
+  "num_followers": 1205483,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMVzWCG+t360fLkBUAkYjAzH/meX",
+  "snapshot_id": "AAAAAN/iV53Ay8VpOud+zqQ16NkOPMKm",
   "tracks": [
     {
       "added_at": "2026-02-09 08:20:39",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
+        "name": "Dino: The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Sway (Quien Sera) - 1997 - Remastered",
+      "url": "https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 182240,
       "name": "A Kiss To Build A Dream On",
       "url": "https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
-        "name": "Dino: The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Sway (Quien Sera) - 1997 - Remastered",
-      "url": "https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs"
     },
     {
       "added_at": "2026-02-09 08:20:39",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
         "name": "An Englishman in Love in LA",
         "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 176573,
       "name": "The Touch of Your Lips",
       "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn"
     },
     {
       "added_at": "2026-02-09 08:20:39",

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-625 songs - 1 day 14 hr 39 min
+629 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-06-02 | 2026-08-08 |
 | [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-14 | 2026-06-13 |
 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-11 | 2026-08-08 |
+| [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 | 2026-08-21 |  |
 | [Falling Curtain](https://open.spotify.com/track/2yHWrzZ7foMNuft7TlarBm) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Falling Curtain](https://open.spotify.com/album/0hsbIouOmJOjyPfwRoG1Z8) | 3:28 | 2026-07-13 | 2026-08-08 |
 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 | 2026-06-13 |
 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 | 2026-04-06 | 2026-05-08 |
@@ -259,6 +260,7 @@
 | [I'm not awake](https://open.spotify.com/track/62rbl7R33LsdBWDaN2r8OV) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 3:55 | 2026-01-22 | 2026-03-04 |
 | [I'm Sorry It's Over](https://open.spotify.com/track/58kzecWPzOlCzpDzu32eDz) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:06 | 2026-03-14 | 2026-04-20 |
 | [ill\-intent](https://open.spotify.com/track/0E80R4bro3Xmh3DwJm9VBy) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:54 | 2025-10-28 | 2025-11-22 |
+| [Immaterial](https://open.spotify.com/track/3ch8q6zYdTeVCxBDZylFT2) | [Angela Begin](https://open.spotify.com/artist/3342mS0xaJlst2UDMCMvPY) | [Immaterial](https://open.spotify.com/album/2CXAueGVyyVU9vUF38yWry) | 2:22 | 2026-08-21 |  |
 | [Impostor](https://open.spotify.com/track/5M2Xbywtmoe2wdhHy7gMHe) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Impostor](https://open.spotify.com/album/310tBlOOWUERHbf0xTbRBR) | 3:01 | 2025-12-29 | 2026-01-21 |
 | [In Between](https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [In Between](https://open.spotify.com/album/0BealWuN7y2KG3ephHKcun) | 2:27 | 2026-07-21 |  |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
@@ -464,6 +466,7 @@
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
 | [Silver Lake](https://open.spotify.com/track/3cMZDt1yPKZuP7UssRKfWI) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Silver Lake](https://open.spotify.com/album/4AMGWzEqgc2pui4p2vXC4y) | 4:11 | 2026-06-20 | 2026-08-08 |
 | [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 | 2025-12-20 | 2026-01-21 |
+| [Skinny Boyfriend](https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Skinny Boyfriend](https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J) | 3:29 | 2026-08-21 |  |
 | [Skuggorna på vägen hem](https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG) | [KRAKEL](https://open.spotify.com/artist/5pFRPC7ssWGA2obcJOezqH) | [Skuggorna på vägen hem](https://open.spotify.com/album/2rOzxZC6pLM83WSwqIOa2z) | 4:02 | 2026-02-20 | 2026-03-22 |
 | [Sleepless Nights](https://open.spotify.com/track/2rx2mOt8glRMwPo2mKyBgc) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Sleepless Nights](https://open.spotify.com/album/6APVwDWm6gGbtYhfnbC0CT) | 5:07 | 2025-10-30 | 2025-11-22 |
 | [Slow Tide](https://open.spotify.com/track/0kKQmicsDuiV5GFp4zec4j) | [Angela Begin](https://open.spotify.com/artist/3342mS0xaJlst2UDMCMvPY) | [Slow Tide](https://open.spotify.com/album/5K5o9OAQz2MbPkqVoMibmf) | 3:43 | 2026-07-20 |  |
@@ -471,6 +474,7 @@
 | [So Long, it's a Shame About the Fish \- Radio Edit](https://open.spotify.com/track/1LRCIZlYb4bxhwAVjeUbMI) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [So Long, it's a Shame About the Fish](https://open.spotify.com/album/58jcUai7lmTiBkpotllfpl) | 2:26 | 2025-11-04 | 2025-12-12 |
 | [Solid Ground](https://open.spotify.com/track/0NM15moIfu431ttU9B4aTs) | [Summer's Brother](https://open.spotify.com/artist/3UWbg10eG8C4P0PYUONcRe) | [Solid Ground](https://open.spotify.com/album/1SrzDxhLRSaHJUgBWo4PJb) | 3:25 | 2026-05-22 | 2026-08-08 |
 | [Solitario](https://open.spotify.com/track/5ASTeFNSL8IqOU165b9pRF) | [Hot Dog](https://open.spotify.com/artist/7zqoqGmLGianOlJo47jQ1f) | [Ardiente \(EP\)](https://open.spotify.com/album/7vDeWBbCQIqssX6YPbKLuy) | 4:34 | 2026-03-05 | 2026-04-20 |
+| [Sombra](https://open.spotify.com/track/5BMFCvyN2LsLyiZTk1yFWj) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto III](https://open.spotify.com/album/3CwO3k5yLQmvPr6wXfY8xq) | 5:14 | 2026-08-21 |  |
 | [Sombre Delight](https://open.spotify.com/track/5sLGwXtLsRRCZqEhKoD12i) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Dogs & Roses](https://open.spotify.com/album/3wCaudFRpeeXZXnh066Lek) | 5:33 | 2026-03-05 | 2026-05-08 |
 | [Someone Gotta Hold](https://open.spotify.com/track/3B3PRVnQ7lcwXMUlBNiUje) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/17IiSKvoILI4Yc0qnqQZzH) | 3:17 | 2026-04-06 | 2026-05-08 |
 | [Something About You](https://open.spotify.com/track/1W2eU1ISQAJkjiIgb9e9va) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Love Hotel](https://open.spotify.com/album/62Bxt91D7ef7SJKnHZ0BxM) | 3:19 | 2026-04-02 |  |

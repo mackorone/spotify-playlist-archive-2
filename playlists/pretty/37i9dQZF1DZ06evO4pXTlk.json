@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAAOLNNrexhWFICggH4vJEEp",
+  "snapshot_id": "aoZDgAAAAABIjWURR4iXJeUk2MMXMVit",
   "tracks": [
     {
       "added_at": null,
@@ -44,9 +44,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 158346,
-      "name": "wow",
-      "url": "https://open.spotify.com/track/1QKUDfrfJ55HaVVUyJZ28Z"
+      "duration_ms": 148826,
+      "name": "sinking feeling",
+      "url": "https://open.spotify.com/track/5L5iQ8r4WVRSCNGajFNbjX"
     },
     {
       "added_at": null,
@@ -108,29 +108,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 148826,
-      "name": "sinking feeling",
-      "url": "https://open.spotify.com/track/5L5iQ8r4WVRSCNGajFNbjX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afterthoughts On Letting Go",
-        "url": "https://open.spotify.com/album/5K3J7hIZ5aHfV4tUAnbv7b"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o"
-        }
-      ],
-      "duration_ms": 100377,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/7CXTYpBFOD8ZD99At4G6jR"
+      "duration_ms": 158346,
+      "name": "wow",
+      "url": "https://open.spotify.com/track/1QKUDfrfJ55HaVVUyJZ28Z"
     },
     {
       "added_at": null,
@@ -167,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afterthoughts On Letting Go",
+        "url": "https://open.spotify.com/album/5K3J7hIZ5aHfV4tUAnbv7b"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o"
+        }
+      ],
+      "duration_ms": 100377,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/7CXTYpBFOD8ZD99At4G6jR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i think i want to go home now.",
         "url": "https://open.spotify.com/album/11vZ8gOVgAq5Txx9Eo76hl"
       },
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195760,
-      "name": "do it to myself",
-      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
+      "duration_ms": 181040,
+      "name": "bury you",
+      "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 181040,
-      "name": "bury you",
-      "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
+      "duration_ms": 195760,
+      "name": "do it to myself",
+      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 184443,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
+      "duration_ms": 232078,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 170883,
-      "name": "Nightschool",
-      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
+      "duration_ms": 247324,
+      "name": "Home Versus Home",
+      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 232078,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX"
+      "duration_ms": 184443,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 247324,
-      "name": "Home Versus Home",
-      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
+      "duration_ms": 170883,
+      "name": "Nightschool",
+      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+        "name": "Wildheart Dreaming",
+        "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Carnival Time",
-      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
+      "duration_ms": 192638,
+      "name": "Fight or Run",
+      "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wildheart Dreaming",
-        "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 192638,
-      "name": "Fight or Run",
-      "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 202440,
-      "name": "I Scare Easy",
-      "url": "https://open.spotify.com/track/4X3bochi0tHmuob5vBWMlE"
+      "duration_ms": 224160,
+      "name": "Carnival Time",
+      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
     },
     {
       "added_at": null,

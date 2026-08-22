@@ -2,9 +2,9 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Rising voices, enduring roots\. Cover: Meels
+> Rising voices, enduring roots\. Cover: Adam Chaffins
 
-435 songs - 1 day 2 hr 26 min
+439 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 | 2025-03-14 | 2026-04-18 |
 | [Blues Comin' On](https://open.spotify.com/track/1VSVt61UOSyhMAEsShuvT8) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 4:24 | 2023-06-30 | 2024-03-02 |
 | [Blues Comin' On](https://open.spotify.com/track/5Cj9imI58FYGj8QuTu7Flk) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Blues Comin' On](https://open.spotify.com/album/4eTVFruKIsp4Q9MTYqRqsl) | 4:24 | 2022-11-18 | 2023-07-09 |
-| [Book Cover](https://open.spotify.com/track/18f64McwMz3Vqqsfk8Z6e0) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Book Cover](https://open.spotify.com/album/487GKzw9ereaLcviRXxDZZ) | 3:22 | 2025-12-12 |  |
+| [Book Cover](https://open.spotify.com/track/18f64McwMz3Vqqsfk8Z6e0) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Book Cover](https://open.spotify.com/album/487GKzw9ereaLcviRXxDZZ) | 3:22 | 2025-12-12 | 2026-08-22 |
 | [Boomerang Town](https://open.spotify.com/track/0nNm9Zf8DK34PM4hi912QM) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [Boomerang Town](https://open.spotify.com/album/1sr75Z5hmmbiH62FLMfdwv) | 7:00 | 2023-02-17 | 2025-10-18 |
 | [Bottom of the Bottle](https://open.spotify.com/track/25VNwhFzmlWtTQIRdrZK7m) | [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Bottom of the Bottle](https://open.spotify.com/album/5VPkEIN5M0cVcjgbm3raz4) | 4:13 | 2022-01-28 | 2023-09-16 |
 | [Boy and a Bird Dog](https://open.spotify.com/track/4gDbSuC9bn0bl6ZGE8yaSy) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Boy and a Bird Dog](https://open.spotify.com/album/0ZzYKjU7Iamiu2Y3kpCwPV) | 3:04 | 2023-06-09 | 2025-12-13 |
@@ -165,6 +165,7 @@
 | [Heavy Tobacco](https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Heavy Tobacco](https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj) | 3:09 | 2026-07-31 |  |
 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 | 2022-01-28 | 2023-07-15 |
 | [Hideout](https://open.spotify.com/track/0WB8tErWLgN3ryFfb6Q7mt) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Cabin Fever](https://open.spotify.com/album/4OCXEMDB1088w6rgKPlvQu) | 2:59 | 2022-01-28 | 2024-11-16 |
+| [High Priestess](https://open.spotify.com/track/2ZiaJMx6LV7eoMhjTvNa2j) | [Brennan Wedl](https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh) | [High Priestess](https://open.spotify.com/album/3j6WrxpRCgfSpSYn5weD2E) | 2:40 | 2026-08-21 |  |
 | [Higher Ground](https://open.spotify.com/track/3IPkN2bQT15rbDzw6nEdwY) | [Colby T\. Helms](https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO) | [Higher Ground](https://open.spotify.com/album/5phrODBYV3rPkxO3qVB7oY) | 3:42 | 2023-09-15 | 2025-10-18 |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2022-01-28 | 2023-08-26 |
 | [Hold The Door](https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq) | 4:47 | 2024-07-12 | 2026-02-07 |
@@ -193,7 +194,7 @@
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-01-28 | 2023-01-28 |
 | [Indigo](https://open.spotify.com/track/6jn45BolQ3jyAESOsH1qTo) | [Charlie Bishop](https://open.spotify.com/artist/1SNT1xbb94VsMFDUMTRViq) | [Indigo](https://open.spotify.com/album/1g2zdLLpMpxUHNiBvIvmmc) | 3:29 | 2026-01-16 | 2026-08-15 |
 | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Is It Ever Really Gone \(feat\. Ashley Monroe\)](https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ) | 3:24 | 2023-06-09 | 2025-11-22 |
-| [Is This Really Happening?](https://open.spotify.com/track/1ivFENev90vl7KkhV4ZuoV) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Is This Really Happening?](https://open.spotify.com/album/3mzlLP2CBMZGX3sYYbSwQW) | 4:21 | 2026-01-16 |  |
+| [Is This Really Happening?](https://open.spotify.com/track/1ivFENev90vl7KkhV4ZuoV) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Is This Really Happening?](https://open.spotify.com/album/3mzlLP2CBMZGX3sYYbSwQW) | 4:21 | 2026-01-16 | 2026-08-22 |
 | [It's No Fun](https://open.spotify.com/track/0FEFBaTY1xhnxOJxpZoWkS) | [Olivia Barnes](https://open.spotify.com/artist/6OlUNIT9FUO9BkFDPrixVa) | [It's No Fun](https://open.spotify.com/album/20UaNO37lPTzvOzUmwHZOw) | 3:19 | 2026-03-27 |  |
 | [Jack of Fools](https://open.spotify.com/track/1Fx7t6OvcoswWDtOlh1NcL) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Jack of Fools](https://open.spotify.com/album/3roREPgmhlZx06ZxDn7vyR) | 4:48 | 2022-01-28 | 2022-07-29 |
 | [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 | 2022-01-28 | 2023-04-01 |
@@ -283,7 +284,7 @@
 | [On My Way](https://open.spotify.com/track/2jhrTGnlTPIT5cQJP2pukM) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [On My Way](https://open.spotify.com/album/0FOsrAxxpWXASoKYxSBWtp) | 4:27 | 2022-02-04 | 2025-03-01 |
 | [One Day At A Time](https://open.spotify.com/track/1yBNPK0jNI779O3z0yudLV) | [Admiral Radio](https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v) | [One Day At A Time](https://open.spotify.com/album/2HmR5WZXMMSbyce9sr0crL) | 2:54 | 2026-06-05 |  |
 | [One Little Feeling](https://open.spotify.com/track/1ysYW8z0yPkhRlITrAHcsj) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [One Little Feeling](https://open.spotify.com/album/2Lrv7yl3r4gnVgEixUKv7n) | 3:33 | 2022-01-28 | 2023-07-01 |
-| [Ouachita Woods](https://open.spotify.com/track/2nfWM85aomohgkF0FNCB9K) | [Dasher The Band](https://open.spotify.com/artist/5IEGhfMgzofovjCJq9jalr) | [Ouachita Woods](https://open.spotify.com/album/1Z5hNOQBUwlVCPUikDTRdO) | 4:03 | 2026-05-22 |  |
+| [Ouachita Woods](https://open.spotify.com/track/2nfWM85aomohgkF0FNCB9K) | [Dasher The Band](https://open.spotify.com/artist/5IEGhfMgzofovjCJq9jalr) | [Ouachita Woods](https://open.spotify.com/album/1Z5hNOQBUwlVCPUikDTRdO) | 4:03 | 2026-05-22 | 2026-08-22 |
 | [Out In The Country](https://open.spotify.com/track/4nbR39RIcs1eunYDNO5yC4) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Out In The Country](https://open.spotify.com/album/1GjWGVY0rVULFjqRLMx9aF) | 2:50 | 2026-04-17 |  |
 | [Out West](https://open.spotify.com/track/1mftpk7MAIdq89RRnICK26) | [Meels](https://open.spotify.com/artist/5AH6zdOi1I9eHP2jlUHLnq) | [Across The Raccoon Strait](https://open.spotify.com/album/4lTKnQKyXUCNEi4oOE2JCE) | 2:57 | 2026-02-06 |  |
 | [Outsider](https://open.spotify.com/track/4aHarT4TxQBK1nkP4xSCMe) | [Marsden & Richardson](https://open.spotify.com/artist/7uXUjL5FWFnkkZYz2nFbX1), [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Outsider](https://open.spotify.com/album/4Qo4N56MAtVRkk2imTjrxX) | 2:58 | 2022-01-28 | 2022-07-29 |
@@ -347,7 +348,10 @@
 | [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2022-01-28 | 2024-05-03 |
 | [Somewhere Between Texas and Tennessee](https://open.spotify.com/track/1eookKB7fhMF6bjqhUaJyz) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Somewhere Between Texas and Tennessee](https://open.spotify.com/album/21xANAhYWWHNn6hZdiivOB) | 3:33 | 2024-06-28 | 2025-11-22 |
 | [Son Of The San Lorenzo](https://open.spotify.com/track/2TQ41pQc8mP9ECyjeyc7Uz) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Son of the San Lorenzo](https://open.spotify.com/album/0KTfVCtu9uZM8aDtzexZp5) | 4:53 | 2025-06-06 | 2025-10-18 |
+| [Soul Medicine](https://open.spotify.com/track/3z1TVYiv37aP6eV2rZqyoH) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [Soul Medicine](https://open.spotify.com/album/3X2qdO84719UfVf7Eaiar3) | 3:04 | 2026-08-21 |  |
 | [Southside of Forever](https://open.spotify.com/track/2OOz6KPCstfYtxne6JFHQZ) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [SKIN](https://open.spotify.com/album/5BFYTEosLh6Dv6ObTpbuxO) | 3:34 | 2025-02-28 | 2026-01-24 |
+| [Stable](https://open.spotify.com/track/5sqlkchsxFLVxAirgd8dqY) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N) | [Stable](https://open.spotify.com/album/4VawIxBpGYW6J145GXSmmR) | 3:40 | 2026-08-21 |  |
+| [Stepped Over The Pieces](https://open.spotify.com/track/4fOgfA8WU9gvADYCIWpiTF) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [Trailer Trash: Doublewide](https://open.spotify.com/album/5bHm8VQSIzV903QvD1ZBAf) | 3:21 | 2026-08-21 |  |
 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 | 2022-01-28 | 2023-12-02 |
 | [Strawberry Rhinestone](https://open.spotify.com/track/7BAcAmm4hyKhd2sgZjSjdS) | [Two Runner](https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg) | [Strawberry Rhinestone](https://open.spotify.com/album/6pHHgfdtht4v9TAgDxE9WM) | 4:19 | 2026-06-26 |  |
 | [String up a Necklace](https://open.spotify.com/track/7aJr9XiKIvkDROXrlrTib1) | [Hunter Root](https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh) | [Crooked Home](https://open.spotify.com/album/48kC1ETSDPPA1Ee3ItOMhc) | 3:18 | 2025-10-17 | 2026-05-09 |
@@ -373,7 +377,7 @@
 | [Thank the Lord](https://open.spotify.com/track/1UQU5F0KBQokni2XIoY4De) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG), [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB) | [Thank the Lord… it’s The Pink Stones](https://open.spotify.com/album/1m7PWbKvEcBikdUbE4vuZZ) | 3:56 | 2025-12-12 | 2026-05-09 |
 | [That River](https://open.spotify.com/track/7fre8zstP7XaI5VkmRu8I4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:09 | 2022-01-28 | 2025-10-18 |
 | [The Big Time](https://open.spotify.com/track/0Cq7dBJ0G1JFeu6fQTLYyH) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [The Big Time](https://open.spotify.com/album/6DULsRHZgOAeTM7VnBzbjz) | 3:40 | 2026-02-27 |  |
-| [The Boy And The Swan](https://open.spotify.com/track/3OhnER1sVL5LlIdeBAvkFZ) | [Bird](https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N) | [The Boy And The Swan](https://open.spotify.com/album/1paQiW4t0eYyP4VvERxjjo) | 4:09 | 2026-01-23 |  |
+| [The Boy And The Swan](https://open.spotify.com/track/3OhnER1sVL5LlIdeBAvkFZ) | [Bird](https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N) | [The Boy And The Swan](https://open.spotify.com/album/1paQiW4t0eYyP4VvERxjjo) | 4:09 | 2026-01-23 | 2026-08-22 |
 | [The Dreaming Kind](https://open.spotify.com/track/0VUmkh6uFoNL6LyPm5b5wu) | [Lacy Green](https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL) | [The Dreaming Kind](https://open.spotify.com/album/0RkkdDiuROPhI0p4gw9vpH) | 4:02 | 2026-02-27 |  |
 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-01-13 | 2024-08-31 |
 | [The Luckier Ones](https://open.spotify.com/track/6XrZvjJLyv3frS0lNU9GXF) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Heavy Duty Heart](https://open.spotify.com/album/3jEb6lCEoLcTpYbdplupEi) | 3:51 | 2026-03-27 |  |

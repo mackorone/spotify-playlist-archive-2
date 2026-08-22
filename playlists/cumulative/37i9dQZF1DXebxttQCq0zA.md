@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-816 songs - 1 day 15 hr 13 min
+823 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Enceladus](https://open.spotify.com/track/1vM37DmO8WQjzkDP9Jpfkb) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Enceladus](https://open.spotify.com/album/6al1jqMrWyZzciEyE2TIJy) | 3:14 | 2024-07-12 | 2025-02-15 |
 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 | 2022-05-25 | 2022-09-28 |
 | [Envision](https://open.spotify.com/track/4WDiuLIXEaVph0nG3B0zJE) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:39 | 2022-05-25 | 2022-09-28 |
+| [Ephemeral](https://open.spotify.com/track/6IiV9BswA4cyqOq04UfJyz) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Ephemeral](https://open.spotify.com/album/6g3N6l9pF0zanPYhVLHnRk) | 2:33 | 2026-08-21 |  |
 | [Equilibrium](https://open.spotify.com/track/0aRSGdv7ImXsxk91fTqEf5) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Equilibrium](https://open.spotify.com/album/3Tr4GGB3iahsp5CVYtubVj) | 3:03 | 2022-05-25 | 2022-09-28 |
 | [Equinox](https://open.spotify.com/track/09crw6FF5gq4Rd0DLsI7n9) | [Ögonblick](https://open.spotify.com/artist/7lI51rVxjXEtquwOI7v04L) | [Equinox](https://open.spotify.com/album/4YZ4tlaZQbGjW9KoHcoWoo) | 2:58 | 2024-06-10 | 2026-02-20 |
 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-04-06 | 2025-04-11 |
@@ -249,6 +250,7 @@
 | [Ever Fading](https://open.spotify.com/track/1SVrLiEqupao1QEtMAgQwi) | [Úrkoma](https://open.spotify.com/artist/4XWAQN3T2e2rNDlcDO0lhS) | [Ever Fading](https://open.spotify.com/album/0ZlhYIqMFkkpMWRS8tzWi9) | 2:37 | 2024-06-10 | 2026-03-14 |
 | [Evermore](https://open.spotify.com/track/1hGKYDfFHkQOiywwzTEAHn) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [Evermore](https://open.spotify.com/album/4jrORe7b2bOuCAOobDz86F) | 2:27 | 2026-04-08 |  |
 | [Evidence of Light](https://open.spotify.com/track/7MRZ9beGeKCURYJPryjvNd) | [Tristan Wilde](https://open.spotify.com/artist/6xIYhnbWLOfDnbBlbQGX1Z) | [Evidence of Light](https://open.spotify.com/album/0OaGhlQnhH63cwtnNC4BOL) | 2:40 | 2026-04-08 |  |
+| [Evimeria](https://open.spotify.com/track/0xgT720mcGnxh2NqzeyUPN) | [Ebon Meadow](https://open.spotify.com/artist/5C9wHrB7AhBH7YAROPO3Kv) | [Evimeria](https://open.spotify.com/album/7mTynStvO0R10Cfo9qjoKn) | 2:25 | 2026-08-21 |  |
 | [Evolution of Consciousness](https://open.spotify.com/track/4DNpdp4W0accYu6gStgJWb) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Evolution of Consciousness](https://open.spotify.com/album/2tQwlg152lMqNaldBmI7v5) | 3:02 | 2026-04-08 | 2026-06-12 |
 | [Evolving](https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR) | [Sidney Ashenhurst](https://open.spotify.com/artist/6pnBX8wymywCxqY7FiXEsN) | [Evolving](https://open.spotify.com/album/2g0MPVqI9fbAVrn64n3YmI) | 2:03 | 2022-05-25 | 2024-11-19 |
 | [Exhale](https://open.spotify.com/track/77V2oQd9cpcMBx5UYcZ8wl) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Exhale](https://open.spotify.com/album/3imNcMpA04njJ84ghJcFHN) | 2:58 | 2024-11-18 | 2026-03-14 |
@@ -355,6 +357,7 @@
 | [In Solitude](https://open.spotify.com/track/4rEHRykxSQvP6mA23Umt71) | [Restorative](https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i) | [In Solitude](https://open.spotify.com/album/1S2GsC1vBF4ISYIpwSass6) | 2:31 | 2022-05-25 | 2024-11-29 |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-05-25 | 2022-09-28 |
 | [In the Light of the First Full Moon](https://open.spotify.com/track/6xzUBuqwcUCYfoW1Y0ElaW) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [In the Light of the First Full Moon](https://open.spotify.com/album/2wggMr6dZEkzCLSVYGpM7m) | 2:44 | 2026-06-18 |  |
+| [In the Shadows](https://open.spotify.com/track/2SV1sRRof74MxHoyyqthg0) | [Como Calanthia](https://open.spotify.com/artist/5nkCxT1wGQhU8I9HBR6tJ6) | [In the Shadows](https://open.spotify.com/album/0xikvUlqtKSpo4VV092kWr) | 2:48 | 2026-08-21 |  |
 | [In Warmth](https://open.spotify.com/track/28xW5WozDABhJvfxNx3XDq) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [In Warmth](https://open.spotify.com/album/6Mgqs0QSsWG6j6jXC5MuNm) | 2:33 | 2026-03-13 | 2026-06-12 |
 | [Incan](https://open.spotify.com/track/5UjkShFEMrLqwajnpkzrL6) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Incan](https://open.spotify.com/album/0CmlUS7MiiPSxfP7qlmwzK) | 3:55 | 2022-05-25 | 2022-09-03 |
 | [Inceptum](https://open.spotify.com/track/1PtNlpqHMwOQ93hh7pRizT) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Inceptum](https://open.spotify.com/album/2F9UiY6Cyay1nWd8OlyWZB) | 2:38 | 2026-04-08 |  |
@@ -450,6 +453,7 @@
 | [Moments of Silence](https://open.spotify.com/track/6ORlCRVO6QMK8uQQkAbHzr) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Moments of Silence](https://open.spotify.com/album/6i2DQu7fwv0xpiKpAjrZHf) | 2:45 | 2026-02-04 |  |
 | [Monism](https://open.spotify.com/track/7wY4Bww6zSZKdsqSWkl3nD) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Monism](https://open.spotify.com/album/3MTzr4U8cT0uOx29SVYCPX) | 2:27 | 2024-09-18 |  |
 | [Monumental](https://open.spotify.com/track/2ENzh5HOQC5ZhIRiLyB5IW) | [Meta Theta](https://open.spotify.com/artist/4oi7Xs0414Dk3oCXdynEYn) | [Monumental](https://open.spotify.com/album/3q3YPrIBw6gR0faAMUHNYr) | 2:37 | 2025-12-17 |  |
+| [Moon Etching](https://open.spotify.com/track/5i4Aeef6KLQoOhRWfeqzD1) | [Stellian](https://open.spotify.com/artist/0J7ija5d6fGOPYGODzuRLq) | [Moon Etching](https://open.spotify.com/album/493CoZ2iqzKfknKRkY7b2Y) | 2:22 | 2026-08-21 |  |
 | [Moonlight](https://open.spotify.com/track/7d3KZr4HSC2Pt3r4a9Jx91) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [At Peace](https://open.spotify.com/album/6T8GQaam618kI3vbP74FXP) | 2:29 | 2022-05-25 | 2022-09-28 |
 | [Moonrise](https://open.spotify.com/track/4qu5tfBgikoFf3eLnmueSc) | [Tundra Miles](https://open.spotify.com/artist/4kLXFoLSe7YfrF08nrKESJ) | [Moonrise](https://open.spotify.com/album/6wEm2ipc8q96Pz2pEsuBEN) | 2:15 | 2026-02-19 | 2026-04-09 |
 | [Moons in the Rings](https://open.spotify.com/track/3Y3u0mF1FF8Psi7PDnSvLI) | [Interstellar Journey](https://open.spotify.com/artist/2lVUuG2asaRByPWesKcMW4) | [Tides on Titan](https://open.spotify.com/album/09Kpj515fwXraK5qYOpx3F) | 2:56 | 2022-05-25 | 2023-12-14 |
@@ -733,10 +737,12 @@
 | [The NIght Sky](https://open.spotify.com/track/74BilO0zChICzNl6bXBFWI) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [The NIght Sky](https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG) | 2:58 | 2022-05-25 | 2022-09-28 |
 | [The Riddle of Dreams](https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg) | [Carligo](https://open.spotify.com/artist/6rcMboN5jrM7OzqcqIfLwd) | [The Riddle of Dreams](https://open.spotify.com/album/5gBFJ8RLzPdObOk4pQTiKj) | 2:27 | 2022-05-25 | 2025-04-16 |
 | [The Road](https://open.spotify.com/track/3URXOzRa5EbLWiiriDDDI3) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Escape Gravity](https://open.spotify.com/album/2q8JbhxMmq0UMn3ui8XdvB) | 3:00 | 2022-05-25 | 2022-09-28 |
+| [The Slow Bloom](https://open.spotify.com/track/3QipTmcVQtv5GDG6pe4RS7) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [The Slow Bloom](https://open.spotify.com/album/5LXL8qb6zPFszVoS1ek9Dl) | 2:26 | 2026-08-21 |  |
 | [The Slow Horizon](https://open.spotify.com/track/30gYInRpcHDr1iBMTpFy55) | [Elvin Mercher](https://open.spotify.com/artist/5GVmxZZpLOj3mPeqMmNoFv) | [The Slow Horizon](https://open.spotify.com/album/6N8Ae9PL3bKFmR5cQShP8n) | 2:18 | 2026-06-11 |  |
 | [The Space Between Dreams](https://open.spotify.com/track/42sptsSu3qydbov3DVQqnj) | [OmniBrain](https://open.spotify.com/artist/5OIg5Mtsl62IziXx0cGh06) | [The Space Between Dreams](https://open.spotify.com/album/01QW1tgRNQ6KEldWrvDVFk) | 3:00 | 2025-02-14 | 2026-06-12 |
 | [The Thousand Petalled Lotus](https://open.spotify.com/track/26SpOPMsgrW0cfLnb6SAGi) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [The Thousand Petalled Lotus](https://open.spotify.com/album/4GOaSQx5WArLO7EMwm47qn) | 2:54 | 2025-06-17 | 2026-04-25 |
 | [Theophany](https://open.spotify.com/track/0ZX0LBKqhwc0G4E5w62Xfz) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Theophany](https://open.spotify.com/album/02CJpNiCy16AE83DUcJq9f) | 2:59 | 2024-12-12 | 2026-02-13 |
+| [Theta Bloom](https://open.spotify.com/track/0XaqQUNh0xPPYAws4y8j4x) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Theta Bloom](https://open.spotify.com/album/4hyEg8HQdZ1u6LHZ5nLXhD) | 2:16 | 2026-08-21 |  |
 | [They can’t live](https://open.spotify.com/track/1WnP7YURgLOv4OC588Q5Jq) | [Tranquility Spa](https://open.spotify.com/artist/4JzdBo6p2AUamkuE06pBRh) | [When I have no other place](https://open.spotify.com/album/6xc33JQjFZNHUnDa0arx1Y) | 3:36 | 2023-02-03 | 2025-05-14 |
 | [This night](https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [This night](https://open.spotify.com/album/4wEvwj51552ftkdHoXQm1G) | 3:10 | 2022-05-25 | 2023-04-07 |
 | [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 | 2022-05-25 | 2024-09-06 |
@@ -787,6 +793,7 @@
 | [Vanishing point](https://open.spotify.com/track/6Xm9yQgyScIloQ0bLV0tIM) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Vanishing point](https://open.spotify.com/album/0gQe1ZCuIkCsqL3ciTf5Dt) | 2:50 | 2026-02-19 |  |
 | [Vast Surroundings](https://open.spotify.com/track/6xCgUaot7EEpxQRGtW7S0O) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:13 | 2022-05-25 | 2024-08-03 |
 | [Velvet Air](https://open.spotify.com/track/6w4tlJlyO1BUrs2Z4KNPQr) | [Deep Aphelion](https://open.spotify.com/artist/2MEIYAS5BjaUAenk3bALdo) | [Velvet Air](https://open.spotify.com/album/5QpMKcVp6Naee3QK4FSfuR) | 2:32 | 2026-03-13 |  |
+| [Velvet Hush](https://open.spotify.com/track/6ttZp3vtgbT8fTuzPCwRaZ) | [Enyra](https://open.spotify.com/artist/3nsrfYRSdHyxMgkJO3YuAg) | [Velvet Hush](https://open.spotify.com/album/6SviQ4THqB7uzf7JkZWivM) | 2:48 | 2026-08-21 |  |
 | [Velvet Visions](https://open.spotify.com/track/4q38Ccg8YfyoaebTjI7f0j) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Velvet Visions](https://open.spotify.com/album/1ppK0OxmjMoZzxSG1hWv6Z) | 3:38 | 2024-02-15 | 2026-02-13 |
 | [Velvet Wound](https://open.spotify.com/track/3YQlylv6pq9ZZ257M4TS1w) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Velvet Wound](https://open.spotify.com/album/6VedAqa1nlKwCZm3GwFLH0) | 2:42 | 2026-07-31 |  |
 | [Vernal](https://open.spotify.com/track/3ZIKJyWSsS6yYdU3CMUieO) | [Fhye](https://open.spotify.com/artist/4OkwpFJVN2Zp05JhlkDnGb) | [Vernal](https://open.spotify.com/album/0xN7VLbL10RZCV4jBdaTtv) | 2:38 | 2026-07-31 |  |

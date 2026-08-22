@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> heartbreak feels good in a place like sad hour, with Noah Kahan
+> heartbreak feels good in a place like sad hour, with Lexi Jayde
 
-1,092 songs - 2 day 12 hr 8 min
+1,096 songs - 2 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [chaotic](https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [scars to prove it](https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS) | 3:14 | 2026-05-29 | 2026-07-22 |
 | [chaotic](https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:55 | 2024-01-12 | 2024-04-19 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-25 | 2025-12-23 |
+| [Charlie](https://open.spotify.com/track/5Vo9RNnqrD6mhrnkbN4jZR) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Charlie](https://open.spotify.com/album/2G2L3fjd7YNsDmJocMoKUs) | 3:59 | 2026-08-21 |  |
 | [charlie](https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [maybe i already am](https://open.spotify.com/album/3Pf6dUwqtNfPsFOn3Ua5bz) | 3:10 | 2024-09-06 | 2024-09-14 |
 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 | 2023-03-10 | 2024-09-14 |
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-31 | 2023-05-27 |
@@ -359,6 +360,7 @@
 | [Got What I Wanted](https://open.spotify.com/track/1ixY6FpvMeHKKhzYf4VfbD) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Got What I Wanted](https://open.spotify.com/album/3TnVMD117qCh4wExSmroYW) | 3:02 | 2024-03-29 | 2024-04-06 |
 | [Gradually](https://open.spotify.com/track/2zQ0BWsBnGckZt5PwW2Rrj) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Gradually](https://open.spotify.com/album/5HXC22e6m3XhjzpnSRmeLV) | 2:35 | 2022-01-28 | 2022-03-22 |
 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 | 2023-12-08 | 2025-08-18 |
+| [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-08-21 |  |
 | [Great Gatsby](https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:26 | 2023-11-20 | 2025-03-26 |
 | [Grew Apart](https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 2:49 | 2021-12-17 | 2022-10-15 |
 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 | 2021-12-17 | 2022-10-22 |
@@ -400,7 +402,7 @@
 | [History](https://open.spotify.com/track/5mWv4ybQXGJ2YmYhOsqImT) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [History](https://open.spotify.com/album/3VGf64WCcsgeQwLJPxl3om) | 2:19 | 2022-05-06 | 2022-05-28 |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-05-15 |  |
 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 | 2025-04-25 | 2025-08-18 |
-| [Hold Me Down](https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:51 | 2024-11-04 |  |
+| [Hold Me Down](https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:51 | 2024-11-04 | 2026-08-22 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-01-07 | 2022-04-20 |
 | [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 | 2021-12-17 | 2022-10-01 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2024-10-18 | 2025-03-26 |
@@ -680,7 +682,8 @@
 | [MISS YOU TONIGHT](https://open.spotify.com/track/0qD03WyuVtyQUHyKCGA51K) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [MISS YOU TONIGHT](https://open.spotify.com/album/7MgFA0gthBUiUERfWt78lD) | 2:49 | 2024-11-01 | 2025-03-21 |
 | [missin something](https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE) | 2:25 | 2023-08-04 | 2024-04-27 |
 | [Missing You Sucks](https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Missing You Sucks](https://open.spotify.com/album/4MPVizOXoqdsmdxdFxY0dv) | 2:58 | 2022-01-07 | 2022-07-26 |
-| [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2022-01-28 |  |
+| [misunderstood](https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [LOVER GIRL](https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V) | 3:48 | 2026-08-21 |  |
+| [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2022-01-28 | 2026-08-22 |
 | [Morning](https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Morning](https://open.spotify.com/album/0pro3pYtDog6bp669jZywP) | 3:01 | 2023-01-04 | 2023-03-07 |
 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 | 2023-08-04 | 2023-09-16 |
 | [Move It to the Side](https://open.spotify.com/track/38OP7Qad0x4tEZzYVBuidm) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Healthy Baby Boy, Pt\. 1](https://open.spotify.com/album/175q5mZC31DOs41hmLQGNB) | 2:33 | 2021-12-17 | 2022-03-23 |
@@ -792,6 +795,7 @@
 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 | 2024-05-17 | 2024-10-28 |
 | [Pretty Ugly](https://open.spotify.com/track/00Mir9uJyfvH1qJYFOUmsn) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Pretty Ugly](https://open.spotify.com/album/1TmgctcS57hCkBysw77AUI) | 2:49 | 2026-08-07 |  |
 | [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 | 2023-09-29 | 2023-12-23 |
+| [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 | 2026-08-21 |  |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-10-04 | 2025-03-26 |
 | [Ramona](https://open.spotify.com/track/4xCfoEDoc2lR5O5Q6bF6Kd) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/1JJmc71cvmsm31GbBRy4MA) | 2:46 | 2025-07-18 | 2025-08-18 |
 | [Rearview Mirror](https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Rearview Mirror](https://open.spotify.com/album/6Yjc1ormevTi3c5lZb4rqF) | 2:33 | 2024-05-17 | 2024-06-08 |
@@ -844,7 +848,7 @@
 | [SILLY LITTLE LOVER GIRL](https://open.spotify.com/track/5UdujlNkq2QhpegF09A5YO) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [SILLY LITTLE LOVER GIRL](https://open.spotify.com/album/2fGNBd9UScPGmcndhTUNGP) | 3:05 | 2025-05-30 | 2025-07-12 |
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-03-25 | 2025-07-19 |
 | [Silver Springs \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 5:41 | 2023-03-10 | 2023-05-27 |
-| [Silverlake Baby](https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Would You Go Down On A Girl? \(Deluxe\)](https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus) | 3:41 | 2026-05-25 |  |
+| [Silverlake Baby](https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Would You Go Down On A Girl? \(Deluxe\)](https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus) | 3:41 | 2026-05-25 | 2026-08-22 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-21 |
 | [Sixteen](https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Sixteen](https://open.spotify.com/album/0uOyPUidLoP5Ykkrw1eY2V) | 3:28 | 2026-01-09 | 2026-02-26 |
 | [Skeleton Key](https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Skeleton Key](https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q) | 2:59 | 2022-12-02 | 2023-01-06 |
@@ -1078,7 +1082,7 @@
 | [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 | 2022-10-07 | 2023-09-26 |
 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 | 2025-05-30 |  |
 | [You](https://open.spotify.com/track/01dOtIFsXHDWi6vZsLnVQ2) | [colby!](https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl) | [You](https://open.spotify.com/album/255WXj2nePIx2C3MwjpaOA) | 3:28 | 2025-05-09 | 2025-07-26 |
-| [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-12-17 |  |
+| [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-12-17 | 2026-08-22 |
 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 | 2024-01-12 | 2024-04-19 |
 | [You Don't Look At Me The Same](https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [You Don't Look At Me The Same](https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk) | 2:43 | 2025-08-15 | 2026-07-25 |
 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-26 | 2023-10-14 |

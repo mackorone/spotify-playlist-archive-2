@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,288 songs - 2 day 23 hr 23 min
+1,289 songs - 2 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1289,6 +1289,7 @@
 | [You Fill My Soul](https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [You Fill My Soul](https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL) | 4:18 | 2022-08-05 | 2022-10-19 |
 | [You Found Me](https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Clara Park](https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2) | [You Found Me](https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu) | 4:29 | 2023-05-18 | 2023-08-20 |
 | [You Get Me All The Time](https://open.spotify.com/track/5qtyuUjIcY5nLjaU5cgFgu) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [You Get Me All The Time](https://open.spotify.com/album/52YXdSqCycLJcg1VCVsNrG) | 2:20 | 2026-07-30 |  |
+| [You Got Me](https://open.spotify.com/track/6r0FI24st9dtMgDxqiF5Cy) | [COSTA](https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX), [Fortune Favor](https://open.spotify.com/artist/1fkNlqFZJfsrHUNXr7xNeh) | [You Got Me](https://open.spotify.com/album/5saHzxuBPB0WGKSA4e39c3) | 2:33 | 2026-08-21 |  |
 | [You Want Me](https://open.spotify.com/track/2S8T1CAHwuCZlYwYz5F7is) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me \(VIP\)](https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8) | 4:45 | 2024-11-18 | 2025-02-25 |
 | [You Want Me](https://open.spotify.com/track/3lOsvOCeClwEFv0Ezo1if7) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me](https://open.spotify.com/album/6MJap9B5ypAfH5UCb65A4V) | 4:45 | 2024-03-13 | 2024-06-01 |
 | [Your Heart](https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Your Heart](https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9) | 2:35 | 2022-06-03 | 2022-08-17 |

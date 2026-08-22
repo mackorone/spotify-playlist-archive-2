@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Atlesta
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Love as Punishment
 
-567 songs - 1 day 12 hr 5 min
+568 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Brighter Summer Day](https://open.spotify.com/track/1liio51XbsAqtgoMtWUVW5) | [Well Whale](https://open.spotify.com/artist/1wlMD28jgD4UOQ47n1k1Rk) | [A Brighter Summer Day](https://open.spotify.com/album/15AuM0T0mwnIHWIJx6VU3K) | 3:15 | 2024-09-13 | 2024-11-29 |
 | [A Man, a Bottle, and a Prayer](https://open.spotify.com/track/6Bhtdq0Rut7PCWOpdRxQ0W) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [The Fool](https://open.spotify.com/album/16h1902jiZgsdH3MN5DUoU) | 3:30 | 2024-10-24 | 2025-03-28 |
 | [A Shadow Haunts My Mind](https://open.spotify.com/track/6G9YE4s6kdXTf8fseBeSww) | [Nood Kink](https://open.spotify.com/artist/2GLo4KW2K9FeeJ67D2Hqt1) | [A Shadow Haunts My Mind](https://open.spotify.com/album/7M7qEP3shhxEaNmGhmtEoU) | 3:52 | 2026-06-26 |  |
-| [ACCIDENT](https://open.spotify.com/track/6IaG43KmrsLtp6YRWpkxsj) | [Bara Dita](https://open.spotify.com/artist/2lADVhtxaYCp3iVe4JSM2I) | [ACCIDENT](https://open.spotify.com/album/7fZfi9O4LBL2v7D9eRjwW5) | 3:02 | 2026-06-26 |  |
+| [ACCIDENT](https://open.spotify.com/track/6IaG43KmrsLtp6YRWpkxsj) | [Bara Dita](https://open.spotify.com/artist/2lADVhtxaYCp3iVe4JSM2I) | [ACCIDENT](https://open.spotify.com/album/7fZfi9O4LBL2v7D9eRjwW5) | 3:02 | 2026-06-26 | 2026-08-22 |
 | [Adegan Pembuka](https://open.spotify.com/track/3xjAxg8U7O5qzuoaTNjzCR) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Adegan Pembuka](https://open.spotify.com/album/0lEmPmFryqrBXkAfY846JI) | 3:38 | 2024-06-27 | 2025-02-21 |
 | [Adore](https://open.spotify.com/track/4HOpUAUoFw50JvrcrSxi44) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO), [Roommate Project](https://open.spotify.com/artist/63Jce6aXdZbNtbMURY6dYS) | [Adore](https://open.spotify.com/album/7DzL89aasR7IpoE90BlYD5) | 3:40 | 2024-06-27 | 2024-07-19 |
 | [Akhir Pekan Yang Hilang](https://open.spotify.com/track/562SZ62uMo9PKOEMmpm3yT) | [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Dua Dunia](https://open.spotify.com/album/6HVwG9cBQHA6elMolRoMLv) | 4:41 | 2025-05-16 |  |
@@ -208,6 +208,7 @@
 | [Honey, You Are My Drama](https://open.spotify.com/track/3UYROV5XAcx4pq0izCQXL9) | [Misanthrope](https://open.spotify.com/artist/4vrQf7ZgpK8d7R4RiAgnuE) | [Honey, You Are My Drama](https://open.spotify.com/album/0HfqlNFma2ju4HaI35vzTi) | 5:19 | 2024-06-27 | 2024-08-02 |
 | [How Could You Still Love Me](https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [How Could You Still Love Me](https://open.spotify.com/album/4nTE31Iy6lAONpS9kT6v33) | 4:24 | 2024-07-11 | 2024-10-04 |
 | [Hujan Deras](https://open.spotify.com/track/117LMQ1UgtJvLzdqoddYn8) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Prof Jo](https://open.spotify.com/album/4FlqZJ6BerAFaiaSEbqtDW) | 3:18 | 2024-08-01 | 2024-11-29 |
+| [Hujan Tepat Waktu](https://open.spotify.com/track/4e3Mjoafb02u7RKnoDmuoj) | [Love as Punishment](https://open.spotify.com/artist/6AmCGKS7KDnPtGTqGoR6In) | [Kunang\-kunang](https://open.spotify.com/album/5lEEjILwPaXMnF8rGFFySn) | 5:18 | 2026-08-21 |  |
 | [Hun Vokser](https://open.spotify.com/track/1npGqhEWSrQx6TT9HSFDcs) | [Gardenia](https://open.spotify.com/artist/0dXOVcOPuO02iBep9HwNzt) | [Hun Vokser](https://open.spotify.com/album/4g0xzOxCO65SAi7aWVgpgt) | 4:08 | 2025-04-17 | 2025-05-23 |
 | [i choose myself rather than falling for you](https://open.spotify.com/track/1ibuDU6AJGxCFpspvYpWGO) | [Upleaf](https://open.spotify.com/artist/1k70dwI50NqyN2Sz0DIEMK) | [our nights are more beautiful than your days](https://open.spotify.com/album/3AjF1cSv9JLeX1NKALBHr0) | 3:06 | 2026-05-08 |  |
 | [I Gotchu](https://open.spotify.com/track/6VGd5cSK8dpHgaMJKmhaN0) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [I Gotchu](https://open.spotify.com/album/51NxI3UHm3wm5dDBpCSRx3) | 2:58 | 2025-02-20 | 2025-06-13 |

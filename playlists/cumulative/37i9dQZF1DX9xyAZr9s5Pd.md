@@ -4,7 +4,7 @@
 
 > ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-159 songs - 9 hr 1 min
+161 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alma y Olvido](https://open.spotify.com/track/1P2DlRsIhnvUawboqQzArG) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Los Balcones Amarillos](https://open.spotify.com/artist/2Tsj2XMyZc1hIsarvh9Vk1) | [Alma y Olvido](https://open.spotify.com/album/1NbfewHSHakpdQPzfmqZ0x) | 3:47 | 2024-05-17 | 2026-02-28 |
 | [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 | 2023-09-22 |  |
 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-09-22 |  |
+| [Ando \(bye, ya me voy…\)](https://open.spotify.com/track/1SibhfQCLiuL7qyYLwNZOc) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L) | [Ando \(bye, ya me voy…\)](https://open.spotify.com/album/13fYNWj8sbBb89e0xbMi1f) | 2:57 | 2026-08-21 |  |
 | [Apartamento](https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 2:50 | 2026-03-18 |  |
 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 | 2023-10-13 | 2024-02-17 |
 | [azul](https://open.spotify.com/track/6npsvD105b2pUp5XMUudT7) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [azul](https://open.spotify.com/album/4vrG1SGcwyDL9HFI2hTP9e) | 3:29 | 2026-04-10 | 2026-05-23 |
@@ -31,7 +32,7 @@
 | [Calle En El Cielo](https://open.spotify.com/track/5OzacFSmfvLUzd3bcLxdHy) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Calle En El Cielo](https://open.spotify.com/album/18kXCaZTQf6DsREJvRia2f) | 4:27 | 2024-10-18 |  |
 | [Cambio de Piel](https://open.spotify.com/track/7zG21QuMjxgOsNDICOEVwt) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Cambio de Piel](https://open.spotify.com/album/0o7AxT8PzjkFRS0Z9qxXBC) | 2:52 | 2026-03-20 | 2026-03-27 |
 | [Canto](https://open.spotify.com/track/5MQDQ5RAkpJrFaQfFdjvt6) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [De Lo Que Nada Fue](https://open.spotify.com/album/36jJyeH1H4X8kYCQXJkE0b) | 4:09 | 2026-03-18 | 2026-03-27 |
-| [Caída Intermitente](https://open.spotify.com/track/2GT7YO160gC7YNxSJIFNmE) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Caída Intermitente](https://open.spotify.com/album/4dOagt8G7sjIIQpwyOweQu) | 2:13 | 2025-03-07 |  |
+| [Caída Intermitente](https://open.spotify.com/track/2GT7YO160gC7YNxSJIFNmE) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Caída Intermitente](https://open.spotify.com/album/4dOagt8G7sjIIQpwyOweQu) | 2:13 | 2025-03-07 | 2026-08-22 |
 | [Cebolla](https://open.spotify.com/track/2gfuOzB9tTCOSwxhVM3lLf) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Dualismo Mágico](https://open.spotify.com/album/4Y1Fqu8m46YL22sT4YJcMI) | 2:58 | 2026-05-01 |  |
 | [Cien Pies](https://open.spotify.com/track/5nbQMMaFw4YPu9HdSQzB0G) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Cien Pies](https://open.spotify.com/album/57ew0qDZTLwGTQmNWacPUc) | 2:24 | 2023-11-17 |  |
 | [Cientochenta](https://open.spotify.com/track/6uXjVXPRSVyLSRg4as73QJ) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Algo Hermoso Termina](https://open.spotify.com/album/5SCuA150dDqy1sOUOysBK5) | 3:35 | 2026-03-18 | 2026-03-27 |
@@ -63,6 +64,7 @@
 | [El Mar](https://open.spotify.com/track/4NnDYsEaL11NkZaWEyO2V1) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Ficción](https://open.spotify.com/album/02k8LdA9cGg7D8F70A7XHF) | 3:55 | 2026-03-18 | 2026-03-27 |
 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-09-22 | 2024-10-18 |
 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 | 2026-03-18 | 2026-03-27 |
+| [Elmo](https://open.spotify.com/track/0VJXLN3SJ58XyDcRtBvUMy) | [luci le](https://open.spotify.com/artist/3glLfCwES6QDLQ7y1ypVbs) | [Niña Flor](https://open.spotify.com/album/6T8rPObhh2ylU20UJRpRnH) | 3:39 | 2026-08-21 |  |
 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-09-22 | 2024-05-18 |
 | [Esa Soy Yo](https://open.spotify.com/track/7LBBwA7jywLpSz42GDbwbN) | [Puerto Candelaria](https://open.spotify.com/artist/27neIga89YKdkCk6Yzv0ni) | [Esa Soy Yo](https://open.spotify.com/album/2j9tZnbkuwl1dIhAlsjtcl) | 3:42 | 2026-06-12 |  |
 | [escapar de mí](https://open.spotify.com/track/5FhhHvzn4z9RTDPx6lH8Hd) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:48 | 2026-03-18 | 2026-03-27 |

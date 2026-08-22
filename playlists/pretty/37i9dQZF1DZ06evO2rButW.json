@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 792805,
+  "num_followers": 792874,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABdflA3vPPhzIVUjGkZhjsk",
+  "snapshot_id": "aoZDgAAAAAA21+vWAhQl9WAopde3CzXF",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -583,6 +603,22 @@
       "duration_ms": 195883,
       "name": "Se Portaba Mal",
       "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Yo Te Amo Y T\u00fa Lo Intentas",
+      "url": "https://open.spotify.com/track/6TUcXo4Bw5q2LzEpykJOAD"
     },
     {
       "added_at": null,
@@ -607,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Femme Fatale Vol. 2",
-        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Yo Te Amo Y T\u00fa Lo Intentas",
-      "url": "https://open.spotify.com/track/6TUcXo4Bw5q2LzEpykJOAD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trenza (Deluxe)",
         "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 214120,
       "name": "Vendaval",
       "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline",
-        "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Que S\u00ed",
+      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 183880,
       "name": "Asilo (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Que S\u00ed",
-      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 242478,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "El Beso",
-      "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
     },
     {
       "added_at": null,

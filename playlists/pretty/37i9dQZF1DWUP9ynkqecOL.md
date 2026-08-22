@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,556 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,563 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 24 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
 | 25 | [Cuchi Leguizamón yo te amo para siempre](https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Xanducero](https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW), [Silvio Astier](https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW), [Remiseria Temperley](https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo) | [Sencilla es mi canoa como mis afectos](https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO) | 6:23 |
 | 26 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
-| 27 | [Tac Tac Tac \- Joaquín Cornejo Remix](https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx) | [Espuma de Mar \~ remixes](https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0) | 3:44 |
-| 28 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 |
-| 29 | [El Despertar Del Anfibio \- Instrumental](https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH) | [Trickst4](https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY), [Tomás Pinkus](https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr) | [El Despertar Del Anfibio \(Instrumental\)](https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3) | 6:23 |
+| 27 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 |
+| 28 | [El Despertar Del Anfibio \- Instrumental](https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH) | [Trickst4](https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY), [Tomás Pinkus](https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr) | [El Despertar Del Anfibio \(Instrumental\)](https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3) | 6:23 |
+| 29 | [Tac Tac Tac \- Joaquín Cornejo Remix](https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx) | [Espuma de Mar \~ remixes](https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0) | 3:44 |
 | 30 | [El tiempo de las cosas que frenan](https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [El tiempo de las cosas que frenan](https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY) | 5:00 |
 | 31 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 |
 | 32 | [Dada](https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4), [King Coya](https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [Dada](https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 79 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 |
 | 80 | [Añoranza en las Yungas](https://open.spotify.com/track/6Pv2cSqZXcJVaO8yYa5Co4) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Jallalla](https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c) | 5:38 |
 
-Snapshot ID: `AAAAANh/gFQ3slMScNB75Wj7bRdnbY6F`
+Snapshot ID: `AAAAAAxQrnnVpUgY/3+ti0rGKb67DYEs`

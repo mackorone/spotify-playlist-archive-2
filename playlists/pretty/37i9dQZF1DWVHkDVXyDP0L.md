@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Tullamarines
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,153 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,149 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 15 | [Deepest Richest Blue](https://open.spotify.com/track/7fkLO7Vo80Vfzs0Y1p48MZ) | [Queenie](https://open.spotify.com/artist/0EqpUDs5z7k4rhUs0DHc9R) | [Deepest Richest Blue](https://open.spotify.com/album/3NNvPI6OC09pNErNqwGtSk) | 3:16 |
 | 16 | [Ricochet](https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Ricochet](https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh) | 3:43 |
 | 17 | [How Much Love Have I Got Left](https://open.spotify.com/track/2kc5EPfboREmboh3wB5PuR) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [How Much Love Have I Got Left](https://open.spotify.com/album/6MkimOgnPfmja3zneZTl4i) | 3:57 |
-| 18 | [Track 9](https://open.spotify.com/track/3v4jK4krT3tKmulGTz1RKZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Cheesy Love Songs](https://open.spotify.com/album/60SccoaVP6AIOVcA9HgRT6) | 0:00 |
+| 18 | [I Just Don't Know You Yet](https://open.spotify.com/track/3v4jK4krT3tKmulGTz1RKZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Cheesy Love Songs](https://open.spotify.com/album/60SccoaVP6AIOVcA9HgRT6) | 3:41 |
 | 19 | [Rocketship](https://open.spotify.com/track/46s83leKAu1pc0PPPbXjGv) | [THIRST TRAP](https://open.spotify.com/artist/6igX8KxCATg98x9uBHMytV) | [Your Eyes Only](https://open.spotify.com/album/0kofNZ1GDPLz3oG8oQRdCF) | 3:55 |
 | 20 | [Lockjaw](https://open.spotify.com/track/7CWxtMJ6qjMhbPsMTdz3TK) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Sex Mask](https://open.spotify.com/album/7rj9rAXuCESyQG80tMLPIN) | 2:55 |
 | 21 | [480p](https://open.spotify.com/track/0ChCxujuoCgfA19I0J8bBJ) | [blinder](https://open.spotify.com/artist/6juJRLHxGjBVbtO7CYvhEe) | [low\-res](https://open.spotify.com/album/7rkhtgAWlFWTxFXfk9M1Cc) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [On a Leash](https://open.spotify.com/track/0HWS6QborXQQIREj0KuaqF) | [The Good Kids](https://open.spotify.com/artist/3f6jdkYDK91W89EdGFwQzy) | [On a Leash](https://open.spotify.com/album/5YBpkbUhU9vNP53SyhUOAK) | 2:45 |
 | 100 | [Slow Burn](https://open.spotify.com/track/5ebpFvMuxCpqkMb3KqWSWX) | [sunbleached](https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP) | [Slow Burn](https://open.spotify.com/album/5iM0v0QMmaXo0CgNOiTx7J) | 3:35 |
 
-Snapshot ID: `AAAAAIIJwdPD9ZLyoQKVz0M5KnU36yKl`
+Snapshot ID: `AAAAAIqkOVYwdcDBiNdj9VQkhGypjD16`

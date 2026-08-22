@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes MCs do hip hop nacional. Foto: Jovem MK, Majis, CRYSTAYLE, MC KTRINE, Paola Spena",
+  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes MCs do hip hop nacional. Foto: Muse Maya",
   "name": "S\u00f3 as Minas",
   "tracks": [
     {
@@ -4573,6 +4573,28 @@
     },
     {
       "album": {
+        "name": "PERSONA",
+        "url": "https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106329,
+      "name": "PREDESTINADA (feat. Nagalli)",
+      "url": "https://open.spotify.com/track/6I2Rp5BPCCEBoknjR2Cbx5"
+    },
+    {
+      "album": {
         "name": "Cacau 50% , Vol.2",
         "url": "https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG"
       },
@@ -4774,7 +4796,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 155520,
       "name": "Qual Teu Pre\u00e7o",
       "url": "https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,040 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,033 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [My Bleed](https://open.spotify.com/track/22MYBIrdhB2kX5S5zYHkMJ) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [My Bleed](https://open.spotify.com/album/5gbPJKdDpkCHPoJJuSNcAs) | 2:31 |
 | 100 | [THIEF IN THE NIGHT](https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU) | [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [THIEF IN THE NIGHT](https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4) | 1:59 |
 
-Snapshot ID: `AAAAAHjPNEioZ2lnnrEEWvu1X831PhAl`
+Snapshot ID: `AAAAAA8xnkz90Ry2URRZlcriz8tp7JIM`

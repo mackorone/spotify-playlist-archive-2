@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "losing",
+        "url": "https://open.spotify.com/album/3wCiKIdsK37rlymuaanCV7"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171219,
+      "name": "losing",
+      "url": "https://open.spotify.com/track/3foBwRLT4JpfChHjJj2Ow0"
+    },
+    {
+      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep"
       },
@@ -3132,6 +3150,24 @@
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+    },
+    {
+      "album": {
+        "name": "No Winner",
+        "url": "https://open.spotify.com/album/2ct6NXPP5qcVosqwQbzwTJ"
+      },
+      "artists": [
+        {
+          "name": "Arthur Fabbro",
+          "url": "https://open.spotify.com/artist/7dSv2A4jJ1WvsGmmO6roh4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160420,
+      "name": "No Winner",
+      "url": "https://open.spotify.com/track/4Njbnrf99RO5OCnMYwjdEr"
     },
     {
       "album": {
@@ -3656,6 +3692,24 @@
       "duration_ms": 229961,
       "name": "Self Fulfilling Prophecy",
       "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
+    },
+    {
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/6av4T66RvMiGH1SaEqYDAH"
+      },
+      "artists": [
+        {
+          "name": "Lover",
+          "url": "https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224815,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/3vNfyV7eeceVZGjBIan5Kv"
     },
     {
       "album": {

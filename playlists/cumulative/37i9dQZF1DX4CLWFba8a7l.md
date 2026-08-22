@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: daine
 
-724 songs - 1 day 16 hr 21 min
+724 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Losing You](https://open.spotify.com/track/3eGQh9vcLCsLfKTbFzgVFP) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Losing You](https://open.spotify.com/album/1YkV4jnkTLpj66ocfMuusm) | 4:06 | 2025-06-12 | 2025-06-20 |
 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 | 2024-11-21 | 2025-05-09 |
 | [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 | 2025-06-05 |  |
-| [Love Crimes](https://open.spotify.com/track/0foT97p7LCX8A1gKc2naHH) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Love Crimes](https://open.spotify.com/album/6Re4q4xHc6geWczI8KumiN) | 4:29 | 2026-08-14 | 2026-08-21 |
+| [Love Crimes](https://open.spotify.com/track/0foT97p7LCX8A1gKc2naHH) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Love Crimes](https://open.spotify.com/album/6Re4q4xHc6geWczI8KumiN) | 4:29 | 2026-08-14 |  |
 | [Love Heart Cheat Code](https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX) | 4:33 | 2024-05-31 | 2024-07-27 |
 | [Love Love \(Love Love\)](https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Love Love \(Love Love\)](https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF) | 3:07 | 2026-07-16 |  |
 | [Love Vomit](https://open.spotify.com/track/1qWdaFIPrEiAtBvK3FGy5L) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Love Vomit](https://open.spotify.com/album/3vpGAg1Ph4u0abMSszKAgS) | 3:47 | 2025-09-01 | 2025-09-05 |
@@ -470,6 +470,7 @@
 | [Only One Laughing](https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Only One Laughing](https://open.spotify.com/album/3hIJfLOzhgaXjGs5pXRJsw) | 4:09 | 2025-10-30 | 2025-11-07 |
 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 | 2025-08-07 | 2025-12-15 |
 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 | 2024-05-31 | 2025-04-04 |
+| [Opium](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 3:38 | 2026-08-20 |  |
 | [Our Greats](https://open.spotify.com/track/4Uf9Ssmbrvdw7ZUaJgblNo) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [Our Greats](https://open.spotify.com/album/2p2GX5ISOGv4JRg7GJoapg) | 3:45 | 2025-07-03 | 2025-07-11 |
 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 | 2024-08-15 | 2024-11-21 |
 | [Outdone](https://open.spotify.com/track/24CtTaRliBIACacaUxHIwO) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Outdone](https://open.spotify.com/album/7cAXOEbTaUQTwTDoKk1ACY) | 3:35 | 2026-01-15 | 2026-01-23 |
@@ -662,7 +663,6 @@
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2024-05-31 | 2025-04-25 |
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-13 | 2025-02-21 |
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-31 | 2024-11-26 |
-| [Track 2](https://open.spotify.com/track/1AIZv9HePSbfAwLhECMz5Q) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Growing Pains](https://open.spotify.com/album/4gQearyI8H7spBM12bR7oj) | 0:00 | 2026-08-20 |  |
 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 | 2025-01-10 |
 | [Transactional Deal](https://open.spotify.com/track/7oOsr25JQYP7WbYiVrvImd) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Transactional Deal](https://open.spotify.com/album/4WyxbPuZYUA7QaXQ79JFOl) | 4:16 | 2025-09-01 | 2025-09-05 |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 | 2026-08-07 |
@@ -706,7 +706,7 @@
 | [While I Got Time](https://open.spotify.com/track/1rCCa9y1CHjPvphMTBtRbC) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [While I Got Time](https://open.spotify.com/album/2IYWJYYuElnW35H7JJJQCs) | 3:45 | 2025-09-01 | 2025-09-05 |
 | [Whistle](https://open.spotify.com/track/3npT8vIhMJQp3NYrs9FjAB) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Whistle](https://open.spotify.com/album/6wdBvLfeROObJGi5nIlyDD) | 2:22 | 2026-03-26 | 2026-04-27 |
 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 | 2025-08-21 | 2026-03-04 |
-| [Wichita Lineman \(feat\. Nick Cave\)](https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 4:22 | 2026-03-26 |  |
+| [Wichita Lineman \(feat\. Nick Cave\)](https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 4:22 | 2026-03-26 | 2026-08-22 |
 | [WICKED \(WOAH\)](https://open.spotify.com/track/3ooEmXQnBUtR39lgXLYYCx) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [VARVIE WORLD](https://open.spotify.com/album/5SfPi8CFzgVotVJUW4GQMJ) | 3:07 | 2025-05-08 | 2025-06-13 |
 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 | 2025-09-25 | 2025-12-12 |
 | [Wine Me & Dine Me](https://open.spotify.com/track/6LZd7wgaifadCDNF1zUxMZ) | [POOKIE](https://open.spotify.com/artist/2PZEcVX4rArVPpzqYslowq) | [Wine Me & Dine Me](https://open.spotify.com/album/3WHY77awSoXDbOQrVy7xwu) | 2:47 | 2025-12-11 | 2025-12-19 |

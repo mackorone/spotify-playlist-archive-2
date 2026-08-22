@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Home is where the main stage is.. wherever the Tomorrowland main stage is \ud83d\ude09",
+  "description": "Home is where the main stage is \ud83d\udc99 featuring Alesso",
   "name": "EDM 2026",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 222089,
       "name": "Alive",
       "url": "https://open.spotify.com/track/75Mvnxpsa42JsQp5xeo00C"
@@ -1789,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/3fYb7gdGcl7asbLEY63ti8"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3xd3KI4AV7gWis1uV7TFNW"
+    },
+    {
+      "album": {
         "name": "Barbie Girl (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
       },
@@ -2764,7 +2786,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 258461,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
@@ -5627,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "Compass",
+        "url": "https://open.spotify.com/album/5gZznQMJ77Me2zQATkVOW4"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4sWFDF6Nn3x66r16Ugf0HX"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/4hgIw8ZpU1rkGbEEwkNajV"
       },
@@ -6474,7 +6514,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 226976,
       "name": "Follow",
       "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
@@ -7242,6 +7282,24 @@
       "duration_ms": 191015,
       "name": "Get Lower",
       "url": "https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/5j6nS3lE5dyWjrTGGiZ2a2"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "Get Your Groove On",
+      "url": "https://open.spotify.com/track/6qBhR8G6Sy4pRejoaXQ626"
     },
     {
       "album": {
@@ -8612,6 +8670,28 @@
       "duration_ms": 199858,
       "name": "Human (Feat. John Martin)",
       "url": "https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl"
+    },
+    {
+      "album": {
+        "name": "HUMAN AGAIN II",
+        "url": "https://open.spotify.com/album/1oqZHvVrBQUtEvRH5YfmXu"
+      },
+      "artists": [
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147139,
+      "name": "HUMAN AGAIN II",
+      "url": "https://open.spotify.com/track/7GtNVvvInRKWbztii03hdW"
     },
     {
       "album": {
@@ -11573,6 +11653,28 @@
     },
     {
       "album": {
+        "name": "LOST IN YOU",
+        "url": "https://open.spotify.com/album/6cRm8FyhYqNWG7cMPlnE4c"
+      },
+      "artists": [
+        {
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
+        },
+        {
+          "name": "Subarctic",
+          "url": "https://open.spotify.com/artist/2q4dbjtobq1CFq1nnLRTaF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "LOST IN YOU",
+      "url": "https://open.spotify.com/track/5t8DLZqVZl27BgMqnZfPEc"
+    },
+    {
+      "album": {
         "name": "Lost in your Eyes",
         "url": "https://open.spotify.com/album/0RWBuOQLEgM77KgoCG2dBr"
       },
@@ -12058,7 +12160,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 194769,
       "name": "Magical",
       "url": "https://open.spotify.com/track/1THTLm0VeSo6oHolHGGlLk"
@@ -12648,7 +12750,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
@@ -12820,7 +12922,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 184000,
       "name": "Move",
       "url": "https://open.spotify.com/track/7dSQzNuXUFq9uZ4Xujv83C"
@@ -17218,7 +17320,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 188437,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5PNeRCI7izHjON62FhrdOF"
@@ -18392,7 +18494,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 170381,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1eo5EOM8O8nFWiiNPKsav9"
@@ -20766,7 +20868,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 213428,
       "name": "Ultra Love (RYOS Remix)",
       "url": "https://open.spotify.com/track/7lHAi8xRhHd4SJCiRxIl14"

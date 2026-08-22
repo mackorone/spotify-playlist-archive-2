@@ -1,29 +1,13 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 12270,
+  "num_followers": 12275,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABxaT8YvxjKBQzQ/N0AKnrN",
+  "snapshot_id": "aoZDgAAAAACRlCgt+YW5lcUz28dqhEhk",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kind",
-        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 247372,
-      "name": "Kind",
-      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
-    },
     {
       "added_at": null,
       "album": {
@@ -131,6 +115,22 @@
       "duration_ms": 186760,
       "name": "if you got a problem",
       "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kind",
+        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 247372,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
     },
     {
       "added_at": null,
@@ -583,26 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus and John Wayne",
-        "url": "https://open.spotify.com/album/6cL8bwrPovKoz1omsUCwKd"
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/0rD4H9E76t5JBy6XJkZu2p"
       },
       "artists": [
         {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        },
-        {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 242625,
-      "name": "Jesus and John Wayne",
-      "url": "https://open.spotify.com/track/6okV8XV4EFSxpVnP0zM2vF"
+      "duration_ms": 192730,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3yKdhG63oQeQZJfsCuTQSY"
     },
     {
       "added_at": null,
@@ -627,18 +619,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/0rD4H9E76t5JBy6XJkZu2p"
+        "name": "Jesus and John Wayne",
+        "url": "https://open.spotify.com/album/6cL8bwrPovKoz1omsUCwKd"
       },
       "artists": [
         {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        },
+        {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 192730,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/3yKdhG63oQeQZJfsCuTQSY"
+      "duration_ms": 242625,
+      "name": "Jesus and John Wayne",
+      "url": "https://open.spotify.com/track/6okV8XV4EFSxpVnP0zM2vF"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 235047,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
+      "duration_ms": 242811,
+      "name": "Carry",
+      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Time",
-        "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 182068,
-      "name": "All My Time",
-      "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
     },
     {
       "added_at": null,
@@ -764,15 +764,15 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 242811,
-      "name": "Carry",
-      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
+      "duration_ms": 235047,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Hating Game (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
+        "name": "All My Time",
+        "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196606,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+      "duration_ms": 182068,
+      "name": "All My Time",
+      "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "brick by brick",
-      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carry",
         "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 279614,
       "name": "Animals & Angels",
       "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "brick by brick",
+      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
     },
     {
       "added_at": null,

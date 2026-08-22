@@ -723,6 +723,36 @@
     },
     {
       "album": {
+        "name": "ALREADY KNOW",
+        "url": "https://open.spotify.com/album/3Hu2mlHA3IH6G7JxYgGaHo"
+      },
+      "artists": [
+        {
+          "name": "Lucas Aoki",
+          "url": "https://open.spotify.com/artist/1pRgPGhVhp7imQlJ1QYNGl"
+        },
+        {
+          "name": "Sasson (FR)",
+          "url": "https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa"
+        },
+        {
+          "name": "Bombossa Brothers",
+          "url": "https://open.spotify.com/artist/7eaqg7SGJgME0wWz9Tgs8h"
+        },
+        {
+          "name": "Starving Yet Full",
+          "url": "https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206238,
+      "name": "ALREADY KNOW",
+      "url": "https://open.spotify.com/track/6vif1bLY8RwPhuin6SAmLN"
+    },
+    {
+      "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
@@ -1584,7 +1614,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 216827,
       "name": "Bite Down",
       "url": "https://open.spotify.com/track/35ZJui4Jug7X3x7semGBbv"
@@ -2882,7 +2912,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 216662,
       "name": "Chicago Baby",
       "url": "https://open.spotify.com/track/2AkcyJ8tQtyrGfkWa6GKed"
@@ -4653,7 +4683,7 @@
     },
     {
       "album": {
-        "name": "Dracula (Remix + Instrumental)",
+        "name": "Dracula (with JENNIE) + Instrumental",
         "url": "https://open.spotify.com/album/5D3TiAKpPTQQB9f1j1DXly"
       },
       "artists": [
@@ -4670,8 +4700,34 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
+      "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/3EXdpAjly41WqLfR2yRIkm"
+    },
+    {
+      "album": {
+        "name": "Dracula (Boys Noize Disko Version)",
+        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240318,
+      "name": "Dracula - Boys Noize Disko Version",
+      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
     },
     {
       "album": {
@@ -4694,32 +4750,6 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "album": {
-        "name": "Dracula (JENNIE Remix - Boys Noize Disko Version)",
-        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "date_added": "2026-05-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240318,
-      "name": "Dracula - JENNIE Remix - Boys Noize Disko Version",
-      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
     },
     {
       "album": {
@@ -6104,7 +6134,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 145385,
       "name": "Fright",
       "url": "https://open.spotify.com/track/0KOwIxuylidjOSllJAINxO"
@@ -8235,6 +8265,24 @@
     },
     {
       "album": {
+        "name": "I Will Find You",
+        "url": "https://open.spotify.com/album/00zVD6CI5uL5co5xzUjTS1"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "I Will Find You",
+      "url": "https://open.spotify.com/track/3rhrqnBTJVocOAOFFPsYYf"
+    },
+    {
+      "album": {
         "name": "I Won't Sleep",
         "url": "https://open.spotify.com/album/2Cv3X0S014FgbbBahaEQLh"
       },
@@ -9132,7 +9180,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 100956,
       "name": "kompa bailar - slowed",
       "url": "https://open.spotify.com/track/1uQxOCVx2c07U2yIWFpH54"
@@ -10824,6 +10872,24 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+    },
+    {
+      "album": {
+        "name": "MADRID",
+        "url": "https://open.spotify.com/album/3HpVlyht3MQIXBS4VifchT"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "MADRID",
+      "url": "https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk"
     },
     {
       "album": {
@@ -13328,6 +13394,24 @@
       "duration_ms": 152343,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/56oomeTRgamzypt6iObrvA"
+    },
+    {
+      "album": {
+        "name": "Part Time Lover",
+        "url": "https://open.spotify.com/album/3Uo4JDa4Y3Z7Ypw4BF74f9"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113383,
+      "name": "Part Time Lover",
+      "url": "https://open.spotify.com/track/3rPRnsMVRIsdTLsVukWUpW"
     },
     {
       "album": {

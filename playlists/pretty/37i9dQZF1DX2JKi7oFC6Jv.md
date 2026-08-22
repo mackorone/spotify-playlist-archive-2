@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,391 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,400 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Stop & Wave](https://open.spotify.com/track/1XKssaTCdg9EbPKQsUK4r9) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [Stop & Wave](https://open.spotify.com/album/0ZQsnzP2FKhBgbxxnvaoZ6) | 2:54 |
 | 60 | [Broken Record \- Geeneus Funky Mix](https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [DJ Geeneus](https://open.spotify.com/artist/1EpP6PGFVKJW9gbcnDy8co) | [Broken Record Remixes](https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG) | 5:33 |
 
-Snapshot ID: `AAAAALNIkq8Ak0SYg210aV5SlubFr2N8`
+Snapshot ID: `AAAAADarYuKLC9VlPPKGLkgqi2/86Fy3`

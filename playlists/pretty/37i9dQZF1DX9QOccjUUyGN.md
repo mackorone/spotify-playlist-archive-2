@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > trap 🤝 piseiro\. Foto: Mago de Tarso
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,722 likes - 46 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,721 likes - 46 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 45 | [São João & Trap](https://open.spotify.com/track/578V3JoTPfyUkiZtrDuufK) | [West Reis](https://open.spotify.com/artist/5MZ71Xv0o1bOzgC0OYKkRp), [EDNOBEAT](https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV), [Victor O'Connell](https://open.spotify.com/artist/3Ln2HJQymaM21Rq1pXaSWI) | [São João & Trap](https://open.spotify.com/album/5IMOvACVX2PqicOoM7LEND) | 2:21 |
 | 46 | [Dose de Gin](https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 2:57 |
 
-Snapshot ID: `AAAAAJ82ur1X99ibvyhyWnrAHFtFUgKn`
+Snapshot ID: `AAAAAJLqDO/SaRu+iR14LTM0EBhB9wty`

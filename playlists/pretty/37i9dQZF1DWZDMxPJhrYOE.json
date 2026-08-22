@@ -1,12 +1,12 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105612,
+  "num_followers": 105618,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClDEPSRcb1ftWTZEJYW9hBujx4U",
+  "snapshot_id": "AAAAABRsExeLQaJtAALp8x5+oT2aY4fD",
   "tracks": [
     {
       "added_at": "2026-08-20 22:00:26",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-08-20 22:00:26",
       "album": {
-        "name": "Wink Wink",
-        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 122685,
-      "name": "Wink Wink",
-      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
-    },
-    {
-      "added_at": "2026-08-20 22:00:26",
-      "album": {
         "name": "Chuck Timely & The Hourglass",
         "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 261427,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
+    },
+    {
+      "added_at": "2026-08-20 22:00:26",
+      "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "added_at": "2026-08-20 22:00:26",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-08-20 22:00:26",
       "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+    },
+    {
+      "added_at": "2026-08-20 22:00:26",
+      "album": {
         "name": "Gimme Dat Ting",
         "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 243755,
       "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-08-20 22:00:26",
-      "album": {
-        "name": "Don\u2019t Leave Me on the Dance Floor",
-        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Don\u2019t Leave Me on the Dance Floor",
-      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
     },
     {
       "added_at": "2026-08-20 22:00:26",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-08-20 22:00:26",
       "album": {
+        "name": "Always on Your Side",
+        "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Always on Your Side",
+      "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
+    },
+    {
+      "added_at": "2026-08-20 22:00:26",
+      "album": {
         "name": "Den lange vej",
         "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 209763,
       "name": "Portugal",
       "url": "https://open.spotify.com/track/1nCEAmmOXmXmODiY5KnEHX"
-    },
-    {
-      "added_at": "2026-08-20 22:00:26",
-      "album": {
-        "name": "Always on Your Side",
-        "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Always on Your Side",
-      "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
     },
     {
       "added_at": "2026-08-20 22:00:26",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-08-20 22:00:26",
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 216833,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl"
+    },
+    {
+      "added_at": "2026-08-20 22:00:26",
+      "album": {
         "name": "Here With Me Now",
         "url": "https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 171412,
       "name": "Spr\u00e6kker ft. S\u00f8n",
       "url": "https://open.spotify.com/track/1n9crbeZNJCUnj6bZcJgxP"
-    },
-    {
-      "added_at": "2026-08-20 22:00:26",
-      "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 216833,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl"
     },
     {
       "added_at": "2026-08-20 22:00:26",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2026-08-20 22:00:26",
       "album": {
-        "name": "Second Chance",
-        "url": "https://open.spotify.com/album/0SyyjYxgxMJH09uWIPYww7"
+        "name": "V\u00c6RD AT ELSKE",
+        "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
         }
       ],
-      "duration_ms": 186684,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/627HaYRxcr1ak6U0witZa2"
+      "duration_ms": 166307,
+      "name": "CIRKLER (feat. wicky)",
+      "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
     },
     {
       "added_at": "2026-08-20 22:00:26",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2026-08-20 22:00:26",
       "album": {
-        "name": "V\u00c6RD AT ELSKE",
-        "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/0SyyjYxgxMJH09uWIPYww7"
       },
       "artists": [
         {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        },
-        {
-          "name": "wicky",
-          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 166307,
-      "name": "CIRKLER (feat. wicky)",
-      "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
+      "duration_ms": 186684,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/627HaYRxcr1ak6U0witZa2"
     },
     {
       "added_at": "2026-08-20 22:00:26",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2026-08-20 22:00:26",
       "album": {
-        "name": "N\u00e6stbedste L\u00f8sning",
-        "url": "https://open.spotify.com/album/0nAwuiOXIblgTGkgQ4Ddl0"
+        "name": "V\u00c6RD AT ELSKE",
+        "url": "https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O"
       },
       "artists": [
         {
-          "name": "Svea S",
-          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
-        },
-        {
-          "name": "Mumle",
-          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
         }
       ],
-      "duration_ms": 216044,
-      "name": "N\u00e6stbedste L\u00f8sning",
-      "url": "https://open.spotify.com/track/6lPBwjIed03HiyRroOcJTm"
+      "duration_ms": 144530,
+      "name": "FARLIGT",
+      "url": "https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr"
     },
     {
       "added_at": "2026-08-20 22:00:26",
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2026-08-20 22:00:26",
       "album": {
-        "name": "V\u00c6RD AT ELSKE",
-        "url": "https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O"
+        "name": "N\u00e6stbedste L\u00f8sning",
+        "url": "https://open.spotify.com/album/0nAwuiOXIblgTGkgQ4Ddl0"
       },
       "artists": [
         {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        },
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
         }
       ],
-      "duration_ms": 144530,
-      "name": "FARLIGT",
-      "url": "https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr"
+      "duration_ms": 216044,
+      "name": "N\u00e6stbedste L\u00f8sning",
+      "url": "https://open.spotify.com/track/6lPBwjIed03HiyRroOcJTm"
     },
     {
       "added_at": "2026-08-20 22:00:26",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-08-20 22:00:26",
       "album": {
+        "name": "DU M\u00c5 IK G\u00c5",
+        "url": "https://open.spotify.com/album/47XpL93JCsPWssZ450ebjI"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 147451,
+      "name": "DU M\u00c5 IK G\u00c5",
+      "url": "https://open.spotify.com/track/4t0hAlq0Zsy0kc6ctvJEEm"
+    },
+    {
+      "added_at": "2026-08-20 22:00:26",
+      "album": {
         "name": "KAOTISK KUNST",
         "url": "https://open.spotify.com/album/5Y6f0gJeJ7YJR7vsQKvVG2"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 177220,
       "name": "FIS & BALLADE (feat. Benny Jamz)",
       "url": "https://open.spotify.com/track/4xAUsZHFsyL5Y2HS1IpkxM"
-    },
-    {
-      "added_at": "2026-08-20 22:00:26",
-      "album": {
-        "name": "Ivrig",
-        "url": "https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 168285,
-      "name": "Ivrig",
-      "url": "https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl"
     }
   ],
   "unique_name": "De nye",

@@ -1,13 +1,65 @@
 {
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Abdullah Siddiqui",
-  "num_followers": 37652,
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Asteria",
+  "num_followers": 37654,
   "original_name": "Pakistani Indie 101",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFnHNWa2nEJfsUE4ZRkZjhkGfmCn",
+  "snapshot_id": "AAAAAIHHEPivch2Ln4mUpvFh+kXYj+fO",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:01:11",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7BOtjNPakuo357nNpk58K0"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/4HVl77LX9pZNZBPH0Le6EJ"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1VnB7BN28qn9bn8FV3ZUp0"
+    },
+    {
+      "added_at": "2026-08-21 04:01:11",
+      "album": {
+        "name": "Iltaja",
+        "url": "https://open.spotify.com/album/2JxO8Xr85I1CikZTxsvBJX"
+      },
+      "artists": [
+        {
+          "name": "Baqir Jafri",
+          "url": "https://open.spotify.com/artist/3KcgHMwtM9y5HxATtpLJRt"
+        },
+        {
+          "name": "SAYF",
+          "url": "https://open.spotify.com/artist/2BcCC0BfNPqCQuH2tlPG30"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Iltaja",
+      "url": "https://open.spotify.com/track/5rH1QpsGr04kf6hfBvpY1N"
+    },
+    {
+      "added_at": "2026-08-21 04:01:11",
+      "album": {
+        "name": "Chota sa ghar",
+        "url": "https://open.spotify.com/album/7ld9N1xghzlYXH4Gag17P1"
+      },
+      "artists": [
+        {
+          "name": "Bilal Ali",
+          "url": "https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX"
+        }
+      ],
+      "duration_ms": 245327,
+      "name": "Chota sa ghar",
+      "url": "https://open.spotify.com/track/5W4m5eiT0Ho3VGVZPK2a8v"
+    },
     {
       "added_at": "2026-08-07 18:34:45",
       "album": {
@@ -659,26 +711,6 @@
     {
       "added_at": "2026-08-07 18:34:45",
       "album": {
-        "name": "Iraaday",
-        "url": "https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy"
-      },
-      "artists": [
-        {
-          "name": "Rovalio",
-          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
-        },
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        }
-      ],
-      "duration_ms": 133305,
-      "name": "Iraaday",
-      "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
-    },
-    {
-      "added_at": "2026-08-07 18:34:45",
-      "album": {
         "name": "Maybe, It's Love",
         "url": "https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6"
       },
@@ -811,26 +843,6 @@
       "duration_ms": 133608,
       "name": "Shor Sharaba",
       "url": "https://open.spotify.com/track/4WqfQsWgHJqXEiXPcSJlYR"
-    },
-    {
-      "added_at": "2026-08-07 18:34:45",
-      "album": {
-        "name": "Bikhra",
-        "url": "https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn"
-      },
-      "artists": [
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        },
-        {
-          "name": "Rovalio",
-          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
-        }
-      ],
-      "duration_ms": 168300,
-      "name": "Bikhra",
-      "url": "https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X"
     },
     {
       "added_at": "2026-08-07 18:34:45",
@@ -1495,22 +1507,6 @@
       "duration_ms": 203207,
       "name": "Abhi Tak",
       "url": "https://open.spotify.com/track/1S6zgfG3t26ZdN96Omtlvd"
-    },
-    {
-      "added_at": "2026-08-07 18:34:45",
-      "album": {
-        "name": "Dil Kay Isharay",
-        "url": "https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv"
-      },
-      "artists": [
-        {
-          "name": "Taha G",
-          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
-        }
-      ],
-      "duration_ms": 188421,
-      "name": "Dil Kay Isharay",
-      "url": "https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU"
     },
     {
       "added_at": "2026-08-07 18:34:45",

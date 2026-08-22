@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist frá Ásgeir og mörgum fleirum!
 
-11,895 songs - 26 day 14 hr 23 min
+11,895 songs - 26 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7100,6 +7100,7 @@
 | [Need For Speed](https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Need For Speed](https://open.spotify.com/album/6SBOaYOprgqWNIMA5vN22n) | 3:15 | 2026-04-24 | 2026-05-01 |
 | [Need I Say More](https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Need I Say More](https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp) | 2:58 | 2024-11-01 | 2024-11-08 |
 | [Need Me](https://open.spotify.com/track/6clLjwILj0le56gUYtluYG) | [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc), [Frank Pierce](https://open.spotify.com/artist/72twmO380DyQvrioHSeacz) | [Need Me](https://open.spotify.com/album/2KpVpb0JLNPv0FMR0N2p1G) | 3:21 | 2024-06-07 | 2024-06-08 |
+| [NEED YOU](https://open.spotify.com/track/6lBHTQVgXXxGCm8q2UvAhu) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:24 | 2026-08-21 |  |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-03-28 | 2025-04-04 |
 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 | 2025-06-27 | 2025-07-04 |
 | [Need You Now](https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [December](https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW) | 2:28 | 2024-12-13 | 2024-12-20 |
@@ -10674,7 +10675,6 @@
 | [TOYBOY](https://open.spotify.com/track/0pu0wYSfAss9bofagK1A5T) | [Angela](https://open.spotify.com/artist/7eT4IZXb7W1FCsWO7u4l65) | [TOYBOY](https://open.spotify.com/album/1R7baT8Vnn3OTP4yl2fJg9) | 2:39 | 2026-05-01 | 2026-05-08 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-03-28 | 2025-04-04 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-29 | 2026-06-05 |
-| [Track 11](https://open.spotify.com/track/6lBHTQVgXXxGCm8q2UvAhu) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 0:00 | 2026-08-21 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |
 | [Trailer In The Sky](https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Trailer In The Sky](https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9) | 2:45 | 2024-05-17 | 2024-05-24 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-04-18 |

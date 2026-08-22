@@ -4,7 +4,7 @@
 
 > just trying our best 📸 ADÉLA
 
-2,867 songs - 6 day 0 hr 24 min
+2,872 songs - 6 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 | 2023-06-30 | 2024-11-16 |
 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 | 2023-11-10 | 2024-03-02 |
 | [all\-american bitch!](https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [all\-american bitch!](https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT) | 2:28 | 2024-04-12 | 2024-04-27 |
+| [Allergic](https://open.spotify.com/track/1Mt3K6cm5RUqkyupdGTf5P) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [My Lover \(Deluxe\)](https://open.spotify.com/album/3Q32GpPdn7pvXv3H4iDTnr) | 2:40 | 2026-08-21 |  |
 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 | 2022-02-04 | 2022-05-10 |
 | [Almost Did](https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Almost Did](https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj) | 2:25 | 2026-01-02 | 2026-05-02 |
 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 | 2025-02-28 | 2025-11-08 |
@@ -206,6 +207,7 @@
 | [Bad Friend](https://open.spotify.com/track/732FkQ12zMwfqKKJGsChmY) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Bad Friend](https://open.spotify.com/album/13y8fcSIgEV5OmNKO16RYM) | 3:28 | 2020-05-31 | 2021-08-28 |
 | [Bad Girl](https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bad Girl](https://open.spotify.com/album/5TIbUyoncSx0LKnnJXgfc5) | 3:06 | 2021-02-23 | 2021-11-20 |
 | [Bad Girl July](https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Bad Girl July](https://open.spotify.com/album/4YZfvDqzaQSrEmTcpdfRq5) | 4:01 | 2026-06-26 |  |
+| [Bad Girls Never Die](https://open.spotify.com/track/3yha8YHoOhBavQzBknq7dI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Bad Girls Never Die](https://open.spotify.com/album/1kUPbKp0C313Om6S26KLAk) | 2:46 | 2026-08-21 |  |
 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 | 2022-10-28 | 2023-01-28 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-11 | 2024-10-19 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-08-25 | 2024-04-19 |
@@ -527,6 +529,7 @@
 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 | 2025-09-19 | 2025-11-08 |
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-14 | 2022-10-29 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-06-28 | 2024-09-14 |
+| [Crazy, Baby](https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Crazy, Baby](https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6) | 2:26 | 2026-08-21 |  |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-05-23 | 2021-11-20 |
 | [Creature Kind](https://open.spotify.com/track/01zME4q62SDPtD0hOSmTrG) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Creature Kind](https://open.spotify.com/album/7noNViHJAYZ3UxlhDNKAt9) | 3:57 | 2019-05-26\* | 2019-08-13 |
 | [Cri](https://open.spotify.com/track/4TqvcF4FJFcozwuF1QlVFn) | [Paige Kennedy](https://open.spotify.com/artist/0wgBKkAmvsMnlgsDr5n63R) | [4 Degrees](https://open.spotify.com/album/7mVUPAhS96CdLrmVViaGFk) | 2:55 | 2021-12-10 | 2022-01-09 |
@@ -2086,7 +2089,7 @@
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-08-18 | 2022-01-08 |
 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 | 2021-11-05 | 2022-01-15 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-03 | 2024-10-05 |
-| [Rocket](https://open.spotify.com/track/5MR4yF90kILGAksLchUtuH) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Rocket](https://open.spotify.com/album/4EIVhy9IO28A79FIsVGcEd) | 2:43 | 2026-07-24 |  |
+| [Rocket](https://open.spotify.com/track/5MR4yF90kILGAksLchUtuH) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Rocket](https://open.spotify.com/album/4EIVhy9IO28A79FIsVGcEd) | 2:43 | 2026-07-24 | 2026-08-22 |
 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 | 2023-02-10 | 2023-03-25 |
 | [RODEO](https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [EAVESDROPPING](https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh) | 3:02 | 2026-06-26 |  |
 | [RODEO CLOWN](https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RODEO CLOWN](https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N) | 2:33 | 2026-04-24 |  |
@@ -2328,6 +2331,7 @@
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2019-06-27 | 2020-04-18 |
 | [stacy's brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [stacy's brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 | 2022-11-25 | 2024-10-12 |
 | [Star Shaped Baby](https://open.spotify.com/track/7ybbe0cqxwhz0jhycOVOnJ) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Star Shaped Baby](https://open.spotify.com/album/2OVBN2U6FSs9CcWfNJWFj9) | 2:49 | 2024-09-27 | 2024-11-09 |
+| [STARCROSSED](https://open.spotify.com/track/3bxGv7giekHGcXUtGumcVp) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Lydia the Bard](https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ) | [STARCROSSED](https://open.spotify.com/album/7B883f1Pcg6WGmP9hz8BOg) | 3:05 | 2026-08-21 |  |
 | [Starlight](https://open.spotify.com/track/3nqVMuqHr47plQkOn4pfu5) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Starlight](https://open.spotify.com/album/3oCkgF8JN5ZsxAKGZU4U1f) | 4:02 | 2019-05-26\* | 2019-08-13 |
 | [Starstruck](https://open.spotify.com/track/2WJVFqVQ3ivhAoAQWzEzeL) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Starstruck](https://open.spotify.com/album/6QrZRFMwgFNXV0d5N7ndUW) | 3:27 | 2021-04-23 | 2022-01-08 |
 | [Starstruck \- Vegyn Remix](https://open.spotify.com/track/1DuPTyxPS2oiZMgLAF11gj) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Starstruck \(Vegyn Remix\)](https://open.spotify.com/album/6GJDNkrgXK9vjiJbK9g9qa) | 3:48 | 2021-06-20 | 2021-11-20 |
@@ -2396,6 +2400,7 @@
 | [Summer so hot](https://open.spotify.com/track/3zNe3xToIc07PYAuQboqhq) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Summer so hot](https://open.spotify.com/album/7GfvDon5u02GU3TbTOl1J1) | 2:46 | 2024-06-21 | 2024-10-19 |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-08 | 2025-05-03 |
 | [Summer Vibe](https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Summer Vibe](https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO) | 3:20 | 2021-06-20 | 2023-11-11 |
+| [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 | 2026-08-21 |  |
 | [Summerland](https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Summerland](https://open.spotify.com/album/1A1dSoZMQPU0DcCfaSLvQ1) | 3:49 | 2021-08-03 | 2022-02-12 |
 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 | 2022-08-16 | 2022-09-17 |
 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-08 | 2023-06-23 |

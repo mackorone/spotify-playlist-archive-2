@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-113 songs - 17 hr 26 min
+114 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 | 2024-07-26 |  |
 | [Elohim Adonai](https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Elohim Adonai](https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN) | 3:47 | 2024-07-26 |  |
 | [Elohim Adonai \(Live\)](https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Deep Wells](https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z) | 3:21 | 2024-07-26 |  |
-| [Exchange \(The Journey\)](https://open.spotify.com/track/5FaH0x6zWnRkcZiSYUrWq6) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Exchange \(The Journey\)](https://open.spotify.com/album/4KdmlH7Nwi4axtcgeKeV1z) | 15:57 | 2024-07-26 |  |
+| [Exchange \(The Journey\)](https://open.spotify.com/track/5FaH0x6zWnRkcZiSYUrWq6) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Exchange \(The Journey\)](https://open.spotify.com/album/4KdmlH7Nwi4axtcgeKeV1z) | 15:57 | 2024-07-26 | 2026-08-22 |
 | [Eyes of The Spirit Chant \(Cover Version\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 | 2024-07-26 | 2025-04-19 |
 | [Eze Mmuo](https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Eze Mmuo](https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn) | 5:33 | 2024-07-26 |  |
 | [Father](https://open.spotify.com/track/1Y0hXpUG2enh3D9CwlD55R) | [Gloreysings](https://open.spotify.com/artist/76D34AFU39hprElLWR448w) | [Aura](https://open.spotify.com/album/0m5A4ycu3O37KJZBenFlcb) | 6:57 | 2025-08-08 | 2025-10-26 |
@@ -57,6 +57,7 @@
 | [Hunger \(Cover Version\)](https://open.spotify.com/track/4y1G0zIj1I6FKdD5riSTEy) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Hunger \(Cover Version\)](https://open.spotify.com/album/0SApsq2CLGIYTK2BDHHTtM) | 3:27 | 2024-07-26 | 2025-11-17 |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-07-26 |  |
 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 | 2024-07-26 |  |
+| [If God Be For Me \(feat\. Folabi Nuel\)](https://open.spotify.com/track/3GBLldAE30bF3eAnE1z4ws) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [If God Be For Me \(feat\. Folabi Nuel\)](https://open.spotify.com/album/7rt2Nc83eLlhmILEvHrskU) | 5:11 | 2024-07-26 |  |
 | [Igbo Worship Medley \- Live](https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [Igbo Worship Medley \(Live\)](https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs) | 7:54 | 2025-02-21 |  |
 | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/track/75uBK33oMZqgY8zV5PeiCO) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [The City Choir](https://open.spotify.com/artist/1SVHoT2JwZ2NP7JbYK9VvJ) | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/album/5DoRb3TJZwF4C1g4GMdgvw) | 9:38 | 2025-01-10 | 2026-02-13 |
 | [In His Presence](https://open.spotify.com/track/1K5rXNAbWyOhDpNXFK9Hd1) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 16:14 | 2024-07-26 |  |

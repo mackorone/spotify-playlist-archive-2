@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: KKevin, Bruno X Spacc, VINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,913 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,944 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 | 39 | [PANASONIC](https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 3:08 |
 | 40 | [TOP TIER \- SPACCONE](https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [TOP TIER \(SPACCONE\)](https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx) | 2:02 |
 | 41 | [SHOW ME WHAT YOU GOT](https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [JOJO](https://open.spotify.com/artist/7m6qRs0oYNvnjCCKwRg4Om), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [SHOW ME WHAT YOU GOT](https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC) | 4:22 |
-| 42 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
+| 42 | [Dracula \(with JENNIE\)](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(with JENNIE\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 43 | [AFTERPARTY \- Bruno](https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [AFTERPARTY \(Bruno\)](https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd) | 2:24 |
 | 44 | [BULLSHIT](https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [BULLSHIT](https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW) | 2:18 |
 | 45 | [KERTES HÁZ](https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [KERTES HÁZ](https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 | 49 | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 |
 | 50 | [BE VAGYOK ZÁRVA](https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [BE VAGYOK ZÁRVA](https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5) | 2:11 |
 
-Snapshot ID: `AAAAAHuNHKKyGbmPjL32fLgYwpp9XVLz`
+Snapshot ID: `AAAAAAi67mSLPAZj6a3mRasT+D98yn6p`

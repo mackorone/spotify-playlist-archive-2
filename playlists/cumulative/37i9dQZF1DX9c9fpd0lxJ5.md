@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine \(✿◠‿◠\)
 
-278 songs - 15 hr 29 min
+279 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 | 2024-05-31 |  |
 | [Liberado por un sueño](https://open.spotify.com/track/0YiyRdU3egpWq0ULQxKAA4) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:28 | 2023-05-19 | 2023-06-13 |
 | [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 | 2022-12-06 |  |
-| [Lo Siento](https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Lo Siento](https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje) | 2:55 | 2024-03-29 |  |
+| [Lo Siento](https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Lo Siento](https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje) | 2:55 | 2024-03-29 | 2026-08-22 |
 | [Locochona](https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Locochona](https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX) | 2:28 | 2023-03-31 | 2026-05-12 |
 | [Los Perros Van Al Cielo](https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Los Perros Van Al Cielo](https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N) | 3:15 | 2025-10-24 |  |
 | [Lucero](https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Lucero](https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A) | 3:46 | 2025-10-24 |  |
@@ -157,6 +157,7 @@
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 | 2023-11-24 |  |
 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-04-28 |  |
 | [Miraverahí \- Slow Jamz Remix](https://open.spotify.com/track/6k7hllGhHCNwdDBoosxCLT) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [Miraverahí \(Slow Jamz Remix\)](https://open.spotify.com/album/4boDswbpYB6q9ikDzAgEkf) | 4:17 | 2026-05-11 |  |
+| [mis amigas](https://open.spotify.com/track/549nYHp4rMtzv44Djmt0Xd) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [mis amigas](https://open.spotify.com/album/32DuGZhcKgAfvvzvb2LaLf) | 2:19 | 2026-08-21 |  |
 | [Moody](https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Moody](https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX) | 3:18 | 2021-12-29 |  |
 | [Morena](https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Morena](https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B) | 4:31 | 2022-06-15 | 2024-04-19 |
 | [Morena](https://open.spotify.com/track/6bbjdL68XBl5KUCObsHgjh) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Morena](https://open.spotify.com/album/15OOEJpcF1XAp89086m4VV) | 4:31 | 2021-12-29 | 2022-07-29 |

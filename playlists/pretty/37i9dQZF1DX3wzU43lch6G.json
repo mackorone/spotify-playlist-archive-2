@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 113781,
+  "num_followers": 113783,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKMGxan9pe10wBqJspLAy+cYKwha",
+  "snapshot_id": "AAAAAKOXeM5s6m7cewqznpBxb1pHSeZ2",
   "tracks": [
     {
       "added_at": "2025-07-10 21:06:57",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
-        "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
-      },
-      "artists": [
-        {
-          "name": "MF\u00d6",
-          "url": "https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND"
-        }
-      ],
-      "duration_ms": 237514,
-      "name": "Bodrum",
-      "url": "https://open.spotify.com/track/33xcUviev85baFUelQYX9y"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Al Senin Olsun D\u00fcnya",
         "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 195805,
       "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
       "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
+        "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
+      },
+      "artists": [
+        {
+          "name": "MF\u00d6",
+          "url": "https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND"
+        }
+      ],
+      "duration_ms": 237514,
+      "name": "Bodrum",
+      "url": "https://open.spotify.com/track/33xcUviev85baFUelQYX9y"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Bir Yaz Daha Bitiyor",
-        "url": "https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl"
+        "name": "Sarma\u015f\u0131k",
+        "url": "https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY"
       },
       "artists": [
         {
-          "name": "G\u00fcndo\u011farken",
-          "url": "https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei"
+          "name": "Evdeki Saat",
+          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
         }
       ],
-      "duration_ms": 197600,
-      "name": "Sarma\u015f Dola\u015f",
-      "url": "https://open.spotify.com/track/5RV4zgdvrUwm5b4Zzt9rNs"
+      "duration_ms": 245000,
+      "name": "Sarma\u015f\u0131k",
+      "url": "https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Sarma\u015f\u0131k",
-        "url": "https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY"
-      },
-      "artists": [
-        {
-          "name": "Evdeki Saat",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Sarma\u015f\u0131k",
-      "url": "https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Bir Anda",
         "url": "https://open.spotify.com/album/4cG5f9NFKkNr3rH7K3zcuD"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 158644,
       "name": "Bir Anda",
       "url": "https://open.spotify.com/track/4tYUzluvpdFTKhGfT1HTcK"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Bir Yaz Daha Bitiyor",
+        "url": "https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcndo\u011farken",
+          "url": "https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Sarma\u015f Dola\u015f",
+      "url": "https://open.spotify.com/track/5RV4zgdvrUwm5b4Zzt9rNs"
     }
   ],
   "unique_name": "K\u0131y\u0131 Boyu",

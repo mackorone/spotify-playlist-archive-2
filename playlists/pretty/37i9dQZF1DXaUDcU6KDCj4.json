@@ -1,13 +1,245 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hovvdy\n",
-  "num_followers": 879406,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Anna Graves\n",
+  "num_followers": 879710,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMbT+TKnL1G+Xje9ZMBi2omYKCpU",
+  "snapshot_id": "AAAAALENetdOJlYFptBCQPqwBeY+SINk",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 186827,
+      "name": "Jaded Songbirds",
+      "url": "https://open.spotify.com/track/4Rq65TqCn47STqWZZPfPzf"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "Sage (Feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/7xOoOG9UTWxSnYWOiMEOor"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 173398,
+      "name": "Sage (Feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/6YqpwusGcdhwS4ZFp1D0CX"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "Hey Big Dipper",
+        "url": "https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 186806,
+      "name": "Hey Big Dipper",
+      "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "A Horse Named Friday",
+        "url": "https://open.spotify.com/album/21qmtTkIwzYprRM6JjXFkH"
+      },
+      "artists": [
+        {
+          "name": "Theo Kandel",
+          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
+        },
+        {
+          "name": "Jackie Evans",
+          "url": "https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R"
+        }
+      ],
+      "duration_ms": 259107,
+      "name": "About Dreams",
+      "url": "https://open.spotify.com/track/0ygSWgTJrvmm5jIsxqp3sJ"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "High Priestess",
+        "url": "https://open.spotify.com/album/3j6WrxpRCgfSpSYn5weD2E"
+      },
+      "artists": [
+        {
+          "name": "Brennan Wedl",
+          "url": "https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh"
+        }
+      ],
+      "duration_ms": 160845,
+      "name": "High Priestess",
+      "url": "https://open.spotify.com/track/2ZiaJMx6LV7eoMhjTvNa2j"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "Money On It",
+        "url": "https://open.spotify.com/album/6OiBNSbIjaLYMUSAuhROrS"
+      },
+      "artists": [
+        {
+          "name": "Josh Gilligan",
+          "url": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+        }
+      ],
+      "duration_ms": 185193,
+      "name": "Money On It",
+      "url": "https://open.spotify.com/track/388KCD3LPchYfoJn0xob7o"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "The Aftermath",
+        "url": "https://open.spotify.com/album/0XMrX0we7kxWHiItEzaUsP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 243421,
+      "name": "The Aftermath",
+      "url": "https://open.spotify.com/track/3O1MQzP5uUd0dG78nhBm2i"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "Feel The Cold",
+        "url": "https://open.spotify.com/album/6EluIVtZFAVC8yBCMfLuoi"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 215565,
+      "name": "Feel The Cold",
+      "url": "https://open.spotify.com/track/6yABWz5onWwYfJR7PUoLfP"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "Whittle",
+        "url": "https://open.spotify.com/album/09wegyQQh0f2RWIOfvHPkp"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 327214,
+      "name": "Whittle",
+      "url": "https://open.spotify.com/track/47NcN8R74VPXsgWImutSdw"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "Night Fright",
+        "url": "https://open.spotify.com/album/7nUVcReY0e4u6tNjJiV9Ml"
+      },
+      "artists": [
+        {
+          "name": "Biita Houdei",
+          "url": "https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3"
+        }
+      ],
+      "duration_ms": 236676,
+      "name": "Night Fright",
+      "url": "https://open.spotify.com/track/5snvp77A1cclZQxyAQiQbY"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "Tonight's News",
+        "url": "https://open.spotify.com/album/6RhTHR04fDUA0WeRdhsxSq"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Sentimental Lady",
+      "url": "https://open.spotify.com/track/2ejbcu8msr3kkmX1HvDYaT"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "Dusty",
+        "url": "https://open.spotify.com/album/4WJlMyXOnpsEskUDWUkKdc"
+      },
+      "artists": [
+        {
+          "name": "Isaac Stalling",
+          "url": "https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/1sVWb96BHxmZ8sFNz03w8z"
+    },
+    {
+      "added_at": "2026-08-21 04:01:16",
+      "album": {
+        "name": "1:17AM",
+        "url": "https://open.spotify.com/album/7JZFB0rXlV1vxdqxYmlMLw"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "duration_ms": 208282,
+      "name": "I've Always Loved You",
+      "url": "https://open.spotify.com/track/0xQBUCsPmAV0eMVf1O5wbZ"
+    },
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
@@ -2563,206 +2795,6 @@
       "duration_ms": 206041,
       "name": "matador (with Louella)",
       "url": "https://open.spotify.com/track/2uvjI92vG77beoB0hnX3zV"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "Fake Brave Life",
-        "url": "https://open.spotify.com/album/2sDJqorHBWS3QPm8WW5jeo"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 147343,
-      "name": "Stars Stay Awake",
-      "url": "https://open.spotify.com/track/0655XrFPQT3Z4vgmDqgXEi"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "America's Greatest Burnout",
-        "url": "https://open.spotify.com/album/7d5VuuhAWliS8ovhyYp73Q"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 227727,
-      "name": "America's Greatest Burnout",
-      "url": "https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/1FpxFs3YgX34FKfEb8KbuN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 207676,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/4GTd137gJz6LFQI3RFpQT5"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "rome",
-        "url": "https://open.spotify.com/album/6WdsZgUZGL7mOkU2YIoKdm"
-      },
-      "artists": [
-        {
-          "name": "Ethan Regan",
-          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
-        }
-      ],
-      "duration_ms": 168727,
-      "name": "rome",
-      "url": "https://open.spotify.com/track/71yEXMwt8PTQAPT2mm9B1D"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "Masks Off",
-        "url": "https://open.spotify.com/album/1ADa0uCdQlkfKng3mYVF9C"
-      },
-      "artists": [
-        {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
-        }
-      ],
-      "duration_ms": 222905,
-      "name": "The Ballad of Big Balls",
-      "url": "https://open.spotify.com/track/6WdDfuiqy4hLHAG9EfhvXF"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "The Landfill",
-        "url": "https://open.spotify.com/album/3sEtdTvDQsUmPLXaOuoWZd"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "Perhaps We're a Storm",
-      "url": "https://open.spotify.com/track/5W1Df1fQ6DvSYifN5A6k3N"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "AMATEUR AT BEST",
-        "url": "https://open.spotify.com/album/11QFWsQoSk0qQzrndUokih"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "AMATEUR AT BEST",
-      "url": "https://open.spotify.com/track/2ZlCllL9l6Xk3gGZFAUeU5"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "Old Lovers (feat. The Lumineers)",
-        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 213188,
-      "name": "Old Lovers (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "Blast",
-        "url": "https://open.spotify.com/album/1pr5IFfgG6YcMGqyb7jyHZ"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Blast",
-      "url": "https://open.spotify.com/track/6iDEHohlNFZ6iMN4pqmFq0"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "If I Cannot Be Yours",
-        "url": "https://open.spotify.com/album/09dmWFX66Ikwa0GsNNgbfb"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "If I Cannot Be Yours",
-      "url": "https://open.spotify.com/track/6uh25H3MfizwNyfzyDswZs"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "Get It Honest",
-        "url": "https://open.spotify.com/album/47fVuqG7GHk19lwkZ6QuSZ"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 204447,
-      "name": "Get It Honest",
-      "url": "https://open.spotify.com/track/1dpzimHq4MYvnQi9zL6axK"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "Blackout [feat. Nolan Taylor]",
-        "url": "https://open.spotify.com/album/5g9FV0XhXPscs7z26SKpFl"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        },
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 256590,
-      "name": "Blackout [feat. Nolan Taylor]",
-      "url": "https://open.spotify.com/track/26pLSSwAk1LOxl2Q018cTb"
     }
   ],
   "unique_name": "Fresh Folk",

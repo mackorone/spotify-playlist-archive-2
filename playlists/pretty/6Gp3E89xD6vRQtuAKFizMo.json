@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43321,
+  "num_followers": 43318,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaz+pQrcdrnJA92ryVf/wU0XPH275e",
+  "snapshot_id": "AAAa0Y2As6lKFZSfnbpvHjnaQujAtHkz",
   "tracks": [
+    {
+      "added_at": "2026-08-21 12:48:19",
+      "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/2LZ8w7CdbXOTkk0er6wIY8"
+      },
+      "artists": [
+        {
+          "name": "Croell",
+          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+        },
+        {
+          "name": "PITM",
+          "url": "https://open.spotify.com/artist/7hWYWkg5JHsiMGOoiDSKRl"
+        }
+      ],
+      "duration_ms": 129230,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/3ImaPVVJm8phgbg0Z8rLEE"
+    },
     {
       "added_at": "2026-08-14 15:42:19",
       "album": {

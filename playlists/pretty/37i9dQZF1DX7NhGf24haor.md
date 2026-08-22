@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Rebelion & The Saints
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,819 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,015 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Freestyler](https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [Freestyler](https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow) | 3:18 |
 | 100 | [We Rise](https://open.spotify.com/track/16vQ6lU5giquHCDdMq0FsB) | [Adaro](https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF), [Digital Punk](https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv) | [We Rise](https://open.spotify.com/album/3TYWfzG5aTCU7OVgcmZcG3) | 3:35 |
 
-Snapshot ID: `AAAAACZziQzAzpvFmMO+mdJnF1Vi/nq6`
+Snapshot ID: `AAAAALJrhKGcSLdiXIVbs43zsO8fYSak`

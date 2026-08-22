@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEEkHd2NAXZnisGP7y/ENtTAao9e",
+  "snapshot_id": "AAAAAAmOeiRAC8y9jn/bkDdkz0S6Xu/y",
   "tracks": [
     {
       "added_at": "2024-11-07 00:01:00",
@@ -683,6 +683,26 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 204734,
+      "name": "Un Vuelo A La (feat. Jessie Reyez) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "NO CH\u00c3O NOVINHA (feat. Anitta) - Spotify Singles",
         "url": "https://open.spotify.com/album/1eINGKV81kCl8F4sfhSEbO"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 121681,
       "name": "NO CH\u00c3O NOVINHA (feat. Anitta) - Spotify Singles",
       "url": "https://open.spotify.com/track/4qqKYtFZmduS5mP6w3vRCV"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 204734,
-      "name": "Un Vuelo A La (feat. Jessie Reyez) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1160,6 +1160,22 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "La Tirana - Spotify Singles",
+      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
       },
       "artists": [
@@ -1175,22 +1191,6 @@
       "duration_ms": 250000,
       "name": "Alemania - Spotify Singles (Blackpaw Remix)",
       "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "La Tirana - Spotify Singles",
-      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
     },
     {
       "added_at": "2024-11-07 00:01:00",

@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-162 songs - 8 hr 13 min
+164 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Lotje \- Lil Kleine Remix](https://open.spotify.com/track/7ps3LdQn8lKdaa2sbIKFTR) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Lotje \(Lil Kleine Remix\)](https://open.spotify.com/album/3YQU2E8ipf8HVHgHvMupSU) | 2:26 | 2025-07-04 | 2025-09-27 |
 | [Love Bullet \- Pt.2](https://open.spotify.com/track/1XuiuFYRDGsqY1udaB7RdE) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC) | [Love Bullet \(Pt.2\)](https://open.spotify.com/album/50TPruMIdLLVMvhGWnn0Cu) | 4:01 | 2025-11-21 |  |
 | [Loving You Is Life](https://open.spotify.com/track/0XSomaqxA3ic743NuPpEKe) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [JOSEPH](https://open.spotify.com/artist/7tPCHxx5JMvvlUDndg57nj) | [Loving You Is Life](https://open.spotify.com/album/62tX5DmEnXJiK8AuTHPoCT) | 2:19 | 2025-09-26 |  |
+| [Lucky Ones](https://open.spotify.com/track/4xStcEBEoOYfBH0fTMM5hN) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [carteblanche](https://open.spotify.com/artist/6laKnr07BfCDke48edvIPG) | [Lucky Ones](https://open.spotify.com/album/4wkd115wLpSfGKS4bFlQsx) | 3:22 | 2026-08-21 |  |
 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 | 2025-07-04 |  |
 | [Mandjou](https://open.spotify.com/track/1TQrMNDH29GjOnQa528bm6) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Feki Station](https://open.spotify.com/artist/2LMUZc4VeAVjEG2BNMuL2L), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mandjou](https://open.spotify.com/album/6HBmnZQbAddEaKfOFlf11K) | 4:34 | 2026-07-27 |  |
 | [Matcha Coco](https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Matcha Coco](https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs) | 2:57 | 2025-07-04 | 2025-09-12 |
@@ -153,6 +154,7 @@
 | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/track/6Va6xYjGNwbZs6tRE3cCYI) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/album/4pKUbAVt6sF3cqjc3nM8Gp) | 3:28 | 2025-07-04 | 2025-09-13 |
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-07-18 |  |
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2025-07-04 |  |
+| [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 | 2026-08-21 |  |
 | [Turn It Up](https://open.spotify.com/track/3V8NtZAKzVhM6XexfKl0fq) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [All Yours](https://open.spotify.com/album/3onzNjfLd2w7n3CcOCDspZ) | 4:15 | 2025-10-24 |  |
 | [Vertigo](https://open.spotify.com/track/6kw5fiFSxFTUUmn6ynSwrD) | [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G), [Avalan](https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP) | [Vertigo](https://open.spotify.com/album/5yvxgPwdYkBvvblqTmkGKU) | 2:34 | 2026-02-20 |  |
 | [voor alles bang](https://open.spotify.com/track/0lC1IUZXQ6ukTQfSVqCJa3) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [voor alles bang / h\-e\-l\-p](https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW) | 3:02 | 2025-07-04 | 2026-02-21 |

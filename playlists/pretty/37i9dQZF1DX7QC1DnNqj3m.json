@@ -1,12 +1,12 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 730137,
+  "num_followers": 730123,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACgp+ZH9HeW7Sg8vHYT9UWwrvKnJ",
+  "snapshot_id": "AAAAAExT9GN5EOLFQgKiDFDFstzN8F74",
   "tracks": [
     {
       "added_at": "2026-04-16 23:00:42",
@@ -255,8 +255,8 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
+      "duration_ms": 156538,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -335,8 +335,8 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 156538,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "In Square Circle",
-        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Overjoyed",
-      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "onmyradio",
         "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 291133,
       "name": "sobeautiful",
       "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Head in a Jar",
         "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 196451,
       "name": "Head in a Jar",
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Definitive Soul: Spinners",
-        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "It's A Shame - Remastered",
-      "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "It Could Be Worse",
         "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 177688,
       "name": "Float",
       "url": "https://open.spotify.com/track/053cVLAvWvv8VIRolBs9nP"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Definitive Soul: Spinners",
+        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "It's A Shame - Remastered",
+      "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "The Love Is Gone",
+        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "The Love Is Gone",
+      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Inside Friend (feat. John Mayer)",
         "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Stick Fight",
+        "url": "https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 202016,
+      "name": "Stick Fight",
+      "url": "https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Waiting In Vain (Feat. Tiwa Savage)",
         "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 191689,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Stick Fight",
-        "url": "https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 202016,
-      "name": "Stick Fight",
-      "url": "https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ"
     },
     {
       "added_at": "2026-04-16 23:00:42",

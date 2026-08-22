@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3984,
+  "num_followers": 3987,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABhLEmDMKJ9vemxIdQcTEGT",
+  "snapshot_id": "aoZDgAAAAABKulWm5pGiitI+Zy8nG2p/",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ETHER",
-        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
-      },
-      "artists": [
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "WATER (with Lakeyah)",
-      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raw Btch",
         "url": "https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 161705,
       "name": "Raw Btch",
       "url": "https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get It Together",
+        "url": "https://open.spotify.com/album/45f4FqlTCBQx6Jk4TwAVm3"
+      },
+      "artists": [
+        {
+          "name": "1TakeTheGreat",
+          "url": "https://open.spotify.com/artist/7EkLbjaNuDQFmB5WAyzSWN"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 200150,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/51KzcZ351FYyu7x5MQzOZL"
     },
     {
       "added_at": null,
@@ -651,6 +651,26 @@
       "duration_ms": 217731,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ETHER",
+        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 194676,
+      "name": "WATER (with Lakeyah)",
+      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
     },
     {
       "added_at": null,
@@ -779,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 1)",
-        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 116288,
-      "name": "Record Straight",
-      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "310degrees",
         "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
       },
@@ -815,28 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get It Together",
-        "url": "https://open.spotify.com/album/45f4FqlTCBQx6Jk4TwAVm3"
-      },
-      "artists": [
-        {
-          "name": "1TakeTheGreat",
-          "url": "https://open.spotify.com/artist/7EkLbjaNuDQFmB5WAyzSWN"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 200150,
-      "name": "Get It Together",
-      "url": "https://open.spotify.com/track/51KzcZ351FYyu7x5MQzOZL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
       },
       "artists": [
         {
@@ -844,9 +828,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 111158,
-      "name": "Basic",
-      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+      "duration_ms": 116288,
+      "name": "Record Straight",
+      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
     },
     {
       "added_at": null,
@@ -867,22 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bridge Kard Blessings",
-        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
       "artists": [
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
-        },
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 146938,
-      "name": "To The Money - feat. Lakeyah",
-      "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
+      "duration_ms": 111158,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
     },
     {
       "added_at": null,
@@ -899,6 +879,26 @@
       "duration_ms": 133903,
       "name": "No Hesitation",
       "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridge Kard Blessings",
+        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "To The Money - feat. Lakeyah",
+      "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
     },
     {
       "added_at": null,

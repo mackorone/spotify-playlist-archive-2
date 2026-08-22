@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97806,
+  "num_followers": 97810,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAD05QFwUB4H1Xk8cloIE4yS",
+  "snapshot_id": "aoZDgAAAAAA4axrbTz0k+8K5bTJWCmDs",
   "tracks": [
     {
       "added_at": null,
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 228133,
-      "name": "Trying To Be Cool",
-      "url": "https://open.spotify.com/track/3adprsGoZuParw5pyhhLCc"
+      "duration_ms": 219973,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/3kTVKRzfYb7zqz56thbKrj"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 219973,
-      "name": "Entertainment",
-      "url": "https://open.spotify.com/track/3kTVKRzfYb7zqz56thbKrj"
+      "duration_ms": 228133,
+      "name": "Trying To Be Cool",
+      "url": "https://open.spotify.com/track/3adprsGoZuParw5pyhhLCc"
     },
     {
       "added_at": null,

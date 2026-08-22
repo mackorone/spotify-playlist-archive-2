@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,936 likes - 261 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,017 likes - 261 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 260 | [zatu](https://open.spotify.com/track/4scwisvOsvaFPIxPwNsirE) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kansei](https://open.spotify.com/album/1BbrCC1XoKHkJF8Bwkp1wp) | 3:02 |
 | 261 | [The Code of Love](https://open.spotify.com/track/2XMh8glKFSaJoc1OYO6ndu) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [The Code of Love](https://open.spotify.com/album/6lhk0uX5IjPWIPh4KiEKhh) | 2:22 |
 
-Snapshot ID: `AAAAAOhyiwnXJWPzIOzg/M7r9l/PlluR`
+Snapshot ID: `AAAAAB1xyH0j9+eZ/3teGswRmVpLDKfY`

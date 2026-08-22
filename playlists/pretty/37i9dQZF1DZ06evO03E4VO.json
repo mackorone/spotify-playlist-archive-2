@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAAI5UfeEo1c6WLksB/hB/xW",
+  "snapshot_id": "aoZDgAAAAAC2J4m3gKEdhDga8I3CQD3L",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "love you right",
-        "url": "https://open.spotify.com/album/3GfCPb0ksm3uN8FtQ4Hhf0"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 219219,
-      "name": "love you right",
-      "url": "https://open.spotify.com/track/4Xpkx20V4OPuBKAGzygqgC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "starz",
         "url": "https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf"
       },
@@ -359,38 +343,6 @@
       "duration_ms": 209800,
       "name": "starz",
       "url": "https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "indica",
-      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "favorite girl",
-        "url": "https://open.spotify.com/album/75YCAbBtHvShKgO0dN2T6G"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 204051,
-      "name": "favorite girl",
-      "url": "https://open.spotify.com/track/2ZqUy3M1XreBBcQ9OIALDc"
     },
     {
       "added_at": null,
@@ -411,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wish you were here",
-        "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
       "artists": [
         {
@@ -420,9 +372,41 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 202706,
-      "name": "wish you were here",
-      "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
+      "duration_ms": 205626,
+      "name": "indica",
+      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "love you right",
+        "url": "https://open.spotify.com/album/3GfCPb0ksm3uN8FtQ4Hhf0"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 219219,
+      "name": "love you right",
+      "url": "https://open.spotify.com/track/4Xpkx20V4OPuBKAGzygqgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "favorite girl",
+        "url": "https://open.spotify.com/album/75YCAbBtHvShKgO0dN2T6G"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 204051,
+      "name": "favorite girl",
+      "url": "https://open.spotify.com/track/2ZqUy3M1XreBBcQ9OIALDc"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 183587,
       "name": "mentiras",
       "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wish you were here",
+        "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "wish you were here",
+      "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "lips (Original Music from The L Word: Generation Q)",
-        "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "lips - Original Music from The L Word: Generation Q",
-      "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "luna de miel",
         "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 155017,
       "name": "luna de miel",
       "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lips (Original Music from The L Word: Generation Q)",
+        "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "lips - Original Music from The L Word: Generation Q",
+      "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "antisocial butterfly",
         "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 203093,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
       "duration_ms": 197666,
       "name": "tell the one u love",
       "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wishlist",
+        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "hookah envenena",
-        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 170682,
-      "name": "hookah envenena",
-      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "fantasies",
         "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 166920,
       "name": "get better",
       "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "hookah envenena",
+        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 170682,
+      "name": "hookah envenena",
+      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mensajes de voz",
-        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "triste como yo",
-      "url": "https://open.spotify.com/track/51gGn8YO9k4HlWBuH1A7ZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "malos h\u00e1bitos",
         "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 212937,
       "name": "saboteo",
       "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mensajes de voz",
+        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 235480,
+      "name": "triste como yo",
+      "url": "https://open.spotify.com/track/51gGn8YO9k4HlWBuH1A7ZF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 
 > Kickstart your sundowner party with these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,756 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,849 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 | 49 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 |
 | 50 | [Aavan Jaavan \(From "WAR 2"\)](https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aavan Jaavan \(From "WAR 2"\)](https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA) | 3:45 |
 
-Snapshot ID: `AAAAAGvmqzDkCca0Ah9HH8I0a35aYb+q`
+Snapshot ID: `AAAAAIM9HQQR/4dXNp23JWtzkjeHFDNu`

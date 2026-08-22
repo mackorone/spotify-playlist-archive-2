@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76405,
+  "num_followers": 76418,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAArunYyTe1J1+TpOGBcBhRGSrdiQ",
+  "snapshot_id": "AAAAACbCcvvKhdIgFfRX74C8Bm4ZC1ZX",
   "tracks": [
     {
       "added_at": "2026-08-20 13:38:48",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
-      },
-      "artists": [
-        {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
         "name": "Sticks & Stones",
         "url": "https://open.spotify.com/album/7LXcPDrT8Ldx3L1OqPjljq"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 233103,
       "name": "Sticks & Stones",
       "url": "https://open.spotify.com/track/3QTI12GOy7qzizzwOb9Oi1"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
     },
     {
       "added_at": "2026-08-20 13:38:48",

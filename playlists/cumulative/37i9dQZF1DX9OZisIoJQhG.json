@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Awakening (Piano and Strings)",
+        "url": "https://open.spotify.com/album/41hc3CYrNqplZqeo4FA0pj"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243029,
+      "name": "Awakening (Piano and Strings)",
+      "url": "https://open.spotify.com/track/12x83XKUdnT5nXXo9bn7LT"
+    },
+    {
+      "album": {
         "name": "Grainger: Rambles and Reflections",
         "url": "https://open.spotify.com/album/5TKebEhlkmSZ79HKL5XxNL"
       },
@@ -1016,6 +1034,28 @@
       "duration_ms": 182811,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/6TsE9Rv5ukHF7WPHAAnbGo"
+    },
+    {
+      "album": {
+        "name": "Gounod: Impromptu",
+        "url": "https://open.spotify.com/album/2ZpYMxheUrlhxyzQT75AOg"
+      },
+      "artists": [
+        {
+          "name": "Charles Gounod",
+          "url": "https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137440,
+      "name": "Gounod: Impromptu",
+      "url": "https://open.spotify.com/track/7EBnS9yjKaR9lPqYhjPRQi"
     },
     {
       "album": {
@@ -1780,6 +1820,32 @@
       "duration_ms": 73280,
       "name": "Prayer for Peace",
       "url": "https://open.spotify.com/track/5VskXEGqvTljHxO8jcrZEZ"
+    },
+    {
+      "album": {
+        "name": "Contemporary Voices",
+        "url": "https://open.spotify.com/album/25R4wcjYlN7gqLIkZMFa34"
+      },
+      "artists": [
+        {
+          "name": "Christopher Stark",
+          "url": "https://open.spotify.com/artist/3fLGPv7NLT42oaTy2oITqz"
+        },
+        {
+          "name": "Aspen Contemporary Ensemble",
+          "url": "https://open.spotify.com/artist/29wL6TPn3POvt9dZp8tAdz"
+        },
+        {
+          "name": "Timothy Weiss",
+          "url": "https://open.spotify.com/artist/1IVvmNcUKbIv8l4HQb5h89"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313740,
+      "name": "Prehistoric Songs and Dances That Never Existed: IV. Healing Song",
+      "url": "https://open.spotify.com/track/2uN0PP2hnerLG7T7Y80FG1"
     },
     {
       "album": {

@@ -2581,6 +2581,32 @@
     },
     {
       "album": {
+        "name": "Praat van de Straat II",
+        "url": "https://open.spotify.com/album/4MbPtKOIFIrsqED4DDBbYA"
+      },
+      "artists": [
+        {
+          "name": "Sepa",
+          "url": "https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7"
+        },
+        {
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
+        },
+        {
+          "name": "Rico",
+          "url": "https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285148,
+      "name": "Dieper Dan Rap",
+      "url": "https://open.spotify.com/track/7Lx9vBCgugFoceLB5vaIF3"
+    },
+    {
+      "album": {
         "name": "Ding Dong",
         "url": "https://open.spotify.com/album/6ekU1A6dtxO770isxc5prL"
       },
@@ -3850,7 +3876,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188387,
-      "name": "GINZJ",
+      "name": "GINJZ",
       "url": "https://open.spotify.com/track/3S9i54xADvbm7YJlHUbOPv"
     },
     {
@@ -10344,24 +10370,6 @@
       "duration_ms": 151282,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
-    },
-    {
-      "album": {
-        "name": "Praat van de Straat II",
-        "url": "https://open.spotify.com/album/4MbPtKOIFIrsqED4DDBbYA"
-      },
-      "artists": [
-        {
-          "name": "Sepa",
-          "url": "https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7Lx9vBCgugFoceLB5vaIF3"
     },
     {
       "album": {

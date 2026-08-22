@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Ela Taubert
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,604 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,600 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [Curándote](https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Curándote](https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm) | 2:22 |
 | 100 | [Celebrar](https://open.spotify.com/track/0L9wmmuP6536NqFqWyMKGu) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Celebrar](https://open.spotify.com/album/6UqLI0gR4fjhHhvHrBYk2l) | 3:15 |
 
-Snapshot ID: `AAAAAHfYSvsyMgU6ZucnC7Dzk0kqKhuq`
+Snapshot ID: `AAAAAG8v0zR44X4KxRgjDFlseuffA3YJ`

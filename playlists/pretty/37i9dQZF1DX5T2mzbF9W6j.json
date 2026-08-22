@@ -1,12 +1,12 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113042,
+  "num_followers": 113052,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALg6nASPSv/dvZBznSP/kp1o9rul",
+  "snapshot_id": "AAAAAMZJScLuv5TMD1xjRw97rUDo/Tcl",
   "tracks": [
     {
       "added_at": "2026-08-14 07:39:41",
@@ -119,7 +119,7 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Dracula (Remix)",
+        "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
       "artists": [
@@ -133,7 +133,7 @@
         }
       ],
       "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
+      "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Lepiej ju\u017c by\u0142o",
-        "url": "https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr"
+        "name": "\u015awiat\u0142ocienie EP",
+        "url": "https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw"
       },
       "artists": [
         {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
         }
       ],
-      "duration_ms": 220157,
-      "name": "Lepiej ju\u017c by\u0142o",
-      "url": "https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH"
+      "duration_ms": 161656,
+      "name": "A Nu\u017c",
+      "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
     }
   ],
   "unique_name": "... ale najpierw kawa",

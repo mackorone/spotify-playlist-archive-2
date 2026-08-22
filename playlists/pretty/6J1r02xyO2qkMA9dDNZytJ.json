@@ -1,13 +1,53 @@
 {
   "description": "All the biggest House &amp; Tech House anthems of right now! Follow us on <a href=\"https://www.instagram.com/toolroomrecords/\">Instagram</a> ",
-  "num_followers": 63436,
+  "num_followers": 63437,
   "original_name": "Toolroom House 2026",
   "owner": {
     "name": "Toolroom Records",
     "url": "https://open.spotify.com/user/1135439236"
   },
-  "snapshot_id": "AAAp+wA4S0ERKyuXP73mksIysdqd2qfP",
+  "snapshot_id": "AAAqC9ahtQpYwnuDDzRdezOCjzbPGmvz",
   "tracks": [
+    {
+      "added_at": "2026-08-21 10:27:49",
+      "album": {
+        "name": "Yebisah",
+        "url": "https://open.spotify.com/album/7ab3O8nBqs1hckhq50AI9v"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Yebisah",
+      "url": "https://open.spotify.com/track/7q0acBw9szqL7fRZprTqcg"
+    },
+    {
+      "added_at": "2026-08-21 10:31:10",
+      "album": {
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/album/1YCJ4J50v93jdLOveqqPNV"
+      },
+      "artists": [
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        },
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/5VFPMFyk4NBCdHdgXcHbPN"
+    },
     {
       "added_at": "2026-08-14 10:15:31",
       "album": {
@@ -25,20 +65,24 @@
       "url": "https://open.spotify.com/track/2EA3soO6codXlcY4CmtJMt"
     },
     {
-      "added_at": "2026-08-14 10:16:14",
+      "added_at": "2026-08-21 10:32:22",
       "album": {
-        "name": "Be Hot",
-        "url": "https://open.spotify.com/album/46mcZ7kSQ8DfatjHltD3pS"
+        "name": "I Get Lifted",
+        "url": "https://open.spotify.com/album/4uY1d1AMUCyRn8ksJt8pms"
       },
       "artists": [
         {
-          "name": "Illyus Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Be Hot",
-      "url": "https://open.spotify.com/track/3bUbKfLvr2QtWAIyqxzLyS"
+      "duration_ms": 174346,
+      "name": "I Get Lifted",
+      "url": "https://open.spotify.com/track/4mKair9ELAl1JWqI8odk5P"
     },
     {
       "added_at": "2026-08-07 12:01:04",
@@ -61,6 +105,46 @@
       "url": "https://open.spotify.com/track/3sUEVQBac34iMCaGDIC7uF"
     },
     {
+      "added_at": "2026-08-21 10:30:14",
+      "album": {
+        "name": "High In Ibiza",
+        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "High In Ibiza",
+      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
+    },
+    {
+      "added_at": "2026-08-14 10:16:14",
+      "album": {
+        "name": "Be Hot",
+        "url": "https://open.spotify.com/album/46mcZ7kSQ8DfatjHltD3pS"
+      },
+      "artists": [
+        {
+          "name": "Illyus Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Be Hot",
+      "url": "https://open.spotify.com/track/3bUbKfLvr2QtWAIyqxzLyS"
+    },
+    {
       "added_at": "2026-08-07 12:09:27",
       "album": {
         "name": "Keep On Dancing (Radio Edit)",
@@ -79,6 +163,22 @@
       "duration_ms": 167272,
       "name": "Keep On Dancing - Radio Edit",
       "url": "https://open.spotify.com/track/1roW1mTCKLUmTzXGrRcaGB"
+    },
+    {
+      "added_at": "2026-08-21 07:55:47",
+      "album": {
+        "name": "Discolo",
+        "url": "https://open.spotify.com/album/3HUZU2vbHaFsGCFI2iLcQA"
+      },
+      "artists": [
+        {
+          "name": "Angel Heredia",
+          "url": "https://open.spotify.com/artist/6CQEcdCb4eIWDQPxCFfFRN"
+        }
+      ],
+      "duration_ms": 208045,
+      "name": "Discolo",
+      "url": "https://open.spotify.com/track/6iJXGliSsbbKTecLKZcAfG"
     },
     {
       "added_at": "2026-07-31 10:15:53",
@@ -1777,30 +1877,6 @@
       "url": "https://open.spotify.com/track/0tqHAhtLofrAgCm550RYTp"
     },
     {
-      "added_at": "2026-03-20 10:37:41",
-      "album": {
-        "name": "Mr Freaky",
-        "url": "https://open.spotify.com/album/4FEnYyPM0oz0Gh6OMCvplL"
-      },
-      "artists": [
-        {
-          "name": "Mas Que Nada Brothers",
-          "url": "https://open.spotify.com/artist/3OqXRs7ndYP9YEvzgEYwqW"
-        },
-        {
-          "name": "Lewis John",
-          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
-        },
-        {
-          "name": "Idriss Kargbo",
-          "url": "https://open.spotify.com/artist/6PRc4XFoEVRgMuoBoxxsr6"
-        }
-      ],
-      "duration_ms": 151603,
-      "name": "Mr Freaky",
-      "url": "https://open.spotify.com/track/6Hj6HotW0xQRPV7ZCW6z31"
-    },
-    {
       "added_at": "2026-04-10 10:40:38",
       "album": {
         "name": "Bajo Abajo",
@@ -1819,82 +1895,6 @@
       "duration_ms": 167750,
       "name": "Bajo Abajo",
       "url": "https://open.spotify.com/track/5fQmxDJKjtv1TTtdpTC1C4"
-    },
-    {
-      "added_at": "2026-03-20 10:42:13",
-      "album": {
-        "name": "Pop It",
-        "url": "https://open.spotify.com/album/4FXdT2fUjcvizZej9H6PMn"
-      },
-      "artists": [
-        {
-          "name": "Detlef",
-          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Pop It",
-      "url": "https://open.spotify.com/track/2ASHPSKvF7zrwnxujHdqER"
-    },
-    {
-      "added_at": "2026-04-03 08:32:05",
-      "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/6vSWseGGfTHt2dhzmEBIVY"
-      },
-      "artists": [
-        {
-          "name": "Siege",
-          "url": "https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd"
-        },
-        {
-          "name": "Dario Nunez",
-          "url": "https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh"
-        },
-        {
-          "name": "I Jah",
-          "url": "https://open.spotify.com/artist/2zoDXV6Ko316CBoCnGLDoS"
-        }
-      ],
-      "duration_ms": 199069,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/3jh6cmf9fEdPafOPQvNACj"
-    },
-    {
-      "added_at": "2026-03-20 10:32:16",
-      "album": {
-        "name": "Asking 4",
-        "url": "https://open.spotify.com/album/4UWOCBtyqvmsZ6NIa49tCM"
-      },
-      "artists": [
-        {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        }
-      ],
-      "duration_ms": 208005,
-      "name": "Asking 4",
-      "url": "https://open.spotify.com/track/4qOY0IbeP5l2GaL7r2a4g1"
-    },
-    {
-      "added_at": "2026-03-31 10:55:41",
-      "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7tpL70OEQCNTunTga3l8a7"
-      },
-      "artists": [
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 185233,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3KyoqNgmHE4uSp8PKXqhlL"
     },
     {
       "added_at": "2025-07-04 15:03:53",

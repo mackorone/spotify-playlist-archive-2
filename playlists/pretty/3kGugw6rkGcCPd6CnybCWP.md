@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,162 likes - 45 songs - 2 hr 37 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,162 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,10 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 43 | [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 |
 | 44 | [Heartbeats](https://open.spotify.com/track/0LVS42F6kSnhVknhBQemJM) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [Embers](https://open.spotify.com/album/7jeNenCbmKhLBEjCAqnRIc) | 3:52 |
 | 45 | [ardmore](https://open.spotify.com/track/1rme3Dy8URWfvRuaWHdkYk) | [Annie Elise](https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq) | [magic](https://open.spotify.com/album/6MDT90yu8HK3pt6f9GSpnJ) | 2:36 |
+| 46 | [In the Town I Grew Up In](https://open.spotify.com/track/1sTvYF8AHWD5Ji9zRpF8bk) | [Neve Rosales](https://open.spotify.com/artist/1EC8EQXTQBuVt5oloBJunz) | [In the Town I Grew Up In](https://open.spotify.com/album/49vS9GywlAg2Ia339LTIn7) | 4:07 |
+| 47 | [Overgrown](https://open.spotify.com/track/31qc3h2TNN2a05S7qHJMTC) | [J'lord Wimsely](https://open.spotify.com/artist/5LJtTRJS9XNSz8uL72SxmG) | [Overgrown](https://open.spotify.com/album/469z8Krj2cRTarqtNtEgs0) | 3:47 |
+| 48 | [Harlequin](https://open.spotify.com/track/7A7y6uCfd3mPSsya8YOcms) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Harlequin](https://open.spotify.com/album/7FXa7VysnuvTxgsKQkccZP) | 3:19 |
+| 49 | [Stuck 4 Ever](https://open.spotify.com/track/6IbUHoJ5Kxp86xWB6yuIjx) | [Sophie Valerie](https://open.spotify.com/artist/7APioRa2ZqrBCG0O9Z6N8b) | [Stuck 4 Ever](https://open.spotify.com/album/0Ab4SlL146rVeC0Dn0QGbl) | 2:19 |
+| 50 | [Drumfire Of The Hurricane](https://open.spotify.com/track/1mPmKidyJz0UpKpMkLfLyO) | [Kate Schutt](https://open.spotify.com/artist/0BP5VbdPYLMvEmQplKEBYY) | [Drumfire Of The Hurricane](https://open.spotify.com/album/6ya8EZKRzTpa6lGqAAKs9E) | 4:00 |
 
-Snapshot ID: `AAAQC0b9hloD46g+krGF8Siww6hSGX/X`
+Snapshot ID: `AAAQEJD4jbCzWuv7XbZdm4vic60GwdJy`

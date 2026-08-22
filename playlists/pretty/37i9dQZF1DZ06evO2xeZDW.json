@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18537,
+  "num_followers": 18536,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAD5Yg3VHnRJqrYHM2zb/viw",
+  "snapshot_id": "aoZDgAAAAADHCTWip+d0l6camOWUKmyM",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 91680,
-      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 291733,
       "name": "Your Father Would Be Proud",
       "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 91680,
+      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "Enterprising Young Men",
-      "url": "https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 255296,
       "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
       "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "Enterprising Young Men",
+      "url": "https://open.spotify.com/track/0NGVyXhUkqE3MRN6TmSzuG"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Star Trek (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 61160,
       "name": "Star Trek",
       "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Catwoman",
-      "url": "https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Catwoman",
+      "url": "https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Him Go (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
       },
@@ -675,38 +691,6 @@
       "duration_ms": 109466,
       "name": "The Break Of Dawn",
       "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spider-Man: Far from Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7dHHxnqokv90t6wVqTEk6F"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 107783,
-      "name": "Swinging Set - from \"Spider-Man: Far from Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/7BOKGKY2DAjq64NPsTjCyX"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Trek Into Darkness (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
+        "name": "Spider-Man: Far from Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7dHHxnqokv90t6wVqTEk6F"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 144720,
-      "name": "Sub Prime Directive",
-      "url": "https://open.spotify.com/track/0vgkEeiULt4ow0B4zjKkfI"
+      "duration_ms": 107783,
+      "name": "Swinging Set - from \"Spider-Man: Far from Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/7BOKGKY2DAjq64NPsTjCyX"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Trek Into Darkness (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Sub Prime Directive",
+      "url": "https://open.spotify.com/track/0vgkEeiULt4ow0B4zjKkfI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
@@ -775,6 +775,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 119280,
+      "name": "Off to Work",
+      "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
+        "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
+      "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cars 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3"
       },
@@ -787,42 +819,6 @@
       "duration_ms": 354080,
       "name": "It's Finn McMissile! - From \"Cars 2\"/Score",
       "url": "https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "The Fantastic Four: First Steps Main Theme Extended Version",
-      "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Hot Fursuit",
-      "url": "https://open.spotify.com/track/7AstzUKILlxTDESo09PLKG"
     }
   ],
   "unique_name": "This Is Michael Giacchino",

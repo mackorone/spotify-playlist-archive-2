@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: Selfi Yamma
+> Dendang dangdut ngetop Tanah Air\. Cover: Zahra DA7, Eby
 
-308 songs - 1 day 0 hr 25 min
+309 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Rindu Terhalang](https://open.spotify.com/track/0ZpjsLT6wzv0JSvIGa0MhQ) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Rindu Terhalang](https://open.spotify.com/album/0biYVS1ZoGwdRF7f5ySmJd) | 5:28 | 2024-07-25 | 2025-04-18 |
 | [Rindunya Hatiku](https://open.spotify.com/track/1LIj4fVzWvknxXokqSEoGN) | [Irwan Krisdiyanto](https://open.spotify.com/artist/1j1B3ReSgFxZCfaEggaMAT), [Fira Cantika](https://open.spotify.com/artist/0Oj0DdWT4Yt5Dsy4woMNIz) | [Rindunya Hatiku](https://open.spotify.com/album/5sf25lHQaHW5wNaaOJGmIG) | 7:17 | 2025-09-02 |  |
 | [Rumit](https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo) | [Anggi Rayns](https://open.spotify.com/artist/0WzERYbfqhfsmcg6axzGvT) | [Rumit](https://open.spotify.com/album/1IrWJfXPkvTimTDo3eCMEg) | 4:28 | 2023-09-07 | 2025-02-21 |
+| [Saat Bahagia](https://open.spotify.com/track/2fyX5t6thCeqAtOXAIPaDF) | [Zahra DA7](https://open.spotify.com/artist/0snMso9CwRUFq0IUQYredt), [Eby](https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN) | [Saat Bahagia](https://open.spotify.com/album/0w6oFsVbTE9HXf9gFStCXF) | 3:58 | 2026-08-21 |  |
 | [Sakit Karena Cinta](https://open.spotify.com/track/6anG2cD3dp7yOxdcvlB3FI) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz) | [Sakit Karena Cinta](https://open.spotify.com/album/5keIXzGTxenH2oe3pBx26a) | 5:56 | 2025-02-28 | 2025-10-18 |
 | [Sakur Ngimpi](https://open.spotify.com/track/0wWjSOuRhpjOcLlkxlFTh4) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Sakur Ngimpi](https://open.spotify.com/album/1fYzlUuZ8TETKCgZaeeeQI) | 5:15 | 2024-05-23 |  |
 | [Salah Apa Aku \- DJ Version](https://open.spotify.com/track/4TZ6sKMb5qdsBijn7GAosK) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Salah Apa Aku \(DJ Version\)](https://open.spotify.com/album/6jgucnuziyH4ihofeI625E) | 4:20 | 2021-08-23 | 2023-11-04 |

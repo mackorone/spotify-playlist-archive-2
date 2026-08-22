@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-335 songs - 17 hr 9 min
+336 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Smells Like Teen Spirit \- Acoustic](https://open.spotify.com/track/5Y0X7NxowxPpvDb4vzq1Hr) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Smells Like Teen Spirit \(Acoustic\)](https://open.spotify.com/album/4Si5kpHAc3ec1bB07qwxJu) | 2:30 | 2021-04-13 |  |
 | [So Sick \- Acoustic](https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [So Sick \(Acoustic\)](https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9) | 2:33 | 2023-01-27 | 2024-02-03 |
 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2019-10-13 |  |
+| [Stand By Me](https://open.spotify.com/track/7d9NoDdoypNEDgsVo9IcrO) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Stand By Me](https://open.spotify.com/album/5wbwndPaTut4nnCUxXs5MZ) | 2:29 | 2026-08-21 |  |
 | [Stand By Me \- Acoustic](https://open.spotify.com/track/3EwflvIjTsj1geph4V1rj5) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Stand By Me \(Acoustic\)](https://open.spotify.com/album/4YBuNLaJI4MAHEeaobswnV) | 2:53 | 2020-04-09 | 2023-02-02 |
 | [Stargazing \- Acoustic](https://open.spotify.com/track/5uHduwKoauygmlCn8J8cBx) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Stargazing \(Acoustic\)](https://open.spotify.com/album/0HwxUJzRuCyaG9M1uyi761) | 2:40 | 2025-02-02 |  |
 | [Stars \- Acoustic](https://open.spotify.com/track/11OWrRwbgBug9CSe3Gj70c) | [Molly Hocking](https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ) | [Stars \(Acoustic\)](https://open.spotify.com/album/4FCQZHSeNRgsKKDDgGm1Bg) | 2:26 | 2024-05-10 |  |
@@ -262,7 +263,7 @@
 | [Sweet Home Alabama \- Acoustic](https://open.spotify.com/track/3erRmhqtHch5MPmHYAlsUC) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Sweet Home Alabama \(Acoustic\)](https://open.spotify.com/album/70AdvQHtuUhoLtbIZyCUDL) | 2:32 | 2024-02-23 | 2024-04-28 |
 | [Symphony \(feat\. Zara Larsson\) \- Acoustic Version](https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\) \[Acoustic\]](https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0) | 3:36 | 2019-10-13 |  |
 | [Take a Chance On Me \- Acoustic](https://open.spotify.com/track/4zXAFNd8ZyGDxMQirvjA0S) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Take a Chance On Me \(Acoustic\)](https://open.spotify.com/album/3T8fiS1ajuJDnvUJUnGRHu) | 2:58 | 2024-09-13 | 2025-02-26 |
-| [Take Me Home, Country Roads](https://open.spotify.com/track/6VSMMUfqorGCI5Glap5KSr) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Take Me Home, Country Roads](https://open.spotify.com/album/4jQcSVIcWcvWnTAPQ7w2eG) | 2:56 | 2026-01-05 |  |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/6VSMMUfqorGCI5Glap5KSr) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Take Me Home, Country Roads](https://open.spotify.com/album/4jQcSVIcWcvWnTAPQ7w2eG) | 2:56 | 2026-01-05 | 2026-08-22 |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/28UhV2P56qrhxu05pNP08W) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/1kJwJ8ks6DweMzFDiJieIg) | 2:52 | 2026-02-27 |  |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP) | 3:31 | 2023-01-13 | 2023-03-18 |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 | 2021-12-12 | 2022-06-18 |

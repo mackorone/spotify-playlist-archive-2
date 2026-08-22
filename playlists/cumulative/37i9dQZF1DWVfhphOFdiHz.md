@@ -2,9 +2,9 @@
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Sami Landri for Montreal Pride
+> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Sami Landri
 
-628 songs - 1 day 9 hr 32 min
+631 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [die 4 u](https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:52 | 2026-06-16 |  |
 | [Dildo Machine](https://open.spotify.com/track/2I9x0XMsntFsDPpsR02KN4) | [ShyBoy](https://open.spotify.com/artist/7ffd31YbzS82DddmRc5p3v), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Queer for Fear: The History of Queer Horror \(Original Score and Soundtrack\)](https://open.spotify.com/album/2ipiLNbC5npVA1woNdCmJT) | 4:22 | 2023-12-15 | 2024-03-09 |
 | [Dimestore Jesus](https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Dimestore Jesus](https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco) | 3:37 | 2026-07-29 |  |
+| [DIRTY LAUNDRY](https://open.spotify.com/track/0isHOpxX24hWVdpzAh3nFH) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [DIRTY LAUNDRY](https://open.spotify.com/album/4z0qOiQYbcoUY8RUYpx4DF) | 4:46 | 2026-08-21 |  |
 | [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 | 2026-03-03 | 2026-03-28 |
 | [Dog](https://open.spotify.com/track/7EhOrPGj3Tfc4CPoDiA8rl) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Gentleman](https://open.spotify.com/album/1I82HtlqS1Fdb6zp7R0deo) | 3:08 | 2026-05-15 | 2026-07-04 |
 | [DOG SAY?](https://open.spotify.com/track/0xTqIJji8CjGwkqDtJm0BX) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [DOG SAY?](https://open.spotify.com/album/2e0snPCSyAUfwRyx8DLyPu) | 2:18 | 2026-06-16 | 2026-07-25 |
@@ -166,7 +167,7 @@
 | [Ever New](https://open.spotify.com/track/5APSnVrpZZaOfzv3oiJ7uX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 5:44 | 2025-01-08 | 2025-11-29 |
 | [EVERGREENS](https://open.spotify.com/track/6dASsGRAWLEEVFhSAI3CL5) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [EVERGREENS](https://open.spotify.com/album/6LF5IJOwMQgbT9rlnvqoZm) | 2:48 | 2025-10-31 | 2026-02-14 |
 | [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 | 2026-06-16 |  |
-| [everything led me to you](https://open.spotify.com/track/2JsZUBhPh5oXA8Rrm0sGFf) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [everything led me to you](https://open.spotify.com/album/6xpw9qxkrOCogmiwQxk2yD) | 2:34 | 2026-06-16 |  |
+| [everything led me to you](https://open.spotify.com/track/2JsZUBhPh5oXA8Rrm0sGFf) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [everything led me to you](https://open.spotify.com/album/6xpw9qxkrOCogmiwQxk2yD) | 2:34 | 2026-06-16 | 2026-08-22 |
 | [Excuse Me, I'm Speaking](https://open.spotify.com/track/46l6HTqqNBysg4IokCKET9) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [All Good Men](https://open.spotify.com/album/43cC6Wx7CTKWC25ByXQJXl) | 2:18 | 2026-06-26 | 2026-08-08 |
 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 | 2026-05-22 |  |
 | [Face Like Yours](https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Face Like Yours](https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3) | 2:38 | 2026-02-10 | 2026-04-23 |
@@ -182,6 +183,7 @@
 | [FEEL IT 2](https://open.spotify.com/track/4gitRIsZ0El5RMILeaNkpM) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [SXXXTAPE](https://open.spotify.com/album/4xuPwOGCyQfdDIHPqQarY9) | 1:43 | 2025-10-31 | 2026-01-15 |
 | [Feel Your Rain](https://open.spotify.com/track/07be0QUZ1uxxXDkarMiZe6) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Feel Your Rain](https://open.spotify.com/album/7qTMakCD0P74bbkIPWuNGi) | 3:36 | 2026-03-27 | 2026-05-23 |
 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-08-09 | 2025-05-31 |
+| [fingerprints](https://open.spotify.com/track/6ODRFdNh42wQEUvI06toGi) | [priyana](https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ) | [losing sleep \(again\)](https://open.spotify.com/album/2DLFEDKNg3EOag6l1lyGMT) | 4:11 | 2026-08-21 |  |
 | [Fire Excape](https://open.spotify.com/track/2m8MI1dFTkFhlVjjm7zFXp) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Fire Excape](https://open.spotify.com/album/7nU97h6a16WCM6AJlrYIry) | 3:18 | 2024-03-08 | 2025-05-31 |
 | [Fire Sign](https://open.spotify.com/track/4lrIGxXMwApfERfnLiEnh5) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Fire Sign](https://open.spotify.com/album/0BqQBhMGK7Wc9MuslsWsUf) | 2:58 | 2025-05-30 | 2025-09-27 |
 | [FLESH AND BONE](https://open.spotify.com/track/36XPufnYq7e389n5PU1Y95) | [PINKNOISE](https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd) | [FLESH AND BONE](https://open.spotify.com/album/4IdK4w2ZYXfxoQhVYY5VHN) | 3:10 | 2025-09-26 | 2026-01-15 |
@@ -199,7 +201,7 @@
 | [Fuetazo \(feat\. Villano Antillano\)](https://open.spotify.com/track/3MeQpnrMl1fjVun29DK45k) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Fuetazo \(feat\. Villano Antillano\)](https://open.spotify.com/album/14GJrju93uE5fZCslmD2UR) | 2:23 | 2024-02-02 | 2025-05-31 |
 | [Funny People](https://open.spotify.com/track/4rB1P6Rfdf3QEhMxDk0Tfx) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Knuckle Breaker Maxxx](https://open.spotify.com/album/5KrARfNHWfiWx6QQu11XFD) | 3:01 | 2026-01-16 | 2026-04-18 |
 | [Fussy](https://open.spotify.com/track/4VA4eatY1J5Lhq6XjT3DVR) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1), [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Fussy](https://open.spotify.com/album/5RAnzcXg4fpMTbqQS9elVG) | 2:44 | 2025-11-14 | 2026-03-21 |
-| [GAGATRON RENAISSANCE](https://open.spotify.com/track/7lkyY2gBufmdifho1KwvqN) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [GAGATRON RENAISSANCE](https://open.spotify.com/album/1IrND4a5sY6neIN9iDEfrw) | 3:12 | 2026-07-17 |  |
+| [GAGATRON RENAISSANCE](https://open.spotify.com/track/7lkyY2gBufmdifho1KwvqN) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [GAGATRON RENAISSANCE](https://open.spotify.com/album/1IrND4a5sY6neIN9iDEfrw) | 3:12 | 2026-07-17 | 2026-08-22 |
 | [Gas Station Lover](https://open.spotify.com/track/13yxPwUtZXAvnfyejd3UMT) | [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Gas Station Lover](https://open.spotify.com/album/7nYihcNHcP2ZqoZcBsmMp5) | 3:08 | 2026-06-02 | 2026-06-17 |
 | [Gather Energy](https://open.spotify.com/track/4qRbMBzEPh20XYObZ1BvCs) | [Melt](https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9) | [If There's A Heaven \(Deluxe\)](https://open.spotify.com/album/2GsQTea9foS60EesnwtV3h) | 3:43 | 2026-06-16 | 2026-08-01 |
 | [GAY](https://open.spotify.com/track/4kEUczTnlDhiMKRUNHY4Kp) | [Meg Stalter](https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG) | [GAY](https://open.spotify.com/album/5o2MYWrsXGASyP5kO71Lwi) | 2:58 | 2026-06-05 |  |
@@ -374,7 +376,7 @@
 | [Mary + I](https://open.spotify.com/track/0GfCIDAZiehD1YmAYfgAZK) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Mary + I](https://open.spotify.com/album/0hlueOwqC87qbzjuzNSblE) | 3:00 | 2025-05-30 | 2025-06-14 |
 | [Maybe When I'm Ready](https://open.spotify.com/track/7obdksarukkPPOZWnKpkUs) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Maybe When I'm Ready](https://open.spotify.com/album/0PgMO4z0O9sBiSRMdpr6g8) | 3:41 | 2025-11-28 | 2026-01-15 |
 | [Memories](https://open.spotify.com/track/40cL7PsLdnhihvSeEk4reN) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Memories](https://open.spotify.com/album/6dExRXtJGGvGlykHXCNRHy) | 3:41 | 2026-06-16 | 2026-07-25 |
-| [MEN](https://open.spotify.com/track/5zgQKfdJaW3hJlPQ0ycYdb) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [MEN](https://open.spotify.com/album/12wK2zF0EbhKeSEkAkuGdA) | 2:44 | 2026-05-22 |  |
+| [MEN](https://open.spotify.com/track/5zgQKfdJaW3hJlPQ0ycYdb) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [MEN](https://open.spotify.com/album/12wK2zF0EbhKeSEkAkuGdA) | 2:44 | 2026-05-22 | 2026-08-22 |
 | [messy](https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [messy](https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn) | 2:09 | 2023-12-15 | 2024-02-03 |
 | [Meteorite](https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Shock Treatment](https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE) | 3:33 | 2025-09-26 | 2026-01-15 |
 | [Mid July](https://open.spotify.com/track/6PsnCUm3Gx4IEB7YaQiyMm) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mid July](https://open.spotify.com/album/6Ghj66uOHT1AIQaMzBMZnf) | 3:20 | 2025-10-31 | 2025-11-29 |
@@ -603,6 +605,7 @@
 | [Violence](https://open.spotify.com/track/5e2ydjRaOjau1Atnv9zZ3Z) | [FIGHTMASTER](https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw) | [Violence](https://open.spotify.com/album/6sbuipZaNdrMC3egrQTIpE) | 4:51 | 2023-12-15 | 2024-06-01 |
 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 | 2026-07-03 |  |
 | [Waiting for God in the Garden](https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Waiting for God in the Garden](https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR) | 3:00 | 2024-03-08 | 2025-05-31 |
+| [waking up OK](https://open.spotify.com/track/3Q0P1IBOuHFKa9wk7sztHH) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [waking up OK](https://open.spotify.com/album/1Fg63nW6nIG6fsNwMdalH2) | 2:41 | 2026-08-21 |  |
 | [Wanna Get Along?](https://open.spotify.com/track/5yHm4fwAC3Y8jArEHpKvEy) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Wanna Get Along?](https://open.spotify.com/album/6nXoVCjgTkOEfg4FZyO7IY) | 3:33 | 2026-04-10 | 2026-05-02 |
 | [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 | 2026-04-17 | 2026-05-05 |
 | [Wasn't Your Type \- Radio Edit](https://open.spotify.com/track/362fSh6bBIqZsUyJbZUCeI) | [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [Wasn't Your Type](https://open.spotify.com/album/1IV4En5QCRKoj5lAcgDQEv) | 2:33 | 2026-04-17 | 2026-05-02 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-357 songs - 21 hr 52 min
+358 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [On A Wave](https://open.spotify.com/track/0GuhX81IqyufFB3VdVzUbj) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Off The Books EP \(2016\)](https://open.spotify.com/album/5seVG1s2oc5piRtsixp4g0) | 3:02 | 2023-12-13 |  |
 | [On This Way \(feat\. The Game & Iyla\)](https://open.spotify.com/track/20AUSGH3hwXA5FAujtcq8w) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [Evolution](https://open.spotify.com/album/3erY5XSpTKh0GfNf5FJuT2) | 4:39 | 2023-12-13 |  |
 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 | 2023-12-13 |  |
-| [Only U](https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:55 | 2023-12-13 |  |
+| [Only U](https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:55 | 2023-12-13 | 2026-08-22 |
+| [Only U](https://open.spotify.com/track/6bCAmtLDh5jc4dR2pmsoFP) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 2:55 | 2026-08-21 |  |
 | [Options](https://open.spotify.com/track/5AbFf7bcqyFFCSQh3az5XX) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Options](https://open.spotify.com/album/3bna9MFciOVPiqMzjZ24AO) | 2:59 | 2023-12-13 |  |
 | [Our Way \(Outro\)](https://open.spotify.com/track/1e7v53dxDmMZ7IseXOEG4j) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 5:39 | 2023-12-13 |  |
 | [out for the night \- part 2](https://open.spotify.com/track/4B8vU5oDXVxO5OkLAI4aLx) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:55 | 2023-12-13 |  |

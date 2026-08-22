@@ -1,12 +1,12 @@
 {
   "description": "The newest arrivals. Cover: Destin Conrad",
-  "num_followers": 69399,
+  "num_followers": 69406,
   "original_name": "Just Dropped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIn7BUwxcwmhKysK7x4kxUtpxTB2",
+  "snapshot_id": "AAAAAPNpMhrC/LLvwcDJ+F8u9I5dUdv0",
   "tracks": [
     {
       "added_at": "2026-08-20 23:00:25",
@@ -18,10 +18,14 @@
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 161086,
+      "name": "DADAMAN",
       "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
     },
     {
@@ -371,6 +375,22 @@
       "duration_ms": 224482,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/6n93gd8KZZiuz6nyeAaBM7"
+    },
+    {
+      "added_at": "2026-08-20 23:00:25",
+      "album": {
+        "name": "Summer at Camp Lakepine",
+        "url": "https://open.spotify.com/album/4Nip5JG2bdFpUyV7ghe0Kq"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "duration_ms": 99200,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/6wpNwhUGwP7eT8s7wjcJrZ"
     },
     {
       "added_at": "2026-08-20 23:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,512 likes - 108 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,568 likes - 108 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 6 | [Ride \(feat\. Karen Harding\)](https://open.spotify.com/track/2LvrJFOTo9rLYkfGhDcOQV) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Ride \(feat\. Karen Harding\)](https://open.spotify.com/album/2v4r3Pr1BVGql4h89ZkDkS) | 3:20 |
 | 7 | [Knife In The Heart \- \(The Magician Remix\)](https://open.spotify.com/track/0THhIWX6hGcftgzP5mYTji) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Knife In The Heart \(The Magician Remix\)](https://open.spotify.com/album/5g1aKjhxfqIqM5aHyxSKCy) | 3:41 |
 | 8 | [Don't Go](https://open.spotify.com/track/6hYqPvgX9U7LjGKXtnyNbD) | [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Don't Go](https://open.spotify.com/album/28352Nj20VRdPkCNpQ0JOs) | 3:12 |
-| 9 | [Good Life](https://open.spotify.com/track/7fHxbEzsOUxL5mQdz7m3iU) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [Good Life](https://open.spotify.com/album/24jZ7aj2bPldimRVQFVvyR) | 3:31 |
+| 9 | [Good Life](https://open.spotify.com/track/7fHxbEzsOUxL5mQdz7m3iU) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Good Life](https://open.spotify.com/album/24jZ7aj2bPldimRVQFVvyR) | 3:31 |
 | 10 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 11 | [Jazzmin](https://open.spotify.com/track/0AzjZi0cSXgcfBrvPGQB37) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803), [KADI \(IL\)](https://open.spotify.com/artist/2yBeN9JBn46atsX5eXGYRC) | [Jazzmin](https://open.spotify.com/album/2dcSf7cicOed14qvWfeG0T) | 3:06 |
 | 12 | [Everything Everywhere All At Once \- Cosmodelica Remix](https://open.spotify.com/track/2bY5roOuQIAyOFz24SaPl1) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc), [Colleen 'Cosmo' Murphy](https://open.spotify.com/artist/4HiT7m2CCKPxAQK6pxR2Ww) | [Everything Everywhere All At Once \(Cosmodelica Remix\)](https://open.spotify.com/album/0M9klo5R6GyBboFQzJabiV) | 5:47 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 25 | [Ring The Bell](https://open.spotify.com/track/3JcGhVW3XAxSzNzDEhFoNc) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Ring The Bell](https://open.spotify.com/album/36ybZoVeDtU0JGXG51TCtv) | 2:48 |
 | 26 | [Siren Tiger](https://open.spotify.com/track/0QetcudUtlEE9rLA769ch5) | [Fundido](https://open.spotify.com/artist/1to9uaFDyrcHAbK8PUhXfh) | [Siren Tiger](https://open.spotify.com/album/3ubCMzPZnkLSbpgkiNiHB2) | 3:49 |
 | 27 | [Let's Go](https://open.spotify.com/track/12a7PDYkvrwJJ78RmuxGI9) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Let's Go](https://open.spotify.com/album/0mTkoRCp82urysUzyftz8O) | 2:54 |
-| 28 | [Cold Hands \- Italo Mix \- Edit](https://open.spotify.com/track/4syXQUhklIp2QN18BFu87m) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Cold Hands](https://open.spotify.com/album/0m1koSjDHYbxaUYo8U26MO) | 5:00 |
+| 28 | [Cold Hands \- Italo Mix](https://open.spotify.com/track/4syXQUhklIp2QN18BFu87m) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Cold Hands](https://open.spotify.com/album/0m1koSjDHYbxaUYo8U26MO) | 5:00 |
 | 29 | [Little More \(Body Action\)](https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD) | [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [Little More \(Body Action\)](https://open.spotify.com/album/3KB4mdLmrMq4vhNFqbcacm) | 3:19 |
 | 30 | [Europa](https://open.spotify.com/track/1uWYyOMCaXX3bT44u5qV7k) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Manu Dadamo](https://open.spotify.com/artist/2zjZvBCefV17DTMut3cW8Z) | [Europa](https://open.spotify.com/album/6AlUnV5YH15q6pZwz2JPQ4) | 2:44 |
 | 31 | [Dancing Till Sunrise](https://open.spotify.com/track/7ytDYGgGS3t50kaT2P5hIE) | [StoneBridge](https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A) | [Dancing Till Sunrise](https://open.spotify.com/album/2NOEeK2OrNWcSQiOKH1oE2) | 2:44 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 107 | [Snakes](https://open.spotify.com/track/7KvYoLTnCDc5DtsOqKj5T2) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Rami](https://open.spotify.com/artist/69JMnvEdSQznAmeSWKH8kQ) | [Back 2 Tha Funk EP](https://open.spotify.com/album/2J3M1KVjW4rtgoCclYylbb) | 3:56 |
 | 108 | [WHAT!](https://open.spotify.com/track/1vnEr5iuAEGZco3ryl6kfg) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803), [Yuvèe](https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f) | [WHAT!](https://open.spotify.com/album/032Gx82p6cpYLnPfe1ixFX) | 3:19 |
 
-Snapshot ID: `AAAAAHI5XLf+T0vbbPjVfyfoDdrF57PO`
+Snapshot ID: `AAAAACPD69y4DVg+VQD7ZaqZIimd+oXr`

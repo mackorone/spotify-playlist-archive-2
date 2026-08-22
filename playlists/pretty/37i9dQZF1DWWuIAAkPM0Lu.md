@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra Andreas Odbjerg & Medina, Nik & Jay og Smøgmænd ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,115 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,216 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 4 | [Kender du det?](https://open.spotify.com/track/2GKQMFRuoxMbwhTfASwzXa) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr) | [Kender du det?](https://open.spotify.com/album/3eARAq2wbsryfvn5LH1PVk) | 3:21 |
 | 5 | [100 år \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/1jH85kfcCL9HJdpirCT4Aj) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [100 år \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/4nri5LwTjirPBYsyVJAbvT) | 3:04 |
 | 6 | [The Team](https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Team](https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh) | 3:33 |
-| 7 | [Track 5](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 0:00 |
+| 7 | [Gemen](https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 2:29 |
 | 8 | [Mr\. Entreprenør](https://open.spotify.com/track/3vVhoKIX9vEaUVCOactWym) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [Mr\. Entreprenør](https://open.spotify.com/album/1e7Q69hjmf9gVzDHzGNU8O) | 2:42 |
 | 9 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 |
 | 10 | [Fri og Alene](https://open.spotify.com/track/5iGc84XfZHbsynRPBJO8As) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Fri og Alene](https://open.spotify.com/album/7MUpxAl1EdP0BL5Jg95myQ) | 2:58 |
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 19 | [Drømmebarn](https://open.spotify.com/track/7ewL28mK3N7eF0ExfVfF3t) | [Karl Pava](https://open.spotify.com/artist/7frBT8ly3qJ7wSZBbYGjUk) | [Drømmebarn](https://open.spotify.com/album/6eQ2ZpiuTDJxJVD7UmR1Vv) | 2:56 |
 | 20 | [Off My Mind](https://open.spotify.com/track/4qMVitILFfuxq1EolLLH0s) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [In the Margins, In Shades of Pale Blue](https://open.spotify.com/album/3SqvwWh7vGWCIttQCJKIgU) | 3:31 |
 | 21 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
-| 22 | [Track 7](https://open.spotify.com/track/59RRQ93Rs9jVHsXpbPV48t) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 0:00 |
+| 22 | [Salpeter](https://open.spotify.com/track/59RRQ93Rs9jVHsXpbPV48t) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 3:00 |
 | 23 | [I Only Look to You](https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 3:08 |
 | 24 | [ONONON](https://open.spotify.com/track/53nl3XgMuM4ZdAQ16BEt4n) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [ONONON](https://open.spotify.com/album/2YLv99GDTQh3JHxP86OD3Z) | 3:30 |
 | 25 | [.com](https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [.com](https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt) | 3:07 |
 | 26 | [you’re my nature](https://open.spotify.com/track/1UPI8IZpnPpEYZVMf6NgNR) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |
 | 27 | [sw33t](https://open.spotify.com/track/0agc1TM6dDVPEBLCWAjWfa) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [sw33t](https://open.spotify.com/album/2UzNJAA7nQOkb5SkCoPtp6) | 2:31 |
-| 28 | [Track 6](https://open.spotify.com/track/6m0QFeVJ6LESE716MJ1AKG) | [Klumben](https://open.spotify.com/artist/6l2TcYHKMr6XQn5hxfD48E) | [FØREVIGT](https://open.spotify.com/album/2hIC4RkzSplqHv5CEeyxUD) | 0:00 |
+| 28 | [Det Sker Nu](https://open.spotify.com/track/6m0QFeVJ6LESE716MJ1AKG) | [Klumben](https://open.spotify.com/artist/6l2TcYHKMr6XQn5hxfD48E), [Raske Penge](https://open.spotify.com/artist/7fOvQFIRL7o1WGXujMXQ46) | [FØREVIGT](https://open.spotify.com/album/2hIC4RkzSplqHv5CEeyxUD) | 3:06 |
 | 29 | [Bløder](https://open.spotify.com/track/6vMK9DZbIrIayi6gzkbwCg) | [Mads Christian](https://open.spotify.com/artist/3Ehbg1qhRKHshR8H2BoR8N) | [Bløder](https://open.spotify.com/album/7mRqvIaNVzIJiD0WM09g4p) | 2:46 |
 | 30 | [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 |
 | 31 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 41 | [I Will Find You](https://open.spotify.com/track/3rhrqnBTJVocOAOFFPsYYf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [I Will Find You](https://open.spotify.com/album/00zVD6CI5uL5co5xzUjTS1) | 3:19 |
 | 42 | [Udødelig](https://open.spotify.com/track/7zE39zfM3vwuPmeQApHMZQ) | [Niarn](https://open.spotify.com/artist/3Y5DrePVX41yXqnaA1JDIo) | [Udødelig](https://open.spotify.com/album/3yNPaK1IxVcV33THmPkIU8) | 3:15 |
 | 43 | [1991](https://open.spotify.com/track/1O0bIhJ2mBpZPFHzENJx9z) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [1991](https://open.spotify.com/album/5O7zW8t6x5ft5vofOxLP0l) | 6:15 |
-| 44 | [Track 11](https://open.spotify.com/track/6lBHTQVgXXxGCm8q2UvAhu) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 0:00 |
+| 44 | [NEED YOU](https://open.spotify.com/track/6lBHTQVgXXxGCm8q2UvAhu) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:24 |
 | 45 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 |
 | 46 | [Overvintre her](https://open.spotify.com/track/0BSNAHBvScHiHjlU4YdKhA) | [Agnes Ea](https://open.spotify.com/artist/1HZgrwO3UDlQXXWmqjti4p), [Lea Kampmann](https://open.spotify.com/artist/5DqlRlaq7MufmiP9uMiTk7) | [Alting skifter form](https://open.spotify.com/album/6CbgTbowkGDqYBAuG6OCZ1) | 3:28 |
 | 47 | [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 66 | [Hit The Sky](https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/6HmTemMMhm4C8tiM39Dz28) | 2:39 |
 | 67 | [KeenKeenKeen](https://open.spotify.com/track/6LMCwGXVVlEtkuJ7PEQ8TR) | [Sthlm Royalty](https://open.spotify.com/artist/3TL3k8pfLwQH5GUx4T6K38), [aka Hugo](https://open.spotify.com/artist/2B6Ekx8gNUrAhJWVkFjGT3), [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [KeenKeenKeen](https://open.spotify.com/album/66HEuNYGzl0G9v0tXPrmyx) | 2:27 |
 | 68 | [Le](https://open.spotify.com/track/5NxbLBoZzuZkavPJ7zumbK) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg) | [Fold](https://open.spotify.com/album/6E8sy7q7qeVDDX9dRsGFi0) | 4:38 |
-| 69 | [Track 1](https://open.spotify.com/track/1H8iKS8vEeMpIUBeICLbyc) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 0:00 |
+| 69 | [Sputnik](https://open.spotify.com/track/1H8iKS8vEeMpIUBeICLbyc) | [Smøgmænd](https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg) | [Sputnik](https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y) | 3:18 |
 | 70 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
 | 71 | [Miracle](https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Miracle](https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa) | 3:05 |
 | 72 | [Laymelli \- Edit](https://open.spotify.com/track/0jKRNJkTm7ysB70KpZaXUR) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Laymelli](https://open.spotify.com/album/2iLnnobOgnzlpBizbGPeAq) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 99 | [Runaway](https://open.spotify.com/track/4y6horhRPIuaSVKjPDLBDr) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Runaway](https://open.spotify.com/album/5aVZikPfeJpoBXKPEZAbSt) | 2:33 |
 | 100 | [Light That Never Goes Out](https://open.spotify.com/track/5CqrjbsznxZNJ914mTqAsH) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Light That Never Goes Out](https://open.spotify.com/album/5F6ViTRGVxJD8yNiVZy9Ui) | 2:50 |
 
-Snapshot ID: `AAAAANi25uv4GD/DTZvIPeEWZvP/77DD`
+Snapshot ID: `AAAAAGpcJaGAl827gdATA07kzXNkSVPp`

@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,130 songs - 3 day 0 hr 46 min
+1,131 songs - 3 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Detour Ahead \(take 2\)](https://open.spotify.com/track/5nDOHSm7jxDU1U9kFKVruH) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:36 | 2021-12-03 | 2023-08-18 |
 | [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 | 2025-11-29 |
 | [DFAA](https://open.spotify.com/track/1gx060f6SRyYcSsTcOpWcp) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Invisible Land](https://open.spotify.com/artist/0GKB0s7UWfb5C88cNZmto6) | [Invisible Land](https://open.spotify.com/album/0jCdnXJIVXcOSv2OwmpDbT) | 3:10 | 2022-06-30 | 2024-02-20 |
-| [DFAA](https://open.spotify.com/track/6SNtmjAiXXwrmZtPImGWQh) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Invisible Land](https://open.spotify.com/artist/0GKB0s7UWfb5C88cNZmto6) | [DFAA](https://open.spotify.com/album/0Uf3QYBKMBR5VFjFQhXHsp) | 3:10 | 2021-12-03 |  |
+| [DFAA](https://open.spotify.com/track/6SNtmjAiXXwrmZtPImGWQh) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Invisible Land](https://open.spotify.com/artist/0GKB0s7UWfb5C88cNZmto6) | [DFAA](https://open.spotify.com/album/0Uf3QYBKMBR5VFjFQhXHsp) | 3:10 | 2021-12-03 | 2026-08-22 |
 | [Diane](https://open.spotify.com/track/77BESrsUN386SrjEA7siB5) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:11 | 2022-06-30 | 2025-09-18 |
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-09 |  |
 | [Didn't know who else to call](https://open.spotify.com/track/2me6tmgT1A8d3R9stvr2UK) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Didn't know who else to call](https://open.spotify.com/album/453PIOiFYjFsoANz9ieG2P) | 3:31 | 2022-12-08 |  |
@@ -731,6 +731,7 @@
 | [One Fine Day](https://open.spotify.com/track/3wWnjO4iTLDqjIvlOVoOPX) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [One Fine Day](https://open.spotify.com/album/6ciCIBC5QF3o1j2wuAAXK5) | 4:24 | 2023-02-02 |  |
 | [One More Day](https://open.spotify.com/track/3UeQzzW2wAavQ9Bqnbc3AP) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [One More Day](https://open.spotify.com/album/0VITyRdYj4fwl7bbSm5Gz6) | 5:10 | 2025-11-28 |  |
 | [One More Promise](https://open.spotify.com/track/3qBfwvNVNvn1wblk4aQSeD) | [Two steps in the street](https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN) | [One More Promise](https://open.spotify.com/album/3OIAR8zXKT7x7wrNitZyan) | 2:52 | 2024-10-21 | 2024-11-06 |
+| [One six? Two fives!](https://open.spotify.com/track/0YlD3Borq7fnSVNBH91qPF) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [One six? Two fives!](https://open.spotify.com/album/1LHWxsmhplfdfpLabGIUJG) | 4:00 | 2026-08-21 |  |
 | [Only A Fool](https://open.spotify.com/track/1pMRvkyHyMddSsYx0Wytoq) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Only A Fool](https://open.spotify.com/album/6HO08JKKgHzkva5HdMIueS) | 3:01 | 2024-05-31 | 2024-06-28 |
 | [Only Way To Play Is All In](https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Only Way To Play Is All In](https://open.spotify.com/album/4PzO4qn8WkZtHL6Fx6z65h) | 3:18 | 2023-03-23 | 2025-11-29 |
 | [Options](https://open.spotify.com/track/396vpTJUDMOf5za7ModOsD) | [Eric van der Westen](https://open.spotify.com/artist/0yaTeYrw4ULzSJjbhuRk3d) | [The Crown & Lobster Trilogy, Pt\. II: Blue Is All That's Left](https://open.spotify.com/album/1dFS8wIJxvJpFtOcLsti40) | 7:14 | 2023-03-16 |  |

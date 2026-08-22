@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 49141,
+  "num_followers": 49153,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOOqgdvGjJRqHYq5CFxtFR9cDONl",
+  "snapshot_id": "AAAAAIrJ0zDJlxQbJrSAAYOJdgdU1JeK",
   "tracks": [
     {
       "added_at": "2026-08-14 00:01:40",
@@ -163,18 +163,22 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 146490,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -215,22 +219,18 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "THAT GIRL!",
-        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 132817,
-      "name": "THAT GIRL!",
-      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+      "duration_ms": 146490,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "ATOM II",
-        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 157487,
-      "name": "Feel Am",
-      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+        "name": "ATOM II",
+        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 156000,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
+      "duration_ms": 157487,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -859,6 +839,46 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 202547,
+      "name": "HIM (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
         "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
         "url": "https://open.spotify.com/album/1vUCTdPUb0hFi3CsE0aPqn"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 169301,
       "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
       "url": "https://open.spotify.com/track/2OBS1RvTy6qlzwEKDzdZcW"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 202547,
-      "name": "HIM (feat. Gunna)",
-      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
-        }
-      ],
-      "duration_ms": 119347,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "BANGER BOY",
         "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
@@ -1247,6 +1223,30 @@
       "duration_ms": 192941,
       "name": "Hashtag",
       "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "duration_ms": 119347,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
     },
     {
       "added_at": "2026-08-14 00:01:40",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2BXUnadEqbiwqy5OUUUAdN"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 181304,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5"
+    },
+    {
+      "added_at": "2026-08-14 00:01:40",
+      "album": {
         "name": "Bobo",
         "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
       },
@@ -1379,22 +1399,6 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "Popstar - Side A",
-        "url": "https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 128053,
-      "name": "Simone",
-      "url": "https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF"
-    },
-    {
-      "added_at": "2026-08-14 00:01:40",
-      "album": {
         "name": "Must Have Been",
         "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
       },
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2026-08-14 00:01:40",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2BXUnadEqbiwqy5OUUUAdN"
+        "name": "Popstar - Side A",
+        "url": "https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3"
       },
       "artists": [
         {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 181304,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5"
+      "duration_ms": 128053,
+      "name": "Simone",
+      "url": "https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF"
     },
     {
       "added_at": "2026-08-14 00:01:40",

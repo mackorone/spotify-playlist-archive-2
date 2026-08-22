@@ -1,12 +1,12 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 517245,
+  "num_followers": 517263,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPV+6aLj89lnFnYoyHkkUfZD+7Lj",
+  "snapshot_id": "AAAAAETsuwatZQwFH/y3Q3Gz7mxofnnE",
   "tracks": [
     {
       "added_at": "2024-06-03 14:45:23",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Honky Chateau (Remastered)",
-        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
-      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "All Things Must Pass (Remastered)",
         "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
+        "name": "Honky Chateau (Remastered)",
+        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 254453,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m"
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -983,6 +967,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "And Then There Were Three",
         "url": "https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 240991,
       "name": "Follow You Follow Me - Remastered 2007",
       "url": "https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1015,22 +1031,6 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Vanilla Sky (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Solsbury Hill",
+      "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Lynyrd Skynyrd - Rock Legends",
         "url": "https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 239240,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Vanilla Sky (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Solsbury Hill",
-      "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Semi-Pro - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3U3BdoxSfeiLf1yrf3aMAE"
-      },
-      "artists": [
-        {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
-        }
-      ],
-      "duration_ms": 167080,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/08013W2oJiJ3FcVq24hjXO"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/0TcKS5p50aNE2c0Zuhs3Zl"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Semi-Pro - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3U3BdoxSfeiLf1yrf3aMAE"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "duration_ms": 167080,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/08013W2oJiJ3FcVq24hjXO"
     },
     {
       "added_at": "2024-06-03 14:45:23",

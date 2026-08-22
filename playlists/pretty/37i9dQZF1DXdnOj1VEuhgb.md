@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Khontkar, Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,470 likes - 49 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,443 likes - 49 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FLEX](https://open.spotify.com/track/6Cd4tpGCTQnxkKVWsy6AUA) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Tuby](https://open.spotify.com/artist/3VuBOZYMdaEEp1uxtf9s2J) | [FLEX](https://open.spotify.com/album/4bAamQMysxekb1UJ7nGR7G) | 3:16 |
+| 1 | [FLEX](https://open.spotify.com/track/6Cd4tpGCTQnxkKVWsy6AUA) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Tuby](https://open.spotify.com/artist/3VuBOZYMdaEEp1uxtf9s2J), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [FLEX](https://open.spotify.com/album/4bAamQMysxekb1UJ7nGR7G) | 3:16 |
 | 2 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
 | 3 | [2 KUZUKULAGI](https://open.spotify.com/track/1hfS5LuAiQPCjJHBKAhqdZ) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [IN THE CLUB](https://open.spotify.com/album/7CYSwioxEydKCLDQHrbtxs) | 2:00 |
 | 4 | [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 15 | [Son Mum](https://open.spotify.com/track/11Cz8crr2qwLEHwv1HFhMD) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9), [Volt](https://open.spotify.com/artist/2EZY0VASOYzEheftuL1KeB) | [Son Mum](https://open.spotify.com/album/4UnU3b7VlR0jxxM6kZOSm3) | 3:35 |
 | 16 | [Nane نعناع](https://open.spotify.com/track/3juSoiFBZhI9vT7l34hpNS) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Nane نعناع](https://open.spotify.com/album/41YXRUqslAGIGx9gEPlXds) | 2:44 |
 | 17 | [59](https://open.spotify.com/track/4CPddNJjMP8T0R68FyJ2Rx) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [PİYASA](https://open.spotify.com/album/1Mpk9CjA5YUu7NX6OCAaVR) | 1:50 |
-| 18 | [SEYMENMOMENT](https://open.spotify.com/track/310Ma3rk2aolXmCt1nwCeY) | [GRi](https://open.spotify.com/artist/14jxoAO0NACMii5AuV4pnB), [Abugat](https://open.spotify.com/artist/2KPINxWCVBb9yxO8xKtdFh), [SANC](https://open.spotify.com/artist/4nU7wr9diAEypZ6Ei3MLeM) | [SEYMENMOMENT](https://open.spotify.com/album/3qXyKZqZzI4rlHYlMPxdQP) | 2:25 |
+| 18 | [SEYMENMOMENT](https://open.spotify.com/track/310Ma3rk2aolXmCt1nwCeY) | [GRi](https://open.spotify.com/artist/14jxoAO0NACMii5AuV4pnB), [Abugat](https://open.spotify.com/artist/2KPINxWCVBb9yxO8xKtdFh), [sanc](https://open.spotify.com/artist/4Qq1Wnm4ZyDw02607XFj5t) | [SEYMENMOMENT](https://open.spotify.com/album/3qXyKZqZzI4rlHYlMPxdQP) | 2:25 |
 | 19 | [G6](https://open.spotify.com/track/26T7zRicGkSunlTfrpE2qK) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [G6 / SYBAU](https://open.spotify.com/album/5FVORknveZaPtZ5a5g7K2o) | 0:57 |
 | 20 | [FOTO](https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [FOTO](https://open.spotify.com/album/5JqdbGF5lsAj5DPCvV88me) | 2:10 |
 | 21 | [Kaybeden](https://open.spotify.com/track/6XtYVT7q73CjAsHTLNrqkd) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Kaybeden](https://open.spotify.com/album/7Ae3Ud9M6m2hyK00CIT0U5) | 2:17 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/track/3bfcPN5EAU1CzXIGaWBaUR) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/album/2WfdMP5Y3GtlBO857nvF7a) | 1:58 |
 | 49 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
 
-Snapshot ID: `AAAAAOESTiidrDbqpnFi6vmLCaIjj5xm`
+Snapshot ID: `AAAAAI9tGEEYaw9zsBcKi7PwAsxOX12d`

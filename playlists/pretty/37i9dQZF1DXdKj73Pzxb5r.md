@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Atlesta
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Love as Punishment
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,223 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,223 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Building](https://open.spotify.com/track/3KeW6p83GJwuNUfegAGH1m) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Building](https://open.spotify.com/album/6TziaCeqD9bpWb2GlyULmW) | 3:58 |
-| 2 | [Semu](https://open.spotify.com/track/11rWQVHyNB0Ok5LzAKosvP) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Semu](https://open.spotify.com/album/6Eqo3gZE9zuCM9kCSod2Ei) | 3:48 |
-| 3 | [Terang Bulan](https://open.spotify.com/track/1V1cJhyveqBGlssgLDcEod) | [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7) | [Terang Bulan](https://open.spotify.com/album/0cRrQUuCmCJ4rgfrAHW7Xc) | 2:43 |
-| 4 | [Selaras \(feat\. Anak\-anak\)](https://open.spotify.com/track/1zNppYGgMBlJD8a9R4F9s1) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Made Mawut](https://open.spotify.com/artist/4p86bdMabmIFf7G0eKsrCe), [Anak\-anak](https://open.spotify.com/artist/4PA9rrzLGrHIAzgdd8lkTw) | [Selaras \(feat\. Anak\-anak\)](https://open.spotify.com/album/2me9L3mF9C6T2SXabNgLNH) | 2:32 |
-| 5 | [obsessed](https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [obsessed](https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH) | 2:50 |
-| 6 | [Karena \(Ku Tak Tahu\)](https://open.spotify.com/track/2ihXhGecD4eWgHORk03DLN) | [FILM.](https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8) | [Manuskrip](https://open.spotify.com/album/6i5FXTvYFvPClPtyRj0Q7P) | 5:01 |
-| 7 | [Menjelajahi Kerinduan](https://open.spotify.com/track/3tYls6fQpu7i4XoKfPbbyR) | [Parade Hujan](https://open.spotify.com/artist/12FqhPQ5x6a1V3UeN7hD9z) | [Punar](https://open.spotify.com/album/56y8mOV8qm0KDDcow0CyOX) | 4:07 |
-| 8 | [Don't Look at Me Like That](https://open.spotify.com/track/0HV4XgpAC7n3xjYkNRZrPh) | [vanilla party](https://open.spotify.com/artist/1470A0L5LmvZg4AHnS3xrc) | [A Letter Under the Bed](https://open.spotify.com/album/0fYhEmu0bClqan7uNZWxS7) | 3:42 |
-| 9 | [Berdansa Berdancey](https://open.spotify.com/track/3jLbJfcEP5FcRv32AQYCOB) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Episode 2: Sticky Situation](https://open.spotify.com/album/6EmngjybN57GG8ivZ5VeRY) | 3:30 |
-| 10 | [Terlalu Cepat](https://open.spotify.com/track/5I3AAqrQzhDNJO3U8iocn4) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [Forever Rookie](https://open.spotify.com/album/1obGCezp3PbFNmFoutJfiZ) | 3:33 |
-| 11 | [Deep Breathe](https://open.spotify.com/track/7MUEJZlv3i5oeohNzzjbLV) | [Seagrass And The Waves](https://open.spotify.com/artist/65Jc9hPwMXPfkSo4FMFsFB), [Vika Randia](https://open.spotify.com/artist/1bB8TDS4oZ1j6zVOHd1VI8) | [Deep Breathe](https://open.spotify.com/album/5zfBhuPJ2kcf1LZahvWRRI) | 3:01 |
-| 12 | [Still Show Up In My Dreams](https://open.spotify.com/track/7IRpzzB50WVSaNgPto8J8X) | [Novascotia](https://open.spotify.com/artist/66k4IwKEoPu01TMuaQf8mT) | [Still Show Up In My Dreams](https://open.spotify.com/album/10cUjLMfzIiW04wbkjY5HJ) | 3:01 |
-| 13 | [D\(is\)pleasing](https://open.spotify.com/track/3izN9L8dmuvFz8mdaVvWEp) | [Bhanu Marais](https://open.spotify.com/artist/0lNHnWpu3fCw1Hb2y0QOSj) | [\(½\) Biograph](https://open.spotify.com/album/3cvo1VOztfBcc92nbS9HjZ) | 4:14 |
-| 14 | [Si Baik](https://open.spotify.com/track/3z95u68kKOJR6mWHhll5yq) | [Inoya House](https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB) | [Si Baik](https://open.spotify.com/album/4XX0Rgksb8B562ynOz63oV) | 4:16 |
-| 15 | [Yang Hilang Dan Kembali](https://open.spotify.com/track/4HloxctN0aVtaTUTkS92YU) | [The Monophones](https://open.spotify.com/artist/2qNkBIMEYtteU9TIzj1FDn) | [Yang Hilang Dan Kembali](https://open.spotify.com/album/3TgWuuR0vPIAlELXj6ujmj) | 5:31 |
-| 16 | [Jam 7](https://open.spotify.com/track/0n1ubTdXNGocfQnxPAy7cr) | [nahumlogo](https://open.spotify.com/artist/4OqnEEb9fFHPGlNmZL92Vr) | [Senandung Pekerja](https://open.spotify.com/album/0SUxEY7bUCi6VhpWs4M3lP) | 3:04 |
-| 17 | [Fashion Star](https://open.spotify.com/track/1iKk2lQGjltQkxqXm7SFb9) | [Helicat](https://open.spotify.com/artist/14n0XRttSZ4loKncdbUXe3) | [Fashion Star](https://open.spotify.com/album/0dnYbCK4yVF0y9dhwfFwzf) | 3:38 |
-| 18 | [ACCIDENT](https://open.spotify.com/track/6IaG43KmrsLtp6YRWpkxsj) | [Bara Dita](https://open.spotify.com/artist/2lADVhtxaYCp3iVe4JSM2I) | [ACCIDENT](https://open.spotify.com/album/7fZfi9O4LBL2v7D9eRjwW5) | 3:02 |
+| 1 | [Hujan Tepat Waktu](https://open.spotify.com/track/4e3Mjoafb02u7RKnoDmuoj) | [Love as Punishment](https://open.spotify.com/artist/6AmCGKS7KDnPtGTqGoR6In) | [Kunang\-kunang](https://open.spotify.com/album/5lEEjILwPaXMnF8rGFFySn) | 5:18 |
+| 2 | [Building](https://open.spotify.com/track/3KeW6p83GJwuNUfegAGH1m) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Building](https://open.spotify.com/album/6TziaCeqD9bpWb2GlyULmW) | 3:58 |
+| 3 | [Semu](https://open.spotify.com/track/11rWQVHyNB0Ok5LzAKosvP) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Semu](https://open.spotify.com/album/6Eqo3gZE9zuCM9kCSod2Ei) | 3:48 |
+| 4 | [Terang Bulan](https://open.spotify.com/track/1V1cJhyveqBGlssgLDcEod) | [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7) | [Terang Bulan](https://open.spotify.com/album/0cRrQUuCmCJ4rgfrAHW7Xc) | 2:43 |
+| 5 | [Selaras \(feat\. Anak\-anak\)](https://open.spotify.com/track/1zNppYGgMBlJD8a9R4F9s1) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Made Mawut](https://open.spotify.com/artist/4p86bdMabmIFf7G0eKsrCe), [Anak\-anak](https://open.spotify.com/artist/4PA9rrzLGrHIAzgdd8lkTw) | [Selaras \(feat\. Anak\-anak\)](https://open.spotify.com/album/2me9L3mF9C6T2SXabNgLNH) | 2:32 |
+| 6 | [obsessed](https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [obsessed](https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH) | 2:50 |
+| 7 | [Karena \(Ku Tak Tahu\)](https://open.spotify.com/track/2ihXhGecD4eWgHORk03DLN) | [FILM.](https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8) | [Manuskrip](https://open.spotify.com/album/6i5FXTvYFvPClPtyRj0Q7P) | 5:01 |
+| 8 | [Menjelajahi Kerinduan](https://open.spotify.com/track/3tYls6fQpu7i4XoKfPbbyR) | [Parade Hujan](https://open.spotify.com/artist/12FqhPQ5x6a1V3UeN7hD9z) | [Punar](https://open.spotify.com/album/56y8mOV8qm0KDDcow0CyOX) | 4:07 |
+| 9 | [Don't Look at Me Like That](https://open.spotify.com/track/0HV4XgpAC7n3xjYkNRZrPh) | [vanilla party](https://open.spotify.com/artist/1470A0L5LmvZg4AHnS3xrc) | [A Letter Under the Bed](https://open.spotify.com/album/0fYhEmu0bClqan7uNZWxS7) | 3:42 |
+| 10 | [Berdansa Berdancey](https://open.spotify.com/track/3jLbJfcEP5FcRv32AQYCOB) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Episode 2: Sticky Situation](https://open.spotify.com/album/6EmngjybN57GG8ivZ5VeRY) | 3:30 |
+| 11 | [Terlalu Cepat](https://open.spotify.com/track/5I3AAqrQzhDNJO3U8iocn4) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [Forever Rookie](https://open.spotify.com/album/1obGCezp3PbFNmFoutJfiZ) | 3:33 |
+| 12 | [Deep Breathe](https://open.spotify.com/track/7MUEJZlv3i5oeohNzzjbLV) | [Seagrass And The Waves](https://open.spotify.com/artist/65Jc9hPwMXPfkSo4FMFsFB), [Vika Randia](https://open.spotify.com/artist/1bB8TDS4oZ1j6zVOHd1VI8) | [Deep Breathe](https://open.spotify.com/album/5zfBhuPJ2kcf1LZahvWRRI) | 3:01 |
+| 13 | [Still Show Up In My Dreams](https://open.spotify.com/track/7IRpzzB50WVSaNgPto8J8X) | [Novascotia](https://open.spotify.com/artist/66k4IwKEoPu01TMuaQf8mT) | [Still Show Up In My Dreams](https://open.spotify.com/album/10cUjLMfzIiW04wbkjY5HJ) | 3:01 |
+| 14 | [D\(is\)pleasing](https://open.spotify.com/track/3izN9L8dmuvFz8mdaVvWEp) | [Bhanu Marais](https://open.spotify.com/artist/0lNHnWpu3fCw1Hb2y0QOSj) | [\(½\) Biograph](https://open.spotify.com/album/3cvo1VOztfBcc92nbS9HjZ) | 4:14 |
+| 15 | [Si Baik](https://open.spotify.com/track/3z95u68kKOJR6mWHhll5yq) | [Inoya House](https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB) | [Si Baik](https://open.spotify.com/album/4XX0Rgksb8B562ynOz63oV) | 4:16 |
+| 16 | [Yang Hilang Dan Kembali](https://open.spotify.com/track/4HloxctN0aVtaTUTkS92YU) | [The Monophones](https://open.spotify.com/artist/2qNkBIMEYtteU9TIzj1FDn) | [Yang Hilang Dan Kembali](https://open.spotify.com/album/3TgWuuR0vPIAlELXj6ujmj) | 5:31 |
+| 17 | [Jam 7](https://open.spotify.com/track/0n1ubTdXNGocfQnxPAy7cr) | [nahumlogo](https://open.spotify.com/artist/4OqnEEb9fFHPGlNmZL92Vr) | [Senandung Pekerja](https://open.spotify.com/album/0SUxEY7bUCi6VhpWs4M3lP) | 3:04 |
+| 18 | [Fashion Star](https://open.spotify.com/track/1iKk2lQGjltQkxqXm7SFb9) | [Helicat](https://open.spotify.com/artist/14n0XRttSZ4loKncdbUXe3) | [Fashion Star](https://open.spotify.com/album/0dnYbCK4yVF0y9dhwfFwzf) | 3:38 |
 | 19 | [Call It Your Mistake](https://open.spotify.com/track/0ChzQqTVCak89QbSa8h6oX) | [Woodland Ginger](https://open.spotify.com/artist/31YUuJ5b2ItoNYS7zknifj) | [Call It Your Mistake](https://open.spotify.com/album/5xOhQEgZgCDqKmqSQQJw8l) | 4:08 |
 | 20 | [Rain Pour Out](https://open.spotify.com/track/7duiQfpsL49c8UlRMqgUE4) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [Rain Pour Out](https://open.spotify.com/album/1nGaGKOThSNt35oLBBtno9) | 3:43 |
 | 21 | [A Shadow Haunts My Mind](https://open.spotify.com/track/6G9YE4s6kdXTf8fseBeSww) | [Nood Kink](https://open.spotify.com/artist/2GLo4KW2K9FeeJ67D2Hqt1) | [A Shadow Haunts My Mind](https://open.spotify.com/album/7M7qEP3shhxEaNmGhmtEoU) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 99 | [Past Lives](https://open.spotify.com/track/5thA4P9tQFYxFQNJXqhJW8) | [Adoracion](https://open.spotify.com/artist/2IdrP1cIBMKMzw2qxshiKF) | [Past Lives](https://open.spotify.com/album/11hQsk3ClOoOFmrOaGCpJz) | 3:54 |
 | 100 | [Hiduplah Yang Lama](https://open.spotify.com/track/7JVGsO49BhuRjDcGwk3KqQ) | [Sambadha](https://open.spotify.com/artist/7xKSiJ3Qq4uul4QDeq5cu9) | [Ruang Ruang Sandar](https://open.spotify.com/album/3bbAuyK0lNf5VnoeLPdWg6) | 3:20 |
 
-Snapshot ID: `AAAAAIFLeGNyi3MUwvG9XC43VzZH0iYs`
+Snapshot ID: `AAAAAB9H8lwolNJMyoXAJOawtpKMCPsM`

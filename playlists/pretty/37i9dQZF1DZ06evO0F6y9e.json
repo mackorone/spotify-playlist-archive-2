@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1143472,
+  "num_followers": 1143703,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADucRyqvVEByRlaKtw4kQO9",
+  "snapshot_id": "aoZDgAAAAACxYdc0LkF1Oc33OtQELf9U",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nunca Supiste Que Te Esper\u00e9",
+        "url": "https://open.spotify.com/album/3eRaUY81phIdt6XwTtLwZW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 190774,
+      "name": "Nunca Supiste Que Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/2qmIl86Sn9Zy7f8Xrz7UML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El T\u00f3xico",
         "url": "https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Supiste Que Te Esper\u00e9",
-        "url": "https://open.spotify.com/album/3eRaUY81phIdt6XwTtLwZW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 190774,
-      "name": "Nunca Supiste Que Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/2qmIl86Sn9Zy7f8Xrz7UML"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
-        }
-      ],
-      "duration_ms": 226815,
-      "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 198952,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+        }
+      ],
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
     },
     {
       "added_at": null,

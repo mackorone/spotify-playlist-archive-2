@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Amie Blu",
-  "num_followers": 1775218,
+  "num_followers": 1775041,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMAciDRbm/J3fj0Cih/nlVB4q7ZW",
+  "snapshot_id": "AAAAAKtQzGoVVrifBsCYrgCCM20NczL2",
   "tracks": [
     {
       "added_at": "2026-07-11 17:40:28",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
     },
     {
+      "added_at": "2026-08-21 04:00:20",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 187265,
+      "name": "Summer You Were Mine",
+      "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
+    },
+    {
       "added_at": "2026-07-03 04:02:27",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
@@ -57,36 +73,36 @@
       "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
     },
     {
-      "added_at": "2026-08-07 05:11:51",
+      "added_at": "2026-08-21 04:00:20",
       "album": {
-        "name": "Blue Island",
-        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+        "name": "jumping in",
+        "url": "https://open.spotify.com/album/72SmaeedSj75Z89ls7JW9O"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
         }
       ],
-      "duration_ms": 210293,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
+      "duration_ms": 182365,
+      "name": "jumping in",
+      "url": "https://open.spotify.com/track/1VkOwCb4bkYCwCFi4QyPAn"
     },
     {
-      "added_at": "2026-08-14 04:00:11",
+      "added_at": "2026-07-31 04:01:36",
       "album": {
-        "name": "g00se",
-        "url": "https://open.spotify.com/album/2sjAetVEPuQSfO3HqbT3gi"
+        "name": "Greetings From Bleak St.",
+        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
         }
       ],
-      "duration_ms": 174885,
-      "name": "always",
-      "url": "https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ"
+      "duration_ms": 226041,
+      "name": "Chemical Light",
+      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
     },
     {
       "added_at": "2026-08-07 05:11:51",
@@ -105,6 +121,86 @@
       "url": "https://open.spotify.com/track/5va7AdTu5BWzZcziPkdxSP"
     },
     {
+      "added_at": "2026-08-21 04:00:20",
+      "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/5egF45sAEJvROyvQlomzio"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/2LDLjL9TEy9HQqznnDaH3M"
+    },
+    {
+      "added_at": "2026-08-07 05:11:51",
+      "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
+    },
+    {
+      "added_at": "2026-07-31 04:01:36",
+      "album": {
+        "name": "tokyo",
+        "url": "https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 206030,
+      "name": "tokyo",
+      "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
+    },
+    {
+      "added_at": "2026-08-21 04:00:20",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/0i3wruZEDnREqgbnMQNVmd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 161308,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/6DThx0fdmdZuhG4ZrUg8oM"
+    },
+    {
+      "added_at": "2026-08-21 04:00:20",
+      "album": {
+        "name": "Love, At The End Of The World",
+        "url": "https://open.spotify.com/album/4N1jjlEFahaPfBEGBKkIEQ"
+      },
+      "artists": [
+        {
+          "name": "SEREN",
+          "url": "https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL"
+        }
+      ],
+      "duration_ms": 180768,
+      "name": "Love, At The End Of The World",
+      "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
+    },
+    {
       "added_at": "2026-08-14 04:00:11",
       "album": {
         "name": "My Love",
@@ -119,6 +215,38 @@
       "duration_ms": 248203,
       "name": "My Love",
       "url": "https://open.spotify.com/track/1EQzwySOz9MxpbPIhzj5Mh"
+    },
+    {
+      "added_at": "2026-08-14 04:00:11",
+      "album": {
+        "name": "g00se",
+        "url": "https://open.spotify.com/album/2sjAetVEPuQSfO3HqbT3gi"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 174885,
+      "name": "always",
+      "url": "https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ"
+    },
+    {
+      "added_at": "2026-07-17 04:06:59",
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 248164,
+      "name": "Good Reason",
+      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
     },
     {
       "added_at": "2026-08-07 05:12:59",
@@ -137,6 +265,54 @@
       "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
+      "added_at": "2026-08-14 04:00:11",
+      "album": {
+        "name": "Why It\u2019s Me",
+        "url": "https://open.spotify.com/album/6fFQvbElISzfZLDXQzZFg9"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "duration_ms": 165548,
+      "name": "Why It\u2019s Me",
+      "url": "https://open.spotify.com/track/5lAbeVyXLLvTJ2emBdYZkF"
+    },
+    {
+      "added_at": "2026-08-21 04:00:20",
+      "album": {
+        "name": "THIS TIME OF THE YEAR",
+        "url": "https://open.spotify.com/album/5qkkmIxIqKuU1RrF1s0dvY"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "THIS TIME OF THE YEAR",
+      "url": "https://open.spotify.com/track/4QfcVT6AtnYXiporucNGft"
+    },
+    {
+      "added_at": "2026-08-21 04:00:20",
+      "album": {
+        "name": "Heavenly Bodies",
+        "url": "https://open.spotify.com/album/3bEdIVHkADHY128d4jRy2i"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "This Must Be The End",
+      "url": "https://open.spotify.com/track/0xNmUTdY25XQocT9fcMCFk"
+    },
+    {
       "added_at": "2026-07-24 04:02:38",
       "album": {
         "name": "Lovesweet",
@@ -153,6 +329,22 @@
       "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
     },
     {
+      "added_at": "2026-08-21 04:00:20",
+      "album": {
+        "name": "Just One",
+        "url": "https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Just One",
+      "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
+    },
+    {
       "added_at": "2026-08-07 05:11:51",
       "album": {
         "name": "Lean In, Kiss Me",
@@ -167,38 +359,6 @@
       "duration_ms": 158973,
       "name": "Lean In, Kiss Me",
       "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
-    },
-    {
-      "added_at": "2026-08-14 04:00:11",
-      "album": {
-        "name": "wonder",
-        "url": "https://open.spotify.com/album/25asidAoMD1lkz3Hyo6SHL"
-      },
-      "artists": [
-        {
-          "name": "Anna Clendening",
-          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
-        }
-      ],
-      "duration_ms": 174041,
-      "name": "wonder",
-      "url": "https://open.spotify.com/track/62uYTObhyDbI6pRqqQOifI"
-    },
-    {
-      "added_at": "2026-07-31 04:01:36",
-      "album": {
-        "name": "tokyo",
-        "url": "https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 206030,
-      "name": "tokyo",
-      "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
     },
     {
       "added_at": "2026-08-07 05:13:34",
@@ -233,22 +393,6 @@
       "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
     },
     {
-      "added_at": "2026-08-14 04:00:11",
-      "album": {
-        "name": "Why It\u2019s Me",
-        "url": "https://open.spotify.com/album/6fFQvbElISzfZLDXQzZFg9"
-      },
-      "artists": [
-        {
-          "name": "Paige Fish",
-          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
-        }
-      ],
-      "duration_ms": 165548,
-      "name": "Why It\u2019s Me",
-      "url": "https://open.spotify.com/track/5lAbeVyXLLvTJ2emBdYZkF"
-    },
-    {
       "added_at": "2026-08-07 05:11:51",
       "album": {
         "name": "Chuck Timely & The Hourglass",
@@ -281,22 +425,6 @@
       "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
     },
     {
-      "added_at": "2026-07-31 04:01:36",
-      "album": {
-        "name": "Greetings From Bleak St.",
-        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
-      },
-      "artists": [
-        {
-          "name": "Josie Edwards",
-          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
-        }
-      ],
-      "duration_ms": 226041,
-      "name": "Chemical Light",
-      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
-    },
-    {
       "added_at": "2026-08-07 05:11:51",
       "album": {
         "name": "Sun and the Moon",
@@ -327,22 +455,6 @@
       "duration_ms": 217069,
       "name": "4 Seasons",
       "url": "https://open.spotify.com/track/2IGJRTV2O1ICf6V0Y2Ku8v"
-    },
-    {
-      "added_at": "2026-07-17 04:06:59",
-      "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 248164,
-      "name": "Good Reason",
-      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
     },
     {
       "added_at": "2026-07-24 04:02:38",
@@ -475,22 +587,6 @@
       "duration_ms": 252185,
       "name": "After All",
       "url": "https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ"
-    },
-    {
-      "added_at": "2026-07-10 04:02:28",
-      "album": {
-        "name": "Loveland",
-        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Notting Hill",
-      "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
     },
     {
       "added_at": "2026-06-26 04:00:34",
@@ -671,22 +767,6 @@
       "duration_ms": 157683,
       "name": "Sweet n\u2019 Sour",
       "url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix"
-    },
-    {
-      "added_at": "2026-07-17 04:06:59",
-      "album": {
-        "name": "All the Space Between",
-        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
     },
     {
       "added_at": "2026-07-24 14:27:45",
@@ -895,22 +975,6 @@
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
-    },
-    {
-      "added_at": "2026-05-22 04:53:02",
-      "album": {
-        "name": "Hit the Wall",
-        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hit the Wall",
-      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "added_at": "2026-06-12 04:52:03",
@@ -1515,22 +1579,6 @@
       "duration_ms": 175597,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
-    },
-    {
-      "added_at": "2026-04-03 04:01:40",
-      "album": {
-        "name": "Stars and Teeth",
-        "url": "https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V"
-      },
-      "artists": [
-        {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
-        }
-      ],
-      "duration_ms": 191454,
-      "name": "My Kind of Freak",
-      "url": "https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0"
     },
     {
       "added_at": "2026-03-06 05:00:07",

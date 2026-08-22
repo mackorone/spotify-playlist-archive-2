@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Luis Fonsi",
+  "description": "Lo nuevo del mundo tropical. Cover: Los \u00c1ngeles Azules y TINI",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 195546,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/33YBvWI9epkabO1hU91Nq3"
@@ -3028,6 +3028,32 @@
       "duration_ms": 165333,
       "name": "Chirriqui Chirri - Remix",
       "url": "https://open.spotify.com/track/2cJPlgUlrvZFeg8mTpOaQe"
+    },
+    {
+      "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/0Wt06Q81j311VX3YXHTmGr"
+      },
+      "artists": [
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202545,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/6CU9YxII6yaKb09In80ZSk"
     },
     {
       "album": {
@@ -7642,7 +7668,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 187833,
       "name": "Insomnio",
       "url": "https://open.spotify.com/track/6HvCnnpczfz1FQ98DK7QWZ"
@@ -9748,6 +9774,24 @@
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+    },
+    {
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/3MpPkqnlOTt4mleDGtrUi0"
+      },
+      "artists": [
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226432,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/1sbKA3XQ7CQXPF5BXwqGYy"
     },
     {
       "album": {
@@ -11968,7 +12012,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 254743,
       "name": "Nombre y Apellido",
       "url": "https://open.spotify.com/track/3mvXtXfE8rV1Co8vlSt8Gg"
@@ -12538,6 +12582,28 @@
       "duration_ms": 193731,
       "name": "Pa' Ser Feliz",
       "url": "https://open.spotify.com/track/2BsGZ3OuJzoAUftp58mLKp"
+    },
+    {
+      "album": {
+        "name": "Pa' \u00c9l",
+        "url": "https://open.spotify.com/album/5BlhVCj1nOt9XxwjAV4XDo"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Pa' \u00c9l",
+      "url": "https://open.spotify.com/track/0AT4SvaQ7yEBvPhhHBNUXf"
     },
     {
       "album": {
@@ -14484,7 +14550,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 194390,
       "name": "Roto",
       "url": "https://open.spotify.com/track/0WLqXQaD7mco1ARvghfJkR"
@@ -16191,6 +16257,28 @@
     },
     {
       "album": {
+        "name": "Te Busque",
+        "url": "https://open.spotify.com/album/0rVq9cQtPe7eFBwKzCkYo8"
+      },
+      "artists": [
+        {
+          "name": "J Salez",
+          "url": "https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230104,
+      "name": "Te Busque",
+      "url": "https://open.spotify.com/track/4AvUWE7YfM7bKms2lG3ZkV"
+    },
+    {
+      "album": {
         "name": "Te Busqu\u00e9",
         "url": "https://open.spotify.com/album/3DX1rHY2W0L0BgMp1ZkPUf"
       },
@@ -16543,6 +16631,24 @@
     },
     {
       "album": {
+        "name": "TROPiKETE",
+        "url": "https://open.spotify.com/album/1ylfWRXWvOFUmM8lhxHqWN"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210398,
+      "name": "TROPiKETE",
+      "url": "https://open.spotify.com/track/78gBVTGuM56flamuc3Y14F"
+    },
+    {
+      "album": {
         "name": "Bachata Queen",
         "url": "https://open.spotify.com/album/43RLdTuJFdB1AdlJQ9xI7m"
       },
@@ -16590,7 +16696,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 185672,
       "name": "Tu Copia de la Llave",
       "url": "https://open.spotify.com/track/6P7TCdBhj7cxqYs0v4VcI2"

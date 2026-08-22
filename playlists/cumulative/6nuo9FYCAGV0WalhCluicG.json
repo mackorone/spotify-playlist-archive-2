@@ -1177,6 +1177,28 @@
     },
     {
       "album": {
+        "name": "TRAPO 2",
+        "url": "https://open.spotify.com/album/3hL3S7AmF8zopYg4hzXS6S"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160426,
+      "name": "DOING THE MOST",
+      "url": "https://open.spotify.com/track/64Gp66BBEOOZU9fikT7xJE"
+    },
+    {
+      "album": {
         "name": "PRODIGY",
         "url": "https://open.spotify.com/album/547FLDbYIKk6BJand21U4x"
       },
@@ -2120,7 +2142,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 113437,
       "name": "KILLIN EM",
       "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
@@ -2440,7 +2462,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 151267,
       "name": "MF Doom",
       "url": "https://open.spotify.com/track/5g1zeG1QEUHE2dvx5LKNxN"
@@ -2590,6 +2612,28 @@
       "duration_ms": 104605,
       "name": "MR DND",
       "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
+    },
+    {
+      "album": {
+        "name": "Need No One (feat. VICI)",
+        "url": "https://open.spotify.com/album/3pIOWf5V8zS7V56vynnVDs"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
+          "name": "VICI",
+          "url": "https://open.spotify.com/artist/1VgmNNs0nqvTXv6mMdzyFk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157968,
+      "name": "Need No One (feat. VICI)",
+      "url": "https://open.spotify.com/track/00Q8DINwsW6Oe1kr62D2Lt"
     },
     {
       "album": {
@@ -3016,7 +3060,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 116073,
       "name": "PRINCE OF THE SCENE",
       "url": "https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6"
@@ -3300,7 +3344,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 167244,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0"

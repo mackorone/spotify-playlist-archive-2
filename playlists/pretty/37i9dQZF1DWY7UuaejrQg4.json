@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 95334,
+  "num_followers": 95348,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHo4UhelFq2lvR+eFclmX2E7eg6Q",
+  "snapshot_id": "AAAAACyo/H9J+D2DkiYY9YdABpgKzBwJ",
   "tracks": [
     {
       "added_at": "2024-03-18 13:22:22",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "NOTHIN LIKE U / CHANCES",
-        "url": "https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 218187,
-      "name": "CHANCES",
-      "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 177697,
       "name": "Just A Stranger (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "NOTHIN LIKE U / CHANCES",
+        "url": "https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 218187,
+      "name": "CHANCES",
+      "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Make My Bed",
-        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Francis Trouble",
         "url": "https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+        "name": "Make My Bed",
+        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 338000,
-      "name": "tkm",
-      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
+      "duration_ms": 174666,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "tkm",
+      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Moodie",
         "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 208200,
       "name": "No Going Back",
       "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Pussy Is God",
-        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Pussy Is God",
-      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -983,18 +967,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+        "name": "Pussy Is God",
+        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
+      "duration_ms": 205533,
+      "name": "Pussy Is God",
+      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1011,6 +995,22 @@
       "duration_ms": 255397,
       "name": "Peach",
       "url": "https://open.spotify.com/track/6M8qU2rDpeRQLE88DF2xtq"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1400,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "nightmares",
+        "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 207003,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -1459,6 +1475,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Solarize",
         "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
       },
@@ -1471,22 +1503,6 @@
       "duration_ms": 213000,
       "name": "Swimming Pool Summer",
       "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1511,18 +1527,34 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "nightmares",
-        "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY"
       },
       "artists": [
         {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 207003,
-      "name": "nightmares",
-      "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
+      "duration_ms": 184693,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Cheetah Tongue",
+      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1555,22 +1587,6 @@
       "duration_ms": 308346,
       "name": "Heat Wave",
       "url": "https://open.spotify.com/track/43E0f1S0rOGCo6YYRYHjHP"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Cheetah Tongue",
-      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1611,38 +1627,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Pristine",
-      "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Historian",
         "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 184760,
       "name": "Vowels",
       "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Pristine",
+      "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
     }
   ],
   "unique_name": "Best of Indie 2018",

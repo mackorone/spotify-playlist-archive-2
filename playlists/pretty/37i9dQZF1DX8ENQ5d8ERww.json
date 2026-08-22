@@ -1,12 +1,12 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 13295,
+  "num_followers": 13294,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE1DXzXOstGa7unuSAOu7GOwG63a",
+  "snapshot_id": "AAAAAKQBnm0UC7zv8VyJZfIOQayDlef1",
   "tracks": [
     {
       "added_at": "2026-03-19 09:16:31",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-03-19 09:16:31",
       "album": {
+        "name": "Noochbrand",
+        "url": "https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25"
+      },
+      "artists": [
+        {
+          "name": "Brandh\u00e4rd",
+          "url": "https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Noochbrand",
+      "url": "https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd"
+    },
+    {
+      "added_at": "2026-03-19 09:16:31",
+      "album": {
         "name": "Analfabad",
         "url": "https://open.spotify.com/album/1lOFtEufGCFM9Mwy3DgqLb"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 221426,
       "name": "Siemis",
       "url": "https://open.spotify.com/track/2kqXy5VfY8683DXZo7WZ77"
-    },
-    {
-      "added_at": "2026-03-19 09:16:31",
-      "album": {
-        "name": "Noochbrand",
-        "url": "https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25"
-      },
-      "artists": [
-        {
-          "name": "Brandh\u00e4rd",
-          "url": "https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Noochbrand",
-      "url": "https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd"
     },
     {
       "added_at": "2026-03-19 09:16:31",

@@ -4,7 +4,7 @@
 
 > aqueles papo de amor tlgd não?
 
-780 songs - 1 day 14 hr 8 min
+781 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Cheiro de Despedida](https://open.spotify.com/track/4jtkR4tu1aLpfFmPZhUaJq) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 3:11 | 2025-11-14 |  |
 | [CHOVE \(calor em sp\)](https://open.spotify.com/track/5WqMwoLQyTVQY7OhkMKukX) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [CHOVE \(calor em sp\)](https://open.spotify.com/album/69BgJJZqwM497GrqP4LqtS) | 3:19 | 2023-05-05 | 2023-06-17 |
 | [CHUCRO BUARQUE](https://open.spotify.com/track/5FlzcTY5GRJyPfhxaCDRab) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [ABAIXO DO RADAR](https://open.spotify.com/album/6ap64VE60iIhMk2TAA1ikK) | 2:06 | 2024-07-12 | 2024-08-24 |
+| [Chuva cai](https://open.spotify.com/track/6yZkQJ9pYyrSmfXs8FrMP9) | [JayPluggz](https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe) | [Chuva cai](https://open.spotify.com/album/1EOm8FqYN3b3v5j9YeTVrT) | 2:05 | 2026-08-21 |  |
 | [CHÁZIN](https://open.spotify.com/track/3yPLovCYNWAD2hCO9Zaeyg) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q), [Mati](https://open.spotify.com/artist/6q4OTLGMcroTVXFFKSkzzC) | [ALÉM DE LOVE](https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3) | 3:16 | 2022-09-02 | 2022-09-24 |
 | [Cicatrizes](https://open.spotify.com/track/5IwqCsTpai6Q2wqv1Xbg3F) | [SETE MC](https://open.spotify.com/artist/0ZTdh1wb9jKAnk6ApKrD35), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L) | [Cicatrizes](https://open.spotify.com/album/1qE7Q8s7AigiiTqTpSOEn1) | 2:15 | 2023-10-13 | 2023-10-30 |
 | [Ciclos](https://open.spotify.com/track/4SKnW8k3OxrPXP8XRUSXRj) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [skrabeats](https://open.spotify.com/artist/3UkoU5gDhtZ9hbxFFVtn26), [Jadeco](https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY) | [Para todas as mulheres que já rimei Pt\. 2](https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf) | 2:16 | 2025-04-07 | 2025-09-13 |

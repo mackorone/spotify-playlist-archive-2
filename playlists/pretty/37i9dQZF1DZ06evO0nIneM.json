@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 95379,
+  "num_followers": 95389,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAClOKGu0ZD+gZvmKdYbR2s8",
+  "snapshot_id": "aoZDgAAAAACS/9DIL/OveJp5uyHzt9Kg",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Monsters Slapen Nooit",
-      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omarm Me",
         "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
       },
@@ -743,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
       "artists": [
         {
@@ -752,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 434680,
-      "name": "De Mooiste Verliezers",
-      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
+      "duration_ms": 232840,
+      "name": "Monsters Slapen Nooit",
+      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 282866,
       "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 434680,
+      "name": "De Mooiste Verliezers",
+      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
     },
     {
       "added_at": null,

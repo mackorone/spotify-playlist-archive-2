@@ -1,12 +1,12 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 535445,
+  "num_followers": 535411,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMuWyxz1l3Z9bvlWCQRX57vDhIY3",
+  "snapshot_id": "AAAAAJout2pjtwl5szf2Ekaf/itT0a00",
   "tracks": [
     {
       "added_at": "2026-07-19 14:57:45",
@@ -419,22 +419,18 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "Amor de Vago",
-        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Malandro",
-          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 188423,
-      "name": "Amor de Vago",
-      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
+      "duration_ms": 242413,
+      "name": "Tu Carcel - En Vivo",
+      "url": "https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu"
     },
     {
       "added_at": "2026-07-19 14:57:45",
@@ -455,18 +451,22 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        "name": "Amor de Vago",
+        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
         }
       ],
-      "duration_ms": 242413,
-      "name": "Tu Carcel - En Vivo",
-      "url": "https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu"
+      "duration_ms": 188423,
+      "name": "Amor de Vago",
+      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
     },
     {
       "added_at": "2026-07-19 14:57:45",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "Soy Favela",
-        "url": "https://open.spotify.com/album/1S3ANUh7napknhM3pqConG"
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Soy Favela",
-      "url": "https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg"
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2026-07-19 14:57:45",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+        "name": "Soy Favela",
+        "url": "https://open.spotify.com/album/1S3ANUh7napknhM3pqConG"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+      "duration_ms": 166000,
+      "name": "Soy Favela",
+      "url": "https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg"
     },
     {
       "added_at": "2026-07-19 14:57:45",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
-    },
-    {
-      "added_at": "2026-07-19 14:57:45",
-      "album": {
         "name": "El Camino M\u00e1s Largo",
         "url": "https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 298000,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl"
+    },
+    {
+      "added_at": "2026-07-19 14:57:45",
+      "album": {
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
     },
     {
       "added_at": "2026-07-19 14:57:45",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "La Cuarta Estrella (Versi\u00f3n Hinchada)",
-        "url": "https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi"
-      },
-      "artists": [
-        {
-          "name": "PALMITO",
-          "url": "https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v"
-        }
-      ],
-      "duration_ms": 135270,
-      "name": "La Cuarta Estrella (Versi\u00f3n Hinchada)",
-      "url": "https://open.spotify.com/track/1QPjHLJWBXvE5Ymck4wtfW"
-    },
-    {
-      "added_at": "2026-07-19 14:57:45",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 183547,
       "name": "ARRANC\u00c1RMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "added_at": "2026-07-19 14:57:45",
+      "album": {
+        "name": "La Cuarta Estrella (Versi\u00f3n Hinchada)",
+        "url": "https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi"
+      },
+      "artists": [
+        {
+          "name": "PALMITO",
+          "url": "https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v"
+        }
+      ],
+      "duration_ms": 135270,
+      "name": "La Cuarta Estrella (Versi\u00f3n Hinchada)",
+      "url": "https://open.spotify.com/track/1QPjHLJWBXvE5Ymck4wtfW"
     },
     {
       "added_at": "2026-07-19 14:57:45",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "Tierra de Campeones",
-        "url": "https://open.spotify.com/album/5x8nm1g0z1w9rOTnEZtH9v"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 132044,
-      "name": "Argentino yo soy",
-      "url": "https://open.spotify.com/track/7KtIu5XQnhlBYE3nQWDeXs"
-    },
-    {
-      "added_at": "2026-07-19 14:57:45",
-      "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 237546,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+    },
+    {
+      "added_at": "2026-07-19 14:57:45",
+      "album": {
+        "name": "Tierra de Campeones",
+        "url": "https://open.spotify.com/album/5x8nm1g0z1w9rOTnEZtH9v"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 132044,
+      "name": "Argentino yo soy",
+      "url": "https://open.spotify.com/track/7KtIu5XQnhlBYE3nQWDeXs"
     }
   ],
   "unique_name": "Previa Futbolera",

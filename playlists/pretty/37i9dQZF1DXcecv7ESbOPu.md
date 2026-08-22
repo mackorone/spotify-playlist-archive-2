@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Augustine, STELLA LEFTY och DJ Suzy med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,369 likes - 97 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,516 likes - 97 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 57 | [Ryggraden](https://open.spotify.com/track/2IXORmXw3BXaorESkcpwZ7) | [Året Var](https://open.spotify.com/artist/1IuIAS0zkKRpITz8IMNa3i) | [Ryggraden](https://open.spotify.com/album/2vUb6OVC4T0aCpueWVlOcC) | 4:02 |
 | 58 | [Two Roads](https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Two Roads](https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU) | 4:00 |
 | 59 | [Pipe Dream](https://open.spotify.com/track/5C3OWPfMnUxeJUdnuz9u1a) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Herzsprung](https://open.spotify.com/album/0bOMbuBlJbKyajSoFMJxf1) | 3:01 |
-| 60 | [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 |
-| 61 | [Love Me](https://open.spotify.com/track/6sxPkot6EBYh5KRKzOfwBC) | [Selma Eriksen](https://open.spotify.com/artist/5VuKpwoamJVRcoB1VtTbGz) | [Love Me](https://open.spotify.com/album/0Xt30AWKQG2VirORfC81tT) | 2:16 |
-| 62 | [Worst behavior](https://open.spotify.com/track/2pbspg7cCzZwPfIG4Ci4K0) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Worst behavior](https://open.spotify.com/album/3FOvQmvu8pPCOTPhfgrGBO) | 2:55 |
-| 63 | [Hold Me \- Single Edit](https://open.spotify.com/track/2fpQ7S806wagh4HxPgNXVK) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [Hold Me](https://open.spotify.com/album/3jPzEvOwlISHikBvC1CUsx) | 3:34 |
+| 60 | [BedHead](https://open.spotify.com/track/5d3QY0Kq63rwQqPDe5usTs) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/1mVpDxO2tC5KB65ofEwVEc) | 5:02 |
+| 61 | [Worst behavior](https://open.spotify.com/track/2pbspg7cCzZwPfIG4Ci4K0) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Worst behavior](https://open.spotify.com/album/3FOvQmvu8pPCOTPhfgrGBO) | 2:55 |
+| 62 | [Hold Me \- Single Edit](https://open.spotify.com/track/1b0eOYCtux8sggyQYQkEOD) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [Hold Me](https://open.spotify.com/album/2XCkJyzLJl361hw0WQzGLr) | 3:34 |
+| 63 | [Lucky Ones](https://open.spotify.com/track/4xStcEBEoOYfBH0fTMM5hN) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [carteblanche](https://open.spotify.com/artist/6laKnr07BfCDke48edvIPG) | [Lucky Ones](https://open.spotify.com/album/4wkd115wLpSfGKS4bFlQsx) | 3:22 |
 | 64 | [Eat Me Better](https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Eat Me Better](https://open.spotify.com/album/4fhbIL0tPEjPa3abGhPIlk) | 3:08 |
 | 65 | [U Found Love](https://open.spotify.com/track/1YOEKT35pfkIjXbS5MvCRZ) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [GIVE LOVE](https://open.spotify.com/artist/7gsQuoOzTeutnvENdKXk5d) | [Body Action](https://open.spotify.com/album/686WFrZA71ItfkxVApZLNi) | 5:40 |
 | 66 | [City of thirst](https://open.spotify.com/track/0JiZTuTQcRy40teBIImNJd) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV) | [City of thirst](https://open.spotify.com/album/2hrUyn2T3v7IjFu5YD8kgM) | 3:30 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 87 | [Light That Never Goes Out](https://open.spotify.com/track/5CqrjbsznxZNJ914mTqAsH) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Light That Never Goes Out](https://open.spotify.com/album/5F6ViTRGVxJD8yNiVZy9Ui) | 2:50 |
 | 88 | [EDGE OF VEGAS](https://open.spotify.com/track/0pBqWYVX7xbxIRdcI2RxW5) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [EDGE OF VEGAS](https://open.spotify.com/album/3KpH2DBCKo1lF8wNZxo4NU) | 3:40 |
 | 89 | [SABR](https://open.spotify.com/track/5xL3o0xOyLiHQ5J7zhxQIE) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [SABR](https://open.spotify.com/album/6TWAS7oAvNtpF019v2MYne) | 2:42 |
-| 90 | [Track 1](https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [9](https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7) | 0:00 |
+| 90 | [Rullande muller](https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [9](https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7) | 4:26 |
 | 91 | [Sign of the Times](https://open.spotify.com/track/3A5JKGTWej34nGhG2PVYqA) | [Robert Marcko](https://open.spotify.com/artist/5M0spwcpLFEbxPsv1t1KFu) | [Sign of the Times](https://open.spotify.com/album/6uzAGVKbKhLgYWSk0TGlu4) | 2:48 |
 | 92 | [Earthbound Spaceflight](https://open.spotify.com/track/5OjcxwxGERIUsdYPgsFQrd) | [The Hawkins](https://open.spotify.com/artist/39t8rOgHVWtzD0782bDAjs) | [Earthbound Spaceflight](https://open.spotify.com/album/2cLX5pvod288osbJny2TYg) | 4:49 |
 | 93 | [Participation Award](https://open.spotify.com/track/2kVvIH7mSnPiH68B9SEnbx) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Participation Award](https://open.spotify.com/album/18Auq72Udu7nX6JLQbrGzd) | 2:17 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 96 | [Say Something](https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Say Something](https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i) | 3:48 |
 | 97 | [Ain't No Game](https://open.spotify.com/track/1hRazzupiYrnYYUdpNhncL) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ain't No Game](https://open.spotify.com/album/3wQeApJ63jTGhdyvzYMvLX) | 2:41 |
 
-Snapshot ID: `AAAAAN0SlI8y03szAD8NNXtmD0F4+900`
+Snapshot ID: `AAAAAF3mlmB1szmTxHk2ovrW/hE9o7NJ`

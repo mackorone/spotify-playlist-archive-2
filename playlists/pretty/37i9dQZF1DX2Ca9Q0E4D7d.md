@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,244 likes - 77 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,263 likes - 77 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 76 | [Echoes 64Hz\-74hz](https://open.spotify.com/track/0aev76gjBWyQIdBV3POGWK) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Echoes 64Hz\-74hz](https://open.spotify.com/album/4jVPzu4Vb9r36dCANI4gkW) | 2:22 |
 | 77 | [Pure Beta Binaural beat \- Increased Concentration](https://open.spotify.com/track/31sVwkyXHzYVmvIWPeGMp3) | [Miracle Tone](https://open.spotify.com/artist/40Fj46UX9zICwQk10sRrIC) | [Binaural Beats \- Brainwave Symphony](https://open.spotify.com/album/5YdEDCuKxG6ZaGBMoNNB9y) | 5:11 |
 
-Snapshot ID: `AAAAAJUMGKVp0Y9IEzOhK7ljpl793wSq`
+Snapshot ID: `AAAAAGlWPQjEa+HIS9tcm2luEPW7Xawk`

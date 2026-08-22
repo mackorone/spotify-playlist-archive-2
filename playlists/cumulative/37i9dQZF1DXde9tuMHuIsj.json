@@ -1079,6 +1079,44 @@
     },
     {
       "album": {
+        "name": "ALL WHITE REMIX (feat. Conep, VEI HABACHE)",
+        "url": "https://open.spotify.com/album/6qYxkhMJ2vzxkRrlXzsP1m"
+      },
+      "artists": [
+        {
+          "name": "FANTA ROSARIO",
+          "url": "https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN"
+        },
+        {
+          "name": "Tommy Blanco",
+          "url": "https://open.spotify.com/artist/37GpjLgunGgS7iDMCp5Cch"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "VEI HABACHE",
+          "url": "https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353000,
+      "name": "ALL WHITE REMIX (feat. Conep, VEI HABACHE)",
+      "url": "https://open.spotify.com/track/1u8ISwHTmcb1eEr7xWuMtT"
+    },
+    {
+      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -2344,7 +2382,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 185732,
       "name": "Burlao",
       "url": "https://open.spotify.com/track/4vrvfnCLPPVblKITtSsKUA"
@@ -6426,6 +6464,32 @@
       "duration_ms": 173292,
       "name": "Hunnids",
       "url": "https://open.spotify.com/track/6ccheZDyfp4DNm71GMba9n"
+    },
+    {
+      "album": {
+        "name": "HVRACAN",
+        "url": "https://open.spotify.com/album/6T4dIY0EFEUfOXiuL7ZpNh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "HVRACAN",
+      "url": "https://open.spotify.com/track/6oEYzZvJ3pSD1shRCjqB2Z"
     },
     {
       "album": {
@@ -12838,7 +12902,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 245538,
       "name": "TUSSI",
       "url": "https://open.spotify.com/track/735b3AKwQfuX1DQdUQmTs2"

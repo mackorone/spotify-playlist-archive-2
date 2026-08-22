@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,443 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,440 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 16 | [Fogueira de uma Paixão \- Ao Vivo](https://open.spotify.com/track/0iwQvF7iYRyIIp5gLW91kG) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Eu Sou Assim \(Ao Vivo\)](https://open.spotify.com/album/1qroRvkXKaPUrUU3glucgN) | 3:24 |
 | 17 | [AMANHÃ](https://open.spotify.com/track/7CAc04zrV9DQlxoxjjpQsq) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:56 |
 | 18 | [Casa de Noca](https://open.spotify.com/track/2CNz3RMSyPMb9OWaPLU6CS) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:10 |
-| 19 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
-| 20 | [De Pouco a Pouco \- Ao Vivo](https://open.spotify.com/track/56YhyWf8hkBLoRMvBJrlIS) | [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [De Pouco a Pouco \(Ao Vivo\)](https://open.spotify.com/album/65x9tbSbI1wJmIeisC0mDY) | 4:48 |
+| 19 | [De Pouco a Pouco \- Ao Vivo](https://open.spotify.com/track/56YhyWf8hkBLoRMvBJrlIS) | [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [De Pouco a Pouco \(Ao Vivo\)](https://open.spotify.com/album/65x9tbSbI1wJmIeisC0mDY) | 4:48 |
+| 20 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
 | 21 | [Tua \- Ao Vivo](https://open.spotify.com/track/6NYGIhDbUMfAZgBYt11c5Z) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Tua \(Ao Vivo\)](https://open.spotify.com/album/0o1WUvRXTUtf96kmcMfsDW) | 2:50 |
 | 22 | [Leve](https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Améfrica](https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE) | 3:27 |
 | 23 | [Pagode de Mulher](https://open.spotify.com/track/6LeFKU9Jl3tdfrhKZzBwqu) | [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd), [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy), [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Pagode de Mulher](https://open.spotify.com/album/3k3Jo3udbIGxfaneTsUNfB) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
 | 50 | [Bora Viver \- Ao Vivo](https://open.spotify.com/track/6yxIybVVgGKeln8WMVT2SV) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd) | [Bora Viver \(Ao Vivo\)](https://open.spotify.com/album/6gxUMJfrcRUcEUJrKlP4Do) | 2:49 |
 
-Snapshot ID: `AAAAAMY0EaB+C2kEGyt0TYA+O/dthdX6`
+Snapshot ID: `AAAAAH1lGalO+QnuZWRXDfZUOjALpfFz`

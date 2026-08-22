@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: SERIOUS BACON, PP KRIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,689 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,700 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [พระเอก \(Prince Charming\)](https://open.spotify.com/track/4LA05aGTan7ABeAYaLIL0l) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [พระเอก \(Prince Charming\)](https://open.spotify.com/album/5Fvwxjs1m22hV0qkgMmrY9) | 3:49 |
 | 50 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 
-Snapshot ID: `AAAAAEAvxchSHSZrSq8Roz5w0/lOcxRh`
+Snapshot ID: `AAAAADCvMKeXoIi8NUu4CmFRZdXcHMNy`

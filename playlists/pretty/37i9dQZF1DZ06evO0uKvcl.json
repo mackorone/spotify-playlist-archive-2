@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31461,
+  "num_followers": 31463,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAATdhDmLH09SmAsPHlYAPf1",
+  "snapshot_id": "aoZDgAAAAACNj+Osc6rjwDxJw6WIA93x",
   "tracks": [
     {
       "added_at": null,
@@ -334,11 +334,15 @@
         {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 223946,
-      "name": "Rockin' Daddy",
-      "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
+      "duration_ms": 139826,
+      "name": "Do The Do",
+      "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
     },
     {
       "added_at": null,
@@ -414,15 +418,11 @@
         {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 139826,
-      "name": "Do The Do",
-      "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
+      "duration_ms": 223946,
+      "name": "Rockin' Daddy",
+      "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Howlin' Wolf Boogie",
+      "url": "https://open.spotify.com/track/4N23sdWGe9hKdcxRto6bQx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
         "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
       },
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
-        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Howlin' Wolf Boogie",
-      "url": "https://open.spotify.com/track/4N23sdWGe9hKdcxRto6bQx"
+      "duration_ms": 162093,
+      "name": "I Better Go Now - Single Version",
+      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
     },
     {
       "added_at": null,
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 162093,
-      "name": "I Better Go Now - Single Version",
-      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
+      "duration_ms": 191640,
+      "name": "You Can't Be Beat - Single Version",
+      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 175160,
       "name": "Stop Using Me",
       "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "You Can't Be Beat - Single Version",
-      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf Greatest Songs",
-        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 191194,
-      "name": "Color And Kind",
-      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Message To The Young",
         "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 161760,
       "name": "I Smell A Rat",
       "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 191194,
+      "name": "Color And Kind",
+      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Mi Compa el Chino en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Jacinto en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 200930,
       "name": "06 casa /x\\",
       "url": "https://open.spotify.com/track/7marYBs5D4oXjO1lz7IqlO"
@@ -2671,6 +2671,28 @@
     },
     {
       "album": {
+        "name": "daddy issues",
+        "url": "https://open.spotify.com/album/1wMGOeO5K80oF8c6CHaYce"
+      },
+      "artists": [
+        {
+          "name": "Sophie Werner",
+          "url": "https://open.spotify.com/artist/11UmbzU1QdsfvBH6ECpUbq"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "daddy issues",
+      "url": "https://open.spotify.com/track/6yWsuWu4Cz96nYg7QVfyEs"
+    },
+    {
+      "album": {
         "name": "Dame Amor (Remix)",
         "url": "https://open.spotify.com/album/5jeAHqUbXmNPkgALTXex3a"
       },
@@ -2991,6 +3013,28 @@
     },
     {
       "album": {
+        "name": "DIAS LLUVIOSOS",
+        "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
+      },
+      "artists": [
+        {
+          "name": "Jas Marty",
+          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "DIAS LLUVIOSOS",
+      "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
+    },
+    {
+      "album": {
         "name": "ENTROP\u00cdA",
         "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
@@ -3024,7 +3068,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 142153,
       "name": "DIME",
       "url": "https://open.spotify.com/track/76tAhDTUBolHxn2wOtxBlP"
@@ -3050,7 +3094,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 189600,
       "name": "DIMEQ?!",
       "url": "https://open.spotify.com/track/041aBasKTvxbf5AzsxRZ34"
@@ -3870,7 +3914,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 223256,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/7IJdmzC4XZmFwSG1N24gkH"
@@ -7344,7 +7388,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 171428,
       "name": "Mu\u00e9rdeme",
       "url": "https://open.spotify.com/track/3lGIAuak7qwNY77Nq4weDw"
@@ -8232,6 +8276,24 @@
       "duration_ms": 131608,
       "name": "Obsesionado Contigo",
       "url": "https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54"
+    },
+    {
+      "album": {
+        "name": "obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/7zLndJiQEVeRULhARVN2Z2"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185460,
+      "name": "obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/2DVTKBujmxbqplKpTD5gCU"
     },
     {
       "album": {
@@ -9967,6 +10029,28 @@
     },
     {
       "album": {
+        "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141829,
+      "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4"
+    },
+    {
+      "album": {
         "name": "SE NOS HIZO TARDE",
         "url": "https://open.spotify.com/album/1kdWrzPf3FBWR0hldmSg0K"
       },
@@ -10298,6 +10382,28 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "album": {
+        "name": "Sirena",
+        "url": "https://open.spotify.com/album/58wWPmqLqwmcxKTXujyAcM"
+      },
+      "artists": [
+        {
+          "name": "Clothing",
+          "url": "https://open.spotify.com/artist/2LKgjzXv4DgpLLnGEjSsLc"
+        },
+        {
+          "name": "Estrella del Sol",
+          "url": "https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269289,
+      "name": "Sirena",
+      "url": "https://open.spotify.com/track/522XRQYWHYZ7BA64eoYgJN"
     },
     {
       "album": {

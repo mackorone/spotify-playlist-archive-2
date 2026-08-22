@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Another Spring",
+        "url": "https://open.spotify.com/album/23ajIyQZEpNlbiol3VlqZI"
+      },
+      "artists": [
+        {
+          "name": "Finn Rees",
+          "url": "https://open.spotify.com/artist/4VRtrl4vjdooevtaWYZtKb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203255,
+      "name": "Another Spring",
+      "url": "https://open.spotify.com/track/3qBtIPqZrDIPEihiVGurKi"
+    },
+    {
+      "album": {
         "name": "apartment",
         "url": "https://open.spotify.com/album/6dhxa1azr2g6TAC1NBYk1N"
       },
@@ -504,6 +522,24 @@
       "duration_ms": 233095,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
+    },
+    {
+      "album": {
+        "name": "Bonanza",
+        "url": "https://open.spotify.com/album/4vOUZrCFX1opu7nkWc5r5V"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176296,
+      "name": "Bonanza",
+      "url": "https://open.spotify.com/track/3jKm9dqk7PdQXIF3KlPpYT"
     },
     {
       "album": {
@@ -1045,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Return of Earslime",
+        "url": "https://open.spotify.com/album/3ku67RKb0fvw1XTZWCdaTI"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        },
+        {
+          "name": "Earslime",
+          "url": "https://open.spotify.com/artist/5s4stwZjjQG41GYGKdlBfn"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197412,
+      "name": "Desol",
+      "url": "https://open.spotify.com/track/61VPKGjxPlyQVS3uQyJURK"
+    },
+    {
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -1484,7 +1542,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 153600,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/5eiK2HgzkMrnuW8OXiJxXb"
@@ -1852,7 +1910,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 145157,
       "name": "Head Lights",
       "url": "https://open.spotify.com/track/4siDlNbBBuqE8AuNMhQ6eS"
@@ -2744,7 +2802,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
@@ -3574,7 +3632,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 131596,
       "name": "Sof\u00eda y yo",
       "url": "https://open.spotify.com/track/2U61szJbThDdjNh0VJjhXp"
@@ -3628,7 +3686,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 209000,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/6czrE7pdeJF7yxTvEVHBr6"

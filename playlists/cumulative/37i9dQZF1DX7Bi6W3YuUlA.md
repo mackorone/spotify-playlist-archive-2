@@ -2,9 +2,9 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip\-hop\. Cover: Caam1k
+> Inspirational hip\-hop\. Cover: Skilla Baby
 
-565 songs - 1 day 4 hr 25 min
+567 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Stop](https://open.spotify.com/track/25zS8gq7dkaXieDRMuj5vS) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Stop](https://open.spotify.com/album/4OvPeGJUu03SZ6ocHlxs5W) | 2:42 | 2022-05-28 | 2022-08-10 |
 | [Strange Things](https://open.spotify.com/track/7m2mxtPYJV3O7JNcH9Oi2J) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp) | [Strange Things](https://open.spotify.com/album/5xVRkKMnWJcA8y5NSJhZs1) | 4:06 | 2021-12-11 | 2022-07-29 |
 | [STRENGTH AND SONG](https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [STRENGTH AND SONG](https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw) | 3:33 | 2025-05-09 |  |
+| [Strength In Numbers \(with Erica Campbell\)](https://open.spotify.com/track/4wJNAX7Rnwvxl64HCN5CTj) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [The Price Of Fame](https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu) | 3:22 | 2026-08-21 |  |
 | [Striking Matches \(feat\. 1K Phew & TNED\)](https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5) | [theBeatbreaker](https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [TNED](https://open.spotify.com/artist/1wG3mhMC241gq1jwwRsBHT) | [Heard Not Seen III](https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk) | 3:15 | 2021-12-11 | 2022-10-21 |
 | [Stripes](https://open.spotify.com/track/21PO2UTiAZkedJLJBVT6Hy) | [Dennis Gorcea](https://open.spotify.com/artist/2BlEK9X2tdzVcnjbPIpAW6), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Stripes](https://open.spotify.com/album/7nGxvnvZIlfnYud14AqEwE) | 3:46 | 2021-12-11 | 2022-07-29 |
 | [Strongest](https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV), [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [Strongest](https://open.spotify.com/album/742rwpA2b9UfLhvg0LeI8Q) | 3:11 | 2024-06-25 | 2024-10-05 |
@@ -497,6 +498,7 @@
 | [The Offering](https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [The Offering](https://open.spotify.com/album/2M3BwnvthgGXqU4gcmXs3c) | 1:46 | 2022-05-28 | 2023-02-22 |
 | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/track/0FhJlX7tfC1FPkRxu5vaPa) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/album/5tV2bocoFi3meMBfiK2JjU) | 3:06 | 2026-01-23 |  |
 | [The One Where I Talk To God](https://open.spotify.com/track/6ZW8f8xNkauNEKBQthQaas) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [Marty For President 2](https://open.spotify.com/album/5q0lLOpbosrUJTR3oRztJw) | 3:21 | 2021-12-11 | 2022-11-19 |
+| [The Price of Fame](https://open.spotify.com/track/3yCdBX4Jkhu6BPiZ7aEWHM) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [The Price Of Fame](https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu) | 3:13 | 2026-08-21 |  |
 | [The Truth](https://open.spotify.com/track/4zgT4ofik5gzGZGTUzhAfX) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [The Truth](https://open.spotify.com/album/1eLtVuTe9osRrF2XhfvaH2) | 2:47 | 2025-11-07 |  |
 | [The Very Best](https://open.spotify.com/track/2M1KyNwYomukvS9luSdhWw) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [The Very Best](https://open.spotify.com/album/4S0QVgdgtTbl63O18ydUiP) | 3:54 | 2025-01-24 | 2026-04-25 |
 | [The World](https://open.spotify.com/track/5MuCSfKyMqYXFHOUOZamYQ) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [The World](https://open.spotify.com/album/2Kv8p3JE1kS6H0znOkFwqS) | 2:05 | 2024-06-25 | 2026-04-25 |

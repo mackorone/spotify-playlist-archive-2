@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 176094,
       "name": "Kalyana Haal",
       "url": "https://open.spotify.com/track/0xaVLFbze6aoUnym4GsMUE"
@@ -8142,6 +8142,28 @@
       "duration_ms": 221320,
       "name": "Oleander",
       "url": "https://open.spotify.com/track/0zqnsKPshlVP1K1tT1J8Qi"
+    },
+    {
+      "album": {
+        "name": "OLKDMD",
+        "url": "https://open.spotify.com/album/4CwdXyRipfdslAaG9o9TZz"
+      },
+      "artists": [
+        {
+          "name": "ThudWiser",
+          "url": "https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp"
+        },
+        {
+          "name": "Nomadic Voice",
+          "url": "https://open.spotify.com/artist/1oze8SLXENyjFZJbdfemfT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160945,
+      "name": "OLKDMD",
+      "url": "https://open.spotify.com/track/3vAHj284JXdJhpnPbZdzMN"
     },
     {
       "album": {

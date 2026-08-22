@@ -1,12 +1,12 @@
 {
   "description": "Drill scenes connect. Cover: Dave & Central Cee",
-  "num_followers": 162306,
+  "num_followers": 162308,
   "original_name": "City to City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALqvQDf9T9sC7ck3jywO5z3EYz6Z",
+  "snapshot_id": "AAAAANFx2nGTcUogakw08XF2+DMVEPu2",
   "tracks": [
     {
       "added_at": "2023-08-18 08:47:58",
@@ -979,22 +979,26 @@
     {
       "added_at": "2023-08-18 08:47:58",
       "album": {
-        "name": "2 Mins of Pain (feat. Alborosie)",
-        "url": "https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx"
+        "name": "Money Can't Buy Happiness",
+        "url": "https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
         },
         {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Young Adz",
+          "url": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
         }
       ],
-      "duration_ms": 136695,
-      "name": "2 Mins of Pain (feat. Alborosie)",
-      "url": "https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi"
+      "duration_ms": 187672,
+      "name": "Burner on Deck (feat. Pop Smoke & Young Adz)",
+      "url": "https://open.spotify.com/track/65vHYhe2AprpDBHBTpOBaE"
     }
   ],
   "unique_name": "City to City",

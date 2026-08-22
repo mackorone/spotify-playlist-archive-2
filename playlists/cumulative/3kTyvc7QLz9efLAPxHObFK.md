@@ -4,7 +4,7 @@
 
 > 
 
-3,186 songs - 6 day 20 hr 1 min
+3,188 songs - 6 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2649,6 +2649,7 @@
 | [TAKE IT EASY!](https://open.spotify.com/track/7HJf1o1fQcuUdPPkqFaoM7) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1), [La Casa de Hardcore](https://open.spotify.com/artist/1FbJcce470IZcy3BM2wKYZ) | [TAKE IT EASY!](https://open.spotify.com/album/7vazEgTC1qdpSCe868dw3v) | 3:22 | 2022-11-06 |  |
 | [Take Me](https://open.spotify.com/track/2iHV4dQy0ZYAql1dEtV3cu) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Kowloon](https://open.spotify.com/album/7IWkvEyBowUA1MN9ZMQg6n) | 3:16 | 2024-05-13 |  |
 | [Take Me](https://open.spotify.com/track/6FmzblvIctsKRHq2oKbKZl) | [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [Take Me](https://open.spotify.com/album/1Q8ttfB7gaQJxajumAavFZ) | 3:06 | 2023-06-02 |  |
+| [TAKE ME 2 THE RAVE](https://open.spotify.com/track/7dwktGj5kamioU9G3freIb) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [TAKE ME 2 THE RAVE](https://open.spotify.com/album/0yAYDyzhWN6yRv8kdbN8U8) | 2:21 | 2026-08-21 |  |
 | [TAKE ME AWAY](https://open.spotify.com/track/66exMOdOYDvytfS9RQXiXq) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [TAKE ME AWAY](https://open.spotify.com/album/7MPTCVqNTcRJYgfErXWGUe) | 3:20 | 2024-05-23 |  |
 | [take me away \(Bumloco 2025 Edit\)](https://open.spotify.com/track/4Tyw78tYt9irjWb3O0f3GQ) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M), [Sinister Seven](https://open.spotify.com/artist/0SxrIubbdnhKOkLEqeCMaO) | [take me away \(Bumloco 2025 Edit\)](https://open.spotify.com/album/073Yes9d8tFvBkJyzP9ioh) | 2:43 | 2025-07-22 |  |
 | [Take Me High](https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Take Me High](https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V) | 2:51 | 2023-01-30 |  |
@@ -2674,6 +2675,7 @@
 | [TEAR IT UP](https://open.spotify.com/track/2MItsy4zE5q16hkTiHRPpy) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [SMOKING SECTION](https://open.spotify.com/album/5QaKb2vnEAaDnjrb1K52Eo) | 2:28 | 2025-04-18 |  |
 | [Tear You Apart](https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16) | 4:44 | 2026-06-13 |  |
 | [TECHNO CITY](https://open.spotify.com/track/0Ua3nDprcE2YVHpINa9ceM) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [XTREME XTASY](https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK) | 2:45 | 2024-03-08 |  |
+| [Techno Dominator](https://open.spotify.com/track/1EoXhdVwSUSWrXTKxTBpDO) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [Techno Dominator](https://open.spotify.com/album/335TExtHflcQQrJLChrwgd) | 3:51 | 2026-08-21 |  |
 | [TECHNO GENERATION](https://open.spotify.com/track/0IOE3L2vjgwGelpNkcxnBW) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [WAREHOUSE TAPES](https://open.spotify.com/album/6T43Smob7g3y3c07tGOMaG) | 2:46 | 2024-10-05 |  |
 | [Technophobia \- Darren Styles Remix](https://open.spotify.com/track/1MRviIlT3GqT8fvf2yOKOM) | [Scott Brown](https://open.spotify.com/artist/6gaPx3AryG77284T2ZvELv), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Technophobia \(Darren Styles Remix\)](https://open.spotify.com/album/5CSiJpjhI3KAMJH92ulvAD) | 2:32 | 2026-05-28 |  |
 | [Teledildonics](https://open.spotify.com/track/3axU4hIcw8YvKxzZZJVe6E) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Virgen Maria](https://open.spotify.com/artist/7nQPn0exIxAqszNNPBNEL0) | [Teledildonics](https://open.spotify.com/album/1Qh1XXIRSnGtT8nqFFbFsq) | 2:50 | 2023-07-28 |  |

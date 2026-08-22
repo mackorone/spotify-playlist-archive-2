@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 550 likes - 56 songs - 3 hr 37 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 549 likes - 57 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 54 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 |
 | 55 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 |
 | 56 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 |
+| 57 | [Record Queen](https://open.spotify.com/track/44CQduAvXGeiQ74n9hMmIk) | [Sturgeon](https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF) | [Record Queen](https://open.spotify.com/album/2PZ4AIEKtnUXGgZwRuQdRJ) | 2:35 |
 
-Snapshot ID: `AAACF+S/QX2FcqjkzsXuXaiu32jkaf94`
+Snapshot ID: `AAACGCkC2aR4H/Qcj02qcS7DRGlNEZMw`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond y Elena Rose",
-  "num_followers": 476083,
+  "num_followers": 476099,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9To6H7OHfrqLOi9dGM2BejHcNN",
+  "snapshot_id": "AAAAAE2wlCk0bP5kzeiY0sQVfPMx/Wi5",
   "tracks": [
     {
       "added_at": "2026-07-31 04:59:17",
@@ -85,6 +85,26 @@
       "url": "https://open.spotify.com/track/440u0o6IMKbLgqNhmuYD8M"
     },
     {
+      "added_at": "2026-08-21 04:59:13",
+      "album": {
+        "name": "Pa\u00eds Portatil",
+        "url": "https://open.spotify.com/album/0nTh4P89pSjDm6YFoDdWS0"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Roberto Delgado & Orquesta",
+          "url": "https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c"
+        }
+      ],
+      "duration_ms": 265216,
+      "name": "Pa\u00eds Portatil",
+      "url": "https://open.spotify.com/track/0rBXRLeDu6TUcOvGCj1MHN"
+    },
+    {
       "added_at": "2026-08-14 04:59:31",
       "album": {
         "name": "Me Despido",
@@ -119,6 +139,22 @@
       "duration_ms": 220407,
       "name": "mariposas en el est\u00f3mago",
       "url": "https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT"
+    },
+    {
+      "added_at": "2026-08-21 04:59:13",
+      "album": {
+        "name": "El Pap\u00e1 De La Salsa",
+        "url": "https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 301413,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/4SQQXTfDQQzqMYt9Ems7A1"
     },
     {
       "added_at": "2026-05-29 04:59:20",
@@ -613,26 +649,6 @@
       "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
     },
     {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
-        "name": "dos",
-        "url": "https://open.spotify.com/album/7A8rw0lgipeVikEBtqNAgt"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Una Vida Pasada",
-      "url": "https://open.spotify.com/track/4i2Uelkm3Fy2CSE63s4hSz"
-    },
-    {
       "added_at": "2026-05-22 04:59:45",
       "album": {
         "name": "El Recuerdo Que Dej\u00f3",
@@ -715,46 +731,6 @@
       "duration_ms": 166998,
       "name": "Estas Ganas",
       "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
-        "name": "QUE HACES",
-        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "QUE HACES",
-      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
-        "name": "En Privado",
-        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 199399,
-      "name": "En Privado",
-      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
     },
     {
       "added_at": "2026-03-26 19:01:46",
@@ -843,26 +819,6 @@
       "duration_ms": 185120,
       "name": "Punta Cana",
       "url": "https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
-        "name": "PLIS",
-        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "PLIS",
-      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
     },
     {
       "added_at": "2026-03-26 19:01:46",
@@ -1011,26 +967,6 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
-        "name": "Mi Pecadito",
-        "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 197076,
-      "name": "Mi Pecadito",
-      "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
     },
     {
       "added_at": "2026-03-26 19:01:46",

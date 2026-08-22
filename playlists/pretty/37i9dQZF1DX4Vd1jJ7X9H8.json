@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 345970,
+  "num_followers": 345991,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHZmQNvNzeSwv6QpC5ziwyOtNbgn",
+  "snapshot_id": "AAAAAJ1MgS8WecG6LQrMPUJKio/grVDC",
   "tracks": [
     {
       "added_at": "2026-07-17 18:01:04",
@@ -783,6 +783,26 @@
     {
       "added_at": "2026-07-17 18:01:04",
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Mood Talk",
+          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
+        }
+      ],
+      "duration_ms": 226280,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
+    },
+    {
+      "added_at": "2026-07-17 18:01:04",
+      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -823,26 +843,6 @@
     {
       "added_at": "2026-07-17 18:01:04",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Mood Talk",
-          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2026-07-17 18:01:04",
-      "album": {
         "name": "Baby Wants to Ride / Your Love",
         "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-07-17 18:01:04",
       "album": {
-        "name": "Tetra",
-        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
-      },
-      "artists": [
-        {
-          "name": "C2C",
-          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Down The Road",
-      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
-    },
-    {
-      "added_at": "2026-07-17 18:01:04",
-      "album": {
         "name": "Ungodly Hour",
         "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2026-07-17 18:01:04",
+      "album": {
+        "name": "Tetra",
+        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
+      },
+      "artists": [
+        {
+          "name": "C2C",
+          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
     }
   ],
   "unique_name": "Soir\u00e9e",

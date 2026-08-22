@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 62 | [Mover](https://open.spotify.com/track/0WjqTmAgLFOiea9gtPKjqa) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [God Knows](https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd) | 5:02 |
 | 63 | [Vacancy \(feat\. T3\)](https://open.spotify.com/track/2Vu4eqKn3PnJqs5uo3N57q) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [T3](https://open.spotify.com/artist/3UD8eKuUv97BAcp28iYoSH) | [God Knows](https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd) | 3:28 |
 | 64 | [Move the Bag](https://open.spotify.com/track/1xoNASesBcSOAKSpRtgOAn) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 2:38 |
-| 65 | [Like Gucci](https://open.spotify.com/track/4oZAS5i1a5tY5iMNpBcDSW) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Cousin Trap](https://open.spotify.com/album/2Y6OJpKusANPXAfZ21e8cT) | 3:16 |
-| 66 | [Super Up](https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Super Up](https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0) | 2:16 |
+| 65 | [Super Up](https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Super Up](https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0) | 2:16 |
+| 66 | [Like Gucci](https://open.spotify.com/track/4oZAS5i1a5tY5iMNpBcDSW) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Cousin Trap](https://open.spotify.com/album/2Y6OJpKusANPXAfZ21e8cT) | 3:16 |
 | 67 | [Big Dancin'](https://open.spotify.com/track/25Cwrvk3iTr32ylLJgKpaN) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 2:31 |
 | 68 | [BootyBooty](https://open.spotify.com/track/7mZZDwIxdoREH5B4f0EN21) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 2:27 |
 | 69 | [Dirt Bag](https://open.spotify.com/track/2IMJyd2zjFuw0C2ECf5rFP) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 89 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 90 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AcaHOAAAAABEq9+83WFsa1q2S5kLvfAR`
+Snapshot ID: `AcaM2AAAAAAkdmgGmukXyDg33MR9jyGl`

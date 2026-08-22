@@ -1,13 +1,45 @@
 {
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u064f\u0633\u0644\u0650\u0645",
-  "num_followers": 282717,
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0648\u064a\u0642\u0632",
+  "num_followers": 282747,
   "original_name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABYoHuro9IGN/g+65GH0eE+2xQit",
+  "snapshot_id": "AAAAALeIuSYl5pRqbGRVWV3oUqr1rjXb",
   "tracks": [
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "\u0647\u064a\u0631\u062c\u0639\u0644\u064a",
+        "url": "https://open.spotify.com/album/0lgmOqDGkzl2UpihGKLnlG"
+      },
+      "artists": [
+        {
+          "name": "Houda",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "duration_ms": 175485,
+      "name": "\u0647\u064a\u0631\u062c\u0639\u0644\u064a",
+      "url": "https://open.spotify.com/track/0wfov9xTSmfPuMod6yer54"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "El Ayah",
+        "url": "https://open.spotify.com/album/30NGKVgfo8xRh6UugCieTv"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "El Ayah",
+      "url": "https://open.spotify.com/track/2dG8oLvpO61OsmDo2U1Oy8"
+    },
     {
       "added_at": "2026-08-13 16:09:35",
       "album": {

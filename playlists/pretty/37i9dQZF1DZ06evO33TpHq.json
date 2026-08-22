@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 66307,
+  "num_followers": 66322,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAACZ9bOHtwnoLxF8SqBOprjE",
+  "snapshot_id": "aoZDgAAAAACy8ue3sa/rfiXhMRRi7Akd",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 302253,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Of The Saints (Deluxe)",
         "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 254000,
       "name": "It Really Is Amazing Grace",
       "url": "https://open.spotify.com/track/44ivpVgDIZgzeZRaflODT8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 302253,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 265653,
-      "name": "This Is Our God",
-      "url": "https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hymn Of Heaven",
         "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 267773,
       "name": "Hymn Of Heaven",
       "url": "https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 265653,
+      "name": "This Is Our God",
+      "url": "https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "Sunday Is Coming",
-      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psalm 8 (Hall\u00e9)",
         "url": "https://open.spotify.com/album/52RP6I8Cdgw9OG4u8vqqJm"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 228133,
       "name": "Psalm 8 (Hall\u00e9)",
       "url": "https://open.spotify.com/track/5gpm7e3PJgsxHH8bLKNAwC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Sunday Is Coming",
+      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Psalm 23",
-      "url": "https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 261360,
       "name": "You Cannot Be Stopped",
       "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Psalm 23",
+      "url": "https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl"
     },
     {
       "added_at": null,
@@ -719,6 +719,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Then Christ Came (feat. Phil Wickham)",
+        "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 235921,
+      "name": "Then Christ Came (feat. Phil Wickham)",
+      "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "His Name Is Jesus",
+      "url": "https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -743,42 +779,6 @@
       "duration_ms": 506796,
       "name": "Worthy of My Song (Worthy of It All)",
       "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "His Name Is Jesus",
-      "url": "https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Then Christ Came (feat. Phil Wickham)",
-        "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 235921,
-      "name": "Then Christ Came (feat. Phil Wickham)",
-      "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
     },
     {
       "added_at": null,

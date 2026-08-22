@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,328 likes - 102 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,339 likes - 102 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 101 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 |
 | 102 | [Fade Away](https://open.spotify.com/track/0IWBaEf7GOwKPKHyC32E1z) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Ten Love Songs](https://open.spotify.com/album/3jviKiBoZrkHLQZYIReWCh) | 3:18 |
 
-Snapshot ID: `AAAAAJT2w05iMbTZs+VYJLIGwEF1HXhj`
+Snapshot ID: `AAAAAMfrT1huW+HYe6D+A0M7+GFAugW+`

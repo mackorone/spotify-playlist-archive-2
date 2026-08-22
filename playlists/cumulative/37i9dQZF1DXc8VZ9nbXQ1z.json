@@ -1039,6 +1039,32 @@
     },
     {
       "album": {
+        "name": "Alright (The Remixes)",
+        "url": "https://open.spotify.com/album/0lmc1Ym9SvG0XTXoxZdn3i"
+      },
+      "artists": [
+        {
+          "name": "Dale Mak",
+          "url": "https://open.spotify.com/artist/3jyz7vojpcHelyPcp5m65W"
+        },
+        {
+          "name": "Aroma (IND)",
+          "url": "https://open.spotify.com/artist/0XN90RWDbXTCkl94p1b24n"
+        },
+        {
+          "name": "Massio",
+          "url": "https://open.spotify.com/artist/7sBQ7opbXfUczzXlB0ENB1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392000,
+      "name": "Alright - Aroma IND, Massio Remix",
+      "url": "https://open.spotify.com/track/0bpuFyRwcJw5UNOeCip7dz"
+    },
+    {
+      "album": {
         "name": "Altair",
         "url": "https://open.spotify.com/album/2XrCAzpRWds5K7LDSZ99vb"
       },
@@ -1842,6 +1868,28 @@
       "duration_ms": 401200,
       "name": "Ayikh' Indaw' Enjengekhaya (Henrik Schwarz Rework)",
       "url": "https://open.spotify.com/track/5GmYZKs60MPyyVySv6yQKF"
+    },
+    {
+      "album": {
+        "name": "B.A.B.E",
+        "url": "https://open.spotify.com/album/6voJsQMmEudiH8zbCHnjAV"
+      },
+      "artists": [
+        {
+          "name": "DEMS",
+          "url": "https://open.spotify.com/artist/0UWqc9Fvugduq61I2eawnN"
+        },
+        {
+          "name": "Rory Kite",
+          "url": "https://open.spotify.com/artist/0MpirHzAFrvcH1fB1iiVy2"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248010,
+      "name": "B.A.B.E",
+      "url": "https://open.spotify.com/track/6VrpRPh8KOfv9vkEEGN5HD"
     },
     {
       "album": {
@@ -3080,6 +3128,28 @@
       "duration_ms": 339582,
       "name": "Bo Bom - Alan Dixon Remix",
       "url": "https://open.spotify.com/track/1iLQ6TLiUWa91dvELYujTh"
+    },
+    {
+      "album": {
+        "name": "Boa Sorte",
+        "url": "https://open.spotify.com/album/0JyI1OCkwxghasl4ZmFPbk"
+      },
+      "artists": [
+        {
+          "name": "Pietro",
+          "url": "https://open.spotify.com/artist/6Siaha9DgQyX23Ph7pTHYG"
+        },
+        {
+          "name": "Kanu",
+          "url": "https://open.spotify.com/artist/7qGg5f7GRoEEDsjhetcseQ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "Boa Sorte",
+      "url": "https://open.spotify.com/track/4R6MeyHCBkjSsnirWvkYQR"
     },
     {
       "album": {
@@ -4705,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "Danka (Vocal Mix)",
+        "url": "https://open.spotify.com/album/2R2QUhYrEAEYTECd4An7l1"
+      },
+      "artists": [
+        {
+          "name": "Dj Husca Boy",
+          "url": "https://open.spotify.com/artist/4C73L9PtH3QwiqycdlBI4r"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318570,
+      "name": "Danka - Vocal Mix",
+      "url": "https://open.spotify.com/track/0T1eRiLxEKyEsJcIG9ISJn"
+    },
+    {
+      "album": {
         "name": "Dare Your Move",
         "url": "https://open.spotify.com/album/7wMzeVpDff9c3MsUciRjfU"
       },
@@ -5688,7 +5776,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 374237,
       "name": "Drumming The Clouds",
       "url": "https://open.spotify.com/track/5aTVlfZiCP4giXfaC9MFO7"
@@ -10376,7 +10464,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 409180,
       "name": "Intertwined - Vertic Remix",
       "url": "https://open.spotify.com/track/2N1O05aMJyUjHqufhJTMRm"
@@ -13680,7 +13768,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 224132,
       "name": "Luanda",
       "url": "https://open.spotify.com/track/7iPTQMIeAT7iSem86np7ni"
@@ -14952,6 +15040,24 @@
       "duration_ms": 278292,
       "name": "Moody Koyal",
       "url": "https://open.spotify.com/track/5kNCcyLLI2Ympa53Y8dxLH"
+    },
+    {
+      "album": {
+        "name": "Moonhound EP",
+        "url": "https://open.spotify.com/album/7tuCnIeBJ2AnAjxSzLGcg7"
+      },
+      "artists": [
+        {
+          "name": "Culoe De Song",
+          "url": "https://open.spotify.com/artist/69vFBZxQu4TQ4ZDOI9L6KR"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353280,
+      "name": "Moonhound",
+      "url": "https://open.spotify.com/track/6FCQ9uWV1CEqyBUDZW0qHz"
     },
     {
       "album": {
@@ -18390,7 +18496,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 380121,
       "name": "People of Peace",
       "url": "https://open.spotify.com/track/202vSB5IdCUM9KWu6UGJ7Q"
@@ -18732,7 +18838,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 417049,
       "name": "POTEA - David Morales Remix",
       "url": "https://open.spotify.com/track/32kTf2oOjGTUiwYrudFEHp"
@@ -19237,6 +19343,32 @@
     },
     {
       "album": {
+        "name": "Re-Amathambo (Remix)",
+        "url": "https://open.spotify.com/album/0RjOSD0wNNrcwZYEbiPJDW"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        },
+        {
+          "name": "Chaleee",
+          "url": "https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c"
+        },
+        {
+          "name": "Anna Widauer",
+          "url": "https://open.spotify.com/artist/0a6EIFJe4gQqo49dHs0oGQ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "Re-Amathambo - Remix",
+      "url": "https://open.spotify.com/track/2AyLWsRNFbkjq4wAqPqyrX"
+    },
+    {
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/5DfgHgE9AjjnEWdBere8ze"
       },
@@ -19574,7 +19706,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 286229,
       "name": "Ride",
       "url": "https://open.spotify.com/track/71XJZeCmG14wFL58SNcQgd"
@@ -19706,6 +19838,28 @@
       "duration_ms": 452000,
       "name": "Rise and Fall",
       "url": "https://open.spotify.com/track/5ptlfAntmTQRQeop7ohe0v"
+    },
+    {
+      "album": {
+        "name": "Rise from the Darkness",
+        "url": "https://open.spotify.com/album/16NC3cXuP9zjxJjowjOThJ"
+      },
+      "artists": [
+        {
+          "name": "MPILOZA",
+          "url": "https://open.spotify.com/artist/3nUf5Jdq1f6fdUOewuDwlh"
+        },
+        {
+          "name": "Sundile",
+          "url": "https://open.spotify.com/artist/52IA2ZKjpv4G7zFBuoovjk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418941,
+      "name": "Rise from the Darkness",
+      "url": "https://open.spotify.com/track/1u4jF2pOajM6THm6fYtUeS"
     },
     {
       "album": {
@@ -23678,7 +23832,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 214832,
       "name": "The Vision",
       "url": "https://open.spotify.com/track/6SyQukpGOxoH21MHI6tnvg"

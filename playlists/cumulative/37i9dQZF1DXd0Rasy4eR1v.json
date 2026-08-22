@@ -3545,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "Bhool Gaya",
+        "url": "https://open.spotify.com/album/0iL1P0t5Rth9zRWpB7VWy0"
+      },
+      "artists": [
+        {
+          "name": "izhaar Ali",
+          "url": "https://open.spotify.com/artist/3Q2R81iiDAi2VKmbYvjpol"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246500,
+      "name": "Bhool Gaya",
+      "url": "https://open.spotify.com/track/3GfPzRWJWyJZbl25NaatiW"
+    },
+    {
+      "album": {
         "name": "Bhool Jao Na",
         "url": "https://open.spotify.com/album/4dUYuXiNkPfJJG5tNXRkTF"
       },

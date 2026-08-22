@@ -4,7 +4,7 @@
 
 > 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
 
-415 songs - 22 hr 49 min
+417 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-12-06 | 2023-08-16 |
 | [Black Rabbit](https://open.spotify.com/track/7mUAtPz8GMelbiuVyPEgKP) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Black Rabbit](https://open.spotify.com/album/5ZuHH6ov9hbThE3u2QVPhq) | 4:35 | 2025-02-21 |  |
 | [blip](https://open.spotify.com/track/3jUa8gNaETKW2Ru4iQNFDy) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [blip](https://open.spotify.com/album/7HPsarF1rEJvl7lCma3nG8) | 4:20 | 2024-04-15 | 2024-08-03 |
+| [bloodstream \- mother's version](https://open.spotify.com/track/1NfJx6L7JymODgIfwDea1U) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream \(mother's version\)](https://open.spotify.com/album/7oqmKpIuMmk0fMZ42k4Mfd) | 3:07 | 2026-08-21 |  |
 | [Bloom](https://open.spotify.com/track/1vGFOOd7NzeCTelqswObyv) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Bloom](https://open.spotify.com/album/01Oe3NfT6v6KaaopGCIcE8) | 3:52 | 2021-12-06 | 2023-08-16 |
 | [Blue Boy](https://open.spotify.com/track/0DTdFyK7RkDQEAppGRSKyo) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Blue Boy](https://open.spotify.com/album/2bMNDxWazWChajaSXnrpdg) | 3:00 | 2023-12-04 | 2024-12-14 |
 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-08-15 | 2024-01-11 |
@@ -207,6 +208,7 @@
 | [Losing My Accent](https://open.spotify.com/track/4rtkkDNw7izI5vfi9uALVl) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Losing My Accent](https://open.spotify.com/album/1qFfHTdZOBT3PfwsA2lutL) | 2:36 | 2024-07-12 | 2024-08-17 |
 | [Lost in a Dream \- Live From The Parking Garage](https://open.spotify.com/track/4iSUhzq7mthTnlD9klr2MN) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream \(Live From The Parking Garage\)](https://open.spotify.com/album/1vYI47sNRlvhOwHhJipSKB) | 3:35 | 2024-06-07 | 2024-06-15 |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-17 |  |
+| [Love Letters](https://open.spotify.com/track/43L5ohb6cKJBpNCK7ZjiN6) | [Ryan Peter Murphy](https://open.spotify.com/artist/3Mtej0J9pd8zxe4vnbZcMP) | [Love Letters](https://open.spotify.com/album/65atnTEc0uX0bKfsyogd0l) | 2:50 | 2026-08-21 |  |
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-01-31 |  |
 | [Love Songs](https://open.spotify.com/track/7wei8Hb9DxoVKUOIIAhDEQ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Love Songs](https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB) | 2:58 | 2024-10-11 | 2025-02-18 |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-15 | 2023-08-29 |

@@ -4,7 +4,7 @@
 
 > 
 
-7 songs - 28 min 46 sec
+8 songs - 31 min 36 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Fault Lines](https://open.spotify.com/track/6VitaWNd0Wmtq0PUDrZT1Z) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:38 | 2024-12-07 |  |
 | [My Own Version of You](https://open.spotify.com/track/3BQnez3qUm6hdKwxXly7Rw) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 6:41 | 2023-03-31 |  |
 | [Prana Ferox](https://open.spotify.com/track/4slVzDazfrXQrJRcXT6fsS) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Sweden](https://open.spotify.com/album/4GrOQPr3gfZe2rXCrTKiFV) | 4:05 | 2024-11-14 |  |
+| [The Masochism Tango \(Stereo Mix\)](https://open.spotify.com/track/0WVWNxudOyk0ncLpl1EsU1) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [The Conducted Tom Lehrer](https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq) | 2:49 | 2026-08-21 |  |
 | [You & the Cockroach](https://open.spotify.com/track/1DytbGZoEsEMV5UeMr9Vtv) | [Hobo Johnson](https://open.spotify.com/artist/05SdqPzK4m3k1ljK2wrTSP) | [The Fall of Hobo Johnson](https://open.spotify.com/album/3QrkHSj8pBzE1Kwhpnktkw) | 4:01 | 2023-03-31 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

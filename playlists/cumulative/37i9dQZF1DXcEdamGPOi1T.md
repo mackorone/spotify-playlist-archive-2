@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-547 songs - 1 day 4 hr 55 min
+548 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-03-29 | 2024-04-20 |
 | [Cool for the Summer](https://open.spotify.com/track/4YieJ8UoB4t4w8Ua0N3nGv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/5Q2UCYr67vEfrueFndo434) | 3:34 | 2026-05-29 |  |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-30 | 2024-03-30 |
-| [copacabana](https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [copacabana](https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE) | 1:57 | 2026-08-14 |  |
+| [copacabana](https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [copacabana](https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE) | 1:57 | 2026-08-14 | 2026-08-22 |
 | [Copilote](https://open.spotify.com/track/4CLktmKM775TQvUTSWvrVI) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Grignotines de Luxe](https://open.spotify.com/album/1YJeAFLaZKEaJ9IJtO3YE6) | 3:32 | 2022-05-27 | 2023-04-09 |
 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 | 2026-05-04 |  |
 | [Corde à linge](https://open.spotify.com/track/6r8ce1pJQtqfnIRi7dX7pR) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:19 | 2022-05-27 | 2022-07-29 |
@@ -382,6 +382,7 @@
 | [Palms \(with Channel Tres\)](https://open.spotify.com/track/0Lskej1hiep1PKXoz7KhyO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Palms \(with Channel Tres\)](https://open.spotify.com/album/4dh0Z5pwqLY6cRvFtGC6ox) | 4:00 | 2022-05-27 | 2022-06-11 |
 | [Pardon Maman](https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Pardon Maman](https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C) | 2:20 | 2026-07-17 | 2026-08-18 |
 | [Parenthèse](https://open.spotify.com/track/6CWz6oc9t9BWHV04JUUgqX) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t), [Lysandre Nadeau](https://open.spotify.com/artist/0U8oQvL6MoMtLqi6cZgOC2) | [Parenthèse](https://open.spotify.com/album/16q64GMnjdQjxor71KiKwG) | 2:25 | 2024-05-11 | 2024-06-08 |
+| [Parfait pays](https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM), [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF) | [Parfait pays](https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf) | 2:19 | 2026-08-21 |  |
 | [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 | 2022-07-26 | 2023-05-06 |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-06-04 | 2026-05-05 |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2022-05-27 | 2022-07-29 |

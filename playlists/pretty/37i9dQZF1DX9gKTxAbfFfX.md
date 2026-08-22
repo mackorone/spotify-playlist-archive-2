@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: KAROL G, rusowsky y Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,095 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,117 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 49 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 50 | [TOM & ZENDAYA](https://open.spotify.com/track/36vcDMjhEgLVn4FYu1Z8XY) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [TOM & ZENDAYA](https://open.spotify.com/album/6L2hc6Vd2gu5OEbVPkS7ua) | 3:35 |
 
-Snapshot ID: `AAAAAC3lWu3x42iiqSrdWvFY11kGY9UX`
+Snapshot ID: `AAAAABXQ/9FljLatnx4p4r88BpH6gexT`

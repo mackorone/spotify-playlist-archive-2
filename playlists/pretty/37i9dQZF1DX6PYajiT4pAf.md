@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers, Farruko, Antonio José, Sam Smith y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,484 likes - 64 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,016 likes - 63 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 59 | [A tu ciudad](https://open.spotify.com/track/5xi2totujTAKglobhJ6M3N) | [Lasspina](https://open.spotify.com/artist/1qeLLSEU942x1bwDa14wnT) | [A tu ciudad](https://open.spotify.com/album/2XstN8YKmVHnJpenznKwi7) | 2:48 |
 | 60 | [Me Saltan Las Alarmas](https://open.spotify.com/track/0ZaP0zQEn5tFCplq4vynE2) | [SanRomán](https://open.spotify.com/artist/6a4qghE1SS7tlydzTLtMfA), [Rubén Martín](https://open.spotify.com/artist/4db6Tt8818SnN16gYzleCi), [Desireé Martínez](https://open.spotify.com/artist/6fK24xLJ4vzroh4mgMA4p3) | [Me Saltan Las Alarmas](https://open.spotify.com/album/68whwOZ4Ze6n7ndUAZX20n) | 3:23 |
 | 61 | [Como Lo Haces Tu?](https://open.spotify.com/track/2vLWtHQFCNTHMXkIJqOG2o) | [HEKO](https://open.spotify.com/artist/3ue6EF6iBeFNoUo7bvsNgB), [Mike Wit](https://open.spotify.com/artist/5kmDYFs3vnlTuOgyAeAOee), [Vivih](https://open.spotify.com/artist/0igUZhKUbwqknOURErylJL) | [Sin Fé](https://open.spotify.com/album/5TsabdEYBI3Xo8mldAMv4m) | 2:53 |
-| 62 | [CA$H MONEY](https://open.spotify.com/track/7FS7H7SqUoLzSv6gqbqnrK) | [Kail BRL](https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [CA$H MONEY](https://open.spotify.com/album/4b9wXCwBHZVOKdffbpnXD1) | 3:43 |
-| 63 | [MIL BATALLAS](https://open.spotify.com/track/7lAtNxdNlukJBA8aHhfrdZ) | [Los Yares](https://open.spotify.com/artist/6cd9iq03guQqV08geVXZyR), [Dani de Los Yakis](https://open.spotify.com/artist/0yd9rA0C9tDurDBGcEMKfQ) | [MIL BATALLAS](https://open.spotify.com/album/6EigJq3JhDdq20IT9wJuM0) | 3:04 |
-| 64 | [TO TO TO](https://open.spotify.com/track/2VnNn3ZYKnydirho1euFDe) | [Aron Jiménez](https://open.spotify.com/artist/6KSBBs9wYJqlUqI6CwKuwn), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI), [JDC Beat](https://open.spotify.com/artist/7sLnkO0Eaa4VfeU0vA3Usg) | [TO TO TO](https://open.spotify.com/album/50YWp4Lp0G4rMPgSXEo4W1) | 2:19 |
+| 62 | [MIL BATALLAS](https://open.spotify.com/track/7lAtNxdNlukJBA8aHhfrdZ) | [Los Yares](https://open.spotify.com/artist/6cd9iq03guQqV08geVXZyR), [Dani de Los Yakis](https://open.spotify.com/artist/0yd9rA0C9tDurDBGcEMKfQ) | [MIL BATALLAS](https://open.spotify.com/album/6EigJq3JhDdq20IT9wJuM0) | 3:04 |
+| 63 | [TO TO TO](https://open.spotify.com/track/2VnNn3ZYKnydirho1euFDe) | [Aron Jiménez](https://open.spotify.com/artist/6KSBBs9wYJqlUqI6CwKuwn), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI), [JDC Beat](https://open.spotify.com/artist/7sLnkO0Eaa4VfeU0vA3Usg) | [TO TO TO](https://open.spotify.com/album/50YWp4Lp0G4rMPgSXEo4W1) | 2:19 |
 
-Snapshot ID: `AAAAAM1Pgyf1kyIJCt4fzUi/qjOS6uxe`
+Snapshot ID: `AAAAAIBQvIn0Tc2LxbXnQklYvMIs01Rw`

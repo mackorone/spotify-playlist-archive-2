@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari con Danny Ocean y Ryan Castro.",
-  "num_followers": 1148004,
+  "num_followers": 1147882,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADl4PG1AQVZc+/e7WyZFT996fk2R",
+  "snapshot_id": "AAAAAKSNcsqCPRfN9xrteFdTP1m3FCLy",
   "tracks": [
     {
       "added_at": "2026-05-15 06:00:25",
@@ -627,22 +627,18 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "JuanesTeban",
-        "url": "https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU"
+        "name": "B\u00e9same Morenita",
+        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 185658,
-      "name": "Timelapse de Sol",
-      "url": "https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu"
+      "duration_ms": 165520,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -663,18 +659,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "B\u00e9same Morenita",
-        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
+        "name": "JuanesTeban",
+        "url": "https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 165520,
-      "name": "B\u00e9same Morenita",
-      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
+      "duration_ms": 185658,
+      "name": "Timelapse de Sol",
+      "url": "https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Forever Together !",
+        "url": "https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "I Nesta",
+          "url": "https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0"
+        }
+      ],
+      "duration_ms": 299972,
+      "name": "Todo vuelve a su lugar",
+      "url": "https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "Sierra del Mar",
         "url": "https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 317520,
       "name": "Sierra del Mar",
       "url": "https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Forever Together !",
-        "url": "https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        },
-        {
-          "name": "I Nesta",
-          "url": "https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0"
-        }
-      ],
-      "duration_ms": 299972,
-      "name": "Todo vuelve a su lugar",
-      "url": "https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
+      },
+      "artists": [
+        {
+          "name": "Sergent Garcia",
+          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
+        }
+      ],
+      "duration_ms": 456933,
+      "name": "Los desaparecidos",
+      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "A Tu Manera (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 190836,
       "name": "A Tu Manera (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
-      },
-      "artists": [
-        {
-          "name": "Sergent Garcia",
-          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
-        }
-      ],
-      "duration_ms": 456933,
-      "name": "Los desaparecidos",
-      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Obvio S\u00ed",
-        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
-      },
-      "artists": [
-        {
-          "name": "Rastacuando",
-          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
-        }
-      ],
-      "duration_ms": 177536,
-      "name": "El Seis",
-      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "Gondwana En Vivo En Buenos Aires",
         "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
@@ -1347,6 +1331,38 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Obvio S\u00ed",
+        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
+      },
+      "artists": [
+        {
+          "name": "Rastacuando",
+          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
+        }
+      ],
+      "duration_ms": 177536,
+      "name": "El Seis",
+      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "Dejando Huella",
+        "url": "https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa"
+      },
+      "artists": [
+        {
+          "name": "Los Afro Brothers",
+          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Besos Para Ti",
+      "url": "https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "Lo que piensen de mi",
         "url": "https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 206794,
       "name": "Lo que piensen de mi",
       "url": "https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Dejando Huella",
-        "url": "https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa"
-      },
-      "artists": [
-        {
-          "name": "Los Afro Brothers",
-          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Besos Para Ti",
-      "url": "https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 193817,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "Long Time Ago",
         "url": "https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 131739,
       "name": "Long Time Ago",
       "url": "https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 193817,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
     },
     {
       "added_at": "2026-05-15 06:00:25",

@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk, Arlida Putri
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Esa Risty
 
-599 songs - 2 day 2 hr 18 min
+601 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Segara Madu \- Live](https://open.spotify.com/track/7Id7tgYD70axlBdCtDTzk3) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Segara Madu \(Live\)](https://open.spotify.com/album/6l7CzsJBYEFlf8SbPOdY6K) | 5:55 | 2025-08-21 | 2025-11-14 |
 | [Segara Madu \- Live](https://open.spotify.com/track/0qVtwT8OOMIYyzEhKAsf45) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu \(Live\)](https://open.spotify.com/album/1H4fbANs1S0ZsSBCuWVlOg) | 6:00 | 2024-11-28 | 2025-02-21 |
 | [Sego Bubur](https://open.spotify.com/track/0LbxWBk6IeAAqrOHf2ls54) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Sego Bubur](https://open.spotify.com/album/7lnclsFtu2nLlS3jfRjwxL) | 4:44 | 2026-06-11 |  |
+| [Sekip "Setia Kui Pekok"](https://open.spotify.com/track/7q5BFR9RaX1mxy6xvR1t6d) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Jeyma Monica](https://open.spotify.com/artist/13TIqNSApj4u450gNHdCHN), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Sekip "Setia Kui Pekok"](https://open.spotify.com/album/1wzqa35XAl68qOTkCqeq2S) | 5:28 | 2026-08-21 |  |
 | [Sekip \(Setia Kui Pekok\)](https://open.spotify.com/track/4ZiayQbjKSz98hbUygBrc6) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sekip \(Setia Kui Pekok\)](https://open.spotify.com/album/1tnRVtz5YEMb8eagnIkgz6) | 5:28 | 2026-05-21 |  |
 | [Sekti](https://open.spotify.com/track/4L7Jom9mgHDWSprlUSK2jq) | [Suliyana](https://open.spotify.com/artist/4TJKjrYnqDXwBi1xJ5CyUc) | [Sekti](https://open.spotify.com/album/2DBAfqXXPegevjiLQLwllO) | 4:42 | 2024-10-24 | 2025-06-27 |
 | [Sekuat Atiku](https://open.spotify.com/track/0Fb8DFh95IctjwyPU25eZo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sekuat Atiku](https://open.spotify.com/album/1RNdZCb01OGZ6m9mYpuoNn) | 4:42 | 2022-05-26 | 2022-06-10 |
@@ -515,6 +516,7 @@
 | [Sinarengan](https://open.spotify.com/track/05JCo2qLuSp6Tm4yzqh95Z) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Bella Bonita](https://open.spotify.com/artist/3K6JJtWNTBwQudEUuKYLQI) | [Sinarengan](https://open.spotify.com/album/0pjz8ygNmSBbsZaGGyUYKw) | 5:33 | 2025-03-13 |  |
 | [Sinarengan](https://open.spotify.com/track/1YOczwofxo6MxtkjPBYdNV) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa), [Vayz Luluk](https://open.spotify.com/artist/06tdPZ6UdL8otCWSe7YRpU), [Mama Lela Team](https://open.spotify.com/artist/5Ef1Uls0WU05zjMeZrGGgA) | [Sinarengan](https://open.spotify.com/album/3bReLQYWR9ODah0x2QeY76) | 5:21 | 2025-04-17 | 2026-01-15 |
 | [Sinau Nrimo](https://open.spotify.com/track/0xnUxhsbccYpkX1myS74M8) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Sinau Nrimo](https://open.spotify.com/album/3KyCq71Fh3zgBqMdDmKEc7) | 4:27 | 2026-08-14 |  |
+| [Sinedya](https://open.spotify.com/track/2jpvBk5k2QOK1dOu22eKi3) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Damar Panggalih](https://open.spotify.com/artist/6yMvE7gFLEhI9oJKEIR7ru) | [Sinedya](https://open.spotify.com/album/6FqDh3JKeEARCtEiPgHj0I) | 4:58 | 2026-08-21 |  |
 | [SING BISO](https://open.spotify.com/track/1MrU4LSCrw5D3W1fCh1McQ) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [SING BISO](https://open.spotify.com/album/5TBQZJeEyA99kMpzXvlcCW) | 3:50 | 2024-07-11 | 2024-11-22 |
 | [Sing Tego](https://open.spotify.com/track/3xI4biFLAk4FjQDfeQ85jL) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Sing Tego](https://open.spotify.com/album/5oouN5giEltNiD8YqHuJZk) | 4:27 | 2025-02-13 | 2025-04-25 |
 | [Sinyal Tresna \- From Collabonation](https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sinyal Tresna \(From Collabonation\)](https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ) | 4:41 | 2022-07-21 | 2023-08-11 |

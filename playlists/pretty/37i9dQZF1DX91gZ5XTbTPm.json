@@ -1,12 +1,12 @@
 {
   "description": "The Midwest is always on time. Cover: Skilla Baby",
-  "num_followers": 161022,
+  "num_followers": 161042,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBg+cq1wQN3GELaq0GNW55reDY+",
+  "snapshot_id": "AAAAAL+UUcVQyaeYMiL3Lqo7ZV73Hipb",
   "tracks": [
     {
       "added_at": "2026-08-20 21:00:13",
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 221973,
+      "name": "For Sure",
       "url": "https://open.spotify.com/track/7ikFfU7vcplrw7kT1vS6Fk"
     },
     {
@@ -59,6 +59,22 @@
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/0UsBcf7Gws6x4mQrjf3pYk"
+    },
+    {
+      "added_at": "2026-08-20 21:00:13",
+      "album": {
+        "name": "Finna Drop (Tour)",
+        "url": "https://open.spotify.com/album/67eIunevBrIiFgPlZqrOpV"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 189252,
+      "name": "Finna Drop (Tour)",
+      "url": "https://open.spotify.com/track/5qAwvMQsGQnBCicP2vcCRg"
     },
     {
       "added_at": "2026-08-20 21:00:13",
@@ -231,6 +247,22 @@
     {
       "added_at": "2026-08-20 21:00:13",
       "album": {
+        "name": "Back Ina Yams",
+        "url": "https://open.spotify.com/album/3Im4ZrfIpsHbKCjWF0WcuQ"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 159091,
+      "name": "Back Ina Yams",
+      "url": "https://open.spotify.com/track/2kR8IcqxFHrAKwtoqeFqnP"
+    },
+    {
+      "added_at": "2026-08-20 21:00:13",
+      "album": {
         "name": "Lil Herb",
         "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
       },
@@ -288,8 +320,8 @@
           "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 166133,
+      "name": "Standing on It",
       "url": "https://open.spotify.com/track/764bnTCXLpQY73bNB5uZDL"
     },
     {
@@ -436,8 +468,8 @@
           "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 13",
+      "duration_ms": 161000,
+      "name": "No Tears",
       "url": "https://open.spotify.com/track/61cnSeuLJfr1Zc4w8dqi9Q"
     },
     {
@@ -459,6 +491,22 @@
       "duration_ms": 156000,
       "name": "I Ain't Trippin (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5rgSeiUY9mLYn95UMrjALE"
+    },
+    {
+      "added_at": "2026-08-20 21:00:13",
+      "album": {
+        "name": "Let's Wrap",
+        "url": "https://open.spotify.com/album/6CcWd46fcM5AL3cE5nJg6j"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 68111,
+      "name": "Let's Wrap",
+      "url": "https://open.spotify.com/track/4JGDIJ2aBYEkY78Q8doEVz"
     },
     {
       "added_at": "2026-08-20 21:00:13",
@@ -495,30 +543,6 @@
       "duration_ms": 145262,
       "name": "All Is",
       "url": "https://open.spotify.com/track/1QPdCZYB41RYhol54uNOp0"
-    },
-    {
-      "added_at": "2026-08-20 21:00:13",
-      "album": {
-        "name": "DISGUISE",
-        "url": "https://open.spotify.com/album/64bs9S7CRMTn34hHlILPp0"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 150802,
-      "name": "DISGUISE",
-      "url": "https://open.spotify.com/track/70NwUUeK2J8Y55QRUn8uM3"
     },
     {
       "added_at": "2026-08-20 21:00:13",

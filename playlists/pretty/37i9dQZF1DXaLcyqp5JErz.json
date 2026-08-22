@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 667032,
+  "num_followers": 667120,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtQkbFfph8EYGPhFukqz+TOuJFM",
+  "snapshot_id": "AAAAAFkGCzJiuNsExpxQItZTA8AgG3Kt",
   "tracks": [
     {
       "added_at": "2025-10-17 18:07:08",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Global Project PORTUGU\u00caS (Portuguese)",
-        "url": "https://open.spotify.com/album/0BY70dozFnO2iSUGchNQVv"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Em Portugu\u00eas",
-          "url": "https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y"
-        }
-      ],
-      "duration_ms": 370146,
-      "name": "Me Rendo A Ti",
-      "url": "https://open.spotify.com/track/4GsORFXWaecjxbiQ0n1Oqt"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "Te Quero Mais do Que Tudo",
         "url": "https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 386773,
       "name": "Descansarei",
       "url": "https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "Global Project PORTUGU\u00caS (Portuguese)",
+        "url": "https://open.spotify.com/album/0BY70dozFnO2iSUGchNQVv"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Em Portugu\u00eas",
+          "url": "https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y"
+        }
+      ],
+      "duration_ms": 370146,
+      "name": "Me Rendo A Ti",
+      "url": "https://open.spotify.com/track/4GsORFXWaecjxbiQ0n1Oqt"
     },
     {
       "added_at": "2025-10-17 18:07:08",

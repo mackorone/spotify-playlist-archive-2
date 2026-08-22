@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1897901,
+  "num_followers": 1898036,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI3jeK7etjFQa6y33Z8RbHM7b/3A",
+  "snapshot_id": "AAAAAMKwlg4JdWq7K3F0AcjIPdHsbNqF",
   "tracks": [
     {
       "added_at": "2024-07-12 16:10:47",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Ain't No Love In The Heart Of The City - Single Version",
-      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Motherlode",
         "url": "https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 544640,
       "name": "People Get Up And Drive Your Funky Soul - Remix",
       "url": "https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Ain't No Love In The Heart Of The City - Single Version",
+      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "Cold Sweat & Other Soul Classics: James Brown",
-        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Get Up Offa That Thing",
-      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Express Yourself",
         "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 233146,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "It's A New Day - Let A Man Come In",
+        "url": "https://open.spotify.com/album/6o2pZrZdpi9o4f5Cnrq38l"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "It's A Man's, Man's, Man's World",
+      "url": "https://open.spotify.com/track/3BcH252CGECgOWfKBjAaBC"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "It's A New Day - Let A Man Come In",
-        "url": "https://open.spotify.com/album/6o2pZrZdpi9o4f5Cnrq38l"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "It's A Man's, Man's, Man's World",
-      "url": "https://open.spotify.com/track/3BcH252CGECgOWfKBjAaBC"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "In the Midnight Hour",
         "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "Cold Sweat & Other Soul Classics: James Brown",
+        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Get Up Offa That Thing",
+      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "What Cha' Gonna Do for Me",
-        "url": "https://open.spotify.com/album/6elTNQdWmobPp0QGEPwPMc"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/6bJGULOowvaqs5t1VSuDCw"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 291073,
       "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
       "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "What Cha' Gonna Do for Me",
+        "url": "https://open.spotify.com/album/6elTNQdWmobPp0QGEPwPMc"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/6bJGULOowvaqs5t1VSuDCw"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "The Chic Organization 1977-1979 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 486186,
-      "name": "Good Times - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4N3stlRuz5cBNI4J4vDJ18"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Crying Laughing Loving Lying (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 213200,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "The Chic Organization 1977-1979 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4N3stlRuz5cBNI4J4vDJ18"
     }
   ],
   "unique_name": "Funk & Soul Classics",

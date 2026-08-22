@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 
 > Editor's picks:  The best R&B songs of 2025\.  Cover: Kehlani, GIVĒON, and Mariah the Scientist
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,394 likes - 76 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,392 likes - 76 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 | 75 | [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 |
 | 76 | [Stingy](https://open.spotify.com/track/5yUV8Nha2gXUvVZ7BCb3As) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [It's Me, Not You](https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI) | 4:11 |
 
-Snapshot ID: `AAAAAPBvqT4hqTGBnCBBTI95weUtvN94`
+Snapshot ID: `AAAAAORJ9wR+W/5CJnCGyO2MDkF4FRZG`

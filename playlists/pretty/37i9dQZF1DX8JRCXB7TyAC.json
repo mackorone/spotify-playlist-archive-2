@@ -1,12 +1,12 @@
 {
   "description": "Workout with Haryanvi Songs.",
-  "num_followers": 60933,
+  "num_followers": 60965,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO2cmaZrPazWa/9njIwFq+sGTQ//",
+  "snapshot_id": "AAAAALMlYc4CnufCWnTEMxwABYtRSntd",
   "tracks": [
     {
       "added_at": "2026-08-07 12:08:51",
@@ -283,18 +283,22 @@
     {
       "added_at": "2026-08-07 12:08:51",
       "album": {
-        "name": "Tagde Karam",
-        "url": "https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa"
+        "name": "Tere Piche",
+        "url": "https://open.spotify.com/album/0DjsEEg0RSlSDuHziqdU2u"
       },
       "artists": [
         {
           "name": "Sumit Parta",
           "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        },
+        {
+          "name": "Xtacy",
+          "url": "https://open.spotify.com/artist/5RHWtLzYNIrfjLXUx7hBi6"
         }
       ],
-      "duration_ms": 165063,
-      "name": "Tagde Karam",
-      "url": "https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT"
+      "duration_ms": 133333,
+      "name": "Tere Piche",
+      "url": "https://open.spotify.com/track/5xdP0SCabpuytBrNkI0Abu"
     },
     {
       "added_at": "2026-08-07 12:08:51",
@@ -379,22 +383,18 @@
     {
       "added_at": "2026-08-07 12:08:51",
       "album": {
-        "name": "Tere Piche",
-        "url": "https://open.spotify.com/album/0DjsEEg0RSlSDuHziqdU2u"
+        "name": "Tagde Karam",
+        "url": "https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa"
       },
       "artists": [
         {
           "name": "Sumit Parta",
           "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
-        },
-        {
-          "name": "Xtacy",
-          "url": "https://open.spotify.com/artist/5RHWtLzYNIrfjLXUx7hBi6"
         }
       ],
-      "duration_ms": 133333,
-      "name": "Tere Piche",
-      "url": "https://open.spotify.com/track/5xdP0SCabpuytBrNkI0Abu"
+      "duration_ms": 165063,
+      "name": "Tagde Karam",
+      "url": "https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT"
     },
     {
       "added_at": "2026-08-07 12:08:51",
@@ -443,22 +443,30 @@
     {
       "added_at": "2026-08-07 12:08:51",
       "album": {
-        "name": "Chora Baba Ka",
-        "url": "https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS"
+        "name": "SYSTEM PAAD",
+        "url": "https://open.spotify.com/album/3mqaU3yGoA1XQXV7dj5t4Z"
       },
       "artists": [
         {
-          "name": "Raftaar",
-          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+          "name": "Virat",
+          "url": "https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE"
         },
         {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Ashu Twinkle",
+          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+        },
+        {
+          "name": "Vaishali Chaudhary",
+          "url": "https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq"
         }
       ],
-      "duration_ms": 175624,
-      "name": "Chora Baba Ka",
-      "url": "https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf"
+      "duration_ms": 155306,
+      "name": "SYSTEM PAAD",
+      "url": "https://open.spotify.com/track/5T0zX3YBzgxknRs74X50YM"
     },
     {
       "added_at": "2026-08-07 12:08:51",
@@ -491,30 +499,22 @@
     {
       "added_at": "2026-08-07 12:08:51",
       "album": {
-        "name": "SYSTEM PAAD",
-        "url": "https://open.spotify.com/album/3mqaU3yGoA1XQXV7dj5t4Z"
+        "name": "Chora Baba Ka",
+        "url": "https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS"
       },
       "artists": [
         {
-          "name": "Virat",
-          "url": "https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE"
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
         },
         {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        },
-        {
-          "name": "Ashu Twinkle",
-          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
-        },
-        {
-          "name": "Vaishali Chaudhary",
-          "url": "https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq"
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
         }
       ],
-      "duration_ms": 155306,
-      "name": "SYSTEM PAAD",
-      "url": "https://open.spotify.com/track/5T0zX3YBzgxknRs74X50YM"
+      "duration_ms": 175624,
+      "name": "Chora Baba Ka",
+      "url": "https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf"
     },
     {
       "added_at": "2026-08-07 12:08:51",
@@ -991,6 +991,26 @@
     {
       "added_at": "2026-08-07 12:08:51",
       "album": {
+        "name": "Tha Tha",
+        "url": "https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO"
+      },
+      "artists": [
+        {
+          "name": "Manisha Sharma",
+          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
+        },
+        {
+          "name": "Raj Mawar",
+          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Tha Tha",
+      "url": "https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs"
+    },
+    {
+      "added_at": "2026-08-07 12:08:51",
+      "album": {
         "name": "Jhota",
         "url": "https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA"
       },
@@ -1015,46 +1035,26 @@
     {
       "added_at": "2026-08-07 12:08:51",
       "album": {
-        "name": "Tha Tha",
-        "url": "https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO"
+        "name": "Darzi",
+        "url": "https://open.spotify.com/album/25U1mwUNKA3a4RLpmFXSzR"
       },
       "artists": [
         {
-          "name": "Manisha Sharma",
-          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
+          "name": "Kaka WRLD",
+          "url": "https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv"
         },
         {
-          "name": "Raj Mawar",
-          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
+          "name": "Sukh-E Muzical Doctorz",
+          "url": "https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ"
+        },
+        {
+          "name": "Shiva Choudhary",
+          "url": "https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN"
         }
       ],
-      "duration_ms": 169285,
-      "name": "Tha Tha",
-      "url": "https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs"
-    },
-    {
-      "added_at": "2026-08-07 12:08:51",
-      "album": {
-        "name": "Lala Lori",
-        "url": "https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy"
-      },
-      "artists": [
-        {
-          "name": "Fazilpuria",
-          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
-        },
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Lala Lori",
-      "url": "https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax"
+      "duration_ms": 164117,
+      "name": "Darzi",
+      "url": "https://open.spotify.com/track/6tIPVfl61026Q4lmGzpkVZ"
     }
   ],
   "unique_name": "Haryanvi Workout",

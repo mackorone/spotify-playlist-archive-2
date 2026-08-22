@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,970 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,968 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 21 | [never gonna break your heart](https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [IN AND THROUGH THE BODY](https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a) | 3:47 |
 | 22 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 23 | [When Will I Learn](https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ) | [Rob Riccardo](https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa) | [The Fire in Me](https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet) | 4:21 |
-| 24 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
-| 25 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
+| 24 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
+| 25 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
 | 26 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
 | 27 | [Indigo](https://open.spotify.com/track/3eVI3IOrq5u8NPOKWSiFlP) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:31 |
 | 28 | [Change The World](https://open.spotify.com/track/318KlGWToczNB1mHZlH3SU) | [Leilani Wolfgramm](https://open.spotify.com/artist/1CJqIxlYOwcuIZAzfhfnZj), [Jacob Hemphill](https://open.spotify.com/artist/19eNU5TerePMfGRGoKxC3b), [Fortunate Youth](https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB) | [Sugarshack Sessions Selects, Vol\. 1](https://open.spotify.com/album/6uo1uYH6afoP84SUliIPkS) | 3:17 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 34 | [Adam & Eve \(feat\. Ben Fagan\)](https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8), [Ben Fagan](https://open.spotify.com/artist/68UAGPFWJbwW0JUscJVM3O) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 4:10 |
 | 35 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 |
 | 36 | [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 |
-| 37 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
+| 37 | [Nation of Truth](https://open.spotify.com/track/0EJFzeHiwdTdJxi4aQY1c8) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Nation of Truth](https://open.spotify.com/album/4OmqPZxOg43jtP8un2twB2) | 3:40 |
 | 38 | [Uneven Days](https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Uneven Days](https://open.spotify.com/album/5NgCiRb6LH8wEtseBuOuy9) | 4:20 |
 | 39 | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB) | 4:28 |
-| 40 | [Nation of Truth](https://open.spotify.com/track/0EJFzeHiwdTdJxi4aQY1c8) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Nation of Truth](https://open.spotify.com/album/4OmqPZxOg43jtP8un2twB2) | 3:40 |
+| 40 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
 | 41 | [What's the Secret?](https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Por Favor](https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN) | 2:49 |
 | 42 | [One People](https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv) | [Nattali Rize](https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv) | [Rebel Frequency](https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR) | 4:00 |
-| 43 | [Family Tree](https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 3:11 |
-| 44 | [No Regrets](https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [Love Overflowing](https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu) | 5:22 |
+| 43 | [No Regrets](https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [Love Overflowing](https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu) | 5:22 |
+| 44 | [Family Tree](https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 3:11 |
 | 45 | [Fly Away](https://open.spotify.com/track/5toBuWuHXCsausMXQcQkLR) | [Starling Arrow](https://open.spotify.com/artist/67EFNAHiiYqTew9dzK2QhC), [Marya Stark](https://open.spotify.com/artist/2lntMaVHOro0wJYMYHco9d), [Ayla Nereo](https://open.spotify.com/artist/4gJMOPjz1OUnD6TysFPUr1), [Tina Malia](https://open.spotify.com/artist/1c0uQiM5LLHE4juxlFn1Q2), [Chloe Smith](https://open.spotify.com/artist/7lLK9mKP9CJuRhIR5URoFg), [Leah Song](https://open.spotify.com/artist/2aYGkbB8xdACbyp7BYR8Gv), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Fly Away](https://open.spotify.com/album/01I7NXp9kAgyrpvxrrVfzm) | 4:34 |
 | 46 | [Fast And Slow](https://open.spotify.com/track/4OO9SNBNWasLpz5MiwqxEM) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Double Vision](https://open.spotify.com/album/2K4mKmxSsxhkkhqESs6Foj) | 4:40 |
 | 47 | [The Great Unknown](https://open.spotify.com/track/21AgHZ2EyROGUEq6lPqu8E) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [The Great Unknown](https://open.spotify.com/album/7KPEITgznag0cVjUDY8KET) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Call on the Wolves](https://open.spotify.com/track/1h1rjRbZwiVc1y2jNqYphX) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Call on the Wolves](https://open.spotify.com/album/3ne5IY3MK0FoaxXccvBvR4) | 5:33 |
 | 50 | [We Got This](https://open.spotify.com/track/3s7bAcCETTy7vHLxQYVQDq) | [Delhi 2 Dublin](https://open.spotify.com/artist/3UI94nr1hPvSXtvXRZ97JV) | [We Got This](https://open.spotify.com/album/1cFksYhPgmdlsrF1RLCSBN) | 3:33 |
 
-Snapshot ID: `AAAAAIj/nKXLH3Ns73+tMcLMZdOuTuDa`
+Snapshot ID: `AAAAAECa1Fm8m3p9VB2Yk38Nt+r48UA/`

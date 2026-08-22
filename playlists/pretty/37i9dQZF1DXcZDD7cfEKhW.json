@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Stella Lefty",
-  "num_followers": 4350941,
+  "num_followers": 4350607,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABHthcNdXJ+mIt7l1HUd91gGZNLA",
+  "snapshot_id": "AAAAAKTjpUmTgE8xv6F+JVWLvx4cnMUR",
   "tracks": [
     {
       "added_at": "2026-08-14 13:13:41",
@@ -49,24 +49,24 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2026-08-14 13:13:41",
+      "added_at": "2026-08-22 02:04:33",
       "album": {
-        "name": "Lucky Again (Rebecca & Fiona Remix)",
-        "url": "https://open.spotify.com/album/2ahQrzRf6r4aOUdcAe7KxG"
+        "name": "Leak It (DENNIS Remix)",
+        "url": "https://open.spotify.com/album/0pUf9stzX3Fl7tn60TcvSP"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         },
         {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         }
       ],
-      "duration_ms": 223653,
-      "name": "Lucky Again - (Rebecca & Fiona Remix)",
-      "url": "https://open.spotify.com/track/3rAzkMG0n8S9LE77djR004"
+      "duration_ms": 140433,
+      "name": "Leak It - DENNIS Remix",
+      "url": "https://open.spotify.com/track/0NtdDxJlVrKbZqdCUK0E7V"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -323,6 +323,26 @@
       "duration_ms": 211428,
       "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
       "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
+    },
+    {
+      "added_at": "2026-08-21 04:02:19",
+      "album": {
+        "name": "Bulletproof (This Time Baby) [feat. La Roux]",
+        "url": "https://open.spotify.com/album/6BlDeDwHOmkE6PerQJE1yV"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 158207,
+      "name": "Bulletproof (This Time Baby) [feat. La Roux]",
+      "url": "https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -619,26 +639,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Say Yes To Heaven (Anyma Remix)",
-        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 222076,
-      "name": "Say Yes To Heaven - Anyma Remix",
-      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
       },
@@ -655,6 +655,26 @@
       "duration_ms": 191733,
       "name": "Water",
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Say Yes To Heaven (Anyma Remix)",
+        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 222076,
+      "name": "Say Yes To Heaven - Anyma Remix",
+      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -827,6 +847,22 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
+        "name": "Evolve (CLUBSOS VOL. 1)",
+        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 194649,
+      "name": "Evolve - CLUBSOS VOL. 1",
+      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
         "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
         "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
       },
@@ -867,22 +903,6 @@
       "duration_ms": 194180,
       "name": "Aquamarine / Arcamarine",
       "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
-        "name": "Evolve (CLUBSOS VOL. 1)",
-        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 194649,
-      "name": "Evolve - CLUBSOS VOL. 1",
-      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1319,26 +1339,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Sick Of Love (Mura Masa Remix)",
-        "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 334078,
-      "name": "Sick Of Love (Mura Masa Remix)",
-      "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Camera (CYRIL Remix)",
         "url": "https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n"
       },
@@ -1399,30 +1399,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Moth To A Flame (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 389956,
-      "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
-      "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -1447,6 +1423,30 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Moth To A Flame (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 389956,
+      "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
+      "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
     },
     {
       "added_at": "2026-08-14 13:13:41",

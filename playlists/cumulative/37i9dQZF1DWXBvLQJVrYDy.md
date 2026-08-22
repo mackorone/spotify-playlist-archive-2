@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-249 songs - 16 hr 1 min
+252 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Body And Soul](https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:15 | 2022-08-18 | 2026-01-31 |
 | [Break the lines](https://open.spotify.com/track/6bKxkGEyWDa9dYFLW1rCoS) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [Break the lines](https://open.spotify.com/album/5Yozs3uJhsT54sRtK0BTqV) | 3:05 | 2026-01-30 |  |
 | [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 | 2023-06-08 | 2025-11-13 |
+| [Bubble Waltz](https://open.spotify.com/track/1eRCt3aFCha2ptj0UVH5WL) | [Bernina Quartet](https://open.spotify.com/artist/2Svnw11NWIp2PHpPAgIqRo) | [Bubble Waltz](https://open.spotify.com/album/2ehGeQAwifgfeRSO6axD7j) | 3:51 | 2026-08-21 |  |
 | [Café International](https://open.spotify.com/track/6mWHwX0VNVDyWVF0j6qQ56) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Café International](https://open.spotify.com/album/0bBBE6Q90Fvr4Ka2EO0ObZ) | 3:30 | 2023-03-23 | 2025-11-13 |
 | [Chelsea Bridge](https://open.spotify.com/track/2wxy1aZya6S7mYZAn2m3I3) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: Second View](https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW) | 4:49 | 2023-08-17 |  |
 | [Cliffs](https://open.spotify.com/track/4LEDxHTo5iTzYgNbzIfaBK) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Cliffs](https://open.spotify.com/album/5BNrTrQr8lcyRso4aXESIP) | 3:37 | 2024-05-24 |  |
@@ -72,6 +73,7 @@
 | [Embraceble You](https://open.spotify.com/track/61qcz5XScc4DubjroIyGsG) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Embraceble You](https://open.spotify.com/album/4GwhE4HL4dbZe9rch6dwAB) | 4:38 | 2022-08-18 | 2025-11-13 |
 | [Epilogue](https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Epilogue](https://open.spotify.com/album/5X29DiYEFR8JLcghhL1fIK) | 3:33 | 2023-04-20 | 2025-11-13 |
 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 | 2022-08-18 | 2023-09-01 |
+| [Eyes in Disguise](https://open.spotify.com/track/46mSg6mP5utgig3ZlqxS3M) | [Hugh Wilson Quartet](https://open.spotify.com/artist/6bSVeTJc0knuEwTyeP9M6p) | [Eyes in Disguise](https://open.spotify.com/album/1laoaLmIRH5oc5jVngYCdY) | 3:03 | 2026-08-21 |  |
 | [Faint Aurora](https://open.spotify.com/track/6SuuYiQUtvCPFEJvUKBdZ5) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Faint Aurora](https://open.spotify.com/album/3aFL9Z73ulCldIjNkQTrQG) | 2:56 | 2026-04-24 |  |
 | [Filippa](https://open.spotify.com/track/1m7ab27FBBeF3Zg13ol2YC) | [Jules Moreau](https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz) | [Filippa](https://open.spotify.com/album/0Ud0BP8Fdy1mqDWWl8bHj6) | 4:18 | 2024-02-23 |  |
 | [Five Leaves](https://open.spotify.com/track/2tmAIIkIYNWvp93nMfi8Lw) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Five Leaves](https://open.spotify.com/album/7IfBIe2sTrJvldMPB61w5e) | 4:09 | 2023-08-10 | 2026-05-28 |
@@ -126,6 +128,7 @@
 | [Lithe](https://open.spotify.com/track/6Ow1x2Z9OvuQHE6iRqmZJG) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Lithe](https://open.spotify.com/album/3kxCez0DkWqVsD3eXFwv7P) | 3:48 | 2022-08-18 | 2025-11-13 |
 | [Little Girl Blue](https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 3:38 | 2022-08-18 |  |
 | [Lone Pine](https://open.spotify.com/track/6n53sSnd8THaUSPvAOEMY7) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Lone Pine](https://open.spotify.com/album/7nFMmdQmPvYMhOA3khr8wI) | 3:00 | 2024-03-22 |  |
+| [Look Closely](https://open.spotify.com/track/23GXwXbYp3KIiguZIuqf9C) | [Sapphire 4](https://open.spotify.com/artist/7K4kr1J5r8oL1B93QXSQFn) | [Look Closely](https://open.spotify.com/album/6AguoC1pYVFCdEsvlPrhrZ) | 2:43 | 2026-08-21 |  |
 | [Love For Free](https://open.spotify.com/track/4s5I0RCLDgPjUpmmlQbpP1) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Love For Free](https://open.spotify.com/album/6awm6EihJwIoQ5YrEoJG22) | 3:33 | 2024-03-08 |  |
 | [Maia Oh Maia](https://open.spotify.com/track/3VnChEq3PRsTQ3JPA7Gsh4) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Maia Oh Maia](https://open.spotify.com/album/2dDG5MRroFXo6i60i5MnPQ) | 3:55 | 2022-11-17 | 2025-11-13 |
 | [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-09-29 | 2025-11-13 |
@@ -238,7 +241,7 @@
 | [Waveless Sea](https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Waveless Sea](https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s) | 3:59 | 2022-09-01 | 2025-11-13 |
 | [Wayfaring](https://open.spotify.com/track/3H1tlHDW9neo5FtXFPCF5U) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Wayfaring](https://open.spotify.com/album/7IR73M4R78K3v4lp7gsCuA) | 3:59 | 2023-01-05 | 2025-11-13 |
 | [We'll Be Together Again](https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [We'll Be Together Again](https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7) | 5:08 | 2024-01-19 | 2026-07-01 |
-| [What Else?](https://open.spotify.com/track/2OmEvRjQ7SK8LreKOA4QIP) | [Sapphire 4](https://open.spotify.com/artist/7K4kr1J5r8oL1B93QXSQFn) | [What Else?](https://open.spotify.com/album/04kJlLsBH8dwU7NVTEZqZ2) | 3:08 | 2026-04-24 |  |
+| [What Else?](https://open.spotify.com/track/2OmEvRjQ7SK8LreKOA4QIP) | [Sapphire 4](https://open.spotify.com/artist/7K4kr1J5r8oL1B93QXSQFn) | [What Else?](https://open.spotify.com/album/04kJlLsBH8dwU7NVTEZqZ2) | 3:08 | 2026-04-24 | 2026-08-22 |
 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-08-18 | 2025-11-13 |
 | [What´s New](https://open.spotify.com/track/0BL42uZtaUUFXL26jWVmBR) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [What´s New](https://open.spotify.com/album/0c71OvAIq0htZlQAYh4TrT) | 3:38 | 2022-08-18 | 2025-11-13 |
 | [When I Fall In Love](https://open.spotify.com/track/5qua84zdZZxV4dRI1v0WLN) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [When I Fall In Love](https://open.spotify.com/album/2TyUlWNdCzTFItxohR2PO2) | 4:23 | 2022-08-18 | 2025-11-13 |

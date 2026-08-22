@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0sWg0jvufq5vIirWzlas0W.md) - [plain]
 
 > Over 9 hours of music for hanging out at the cottage.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 71,371 likes - 150 songs - 10 hr 23 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 71,395 likes - 150 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Deep House Session](https://open.spotify.com/playlist/37i9dQZF1DWXRzAsbxGrBZ)
 
-> Get revived with some of the best Deep House South Africa has to offer\. Cover: Chronical Deep
+> Get revived with some of the best Deep House South Africa has to offer\. Cover: Judith Sephuma, C\-Blak
 
 387 songs - 1 day 19 hr 50 min
 

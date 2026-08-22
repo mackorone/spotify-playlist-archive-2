@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 117624,
       "name": "copacabana",
       "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
@@ -7526,6 +7526,28 @@
       "duration_ms": 145866,
       "name": "Parenth\u00e8se",
       "url": "https://open.spotify.com/track/6CWz6oc9t9BWHV04JUUgqX"
+    },
+    {
+      "album": {
+        "name": "Parfait pays",
+        "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
+      },
+      "artists": [
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        },
+        {
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139997,
+      "name": "Parfait pays",
+      "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
     },
     {
       "album": {

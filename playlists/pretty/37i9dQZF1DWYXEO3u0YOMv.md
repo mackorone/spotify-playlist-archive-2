@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,720 likes - 181 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,739 likes - 181 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 14 | [eye of the typhoon](https://open.spotify.com/track/3zhoE66htkn5qfzn0i4h3o) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 1:02 |
 | 15 | [in the sea](https://open.spotify.com/track/6hShfxTdYcC7YQ3AhfRedv) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 1:06 |
 | 16 | [またたく宇宙（ソラ）に憧れて](https://open.spotify.com/track/4vutL5MOKfY8KTXXMmrsVB) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [ゾンビランドサガ ゆめぎんがパラダイス フランシュシュ The Best Paradise](https://open.spotify.com/album/1k0m2BAv3UyuhSZp1yV8T1) | 4:58 |
-| 17 | [yummy goodday](https://open.spotify.com/track/11nZ6Nr5ZBaV9pftKXWXau) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/3ZieclGGBeABFqdp61SPkC) | 3:20 |
+| 17 | [yummy goodday](https://open.spotify.com/track/11nZ6Nr5ZBaV9pftKXWXau) | [セントチヒロ・チッチ](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/3ZieclGGBeABFqdp61SPkC) | 3:20 |
 | 18 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 |
 | 19 | [ウォーアイニー](https://open.spotify.com/track/4JuGfoVTxBosFrjnE1MFh2) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [可愛女子](https://open.spotify.com/album/5GyItnBLvUZ59iEQRbuuaM) | 3:53 |
 | 20 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:40 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 180 | [坂道のメロディ](https://open.spotify.com/track/2LHxO6kg6LJrnqcEgaCbkf) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [プレイボール/坂道のメロディ](https://open.spotify.com/album/58aZzjcq1YjDcwTbjHTEii) | 4:43 |
 | 181 | [アルタイル](https://open.spotify.com/track/6ZDIqgS06Rr5gHXLP6c3Xb) | [秦 基博 meets 坂道のアポロン](https://open.spotify.com/artist/6zbJYUN1FfUnEUAJpLHwCD) | [アルタイル](https://open.spotify.com/album/6DjXIcH9EZBhPeL4auVFf7) | 6:01 |
 
-Snapshot ID: `AAAAAK72nqewzlXnkSoKCBsUzXh9QJ+2`
+Snapshot ID: `AAAAAIHEkwVKnAh6ptN4PV79M6s6LWxq`

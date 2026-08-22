@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Suaaaaaaave \ud83d\udcf8 LNG/SHT y Jos\u00e9 Madero",
+  "description": "Suaaaaaaave \ud83d\udcf8 Kanito Escalante, Gabito Ballesteros, El Bogueto y Calle 24",
   "name": "Rap Latte ",
   "tracks": [
     {
@@ -1561,6 +1561,36 @@
     },
     {
       "album": {
+        "name": "Cali",
+        "url": "https://open.spotify.com/album/6921DJk1AZONak9EoUPAR5"
+      },
+      "artists": [
+        {
+          "name": "Kanito Escalante",
+          "url": "https://open.spotify.com/artist/4Bo2MWN76cTam7PE2GZBj6"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/31o2zBgMVijZ3dNOPBephl"
+    },
+    {
+      "album": {
         "name": "Callada",
         "url": "https://open.spotify.com/album/6bp4wW5h2YUyVVqMD9vZsq"
       },
@@ -2216,7 +2246,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 140000,
       "name": "Cutie",
       "url": "https://open.spotify.com/track/3RDmGrFL4I0v4rkdloT877"
@@ -3470,6 +3500,40 @@
       "duration_ms": 164666,
       "name": "Hey Bro!",
       "url": "https://open.spotify.com/track/64cT22q9OVDfE66S8qHmXQ"
+    },
+    {
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/0faFdiRoAseqHBHMNsxBpE"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291115,
+      "name": "Historias",
+      "url": "https://open.spotify.com/track/0qM1sYOj4vluKnq6Ez6shg"
     },
     {
       "album": {
@@ -5630,7 +5694,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 162998,
       "name": "NOS SOLTAMOS",
       "url": "https://open.spotify.com/track/7t0cd55StuNiC7ETcPxM5l"
@@ -5969,6 +6033,28 @@
     },
     {
       "album": {
+        "name": "METANOIA",
+        "url": "https://open.spotify.com/album/7yZYm93cgHuJLYL8BmuaCo"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "PASEO DE LA FAMA",
+      "url": "https://open.spotify.com/track/0tEJMtAVrBDsfZLLnPz4bt"
+    },
+    {
+      "album": {
         "name": "Pausa (Remix)",
         "url": "https://open.spotify.com/album/6ex7ZduWRPvw5JNZ5HyDeB"
       },
@@ -5988,6 +6074,24 @@
       "duration_ms": 222000,
       "name": "Pausa - Remix",
       "url": "https://open.spotify.com/track/3HrpdOpGUB3TyRzm84H7D8"
+    },
+    {
+      "album": {
+        "name": "Pecado de Oro, Volumen 1",
+        "url": "https://open.spotify.com/album/7dEEYNGe8iNHlC7H1xfy7v"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242763,
+      "name": "Pecado de Oro, Volumen 1",
+      "url": "https://open.spotify.com/track/2Qj8tMsK4YufbZWXEzVwE9"
     },
     {
       "album": {
@@ -7470,7 +7574,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 203293,
       "name": "sordeados",
       "url": "https://open.spotify.com/track/0XpjFBl5xm7PQOui2MGRJI"
@@ -8808,7 +8912,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 193421,
       "name": "X TUS BESOS",
       "url": "https://open.spotify.com/track/4WxMOf3GqLRiIDufeI07NG"

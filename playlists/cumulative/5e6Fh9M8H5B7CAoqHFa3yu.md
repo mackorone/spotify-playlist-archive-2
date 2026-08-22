@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,479 songs - 6 day 1 hr 52 min
+2,484 songs - 6 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [DON JOSÉ](https://open.spotify.com/track/6PnyBXXOnhM0cumDIy4He3) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [DON JOSÉ](https://open.spotify.com/album/58uAz87OfcgRwB0o5evMPY) | 4:24 | 2026-04-18 |  |
 | [Don't Give Up](https://open.spotify.com/track/7FjhQCzRb6Gosec1DzVgCV) | [Bagjuice](https://open.spotify.com/artist/4oWnABl83YPO88wXnPflld) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 4:18 | 2024-03-23 |  |
 | [Don't Look Back in Anger](https://open.spotify.com/track/2FBkcodY7UuGAhXibIyAGC) | [Shadows Become Substance](https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm) | [The Land Of Ambiguity](https://open.spotify.com/album/0Ci7sRw04ZlOaRvYjnLGsC) | 4:32 | 2025-12-20 |  |
+| [Don't Remember](https://open.spotify.com/track/0coZLUJAyKfdywx3cuiMhu) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Don't Remember](https://open.spotify.com/album/5gycPqdPjbDFaE4pe3WLyH) | 1:29 | 2026-08-21 |  |
 | [Don't Say Goodbye](https://open.spotify.com/track/6DtJ6Nyuhr50ooAAnzeQUP) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Don't Say Goodbye](https://open.spotify.com/album/6rZrZwQZpy20yw9RoEfnlY) | 3:46 | 2026-07-29 |  |
 | [Don't Wanna Leave](https://open.spotify.com/track/0DgRl8r8V2I64OJHswUHTg) | [Matt B](https://open.spotify.com/artist/5UIhurWmSlzXbfilRY4DPd) | [Don't Wanna Leave](https://open.spotify.com/album/14mV820Kf9b5W1UVaE8iHY) | 3:26 | 2025-10-07 |  |
 | [Donde Caben Mis Sueños](https://open.spotify.com/track/2JbLGmbohs2648kDXsqJD9) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Donde Caben Mis Sueños](https://open.spotify.com/album/2Agar5A3Iwtqs2JdXhX0qb) | 1:37 | 2026-03-12 |  |
@@ -953,6 +954,7 @@
 | [I Can't Stop](https://open.spotify.com/track/5GyGdqwleI3rB3AjL3INiG) | [Catramina](https://open.spotify.com/artist/26oatZsfAD7qSzz8iEeXx1) | [Everything Runs for Nothing](https://open.spotify.com/album/0L6fCqGi6BwI30LIrinsEh) | 6:14 | 2026-05-04 |  |
 | [I Caught Myself Staring at the Sun](https://open.spotify.com/track/7nt8EJB87yY6rBU803pcNI) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 2:05 | 2025-09-24 |  |
 | [I Don't Listen To You](https://open.spotify.com/track/63RGHd3E9rqdo0H1y0yK7e) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Don't Listen To You](https://open.spotify.com/album/69E1nz3zfEYnOqxOChoxPi) | 2:01 | 2024-03-04 |  |
+| [I Don't Wanna](https://open.spotify.com/track/2dBISZAkoPUFtSxXOrzFWg) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [I Don't Wanna](https://open.spotify.com/album/3uAjKCqmcjrqWzUk2CBLDw) | 4:18 | 2026-08-21 |  |
 | [I Dub On A Sunday \- Dub\-I Remix](https://open.spotify.com/track/3QHR0VsH7hgVnr7Nfn6afg) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq), [Dub\-I](https://open.spotify.com/artist/60P6fKJzqcWscbc9PeCtZw) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 5:47 | 2024-05-01 |  |
 | [I Fell / Ocean Wave](https://open.spotify.com/track/3Enfhcrh3pHoeA6Au0DHFm) | [Mikefashoo\_](https://open.spotify.com/artist/1dSwpFodA4gdkSD982tCUn) | [A Bad Idea](https://open.spotify.com/album/0L1xcKniGRVcE6w8JRPFTU) | 2:11 | 2025-07-04 |  |
 | [I Find More](https://open.spotify.com/track/5sEUa1SYgAJbzVO3EYfwVS) | [Laurie Larson](https://open.spotify.com/artist/7kETQcK3nvWn1jEqi43h0M) | [I Find More](https://open.spotify.com/album/04Abxh0v1uy7lLY1czJmQX) | 3:06 | 2026-02-25 |  |
@@ -1305,6 +1307,7 @@
 | [Maranatha \- Discomix](https://open.spotify.com/track/0chDkdksTi9LwbdSJW7Fg5) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 3:51 | 2024-05-01 |  |
 | [Maranatha \- Dub & Discomix](https://open.spotify.com/track/6Pf1aoqWgqrbETmS3OPoF7) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Maranatha \(Dub & Discomix\)](https://open.spotify.com/album/18SuGpHLFrRQKHQ7ojUFub) | 7:29 | 2024-06-30 |  |
 | [Maria](https://open.spotify.com/track/39Y2IOQo5wsxs9JVLaunmA) | [Rich.p](https://open.spotify.com/artist/1Qbx5pB7aI2zC8KW53P1ss) | [Maria](https://open.spotify.com/album/5hcluXylyHOIKCnViHbHhM) | 2:57 | 2025-05-19 |  |
+| [Maria Giuanna \- Orchestral Version](https://open.spotify.com/track/4DmzbYKEiljwvHubLwb6lW) | [Los Amigos](https://open.spotify.com/artist/0r5bcdtdDTvbKqzgicuo84), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Maria Giuanna \(Orchestral Version\)](https://open.spotify.com/album/6wKhonMn1CAhj0YN6mxCcO) | 3:02 | 2026-08-21 |  |
 | [Martial Dub](https://open.spotify.com/track/7z3iDbDiQqDCEQcOMSSunN) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:15 | 2024-05-01 |  |
 | [Mas Não É](https://open.spotify.com/track/6cu8m4kokg6YRpsIlWYLtr) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 2:31 | 2026-05-27 |  |
 | [Mash Down Satan](https://open.spotify.com/track/3QYP369ZySdtENugoueUJB) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 7:49 | 2024-05-01 |  |
@@ -1318,6 +1321,7 @@
 | [Matory](https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Matory](https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4) | 2:31 | 2026-06-23 |  |
 | [May It Be](https://open.spotify.com/track/1wIQ2Nm0raqOapHK4bCD3J) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [May It Be](https://open.spotify.com/album/6o6RblnNPtSpuIdv5p2cZe) | 3:31 | 2023-03-15 |  |
 | [Maybe I](https://open.spotify.com/track/05aSqaoNdnrRSqU0ld1VcX) | [UNICK STAR](https://open.spotify.com/artist/2TfAtK1FEbbyKIx1jwJrKL) | [Maybe I](https://open.spotify.com/album/6XQci72te4yZnxA4GK7XpP) | 2:33 | 2025-06-24 |  |
+| [Me Partes el Alma](https://open.spotify.com/track/4hiEnddFwCsFT2ZMmHd4Vw) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/36A4gGmNg8qcTEbeb78iJ5) | 3:02 | 2026-08-21 |  |
 | [Me Rindo](https://open.spotify.com/track/4T4Rx7ApdVoMyeteFglpJ1) | [Michael Todd Brown](https://open.spotify.com/artist/1UVbWulqbJhDEpYxvOmHJa), [Tuva Paloma](https://open.spotify.com/artist/6uYz66bkpyYpokipvgIRrT) | [Me Rindo](https://open.spotify.com/album/0saQU98ixtjrMD3M6EXQ73) | 5:46 | 2026-04-30 |  |
 | [Me so' scocciata](https://open.spotify.com/track/6FV5RW9ofs1OOmQHLKqprF) | [Vala](https://open.spotify.com/artist/6timg8G6gpXauaqPKGzfIt) | [Me so' scocciata](https://open.spotify.com/album/3WTJvCmOnLBI5vHgCzrmTC) | 3:31 | 2025-05-29 |  |
 | [Meat Beat Manifestation \#2](https://open.spotify.com/track/0E1p2v24IJn99OeQq2JFNQ) | [MC 900 Ft\. Jesus](https://open.spotify.com/artist/2S8nYaxyItH72O4dhRWTPq) | [Welcome To My Dream](https://open.spotify.com/album/4InNADufitzJWnZQ1b6h08) | 4:04 | 2026-02-07 |  |
@@ -1506,6 +1510,7 @@
 | [No Peace](https://open.spotify.com/track/6j1FRcO0AlBxkoFFqwhnCb) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu), [Pasnbesa](https://open.spotify.com/artist/5Y2bckLQhabsfHtaQ5rHZq) | [No Peace](https://open.spotify.com/album/4he5tNS0pe4NllI3n3sLVB) | 3:57 | 2024-09-21 |  |
 | [No Surprise](https://open.spotify.com/track/00tb7IKUhzkWp1Fn7sVkIj) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA), [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [No Surprise](https://open.spotify.com/album/3uDruTtmzLmWTRzOiwGp8F) | 4:15 | 2026-03-26 |  |
 | [No te Quieren Conmigo](https://open.spotify.com/track/0Usktz4px5OykVVxdDQHvM) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No te Quieren Conmigo](https://open.spotify.com/album/1myRJMwsRY6EXrNQYw7eCA) | 2:06 | 2026-03-12 |  |
+| [No Te Voy A Perder](https://open.spotify.com/track/1spu2SwHv1HetlN1dxl41n) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [No Te Voy A Perder](https://open.spotify.com/album/06dX0pQJFwrfgKVyyxYZBv) | 3:30 | 2026-08-21 |  |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2025-12-01 |  |
 | [No WW3](https://open.spotify.com/track/25YGdL2WclZGjmq6YA027U) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 4:01 | 2024-03-23 |  |
 | [No\. 29](https://open.spotify.com/track/3plyGpDgzfrnZbpElpfioV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 1:38 | 2026-04-12 |  |

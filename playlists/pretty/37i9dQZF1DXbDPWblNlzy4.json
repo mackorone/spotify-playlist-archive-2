@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Aitana",
-  "num_followers": 68233,
+  "num_followers": 68232,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANPNIMJ/cf8cRiFwt+mQzkP/vHc0",
+  "snapshot_id": "AAAAACbjDVIHhXmHcWIaqPe1ebr36tq4",
   "tracks": [
     {
       "added_at": "2026-04-21 23:32:30",
@@ -23,6 +23,22 @@
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-08-21 04:59:14",
+      "album": {
+        "name": "Tu lunar",
+        "url": "https://open.spotify.com/album/5n5GfmjH1zHT8htiBsjKOT"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 138850,
+      "name": "Tu lunar",
+      "url": "https://open.spotify.com/track/6IVFgWwTxe3pBwNqC1Mpiw"
     },
     {
       "added_at": "2026-08-07 04:59:16",
@@ -167,6 +183,54 @@
       "duration_ms": 141874,
       "name": "Alguien aqui",
       "url": "https://open.spotify.com/track/1cxiTnSdoLscxNU25iCPg5"
+    },
+    {
+      "added_at": "2026-08-21 04:59:14",
+      "album": {
+        "name": "AREPA CON TINTO",
+        "url": "https://open.spotify.com/album/3uH7B6JC0D6dEcEG0HqJVF"
+      },
+      "artists": [
+        {
+          "name": "Emilio Cabra",
+          "url": "https://open.spotify.com/artist/0v3BbC31xeFTsSemq1ApgI"
+        }
+      ],
+      "duration_ms": 125209,
+      "name": "AREPA CON TINTO",
+      "url": "https://open.spotify.com/track/3rAYvZnTPOqmOXOBDOsVKo"
+    },
+    {
+      "added_at": "2026-08-21 04:59:14",
+      "album": {
+        "name": "Ando (bye, ya me voy\u2026)",
+        "url": "https://open.spotify.com/album/13fYNWj8sbBb89e0xbMi1f"
+      },
+      "artists": [
+        {
+          "name": "Emyl Rusev",
+          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "Ando (bye, ya me voy\u2026)",
+      "url": "https://open.spotify.com/track/1SibhfQCLiuL7qyYLwNZOc"
+    },
+    {
+      "added_at": "2026-08-21 04:59:14",
+      "album": {
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 188612,
+      "name": "Doma",
+      "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
     },
     {
       "added_at": "2026-07-01 14:25:35",
@@ -623,22 +687,6 @@
     {
       "added_at": "2026-03-26 18:25:59",
       "album": {
-        "name": "SECO",
-        "url": "https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 276566,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/2kGWsi1lTLiDtru26eGKUs"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
         "name": "un",
         "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
@@ -747,22 +795,6 @@
       "duration_ms": 154794,
       "name": "Misi\u00f3n Imposible",
       "url": "https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "CANTO A LA VIDA",
-        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "CANTO A LA VIDA",
-      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
     },
     {
       "added_at": "2026-03-26 18:25:59",

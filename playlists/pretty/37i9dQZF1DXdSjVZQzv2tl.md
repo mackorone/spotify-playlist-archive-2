@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Pedro e Benício
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,080,747 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,079,927 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 39 | [Baqueado \- Ao Vivo](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação \(Ao Vivo\)](https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC) | 2:26 |
 | 40 | [Caos De Alguém \- Ao Vivo](https://open.spotify.com/track/2zxgWjSwtiMOz5xx3m2rr4) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Caos De Alguém \(Ao Vivo\)](https://open.spotify.com/album/1YUSSTubZOirrPOnGpt7gf) | 2:34 |
 
-Snapshot ID: `AAAAAEXb35Y3FuxP2WRK94eOdP0A4Xi+`
+Snapshot ID: `AAAAAFiIBEzwQqG+Nj3TjgMY3vlROS2S`

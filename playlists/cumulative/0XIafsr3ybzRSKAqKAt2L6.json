@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "The Conducted Tom Lehrer",
+        "url": "https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq"
+      },
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "url": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169988,
+      "name": "The Masochism Tango (Stereo Mix)",
+      "url": "https://open.spotify.com/track/0WVWNxudOyk0ncLpl1EsU1"
+    },
+    {
+      "album": {
         "name": "The Fall of Hobo Johnson",
         "url": "https://open.spotify.com/album/3QrkHSj8pBzE1Kwhpnktkw"
       },

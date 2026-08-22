@@ -1,15 +1,15 @@
 {
   "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Fernandinho",
-  "num_followers": 378489,
+  "num_followers": 378775,
   "original_name": "Novidades Religiosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAELXrTZmXQMw+PM0G9KMwRjnOgy",
+  "snapshot_id": "AAAAAD8cjCn3tTvnsZVBqMKfVW2cGUkD",
   "tracks": [
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "COMUNH\u00c3O - Fernandinho Em Casa, vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0ISYegqyS3fP4C1aMuR65b"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Quem Tem Chamado",
         "url": "https://open.spotify.com/album/2ufPnrr8GWVNXoqBtQn3Pe"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/63y85hb2zEvBD9r5QZMe7N"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Meu Prazer (Ao Vivo)",
         "url": "https://open.spotify.com/album/6VwiR2NrHWfMieaYPOmmdL"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5TrtYPxvCDahTT68SA5WQ9"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Vencendo de Joelhos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3fZmJsxEKccWynHXnsqxnp"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/1gk1YLKK4HmJzAWL9teEsU"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Senten\u00e7a Pronta (Ao Vivo)",
         "url": "https://open.spotify.com/album/4o6ugEdKQ2wnJh2rZ5fFFd"
@@ -105,27 +105,67 @@
       "url": "https://open.spotify.com/track/5gqAVYwZfCYQVa0wPKPwu4"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
-        "name": "Imperfeito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2JZNenqOJINmbMbw8msRY9"
+        "name": "Eu Creio em Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BlUEO0f1ZbDOkipT6gT2I"
       },
       "artists": [
         {
-          "name": "J\u00falia Rebeca",
-          "url": "https://open.spotify.com/artist/4yXzgu0k50y7aH9n1LRjXC"
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
         },
         {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 331786,
-      "name": "Imperfeito - Ao Vivo",
-      "url": "https://open.spotify.com/track/3sqLvSiwdtqXoYtQg2gXTB"
+      "duration_ms": 210333,
+      "name": "Eu Creio em Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04YIUKP8wjuLPFAkClJizL"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
+      "album": {
+        "name": "O C\u00e9u \u00c9 o Meu Lar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3NRVpQ0qlPEoMGj5I3fOfB"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        }
+      ],
+      "duration_ms": 437408,
+      "name": "Mais do que Cantar - Ao Vivo",
+      "url": "https://open.spotify.com/track/36tCsZ3d4eRksmOEhWzQlJ"
+    },
+    {
+      "added_at": "2026-08-21 17:07:39",
+      "album": {
+        "name": "Sim e Am\u00e9m",
+        "url": "https://open.spotify.com/album/3jXHbvOx6K7TMyIxnpDmbG"
+      },
+      "artists": [
+        {
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+        },
+        {
+          "name": "Gabriela Maganete",
+          "url": "https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb"
+        },
+        {
+          "name": "Pev\u00ea Brito",
+          "url": "https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g"
+        }
+      ],
+      "duration_ms": 327132,
+      "name": "Can\u00e7\u00e3o de Mois\u00e9s",
+      "url": "https://open.spotify.com/track/1e9K626LI5UKPGqAeIsogq"
+    },
+    {
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Onde Est\u00e1s",
         "url": "https://open.spotify.com/album/4Rc8EsnkqTTMSamQmrrRvr"
@@ -145,55 +185,7 @@
       "url": "https://open.spotify.com/track/70WBzLZoBdGCPToRclB51T"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
-      "album": {
-        "name": "Quem Acreditou? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ikzr3qltQbxeZbk1RPBQE"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        }
-      ],
-      "duration_ms": 269791,
-      "name": "Quem Acreditou? (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ESf40WGVTv450A0onhMvq"
-    },
-    {
-      "added_at": "2026-08-14 03:01:39",
-      "album": {
-        "name": "Abra\u00e7a-me (Voz e Viol\u00e3o Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ouRGD0N8jSLBKa94B2BdH"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "Abra\u00e7a-me (Voz e Viol\u00e3o Ao Vivo)",
-      "url": "https://open.spotify.com/track/5q2f5otksq3o7b7yRF8rC2"
-    },
-    {
-      "added_at": "2026-08-14 03:01:39",
-      "album": {
-        "name": "Dono da Minha Vida",
-        "url": "https://open.spotify.com/album/09LxDRpvBBt9cnPeJVXBko"
-      },
-      "artists": [
-        {
-          "name": "Larissa Santos",
-          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Dono da Minha Vida",
-      "url": "https://open.spotify.com/track/6DVWz89s1uxQzhoQ4M8puX"
-    },
-    {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Paix\u00e3o & Devo\u00e7\u00e3o Vol. 3",
         "url": "https://open.spotify.com/album/6d0rTbb20X0GF1XnqYLVEj"
@@ -209,7 +201,7 @@
       "url": "https://open.spotify.com/track/54KatL2KNQbsrCqnG6FHRk"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Magnificado (A Comunh\u00e3o - Um Projeto Louvor Eterno)",
         "url": "https://open.spotify.com/album/14qZdMWFuPIrYB1JDuE0H8"
@@ -233,7 +225,7 @@
       "url": "https://open.spotify.com/track/5ynsIIPwoyBJcJVWMdcIMP"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "O Espirito do Senhor",
         "url": "https://open.spotify.com/album/7M72SYnWUbuXFac5LOVwjv"
@@ -253,7 +245,7 @@
       "url": "https://open.spotify.com/track/7H9IePu1u4aTdkfqy77E6Q"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Fiel no Pouco (Ao Vivo)",
         "url": "https://open.spotify.com/album/0ixm6r9eUzO3re0cjqRkB8"
@@ -269,7 +261,7 @@
       "url": "https://open.spotify.com/track/2pwPm4X4FHHddSh9cGWUSD"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Teu Fogo",
         "url": "https://open.spotify.com/album/1c8B1KcA8rzMHxou5P32kd"
@@ -285,7 +277,7 @@
       "url": "https://open.spotify.com/track/5IsAIbitRY2L3Ze9UxHBht"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "\u00c9 Tudo Sobre Voc\u00ea",
         "url": "https://open.spotify.com/album/0Q4PPOHoXlJc8HYvL55vax"
@@ -301,7 +293,7 @@
       "url": "https://open.spotify.com/track/2qvCBW7I72DTT4NCS8QUUx"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Vem Com Fogo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2fNJKeMpOkWFImebNeEsxS"
@@ -321,7 +313,7 @@
       "url": "https://open.spotify.com/track/66RG7nrkCGdfdAaHDxRnI1"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Pagode do Restaura",
         "url": "https://open.spotify.com/album/6NaNV3YfcHBJoRgeiYXY8L"
@@ -337,7 +329,7 @@
       "url": "https://open.spotify.com/track/0yz166SybhYFXgBBK9ZwW6"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Voc\u00ea Vai Chegar",
         "url": "https://open.spotify.com/album/1kG2m6EM1BwfJ0fYvIJ1v0"
@@ -365,7 +357,7 @@
       "url": "https://open.spotify.com/track/4leQkS7OykGQT6isQoiLCr"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Barco a Vela: \u00c1guas Mais Profundas (Ac\u00fastico), Ep. 2 [Ao Vivo]",
         "url": "https://open.spotify.com/album/4L1yRi7kFLAEqWedm3JgAn"
@@ -385,7 +377,7 @@
       "url": "https://open.spotify.com/track/4NWLkMDaK5X1fo1IdpsfT7"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Levantamos Nossa Fome (Ao Vivo)",
         "url": "https://open.spotify.com/album/1HHblapUDmMw1QAnlWf8d1"
@@ -409,7 +401,7 @@
       "url": "https://open.spotify.com/track/5qW5Re2Qzs7cYAYEAc5XZE"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Conta as B\u00ean\u00e7\u00e3os",
         "url": "https://open.spotify.com/album/2qzZoB2svc1vifjECC7pOr"
@@ -429,7 +421,7 @@
       "url": "https://open.spotify.com/track/40Hexa4vjEwwJDH9Pq8WMJ"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Primeiros Versos",
         "url": "https://open.spotify.com/album/2nNZiOFimPlgD7BtW9q62a"
@@ -449,7 +441,7 @@
       "url": "https://open.spotify.com/track/36PKCPADlGkdPgQr1SmTjX"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Beth\u00e2nia (Ao Vivo)",
         "url": "https://open.spotify.com/album/0tU16xF0z8Vsbnoqq13nC9"
@@ -469,71 +461,119 @@
       "url": "https://open.spotify.com/track/5dKnvCUp7jX85aQZsdFdlT"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
-        "name": "Agindo Diferente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/54yBgdjOqnR1f1TEHo1vdx"
+        "name": "Sou Filho",
+        "url": "https://open.spotify.com/album/3gJRxajbYSW2nrJFeAWTl8"
       },
       "artists": [
         {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+          "name": "Rachel Malafaia",
+          "url": "https://open.spotify.com/artist/1xyrtLIDTu5kRTCvnHgIcJ"
         }
       ],
-      "duration_ms": 323188,
-      "name": "Agindo Diferente - Ao Vivo",
-      "url": "https://open.spotify.com/track/514iKhGRzeO2zNogmHMgoY"
+      "duration_ms": 307928,
+      "name": "Sou Filho - Ao Vivo",
+      "url": "https://open.spotify.com/track/1newh5AHLiEyx4SuMUUFzZ"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
-        "name": "Paix\u00e3o & Devo\u00e7\u00e3o Vol. 2",
-        "url": "https://open.spotify.com/album/6BdFlr7wgarEwe1n7QVVqt"
+        "name": "Deus Cuida de Mim (Voz e Viol\u00e3o Ao Vivo)",
+        "url": "https://open.spotify.com/album/25bWpgQoeSE5CAyxs4vbNl"
       },
       "artists": [
         {
-          "name": "Thamires Garcia",
-          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
         }
       ],
-      "duration_ms": 207338,
-      "name": "S\u00f3 Voc\u00ea \u00e9 Deus",
-      "url": "https://open.spotify.com/track/30wWUZxqjdgSSlc61gOSkJ"
+      "duration_ms": 263280,
+      "name": "Deus Cuida de Mim (Voz e Viol\u00e3o Ao Vivo)",
+      "url": "https://open.spotify.com/track/0OaPvYFVlB7wvwo3ocUhKY"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
-        "name": "A Vida",
-        "url": "https://open.spotify.com/album/0WMTKjElVvsBjjXGoTf8Dr"
+        "name": "Se N\u00e3o Fosse a M\u00e3o de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/76xXEWlvWurFVzD2fKaa0v"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
         }
       ],
-      "duration_ms": 292865,
-      "name": "Os 10 Leprosos",
-      "url": "https://open.spotify.com/track/3Prns4NkrWd99Dv4LTjGyi"
+      "duration_ms": 234040,
+      "name": "Se N\u00e3o Fosse a M\u00e3o de Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0fYBQK4CWc4nf4rHS5snHL"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
-        "name": "Rude Cruz",
-        "url": "https://open.spotify.com/album/08kXDtJsFDxcZUxzpzZPy6"
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5eAd1GeHkwFJQxGlUpOooj"
       },
       "artists": [
         {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 351700,
-      "name": "Rude Cruz",
-      "url": "https://open.spotify.com/track/1gHHUpvKmNsO9QnBfxwkXa"
+      "duration_ms": 412173,
+      "name": "Reden\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3pyATxiqfv9rzbUH1Z16NP"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
+      "album": {
+        "name": "Quem Acreditou? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ikzr3qltQbxeZbk1RPBQE"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        }
+      ],
+      "duration_ms": 269791,
+      "name": "Quem Acreditou? (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ESf40WGVTv450A0onhMvq"
+    },
+    {
+      "added_at": "2026-08-21 17:07:39",
+      "album": {
+        "name": "Abra\u00e7a-me (Voz e Viol\u00e3o Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ouRGD0N8jSLBKa94B2BdH"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Abra\u00e7a-me (Voz e Viol\u00e3o Ao Vivo)",
+      "url": "https://open.spotify.com/track/5q2f5otksq3o7b7yRF8rC2"
+    },
+    {
+      "added_at": "2026-08-21 17:07:39",
+      "album": {
+        "name": "Dono da Minha Vida",
+        "url": "https://open.spotify.com/album/09LxDRpvBBt9cnPeJVXBko"
+      },
+      "artists": [
+        {
+          "name": "Larissa Santos",
+          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Dono da Minha Vida",
+      "url": "https://open.spotify.com/track/6DVWz89s1uxQzhoQ4M8puX"
+    },
+    {
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "+Maria+Jesus",
         "url": "https://open.spotify.com/album/6kDHmR7NsfyzBTxq3XPjmi"
@@ -553,7 +593,7 @@
       "url": "https://open.spotify.com/track/5ALrCIAYdORYahMzFu6fRE"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "A Esperan\u00e7a Eu Encontrei (Ao Vivo)",
         "url": "https://open.spotify.com/album/50CkeENOWN2htnvBs8OloW"
@@ -569,7 +609,7 @@
       "url": "https://open.spotify.com/track/74gJaHljc150NvZAZQ8MPJ"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "A Igreja Vai Subir",
         "url": "https://open.spotify.com/album/1eJmPzVGlspWZIi3F7QPTH"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/21renLGqK8yyC9PDDxycgC"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Yeshua, Casa Comigo (Live Acoustic)",
         "url": "https://open.spotify.com/album/3aZqpI382HG8mlgXxTk6OO"
@@ -609,7 +649,7 @@
       "url": "https://open.spotify.com/track/3jgG1U6KjzY7an5o7MENZY"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Eu e Minha Casa | 25 Anos - Parte 1: Promessa (Ao Vivo)",
         "url": "https://open.spotify.com/album/41cXkG45fsdclxqCPrl5Ku"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/1cUoKfTYF4CIMgkPjh9oAY"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Totalmente Poderoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/5yaupvi51aNood4uYEkvR0"
@@ -649,7 +689,7 @@
       "url": "https://open.spotify.com/track/2bT1dqHozRSLiTat7jhO2r"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Pega Tua Cama e Anda (Ao Vivo)",
         "url": "https://open.spotify.com/album/669IiP612PRBRMYumsrwNT"
@@ -665,7 +705,7 @@
       "url": "https://open.spotify.com/track/6RBvqvmBix1CsWwrZBBZkG"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Nenhum Outro Como Tu/ Tudo Pra Mim Tu \u00c9s",
         "url": "https://open.spotify.com/album/1fSJFFFmzdhtUVXTcyYa30"
@@ -685,7 +725,7 @@
       "url": "https://open.spotify.com/track/1r5wf52sZA281pxFYVCW6Y"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Arvoreando (Ao Vivo)",
         "url": "https://open.spotify.com/album/0HfPOEYcdBEFCZOdfwl88D"
@@ -705,7 +745,7 @@
       "url": "https://open.spotify.com/track/0RmwZYYflofJBAD79uhthh"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Princ\u00edpio de Tudo",
         "url": "https://open.spotify.com/album/239nnvebRJkjybvLODEyC0"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/2SOjj1ulL0kTJrRij9bJdt"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Na Face de Deus",
         "url": "https://open.spotify.com/album/4SqyF7EMwS0LEzX8MJv2jy"
@@ -745,7 +785,7 @@
       "url": "https://open.spotify.com/track/5gEqIlsNrfEFIXWu6lqaak"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Tom\u00e9",
         "url": "https://open.spotify.com/album/4EdCKDsG1dLhfL0gG0ZrVD"
@@ -765,7 +805,7 @@
       "url": "https://open.spotify.com/track/5FxGf4EkOjp9ipOJm63gE7"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Vai Na Marcha (Ao Vivo)",
         "url": "https://open.spotify.com/album/3A2EMRi9DGQX0WrSYLTgEn"
@@ -781,7 +821,7 @@
       "url": "https://open.spotify.com/track/6q42oS1qFrSId3EErGDXsA"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Trono da gra\u00e7a (Nas Casas)",
         "url": "https://open.spotify.com/album/1BLbBAmGPavpwSRXm0luHE"
@@ -801,23 +841,7 @@
       "url": "https://open.spotify.com/track/4ugAmu8O49msugx5zdBs0h"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
-      "album": {
-        "name": "Derramaria",
-        "url": "https://open.spotify.com/album/242XcODrGXHcm3oX20MYjH"
-      },
-      "artists": [
-        {
-          "name": "BENITO",
-          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
-        }
-      ],
-      "duration_ms": 270222,
-      "name": "Derramaria",
-      "url": "https://open.spotify.com/track/6DeLXcaLGkqwuZv1UeHKQM"
-    },
-    {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "C\u00e9us Abertos",
         "url": "https://open.spotify.com/album/3eZYrvcjaTkmq3ujEqypf5"
@@ -837,7 +861,7 @@
       "url": "https://open.spotify.com/track/0PYGOW02IGj6FHxODgbNJ6"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "\u00d4 Jac\u00f3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0ovHBGGkSWbtigt8Zt72jM"
@@ -853,7 +877,7 @@
       "url": "https://open.spotify.com/track/55Ju8dj0CNc0NZ9gqsN6Ro"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Imperativo Categ\u00f3rico",
         "url": "https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0"
@@ -869,23 +893,7 @@
       "url": "https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
-      "album": {
-        "name": "Preparem o Caminho",
-        "url": "https://open.spotify.com/album/4xc1E3kAL5NVRpqb5JwyDF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Lanza",
-          "url": "https://open.spotify.com/artist/6MdZMOTIGQlJUOjfT02Q2J"
-        }
-      ],
-      "duration_ms": 368637,
-      "name": "Preparem o Caminho",
-      "url": "https://open.spotify.com/track/4qjuwx4exGGzYSNGpLTrH2"
-    },
-    {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Espelho",
         "url": "https://open.spotify.com/album/3BzesyNkmHObHIIOKuBMAN"
@@ -901,7 +909,7 @@
       "url": "https://open.spotify.com/track/5XmeZzlMKtOd9dOfLpqDY1"
     },
     {
-      "added_at": "2026-08-14 03:01:39",
+      "added_at": "2026-08-21 17:07:39",
       "album": {
         "name": "Estou Te Esperando (Ao Vivo)",
         "url": "https://open.spotify.com/album/3aXICAnXXEGrUi1evWbiwz"

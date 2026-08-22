@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 54920,
+  "num_followers": 54924,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAABvswVm6i0sbdpTw8Um2fLC",
+  "snapshot_id": "aoZDgAAAAACP96VvQh9DthgCipAcw3ge",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Gold Lion",
-      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 230213,
       "name": "Sacrilege",
       "url": "https://open.spotify.com/track/2pQZ9g4vaFNXO42kMe8e3w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Gold Lion",
+      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "IS IS",
-        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 232933,
-      "name": "Down Boy",
-      "url": "https://open.spotify.com/track/3rJKyc4VZJtIVXHoNnZA4d"
+      "duration_ms": 238040,
+      "name": "Cheated Hearts",
+      "url": "https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+        "name": "Is Is EP",
+        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 238040,
-      "name": "Cheated Hearts",
-      "url": "https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc"
+      "duration_ms": 233026,
+      "name": "Down Boy",
+      "url": "https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 313386,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
+      "duration_ms": 258533,
+      "name": "Under The Earth",
+      "url": "https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 258533,
-      "name": "Under The Earth",
-      "url": "https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO"
+      "duration_ms": 313386,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
-        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 246146,
       "name": "Slave",
       "url": "https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
+        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Little Shadow",
-      "url": "https://open.spotify.com/track/5zej8rkeH4vSDw5mKSeDeT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Little Shadow",
+      "url": "https://open.spotify.com/track/5zej8rkeH4vSDw5mKSeDeT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fever To Tell",
         "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 184126,
       "name": "Poor Song",
       "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 197759,
       "name": "Thirteen - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 120773,
-      "name": "Art Star",
-      "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 191093,
       "name": "Rockers To Swallow",
       "url": "https://open.spotify.com/track/4MFhnFd5IlotC8L4E4ZifJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 120773,
+      "name": "Art Star",
+      "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 51579,
+  "num_followers": 51583,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAADtRo+FFhKiSJNBvB4pw6kH",
+  "snapshot_id": "aoZDgAAAAAAKDP17G6Z30JXm73zzfJwu",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aqu\u00ed En Tu Presencia",
+        "url": "https://open.spotify.com/album/2Gf51jWTYj7DfKmnf3JQKj"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan y Sofi",
+          "url": "https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT"
+        }
+      ],
+      "duration_ms": 252977,
+      "name": "Salmo 34",
+      "url": "https://open.spotify.com/track/6vdRyO5FAmRLECLdnznm3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
       },
@@ -479,30 +503,6 @@
       "duration_ms": 280893,
       "name": "Eres Todo Para Mi",
       "url": "https://open.spotify.com/track/6aezJWkgWXc8KlVM5dBsf5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aqu\u00ed En Tu Presencia",
-        "url": "https://open.spotify.com/album/2Gf51jWTYj7DfKmnf3JQKj"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan y Sofi",
-          "url": "https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT"
-        }
-      ],
-      "duration_ms": 252977,
-      "name": "Salmo 34",
-      "url": "https://open.spotify.com/track/6vdRyO5FAmRLECLdnznm3n"
     },
     {
       "added_at": null,
@@ -855,18 +855,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK"
+        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
       },
       "artists": [
         {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 411453,
-      "name": "Eres Santo",
-      "url": "https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p"
+      "duration_ms": 564281,
+      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
     },
     {
       "added_at": null,
@@ -935,6 +943,22 @@
       "duration_ms": 359827,
       "name": "Cristo Te Amo",
       "url": "https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 411453,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p"
     },
     {
       "added_at": null,
@@ -1027,46 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
-      },
-      "artists": [
-        {
-          "name": "MISSION MUSICA",
-          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 564281,
-      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 342227,
-      "name": "Hacedor De Milagros",
-      "url": "https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 258640,
       "name": "Permanecer\u00e9 En T\u00ed",
       "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 342227,
+      "name": "Hacedor De Milagros",
+      "url": "https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW"
     }
   ],
   "unique_name": "This Is Generaci\u00f3n 12",

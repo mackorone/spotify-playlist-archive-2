@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "2late",
+        "url": "https://open.spotify.com/album/5qjHQrAOXmJlz6gCQ9cGDX"
+      },
+      "artists": [
+        {
+          "name": "Lancer",
+          "url": "https://open.spotify.com/artist/5vRmD7KJ6YTo3tMKaywbbb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "2late",
+      "url": "https://open.spotify.com/track/72uQrCNSvA8TViHajPbMH9"
+    },
+    {
+      "album": {
         "name": "300 dreams",
         "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
       },
@@ -4214,7 +4232,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 216311,
       "name": "BIG DOG",
       "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 219969,
       "name": "Bitches Talk Shit",
       "url": "https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ"
@@ -5828,7 +5846,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 283255,
       "name": "can we just forget?",
       "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
@@ -7432,7 +7450,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 150000,
       "name": "Collige Virgo Gladium",
       "url": "https://open.spotify.com/track/1mEm2p3mw414tzfToAf9I2"
@@ -8032,6 +8050,28 @@
       "duration_ms": 198578,
       "name": "Counting Thunder",
       "url": "https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT"
+    },
+    {
+      "album": {
+        "name": "countryside",
+        "url": "https://open.spotify.com/album/4Mo5C6wDYX0tzO0cdS1Ac9"
+      },
+      "artists": [
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
+        },
+        {
+          "name": "lilaash",
+          "url": "https://open.spotify.com/artist/729vgKeCJUtP8bNXc8v9Rl"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "countryside",
+      "url": "https://open.spotify.com/track/4sabkYnGutLOU6zhDn9Phd"
     },
     {
       "album": {
@@ -16359,6 +16399,32 @@
     },
     {
       "album": {
+        "name": "HOT WIFE (Remixes)",
+        "url": "https://open.spotify.com/album/1YkWPne7ZcdAFpdTBMapLA"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310661,
+      "name": "HOT WIFE - Fcukers Remix",
+      "url": "https://open.spotify.com/track/66b8n7ZJsl7ztsi4rn2jDg"
+    },
+    {
+      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
@@ -17576,6 +17642,24 @@
       "duration_ms": 154400,
       "name": "if you didnt want me",
       "url": "https://open.spotify.com/track/50TTdw1ApYVu93RW0gKq1e"
+    },
+    {
+      "album": {
+        "name": "ephemera",
+        "url": "https://open.spotify.com/album/1jgg4R1KKIz4QC1Zcvw7Ok"
+      },
+      "artists": [
+        {
+          "name": "amil raja",
+          "url": "https://open.spotify.com/artist/4emKkyOHSx3lMdmNNBZiUt"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189918,
+      "name": "ill be there for u",
+      "url": "https://open.spotify.com/track/2sVCWkak70LJ7mn5NNE74y"
     },
     {
       "album": {
@@ -18856,7 +18940,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 175946,
       "name": "just drifting",
       "url": "https://open.spotify.com/track/76oN9d3SJHX2kHEVT0Mx9B"
@@ -19468,7 +19552,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 171293,
       "name": "landscaper",
       "url": "https://open.spotify.com/track/7FCAR9JMJ29OmljgBJHMy1"
@@ -19914,6 +19998,24 @@
       "duration_ms": 218200,
       "name": "Let's Live",
       "url": "https://open.spotify.com/track/2zFRk9qTiYjc5ZVJ1dBC9j"
+    },
+    {
+      "album": {
+        "name": "Summer at Camp Lakepine",
+        "url": "https://open.spotify.com/album/4Nip5JG2bdFpUyV7ghe0Kq"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107320,
+      "name": "Lets Make Out",
+      "url": "https://open.spotify.com/track/2TUZV5w1x3bh4HKAslMouC"
     },
     {
       "album": {
@@ -22602,7 +22704,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 166401,
       "name": "misery.",
       "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
@@ -23010,6 +23112,24 @@
       "duration_ms": 160240,
       "name": "Moth To A Flame",
       "url": "https://open.spotify.com/track/1o6dVB1RObmLbukInKb8qk"
+    },
+    {
+      "album": {
+        "name": "Mothers Bells",
+        "url": "https://open.spotify.com/album/5hNLHKD4yVFc6FhVLDVkOd"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152748,
+      "name": "Mothers Bells",
+      "url": "https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh"
     },
     {
       "album": {
@@ -25300,7 +25420,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 217960,
       "name": "On Your Mind (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
@@ -26218,7 +26338,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 172173,
       "name": "paradize (popo, Madior, ACHEL)",
       "url": "https://open.spotify.com/track/5w0O9KOCNuFHAged9JhBMo"
@@ -29825,6 +29945,24 @@
     },
     {
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196270,
+      "name": "Selah",
+      "url": "https://open.spotify.com/track/0WaUbPVESJGPPtQvJtSAwm"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -30662,7 +30800,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 184034,
       "name": "SHUT YOUR DAMN 95.7892",
       "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
@@ -30760,7 +30898,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 200200,
       "name": "Sign From God",
       "url": "https://open.spotify.com/track/465ZH6T2yFlcvb7B4J4M05"
@@ -30882,6 +31020,24 @@
       "duration_ms": 219948,
       "name": "SILK SCARF",
       "url": "https://open.spotify.com/track/3RYNXa8YKn0JxglQkv3GeY"
+    },
+    {
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/6av4T66RvMiGH1SaEqYDAH"
+      },
+      "artists": [
+        {
+          "name": "Lover",
+          "url": "https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224815,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/3vNfyV7eeceVZGjBIan5Kv"
     },
     {
       "album": {
@@ -31390,6 +31546,24 @@
       "duration_ms": 186133,
       "name": "SNL",
       "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
+    },
+    {
+      "album": {
+        "name": "SNOW ON THE TABLE",
+        "url": "https://open.spotify.com/album/41J33SFHdCe6YfIhVAPBk4"
+      },
+      "artists": [
+        {
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126374,
+      "name": "SNOW ON THE TABLE",
+      "url": "https://open.spotify.com/track/0KHVv7KPMEnu54Ci5v6e5x"
     },
     {
       "album": {
@@ -35418,7 +35592,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 137480,
       "name": "Tiroteo",
       "url": "https://open.spotify.com/track/1KaBfgt21SXIoIdkmCVSvH"
@@ -38865,6 +39039,24 @@
     },
     {
       "album": {
+        "name": "Yotentha",
+        "url": "https://open.spotify.com/album/2feCJEU6zJczmPdEuGsHcX"
+      },
+      "artists": [
+        {
+          "name": "Joe Ikon",
+          "url": "https://open.spotify.com/artist/7MtFbVZ59RrSPpnuNaVSjD"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194516,
+      "name": "Yotentha",
+      "url": "https://open.spotify.com/track/4EfOdhYGclvxHSQy6RfBl0"
+    },
+    {
+      "album": {
         "name": "You Can Do Anything",
         "url": "https://open.spotify.com/album/19rlZHkqLH1HQ8pS1Bnuyl"
       },
@@ -39162,6 +39354,24 @@
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "album": {
+        "name": "YUL//LGA",
+        "url": "https://open.spotify.com/album/2HDS7toG9kR4IjPeNBZdDv"
+      },
+      "artists": [
+        {
+          "name": "Deadin Dogyears",
+          "url": "https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150052,
+      "name": "YUL//LGA",
+      "url": "https://open.spotify.com/track/4xiIXXnCgenNIesVT9UJeT"
     },
     {
       "album": {

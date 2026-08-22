@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Topic, carteblanche
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,864 likes - 76 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,912 likes - 76 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 56 | [Burn It Up](https://open.spotify.com/track/29Z0BYui9PDLtycxesDFGY) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Burn It Up](https://open.spotify.com/album/6eRc1xh627o4OqEAqj8rbJ) | 3:15 |
 | 57 | [seeing stars](https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |
 | 58 | [Loneliness](https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Loneliness](https://open.spotify.com/album/1bfjSRpS2OWgxFRmxiaQWO) | 3:50 |
-| 59 | [Track 4](https://open.spotify.com/track/5S5FV5JViLL5O5KsZ2PdKx) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Anywhere but Here](https://open.spotify.com/album/2fG1dgPs5HnrsoONBXSPk0) | 0:00 |
+| 59 | [Anywhere but Here](https://open.spotify.com/track/5S5FV5JViLL5O5KsZ2PdKx) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Anywhere but Here](https://open.spotify.com/album/2fG1dgPs5HnrsoONBXSPk0) | 2:22 |
 | 60 | [Promises](https://open.spotify.com/track/4AheaojLivwFaI00d4dAVb) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Promises](https://open.spotify.com/album/1qmYbQQl4KVIO3omsJZWUf) | 3:01 |
 | 61 | [Right Now](https://open.spotify.com/track/6HAXYWo3lLOFl5SJETq1xD) | [Heliograph](https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu), [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD) | [Right Now](https://open.spotify.com/album/3gDvoU6Gs7z6N5BDby4FEa) | 2:17 |
 | 62 | [Everlasting](https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Everlasting](https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok) | 2:37 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 65 | [Touch You](https://open.spotify.com/track/6nobukLD7l9TlScf30KeYz) | [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [Touch You](https://open.spotify.com/album/1Ypikd1iDnni3pPzb87Tih) | 2:14 |
 | 66 | [Bikinis](https://open.spotify.com/track/1a5b0HHRzVzTphUc7si0aw) | [dagi](https://open.spotify.com/artist/2aFXLNXrOTm15mb9zBTG8p), [DHALI](https://open.spotify.com/artist/0sUz3y3TQ9UlD5qehZHfwT), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bikinis](https://open.spotify.com/album/2jCgkXAAKbhfAF5cT1wBhS) | 2:26 |
 | 67 | [Turn Up The Bass](https://open.spotify.com/track/2QL5BIL8ngij9hgLjppSYW) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Turn Up The Bass](https://open.spotify.com/album/7CJm3F9qU26oPl30iRx81L) | 2:27 |
-| 68 | [Track 1](https://open.spotify.com/track/3CSOoLY6Hj8tI2igRkK9f9) | [GOBAITH](https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320) | [Stay](https://open.spotify.com/album/1wcz08GFodbFG5bapoXppR) | 0:00 |
+| 68 | [Stay](https://open.spotify.com/track/3CSOoLY6Hj8tI2igRkK9f9) | [GOBAITH](https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Helionyx](https://open.spotify.com/artist/2uo8DWCuQZL5z2JrKRMmgt), [DOOTS](https://open.spotify.com/artist/29zsjJwamkeghe3CLdjheW) | [Stay](https://open.spotify.com/album/1wcz08GFodbFG5bapoXppR) | 3:04 |
 | 69 | [AVE](https://open.spotify.com/track/3bRkjJimxvXO0q9IMlkFpf) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [LE:GEND](https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2), [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [AVE](https://open.spotify.com/album/58VdxhqKxKMKIZaK2N41Yi) | 1:48 |
 | 70 | [Do You Think of Me](https://open.spotify.com/track/3Nwcl9GvpWLJjw3bkCYFK3) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Do You Think of Me](https://open.spotify.com/album/6o9S3vQQTkWVVgdkCY1IHZ) | 4:09 |
 | 71 | [Don't Stop](https://open.spotify.com/track/7vQjLIR2QtzZSnzLdLugi5) | [MAXAM](https://open.spotify.com/artist/2kAjLKS8nywJOu4wDGcnfz), [YuB](https://open.spotify.com/artist/4jebwGrnlyNNecjXMuIxqi) | [Don't Stop](https://open.spotify.com/album/6nSEFDzuwAj2BBygxHXUdF) | 3:12 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 75 | [EXES IN TEXAS](https://open.spotify.com/track/1tl8N5xqVezqcA6xtITbfi) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Rhyder](https://open.spotify.com/artist/3eoOvS1AeEVfYwSF1HVr0S) | [EXES IN TEXAS](https://open.spotify.com/album/7m9tqzACi2vGXz6Oir9E3n) | 2:35 |
 | 76 | [Low](https://open.spotify.com/track/3RS9G9t00I4ljZzylMXH9O) | [DJ Spade](https://open.spotify.com/artist/2dhmmWskkjPNDFnDQKiyH8), [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Low](https://open.spotify.com/album/0W94RDU5UFKmOHCFVQ7hXf) | 3:34 |
 
-Snapshot ID: `AAAAABgbumbuEnMj4pXhEYUhu2Tkbs0Z`
+Snapshot ID: `AAAAAHNcLXvo2b57E6B97F16sYgeb39E`

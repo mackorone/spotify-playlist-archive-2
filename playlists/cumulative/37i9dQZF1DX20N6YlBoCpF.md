@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Demi Lee Moore, JACOBUS, Ricus Nel, Eloff, Danny Smoke en meer!
 
-2,806 songs - 6 day 12 hr 17 min
+2,807 songs - 6 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,6 +1054,7 @@
 | [Hoor Jy My?](https://open.spotify.com/track/38WUT2eG38jFOue7NkyUQM) | [Neil Nachtrein](https://open.spotify.com/artist/4BzXDRscCSZ0cgLq8SRzZr) | [Vlees Tot Stof](https://open.spotify.com/album/1VUmA3q3f31OI19yWtdCgg) | 4:03 | 2023-07-06 | 2023-07-21 |
 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 | 2024-11-07 | 2025-03-07 |
 | [Horison](https://open.spotify.com/track/0z8OOFo7PRYBfXtIWQtPIW) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Horison](https://open.spotify.com/album/4F6VkaQ8rveCiC7evrzhV7) | 3:42 | 2024-11-14 | 2024-12-06 |
+| [Hou Aan](https://open.spotify.com/track/7rJ5cti3UFhX4L9YwehbXH) | [JUPIETER](https://open.spotify.com/artist/3H0gDH3fny9elXSSYGlgtb), [MAAN](https://open.spotify.com/artist/641tHplgENyvezOHJ1vUnh) | [Hou Aan](https://open.spotify.com/album/4MJDwqz1sVlUsPaDe70Gnz) | 2:47 | 2026-08-21 |  |
 | [Hou Aan Seil](https://open.spotify.com/track/7qETapAIiUsLxJxnUuezRC) | [Rikus Strauss](https://open.spotify.com/artist/2FRLs29Jz8nJbt7jHZOdfr) | [Hou Aan Seil](https://open.spotify.com/album/3qtbcK4cy4mvZdwSUfuzI4) | 2:56 | 2023-07-20 | 2023-08-04 |
 | [Hou Bene Hou](https://open.spotify.com/track/0PwwO8REYMl65SU8esvtxc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Hou Bene Hou](https://open.spotify.com/album/56hil9lgMhYIeR3kabttwB) | 4:07 | 2023-09-14 | 2023-10-07 |
 | [Hou Bene Hou](https://open.spotify.com/track/3OtXZRDaPgr9w3NO84Um3X) | [Nolene](https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o) | [Hou Bene Hou](https://open.spotify.com/album/4kmNdny53K7oNhsJHAliYl) | 3:35 | 2024-03-14 | 2024-06-28 |
@@ -1873,7 +1874,7 @@
 | [Onveilig](https://open.spotify.com/track/1Atlx3XDoMHAtGBazrTiIy) | [Almero](https://open.spotify.com/artist/7dPungKhZV77MeaGRZwTNR) | [Onveilig](https://open.spotify.com/album/2qdJr2JPgq3m9hpICnb5NN) | 2:49 | 2023-07-06 | 2023-07-21 |
 | [Onverwoesbaar](https://open.spotify.com/track/4kfr4lj2povKGJHOqRQP1D) | [Eduan Wolfe](https://open.spotify.com/artist/56ebyAIdS4f9wXhV4j1ay1) | [Onverwoesbaar](https://open.spotify.com/album/1Xsl5iB7pwQ8HJ2P3bsPF1) | 3:40 | 2024-12-12 | 2025-01-17 |
 | [Onvoorwaardelik](https://open.spotify.com/track/46HuJ14poNcRDmEnTIIG69) | [Arno De Wet](https://open.spotify.com/artist/6HYesUfQ19AsXt63z4PNs5) | [Onvoorwaardelik](https://open.spotify.com/album/3hKjD43p2LcRzb5B0qGMGB) | 3:47 | 2026-05-15 | 2026-05-29 |
-| [Oogkontak](https://open.spotify.com/track/1usvrGy7FGqCE3kxLl8g2w) | [Bcom](https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3) | [Oogkontak](https://open.spotify.com/album/0sCV0f5J4CelDNVIvzRhI5) | 3:06 | 2026-07-30 |  |
+| [Oogkontak](https://open.spotify.com/track/1usvrGy7FGqCE3kxLl8g2w) | [Bcom](https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3) | [Oogkontak](https://open.spotify.com/album/0sCV0f5J4CelDNVIvzRhI5) | 3:06 | 2026-07-30 | 2026-08-22 |
 | [Oogwink](https://open.spotify.com/track/743CGmsOpq4LJ2ljfSW1B6) | [Floris Voges](https://open.spotify.com/artist/16wQ8IMeqALLTWoghP6oKS) | [Oogwink](https://open.spotify.com/album/3t4aIxbCqmvpnd0r9nLzb0) | 3:50 | 2024-11-07 | 2024-11-22 |
 | [Oom Boetie Sê Dit is ŉ Meermin](https://open.spotify.com/track/45JMoOk5VQBHilVOmsSnXv) | [Armand Steenkamp](https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5) | [Oom Boetie Sê Dit is ŉ Meermin](https://open.spotify.com/album/5mRbdDeGAp5DuYAuGpAJd8) | 2:58 | 2024-04-04 | 2024-07-05 |
 | [Oom Kiewiet](https://open.spotify.com/track/7pb2zaXoqZXBK7Ln3n9mh7) | [Louis van Lill](https://open.spotify.com/artist/1vqMsqSbWQUOoZNCmPnjY3) | [Oom Kiewiet](https://open.spotify.com/album/5epJJfImvw4bcTJriqKcaa) | 3:30 | 2026-01-15 | 2026-03-27 |

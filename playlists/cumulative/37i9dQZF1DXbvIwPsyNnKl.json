@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 198260,
       "name": "CR3W",
       "url": "https://open.spotify.com/track/5Tp2b3NBMLF2qm2nhxiSFc"
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 210857,
       "name": "Depende",
       "url": "https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z"
@@ -4440,7 +4440,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 188903,
       "name": "Kuha Bag",
       "url": "https://open.spotify.com/track/5yezbvlED0OadYXGDex7pA"
@@ -5616,6 +5616,36 @@
       "duration_ms": 135529,
       "name": "MAS GUSTO KITA",
       "url": "https://open.spotify.com/track/2c5CsVc89pz3gc11BnWVLL"
+    },
+    {
+      "album": {
+        "name": "MATIKAS",
+        "url": "https://open.spotify.com/album/2QTyml7RetBQsH6cUxnwoI"
+      },
+      "artists": [
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        },
+        {
+          "name": "Icetizy",
+          "url": "https://open.spotify.com/artist/29HItbAuiAW54evQC60jOh"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "Smugglaz",
+          "url": "https://open.spotify.com/artist/2FvXtuMlYRrEkSF7kdAfFq"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283795,
+      "name": "MATIKAS",
+      "url": "https://open.spotify.com/track/3rhLse4xpSYpuXuvYOrOo6"
     },
     {
       "album": {
@@ -7862,6 +7892,32 @@
       "duration_ms": 179080,
       "name": "Silly Hoes",
       "url": "https://open.spotify.com/track/7jaW3zW1UquUY4I2j7OoAZ"
+    },
+    {
+      "album": {
+        "name": "Silly Hoes",
+        "url": "https://open.spotify.com/album/2f9Lde2RhjwmEoZaV8wWg7"
+      },
+      "artists": [
+        {
+          "name": "GHR",
+          "url": "https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs"
+        },
+        {
+          "name": "Tommie King",
+          "url": "https://open.spotify.com/artist/6rtj7FDJ5zLdvV0SYbfnNm"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225428,
+      "name": "Silly Hoes",
+      "url": "https://open.spotify.com/track/45NuLJTJl0LYVEKeeNDDGS"
     },
     {
       "album": {

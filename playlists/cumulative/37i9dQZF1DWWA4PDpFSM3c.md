@@ -4,7 +4,7 @@
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-61 songs - 4 hr 38 min
+62 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Laalijo Raagam](https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Madhura Dhara Talluri](https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Saripodhaa Sanivaaram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q) | 4:21 | 2024-08-28 |  |
 | [Maate Vinadhuga](https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Taxiwaala](https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN) | 4:56 | 2021-05-18 |  |
 | [Madhurame](https://open.spotify.com/track/4sbR8sUkAe6tJTooAQauEe) | [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 5:43 | 2024-02-12 |  |
+| [Manasa Vacha \(From "EPIC \- First Semester"\)](https://open.spotify.com/track/7JDM8eLX09fLkhBYxCLVAD) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Sri Harsha Emani](https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit) | [Manasa Vacha \(From "EPIC \- First Semester"\)](https://open.spotify.com/album/4KHl5TXoatovr60Azo3ZCW) | 4:15 | 2026-08-20 |  |
 | [Manasavacha](https://open.spotify.com/track/0OfaxrkK5wNf6Gotdph5Jz) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Godavari](https://open.spotify.com/album/2OyJ5P81elIOSPFSj2gnkE) | 4:47 | 2022-09-02 |  |
 | [Manasu Maree](https://open.spotify.com/track/57xczqwxDF0HZsuPyVEJXa) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [V](https://open.spotify.com/album/47S3yMixAINohfHXD5vHfc) | 4:27 | 2024-02-12 |  |
 | [Manasu Palike](https://open.spotify.com/track/4Yqrf3I0S7SOBhWOGVU7fU) | [Rakendu Mouli](https://open.spotify.com/artist/10BBtazfegYIDgF3gxzImU) | [Andala Rakshasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pAVF1q5XzPoDy2yINgOjg) | 3:48 | 2023-03-09 |  |
@@ -68,6 +69,6 @@
 | [Yamunatheeram](https://open.spotify.com/track/2g5t70UUP6nPpyZdyQQJz2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Anand](https://open.spotify.com/album/7qe9NgxK1B9zNTyZLUF5pG) | 4:09 | 2022-09-02 | 2025-11-17 |
 | [Yedha Okka Prayamu](https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l) | [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Ashok Anand](https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn) | [Psych Siddhartha](https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw) | 3:20 | 2026-03-05 |  |
 | [Yemi Cheyamanduve](https://open.spotify.com/track/6GgP6NTpwRaokozTVyC6Be) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Priyuraalu Pilichindi](https://open.spotify.com/album/06ZpiZ28CpnSRitF4srJFc) | 6:02 | 2022-09-02 |  |
-| [Yenti Yenti](https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 3:19 | 2021-05-18 |  |
+| [Yenti Yenti](https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 3:19 | 2021-05-18 | 2026-08-22 |
 
 \*This playlist was first scraped on 2025-10-21. Prior content cannot be recovered.

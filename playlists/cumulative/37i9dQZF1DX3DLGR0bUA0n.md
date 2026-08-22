@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-207 songs - 12 hr 2 min
+208 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Palomita De Alas Blancas](https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Mi Despedida](https://open.spotify.com/album/14iB8WCfhOBf2QrHaxN5jt) | 2:49 | 2023-10-12 |  |
 | [Para el Amor de Mi Vida](https://open.spotify.com/track/2v0arlA4BS2RHrdp6zkdL5) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Entre Copa y Copa](https://open.spotify.com/album/1D7zhkYRBiSsOB2p6090Jk) | 4:00 | 2023-10-12 | 2024-04-19 |
 | [Para El Amor de Mi Vida](https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Para el Amor de Mi Vida](https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa) | 4:00 | 2023-10-12 |  |
-| [Pasito a Pasito](https://open.spotify.com/track/57BNfo1TVljv47AH3RU1FP) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Pasito a Pasito](https://open.spotify.com/album/6neYguTvvwimkTyf3yjEyi) | 2:44 | 2025-12-05 |  |
+| [Pasito a Pasito](https://open.spotify.com/track/57BNfo1TVljv47AH3RU1FP) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Pasito a Pasito](https://open.spotify.com/album/6neYguTvvwimkTyf3yjEyi) | 2:44 | 2025-12-05 | 2026-08-22 |
 | [Paso Del Norte \(En Vivo\)](https://open.spotify.com/track/015YEHbqmbwmwTLQJNq6xe) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw), [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI), [Alex Ortuño](https://open.spotify.com/artist/51Hy9TkaR4cBeX2uF2sDz2) | [Los Que Nunca Se Fueron "Poker De Reyes" \(En Vivo\)](https://open.spotify.com/album/6a8yUZNYx5q9auEgR4etlM) | 3:27 | 2025-11-21 | 2025-12-06 |
 | [Pena Clavada](https://open.spotify.com/track/1OD4MgwfniF8fl8VAhomS7) | [Many Perez “El Canario”](https://open.spotify.com/artist/0mZnvhqA0m86pg2DfIMhtq) | [Pena Clavada](https://open.spotify.com/album/6G5vT77S7CVspowXXQEetG) | 2:49 | 2023-10-12 | 2024-04-19 |
 | [Pena Clavada](https://open.spotify.com/track/2s8rjW63lZVKp9ugZqzbD4) | [Many Perez “El Canario”](https://open.spotify.com/artist/0mZnvhqA0m86pg2DfIMhtq) | [Pena Clavada](https://open.spotify.com/album/4EVOcmLoTWsHf9Hrc17dKf) | 2:49 | 2024-06-07 | 2024-11-16 |
@@ -215,5 +215,6 @@
 | [Yo Soy de la Sierra](https://open.spotify.com/track/39atHdsK4HUVLjQzg8Zwvn) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:19 | 2023-10-12 | 2024-06-08 |
 | [Yo Ya Sabía Pa'Dónde Iba \(En Vivo\)](https://open.spotify.com/track/6UvzYxfJeEd1cKdYI9w7Gm) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puros Corridos Y No Cochadas \(En Vivo\)](https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3) | 2:49 | 2024-10-18 |  |
 | [¿Como Le Hiciste?](https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er) | [Banda los Costeños](https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ) | [¿Como Le Hiciste?](https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6) | 3:27 | 2024-02-23 |  |
+| [Échame La Culpa A Mi](https://open.spotify.com/track/271VZINotNJnfByIZW3SGK) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Échame La Culpa A Mi](https://open.spotify.com/album/1MQKjRr3LQmOUSnKfrBb3l) | 3:22 | 2026-07-24 |  |
 
 \*This playlist was first scraped on 2023-12-19. Prior content cannot be recovered.

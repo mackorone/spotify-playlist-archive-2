@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 172000,
       "name": "Fruta Prohibida - En Vivo",
       "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
@@ -2246,6 +2246,24 @@
       "duration_ms": 293412,
       "name": "Micaela / La Mar\u00eda",
       "url": "https://open.spotify.com/track/58UuKulvF6CYIoFXxh9joZ"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139833,
+      "name": "Mija",
+      "url": "https://open.spotify.com/track/7sB3s9VeXAb0Vwfu60gtr7"
     },
     {
       "album": {

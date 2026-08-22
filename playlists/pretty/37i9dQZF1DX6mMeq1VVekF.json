@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Alewya",
-  "num_followers": 181093,
+  "num_followers": 181097,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEw6aowjGV7fPFhNcJicEV1+PQ0M",
+  "snapshot_id": "AAAAAIqiH2nLliaToJpTM1Of1k9PHFo3",
   "tracks": [
     {
       "added_at": "2026-05-28 23:00:52",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-05-28 23:00:52",
       "album": {
+        "name": "AMANZI",
+        "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
+      },
+      "artists": [
+        {
+          "name": "AMANZI",
+          "url": "https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4"
+        }
+      ],
+      "duration_ms": 192018,
+      "name": "Give Us Some Time",
+      "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
+    },
+    {
+      "added_at": "2026-05-28 23:00:52",
+      "album": {
         "name": "Docs",
         "url": "https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 171810,
       "name": "the beginning of the end",
       "url": "https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n"
-    },
-    {
-      "added_at": "2026-05-28 23:00:52",
-      "album": {
-        "name": "AMANZI",
-        "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
-      },
-      "artists": [
-        {
-          "name": "AMANZI",
-          "url": "https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4"
-        }
-      ],
-      "duration_ms": 192018,
-      "name": "Give Us Some Time",
-      "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
     },
     {
       "added_at": "2026-05-28 23:00:52",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-05-28 23:00:52",
       "album": {
-        "name": "Avoid The Drones & 9 Months",
-        "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "9 Months",
-      "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
-    },
-    {
-      "added_at": "2026-05-28 23:00:52",
-      "album": {
         "name": "Ode To Friend",
         "url": "https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 209000,
       "name": "Ode To Friend",
       "url": "https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz"
+    },
+    {
+      "added_at": "2026-05-28 23:00:52",
+      "album": {
+        "name": "Avoid The Drones & 9 Months",
+        "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "9 Months",
+      "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
     },
     {
       "added_at": "2026-05-28 23:00:52",

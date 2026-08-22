@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 21272,
+  "num_followers": 21273,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHV5XrPgAKEeKXlcnPlkFT0KD9I9",
+  "snapshot_id": "AAAAAJ8HsMeUNfJ/rbF/ec4pzb44Q3oq",
   "tracks": [
     {
       "added_at": "2026-07-03 07:32:57",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
+        "name": "I \u2260 DOLL",
+        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 150269,
+      "name": "I \u2260 DOLL",
+      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
         "name": "Blooming Wings",
         "url": "https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 148000,
       "name": "Anyone But You (Feat. MIRYO of Brown Eyed Girls)",
       "url": "https://open.spotify.com/track/2Sprbw65iHnDNsmgbSoH7C"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
-        "name": "I \u2260 DOLL",
-        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 150269,
-      "name": "I \u2260 DOLL",
-      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
       "added_at": "2026-07-03 07:32:57",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 184853,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
         "name": "SELFISH",
         "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 192577,
       "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
       "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn"
     },
     {
       "added_at": "2026-07-03 07:32:57",

@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: wave to earth\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,749 songs - 39 day 17 hr 5 min
+16,751 songs - 39 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1672,6 +1672,7 @@
 | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f) | [Miiro](https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP), [Akane Lize](https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK) | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i) | 4:27 | 2025-05-30 | 2025-06-09 |
 | [BLOOD ON MY HANDS \(Feat\. Paul Blanco & DeVita\)](https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Ballerina \(Music from The Netflix Film\)](https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5) | 3:31 | 2023-10-10 | 2023-11-11 |
 | [BLOODY \(Feat\. Microdot\)](https://open.spotify.com/track/5zYU5fZGobcHqr3ORZWnSu) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p), [Microdot](https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690) | [BLOODY](https://open.spotify.com/album/2sqidMh9YCbs6M2CD72h4v) | 3:11 | 2023-12-13 | 2023-12-22 |
+| [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 | 2026-08-21 |  |
 | [Bloom](https://open.spotify.com/track/72sm32NK5bCQFrzH7zNp1Q) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [The First Bloom](https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S) | 3:07 | 2023-07-24 | 2023-08-18 |
 | [Bloom](https://open.spotify.com/track/6SzXlH7Xy7RlUSPx5Obbe3) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Bloom](https://open.spotify.com/album/7n9NPWpOsSKrGO1yJrssEB) | 3:09 | 2024-10-23 | 2024-11-08 |
 | [Bloom](https://open.spotify.com/track/4fMq9M62l1gwDreEUNNoCJ) | [Chaeree](https://open.spotify.com/artist/1I4Yi8vC8L81PN5DteKnoZ) | [Bloom](https://open.spotify.com/album/1xhCt50eYtLxAESnc5UdXi) | 3:53 | 2024-04-11 | 2024-05-10 |
@@ -10259,6 +10260,7 @@
 | [Our world crashing into the sea](https://open.spotify.com/track/0OtQaOmrO1euYrhlZVUlz8) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Our world crashing into the sea](https://open.spotify.com/album/6QSAbCW1d32CWuxC9G6LCr) | 3:35 | 2026-03-10 | 2026-03-21 |
 | [Our Younger Days](https://open.spotify.com/track/53ykQ2IF5F8oje81l17sg1) | [An Sol Hee](https://open.spotify.com/artist/2Idgc2pLFOxlwZrdntlbu3) | [Music Flip Book Page.6 Our Younger Days](https://open.spotify.com/album/71oZntBzmsR5v5XHyoDhch) | 3:05 | 2025-11-24 | 2025-12-02 |
 | [Our Youth](https://open.spotify.com/track/07yQMmTOzCbHuczo6yR5RJ) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Our Youth](https://open.spotify.com/album/0wLCobJuw9BcWtoVvbIYXf) | 3:44 | 2024-01-18 | 2024-03-14 |
+| [Our Youth!](https://open.spotify.com/track/60OeXiAejO8R5QIRvaYKkh) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Summer.zip \(2\)](https://open.spotify.com/album/3PP4JzoEFQBMCJqCEo4a4W) | 3:28 | 2026-08-21 |  |
 | [Our, Season](https://open.spotify.com/track/6vPo04ZipQZdTxo0C2aPM5) | [W24](https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit) | [Our, Season](https://open.spotify.com/album/3DA5e1REKCImBGcgpykYEJ) | 4:02 | 2024-02-19 | 2024-03-14 |
 | [Ours](https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Happy Together](https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY) | 4:06 | 2026-02-23 | 2026-03-05 |
 | [Out of Breath \(Prod\. Ryo, hyeminsong\)](https://open.spotify.com/track/1eFgtBIxUe0t8kHQJxfezQ) | [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2), [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [Monthly AP \- May, 2024](https://open.spotify.com/album/6UohaSRYdEPaSvS8SIUvMX) | 3:25 | 2024-05-28 | 2024-06-20 |
@@ -11062,7 +11064,7 @@
 | [Red Pill \(Born from the Blue Pt\. II\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6wGvdwH0Pp9u08f28qTcGC) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 4:31 | 2022-07-22 | 2022-08-10 |
 | [RED ROCKET \(Feat\. MINTAKHA\)](https://open.spotify.com/track/4TC0yFH4ryF1rIZYBBzOOo) | [BLUEICE Key](https://open.spotify.com/artist/6BUjgJA1JpnBk6dmFwmevx), [MINTAKHA](https://open.spotify.com/artist/3WnsvvrzM3jWOgZoZ1YhaU) | [IMAGINATION : unusual](https://open.spotify.com/album/1zt31eNpxHErC5taDZtwaX) | 3:45 | 2023-01-12 | 2023-02-01 |
 | [Red Sky Collapse](https://open.spotify.com/track/5d5nUxbG7gyaQTaohg7kxp) | [Techno Park](https://open.spotify.com/artist/6syVHviEZdVd3QjFnCUROl) | [APOCALYPSE](https://open.spotify.com/album/6OWjxihsY077CJX4qOJONm) | 3:56 | 2025-11-24 | 2025-12-04 |
-| [Red Socks](https://open.spotify.com/track/6Rp1jcPGKoiuaRrJqJVtC0) | [Younghyun Yoo](https://open.spotify.com/artist/2CZcvfL8q1I7VJuRjymxzm) | [Red Socks](https://open.spotify.com/album/1OIS7499TkdeeGWaCRVAbm) | 3:02 | 2026-08-19 |  |
+| [Red Socks](https://open.spotify.com/track/6Rp1jcPGKoiuaRrJqJVtC0) | [Yoo Younghyun](https://open.spotify.com/artist/2CZcvfL8q1I7VJuRjymxzm) | [Red Socks](https://open.spotify.com/album/1OIS7499TkdeeGWaCRVAbm) | 3:02 | 2026-08-19 |  |
 | [RED STRING \(Feat\. Yescoba\)](https://open.spotify.com/track/12KgGv1fmOevABPl2T1a5Z) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6) | [MANTA BIPOLAR pt.3](https://open.spotify.com/album/1EZEtEb9f4ogmLalUVMArg) | 2:46 | 2025-11-10 | 2025-11-20 |
 | [Red Sweet Pea \(Korean\)](https://open.spotify.com/track/5NBfy6tCPGdow6ag9mcmPQ) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Red Sweet Pea](https://open.spotify.com/album/1zppsnc4dSRpXr4F3TD3XV) | 3:51 | 2024-11-19 | 2024-12-12 |
 | [RED\-DY SET GO](https://open.spotify.com/track/1gOvzmzdmAMEdmtwDTSeFC) | [Big Ocean](https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY) | [RED\-DY SET GO](https://open.spotify.com/album/2iRHWlME2d3vLYVGZvwAeY) | 2:12 | 2025-11-24 | 2025-12-01 |

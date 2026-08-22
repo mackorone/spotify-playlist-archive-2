@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Culoe De Song
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,300 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,350 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 3 | [MOTION](https://open.spotify.com/track/1eqmsKOw0XVBb33lywCRFw) | [Palm Brothers](https://open.spotify.com/artist/3UZp3SJMqLmvdbYXv2vYoq), [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD), [PACHE](https://open.spotify.com/artist/0kstGkLZL1WToK99rZmVQM), [Feel On Eel](https://open.spotify.com/artist/2QfgJI9B4SE5PKdQfOIjjL) | [MOTION](https://open.spotify.com/album/4RoiGwm8XDMMNTrYqIV3Q4) | 2:12 |
 | 4 | [Sunmomi](https://open.spotify.com/track/0EcaDZI13CJ85e8XBP8kYP) | [KEVIN LNDN](https://open.spotify.com/artist/66P93mCmzVSDZr0JkS1BpO), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [AYOTEE](https://open.spotify.com/artist/20GkerNFdzs8fbCkyRhhsw) | [Sunmomi](https://open.spotify.com/album/0fosUq4DWu6Z9DXP6HFJFS) | 6:36 |
 | 5 | [The Spiker](https://open.spotify.com/track/7LYeYkN82e5g5vdbQkNOrb) | [Culoe De Song](https://open.spotify.com/artist/69vFBZxQu4TQ4ZDOI9L6KR) | [Moonhound EP](https://open.spotify.com/album/7tuCnIeBJ2AnAjxSzLGcg7) | 6:43 |
-| 6 | [Track 1](https://open.spotify.com/track/3GDskmwAR8Ne611zV8wNoi) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Gospel Vol\. II](https://open.spotify.com/album/0bzYWhl5zm2ln4nuyhoVpM) | 0:00 |
+| 6 | [Refine Me](https://open.spotify.com/track/3GDskmwAR8Ne611zV8wNoi) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Gospel Vol\. II](https://open.spotify.com/album/0bzYWhl5zm2ln4nuyhoVpM) | 7:21 |
 | 7 | [Fitii](https://open.spotify.com/track/1eX7eRXViPUGipimCDs3wc) | [WALTHER](https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Fitii](https://open.spotify.com/album/3MOUUZ8rKxSdSGf2kVpDtk) | 6:46 |
 | 8 | [Wicked Games \(Kususa Surreal Mix\)](https://open.spotify.com/track/6wcOJxbgVc176p42armrJu) | [AERES](https://open.spotify.com/artist/3h2ALIykVFjfYUjSWpwGQ0), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Matroniq](https://open.spotify.com/artist/32FQMqwfTZEIMOTjCtgIrQ) | [Wicked Games \(Remixes\)](https://open.spotify.com/album/6lFGk1vEsJNEFT3VNAF06B) | 3:07 |
 | 9 | [One More Dance \(feat\. Mpho.wav & Atmos Blaq\)](https://open.spotify.com/track/13WESMIfueri5XdNagRGBg) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [One More Dance \(feat\. Mpho.wav & Atmos Blaq\)](https://open.spotify.com/album/1PHQDMFXdvbzZ2lXnvwZ81) | 3:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 59 | [Njururi](https://open.spotify.com/track/7tuyoCLrqLDKBWq1Wdxsge) | [Trekkah](https://open.spotify.com/artist/3YTAXxEhKGNPtxjYgSl92V), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [Njururi](https://open.spotify.com/album/59vwhG5i2FYnbcncmdXXfL) | 3:45 |
 | 60 | [Bloom \(feat\. Lou Xtwo\) \- afro house edit](https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Lou Xtwo](https://open.spotify.com/artist/7k5fnVM7UaT6HMxqbV6bhz) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 4:13 |
 
-Snapshot ID: `AAAAAHLR3KtNHdE6yuPSs2TqtvP4Qq7Y`
+Snapshot ID: `AAAAAJAzuw1uBtHNi3NvXaHuhzMGiKp8`

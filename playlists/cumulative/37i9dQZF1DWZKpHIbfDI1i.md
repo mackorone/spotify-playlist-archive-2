@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Xavi y Lenin Ramírez en portada
 
-1,865 songs - 4 day 3 hr 17 min
+1,866 songs - 4 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 | 2023-08-25 | 2024-03-16 |
 | [De Mezclilla el Chalecón](https://open.spotify.com/track/0L5lQTiLxwbCk1dZzPWCDV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Mezclilla el Chalecón](https://open.spotify.com/album/4kmRpSEkmZ4h0n5Miz1kkG) | 2:34 | 2023-12-15 | 2024-01-06 |
 | [De Sobremanera](https://open.spotify.com/track/3cVKbHNzwHOqsqJB70H63R) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [De Sobremanera](https://open.spotify.com/album/5sjihtd6cTAsVJlHNhGRI4) | 3:38 | 2025-02-21 | 2025-08-16 |
-| [De ti me enamoré](https://open.spotify.com/track/3FWD1jZwNuEk7SJOt1R8MV) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Ruggero Pasquarelli](https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL), [Michael Ronda](https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt) | [Soy Luna: Volver a rodar \(Banda Sonora Original\)](https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO) | 3:22 | 2026-07-10 |  |
+| [De ti me enamoré](https://open.spotify.com/track/3FWD1jZwNuEk7SJOt1R8MV) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Ruggero Pasquarelli](https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL), [Michael Ronda](https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt) | [Soy Luna: Volver a rodar \(Banda Sonora Original\)](https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO) | 3:22 | 2026-07-10 | 2026-08-22 |
 | [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 | 2022-09-23 | 2022-11-13 |
 | [De Todos Modos](https://open.spotify.com/track/6LMBX9i51zvjldytTBwv9c) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [De Todos Modos](https://open.spotify.com/album/1U9wMvJt0SDSLvlj7j6skD) | 2:33 | 2026-07-10 | 2026-07-18 |
 | [De Trago En Trago](https://open.spotify.com/track/5lWE6BsxJE9RoXbkvkGR60) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [De Trago En Trago](https://open.spotify.com/album/0YMa5EGXvE8uwAIyNDnxyJ) | 4:01 | 2022-04-29 | 2022-07-07 |
@@ -1466,6 +1466,7 @@
 | [Se Enfiestó El Carnal](https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Se Enfiestó El Carnal](https://open.spotify.com/album/4SBT3my679xNKekRzXfzef) | 3:29 | 2025-12-19 | 2026-02-14 |
 | [Se Fue la Luz](https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Se Fue la Luz](https://open.spotify.com/album/2PyA5iAknP3uOjZEgQjcgt) | 2:39 | 2022-03-25 | 2022-05-07 |
 | [Se fue la luz](https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Se fue la luz](https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb) | 3:32 | 2023-06-30 | 2023-09-09 |
+| [Se Marchitan Las Flores \- RADAR México](https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Se Marchitan Las Flores \- RADAR México](https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK) | 2:21 | 2026-08-21 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf) | 3:40 | 2022-01-13 | 2022-04-26 |
 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt) | 2:56 | 2026-08-14 |  |
 | [Se Me Soltó El Hocico](https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Se Me Soltó El Hocico](https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc) | 2:55 | 2023-01-13 | 2023-07-29 |

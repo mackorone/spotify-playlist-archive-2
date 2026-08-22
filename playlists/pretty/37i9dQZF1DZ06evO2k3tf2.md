@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448,696 likes - 46 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448,767 likes - 46 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 45 | [Nico/Heavydirtysoul \- Live in Mexico City](https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 7:02 |
 | 46 | [Stressed Out \- Live in Mexico City](https://open.spotify.com/track/60xcUD1MuHVNg9SmePwXsD) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 3:33 |
 
-Snapshot ID: `aoTyAAAAAADmDZUWdlZDxGf3yQ78WUBx`
+Snapshot ID: `aoZDgAAAAACM1tiUSAIQssSJ+VSh2mNr`

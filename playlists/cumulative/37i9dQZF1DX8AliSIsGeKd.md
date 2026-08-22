@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Stereo Express
 
-7,466 songs - 25 day 4 hr 28 min
+7,467 songs - 25 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4264,6 +4264,7 @@
 | [Money](https://open.spotify.com/track/6knUAhlX1RZlMe9RtTjXbF) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e) | [Money](https://open.spotify.com/album/5MMnMcgoYyiBRZBFhoDV8L) | 3:02 | 2026-03-19 | 2026-03-27 |
 | [Money Dance](https://open.spotify.com/track/5YdHYCD4UoRhyYKyBgBHty) | [Mydoz](https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb) | [Money Dance](https://open.spotify.com/album/5rDfDkui322QnEcDUZVQOb) | 2:34 | 2025-12-11 | 2026-01-16 |
 | [Money Don't Love Ya](https://open.spotify.com/track/4nn8owPB5EME2A2pD4SfH4) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [Money Don't Love Ya](https://open.spotify.com/album/6MRDaTyIelJRFTXaCsOa6Q) | 3:33 | 2025-01-30 | 2025-02-14 |
+| [Money Talks](https://open.spotify.com/track/1Cr878nRaXgGU3G7o8FrpR) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Money Talks](https://open.spotify.com/album/13UUfzMLgi5dKGPLtk2PqH) | 4:01 | 2026-08-21 |  |
 | [Monitor](https://open.spotify.com/track/0YrpanoYXATO3ZD58FuOm6) | [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf), [ILYICH](https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5) | [Monitor](https://open.spotify.com/album/4PtF65FEROANlE5fojfP3e) | 8:03 | 2025-03-27 | 2025-04-11 |
 | [Monochrome](https://open.spotify.com/track/1DahnO4ToGWEKztgKpN0nO) | [Marius Drescher](https://open.spotify.com/artist/4oU99ab1DTNIF3a9RHmnhf) | [Monochrome](https://open.spotify.com/album/18uUFX1HsOIuuGFvQ1TaJY) | 5:59 | 2024-04-25 | 2024-05-03 |
 | [Monochrome](https://open.spotify.com/track/0UgaNitvxqiBBpEIaXRs9N) | [Paul Amschlinger](https://open.spotify.com/artist/0GqCF1fV4XPFljDB1WMQMN), [Frankllin](https://open.spotify.com/artist/60O3861cpmpuxxtYhKuKkV) | [Triation, Vol\. XII](https://open.spotify.com/album/1LY5bhvhWFQEbvQuQXLYJu) | 5:27 | 2025-11-13 | 2025-12-05 |
@@ -4995,7 +4996,7 @@
 | [Piano Heaven](https://open.spotify.com/track/3d9kTlmQovWE7sNxuNMxEI) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Musique for Discothèques](https://open.spotify.com/album/0KnoZ3mKyveI7fykzUqqFy) | 6:44 | 2023-06-16 | 2023-06-30 |
 | [Piano Italiano](https://open.spotify.com/track/5OqFtocHYaqpZBSX6wuXw4) | [Claus Casper](https://open.spotify.com/artist/1asQbSi83hmInBcUB9z6oi) | [Piano Italiano](https://open.spotify.com/album/3KrKkzLm3XrG7pMNSMhp9J) | 3:33 | 2025-01-23 | 2025-02-07 |
 | [Picasso](https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Picasso](https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi) | 4:20 | 2026-07-09 | 2026-07-31 |
-| [pick up your phone](https://open.spotify.com/track/5KPqFtA3ssUElNzxiUS0xU) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [pick up your phone](https://open.spotify.com/album/332H85xuc45HEbnP9nOdDY) | 3:31 | 2026-08-13 |  |
+| [pick up your phone](https://open.spotify.com/track/5KPqFtA3ssUElNzxiUS0xU) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [pick up your phone](https://open.spotify.com/album/332H85xuc45HEbnP9nOdDY) | 3:31 | 2026-08-13 | 2026-08-22 |
 | [Piece of Me](https://open.spotify.com/track/0kakTfgOZuWEt3Un92kk0A) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [BEEAST](https://open.spotify.com/artist/5MUtPjZ8UJxONYzEGZeArf) | [Hymnesia](https://open.spotify.com/album/6m5tfCt1ZsLR3u3UYbHMDE) | 6:47 | 2023-12-21 | 2024-01-19 |
 | [Piece of Me](https://open.spotify.com/track/53jg6l9JLPmhxBhxzi1r9w) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [Beeast](https://open.spotify.com/artist/4IwGjwqfHFtnfzAX6TDwBq) | [Piece of Me](https://open.spotify.com/album/60L9CNgCvOFHsavlYkex46) | 6:47 | 2023-12-08 | 2023-12-23 |
 | [Pieces](https://open.spotify.com/track/1UAgQYgjjhj3aGl5IcKO2V) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Pieces](https://open.spotify.com/album/3yt8TNvGF5qeJtt4kjLBhn) | 4:19 | 2023-03-30 | 2023-04-21 |

@@ -4,7 +4,7 @@
 
 > the wonderful sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌎 featuring Dublon
 
-270 songs - 16 hr 48 min
+271 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Sede](https://open.spotify.com/track/3AyGuxllvNCPI3dtpH7u9U) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T) | [Sede](https://open.spotify.com/album/6Xmfg1ZlubIuuWvZdZMNQw) | 2:42 | 2026-06-19 |  |
 | [Serotonin](https://open.spotify.com/track/6W645HND6UgMEumwYAm94M) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv), [Pablo Narea](https://open.spotify.com/artist/5p8jrSEwzfpHlBrGlYgDIo) | [Serotonin](https://open.spotify.com/album/2E9As6XKHDGXfihFuF2KQB) | 5:39 | 2026-04-03 | 2026-06-13 |
 | [Shed a Tear](https://open.spotify.com/track/0hjy7BKQQOpSyJ5Zbq1po6) | [bari](https://open.spotify.com/artist/4JSQ2UfsInSo0H2p3fnOOE) | [Shed a Tear](https://open.spotify.com/album/0JoqXpwIYpbwBlOqZTZ51v) | 3:39 | 2026-04-24 |  |
-| [Shelter](https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Shelter](https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe) | 3:49 | 2025-02-21 |  |
+| [Shelter](https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Shelter](https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe) | 3:49 | 2025-02-21 | 2026-08-22 |
 | [Side Pocket](https://open.spotify.com/track/5cxhLPv1j4xE3xlbsDgGYG) | [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Side Pocket](https://open.spotify.com/album/5b1Td8anOjaeXBdJkHq57a) | 3:17 | 2025-08-22 | 2025-09-27 |
 | [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 | 2025-08-23 |
 | [Six Am](https://open.spotify.com/track/6KsDQA0pYkNs1kiN1u9V6T) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Mythic Music](https://open.spotify.com/album/52N4nKcwVerlZ2xgFJurJa) | 3:24 | 2025-02-21 | 2025-12-06 |
@@ -238,6 +238,7 @@
 | [Takes Time](https://open.spotify.com/track/2aHwoje34bmunwzxhutIZA) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Takes Time](https://open.spotify.com/album/0jW9tsdoxRlkxdroh5Nyox) | 6:09 | 2025-03-07 | 2025-08-23 |
 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2025-02-21 | 2026-05-30 |
 | [Tell Me More And More And Then Some \- dublon Remix](https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Tell Me More And More And Then Some \(dublon Remix\)](https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz) | 2:31 | 2026-07-10 |  |
+| [Terrace After Dark](https://open.spotify.com/track/76aXyQuwYNhq30bBk2J7y5) | [Painted Dunes](https://open.spotify.com/artist/4FZVF3aF1aWqAXJZmsRUkw) | [Terrace After Dark](https://open.spotify.com/album/4lF06Jm9aphZKKoFYmNoLD) | 3:25 | 2026-08-21 |  |
 | [Tess](https://open.spotify.com/track/4g2IofvpR6XcrX9I1Rui3J) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Tess](https://open.spotify.com/album/1SpgeROLMxyyyeBEXeu2Es) | 3:32 | 2025-02-21 | 2026-05-23 |
 | [The 1](https://open.spotify.com/track/4xxgoorB2txwjJxoGRcHNS) | [Kevin Oliphant](https://open.spotify.com/artist/3kynCqDWeQO4roNBcObjrE) | [The Jazz Fro Soul Project EP](https://open.spotify.com/album/6Y9t09LdDKp59HNIGLSAtO) | 4:40 | 2026-01-30 |  |
 | [the message](https://open.spotify.com/track/73blhc3aERjdW7XXS04e2Z) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [the message](https://open.spotify.com/album/5PeLuRScqmff4MV6hSAyTN) | 3:48 | 2025-07-04 | 2026-05-16 |

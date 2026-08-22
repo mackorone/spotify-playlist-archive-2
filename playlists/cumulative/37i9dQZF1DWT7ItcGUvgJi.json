@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-21",
-  "description": "Where two indie music powerhouses meet! Enjoy the [Tune Up Meets Fresh Finds] BEST SET from Tokai and Hyelyn Joo! \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! [Tune Up Meets Fresh Finds] \uacf5\uc5f0\uc758 \ubca0\uc2a4\ud2b8\uc14b\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Where two indie music powerhouses meet! Enjoy the [Tune Up Meets Fresh Finds] LIVE SET from Tokai and Hyelyn Joo! \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! [Tune Up Meets Fresh Finds] \uacf5\uc5f0\uc758 \ub77c\uc774\ube0c\uc14b\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "Tune Up Meets Fresh Finds",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 249480,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0egSjRANLaacRqzguUnu5C"
+    },
+    {
+      "album": {
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173633,
+      "name": "B-YUM",
+      "url": "https://open.spotify.com/track/1uGTXskCzIOG7GJcuAXoXs"
     },
     {
       "album": {
@@ -239,6 +257,24 @@
     },
     {
       "album": {
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220429,
+      "name": "buddy",
+      "url": "https://open.spotify.com/track/4JgKmFF1nv9cIWRM7rx7ip"
+    },
+    {
+      "album": {
         "name": "Bus Stop",
         "url": "https://open.spotify.com/album/6sWmfS1qh28Jler0wUmqbY"
       },
@@ -268,7 +304,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 195000,
       "name": "Busy Boy",
       "url": "https://open.spotify.com/track/5scNLPks8Dntf8dCuZ8Zur"
@@ -286,7 +322,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 254605,
       "name": "Busy Boy - Re-Make",
       "url": "https://open.spotify.com/track/5eBM5qATb1IfJvNzGuS2GX"
@@ -365,6 +401,24 @@
     },
     {
       "album": {
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211660,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/5ubXnLFTYhG94f0a9WEy7A"
+    },
+    {
+      "album": {
         "name": "Re-Make",
         "url": "https://open.spotify.com/album/7qjuU5f7Wh5XZ3OcCzOpOp"
       },
@@ -376,7 +430,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 231376,
       "name": "Crazy - Re-Make",
       "url": "https://open.spotify.com/track/0kt2S0FV9DEGIOg247sT8b"
@@ -700,7 +754,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 205650,
       "name": "Hair Cut - Re-Make",
       "url": "https://open.spotify.com/track/3c0anSTjsn20lztbBmZt03"
@@ -754,7 +808,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 299850,
       "name": "himawari",
       "url": "https://open.spotify.com/track/58QdCb2qhECZzqtRnP5r79"
@@ -776,6 +830,42 @@
       "duration_ms": 198666,
       "name": "Horses",
       "url": "https://open.spotify.com/track/22dNi7hvJmfo4oJfZXjOuE"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Vol. 3 Audio Liners",
+        "url": "https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86002,
+      "name": "Hyelyn Joo Ment 1",
+      "url": "https://open.spotify.com/track/0vq2ujhc3NKAYy2KwNnD4e"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Vol. 3 Audio Liners",
+        "url": "https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47773,
+      "name": "Hyelyn Joo Ment 2",
+      "url": "https://open.spotify.com/track/01tR489dkU4nehHpbkBSda"
     },
     {
       "album": {
@@ -815,6 +905,24 @@
     },
     {
       "album": {
+        "name": "shining.",
+        "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "I Love You \u2665",
+      "url": "https://open.spotify.com/track/6sovFv9wGJdzFPCMl0bqev"
+    },
+    {
+      "album": {
         "name": "orientation",
         "url": "https://open.spotify.com/album/31AH4renaU1sIAQXijUY4Z"
       },
@@ -844,7 +952,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 170869,
       "name": "Kids",
       "url": "https://open.spotify.com/track/4UJFRYOpe3RC2yApdnrtTy"
@@ -1078,7 +1186,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 181530,
       "name": "not us.",
       "url": "https://open.spotify.com/track/0pqHwgmPKRM2GrPWrYcceR"
@@ -1100,6 +1208,24 @@
       "duration_ms": 191041,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6rtnAdEEwoWUQQOutvHn8s"
+    },
+    {
+      "album": {
+        "name": "breathing.",
+        "url": "https://open.spotify.com/album/0S7EeOvk2OW1otZ3n0CmWj"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "parade",
+      "url": "https://open.spotify.com/track/3BZYaGjpfVQEkRYpaPgrDi"
     },
     {
       "album": {
@@ -1733,6 +1859,60 @@
     },
     {
       "album": {
+        "name": "Tune Up Meets Fresh Finds Vol. 3 Audio Liners",
+        "url": "https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/1LDAbAYFGv0hFLguSOTSty"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43677,
+      "name": "Tokai Ment 1",
+      "url": "https://open.spotify.com/track/5RVAvGdsxatWOasZalQrbB"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Vol. 3 Audio Liners",
+        "url": "https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/1LDAbAYFGv0hFLguSOTSty"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70983,
+      "name": "Tokai Ment 2",
+      "url": "https://open.spotify.com/track/678LephfH06z7c7Mc94cHA"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Vol. 3 Audio Liners",
+        "url": "https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/1LDAbAYFGv0hFLguSOTSty"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30023,
+      "name": "Tokai Ment 3",
+      "url": "https://open.spotify.com/track/46BEPQ57L21ICyt6KjdQqH"
+    },
+    {
+      "album": {
         "name": "shining.",
         "url": "https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD"
       },
@@ -1744,7 +1924,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 287112,
       "name": "Tomodachi",
       "url": "https://open.spotify.com/track/1QWt0mabbVIL01v1VxgpEM"
@@ -1798,7 +1978,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 199687,
       "name": "Wander",
       "url": "https://open.spotify.com/track/2xhooxJtRz5mtBdKRjfjcG"
@@ -1820,6 +2000,24 @@
       "duration_ms": 187893,
       "name": "Water Baby",
       "url": "https://open.spotify.com/track/4HPnFOPzT09ixh8X2Uhzg0"
+    },
+    {
+      "album": {
+        "name": "Re-Make",
+        "url": "https://open.spotify.com/album/7qjuU5f7Wh5XZ3OcCzOpOp"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217689,
+      "name": "What Are You Thinking? - Re-Make",
+      "url": "https://open.spotify.com/track/4GPCr95oqDZNilmmFUckrr"
     },
     {
       "album": {
@@ -1942,7 +2140,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 225500,
       "name": "Youth!",
       "url": "https://open.spotify.com/track/5rTE0OVLHPW5fnLBxJaCsr"

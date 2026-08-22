@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Montez
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,351 likes - 90 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,317 likes - 90 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 5 | [Mut & Leichtsinn](https://open.spotify.com/track/6TsyTkVMdGGUfF3azhIzjb) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Mut und Leichtsinn](https://open.spotify.com/album/49m9gFh6GEsQOfj5Lot8Ee) | 2:42 |
 | 6 | [Was du nicht siehst](https://open.spotify.com/track/4J19Wgpl3k1mNzaCWbEWsG) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Was du nicht siehst](https://open.spotify.com/album/2kAwZrc9hLYkS8O0W5xBeH) | 2:40 |
 | 7 | [ich liebe was, was du nicht liebst](https://open.spotify.com/track/2rWfFqRJ8f5wKI9lQIaO4Z) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [nie zufrieden ep](https://open.spotify.com/album/0OsNu8S9idV7NkHVI0Ncgq) | 2:40 |
-| 8 | [Track 6](https://open.spotify.com/track/59SaHcYpMIsKmv380hE1wF) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Lotte](https://open.spotify.com/album/2lEMVmUh3kRP9qH2F0Rdw7) | 0:00 |
+| 8 | [wildes Kind](https://open.spotify.com/track/59SaHcYpMIsKmv380hE1wF) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Lotte](https://open.spotify.com/album/2lEMVmUh3kRP9qH2F0Rdw7) | 5:09 |
 | 9 | [Blaues Auge](https://open.spotify.com/track/0Ig8pN0d9lXmPs3XYeRZ4J) | [Fabian Wegerer](https://open.spotify.com/artist/3O6oippEBKDR0OJDo6O1cZ) | [Blaues Auge](https://open.spotify.com/album/0hyuku4wX5diDHyhjSehZb) | 2:13 |
 | 10 | [Ich wein für dich](https://open.spotify.com/track/177EAWicoLjRcIJuaETODL) | [Nalya](https://open.spotify.com/artist/28pXf135fQ3E5AJixrjd4O) | [Ich wein für dich](https://open.spotify.com/album/1XXKsykHsVcYjQKMsGrs0t) | 2:58 |
 | 11 | [Mein Favourite](https://open.spotify.com/track/47SevnT0n5XoAY7xjK7w34) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Mein Favourite](https://open.spotify.com/album/1IiVPAZrxSQcTs4luR9bJ0) | 2:31 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [disstrack](https://open.spotify.com/track/1DvE4PD6gtLCOJqpORDqG2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [disstrack](https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh) | 2:40 |
 | 90 | [Bus fahren](https://open.spotify.com/track/0mM8FejmhCbJbceUUOwd5B) | [LILITH](https://open.spotify.com/artist/2b9jB2xQ1O2sLqb07uuyQJ) | [Bus fahren](https://open.spotify.com/album/27kalF4EET0sWbqW6pxagJ) | 2:25 |
 
-Snapshot ID: `AAAAAG86ClSj6rAQ6rff2pOU2p4d5eVA`
+Snapshot ID: `AAAAAHbuDcPh2vqLOYAoXObGhAGbYuQl`

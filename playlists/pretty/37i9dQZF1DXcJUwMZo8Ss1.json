@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in the UAE. Cover: Ariana Grande",
-  "num_followers": 12020,
+  "num_followers": 12028,
   "original_name": "Hot Hits UAE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAACOBaSKGIPAtqSRR3dgkPUZb+CZ",
+  "snapshot_id": "AAAAAL5VOxENOMQGJCUR3c0Mm2W8CDbR",
   "tracks": [
     {
       "added_at": "2026-08-03 06:56:49",
@@ -147,7 +147,7 @@
     {
       "added_at": "2026-08-03 06:56:49",
       "album": {
-        "name": "Dracula (Remix)",
+        "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
       "artists": [
@@ -161,7 +161,7 @@
         }
       ],
       "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
+      "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {

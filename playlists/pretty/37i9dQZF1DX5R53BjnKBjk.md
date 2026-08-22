@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Iuna Falcão
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,187 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,206 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 49 | [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 |
 | 50 | [Barracumbia](https://open.spotify.com/track/6G4L8mZDaowS6Fxn85FyNY) | [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK) | [SOUNDBOY SONIDERO](https://open.spotify.com/album/2OjGnee02C0I9avn8Nt6im) | 1:45 |
 
-Snapshot ID: `AAAAAEvEpqTCrrXTyae6igJ/wbdfJ2KS`
+Snapshot ID: `AAAAAMoU5rAoV+mn/RqECGbaHXMorEUL`

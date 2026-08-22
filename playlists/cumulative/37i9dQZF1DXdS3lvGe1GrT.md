@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Theo Kandel
 
-2,176 songs - 5 day 10 hr 5 min
+2,178 songs - 5 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [A Secret / The Moon](https://open.spotify.com/track/69xAHgprvwZQOZKDV0XnTE) | [Sara Devoe](https://open.spotify.com/artist/0jKggiMBUKTJl7xoLPX86F) | [A Secret / The Moon](https://open.spotify.com/album/1vlPBmhAut1FHtIbg1j27m) | 4:00 | 2025-09-03 | 2025-12-04 |
 | [a serenade for kathy](https://open.spotify.com/track/2mETmmrhUKKCvE3G8C8ugh) | [Ezra Bell](https://open.spotify.com/artist/1nGqKVGfPPiVgxMdx8hYOI) | [a serenade for kathy](https://open.spotify.com/album/3bddIF7EpSJDzRLdMx7YKA) | 3:28 | 2023-11-08 | 2023-12-11 |
 | [A Tree Falls](https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [A Tree Falls](https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn) | 3:13 | 2024-08-07 | 2024-12-05 |
+| [About Dreams](https://open.spotify.com/track/0ygSWgTJrvmm5jIsxqp3sJ) | [Theo Kandel](https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q), [Jackie Evans](https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R) | [A Horse Named Friday](https://open.spotify.com/album/21qmtTkIwzYprRM6JjXFkH) | 4:19 | 2026-08-21 |  |
 | [About It](https://open.spotify.com/track/2jrDrfZImsSBvaDY58ZCHv) | [Raavi](https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64) | [About It](https://open.spotify.com/album/2tA9iTX6e5UbpCSE3axalq) | 2:12 | 2024-03-06 | 2024-05-09 |
 | [Acid](https://open.spotify.com/track/4JDluTPvsFmOooV9mt69bb) | [Brooke Garwood](https://open.spotify.com/artist/35RoqIMBXm2rYaD3UOzyW6) | [Acid](https://open.spotify.com/album/0zZ03JriJmcAFjRhW3ntCu) | 4:48 | 2022-05-25 | 2022-08-25 |
 | [Across The Sea \(Bonus Track\)](https://open.spotify.com/track/7gFh0drYAaCF1cnBHcCb5T) | [James Righton](https://open.spotify.com/artist/5jpyAwEsD5SwG8bno6eCS8) | [Benjamin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wk7LOVflHIOBkjzuPnBMI) | 2:09 | 2023-01-11 | 2023-02-16 |
@@ -660,6 +661,7 @@
 | [Fear of flying](https://open.spotify.com/track/0segsxWN3hD8MCmfdjipSb) | [Dissimilar South](https://open.spotify.com/artist/6P7ZagxXhdNsDPYFZ4tKKr) | [Tricky Things](https://open.spotify.com/album/5ggWqwML1X6enjuFs9zbLB) | 3:54 | 2022-05-25 | 2022-09-09 |
 | [fear of heights](https://open.spotify.com/track/6d0k9MWSKeYeVF6lVi4YYg) | [Camille Cano](https://open.spotify.com/artist/7nylhQShw6vjJgdpyHa4vY) | [fear of heights](https://open.spotify.com/album/4z7AqNt1U8ixlbidzIGErC) | 2:53 | 2025-04-02 | 2025-06-05 |
 | [Fear of the Unknown](https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Fear of the Unknown](https://open.spotify.com/album/60olbifny6PT6tQ67u0k89) | 3:43 | 2024-05-31 | 2024-07-25 |
+| [Feel The Cold](https://open.spotify.com/track/6yABWz5onWwYfJR7PUoLfP) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Feel The Cold](https://open.spotify.com/album/6EluIVtZFAVC8yBCMfLuoi) | 3:35 | 2026-08-21 |  |
 | [Feeling It All](https://open.spotify.com/track/3lMVLVBnxl7EifZcFBEzyC) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Feeling It All](https://open.spotify.com/album/0AfG7zqUpJSJV1VjvZqO28) | 3:20 | 2025-06-04 | 2025-09-04 |
 | [Feels Like Falling](https://open.spotify.com/track/7uV8cjskWaXNpe5Umc3Lro) | [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Feels Like Falling](https://open.spotify.com/album/3Ll2u7QAMbgRTd1C05LKmS) | 3:08 | 2023-02-15 | 2023-04-06 |
 | [feels like i'm changing](https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [juliet](https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh) | 2:49 | 2024-09-11 | 2025-01-16 |

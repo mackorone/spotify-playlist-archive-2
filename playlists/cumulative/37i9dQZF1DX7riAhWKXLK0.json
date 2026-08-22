@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "227kg",
+        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "227kg",
+      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/2xgobypOX2225BbBNRphTQ"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 211135,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5gyfPLAkGDs2FG6gVu5Veo"
@@ -114,7 +132,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 305032,
       "name": "Bass Go",
       "url": "https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG"
@@ -140,6 +158,24 @@
       "duration_ms": 164500,
       "name": "Bordeelsluipers - APRD Remix",
       "url": "https://open.spotify.com/track/2f7C3KsvjHkOyi1Dkg39mM"
+    },
+    {
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/1z7yDXD4ylBCqm3yXIA8Ou"
+      },
+      "artists": [
+        {
+          "name": "Afem Syko",
+          "url": "https://open.spotify.com/artist/0AI1UbChn1oJGs5JHFkebU"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196443,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/7JnPR2V3MofcZCOC8FmGu9"
     },
     {
       "album": {
@@ -358,7 +394,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 365165,
       "name": "Enter The Portal",
       "url": "https://open.spotify.com/track/6F1a7UPE0UDu6UzJ8wsPLZ"
@@ -593,6 +629,28 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
+    },
+    {
+      "album": {
         "name": "I Like How U Do It",
         "url": "https://open.spotify.com/album/3t84l5Wt4qFxU17vrZtZW6"
       },
@@ -604,7 +662,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 256815,
       "name": "I Like How U Do It",
       "url": "https://open.spotify.com/track/6ftMeDbitCQ9OUXizk8lGf"
@@ -644,10 +702,28 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 277918,
       "name": "I'm a Star",
       "url": "https://open.spotify.com/track/3TicwRRPmOOEfxorU6w2bN"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3FDR4cA5WYbcGMJEsYNRIz"
+      },
+      "artists": [
+        {
+          "name": "Linds",
+          "url": "https://open.spotify.com/artist/6ZGqNbBtVrSU2EgalYQksc"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220872,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/2FRksccB4EJsFPMZDdnjre"
     },
     {
       "album": {
@@ -724,6 +800,28 @@
       "duration_ms": 180862,
       "name": "Milenio",
       "url": "https://open.spotify.com/track/725nm2i4KkzTXZB3oPYpJU"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/7egq2tb6BOCvwJef9xmnP6"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Edo",
+          "url": "https://open.spotify.com/artist/6PMcOgk2GpLla0j5ySyakz"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/1i540ZyWMJx2Vl1Yp1QIeT"
     },
     {
       "album": {
@@ -836,7 +934,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 230400,
       "name": "Never Gonna Stop",
       "url": "https://open.spotify.com/track/4QvtLpKclx8m0KLyKojirp"
@@ -890,7 +988,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 214032,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/58LQXnyMCCEUa2vY9OcqdQ"
@@ -912,7 +1010,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 161756,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/1zG0JvTvPSqp4B8Q6GSV7q"
@@ -934,7 +1032,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 206027,
       "name": "OK SU KA",
       "url": "https://open.spotify.com/track/5pLZDZ1UaePBUMc2nvLi4z"
@@ -952,7 +1050,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 190374,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/2NuKvt8jjaIivq4Za4glMP"
@@ -1057,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "reborn (alma)",
+        "url": "https://open.spotify.com/album/434uucK4P2Y66KzXtWHfjZ"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213520,
+      "name": "reborn (alma)",
+      "url": "https://open.spotify.com/track/59IwqDfglT8yEzXYRc2HwF"
+    },
+    {
+      "album": {
         "name": "Rock the Beat",
         "url": "https://open.spotify.com/album/2Jory1ffFN7BpTtq4wsc3y"
       },
@@ -1094,7 +1210,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 219200,
       "name": "Say Goodbye (feat. EUROPE DJ)",
       "url": "https://open.spotify.com/track/4VRjfOLBvwPbtk8p5srOqf"
@@ -1152,6 +1268,24 @@
       "duration_ms": 297931,
       "name": "SLAM N JAMMIN",
       "url": "https://open.spotify.com/track/10U08E1TOScy7NBMclzVYX"
+    },
+    {
+      "album": {
+        "name": "Some Love (Radio Edit)",
+        "url": "https://open.spotify.com/album/6Lz1K2ILGmvRAwMzZzE6qm"
+      },
+      "artists": [
+        {
+          "name": "NYCO",
+          "url": "https://open.spotify.com/artist/6qGPRvyYVYsn8CuD9kX2jP"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213129,
+      "name": "Some Love - Radio Edit",
+      "url": "https://open.spotify.com/track/3wCMlY6zSW2a678kuPUau2"
     },
     {
       "album": {
@@ -1246,6 +1380,42 @@
       "duration_ms": 234997,
       "name": "Take It To The Top",
       "url": "https://open.spotify.com/track/5LcerASll9L1Mpp5ulG5Ss"
+    },
+    {
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
+      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
+    },
+    {
+      "album": {
+        "name": "TILL SUNRISE",
+        "url": "https://open.spotify.com/album/26LSStUBJ6ZOCQRh382X2o"
+      },
+      "artists": [
+        {
+          "name": "JOR",
+          "url": "https://open.spotify.com/artist/7AlKNy0s1YjaiQ7GN20pVG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "TILL SUNRISE",
+      "url": "https://open.spotify.com/track/7htDlLhODIHMyyQ7lFVU0D"
     },
     {
       "album": {
@@ -1350,10 +1520,54 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 269214,
       "name": "TURN UP THE VOLUME",
       "url": "https://open.spotify.com/track/1VLml0u5r1nbqODkyQ0JAl"
+    },
+    {
+      "album": {
+        "name": "Voicetrack Generation",
+        "url": "https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm"
+      },
+      "artists": [
+        {
+          "name": "Anetha",
+          "url": "https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa"
+        },
+        {
+          "name": "ring noord",
+          "url": "https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253953,
+      "name": "Voicetrack Generation",
+      "url": "https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa"
+    },
+    {
+      "album": {
+        "name": "where are you taking me? (mente)",
+        "url": "https://open.spotify.com/album/1aycvMYkEvofbfft4h9wo5"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        },
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227938,
+      "name": "where are you taking me? (mente)",
+      "url": "https://open.spotify.com/track/7JFH1pIbhv14d2TE6KiAeN"
     },
     {
       "album": {
@@ -1372,6 +1586,28 @@
       "duration_ms": 232367,
       "name": "Wicked With You",
       "url": "https://open.spotify.com/track/1NUrZluiGCRucIvcjiRMCM"
+    },
+    {
+      "album": {
+        "name": "Still Smiling Though",
+        "url": "https://open.spotify.com/album/3bCbY6MDM2NprnBodkvt02"
+      },
+      "artists": [
+        {
+          "name": "Hanaa",
+          "url": "https://open.spotify.com/artist/2djkHMmDa6fKW8Bk7jfhbp"
+        },
+        {
+          "name": "Teletech",
+          "url": "https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278191,
+      "name": "You Own It",
+      "url": "https://open.spotify.com/track/1O0tI7d8evr8TSbmrsXWLY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7riAhWKXLK0"

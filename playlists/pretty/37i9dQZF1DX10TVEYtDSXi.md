@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,219 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,218 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 41 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
 | 42 | [Þessum bar](https://open.spotify.com/track/5wAqnybeSKhZtxPkMgDwzU) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [Þessum bar](https://open.spotify.com/album/3zGBuDlBdtIvt5DIlZK0Sd) | 2:23 |
 | 43 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
-| 44 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
+| 44 | [Dracula \(with JENNIE\)](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(with JENNIE\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 45 | [Ég er farinn](https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf) | [Úlfur Úlfur](https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57) | [Föstudagurinn langi](https://open.spotify.com/album/3Njj4OSymSFbEYxshHrtU2) | 3:19 |
 | 46 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 |
 | 47 | [Miklu betri einn](https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Miklu betri einn](https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 49 | [Bernskan](https://open.spotify.com/track/42l2RMDpR6dKE8SSUzxdiG) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sátt](https://open.spotify.com/album/5MKoXI1asA8qMwmnPB4QHF) | 3:30 |
 | 50 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
 
-Snapshot ID: `AAAAADJXj5s6aZA/ltTlF/dzyKJTVILF`
+Snapshot ID: `AAAAAOVRKTGxf7Etzn/0cJ+FnNbyHOmY`

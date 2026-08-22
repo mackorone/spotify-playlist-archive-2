@@ -1,12 +1,12 @@
 {
   "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Frank Leen",
-  "num_followers": 131004,
+  "num_followers": 131028,
   "original_name": "Alternatywna Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACCLSHQ+FlaZ9SiTvSc4ep3CpzDu",
+  "snapshot_id": "AAAAAF8vmZrYyXeEmw5EnvBH+gUPW315",
   "tracks": [
     {
       "added_at": "2026-08-20 22:00:40",
@@ -255,6 +255,38 @@
       "duration_ms": 164250,
       "name": "Oczy zmru\u017c",
       "url": "https://open.spotify.com/track/1SukrLV8sUrOFoynx2dAUG"
+    },
+    {
+      "added_at": "2026-08-20 22:00:40",
+      "album": {
+        "name": "Mama's Car",
+        "url": "https://open.spotify.com/album/6l4chdP6cC1dtkmKlKk7zQ"
+      },
+      "artists": [
+        {
+          "name": "Paulina Przybysz",
+          "url": "https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API"
+        },
+        {
+          "name": "Marek P\u0119dziwiatr",
+          "url": "https://open.spotify.com/artist/285rwNDOrGIgleNASuWyXr"
+        },
+        {
+          "name": "Wiktoria Jakubowska",
+          "url": "https://open.spotify.com/artist/03B9rUpfuSXCXbSS3OmFZG"
+        },
+        {
+          "name": "Tymon Kosma",
+          "url": "https://open.spotify.com/artist/6eZJuqPbaYUJ5Hypwuge7j"
+        },
+        {
+          "name": "Max Mucha",
+          "url": "https://open.spotify.com/artist/2RqS1rvJaijxztXzwzAihD"
+        }
+      ],
+      "duration_ms": 193227,
+      "name": "Mama's Car",
+      "url": "https://open.spotify.com/track/1916LFOLD6clD6v1nzW3w0"
     },
     {
       "added_at": "2026-08-20 22:00:40",

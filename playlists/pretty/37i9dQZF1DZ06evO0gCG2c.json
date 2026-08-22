@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 345851,
+  "num_followers": 345898,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoTyAAAAAAAM6lyz2sfBxE27EUfLhFLp",
+  "snapshot_id": "aoZDgAAAAABl+Yu9sDc6tNjAc5jRCI2V",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Later Tonight",
-        "url": "https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD"
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
       },
       "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 198660,
-      "name": "Drunk Right Now (Na Na Na) with Akon",
-      "url": "https://open.spotify.com/track/132jKGj1Xh6hmbA4TjeJIJ"
+      "duration_ms": 238493,
+      "name": "Bananza (Belly Dancer)",
+      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
     },
     {
       "added_at": null,
@@ -523,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Deluxe Edition",
-        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Bananza (Belly Dancer)",
-      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Saucy",
         "url": "https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 219186,
       "name": "Baby, I'm Back",
       "url": "https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Later Tonight",
+        "url": "https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 198660,
+      "name": "Drunk Right Now (Na Na Na) with Akon",
+      "url": "https://open.spotify.com/track/132jKGj1Xh6hmbA4TjeJIJ"
     },
     {
       "added_at": null,

@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/04xWEBsF7o2LPP01DVffP3"
+      },
+      "artists": [
+        {
+          "name": "HESTER",
+          "url": "https://open.spotify.com/artist/1jCLTlhIUyR4NVuBjLBxAG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/1gWDGqu0uFwZNTwRUj0uBa"
+    },
+    {
+      "album": {
         "name": "Bring It Back",
         "url": "https://open.spotify.com/album/0mJoluase48Igg9q7tlDHx"
       },
@@ -11320,6 +11338,32 @@
       "duration_ms": 190500,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2wsH9mYlpO698u3NOsD6Xw"
+    },
+    {
+      "album": {
+        "name": "Nobody Around",
+        "url": "https://open.spotify.com/album/0LIVRejBIFEyxlRoJjW2XE"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Biometrix",
+          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
+        },
+        {
+          "name": "CRVN",
+          "url": "https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Nobody Around",
+      "url": "https://open.spotify.com/track/0WGqG0Pg2Cyrj0FWBQS5s5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Sm\u00f8gm\u00e6nd er unge knive \ud83c\udfad",
-  "num_followers": 47212,
+  "num_followers": 47211,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFMJiKdpiR3Q8+twYFzilMTMCAS4",
+  "snapshot_id": "AAAAALvxJ5liG0uPYhf717OBeKPbKfg0",
   "tracks": [
     {
       "added_at": "2026-08-20 22:01:33",
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 149000,
+      "name": "Gemen",
       "url": "https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr"
     },
     {
@@ -259,6 +259,26 @@
     {
       "added_at": "2026-08-20 22:01:33",
       "album": {
+        "name": "I Made It (feat. Andreas Odbjerg)",
+        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 209923,
+      "name": "I Made It (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
+    },
+    {
+      "added_at": "2026-08-20 22:01:33",
+      "album": {
         "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
         "url": "https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 159539,
       "name": "Mig Og Min Mund",
       "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
-    },
-    {
-      "added_at": "2026-08-20 22:01:33",
-      "album": {
-        "name": "I Made It (feat. Andreas Odbjerg)",
-        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
-      },
-      "artists": [
-        {
-          "name": "JOSVA",
-          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 209923,
-      "name": "I Made It (feat. Andreas Odbjerg)",
-      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
     },
     {
       "added_at": "2026-08-20 22:01:33",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-08-20 22:01:33",
       "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
-    },
-    {
-      "added_at": "2026-08-20 22:01:33",
-      "album": {
         "name": "Folk Forsvinder",
         "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 173041,
       "name": "Folk Forsvinder",
       "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+    },
+    {
+      "added_at": "2026-08-20 22:01:33",
+      "album": {
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
     },
     {
       "added_at": "2026-08-20 22:01:33",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-08-20 22:01:33",
       "album": {
-        "name": "Venter Jo Bare",
-        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 200164,
-      "name": "Venter Jo Bare",
-      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
-    },
-    {
-      "added_at": "2026-08-20 22:01:33",
-      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 195988,
       "name": "Hvad Med Mig",
       "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+    },
+    {
+      "added_at": "2026-08-20 22:01:33",
+      "album": {
+        "name": "Venter Jo Bare",
+        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 200164,
+      "name": "Venter Jo Bare",
+      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
     },
     {
       "added_at": "2026-08-20 22:01:33",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-08-20 22:01:33",
       "album": {
+        "name": "F\u00f8r du siger farvel",
+        "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
+      },
+      "artists": [
+        {
+          "name": "Loui Henderson",
+          "url": "https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "F\u00f8r du siger farvel",
+      "url": "https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e"
+    },
+    {
+      "added_at": "2026-08-20 22:01:33",
+      "album": {
         "name": "Jeg h\u00e5ber (feat. Mekdes)",
         "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 168469,
       "name": "Jeg h\u00e5ber (feat. Mekdes)",
       "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
-    },
-    {
-      "added_at": "2026-08-20 22:01:33",
-      "album": {
-        "name": "F\u00f8r du siger farvel",
-        "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
-      },
-      "artists": [
-        {
-          "name": "Loui Henderson",
-          "url": "https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "F\u00f8r du siger farvel",
-      "url": "https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e"
     },
     {
       "added_at": "2026-08-20 22:01:33",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-08-20 22:01:33",
       "album": {
+        "name": "Ekkoer",
+        "url": "https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa"
+      },
+      "artists": [
+        {
+          "name": "Laura Vejlby",
+          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
+        }
+      ],
+      "duration_ms": 161195,
+      "name": "Ekkoer",
+      "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
+    },
+    {
+      "added_at": "2026-08-20 22:01:33",
+      "album": {
         "name": "Til Enden Og Tilbage (feat. Ungklang)",
         "url": "https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 189831,
       "name": "Til Enden Og Tilbage (feat. Ungklang)",
       "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
-    },
-    {
-      "added_at": "2026-08-20 22:01:33",
-      "album": {
-        "name": "Ekkoer",
-        "url": "https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa"
-      },
-      "artists": [
-        {
-          "name": "Laura Vejlby",
-          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
-        }
-      ],
-      "duration_ms": 161195,
-      "name": "Ekkoer",
-      "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
     },
     {
       "added_at": "2026-08-20 22:01:33",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-08-20 22:01:33",
       "album": {
-        "name": "Ind I Solen",
-        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
-      },
-      "artists": [
-        {
-          "name": "Kayak",
-          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
-        }
-      ],
-      "duration_ms": 227037,
-      "name": "Ind I Solen",
-      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
-    },
-    {
-      "added_at": "2026-08-20 22:01:33",
-      "album": {
         "name": "Verona",
         "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
+    },
+    {
+      "added_at": "2026-08-20 22:01:33",
+      "album": {
+        "name": "Ind I Solen",
+        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
+      },
+      "artists": [
+        {
+          "name": "Kayak",
+          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
+        }
+      ],
+      "duration_ms": 227037,
+      "name": "Ind I Solen",
+      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
     },
     {
       "added_at": "2026-08-20 22:01:33",

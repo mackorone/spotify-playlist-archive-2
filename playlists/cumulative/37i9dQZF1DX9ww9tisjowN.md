@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Creepy Nuts
 
-1,205 songs - 2 day 20 hr 54 min
+1,206 songs - 2 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 | 2025-08-21 | 2025-10-03 |
 | [Hyper](https://open.spotify.com/track/2gjcKUENc1b3CkBEWjSL1E) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/1SVGVA68dbU3oTG8nRISM4) | 4:17 | 2023-10-03 | 2023-10-05 |
 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 | 2023-10-03 | 2023-10-13 |
+| [Hyper Vip](https://open.spotify.com/track/7agFnJp6OmdgwzSzAFKf7Q) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Travelogue I](https://open.spotify.com/album/4rHApC99EydLlqldhcauVs) | 3:13 | 2026-08-21 |  |
 | [HYPNOTIZE](https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6) | 2:50 | 2026-01-22 |  |
 | [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 | 2025-10-23 | 2025-12-04 |
 | [I am not maternal](https://open.spotify.com/track/51aTV71knVrYu9b5r5w8XV) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 2:04 | 2025-02-27 | 2025-03-07 |
@@ -473,7 +474,7 @@
 | [PEEK\-A\-BOO \- feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ](https://open.spotify.com/track/0BghOAtqgizpuVtJFUCFxn) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2), [鈴木優人](https://open.spotify.com/artist/5OcbTVDfV9qxI7va2CwpNX), [かてぃん\(角野隼斗\)](https://open.spotify.com/artist/3pFcOAkJezpIkzIFurpXA9) | [PEEK\-A\-BOO \[feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ\]](https://open.spotify.com/album/0scNuFoGoUmCWEC8VNHZiM) | 2:20 | 2023-06-27 | 2023-07-05 |
 | [Pichi Pichi](https://open.spotify.com/track/6yU5OWl6JcErMP4gFqqFKr) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Pichi Pichi](https://open.spotify.com/album/4xUwgCzKHpaQIGE3UKPA8V) | 2:08 | 2023-10-03 | 2023-10-13 |
 | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/track/3J7aROvcIXinMbZd2LzL3B) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:16 | 2023-05-09 | 2023-12-08 |
-| [pink flamingo](https://open.spotify.com/track/13RAle8tNej3u5Y4pSHB9c) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm) | [outernet 開く](https://open.spotify.com/album/7LRnYt4Cc4SeXoTNCn62vg) | 2:52 | 2026-08-13 |  |
+| [pink flamingo](https://open.spotify.com/track/13RAle8tNej3u5Y4pSHB9c) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm) | [outernet 開く](https://open.spotify.com/album/7LRnYt4Cc4SeXoTNCn62vg) | 2:52 | 2026-08-13 | 2026-08-22 |
 | [Pink Gang](https://open.spotify.com/track/7cL0Yv9wLzhQ94mFrMMGTj) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Pink Gang](https://open.spotify.com/album/5ZlidpfVOM6wystkLKU7Db) | 3:20 | 2024-04-11 | 2024-04-17 |
 | [plan](https://open.spotify.com/track/1vTx59PSh5jHw2WmEpTgWN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/1c7dUJR1HsiVLLLR901iMr) | 3:18 | 2023-07-11 | 2023-07-13 |
 | [plan](https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS) | 3:18 | 2023-07-11 | 2023-07-21 |

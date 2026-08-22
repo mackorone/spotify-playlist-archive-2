@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: FOLA",
-  "num_followers": 231390,
+  "num_followers": 231485,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZkmtLG86XylzlJKZEIGbOdPi2P",
+  "snapshot_id": "AAAAAEyJBuJRsY2eOsxn453ej8QJ+s1S",
   "tracks": [
     {
       "added_at": "2026-08-21 00:01:45",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
-        "name": "MOTION SICKNESS",
-        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "MOTION SICKNESS (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 132817,
       "name": "THAT GIRL!",
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
+        "name": "MOTION SICKNESS",
+        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "MOTION SICKNESS (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -823,6 +823,26 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 168331,
+      "name": "Ms. Paper (feat. Theodora)",
+      "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
         "name": "what a feeling",
         "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 159945,
       "name": "who does that? (feat. Bella Shmurda)",
       "url": "https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
-        "name": "Agaba Romantic",
-        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 128316,
-      "name": "100 Meters",
-      "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
+        "name": "Agaba Romantic",
+        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 128316,
+      "name": "100 Meters",
+      "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 141818,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 168331,
-      "name": "Ms. Paper (feat. Theodora)",
-      "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
         "name": "Straata",
         "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/6hq5k40Xy1HtlVh3rxubL4"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
         "name": "Intentions (feat. Urban Chords)",
         "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 149786,
       "name": "Intentions (feat. Urban Chords)",
       "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -1347,26 +1347,18 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
-        "name": "Okpeke (Dance for Me)",
-        "url": "https://open.spotify.com/album/2YTlHepyfJXo6VdFNCs0y9"
+        "name": "ITALAWA",
+        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
       },
       "artists": [
         {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 145328,
-      "name": "Okpeke (Dance for Me)",
-      "url": "https://open.spotify.com/track/4vi0W5kYanPq7TzDMR51I3"
+      "duration_ms": 173142,
+      "name": "ITALAWA",
+      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -1387,6 +1379,30 @@
       "duration_ms": 175000,
       "name": "Shakabulizzy - Remix",
       "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
+        "name": "Okpeke (Dance for Me)",
+        "url": "https://open.spotify.com/album/2YTlHepyfJXo6VdFNCs0y9"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 145328,
+      "name": "Okpeke (Dance for Me)",
+      "url": "https://open.spotify.com/track/4vi0W5kYanPq7TzDMR51I3"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -1419,22 +1435,6 @@
       "duration_ms": 150000,
       "name": "Na Scra",
       "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
-        "name": "ITALAWA",
-        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "ITALAWA",
-      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
     },
     {
       "added_at": "2026-08-21 00:01:45",
@@ -1475,46 +1475,6 @@
     {
       "added_at": "2026-08-21 00:01:45",
       "album": {
-        "name": "Realize",
-        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
-        "name": "Uzama The 3rd",
-        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 154268,
-      "name": "Osusu",
-      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
-    },
-    {
-      "added_at": "2026-08-21 00:01:45",
-      "album": {
         "name": "BANGER BOY",
         "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
@@ -1547,6 +1507,46 @@
       "duration_ms": 218947,
       "name": "Despacito (feat. FOLA)",
       "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
+        "name": "Uzama The 3rd",
+        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 154268,
+      "name": "Osusu",
+      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
+    },
+    {
+      "added_at": "2026-08-21 00:01:45",
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
     }
   ],
   "unique_name": "Gbedu",

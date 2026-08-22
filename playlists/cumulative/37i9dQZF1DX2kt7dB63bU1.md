@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-934 songs - 2 day 16 hr 42 min
+935 songs - 2 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [I'm Old Fashioned](https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Paris In The Rain](https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp) | 4:44 | 2020-10-09 | 2022-02-16 |
 | [I'm The Greatest Star](https://open.spotify.com/track/4V06hk4ozch7R6pmHruhHk) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [I'm The Greatest Star](https://open.spotify.com/album/3gOAdcPP8ict0JEsxdKyw1) | 2:38 | 2025-03-21 | 2025-04-26 |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/46wvxJ03dV4g8ekGli9aAM) | [Brian Newman](https://open.spotify.com/artist/69nlp4XeaIc8tZfUqQNhkn) | [I've Got My Love To Keep Me Warm](https://open.spotify.com/album/323iIC7XO7Jo5S3Qs6mu9Q) | 2:34 | 2020-10-09 | 2022-02-11 |
-| [I've Got You On My Mind](https://open.spotify.com/track/4QJd5CZ3FFYZRLrsTODIoH) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [I've Got You On My Mind](https://open.spotify.com/album/3Kolj418fgCSKgf2rlnFyl) | 3:00 | 2024-07-26 |  |
+| [I've Got You On My Mind](https://open.spotify.com/track/4QJd5CZ3FFYZRLrsTODIoH) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [I've Got You On My Mind](https://open.spotify.com/album/3Kolj418fgCSKgf2rlnFyl) | 3:00 | 2024-07-26 | 2026-08-22 |
 | [I've Got You Under My Skin](https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [I've Got You Under My Skin](https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP) | 3:29 | 2022-02-18 | 2023-02-25 |
 | [I've Got You Under My Skin](https://open.spotify.com/track/6jz5HzDmPuQ24U7u7KfKGw) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:05 | 2022-02-18 | 2023-02-25 |
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/32WYZpk3xCFAP7GBG3sh0O) | [Nikos Chatzitsakos](https://open.spotify.com/artist/0YPgx5nPw07cXmULr4Ckp6), [Lian Zac](https://open.spotify.com/artist/1b8A2ByYDTRJR1mc9yq2RR), [Brandon Lin](https://open.spotify.com/artist/34uAT9ljsrLL2g7kx8lDZW) | [I've Grown Accustomed To Her Face](https://open.spotify.com/album/6x2jzBFwglCyvrGz6W6fmM) | 3:50 | 2022-04-22 | 2022-07-20 |
@@ -491,6 +491,7 @@
 | [Love Is In The Picture](https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Love Is In The Picture](https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw) | 3:38 | 2020-10-09 | 2022-02-19 |
 | [Love Is Like A Movie](https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Judi Jackson](https://open.spotify.com/artist/6cc4nTPbOmmi0oWqMKL6fU) | [Who We Are](https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz) | 4:34 | 2024-10-11 |  |
 | [Love Is Not Fair](https://open.spotify.com/track/1Rk7XlJJJRsfQEy3MGcqZa) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:35 | 2022-02-18 | 2022-07-29 |
+| [Love Letters](https://open.spotify.com/track/43L5ohb6cKJBpNCK7ZjiN6) | [Ryan Peter Murphy](https://open.spotify.com/artist/3Mtej0J9pd8zxe4vnbZcMP) | [Love Letters](https://open.spotify.com/album/65atnTEc0uX0bKfsyogd0l) | 2:50 | 2026-08-21 |  |
 | [Love Me As I Am](https://open.spotify.com/track/7mQPml8oyhivfvnMigbgeL) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [Asking for Trouble](https://open.spotify.com/album/0BFH1oeVEEbdcloPUoSGXs) | 2:32 | 2025-04-11 | 2025-08-23 |
 | [Love Me Like A Man](https://open.spotify.com/track/440GrhXm3NbJjm8VOl682m) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Love Me Like A Man](https://open.spotify.com/album/4uk8e0nAxuOSewPoIYEIQ9) | 4:35 | 2022-04-08 | 2022-05-06 |
 | [Love Song](https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Sunset In The Blue \(Deluxe Version\)](https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx) | 5:25 | 2021-04-16 | 2022-10-08 |

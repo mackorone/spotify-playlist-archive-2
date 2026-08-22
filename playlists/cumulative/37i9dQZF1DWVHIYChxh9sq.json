@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Julian Mercado",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Pepe Aguilar",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 128638,
       "name": "Aqu\u00ed en Mi Coraz\u00f3n T\u00fa Mandas",
       "url": "https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU"
@@ -970,6 +970,28 @@
       "duration_ms": 218000,
       "name": "Ayer Te Ped\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/48r98YoFahFsLoPw2v9GJi"
+    },
+    {
+      "album": {
+        "name": "BACHATA ROSA (En Vivo)",
+        "url": "https://open.spotify.com/album/1lMzXTzdYlt8fpear8piwh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sexta Edicion",
+          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
+        },
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220048,
+      "name": "BACHATA ROSA - En Vivo",
+      "url": "https://open.spotify.com/track/60OryBOhbRUjprghNqIhMt"
     },
     {
       "album": {
@@ -2520,7 +2542,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 218634,
       "name": "DE SOBREMANERA - EN VIVO",
       "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
@@ -6032,7 +6054,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 230500,
       "name": "Hermos\u00edsimo Lucero - En Vivo",
       "url": "https://open.spotify.com/track/79EbYZpNx4Jy1869GuuzWU"
@@ -7790,7 +7812,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 202199,
       "name": "Los Amores De Julia - En Vivo",
       "url": "https://open.spotify.com/track/1WfsEweuDGT4bp7H4LlC6n"
@@ -8264,6 +8286,28 @@
       "duration_ms": 166729,
       "name": "Me Bautiz\u00f3 la Mafia - En Vivo",
       "url": "https://open.spotify.com/track/4bsDUiLDCU3IGrtzarWWFY"
+    },
+    {
+      "album": {
+        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
+        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        },
+        {
+          "name": "Vincen Melendres",
+          "url": "https://open.spotify.com/artist/0QcGtDy093EGQOYWIV4iLU"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217482,
+      "name": "Me Estoy Enamorando - En Vivo Desde la Arena Jalisco",
+      "url": "https://open.spotify.com/track/3pqmhilpYlMzXINg1IjM83"
     },
     {
       "album": {
@@ -9633,6 +9677,24 @@
     },
     {
       "album": {
+        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
+        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268993,
+      "name": "Por Mujeres Como T\u00fa - Live",
+      "url": "https://open.spotify.com/track/10fwLGjvCv1tpuDF1EwwL5"
+    },
+    {
+      "album": {
         "name": "Recuerdos Para Pistear (En Vivo)",
         "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
       },
@@ -9670,6 +9732,24 @@
       "duration_ms": 192978,
       "name": "Por Qui\u00e9n Me Dejas (En vivo)",
       "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
+    },
+    {
+      "album": {
+        "name": "Por Tu Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/12hJGe8quNKv2xtWN8sVrb"
+      },
+      "artists": [
+        {
+          "name": "Faraon De Chicago",
+          "url": "https://open.spotify.com/artist/0Qi6PB3Sv7DMUayxJurd6i"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214450,
+      "name": "Por Tu Amor - En Vivo",
+      "url": "https://open.spotify.com/track/4GRv5hfZL6FqDSKNCugqzI"
     },
     {
       "album": {
@@ -9990,7 +10070,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 177250,
       "name": "Quise Ver C\u00f3mo Empec\u00e9 (En Vivo)",
       "url": "https://open.spotify.com/track/7mK2z3Kv31EoGQzs4H1MHm"
@@ -10038,7 +10118,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 194699,
       "name": "Qu\u00e9 Chulada de Mujer - En Vivo",
       "url": "https://open.spotify.com/track/30z5nbnUQSAk13SSYaOsWG"
@@ -10219,6 +10299,24 @@
     },
     {
       "album": {
+        "name": "Puros Corridos En Vivo desde Monterrey (Live)",
+        "url": "https://open.spotify.com/album/57h1Mj68QxOPBVHzo3JhQB"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165886,
+      "name": "Se les pelo Baltazar - Live",
+      "url": "https://open.spotify.com/track/4qGjhjmQD6ZnK6JAo3zVxG"
+    },
+    {
+      "album": {
         "name": "En Vivo Guadalajara - Monterrey (Live)",
         "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
       },
@@ -10336,7 +10434,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 178280,
       "name": "Si En Tu Mente Estuve (En Vivo)",
       "url": "https://open.spotify.com/track/4rl7Q7ganjl2Oc2tUImUrJ"
@@ -11738,7 +11836,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 226101,
       "name": "Y Por Lo Pronto - En Vivo",
       "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
@@ -12022,7 +12120,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-22",
       "duration_ms": 198520,
       "name": "Zona Patrullando - En Vivo",
       "url": "https://open.spotify.com/track/3NF4rNYnPjN95DuG4fC1eB"

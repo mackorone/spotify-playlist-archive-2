@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Awarapan 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,222,510 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,223,170 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Jaane Na Tu \(From "UR Debut"\)](https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Almost Loved \(From "UR Debut"\)](https://open.spotify.com/album/0CQD8Onjot6D9Xw3zbVE96) | 3:10 |
 | 50 | [Tere Ishk Mein \(From "Tere Ishk Mein"\)](https://open.spotify.com/track/39aHB0LHPLDZNwVhMf3DNH) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tere Ishk Mein \(From "Tere Ishk Mein"\)](https://open.spotify.com/album/3abedjI3sFEqUI7hNu0yzF) | 5:50 |
 
-Snapshot ID: `AAAAAIzP1uEWT5dH36BYAPE/UCdiDADW`
+Snapshot ID: `AAAAACvcNTnfKdCSpNYyUaAi/ZZ2xo90`

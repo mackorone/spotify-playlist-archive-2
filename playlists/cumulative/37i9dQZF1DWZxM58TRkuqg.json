@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Budi Doremi",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Bunga Citra Lestari, Josh Florentino",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -2359,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "bunga bunga di barcelona",
+        "url": "https://open.spotify.com/album/52tBxrRKhr6Vx1xPOsoBjC"
+      },
+      "artists": [
+        {
+          "name": "Christie",
+          "url": "https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186711,
+      "name": "bunga bunga di barcelona",
+      "url": "https://open.spotify.com/track/1z39Newld3bFC6zM9Fice5"
+    },
+    {
+      "album": {
         "name": "Bunga Hati",
         "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
       },
@@ -2680,6 +2698,24 @@
       "duration_ms": 186570,
       "name": "Ceritanya Jatuh Cinta",
       "url": "https://open.spotify.com/track/0f9J5rMcMhCQiPGSJHvr7G"
+    },
+    {
+      "album": {
+        "name": "Ceritanya Jatuh Cinta (Ceritanya Live Session)",
+        "url": "https://open.spotify.com/album/0iEYEZqvG6pH7X6fp5t5sG"
+      },
+      "artists": [
+        {
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Ceritanya Jatuh Cinta - Ceritanya Live Session",
+      "url": "https://open.spotify.com/track/5SsH1Yw22yBGRCVRkzpc1c"
     },
     {
       "album": {
@@ -5723,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "Kan",
+        "url": "https://open.spotify.com/album/5VhkscZkP2TdsNtUAOP11u"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204069,
+      "name": "Kan",
+      "url": "https://open.spotify.com/track/1wFes72GQ7pyuW4dEZzNi8"
+    },
+    {
+      "album": {
         "name": "TEATER NESTAPA",
         "url": "https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf"
       },
@@ -6014,6 +6068,24 @@
       "duration_ms": 217053,
       "name": "KECANDUAN",
       "url": "https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx"
+    },
+    {
+      "album": {
+        "name": "Kecintaan",
+        "url": "https://open.spotify.com/album/4rT5vnXVm17e8rGXilZ3ZF"
+      },
+      "artists": [
+        {
+          "name": "Rizwan Fadilah",
+          "url": "https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209366,
+      "name": "Kecintaan",
+      "url": "https://open.spotify.com/track/0mcC9UPHdPMaGCqdWuDh08"
     },
     {
       "album": {
@@ -13604,6 +13676,28 @@
       "duration_ms": 214395,
       "name": "Terpatah Terluka",
       "url": "https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B"
+    },
+    {
+      "album": {
+        "name": "Terpesona",
+        "url": "https://open.spotify.com/album/6EIeAiwGskDBWBQGy7PZIr"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        },
+        {
+          "name": "Josh Flo",
+          "url": "https://open.spotify.com/artist/1N9oae6JjWPiMYrbhDpIdw"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267089,
+      "name": "Terpesona",
+      "url": "https://open.spotify.com/track/1iRDtYqkXpKfo5X0bXzWa2"
     },
     {
       "album": {

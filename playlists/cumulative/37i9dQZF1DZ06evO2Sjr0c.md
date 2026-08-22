@@ -4,7 +4,7 @@
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-54 songs - 4 hr 40 min
+55 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Ramble on Rose \(Live at the Strand Lyceum, London, England, 5/26/72\) \- 2001 Remaster](https://open.spotify.com/track/24ei2BLeVEpGWLZ2qfLXJO) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 6:01 | 2026-01-15 |  |
 | [Ripple \- 2013 Remaster](https://open.spotify.com/track/1OE5l6sedVcIFELMuxQOPI) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 4:09 | 2026-01-15 |  |
 | [Scarlet Begonias \- 2013 Remaster](https://open.spotify.com/track/3euDGpS2R0NC2Xssqxohva) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 4:19 | 2026-01-15 |  |
-| [Shakedown Street \- 2013 Remaster](https://open.spotify.com/track/1lNRVjK8MukRZpeurYssIx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 5:00 | 2026-01-15 |  |
+| [Shakedown Street \- 2013 Remaster](https://open.spotify.com/track/1lNRVjK8MukRZpeurYssIx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 5:00 | 2026-01-15 | 2026-08-22 |
+| [Shakedown Street \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/4pfpE9qnEGXTgYUDqf0cqe) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street \(Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985\)](https://open.spotify.com/album/13tHrJ57GNh8ZoXJLHwqcX) | 15:13 | 2026-08-22 |  |
 | [Ship of Fools \- 2013 Remaster](https://open.spotify.com/track/5ks4ht7EDua6UsaI4Dk7Lz) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 5:28 | 2026-01-15 |  |
 | [Slow Train \- Live at Sullivan Stadium, Foxborough, MA \- July 1987](https://open.spotify.com/track/6kpqaDEznzrlLFhPDwjNNY) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Dylan & The Dead \(Live\)](https://open.spotify.com/album/2H8oXIOkww0RuVckCa6Scw) | 4:56 | 2026-01-15 | 2026-05-22 |
 | [St\. Stephen \- 2013 Remaster](https://open.spotify.com/track/1Hd5JgVdf45pyZJiUyIe9w) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Aoxomoxoa \(2013 Remaster\)](https://open.spotify.com/album/2IZe9ttqeMqwkv3dRXJRkd) | 4:27 | 2026-01-15 |  |

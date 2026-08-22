@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 129617,
+  "num_followers": 129605,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL5qGPPqMd0vza3B3xf4Acmck45L",
+  "snapshot_id": "AAAAAABhpxBwtE8xK2p+ExfYc6Mz4QUZ",
   "tracks": [
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Love is the Answer",
-        "url": "https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr"
-      },
-      "artists": [
-        {
-          "name": "Las Robertas",
-          "url": "https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp"
-        }
-      ],
-      "duration_ms": 360259,
-      "name": "Love is the Answer",
-      "url": "https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Cosas Que Probablemente No Van a Pasar",
         "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 160000,
       "name": "Cosas que probablemente no van a pasar",
       "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Love is the Answer",
+        "url": "https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr"
+      },
+      "artists": [
+        {
+          "name": "Las Robertas",
+          "url": "https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp"
+        }
+      ],
+      "duration_ms": 360259,
+      "name": "Love is the Answer",
+      "url": "https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Play It Strange",
-        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
-      },
-      "artists": [
-        {
-          "name": "The Fresh & Onlys",
-          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Mrs. Jones' Cookies",
         "url": "https://open.spotify.com/album/24dI6lq3WUyZWLkf812CAm"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 221900,
       "name": "Summer of Love",
       "url": "https://open.spotify.com/track/5CP2t8ob13BZXVXByFazt1"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Play It Strange",
+        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
+      },
+      "artists": [
+        {
+          "name": "The Fresh & Onlys",
+          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
     },
     {
       "added_at": "2024-07-12 23:20:36",

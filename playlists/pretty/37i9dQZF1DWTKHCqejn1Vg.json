@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34681,
+  "num_followers": 34683,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqMi9j0/c2xd3byM0Or6OublvSD",
+  "snapshot_id": "AAAAACvaAC193EY1QRJk4z80CPWX0uQA",
   "tracks": [
     {
       "added_at": "2026-06-29 08:23:18",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-06-29 08:23:18",
       "album": {
-        "name": "TR.EE",
-        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/5fUO9bchmVIyee8JEGKnKj"
-    },
-    {
-      "added_at": "2026-06-29 08:23:18",
-      "album": {
         "name": "Wait On Me - The 4th Mini Album",
         "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 143360,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC"
+    },
+    {
+      "added_at": "2026-06-29 08:23:18",
+      "album": {
+        "name": "TR.EE",
+        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/5fUO9bchmVIyee8JEGKnKj"
     },
     {
       "added_at": "2026-06-29 08:23:18",
@@ -815,38 +815,6 @@
     {
       "added_at": "2026-06-29 08:23:18",
       "album": {
-        "name": "i said it",
-        "url": "https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN"
-      },
-      "artists": [
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "i said it",
-      "url": "https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW"
-    },
-    {
-      "added_at": "2026-06-29 08:23:18",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 210344,
-      "name": "I Don\u2019t Disappoint",
-      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
-    },
-    {
-      "added_at": "2026-06-29 08:23:18",
-      "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
@@ -867,18 +835,34 @@
     {
       "added_at": "2026-06-29 08:23:18",
       "album": {
-        "name": "AFTER UPSET",
-        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
       "artists": [
         {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 129000,
-      "name": "muah",
-      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
+      "duration_ms": 210344,
+      "name": "I Don\u2019t Disappoint",
+      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
+    },
+    {
+      "added_at": "2026-06-29 08:23:18",
+      "album": {
+        "name": "i said it",
+        "url": "https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "i said it",
+      "url": "https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW"
     },
     {
       "added_at": "2026-06-29 08:23:18",
@@ -899,6 +883,22 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+    },
+    {
+      "added_at": "2026-06-29 08:23:18",
+      "album": {
+        "name": "AFTER UPSET",
+        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "muah",
+      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
     },
     {
       "added_at": "2026-06-29 08:23:18",

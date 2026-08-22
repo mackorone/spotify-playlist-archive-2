@@ -4,7 +4,7 @@
 
 > De la Calle a la Cima con Ozuna y Omar Courtz.
 
-710 songs - 1 day 14 hr 59 min
+711 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Caminemos de la Mano](https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Caminemos de la Mano](https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB) | 3:34 | 2022-08-19 | 2022-09-10 |
 | [Can Am](https://open.spotify.com/track/7MK6edE9MWa7OVPFy0tbcM) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 2:44 | 2024-09-27 | 2024-10-26 |
 | [CANDY \- Remix](https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:24 | 2022-09-09 | 2022-12-10 |
+| [CARITA FELIZ](https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CARITA FELIZ](https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm) | 3:13 | 2026-08-21 |  |
 | [Carolina](https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 2:53 | 2026-08-07 |  |
 | [Caserio](https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Caserio](https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy) | 3:09 | 2024-03-08 | 2024-03-23 |
 | [Castigo](https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Castigo](https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ) | 2:58 | 2022-05-27 | 2022-07-02 |
@@ -464,7 +465,7 @@
 | [Pa' la seca](https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pa' la seca](https://open.spotify.com/album/11Wh4dbrBu8VSZ7wMDV8wQ) | 3:04 | 2026-04-17 |  |
 | [Pa' Que La Pases Bien](https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [El Fenomeno](https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s) | 3:34 | 2023-12-21 | 2024-01-05 |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2022-09-02 | 2024-01-05 |
-| [Pal Agua](https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pal Agua](https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt) | 3:26 | 2026-03-27 |  |
+| [Pal Agua](https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pal Agua](https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt) | 3:26 | 2026-03-27 | 2026-08-22 |
 | [Pam Pam](https://open.spotify.com/track/3syMVJoaLhRKAw9r9ZB9qD) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 3:53 | 2023-12-21 | 2024-01-05 |
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-01-27 | 2023-06-03 |
 | [Panty Chanel](https://open.spotify.com/track/16tB6ylVvnR7uUWdl9F09m) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Panty Chanel](https://open.spotify.com/album/6ERVQRksfePRgY9Tu0jKPW) | 3:10 | 2025-01-17 | 2025-02-08 |
