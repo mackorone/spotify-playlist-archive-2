@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 83 | [Birds & Cows](https://open.spotify.com/track/30mqjDr0VXmacFCg7RiuBV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:18 |
 | 84 | [Diver City in the House](https://open.spotify.com/track/7sDK21co6xDJwVIUwcSigr) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:04 |
 | 85 | [Vitamin](https://open.spotify.com/track/5KOMi431YMQbyTh8yuiwu0) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Vitamin](https://open.spotify.com/album/27WkqF1MudS5dyGdvcKOLU) | 3:02 |
-| 86 | [Potty Party](https://open.spotify.com/track/7lzg2dzYCZcl1c9436NfZM) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:45 |
-| 87 | [Give You Up](https://open.spotify.com/track/3CopGPtQ4MoD8iyY5ueuFM) | [4ward](https://open.spotify.com/artist/2HJ6cQiyTDeszUJhtYTuL9) | [Give You Up](https://open.spotify.com/album/0kjOXo5OogBVOGwLUqOdVz) | 5:26 |
+| 86 | [Give You Up](https://open.spotify.com/track/3CopGPtQ4MoD8iyY5ueuFM) | [4ward](https://open.spotify.com/artist/2HJ6cQiyTDeszUJhtYTuL9) | [Give You Up](https://open.spotify.com/album/0kjOXo5OogBVOGwLUqOdVz) | 5:26 |
+| 87 | [Potty Party](https://open.spotify.com/track/7lzg2dzYCZcl1c9436NfZM) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:45 |
 | 88 | [Getting Dressed Up](https://open.spotify.com/track/2trdxliifJwkiy7Dpy0MiV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:26 |
 | 89 | [Walk Around the Block](https://open.spotify.com/track/0ZdtAJGaJh1JKZcRokFSik) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:56 |
 | 90 | [Together We Fly](https://open.spotify.com/track/62QM2O99ggvA4GY0OOpcVw) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:09 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 110 | [For Myself](https://open.spotify.com/track/7pZVOPDehm7pTj9LFsOH9s) | [Jjoska](https://open.spotify.com/artist/30jtQ4tZS8uBg285avUmBb) | [For Myself](https://open.spotify.com/album/1UA45mIsnhI4y021tUbhnw) | 4:50 |
 | 111 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
 
-Snapshot ID: `AcaM2AAAAAC5fFRw7yc+BxL73TrPShYi`
+Snapshot ID: `AcaSZAAAAAAY0VgnX+b4Zy+JHvTd1hnI`

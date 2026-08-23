@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Luciano, Jazeek",
-  "num_followers": 908775,
+  "num_followers": 908731,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHa6j/FeUThGY5Hb9F2qWewhp77Q",
+  "snapshot_id": "AAAAAEhq7SPy5k2aPXYMq/dhuLTsaaky",
   "tracks": [
     {
       "added_at": "2026-08-13 22:01:32",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/0yMtB5zHyQIllZAOBphgdE"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 139065,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
         "name": "Bleib stark",
         "url": "https://open.spotify.com/album/2mBw0hNgfE4lvYgajed54n"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 184200,
       "name": "Bleib stark",
       "url": "https://open.spotify.com/track/6JbVRviSipLkiY3khQjBWs"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/0yMtB5zHyQIllZAOBphgdE"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 139065,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -747,7 +747,7 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "mein cutie <3",
+        "name": "Mein Cutie <3",
         "url": "https://open.spotify.com/album/73MU9R7JX5phaaO5StfOA7"
       },
       "artists": [
@@ -757,7 +757,7 @@
         }
       ],
       "duration_ms": 130914,
-      "name": "mein cutie <3",
+      "name": "Mein Cutie <3",
       "url": "https://open.spotify.com/track/4amIje1MIz0NbIzmso07tZ"
     },
     {
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "Kein Limit",
-        "url": "https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 121295,
-      "name": "Kein Limit",
-      "url": "https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
         "name": "BLN",
         "url": "https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 167153,
       "name": "BLN",
       "url": "https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
+        "name": "Kein Limit",
+        "url": "https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 121295,
+      "name": "Kein Limit",
+      "url": "https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1047,7 +1047,7 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "art attack",
+        "name": "Art Attack",
         "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
       },
       "artists": [
@@ -1061,7 +1061,7 @@
         }
       ],
       "duration_ms": 166896,
-      "name": "art attack",
+      "name": "Art Attack",
       "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
     },
     {
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/66YJqRtjJR3FHqWmaAFaDP"
-      },
-      "artists": [
-        {
-          "name": "Haaland936",
-          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
-        },
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 140168,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2CxeTsHOktarDMoEBQmbaj"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
         "name": "4LAP",
         "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 141934,
       "name": "304",
       "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/66YJqRtjJR3FHqWmaAFaDP"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 140168,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2CxeTsHOktarDMoEBQmbaj"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "VILLAIN / EXCITING",
-        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
-      },
-      "artists": [
-        {
-          "name": "marlon",
-          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "VILLAIN",
-      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 184453,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
+        "name": "VILLAIN / EXCITING",
+        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
+      },
+      "artists": [
+        {
+          "name": "marlon",
+          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "Aladin",
-        "url": "https://open.spotify.com/album/3q4PDQhnNKNrJa2Hwy4Z7F"
-      },
-      "artists": [
-        {
-          "name": "Ch\u00e9 Salah",
-          "url": "https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT"
-        },
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        }
-      ],
-      "duration_ms": 170655,
-      "name": "Aladin",
-      "url": "https://open.spotify.com/track/3OfWj0eUj76k3Hz9HKD6uA"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
         "name": "Late Night",
         "url": "https://open.spotify.com/album/66LP7glcrs50BYphCws0Jv"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 169180,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/3wRejxNrmV3gumjMqzPGG3"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
+        "name": "Aladin",
+        "url": "https://open.spotify.com/album/3q4PDQhnNKNrJa2Hwy4Z7F"
+      },
+      "artists": [
+        {
+          "name": "Ch\u00e9 Salah",
+          "url": "https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "duration_ms": 170655,
+      "name": "Aladin",
+      "url": "https://open.spotify.com/track/3OfWj0eUj76k3Hz9HKD6uA"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
+        "name": "STILL DON'T PANIC",
+        "url": "https://open.spotify.com/album/3bohKQuv5jLycIyK2HaqpE"
+      },
+      "artists": [
+        {
+          "name": "Musso",
+          "url": "https://open.spotify.com/artist/2FyxcdLSH7XqsfJE6Iu0tJ"
+        }
+      ],
+      "duration_ms": 160221,
+      "name": "ALLE LIEBEN MUSSO",
+      "url": "https://open.spotify.com/track/76wDd2m8dQi8YpMcgFKRJn"
+    },
+    {
+      "added_at": "2026-08-13 22:01:32",
+      "album": {
         "name": "HOKUS POKUS",
         "url": "https://open.spotify.com/album/1AWAuL3lkGaH7ZbelmJKrO"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 191661,
       "name": "HOKUS POKUS",
       "url": "https://open.spotify.com/track/0UfRPRyFnKrW4wKCRenAi4"
-    },
-    {
-      "added_at": "2026-08-13 22:01:32",
-      "album": {
-        "name": "STILL DON'T PANIC",
-        "url": "https://open.spotify.com/album/3bohKQuv5jLycIyK2HaqpE"
-      },
-      "artists": [
-        {
-          "name": "Musso",
-          "url": "https://open.spotify.com/artist/2FyxcdLSH7XqsfJE6Iu0tJ"
-        }
-      ],
-      "duration_ms": 160221,
-      "name": "ALLE LIEBEN MUSSO",
-      "url": "https://open.spotify.com/track/76wDd2m8dQi8YpMcgFKRJn"
     },
     {
       "added_at": "2026-08-13 22:01:32",
@@ -1867,22 +1867,26 @@
     {
       "added_at": "2026-08-13 22:01:32",
       "album": {
-        "name": "I wanna love you",
-        "url": "https://open.spotify.com/album/6BIJ8xbyASScq3ZQe9wFpZ"
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU"
       },
       "artists": [
         {
-          "name": "NOAH",
-          "url": "https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL"
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
         },
         {
-          "name": "Loredana",
-          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
         }
       ],
-      "duration_ms": 160298,
-      "name": "I wanna love you",
-      "url": "https://open.spotify.com/track/6vGi6UBvgUz8nbNLSPdSSX"
+      "duration_ms": 149232,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/2jf4kDgON7X0gPbpq0MS35"
     }
   ],
   "unique_name": "Shisha Club",

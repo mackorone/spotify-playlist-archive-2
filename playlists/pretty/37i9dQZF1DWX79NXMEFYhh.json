@@ -1,6 +1,6 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 843414,
+  "num_followers": 843285,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-08-05 08:45:46",
       "album": {
-        "name": "Division",
-        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Baby Powder",
-      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
-    },
-    {
-      "added_at": "2026-08-05 08:45:46",
-      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 247226,
       "name": "High For This",
       "url": "https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT"
+    },
+    {
+      "added_at": "2026-08-05 08:45:46",
+      "album": {
+        "name": "Division",
+        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Baby Powder",
+      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
     },
     {
       "added_at": "2026-08-05 08:45:46",
@@ -651,22 +651,6 @@
       "duration_ms": 244750,
       "name": "Those Eyes (feat. Zeph)",
       "url": "https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL"
-    },
-    {
-      "added_at": "2026-08-05 08:45:46",
-      "album": {
-        "name": "Pano Na",
-        "url": "https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX"
-      },
-      "artists": [
-        {
-          "name": "Lo ki",
-          "url": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
-        }
-      ],
-      "duration_ms": 200878,
-      "name": "Pano Na",
-      "url": "https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY"
     },
     {
       "added_at": "2026-08-05 08:45:46",
@@ -719,6 +703,22 @@
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
+    {
+      "added_at": "2026-08-05 08:45:46",
+      "album": {
+        "name": "Pano Na",
+        "url": "https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX"
+      },
+      "artists": [
+        {
+          "name": "Lo ki",
+          "url": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
+        }
+      ],
+      "duration_ms": 200878,
+      "name": "Pano Na",
+      "url": "https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY"
     },
     {
       "added_at": "2026-08-05 08:45:46",

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6923,
+  "num_followers": 6922,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADoWqREacXizTiNIjl9g2Htud3jXAOQ",
+  "snapshot_id": "AADoX7bISao9qXHMoil9Q9jXaOMHz+Yz",
   "tracks": [
     {
       "added_at": "2026-08-21 06:02:06",
@@ -319,6 +319,38 @@
       "duration_ms": 179328,
       "name": "Disappearing Act",
       "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
+    },
+    {
+      "added_at": "2026-08-22 07:48:02",
+      "album": {
+        "name": "Laymelli",
+        "url": "https://open.spotify.com/album/2iLnnobOgnzlpBizbGPeAq"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 228937,
+      "name": "Laymelli - Edit",
+      "url": "https://open.spotify.com/track/0jKRNJkTm7ysB70KpZaXUR"
+    },
+    {
+      "added_at": "2026-08-22 07:48:14",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 197285,
+      "name": "Seethe",
+      "url": "https://open.spotify.com/track/0ZEUKsXOlocU6IPJmx7exQ"
     },
     {
       "added_at": "2026-08-21 06:14:18",

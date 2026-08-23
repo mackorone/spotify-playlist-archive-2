@@ -4,7 +4,7 @@
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: maya ongaku
 
-1,072 songs - 3 day 8 hr 45 min
+1,073 songs - 3 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,6 +759,7 @@
 | [Seventeen Nights](https://open.spotify.com/track/0NLzLaxyZzbVRHB7vdp6CA) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Waterfall Horizon](https://open.spotify.com/album/78qlomYI4uQHUSVOJETLud) | 4:26 | 2025-06-27 | 2025-07-26 |
 | [Sewing a Button](https://open.spotify.com/track/6y7zXAfN1uR1OMUX8YmB2i) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [The Luckiest Man in America OST](https://open.spotify.com/album/7eYBaTNMubQ8TWG0P2ZRm6) | 3:19 | 2025-05-02 | 2026-02-01 |
 | [shade](https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [shade](https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc) | 1:53 | 2025-07-11 | 2025-10-01 |
+| [Shame](https://open.spotify.com/track/0iowmv0cVXPxD3bot8xHiQ) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Answers](https://open.spotify.com/album/1bILUgo25ahrzoGF9l4Wlk) | 4:37 | 2026-08-07 |  |
 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 | 2022-04-07 | 2024-02-09 |
 | [Shimmer in the Sky](https://open.spotify.com/track/5LNuw8cXIpN3Oc3YD9EbID) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 2:17 | 2022-03-31 | 2022-07-29 |
 | [Shimmering Lake Emblaze the Shady Trees.](https://open.spotify.com/track/6tHjusOqbHBxr5LEKYXTwe) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Opitope](https://open.spotify.com/artist/5GhcNZictH4RHb1qWXHs4f) | [The Crepuscular Grove](https://open.spotify.com/album/7kM1y74RIDRGD931Sh0uRP) | 7:19 | 2022-03-31 | 2022-06-24 |

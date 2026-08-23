@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: N4T, Ace
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,662 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,657 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [More Than U Know](https://open.spotify.com/track/2ALJOResYdGVnp7LvYmE21) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [More Than U Know](https://open.spotify.com/album/2l11S3y24CE9s3zeM5AunP) | 2:38 |
 | 70 | [Facetime](https://open.spotify.com/track/15PJRwSIxYCtG72eS0lP0i) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Addicted To Nostalgia](https://open.spotify.com/album/14TFuH1XAcLG7DAU0wFWiA) | 2:00 |
 
-Snapshot ID: `AAAAAJdaEPiOKd7ehmTy51+U1VNdIAxu`
+Snapshot ID: `AAAAADo9rc/I/kPU8cjBNiFD/eaoSKBi`

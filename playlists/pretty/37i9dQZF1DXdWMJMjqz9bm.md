@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > a little rap, a little pop, a little country..\. sometimes\. BabyChiefDoIt on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,570 likes - 53 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,581 likes - 53 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

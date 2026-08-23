@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 15667,
+  "num_followers": 15690,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAABpz2axaRqKW+yMGHGQ5tVW",
+  "snapshot_id": "aoeVAAAAAACYTgwygzkgwhsN4zymFRKS",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 148919,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/13J4slEnjXywIEE4r9CHPh"
+      "duration_ms": 191956,
+      "name": "Trying Things",
+      "url": "https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 191956,
-      "name": "Trying Things",
-      "url": "https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh"
+      "duration_ms": 148919,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/13J4slEnjXywIEE4r9CHPh"
     },
     {
       "added_at": null,

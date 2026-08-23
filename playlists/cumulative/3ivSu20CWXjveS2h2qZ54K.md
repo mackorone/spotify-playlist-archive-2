@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-9,048 songs - 20 day 21 hr 40 min
+9,050 songs - 20 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4406,6 +4406,7 @@
 | [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 | 2025-04-29 | 2025-05-10 |
 | [Lay Down On Me](https://open.spotify.com/track/2cwbam2veKyxOtBaAxJb5u) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lay Down On Me](https://open.spotify.com/album/37ZtO2XORqbU9ZpGc8XtXW) | 3:02 | 2024-10-04 | 2024-10-12 |
 | [LAYBACK](https://open.spotify.com/track/2pGIJLi3wKf4xmfLfmDKJM) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [LAYBACK](https://open.spotify.com/album/3Y9d5Gk7b2B0kuYwqfEvHD) | 2:09 | 2026-06-12 | 2026-06-20 |
+| [Laymelli \- Edit](https://open.spotify.com/track/0jKRNJkTm7ysB70KpZaXUR) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Laymelli](https://open.spotify.com/album/2iLnnobOgnzlpBizbGPeAq) | 3:48 | 2026-08-22 |  |
 | [LE COSE NON DETTE \- Original Motion Picture Soundtrack](https://open.spotify.com/track/6hdzQTMLKd2IiZIeWCzV7E) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [LE COSE NON DETTE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YUuW1m2EOKpTUBvjghhLa) | 4:29 | 2026-01-16 | 2026-01-24 |
 | [Le le](https://open.spotify.com/track/6imCKldgD8gmFW8Uwnr74m) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Le le](https://open.spotify.com/album/4FTmko2axVuG6latXYdBmy) | 1:15 | 2026-05-15 | 2026-05-23 |
 | [Le pasa solo al resto](https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [La calma](https://open.spotify.com/album/1T2jfF6ytBufPN9dUDlM0A) | 3:54 | 2026-02-06 | 2026-02-14 |
@@ -6905,6 +6906,7 @@
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-02 | 2025-05-10 |
 | [Seems Like Old Times \- Bonus Track](https://open.spotify.com/track/29N7cVdfFBVmedgvS72OQt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time \(Standard Edition\)](https://open.spotify.com/album/2SHW1W6v1aWWEjX1SGLDgX) | 2:59 | 2025-08-29 | 2025-09-06 |
 | [Seems Like You Don’t Know Me](https://open.spotify.com/track/6z4XC6ijxA4sGZznuwyVMh) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Seems Like You Don’t Know Me](https://open.spotify.com/album/28DmvxyHPvYy8VSwO8pTXw) | 3:37 | 2025-03-21 | 2025-03-29 |
+| [Seethe](https://open.spotify.com/track/0ZEUKsXOlocU6IPJmx7exQ) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 3:17 | 2026-08-22 |  |
 | [SEFUE](https://open.spotify.com/track/24tnOe0kv03LNMBi8rH3lP) | [Admire](https://open.spotify.com/artist/5oXdh0MVrWuptXDqymjW8P) | [SEFUE](https://open.spotify.com/album/72L6CYeJO59JQbWHnGrQzX) | 2:56 | 2026-03-13 | 2026-03-21 |
 | [Seguidores](https://open.spotify.com/track/32ioBJljmbgZrKYo282fnH) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Seguidores](https://open.spotify.com/album/4TF4x4MbSJSDRfKAUewKK8) | 2:50 | 2025-08-28 | 2025-09-06 |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-01-24 | 2025-02-01 |

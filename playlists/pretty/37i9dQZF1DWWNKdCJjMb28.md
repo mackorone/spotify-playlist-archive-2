@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/karencivil/?hl=en">Karen Civil</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,303 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,308 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 | 29 | [Dark Side Of The Moon \(feat\. Nicki Minaj\)](https://open.spotify.com/track/5IvdLxVB8gwwcgnEkXSSW2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 4:02 |
 | 30 | [I'm Leaving](https://open.spotify.com/track/2mWfFx6HEDYVgFxaisWqP3) | [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [I'm Leaving](https://open.spotify.com/album/2RcdiXMKkoOsUrzOZUwUsZ) | 2:31 |
 | 31 | [Still Trappin'](https://open.spotify.com/track/0JW0lLXMDe7l9d3ULj8PJX) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Still Trappin'](https://open.spotify.com/album/4A6p3TtgOuORhxb0WR1Zu6) | 2:52 |
-| 32 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
-| 33 | [Paint The Town Red](https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Young Jefe 3](https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5) | 3:26 |
+| 32 | [Paint The Town Red](https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Young Jefe 3](https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5) | 3:26 |
+| 33 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 34 | [Nunnadet Shit](https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Nunnadet Shit](https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W) | 3:34 |
 | 35 | [Chanel Slides \(feat\. Kash Doll\)](https://open.spotify.com/track/0Q7oKGmOMygeemUaUr6lYJ) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Big Dreez](https://open.spotify.com/album/6LTCFCmcHl9RgVCjWKghNS) | 2:54 |
 | 36 | [Walk](https://open.spotify.com/track/3YBDlGnQOIRfZLGU29zFj9) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Walk](https://open.spotify.com/album/3h7LsoHuTDBCrgcz96xkKx) | 2:23 |

@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 97575,
+  "num_followers": 97606,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
         }
       ],
-      "duration_ms": 195586,
-      "name": "Te Quiero para Mi",
-      "url": "https://open.spotify.com/track/5m35eZzbh9hy7mGQHuPdHW"
+      "duration_ms": 241386,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
         }
       ],
-      "duration_ms": 241386,
-      "name": "El Caminante",
-      "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
+      "duration_ms": 195586,
+      "name": "Te Quiero para Mi",
+      "url": "https://open.spotify.com/track/5m35eZzbh9hy7mGQHuPdHW"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Por Ti Me Mato",
-        "url": "https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF"
-      },
-      "artists": [
-        {
-          "name": "Grupo El Bueno",
-          "url": "https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f"
-        }
-      ],
-      "duration_ms": 179626,
-      "name": "Cien Vidas",
-      "url": "https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 164337,
       "name": "Son las Dos de la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Por Ti Me Mato",
+        "url": "https://open.spotify.com/album/6HVw5b6iTjMEGvjohuIHSF"
+      },
+      "artists": [
+        {
+          "name": "Grupo El Bueno",
+          "url": "https://open.spotify.com/artist/2MdBGTkBZjy9Oa0JbxhJ9f"
+        }
+      ],
+      "duration_ms": 179626,
+      "name": "Cien Vidas",
+      "url": "https://open.spotify.com/track/0D79ID7bLGiIeFRwIRj9O9"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Todo Por Servir Se Acaba",
-      "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Soy Cukin",
         "url": "https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 225692,
       "name": "Soy Cukin",
       "url": "https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "Todo Por Servir Se Acaba",
+      "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Arpacumbiando: Caliente, Caliente",
-        "url": "https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc"
-      },
-      "artists": [
-        {
-          "name": "Raza Obrera",
-          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Caliente Caliente",
-      "url": "https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Estoy Aqu\u00ed",
         "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 193882,
       "name": "Jefe Fresa",
       "url": "https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Arpacumbiando: Caliente, Caliente",
+        "url": "https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc"
+      },
+      "artists": [
+        {
+          "name": "Raza Obrera",
+          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Caliente Caliente",
+      "url": "https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -911,8 +911,8 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Mal Amor",
-        "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
+        "name": "Los Huaches En Vivo 2013",
+        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
         }
       ],
-      "duration_ms": 168120,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
+      "duration_ms": 276853,
+      "name": "Coyuca De Catalan (Zapateado)",
+      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -999,8 +999,8 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Los Huaches En Vivo 2013",
-        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
+        "name": "Mal Amor",
+        "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
         }
       ],
-      "duration_ms": 276853,
-      "name": "Coyuca De Catalan (Zapateado)",
-      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
+      "duration_ms": 168120,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "De California Te Escribo",
-        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
-      },
-      "artists": [
-        {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "El Rey Pobre",
-      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Para Que Vuelves",
         "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 132930,
       "name": "30 Cartas",
       "url": "https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "De California Te Escribo",
+        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
+      },
+      "artists": [
+        {
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "El Rey Pobre",
+      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Los Huaches Vip 2015",
-        "url": "https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF"
-      },
-      "artists": [
-        {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
-        }
-      ],
-      "duration_ms": 188397,
-      "name": "Conchita Del Mar",
-      "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 202083,
       "name": "Inolvidables",
       "url": "https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Los Huaches Vip 2015",
+        "url": "https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF"
+      },
+      "artists": [
+        {
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+        }
+      ],
+      "duration_ms": 188397,
+      "name": "Conchita Del Mar",
+      "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
     },
     {
       "added_at": "2026-07-24 06:00:32",

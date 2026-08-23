@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Alguien Dijo",
+        "url": "https://open.spotify.com/album/2UuzkzzWqxu3RHINTMrVMn"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137887,
+      "name": "Alguien Dijo",
+      "url": "https://open.spotify.com/track/6BdXHbTKLO4uAWbuGnJUgl"
+    },
+    {
+      "album": {
         "name": "Lo Basico",
         "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
       },
@@ -2098,7 +2120,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 177445,
       "name": "Ranchero Enamorado",
       "url": "https://open.spotify.com/track/1eiKBldR09jvV2omvD6PQF"

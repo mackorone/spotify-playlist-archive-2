@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 476267,
+  "num_followers": 476309,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAABqS0AKoTtgYUCMFx1UWajd",
+  "snapshot_id": "aoeVAAAAAABB5huEx+p9zET5pqd9c562",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Chavo Felix (En Vivo)",
+      "url": "https://open.spotify.com/track/3jjySlPUK71LIWEZ9kfxi5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/1caIQHGbNF21Ed3X65iEWu"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 181040,
       "name": "La Noche Es Tuya",
       "url": "https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Chavo Felix (En Vivo)",
-      "url": "https://open.spotify.com/track/3jjySlPUK71LIWEZ9kfxi5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Robyn Ottolini
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,227 likes - 175 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,240 likes - 175 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

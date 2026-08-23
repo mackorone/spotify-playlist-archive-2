@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "LE GROOVE D'UNE CHANSON TRISTE",
+        "url": "https://open.spotify.com/album/2zlXNZdEbQesMpP0PV483s"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "LE GROOVE D'UNE CHANSON TRISTE",
+      "url": "https://open.spotify.com/track/26TR6ha1XZ2lPA30AU8iMV"
+    },
+    {
+      "album": {
         "name": "Hits the Hits",
         "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
       },
@@ -4894,7 +4912,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 118441,
       "name": "young rich & beautiful",
       "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"

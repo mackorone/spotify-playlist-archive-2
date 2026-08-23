@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free \u2764\ufe0f\u200d\ud83e\ude79",
-  "num_followers": 853900,
+  "num_followers": 853917,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
         "name": "Heartbreak Melody",
         "url": "https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 191830,
       "name": "Heartbreak Melody",
       "url": "https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
     },
     {
       "added_at": "2026-08-21 16:59:07",
@@ -1027,38 +1027,6 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
-        "name": "Can't Help But Worry (Every Night Every Day)",
-        "url": "https://open.spotify.com/album/7vJm6qiekHsbQ5HJBSnfwX"
-      },
-      "artists": [
-        {
-          "name": "Soluna",
-          "url": "https://open.spotify.com/artist/2fRP0DEazBFA0FoLvkyHTY"
-        }
-      ],
-      "duration_ms": 109440,
-      "name": "Can't Help But Worry (Every Night Every Day)",
-      "url": "https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
-        "name": "BROKEN",
-        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 271435,
-      "name": "BROKEN",
-      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/5R6Hhxu8qohIsu7w3nJDfo"
       },
@@ -1083,6 +1051,38 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
+        "name": "Can't Help But Worry (Every Night Every Day)",
+        "url": "https://open.spotify.com/album/7vJm6qiekHsbQ5HJBSnfwX"
+      },
+      "artists": [
+        {
+          "name": "Soluna",
+          "url": "https://open.spotify.com/artist/2fRP0DEazBFA0FoLvkyHTY"
+        }
+      ],
+      "duration_ms": 109440,
+      "name": "Can't Help But Worry (Every Night Every Day)",
+      "url": "https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
         "name": "Be With You",
         "url": "https://open.spotify.com/album/41zyGqITTH5ClFk2psfjv1"
       },
@@ -1095,38 +1095,6 @@
       "duration_ms": 208338,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/37Pz8jknbqdEudUXwgcmKQ"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
-        "name": "reserved...",
-        "url": "https://open.spotify.com/album/5YhLiGMPFYbg4tdTnUrsuU"
-      },
-      "artists": [
-        {
-          "name": "Berjan",
-          "url": "https://open.spotify.com/artist/1cMuUKj94WCynh9u5uES9c"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "reserved...",
-      "url": "https://open.spotify.com/track/6p9Sy9SswMeeXMFovq0fgB"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
-        "name": "rich ain\u2019t $...",
-        "url": "https://open.spotify.com/album/40Xz6tgymRuYfsMZNteBhG"
-      },
-      "artists": [
-        {
-          "name": "Berjan",
-          "url": "https://open.spotify.com/artist/1cMuUKj94WCynh9u5uES9c"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "rich ain\u2019t $...",
-      "url": "https://open.spotify.com/track/5tCTO3oh2oqa7nGXcvTnhx"
     },
     {
       "added_at": "2026-08-21 16:59:07",
@@ -1155,6 +1123,22 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
+        "name": "rich ain\u2019t $...",
+        "url": "https://open.spotify.com/album/40Xz6tgymRuYfsMZNteBhG"
+      },
+      "artists": [
+        {
+          "name": "Berjan",
+          "url": "https://open.spotify.com/artist/1cMuUKj94WCynh9u5uES9c"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "rich ain\u2019t $...",
+      "url": "https://open.spotify.com/track/5tCTO3oh2oqa7nGXcvTnhx"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
         "name": "Nothing Left",
         "url": "https://open.spotify.com/album/4DD6FbOoiOaBbLx6yGFJuS"
       },
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
-        "name": "Waiting For",
-        "url": "https://open.spotify.com/album/4Buuo5crQFPTR2MsfmahwT"
-      },
-      "artists": [
-        {
-          "name": "John Alto",
-          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
-        }
-      ],
-      "duration_ms": 256119,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/6azbmzDntrDU6cqFTalbp7"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
         "name": "Don't You Cry",
         "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
       },
@@ -1215,6 +1183,22 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
+        "name": "Waiting For",
+        "url": "https://open.spotify.com/album/4Buuo5crQFPTR2MsfmahwT"
+      },
+      "artists": [
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        }
+      ],
+      "duration_ms": 256119,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/6azbmzDntrDU6cqFTalbp7"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
         "name": "IN THIS DARKNESS",
         "url": "https://open.spotify.com/album/3JsDbqGYDvE0dZVHZJYftY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 181681,
       "name": "IN THIS DARKNESS",
       "url": "https://open.spotify.com/track/21pN6f1lJT7Hwc8zDllsUR"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
+        "name": "reserved...",
+        "url": "https://open.spotify.com/album/5YhLiGMPFYbg4tdTnUrsuU"
+      },
+      "artists": [
+        {
+          "name": "Berjan",
+          "url": "https://open.spotify.com/artist/1cMuUKj94WCynh9u5uES9c"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "reserved...",
+      "url": "https://open.spotify.com/track/6p9Sy9SswMeeXMFovq0fgB"
     },
     {
       "added_at": "2026-08-21 16:59:07",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
-        "name": "Say No Prayer",
-        "url": "https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 149428,
-      "name": "Say No Prayer",
-      "url": "https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
         "name": "Driving Fast",
         "url": "https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8"
       },
@@ -1651,6 +1631,22 @@
       "duration_ms": 187500,
       "name": "Driving Fast",
       "url": "https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
     },
     {
       "added_at": "2026-08-21 16:59:07",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+        "name": "Say No Prayer",
+        "url": "https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
         }
       ],
-      "duration_ms": 279346,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+      "duration_ms": 149428,
+      "name": "Say No Prayer",
+      "url": "https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV"
     },
     {
       "added_at": "2026-08-21 16:59:07",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
-        "name": "UNCONDITIONAL",
-        "url": "https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 181294,
-      "name": "UNCONDITIONAL",
-      "url": "https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
+        "name": "UNCONDITIONAL",
+        "url": "https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        }
+      ],
+      "duration_ms": 181294,
+      "name": "UNCONDITIONAL",
+      "url": "https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl"
     },
     {
       "added_at": "2026-08-21 16:59:07",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
-        "name": "ifidiewouldyoucry",
-        "url": "https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "ifidiewouldyoucry",
-      "url": "https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
+        "name": "ifidiewouldyoucry",
+        "url": "https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "ifidiewouldyoucry",
+      "url": "https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC"
     },
     {
       "added_at": "2026-08-21 16:59:07",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
+        "name": "ONANON",
+        "url": "https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 195638,
+      "name": "ONANON",
+      "url": "https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 214224,
       "name": "To This Day",
       "url": "https://open.spotify.com/track/5aBV6yiidlaNDayn20iQkH"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
-        "name": "ONANON",
-        "url": "https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 195638,
-      "name": "ONANON",
-      "url": "https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"
     },
     {
       "added_at": "2026-08-21 16:59:07",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5kD4QTNVhJi1KKXPKBGuib"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 219185,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7Mf9juqgr5vWfCGHsPaWHl"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/6d5kJtZLuZ6AADFLX6nqFE"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 171282,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/7xK5a6xjJkLLd8zRKskSMB"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/5kD4QTNVhJi1KKXPKBGuib"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 219185,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7Mf9juqgr5vWfCGHsPaWHl"
     },
     {
       "added_at": "2026-08-21 16:59:07",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2026-08-21 16:59:07",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv"
-      },
-      "artists": [
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Dinia",
-          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
-        }
-      ],
-      "duration_ms": 210297,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6kH58ciITQKhQ6x5kYQjPD"
-    },
-    {
-      "added_at": "2026-08-21 16:59:07",
-      "album": {
         "name": "You And I",
         "url": "https://open.spotify.com/album/5BJM2v2xqOMuy15C319TGT"
       },
@@ -2211,6 +2191,26 @@
       "duration_ms": 211428,
       "name": "You And I",
       "url": "https://open.spotify.com/track/56Q8dn5LGmBRdmXSpi7vX8"
+    },
+    {
+      "added_at": "2026-08-21 16:59:07",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "duration_ms": 210297,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6kH58ciITQKhQ6x5kYQjPD"
     },
     {
       "added_at": "2026-08-21 16:59:07",

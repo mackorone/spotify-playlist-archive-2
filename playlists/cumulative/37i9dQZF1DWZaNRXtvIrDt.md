@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music\. Cover: RONA
 
-1,146 songs - 3 day 10 hr 44 min
+1,147 songs - 3 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Alone](https://open.spotify.com/track/0ehcOXeXkE1Cozi3NIRWrv) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Alone](https://open.spotify.com/album/57BlLED3PRgcP0lmpPuv2G) | 2:57 | 2024-08-23 | 2025-01-24 |
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-05-30 | 2024-07-05 |
 | [Always Wondered \(with harvest\)](https://open.spotify.com/track/0VUUkYPWuZ7uYzKFLQRxhz) | [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY), [harvest](https://open.spotify.com/artist/0YNnottatcvL8embwQ2jP2) | [Always Wondered \(with harvest\)](https://open.spotify.com/album/39lC3EJwtTNqhj6K83DSzI) | 2:57 | 2024-05-23 | 2024-07-12 |
+| [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 | 2026-08-20 |  |
 | [and the colour red](https://open.spotify.com/track/6ceDsKgry3EYs6DeDpASBU) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Strawberry Hotel](https://open.spotify.com/album/3Z15B9bbxGXA6QJAa6kJMR) | 5:42 | 2024-11-08 | 2025-03-21 |
 | [Anda](https://open.spotify.com/track/610etRTkTe8TwReNIDEipU) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Looking Out EP](https://open.spotify.com/album/7iIbHbXbdy1paNeSveGX2k) | 5:44 | 2023-10-12 | 2024-03-01 |
 | [Andromeda](https://open.spotify.com/track/3bBK046iUp8YchkY4yVZfC) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Andromeda / Boreale](https://open.spotify.com/album/238mifuuUarseMLOeSZCqx) | 7:39 | 2023-03-23 | 2023-04-28 |
@@ -480,7 +481,7 @@
 | [heartbeat \(feat\. Vv Pete\) \[rebirth\]](https://open.spotify.com/track/1jAMjt84UVy3STztrBsIKY) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [heartbeat \(feat\. Vv Pete\) \[rebirth\]](https://open.spotify.com/album/38mIXhlny0d7tQKF4c7lFc) | 2:09 | 2024-07-11 | 2024-09-20 |
 | [Heaven](https://open.spotify.com/track/5S0PClhaLy468Leuk4tvoS) | [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju) | [Heaven](https://open.spotify.com/album/0BMJU1hQzIaL4HreKN2xH7) | 5:32 | 2023-07-06 | 2023-09-22 |
 | [Heaven](https://open.spotify.com/track/1WkYI0DxUqXKFqTayA8897) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Can You Hear Me Dreaming?](https://open.spotify.com/album/3gi2MFodyrIh2X2r1hbgvx) | 3:42 | 2024-07-11 | 2024-08-23 |
-| [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 | 2025-10-13 |  |
+| [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 | 2025-10-13 | 2026-08-23 |
 | [Heavy Heart](https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Heavy Heart](https://open.spotify.com/album/7eNj0dNMVR2mH1E6sqhEtg) | 5:28 | 2024-11-28 | 2025-03-21 |
 | [Hey \(Shut Up\)](https://open.spotify.com/track/6Sy8VJKsFhvWab130OFLjO) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Hey \(Shut Up\)](https://open.spotify.com/album/5lO7A8BggmR1eaUNtSoehK) | 4:25 | 2024-08-23 | 2024-10-11 |
 | [Hey!](https://open.spotify.com/track/2VWR1x9sYw28qu5xSZvhcq) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Hey!](https://open.spotify.com/album/4ZZhvcSIjaiD17Zb6wb3zB) | 3:45 | 2025-07-24 | 2025-10-13 |

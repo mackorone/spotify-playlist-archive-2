@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 151266,
+  "num_followers": 151283,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
+        "name": "10,000 Reasons Kids Worship",
+        "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
+      },
+      "artists": [
+        {
+          "name": "Worship Together Kids",
+          "url": "https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "10,000 Reasons (Bless The Lord)",
+      "url": "https://open.spotify.com/track/7iNaSqWO7ytcFnDfTlRBPi"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
         "name": "SPARKLE. POP. RAMPAGE.",
         "url": "https://open.spotify.com/album/278spUCAxNbIf5sVtQnike"
       },
@@ -115,18 +131,18 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "10,000 Reasons Kids Worship",
-        "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
+        "name": "Philippians 4:13",
+        "url": "https://open.spotify.com/album/5RP748yMgX2tbUD7FWuIIW"
       },
       "artists": [
         {
-          "name": "Worship Together Kids",
-          "url": "https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4"
+          "name": "KidSpring",
+          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
         }
       ],
-      "duration_ms": 338000,
-      "name": "10,000 Reasons (Bless The Lord)",
-      "url": "https://open.spotify.com/track/7iNaSqWO7ytcFnDfTlRBPi"
+      "duration_ms": 120978,
+      "name": "Philippians 4:13",
+      "url": "https://open.spotify.com/track/1TltafkWVlwit9fbXPfdx0"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -147,22 +163,6 @@
       "duration_ms": 144346,
       "name": "Your Love For Me",
       "url": "https://open.spotify.com/track/5PoYtTbrwraEQBfgsPIIuS"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
-        "name": "Philippians 4:13",
-        "url": "https://open.spotify.com/album/5RP748yMgX2tbUD7FWuIIW"
-      },
-      "artists": [
-        {
-          "name": "KidSpring",
-          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
-        }
-      ],
-      "duration_ms": 120978,
-      "name": "Philippians 4:13",
-      "url": "https://open.spotify.com/track/1TltafkWVlwit9fbXPfdx0"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw"
+      },
+      "artists": [
+        {
+          "name": "Juana",
+          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
+        },
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "duration_ms": 219403,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2a2p5OmUg1cf9qH2ruF9qt"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
         "name": "Jesus Loves Me",
         "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
       },
@@ -711,22 +731,6 @@
       "duration_ms": 86575,
       "name": "Jesus Loves Me",
       "url": "https://open.spotify.com/track/70AOGWKZWH7cuiNnaTiTZ5"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
-        "name": "I Count on You",
-        "url": "https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY"
-      },
-      "artists": [
-        {
-          "name": "Amber Sky Records",
-          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
-        }
-      ],
-      "duration_ms": 150595,
-      "name": "Wherever Whatever",
-      "url": "https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -751,22 +755,18 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw"
+        "name": "I Count on You",
+        "url": "https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY"
       },
       "artists": [
         {
-          "name": "Juana",
-          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
-        },
-        {
-          "name": "Canticuentos",
-          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+          "name": "Amber Sky Records",
+          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
         }
       ],
-      "duration_ms": 219403,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2a2p5OmUg1cf9qH2ruF9qt"
+      "duration_ms": 150595,
+      "name": "Wherever Whatever",
+      "url": "https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "Let My Light Shine",
-        "url": "https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI"
-      },
-      "artists": [
-        {
-          "name": "KidSpring",
-          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
-        }
-      ],
-      "duration_ms": 166709,
-      "name": "Let My Light Shine",
-      "url": "https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "Worship in the Word, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
+        "name": "Let My Light Shine",
+        "url": "https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI"
+      },
+      "artists": [
+        {
+          "name": "KidSpring",
+          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
+        }
+      ],
+      "duration_ms": 166709,
+      "name": "Let My Light Shine",
+      "url": "https://open.spotify.com/track/1kGmEkiS3Xpf48qrfw4HR8"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
         "name": "Top 25 Kids' Praise Songs 2012",
         "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "Kids Worship",
-        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
-      },
-      "artists": [
-        {
-          "name": "Kids Worship Performers",
-          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "Give Me Oil In My Lamp",
         "url": "https://open.spotify.com/album/5710M92hn0jDFel2kencbw"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 168140,
       "name": "Give Me Oil In My Lamp",
       "url": "https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
+        "name": "Kids Worship",
+        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
+      },
+      "artists": [
+        {
+          "name": "Kids Worship Performers",
+          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
+        }
+      ],
+      "duration_ms": 292186,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
+        "name": "Hope For The Wobbly World",
+        "url": "https://open.spotify.com/album/212VIFg5oHDU7J8K8Iol2K"
+      },
+      "artists": [
+        {
+          "name": "Colin Buchanan",
+          "url": "https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T"
+        }
+      ],
+      "duration_ms": 184678,
+      "name": "Wibbly Wobbly World",
+      "url": "https://open.spotify.com/track/0Vl6QU641TX42GNyu2F3YQ"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
         "name": "The Chosen Adventures (Vol. 1)",
         "url": "https://open.spotify.com/album/2X2HR8yvDmDYqIxtCfRnq7"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 116000,
       "name": "Love Is Like A Boomerang",
       "url": "https://open.spotify.com/track/30W2CEzQzicMWAs8aTlfpm"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
-        "name": "Hope For The Wobbly World",
-        "url": "https://open.spotify.com/album/212VIFg5oHDU7J8K8Iol2K"
-      },
-      "artists": [
-        {
-          "name": "Colin Buchanan",
-          "url": "https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T"
-        }
-      ],
-      "duration_ms": 184678,
-      "name": "Wibbly Wobbly World",
-      "url": "https://open.spotify.com/track/0Vl6QU641TX42GNyu2F3YQ"
     },
     {
       "added_at": "2026-08-01 02:38:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-08-01 02:38:00",
       "album": {
-        "name": "Top 50 Kids' Praise! Company",
-        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
-      },
-      "artists": [
-        {
-          "name": "Kids Praise Co.",
-          "url": "https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V"
-        }
-      ],
-      "duration_ms": 59000,
-      "name": "(Don't You Know) It's Time To Praise The Lord",
-      "url": "https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj"
-    },
-    {
-      "added_at": "2026-08-01 02:38:00",
-      "album": {
         "name": "Everyone Should Know",
         "url": "https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 144489,
       "name": "Everyone Should Know",
       "url": "https://open.spotify.com/track/183GRfsKbL6ES9W0qgjgL1"
+    },
+    {
+      "added_at": "2026-08-01 02:38:00",
+      "album": {
+        "name": "Top 50 Kids' Praise! Company",
+        "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
+      },
+      "artists": [
+        {
+          "name": "Kids Praise Co.",
+          "url": "https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V"
+        }
+      ],
+      "duration_ms": 59000,
+      "name": "(Don't You Know) It's Time To Praise The Lord",
+      "url": "https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj"
     },
     {
       "added_at": "2026-08-01 02:38:00",

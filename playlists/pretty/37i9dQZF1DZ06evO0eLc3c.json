@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 55278,
+  "num_followers": 55298,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAADs4oqe8jP1FOHyIqczhpoc",
+  "snapshot_id": "aoeVAAAAAABeAww9UiVj5Yp7pIy6zcfX",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace & Noise",
         "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 200106,
       "name": "My Generation - Live at The Agora, Cleveland, Ohio - January 26, 1976",
       "url": "https://open.spotify.com/track/3tlIFVwnp2lRfjRaSYxtT0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
     },
     {
       "added_at": null,

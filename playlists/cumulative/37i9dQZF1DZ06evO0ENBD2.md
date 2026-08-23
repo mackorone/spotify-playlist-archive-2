@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-185 songs - 12 hr 3 min
+186 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,9 +180,10 @@
 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:02 | 2022-09-17 | 2026-07-24 |
 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 | 2025-03-27 | 2026-05-11 |
 | [Who Wants To Live Forever](https://open.spotify.com/track/3bmh7WhduQpPW7fwg6Uv8Y) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II](https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp) | 4:57 | 2026-07-25 |  |
+| [Who Wants to Live Forever \- Live in Budapest](https://open.spotify.com/track/0FpvhhU3bfAtjx7gFv0GOi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants to Live Forever \(Live in Budapest\)](https://open.spotify.com/album/1phOF1iJfhjm64XX3P6Vny) | 3:59 | 2026-08-23 |  |
 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:55 | 2022-09-17 | 2026-07-25 |
 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/00QAndVDVfNqNWYdWAhEan) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II](https://open.spotify.com/album/7rq68qYz66mNdPfidhIEFa) | 4:55 | 2025-03-27 | 2026-05-11 |
-| [Who Wants to Live Forever \- Stranger Things Remix](https://open.spotify.com/track/3jhO40EobK5cQFo0QuUFaY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants to Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/3apsijVtRaziEzZZn5Uc2a) | 2:47 | 2026-07-25 |  |
+| [Who Wants to Live Forever \- Stranger Things Remix](https://open.spotify.com/track/3jhO40EobK5cQFo0QuUFaY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants to Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/3apsijVtRaziEzZZn5Uc2a) | 2:47 | 2026-07-25 | 2026-08-23 |
 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/4NSqnfkGwPWde6a5YkjylT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/7xwWxiV4bILVMT4iHAsIt0) | 2:47 | 2025-12-03 | 2025-12-26 |
 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/5QKWBo5Npc0W9zhy8rRIBq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/0twNBk33toCSvUBJdutVAE) | 2:47 | 2026-01-15 | 2026-05-11 |
 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8) | 2:47 | 2025-11-19 | 2026-07-23 |

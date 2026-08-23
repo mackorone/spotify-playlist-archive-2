@@ -1339,6 +1339,42 @@
     },
     {
       "album": {
+        "name": "I Always Will",
+        "url": "https://open.spotify.com/album/2X1GobXcnd7c5OYf4vpVRl"
+      },
+      "artists": [
+        {
+          "name": "Chelsey Johnson",
+          "url": "https://open.spotify.com/artist/0eAGQLuupjn9nkE54w3S2G"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "I Always Will",
+      "url": "https://open.spotify.com/track/10W3rtMQO1um2kZ8g85y4J"
+    },
+    {
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/3ZdQabmNPCW6Kp0XbxwcDw"
+      },
+      "artists": [
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/0zr3lEdAVIcvw08DqEMsNh"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199887,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/1lcsApoi57xfCRUsmcD7pk"
+    },
+    {
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl"
       },

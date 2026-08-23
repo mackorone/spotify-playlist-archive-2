@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 272306,
       "name": "\u30a2\u30cd\u30e2\u30cd",
       "url": "https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV"
@@ -1886,6 +1886,24 @@
       "duration_ms": 214706,
       "name": "\u541b\u8272",
       "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30c8\u30b3\u30c8",
+        "url": "https://open.spotify.com/album/2ILzeRTfYb0KoOGg9w8DVp"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263507,
+      "name": "\u590f\u306e\u9762\u5f71",
+      "url": "https://open.spotify.com/track/0rO3qMY01hIGqySf8gpXfs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Cara Delevingne
 
-11,996 songs - 25 day 3 hr 22 min
+11,997 songs - 25 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2909,7 +2909,7 @@
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-16 | 2025-05-24 |
 | [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 | 2023-08-18 | 2023-09-02 |
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2022-02-25 | 2022-03-12 |
-| [Don’t Wanna Know](https://open.spotify.com/track/1sUqkrwC2nvgZdGH4a10Me) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Don't Wanna Know](https://open.spotify.com/album/1UQh5Ekked1k1QQWGtmXQt) | 2:23 | 2026-08-14 |  |
+| [Don’t Wanna Know](https://open.spotify.com/track/1sUqkrwC2nvgZdGH4a10Me) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Don't Wanna Know](https://open.spotify.com/album/1UQh5Ekked1k1QQWGtmXQt) | 2:23 | 2026-08-14 | 2026-08-23 |
 | [Don’t You Dare](https://open.spotify.com/track/15OXdwbUlsHhyaEfqSxlZJ) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Don’t You Dare](https://open.spotify.com/album/3COjdSCHZ3pY8bs49ZlbNK) | 2:44 | 2025-02-07 | 2025-02-15 |
 | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1) | 3:33 | 2026-02-13 | 2026-02-28 |
 | [DOOMSDAY](https://open.spotify.com/track/1wx8RZttOeAX7ePz0v1xX7) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [DOOMSDAY](https://open.spotify.com/album/35w4QR2eBCyyaq77WeTH3c) | 3:23 | 2023-02-10 | 2023-02-25 |
@@ -10875,6 +10875,7 @@
 | [True Romance](https://open.spotify.com/track/50ll4YzQ4V2qgpTVRg9rO1) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [True Romance](https://open.spotify.com/album/3qUEAj7CCanABU2VoHhy9K) | 3:56 | 2022-05-20 | 2022-06-11 |
 | [True Romance](https://open.spotify.com/track/7G4aD9GSe262y5lisfaIGy) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [True Romance](https://open.spotify.com/album/6kPYPazaW34fsXAgVGQxxZ) | 4:05 | 2022-06-24 | 2022-07-16 |
 | [Trust](https://open.spotify.com/track/7bo3lJL39AxQjjWa6ibEyW) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Trust](https://open.spotify.com/album/4jJb6rZqOHBl8iIab4P3NI) | 3:21 | 2023-07-14 | 2023-07-29 |
+| [Trust Issues](https://open.spotify.com/track/3x1skiBubyZ3qVZkmfKm0S) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Trust Issues](https://open.spotify.com/album/5wCMKrwR9fDu0zlrxyxy3v) | 2:50 | 2026-08-22 |  |
 | [Trust Issues](https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Trust Issues](https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o) | 3:18 | 2023-03-31 | 2023-04-15 |
 | [Trust Me](https://open.spotify.com/track/6Tr21jU9bkvMInMemDrsB9) | [Lola Blanc](https://open.spotify.com/artist/3n1yZfKIQhSaPjF1LZBhxy) | [Trust Me](https://open.spotify.com/album/2cZr0zvYEZDQS7TJauEMHZ) | 4:38 | 2023-08-11 | 2023-08-26 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-29 | 2023-10-21 |

@@ -1,6 +1,6 @@
 {
   "description": "sommerurlaub f\u00fcr zwischendurch \u26f1\ufe0f",
-  "num_followers": 1101676,
+  "num_followers": 1101681,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "The Great Divide: The Last Of The Bugs",
         "url": "https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 286967,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220608,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "M\u00e4rchenwald",
         "url": "https://open.spotify.com/album/1swXRRje7xzfuTdFL5A5tz"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 183012,
       "name": "M\u00e4rchenwald",
       "url": "https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220608,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/7v8HsW73eimpHbkFajmNzV"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/3rFcgqq2tPwNT5G5TzISDA"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Karaoke Bar",
         "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 204467,
       "name": "Karaoke Bar",
       "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/7v8HsW73eimpHbkFajmNzV"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/3rFcgqq2tPwNT5G5TzISDA"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "Happy For Myself",
+        "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Happy For Myself",
+      "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "Happy For Myself",
-        "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 165366,
-      "name": "Happy For Myself",
-      "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "Into You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 246901,
+      "name": "Into You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Into You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 246901,
-      "name": "Into You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Red Moon",
         "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 212483,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/74mhbiFIWl58S3erMjR3GP"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 143653,
       "name": "Pause",
       "url": "https://open.spotify.com/track/6IM2LNtEfICxZrLrL8QKQX"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "Water The Flowers",
-        "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 150994,
-      "name": "Water The Flowers",
-      "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1163,22 +1147,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Prolog I",
-        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 258505,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Eugene",
         "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
       },
@@ -1195,18 +1163,34 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Feel The Rush",
-        "url": "https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0"
+        "name": "Prolog I",
+        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
       },
       "artists": [
         {
-          "name": "Asha Banks",
-          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
         }
       ],
-      "duration_ms": 193823,
-      "name": "Feel The Rush",
-      "url": "https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx"
+      "duration_ms": 258505,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Water The Flowers",
+        "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 150994,
+      "name": "Water The Flowers",
+      "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1239,6 +1223,22 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Feel The Rush",
+        "url": "https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "duration_ms": 193823,
+      "name": "Feel The Rush",
+      "url": "https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Two Thirds",
-        "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
-      },
-      "artists": [
-        {
-          "name": "Childe",
-          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Two Thirds",
-      "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Nur",
         "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "Two Thirds",
+        "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
+      },
+      "artists": [
+        {
+          "name": "Childe",
+          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Two Thirds",
+      "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 267100,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
     },
     {
       "added_at": "2026-08-06 22:00:47",

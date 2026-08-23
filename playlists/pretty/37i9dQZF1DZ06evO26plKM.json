@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33538,
+  "num_followers": 33563,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAABN1vfXRuVTD1oiO5SteZya",
+  "snapshot_id": "aoeVAAAAAAB4ZuJTM7Wzmd054FdmN0lN",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 266242,
+      "name": "Time Will Be The Healer",
+      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Swell Season",
         "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 284626,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/6nuMBIXdGs2wL3mp49Ndf6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Between Two Shores",
-        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 266242,
-      "name": "Time Will Be The Healer",
-      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cost",
+        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Swell Season",
         "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 218960,
       "name": "Sleeping",
       "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cost",
-        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
     },
     {
       "added_at": null,

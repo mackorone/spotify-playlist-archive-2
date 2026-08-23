@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,884 likes - 76 songs - 4 hr 59 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,883 likes - 78 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 74 | [Dark Days](https://open.spotify.com/track/3oiCerWvwdIlHTND7tswor) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX) | [Dark Days](https://open.spotify.com/album/2q5KW0Gr7oOsnBU3adcj3A) | 4:10 |
 | 75 | [Kerosene](https://open.spotify.com/track/7ijOYsq4rgwvYU40Z5LOob) | [The Hidden Jester](https://open.spotify.com/artist/4inPHWpBxcVwikYzuhQRrc) | [Kerosene](https://open.spotify.com/album/7m1cxnPysotdPVpBn3mRVJ) | 4:30 |
 | 76 | [Hit On Me](https://open.spotify.com/track/0gBFxAmc8lHJGVxN5Mafap) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Hit On Me](https://open.spotify.com/album/7qIb2jsBx3hY7faFbZXwas) | 3:27 |
+| 77 | [48 horas](https://open.spotify.com/track/5nVXtplassqeVsrDB0FFvm) | [Ángel Valor](https://open.spotify.com/artist/3TSk2G1PqCoO7iNAnHJAG6) | [48 horas](https://open.spotify.com/album/0nA6wn6HNIUvidDc9Repki) | 4:02 |
+| 78 | [THE ROAR](https://open.spotify.com/track/6Xv112AXvwY5Mo5dzvVSLS) | [OTA3D3](https://open.spotify.com/artist/7zTt9AcgJTtOgkIjs45qnp) | [THE ROAR](https://open.spotify.com/album/1dR1Jr4m8CYfA6G4XFwj2t) | 3:23 |
 
-Snapshot ID: `AAAMR66Akklj8wc2g/ZAyl64yXiS8Jfl`
+Snapshot ID: `AAAMSQtB0S61wo6fEAmkJcGz0DdQPoiu`

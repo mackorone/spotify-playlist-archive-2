@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76418,
+  "num_followers": 76431,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
+        "name": "Holy Moly (VIP)",
+        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 253793,
+      "name": "Holy Moly - VIP",
+      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
         "name": "Sientelo (Sota & Circadian Remix)",
         "url": "https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 237257,
       "name": "Sientelo - Sota & Circadian Remix",
       "url": "https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
-        "name": "Holy Moly (VIP)",
-        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 253793,
-      "name": "Holy Moly - VIP",
-      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
     },
     {
       "added_at": "2026-08-20 13:38:48",

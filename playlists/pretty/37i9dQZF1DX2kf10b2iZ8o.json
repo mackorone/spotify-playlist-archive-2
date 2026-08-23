@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 24495,
+  "num_followers": 24498,
   "original_name": "THE IDOLM@STER SideM",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,30 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 02",
+        "url": "https://open.spotify.com/album/3yx4QjiiV2HWjiP4FjXp3n"
+      },
+      "artists": [
+        {
+          "name": "DRAMATIC STARS",
+          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
+        },
+        {
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+        },
+        {
+          "name": "F-LAGS",
+          "url": "https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz"
+        }
+      ],
+      "duration_ms": 259706,
+      "name": "Fine Day\uff01Find Way\uff01",
+      "url": "https://open.spotify.com/track/1CLTmRMDS8BVK8rJXmAwZx"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
       },
@@ -691,22 +715,6 @@
       "duration_ms": 296440,
       "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
       "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
-        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
-      },
-      "artists": [
-        {
-          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
-          "url": "https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "HAPPY HAPPY\u30df\u30fc\u30c6\u30a3\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -755,26 +763,18 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 02",
-        "url": "https://open.spotify.com/album/3yx4QjiiV2HWjiP4FjXp3n"
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
+        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
       },
       "artists": [
         {
-          "name": "DRAMATIC STARS",
-          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
-        },
-        {
-          "name": "\u795e\u901f\u4e00\u9b42",
-          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
-        },
-        {
-          "name": "F-LAGS",
-          "url": "https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz"
+          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
+          "url": "https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl"
         }
       ],
-      "duration_ms": 259706,
-      "name": "Fine Day\uff01Find Way\uff01",
-      "url": "https://open.spotify.com/track/1CLTmRMDS8BVK8rJXmAwZx"
+      "duration_ms": 283346,
+      "name": "HAPPY HAPPY\u30df\u30fc\u30c6\u30a3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        },
-        {
-          "name": "Altessimo",
-          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
-        },
-        {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6"
-        }
-      ],
-      "duration_ms": 276026,
-      "name": "Eternal Fantasia",
-      "url": "https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
         "name": "ALL nOR NOTHING",
         "url": "https://open.spotify.com/album/7LnoJObwR1wnOPSNRCmtzt"
       },
@@ -1315,22 +1291,6 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-09 \u795e\u901f\u4e00\u9b42",
-        "url": "https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u901f\u4e00\u9b42",
-          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
-        }
-      ],
-      "duration_ms": 267346,
-      "name": "\u30d0\u30fc\u30cb\u30f3\u30fb\u30af\u30fc\u30eb\u3067\u8f1d\u3044\u3066",
-      "url": "https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 05",
         "url": "https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J"
       },
@@ -1351,6 +1311,46 @@
       "duration_ms": 262213,
       "name": "Singing Explorers",
       "url": "https://open.spotify.com/track/75Ir3kKNf3SASig0St0gFW"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-09 \u795e\u901f\u4e00\u9b42",
+        "url": "https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+        }
+      ],
+      "duration_ms": 267346,
+      "name": "\u30d0\u30fc\u30cb\u30f3\u30fb\u30af\u30fc\u30eb\u3067\u8f1d\u3044\u3066",
+      "url": "https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        },
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        },
+        {
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6"
+        }
+      ],
+      "duration_ms": 276026,
+      "name": "Eternal Fantasia",
+      "url": "https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq"
     },
     {
       "added_at": "2025-01-14 15:56:57",

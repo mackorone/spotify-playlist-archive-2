@@ -574,6 +574,24 @@
     {
       "album": {
         "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/0qOlTQF1K2BxXfLa0Kjxmv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260605,
+      "name": "HOMETOWN",
+      "url": "https://open.spotify.com/track/13FfXAuONJM9gnTEwU6PVB"
+    },
+    {
+      "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
         "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
       },
       "artists": [

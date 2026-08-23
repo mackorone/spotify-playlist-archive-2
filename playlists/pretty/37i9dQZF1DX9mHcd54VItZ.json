@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Shortstraw",
-  "num_followers": 28270,
+  "num_followers": 28278,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
+    },
+    {
       "added_at": "2026-06-12 06:02:15",
       "album": {
         "name": "Delete You.",
@@ -415,34 +431,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
       "artists": [
         {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
         }
       ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
-    },
-    {
-      "added_at": "2026-07-02 22:01:16",
-      "album": {
-        "name": "HYMN",
-        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
-      },
-      "artists": [
-        {
-          "name": "Pussy Heaven",
-          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
-        }
-      ],
-      "duration_ms": 184682,
-      "name": "GIZMO",
-      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-07-02 22:01:16",
       "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+        "name": "HYMN",
+        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+          "name": "Pussy Heaven",
+          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
         }
       ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+      "duration_ms": 184682,
+      "name": "GIZMO",
+      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4"
     },
     {
-      "added_at": "2026-07-30 22:01:23",
-      "album": {
-        "name": "Those December Nights",
-        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
-      },
-      "artists": [
-        {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
-        }
-      ],
-      "duration_ms": 245783,
-      "name": "Those December Nights",
-      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
-    },
-    {
       "added_at": "2026-07-02 22:01:16",
       "album": {
         "name": "Read Your Mind",
@@ -679,6 +663,22 @@
       "duration_ms": 151329,
       "name": "Lego",
       "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
+    },
+    {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Those December Nights",
+        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "duration_ms": 245783,
+      "name": "Those December Nights",
+      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Nou Toer Ons!",
-        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
-      },
-      "artists": [
-        {
-          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
-          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Doen Sy Bes",
-      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Travellers (Special Edition)",
         "url": "https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Nou Toer Ons!",
+        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
+      },
+      "artists": [
+        {
+          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
+          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Doen Sy Bes",
+      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
     },
     {
       "added_at": "2026-04-24 09:03:29",

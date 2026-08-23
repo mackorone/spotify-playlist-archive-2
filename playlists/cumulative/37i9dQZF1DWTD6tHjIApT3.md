@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: milet
 
-3,859 songs - 10 day 5 hr 33 min
+3,860 songs - 10 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [daybreak](https://open.spotify.com/track/2f27ES8HOfTHLK8gYKuoTQ) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [daybreak](https://open.spotify.com/album/6ABAIf9VSs2zxDVRWkPwsN) | 3:13 | 2023-10-24 | 2023-10-26 |
 | [Daydream Believer](https://open.spotify.com/track/6SQg7kkKjkWqXvOCh95aku) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [Daydream Believer](https://open.spotify.com/album/3bUnFxPYnMEOUfZUCBnVuk) | 3:21 | 2023-10-03 | 2023-10-06 |
 | [Days \- JAZZ\-](https://open.spotify.com/track/6FardNKHShuRIGTUQZoJXD) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [Days \(JAZZ\-\)](https://open.spotify.com/album/1Wg5o2wlasZTvrfseepfaH) | 5:05 | 2025-10-08 | 2025-10-15 |
+| [DAYS! \(NOMELON NOLEMON ver.\)](https://open.spotify.com/track/2WGSfWKHfom5dRiHgMEI21) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ユラリユレル / DAYS!](https://open.spotify.com/album/0g74c4L2btWbochcpLcy8k) | 3:46 | 2026-08-18 |  |
 | [DEAD CENTER](https://open.spotify.com/track/26mR5pRpqRqgSBZ6ZTR1ix) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [美辞学](https://open.spotify.com/album/4V0DjuDLtElbKX6WTUxvgV) | 2:56 | 2026-01-20 | 2026-07-01 |
 | [dead end love](https://open.spotify.com/track/4Z5HsaeVAOxTmHR6783RgE) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [dead end love](https://open.spotify.com/album/7quyEoeWYvX8IWv6i2XW4a) | 2:40 | 2025-11-18 | 2025-11-26 |
 | [Deadly Kiss](https://open.spotify.com/track/27DhyiBGJ0EjrJjyA6JjND) | [Rinko](https://open.spotify.com/artist/6eOehyQmnIKAN8ahkzMglf) | [Deadly Kiss](https://open.spotify.com/album/4z9tIdx57aFlMrhP8yb2Qr) | 3:26 | 2025-12-23 | 2026-01-15 |
@@ -2652,7 +2653,7 @@
 | [クリームで会いにいけますか](https://open.spotify.com/track/3I7nntPbM5cFnq08f9PCxM) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [クリームで会いにいけますか](https://open.spotify.com/album/4E1uEIEcYmDIhR0sThjDL8) | 3:54 | 2025-05-27 | 2025-12-03 |
 | [クリームソーダが溶ける頃](https://open.spotify.com/track/4p6eJCD6zGYSDI5RD2IhTG) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [クリームソーダが溶ける頃](https://open.spotify.com/album/6QfuUbAPxD3nBGc5OirrPD) | 3:23 | 2022-07-19 | 2022-07-27 |
 | [クレッシェンド](https://open.spotify.com/track/40l66RNCxCfKgXHxoJcqmp) | [Nanase Aikawa](https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk) | [クレッシェンド](https://open.spotify.com/album/3B0cPpF1XNJDusIkpktUGx) | 4:07 | 2025-02-11 | 2025-02-19 |
-| [クローバー](https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クローバー](https://open.spotify.com/album/3IVDFFnyJdNRrZoPHthYwY) | 4:57 | 2026-06-09 |  |
+| [クローバー](https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クローバー](https://open.spotify.com/album/3IVDFFnyJdNRrZoPHthYwY) | 4:57 | 2026-06-09 | 2026-08-23 |
 | [グッドラックが聞こえない](https://open.spotify.com/track/79BXTDSbfXRRkWp44BfE51) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [グッドラックが聞こえない](https://open.spotify.com/album/6ihreP7TWqTZsZGl6voPKo) | 2:31 | 2023-04-05 | 2023-04-06 |
 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 | 2023-09-19 | 2024-12-25 |
 | [グライド](https://open.spotify.com/track/6jg0v1Iy7Y1t2M2bcVrTRf) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [グライド](https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht) | 3:30 | 2025-10-08 | 2026-02-12 |

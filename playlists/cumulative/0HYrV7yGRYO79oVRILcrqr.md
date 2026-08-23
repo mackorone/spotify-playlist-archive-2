@@ -4,12 +4,13 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-689 songs - 1 day 18 hr 49 min
+691 songs - 1 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Only Takes a\) Moment](https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [\(Only Takes a\) Moment](https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp) | 3:02 | 2026-07-15 | 2026-08-01 |
 | [3 AM Friend](https://open.spotify.com/track/4CCKlg2nD9FCbXeA9y9cEZ) | [Cody & Brody](https://open.spotify.com/artist/79r6SHtEhOvF5MQWIqGKSv) | [3 AM Friend](https://open.spotify.com/album/4ecSAkT48y5zSZximGC2OX) | 3:15 | 2026-06-06 | 2026-06-18 |
+| [48 horas](https://open.spotify.com/track/5nVXtplassqeVsrDB0FFvm) | [Ángel Valor](https://open.spotify.com/artist/3TSk2G1PqCoO7iNAnHJAG6) | [48 horas](https://open.spotify.com/album/0nA6wn6HNIUvidDc9Repki) | 4:02 | 2026-08-22 |  |
 | [5am Concrete Floor](https://open.spotify.com/track/4SUtQ1LsaQfA61CUuBuPMo) | [Father's Love Never In Contempt](https://open.spotify.com/artist/5B3BM4VcsFv1U5qZUaJjDv) | [5am Concrete Floor](https://open.spotify.com/album/31XosuzrD8Osj85f2COxd9) | 4:40 | 2026-03-15 |  |
 | [9/11 Dinamite](https://open.spotify.com/track/2ZfSQw1PBEyBt3YQZgZPEV) | [Italiani Medi](https://open.spotify.com/artist/6pDVMmLAVZr7n3249bB34G) | [Pasta con l'Odio](https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP) | 3:08 | 2025-10-22 | 2025-11-28 |
 | [A Candle's Night](https://open.spotify.com/track/5SOKQmZoBsA4SaLKfntmE5) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 4:39 | 2026-03-31 | 2026-04-21 |
@@ -607,6 +608,7 @@
 | [The Monster](https://open.spotify.com/track/5iaAZ53LFUxAZVYN5Pf61u) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/7wKUgvu5sCQAU2w9Zk0yS3) | [Human Side On](https://open.spotify.com/album/3hbMkCzgjGQju7MWlxgNpw) | 3:45 | 2026-02-16 | 2026-03-18 |
 | [The Path of Life](https://open.spotify.com/track/11U2REWAJDmch5GwYOb1T7) | [Shadows Of Earth](https://open.spotify.com/artist/1lkixm50bb6mtDPZspK90Z), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [The Path of Life](https://open.spotify.com/album/2mLhmToLFY0AHU68IRErSK) | 3:37 | 2025-09-28 | 2025-12-17 |
 | [The Power of My Story \- Blues Rock Mix](https://open.spotify.com/track/3gQgx3NawULgk7MN09P7b8) | [In The Shadow](https://open.spotify.com/artist/6x6mfS5opin69p2aEGbJmT) | [A Devotional Worship Project V.1](https://open.spotify.com/album/1pebEPS01Uovvx5xVlKJ3E) | 3:32 | 2026-04-29 | 2026-05-26 |
+| [THE ROAR](https://open.spotify.com/track/6Xv112AXvwY5Mo5dzvVSLS) | [OTA3D3](https://open.spotify.com/artist/7zTt9AcgJTtOgkIjs45qnp) | [THE ROAR](https://open.spotify.com/album/1dR1Jr4m8CYfA6G4XFwj2t) | 3:23 | 2026-08-22 |  |
 | [The Silent Streaks](https://open.spotify.com/track/6Oo9FMtmoOeoNsfGkHreDM) | [Alexander Campos](https://open.spotify.com/artist/3VrExr8mX2V9MgL01hbmvs) | [Whispers of a Violent Moon](https://open.spotify.com/album/3k9XEH9nw5nau63BXPKMpW) | 3:27 | 2025-10-07 | 2025-11-28 |
 | [The Staggering Expanse of Man](https://open.spotify.com/track/037SX6RIc2ZcAyss2UXta0) | [Gentry Blue](https://open.spotify.com/artist/1WDjvAbQXtcuiSJgLQYaOm) | [The Staggering Expanse of Man](https://open.spotify.com/album/4aU2LP5HmOwya2fzhts9D1) | 5:19 | 2025-10-28 | 2025-11-28 |
 | [The Tallahatchie Bridge](https://open.spotify.com/track/21LLRRYgZ2NiuVgrr2p5eT) | [Tim Hall and Buffalo Country](https://open.spotify.com/artist/6yGS5pRLuajIewHjZO2f8a) | [The Tallahatchie Bridge](https://open.spotify.com/album/00itmvsffnRW14XIlToe1F) | 3:34 | 2026-03-23 | 2026-04-21 |

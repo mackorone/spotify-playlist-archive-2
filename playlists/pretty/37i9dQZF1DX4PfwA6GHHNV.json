@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23416,
+  "num_followers": 23417,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 175935,
+      "name": "No Sign of Weakness",
+      "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
         "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
         "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 229684,
       "name": "OBSESI\u00d3N",
       "url": "https://open.spotify.com/track/4b77LqhHAmJ0K10SoFa5m8"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 175935,
-      "name": "No Sign of Weakness",
-      "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
+        "name": "BIA1B99",
+        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 157553,
+      "name": "PERSONAGEM",
+      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
         "name": "Ela Erra",
         "url": "https://open.spotify.com/album/2p8zTZvs4nX56bmNW3EsFy"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "PILLOW",
-        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 125672,
-      "name": "PILLOW",
-      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
         "name": "Um Corpo Preto",
         "url": "https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb"
       },
@@ -383,22 +383,18 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "PR\u00caMIO",
-        "url": "https://open.spotify.com/album/2XfYpuHfSxCYfPRlLogUIn"
+        "name": "PILLOW",
+        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
       },
       "artists": [
         {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        },
-        {
-          "name": "Carlos do Complexo",
-          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 164165,
-      "name": "PR\u00caMIO",
-      "url": "https://open.spotify.com/track/5JsziaZLCG9b96OtrXgq8c"
+      "duration_ms": 125672,
+      "name": "PILLOW",
+      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -423,6 +419,26 @@
       "duration_ms": 157777,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/5yfkS5GXG6JmPeSMElT7gN"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
+        "name": "PR\u00caMIO",
+        "url": "https://open.spotify.com/album/2XfYpuHfSxCYfPRlLogUIn"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "duration_ms": 164165,
+      "name": "PR\u00caMIO",
+      "url": "https://open.spotify.com/track/5JsziaZLCG9b96OtrXgq8c"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -503,6 +519,26 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
+        "name": "QUERO (AI AI AI)",
+        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "QUERO (AI AI AI)",
+      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -523,26 +559,6 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
-        "name": "QUERO (AI AI AI)",
-        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "QUERO (AI AI AI)",
-      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -667,22 +683,6 @@
       "duration_ms": 156038,
       "name": "Sem nada",
       "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
-        "name": "BIA1B99",
-        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 157553,
-      "name": "PERSONAGEM",
-      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -875,26 +875,18 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "A Beira Mar",
-        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
       },
       "artists": [
         {
-          "name": "Jhayam",
-          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
-        },
-        {
-          "name": "Zeferina",
-          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
-        },
-        {
-          "name": "D3jav\u00fa",
-          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
         }
       ],
-      "duration_ms": 228735,
-      "name": "A Beira Mar",
-      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -943,18 +935,26 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "M\u00fasicas Para Mulheres, Vol. 1",
-        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+        "name": "A Beira Mar",
+        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
       "artists": [
         {
-          "name": "Dash Foreal",
-          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+          "name": "Jhayam",
+          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
+        },
+        {
+          "name": "Zeferina",
+          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
+        },
+        {
+          "name": "D3jav\u00fa",
+          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
         }
       ],
-      "duration_ms": 167876,
-      "name": "S\u00f3 pra voc\u00ea",
-      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
+      "duration_ms": 228735,
+      "name": "A Beira Mar",
+      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
     },
     {
       "added_at": "2026-08-21 17:34:08",

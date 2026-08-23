@@ -4,7 +4,7 @@
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-166 songs - 12 hr 29 min
+167 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Deep Blue Sea](https://open.spotify.com/track/5KagK4pdr06uUCYgEnjDRt) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE) | 4:08 | 2022-08-05 | 2022-10-08 |
 | [Dimples](https://open.spotify.com/track/53ri7XzOM6KHb7SZnHxEMU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Saga Blues: From Detroit to Chicago 1954\-1958](https://open.spotify.com/album/43tIzDymZjL8eFUfUAmQGj) | 2:11 | 2024-06-18 | 2024-10-23 |
 | [Dimples](https://open.spotify.com/track/69sTZUnybfPzxEvdkOySX8) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 2:12 | 2022-12-27 | 2024-01-05 |
-| [Dimples](https://open.spotify.com/track/7EVfyWoxyraAp1rRmuHpV7) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [UNION STATION BLUES](https://open.spotify.com/album/6BNi3RgIN4PBwwrj12OfyT) | 2:13 | 2026-03-23 |  |
+| [Dimples](https://open.spotify.com/track/7EVfyWoxyraAp1rRmuHpV7) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [UNION STATION BLUES](https://open.spotify.com/album/6BNi3RgIN4PBwwrj12OfyT) | 2:13 | 2026-03-23 | 2026-08-23 |
 | [Dimples](https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [John Lee Hooker \- On Vee\-Jay 1955\-1958](https://open.spotify.com/album/4S0rQVJxEMLQHZ8JGl9tXx) | 2:13 | 2022-08-18 | 2026-03-23 |
+| [Dimples](https://open.spotify.com/track/6WAVXqDKi9bHBmr6Z3Lkv0) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm John Lee Hooker](https://open.spotify.com/album/1JS4r8YQPR1EFNepwVOAAi) | 2:16 | 2026-08-23 |  |
 | [Doin' The Shout](https://open.spotify.com/track/6sgj7whEOErJDDmb5uEou1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Best Of John Lee Hooker 1965 To 1974](https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI) | 3:30 | 2024-02-21 | 2025-08-27 |
 | [Doin' The Shout](https://open.spotify.com/track/2Rmw5jvEl6kiHVUFQJanZN) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Endless Boogie](https://open.spotify.com/album/0MMLYQDdCJ3niwUmG1FJS5) | 3:31 | 2026-07-23 |  |
 | [Don't Look Back](https://open.spotify.com/track/33aN8gQjmqzR674A0bEwBn) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Don't Look Back](https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE) | 6:42 | 2022-08-05 | 2024-02-08 |

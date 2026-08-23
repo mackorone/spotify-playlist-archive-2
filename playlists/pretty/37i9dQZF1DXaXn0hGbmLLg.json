@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! August ambassador: <a href=\"spotify:artist:2sGGaKKex7GgNlH1DRXZSa\">Inez</a>",
-  "num_followers": 14402,
+  "num_followers": 14400,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Landing Soft",
         "url": "https://open.spotify.com/album/1MZv2k2og4lbTBuredHjLW"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 255892,
       "name": "Landing Soft",
       "url": "https://open.spotify.com/track/5QNO6F2umr9c8miGBaU3cr"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Girls Who Like Girls",
+        "url": "https://open.spotify.com/album/7iEKXRe2DGyAPk9dbFz66P"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "duration_ms": 158232,
+      "name": "Girls Who Like Girls",
+      "url": "https://open.spotify.com/track/0fvct6cWXX1X1h8CNgLfNz"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Remember Us (feat. Melle)",
         "url": "https://open.spotify.com/album/3NZHYMWnXve8LBt86QUDBg"
       },
@@ -291,18 +307,18 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Girls Who Like Girls",
-        "url": "https://open.spotify.com/album/7iEKXRe2DGyAPk9dbFz66P"
+        "name": "Do You Want It Right Now",
+        "url": "https://open.spotify.com/album/2eHQRRCQNj2lFDXYcPtj2M"
       },
       "artists": [
         {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
         }
       ],
-      "duration_ms": 158232,
-      "name": "Girls Who Like Girls",
-      "url": "https://open.spotify.com/track/0fvct6cWXX1X1h8CNgLfNz"
+      "duration_ms": 147187,
+      "name": "Do You Want It Right Now",
+      "url": "https://open.spotify.com/track/2ibWjDuThUbFzgVo6ciD7j"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -319,22 +335,6 @@
       "duration_ms": 155374,
       "name": "Terug Bij Af",
       "url": "https://open.spotify.com/track/34LSD9i0uMB3ecBIdhNC89"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Do You Want It Right Now",
-        "url": "https://open.spotify.com/album/2eHQRRCQNj2lFDXYcPtj2M"
-      },
-      "artists": [
-        {
-          "name": "Stefania",
-          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
-        }
-      ],
-      "duration_ms": 147187,
-      "name": "Do You Want It Right Now",
-      "url": "https://open.spotify.com/track/2ibWjDuThUbFzgVo6ciD7j"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/7JCceKJ3VULoYeqQkhrcng"
+      },
+      "artists": [
+        {
+          "name": "Luna & Lenthe",
+          "url": "https://open.spotify.com/artist/5QNRJW51rDBkAOmrWlXLVg"
+        }
+      ],
+      "duration_ms": 218536,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/5EquLMxMnBX2hSS9SyDooO"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Slip",
         "url": "https://open.spotify.com/album/2BIhdL6klX2WyZIebY9ukR"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 157852,
       "name": "Searching For Love",
       "url": "https://open.spotify.com/track/54kVAiP9Rw1QZUFVTgYC9H"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Que Rico",
-        "url": "https://open.spotify.com/album/7JCceKJ3VULoYeqQkhrcng"
-      },
-      "artists": [
-        {
-          "name": "Luna & Lenthe",
-          "url": "https://open.spotify.com/artist/5QNRJW51rDBkAOmrWlXLVg"
-        }
-      ],
-      "duration_ms": 218536,
-      "name": "Que Rico",
-      "url": "https://open.spotify.com/track/5EquLMxMnBX2hSS9SyDooO"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "The Gardener",
-        "url": "https://open.spotify.com/album/3wbp4Nw28ud1SHHTUURh8E"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        }
-      ],
-      "duration_ms": 148870,
-      "name": "The Gardener",
-      "url": "https://open.spotify.com/track/2HpdHFOZqPaxmgbXnwnyCt"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/6ZUmiLywnQFNRcnb0sqPvI"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 309946,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6eameOYe26Fy9h11X2S4P5"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "The Gardener",
+        "url": "https://open.spotify.com/album/3wbp4Nw28ud1SHHTUURh8E"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        }
+      ],
+      "duration_ms": 148870,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/2HpdHFOZqPaxmgbXnwnyCt"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -819,6 +819,22 @@
       "duration_ms": 193589,
       "name": "Fast Paced Society",
       "url": "https://open.spotify.com/track/6FtD6D6SoPG0Xk3d19HJnX"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Unholy Sigh",
+        "url": "https://open.spotify.com/album/1PecMc39JTlIBH5wdeb7PK"
+      },
+      "artists": [
+        {
+          "name": "Nelleke",
+          "url": "https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu"
+        }
+      ],
+      "duration_ms": 227522,
+      "name": "Unholy Sigh",
+      "url": "https://open.spotify.com/track/0hPnLSvCt3FWuniVuS1X6H"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -867,22 +883,6 @@
       "duration_ms": 196773,
       "name": "Perception",
       "url": "https://open.spotify.com/track/5s6SQ85tdstlHhQKY2pVIJ"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Unholy Sigh",
-        "url": "https://open.spotify.com/album/1PecMc39JTlIBH5wdeb7PK"
-      },
-      "artists": [
-        {
-          "name": "Nelleke",
-          "url": "https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu"
-        }
-      ],
-      "duration_ms": 227522,
-      "name": "Unholy Sigh",
-      "url": "https://open.spotify.com/track/0hPnLSvCt3FWuniVuS1X6H"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "it wasn't a crime",
-        "url": "https://open.spotify.com/album/7sHpR8fo2bBa4bPfcAmtR2"
-      },
-      "artists": [
-        {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
-        }
-      ],
-      "duration_ms": 225445,
-      "name": "it wasn't a crime",
-      "url": "https://open.spotify.com/track/2vwEP2ROidDiKdyDz6FuJ4"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Ride it",
         "url": "https://open.spotify.com/album/1Uo2mVqKqn69SOvXteGkjZ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 194666,
       "name": "Ride it",
       "url": "https://open.spotify.com/track/7DXF7TggrJ7dkKqizP9jIs"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "it wasn't a crime",
+        "url": "https://open.spotify.com/album/7sHpR8fo2bBa4bPfcAmtR2"
+      },
+      "artists": [
+        {
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+        }
+      ],
+      "duration_ms": 225445,
+      "name": "it wasn't a crime",
+      "url": "https://open.spotify.com/track/2vwEP2ROidDiKdyDz6FuJ4"
     },
     {
       "added_at": "2026-08-04 22:00:19",

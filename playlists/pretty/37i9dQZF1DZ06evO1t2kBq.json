@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 86523,
+  "num_followers": 86533,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAADbbywtTXbLW2mM9SpRu2XF",
+  "snapshot_id": "aoeVAAAAAAAwTNZxXaP5oT2nX62gBiWc",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 110320,
-      "name": "Chaos From Within",
-      "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
+      "duration_ms": 239813,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Process Of Belief",
-        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 239813,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
+      "duration_ms": 110320,
+      "name": "Chaos From Within",
+      "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
     },
     {
       "added_at": null,

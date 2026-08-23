@@ -1,12 +1,12 @@
 {
   "description": "This is Sleater-Kinney. The essential tracks, all in one playlist.",
-  "num_followers": 9093,
+  "num_followers": 9092,
   "original_name": "This Is Sleater-Kinney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAAgAcRrepYxqlBV93T/d9TN",
+  "snapshot_id": "aoeVAAAAAAAzlO6XZnw5TFgJHGr82w0w",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Path of Wellness",
-        "url": "https://open.spotify.com/album/46Yku4K5V0lhqSosqu8GLR"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 231783,
-      "name": "Worry With You",
-      "url": "https://open.spotify.com/track/47FsO3C9qgAC3W9ZOGkCfj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleater-Kinney (Remastered)",
         "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 184746,
       "name": "The Day I Went Away",
       "url": "https://open.spotify.com/track/2OCEjdPPYORoncuWfGzOUf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Path of Wellness",
+        "url": "https://open.spotify.com/album/46Yku4K5V0lhqSosqu8GLR"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 231783,
+      "name": "Worry With You",
+      "url": "https://open.spotify.com/track/47FsO3C9qgAC3W9ZOGkCfj"
     },
     {
       "added_at": null,
@@ -516,25 +516,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 104666,
-      "name": "Little Mouth",
-      "url": "https://open.spotify.com/track/2B7K4LGtXxZdc4BRg6rWhV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Hands on the Bad One (Remastered)",
-        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 154146,
-      "name": "Ironclad",
-      "url": "https://open.spotify.com/track/2TZyIB2eXDtRTNfMj3TrE9"
+      "duration_ms": 144080,
+      "name": "Stay Where You Are",
+      "url": "https://open.spotify.com/track/3ZL06j6DJy3rsfeFEokm42"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 220573,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/3EVA7xy8HhfFzeyPq3MB7t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Hands on the Bad One (Remastered)",
+        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 154146,
+      "name": "Ironclad",
+      "url": "https://open.spotify.com/track/2TZyIB2eXDtRTNfMj3TrE9"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 144080,
-      "name": "Stay Where You Are",
-      "url": "https://open.spotify.com/track/3ZL06j6DJy3rsfeFEokm42"
+      "duration_ms": 104666,
+      "name": "Little Mouth",
+      "url": "https://open.spotify.com/track/2B7K4LGtXxZdc4BRg6rWhV"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Cities to Love",
-        "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 186546,
-      "name": "Surface Envy",
-      "url": "https://open.spotify.com/track/7p2T6ivlXN6n79DBfg8Lrv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hot Rock (Remastered)",
         "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 128759,
       "name": "Banned from the End of the World",
       "url": "https://open.spotify.com/track/5IQiaXm1uhVLRg40PfZLZj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Cities to Love",
+        "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 186546,
+      "name": "Surface Envy",
+      "url": "https://open.spotify.com/track/7p2T6ivlXN6n79DBfg8Lrv"
     },
     {
       "added_at": null,

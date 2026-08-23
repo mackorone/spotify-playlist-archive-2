@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,494 likes - 19 songs - 56 min 50 sec
+[Spotify](https://open.spotify.com/user/spotify) - 53,491 likes - 19 songs - 56 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

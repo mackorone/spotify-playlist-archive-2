@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from hey, nothing
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,478 likes - 142 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,454 likes - 142 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

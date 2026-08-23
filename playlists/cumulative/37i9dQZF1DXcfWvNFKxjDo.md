@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Topic, carteblanche
 
-6,720 songs - 13 day 11 hr 22 min
+6,720 songs - 13 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4829,7 +4829,7 @@
 | [Reason](https://open.spotify.com/track/1CRwJZniU25yWLGebkBvqo) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Reason](https://open.spotify.com/album/04P3VdEGWySfPTbX18hV3P) | 3:49 | 2026-03-26 | 2026-04-10 |
 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88) | 3:52 | 2024-06-27 | 2024-07-12 |
 | [Reasons](https://open.spotify.com/track/1nZz6nJgjcinLKZ40Ulrjj) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons EP](https://open.spotify.com/album/7cqwMYtGdmytQ4tga6W6XL) | 1:54 | 2026-07-09 | 2026-08-07 |
-| [Reasons \- Anton Powers Remix](https://open.spotify.com/track/3pX0cYa5Y8MX4mThEwWNNF) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons \(Anton Powers Remix\)](https://open.spotify.com/album/45Sjy8SFEAMI8X5gPE1ipw) | 3:49 | 2026-08-20 |  |
+| [Reasons \- Anton Powers Remix](https://open.spotify.com/track/3pX0cYa5Y8MX4mThEwWNNF) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons \(Anton Powers Remix\)](https://open.spotify.com/album/45Sjy8SFEAMI8X5gPE1ipw) | 2:59 | 2026-08-20 |  |
 | [Rebel](https://open.spotify.com/track/7yR7Yh5ViY7GrDSnRs1sa9) | [CLTX](https://open.spotify.com/artist/7uYIUwgVSEv7bomOcPROCf) | [Real](https://open.spotify.com/album/5rWLniVLQU2EgREsE5xpsi) | 3:39 | 2026-06-18 | 2026-06-26 |
 | [Rebel Heart](https://open.spotify.com/track/1uSMVWFeZr3sLfCjZPYYOZ) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Rebel Heart](https://open.spotify.com/album/6IXEiaAZLwz49AiaHq01kk) | 2:07 | 2024-11-21 | 2024-12-06 |
 | [Rebel Love](https://open.spotify.com/track/3CuSAnX8U6hq9W8IKCdOXC) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Rebel Love](https://open.spotify.com/album/3WLgBEBa7GUMVg8X7jeRj2) | 2:50 | 2025-09-05 | 2025-09-20 |

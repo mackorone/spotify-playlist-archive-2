@@ -1,6 +1,6 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 52502,
+  "num_followers": 52501,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
@@ -162,6 +162,10 @@
         {
           "name": "DJ Haram",
           "url": "https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl"
+        },
+        {
+          "name": "Archangel",
+          "url": "https://open.spotify.com/artist/0OGu6nIWmkhpVoxYltbBhK"
         }
       ],
       "duration_ms": 200000,
@@ -429,7 +433,7 @@
         },
         {
           "name": "Drippy",
-          "url": "https://open.spotify.com/artist/1jkknDhiQJBRpS9DIbf8QA"
+          "url": "https://open.spotify.com/artist/3ni9YvjyMo7oSCysU4OuVB"
         }
       ],
       "duration_ms": 206769,

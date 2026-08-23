@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Majo Aguilar",
-  "num_followers": 575345,
+  "num_followers": 575341,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
+        "name": "Ese Morrito",
+        "url": "https://open.spotify.com/album/00yXhQTcU4gfoyzwKTewp9"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Ese Morrito",
+      "url": "https://open.spotify.com/track/2JcCEJbgqaLAqgly93CK89"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
         "name": "Piensa en m\u00ed",
         "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 173102,
       "name": "Piensa en m\u00ed",
       "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
-        "name": "Ese Morrito",
-        "url": "https://open.spotify.com/album/00yXhQTcU4gfoyzwKTewp9"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Ese Morrito",
-      "url": "https://open.spotify.com/track/2JcCEJbgqaLAqgly93CK89"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "El Que Se Lleva Se Aguanta",
-        "url": "https://open.spotify.com/album/43FKCTGvshv4pvkaeKHVfM"
-      },
-      "artists": [
-        {
-          "name": "Silvia Mendivil",
-          "url": "https://open.spotify.com/artist/7b2vY5BkWXM9DxDLPR6jLq"
-        }
-      ],
-      "duration_ms": 175841,
-      "name": "El Que Se Lleva Se Aguanta",
-      "url": "https://open.spotify.com/track/4sexQX2h9B05nF916DuN3k"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 171000,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "El Que Se Lleva Se Aguanta",
+        "url": "https://open.spotify.com/album/43FKCTGvshv4pvkaeKHVfM"
+      },
+      "artists": [
+        {
+          "name": "Silvia Mendivil",
+          "url": "https://open.spotify.com/artist/7b2vY5BkWXM9DxDLPR6jLq"
+        }
+      ],
+      "duration_ms": 175841,
+      "name": "El Que Se Lleva Se Aguanta",
+      "url": "https://open.spotify.com/track/4sexQX2h9B05nF916DuN3k"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "C\u00f3mo se baila",
         "url": "https://open.spotify.com/album/5fqHmPxJjkkCSmLXjwXrmQ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 193285,
       "name": "C\u00f3mo se baila",
       "url": "https://open.spotify.com/track/3AgHkjyoFtuZuTnvFNDpe5"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
+        "name": "No soy para ti",
+        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
+      },
+      "artists": [
+        {
+          "name": "Ivanna",
+          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
+        }
+      ],
+      "duration_ms": 124785,
+      "name": "No soy para ti",
+      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
         "name": "\u00bfARDIDA QUI\u00c9N?",
         "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 140854,
       "name": "\u00bfARDIDA QUI\u00c9N?",
       "url": "https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
-        "name": "No soy para ti",
-        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
-      },
-      "artists": [
-        {
-          "name": "Ivanna",
-          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
-        }
-      ],
-      "duration_ms": 124785,
-      "name": "No soy para ti",
-      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "El Problema Eras T\u00fa",
-        "url": "https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 192086,
-      "name": "El Problema Eras T\u00fa",
-      "url": "https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Regresa La Reina",
         "url": "https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 170997,
       "name": "El Adi\u00f3s Ranchero",
       "url": "https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "El Problema Eras T\u00fa",
+        "url": "https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 192086,
+      "name": "El Problema Eras T\u00fa",
+      "url": "https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "Chingos De Amor",
-        "url": "https://open.spotify.com/album/0CjU7nGl6BnrvkRGpyTdJN"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "Chingos De Amor",
-      "url": "https://open.spotify.com/track/7BR2AICzC6Rd2hWRXd6WWp"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Mirando desde afuera",
         "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 224464,
       "name": "Una Palomita (En Vivo)",
       "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "Chingos De Amor",
+        "url": "https://open.spotify.com/album/0CjU7nGl6BnrvkRGpyTdJN"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "Chingos De Amor",
+      "url": "https://open.spotify.com/track/7BR2AICzC6Rd2hWRXd6WWp"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
+        "name": "Completamente Yo",
+        "url": "https://open.spotify.com/album/1QvzdccK49fZrHg171Albu"
+      },
+      "artists": [
+        {
+          "name": "Jacqie Rivera",
+          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+        }
+      ],
+      "duration_ms": 186203,
+      "name": "Completamente Yo",
+      "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
         "name": "Si A\u00fan Me Piensas",
         "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "Completamente Yo",
-        "url": "https://open.spotify.com/album/1QvzdccK49fZrHg171Albu"
+        "name": "Se Fue Con Ella",
+        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
       },
       "artists": [
         {
-          "name": "Jacqie Rivera",
-          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+          "name": "Silvia Y Los Gomez",
+          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
         }
       ],
-      "duration_ms": 186203,
-      "name": "Completamente Yo",
-      "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
+      "duration_ms": 156081,
+      "name": "Se Fue Con Ella",
+      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "Se Fue Con Ella",
-        "url": "https://open.spotify.com/album/7iKKZ42AHg7wlKV1FwVrGI"
-      },
-      "artists": [
-        {
-          "name": "Silvia Y Los Gomez",
-          "url": "https://open.spotify.com/artist/5j703HeNlUHpNC05u9hTCU"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "Se Fue Con Ella",
-      "url": "https://open.spotify.com/track/7Gem1J6cYcGVxuqdSCf6h1"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/7vIIbDGMAZLFi8K7JTTK3l"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 176596,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/4YJNPeRCk9WVmfAt7UHbQf"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -1283,22 +1299,6 @@
       "duration_ms": 211898,
       "name": "Vas De Salida",
       "url": "https://open.spotify.com/track/3D6Hf0GVInskiVwZ7e37eK"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "\u00c9chenle Sal a la Herida",
-        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 217312,
-      "name": "No Llega El Olvido",
-      "url": "https://open.spotify.com/track/5PhzbEDlg2AdZYjJeywgZU"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Nos Acostumbramos",
         "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 179647,
       "name": "Nos Acostumbramos",
       "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "\u00c9chenle Sal a la Herida",
+        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "duration_ms": 217312,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/5PhzbEDlg2AdZYjJeywgZU"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "Caminos De Michoacan (En Vivo)",
-        "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 363264,
-      "name": "Caminos De Michoacan (En Vivo)",
-      "url": "https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "No Me Queda M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 201467,
       "name": "No Me Queda M\u00e1s (En Vivo)",
       "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "Caminos De Michoacan (En Vivo)",
+        "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 363264,
+      "name": "Caminos De Michoacan (En Vivo)",
+      "url": "https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/5JoE7qRxFl2gBMyKpddgV6"
-      },
-      "artists": [
-        {
-          "name": "Rocio Jasso",
-          "url": "https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b"
-        }
-      ],
-      "duration_ms": 214864,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/4XRJ2OjlS5Trp66QQSDAVC"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Noche Bohemia",
         "url": "https://open.spotify.com/album/7FbLBvk0oXvWPPEsNYduH4"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "Ahora Somos",
-        "url": "https://open.spotify.com/album/25lxJgm2RDoAwbXZY0Y8Lt"
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/5JoE7qRxFl2gBMyKpddgV6"
       },
       "artists": [
         {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+          "name": "Rocio Jasso",
+          "url": "https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b"
         }
       ],
-      "duration_ms": 193866,
-      "name": "Ahora Somos",
-      "url": "https://open.spotify.com/track/4M6r7BwrNtSyAGfYOOmcln"
+      "duration_ms": 214864,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/4XRJ2OjlS5Trp66QQSDAVC"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -1635,6 +1619,22 @@
       "duration_ms": 233898,
       "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
       "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "Ahora Somos",
+        "url": "https://open.spotify.com/album/25lxJgm2RDoAwbXZY0Y8Lt"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Ahora Somos",
+      "url": "https://open.spotify.com/track/4M6r7BwrNtSyAGfYOOmcln"
     },
     {
       "added_at": "2026-08-21 04:02:37",

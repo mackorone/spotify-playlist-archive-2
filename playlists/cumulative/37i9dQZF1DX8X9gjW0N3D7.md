@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: P'tit Beliveau x kinji00
 
-583 songs - 1 day 8 hr 38 min
+584 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [reel talk](https://open.spotify.com/track/5EByJp6cwNCzueuovl04Am) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [t.o.m\. ou la trajectoire des perséides](https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY) | 3:19 | 2026-04-17 |  |
 | [Reflets](https://open.spotify.com/track/09D9HBU9x7hLNZUmgcJLCZ) | [dear•dree](https://open.spotify.com/artist/1HAU4BADFzqOCZr6dvV1DD) | [Reflets](https://open.spotify.com/album/7d1M8gX8nrbzju67TheCSs) | 3:26 | 2025-11-21 | 2026-02-07 |
 | [Replay](https://open.spotify.com/track/3Fu2ct0KmhS0Fg8gnUNpix) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Replay](https://open.spotify.com/album/4XNkm49r2qUs1dEtImT5vH) | 2:36 | 2025-03-28 | 2025-10-25 |
-| [Revenir](https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Revenir](https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ) | 2:36 | 2026-07-17 |  |
+| [Revenir](https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Revenir](https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ) | 2:36 | 2026-07-17 | 2026-08-23 |
 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 | 2024-11-23 |
 | [Rinque de même que c'est](https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Rinque de même que c'est](https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ) | 3:33 | 2026-06-19 |  |
 | [Rivière](https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Rivière](https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8) | 3:17 | 2025-11-07 | 2026-01-15 |
@@ -483,6 +483,7 @@
 | [Shalala](https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [Shalala](https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt) | 2:42 | 2024-06-28 | 2025-09-13 |
 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 | 2026-04-24 |  |
 | [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 | 2024-06-28 | 2025-05-24 |
+| [Si les bateaux](https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog) | [Gilles Vigneault](https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Si les bateaux](https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK) | 3:13 | 2026-08-21 |  |
 | [Si tu demandais](https://open.spotify.com/track/5LFJRjiD32OZbLnaMSWWpj) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Tour de force](https://open.spotify.com/album/7FZTXjf8KGLUZTdHA5PE90) | 4:20 | 2025-01-24 | 2025-10-18 |
 | [Si tu nous cherches](https://open.spotify.com/track/4CxN8SzYpQpNBE4WnuWBLB) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Demain déjà](https://open.spotify.com/album/27X7zlcqRLIw9aiYHmG67Y) | 3:24 | 2026-03-20 | 2026-06-13 |
 | [Si y'a pu rien](https://open.spotify.com/track/2ca8GZaHaFjjR6019Qw3Id) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Si y'a pu rien](https://open.spotify.com/album/1KAf93MNoSVAPRehHF1uhT) | 3:50 | 2026-02-27 | 2026-05-09 |

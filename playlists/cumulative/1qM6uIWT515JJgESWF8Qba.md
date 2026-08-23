@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-303 songs - 18 hr 58 min
+304 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Reveal](https://open.spotify.com/track/66VkLOO259SrOeyGRMoD0n) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Reveal](https://open.spotify.com/album/21O7YHeOghdgNHX1E76AeC) | 3:54 | 2025-11-13 | 2025-12-28 |
 | [Revelations](https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Revelations](https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj) | 3:59 | 2026-06-05 | 2026-08-08 |
 | [Revenge](https://open.spotify.com/track/67LncR8bh1wre4GVkjq8M1) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Revenge](https://open.spotify.com/album/2Cm2qoNr6PQp64EGQCT0wu) | 4:59 | 2026-01-17 |  |
+| [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 | 2026-08-22 |  |
 | [Rooftops](https://open.spotify.com/track/0JJGV5lyQ2mji50PHu0Gce) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Rooftops](https://open.spotify.com/album/2300qonTPP24PHDOv62WqB) | 3:25 | 2026-01-22 | 2026-02-23 |
 | [Royal Kush](https://open.spotify.com/track/2wlWUxDcl8y3V2L5aQ3vOA) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Royal Kush](https://open.spotify.com/album/32ik5Ith28fbWibQPqgazr) | 3:37 | 2026-04-06 |  |
 | [Royal Kush \- 2026 Remix](https://open.spotify.com/track/3quWf8EHip6EbIqISTGVH2) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Royal Kush \(2026 Remix\)](https://open.spotify.com/album/4BoeN9Czn21LYDkJcreWri) | 3:36 | 2026-03-03 | 2026-05-17 |

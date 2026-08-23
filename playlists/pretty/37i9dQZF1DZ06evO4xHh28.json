@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 643195,
+  "num_followers": 643260,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAA4UVlGd8o/KojDBQ+9+Phf",
+  "snapshot_id": "aoeVAAAAAABzd7WfXQ6QAtlauzm0PLUz",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Bury Me in Black - Demo",
-      "url": "https://open.spotify.com/track/0uwM67BScty5fvQLUZneX5"
+      "duration_ms": 230706,
+      "name": "Desert Song",
+      "url": "https://open.spotify.com/track/1rDJIKiabJGtDtT8y72aTr"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 230706,
-      "name": "Desert Song",
-      "url": "https://open.spotify.com/track/1rDJIKiabJGtDtT8y72aTr"
+      "duration_ms": 156666,
+      "name": "Bury Me in Black - Demo",
+      "url": "https://open.spotify.com/track/0uwM67BScty5fvQLUZneX5"
     }
   ],
   "unique_name": "This Is My Chemical Romance",

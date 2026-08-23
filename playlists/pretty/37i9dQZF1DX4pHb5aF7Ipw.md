@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Jxggi, Ninja and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,135 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,150 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 27 | [They Call Me](https://open.spotify.com/track/6U9fUXfhdkjdpqfxr4acfh) | [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [They Call Me](https://open.spotify.com/album/6N1tvDuiSFWrEwTC61sNk1) | 2:53 |
 | 28 | [No Expectation](https://open.spotify.com/track/3t8YomlzmLEnQh1CcX1TYc) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [HighRoller](https://open.spotify.com/album/16ruaAgfRR4m2IpNdpa012) | 2:28 |
 | 29 | [Young Code](https://open.spotify.com/track/6tn4DK4gDIaFN78JyziB2X) | [Kulwinder Sohi](https://open.spotify.com/artist/4ZuPcTmzv64QazoSJizaxe), [Dr.Sidhu](https://open.spotify.com/artist/26zNI72NLoi14xOYoYjWKg), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Young Code](https://open.spotify.com/album/7fBCglldtl1JySIWOwDy36) | 2:51 |
-| 30 | [Aura Change](https://open.spotify.com/track/0uQST5LgmdaJCZYgm0SjKH) | [SINGAAX](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Drippy](https://open.spotify.com/artist/1jkknDhiQJBRpS9DIbf8QA) | [Punjab's Blood](https://open.spotify.com/album/0RSf8YEGSGEWfYeWWV5SGd) | 2:36 |
+| 30 | [Aura Change](https://open.spotify.com/track/0uQST5LgmdaJCZYgm0SjKH) | [SINGAAX](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Drippy](https://open.spotify.com/artist/3ni9YvjyMo7oSCysU4OuVB) | [Punjab's Blood](https://open.spotify.com/album/0RSf8YEGSGEWfYeWWV5SGd) | 2:36 |
 | 31 | [Trophy](https://open.spotify.com/track/07KLnLi64F3u5qQgxHrl8a) | [Dhoot Mani](https://open.spotify.com/artist/4Qxx0J73vOmSCfMCAgwRzd), [Shehbaaz](https://open.spotify.com/artist/0eOgf3NSBxsGIhXqhSfX3P) | [Trophy](https://open.spotify.com/album/4Hf53dEgoBQnR0YGwiE7xK) | 3:10 |
 | 32 | [Game](https://open.spotify.com/track/14uHcHDzmLGDBpogiJ2ASQ) | [The Vijay Nayyar](https://open.spotify.com/artist/5w16hm8OWzwWGnaqbrns3p), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi) | [Game](https://open.spotify.com/album/3SOiGiWozSNGyJ2F6w4kjY) | 2:52 |
 | 33 | [Chobbar](https://open.spotify.com/track/0jY9TrqgM6xBHQcFFnh97R) | [Harvi Chandiala](https://open.spotify.com/artist/2DIi01oaJzzLHYcRm3FuKK) | [Chobbar](https://open.spotify.com/album/5PwHvpOynLu3S3KOccwHrY) | 2:19 |

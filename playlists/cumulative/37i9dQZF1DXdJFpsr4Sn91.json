@@ -7799,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "Ihmisenpuolikas",
+        "url": "https://open.spotify.com/album/3aPhDcXiZ2MLBFCWNJMcj1"
+      },
+      "artists": [
+        {
+          "name": "Aatulove",
+          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172447,
+      "name": "Ihmisenpuolikas",
+      "url": "https://open.spotify.com/track/5XJOXkXEfDWJUmvrsvFbro"
+    },
+    {
+      "album": {
         "name": "Ihmishirvi\u00f6",
         "url": "https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17"
       },
@@ -10888,6 +10906,24 @@
       "duration_ms": 159901,
       "name": "Liian l\u00e4hel aurinkoo",
       "url": "https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1"
+    },
+    {
+      "album": {
+        "name": "Liian nuorii kuolinilmotuksiin",
+        "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
+      },
+      "artists": [
+        {
+          "name": "Lilja Lund\u00e9n",
+          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "Liian nuorii kuolinilmotuksiin",
+      "url": "https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd"
     },
     {
       "album": {
@@ -16502,7 +16538,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 242640,
       "name": "Rakastan teit\u00e4 kaikkia",
       "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
@@ -16778,7 +16814,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 160130,
       "name": "Rautaa",
       "url": "https://open.spotify.com/track/79D4icNYZNeZ6i53WUN0Qu"

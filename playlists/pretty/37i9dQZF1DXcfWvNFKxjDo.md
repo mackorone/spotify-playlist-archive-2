@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Topic, carteblanche
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,912 likes - 76 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,901 likes - 76 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 31 | [langur](https://open.spotify.com/track/3AiaMSTpzB3YapAP1wmhYj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [langur](https://open.spotify.com/album/530mI0lrEu4XhPNldLztvW) | 3:15 |
 | 32 | [.com](https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [.com](https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt) | 3:07 |
 | 33 | [Airplane Mode](https://open.spotify.com/track/1u4fkDTnSo7OchwOTzvwWj) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [Airplane Mode](https://open.spotify.com/album/7jvZSA898ruwGO7svI4U71) | 2:54 |
-| 34 | [Reasons \- Anton Powers Remix](https://open.spotify.com/track/3pX0cYa5Y8MX4mThEwWNNF) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons \(Anton Powers Remix\)](https://open.spotify.com/album/45Sjy8SFEAMI8X5gPE1ipw) | 3:49 |
+| 34 | [Reasons \- Anton Powers Remix](https://open.spotify.com/track/3pX0cYa5Y8MX4mThEwWNNF) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons \(Anton Powers Remix\)](https://open.spotify.com/album/45Sjy8SFEAMI8X5gPE1ipw) | 2:59 |
 | 35 | [Panjab](https://open.spotify.com/track/5lXfwFlQywqVHvLsjdRWnu) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [SPHYNX](https://open.spotify.com/artist/5IG9HaT8HgSpmYCrdjjVGw) | [Panjab](https://open.spotify.com/album/1Lkq7m0PezljuJYzz7GUBI) | 2:27 |
 | 36 | [euromaxxing](https://open.spotify.com/track/63yNFVArVMQk2BsitBxFdN) | [ALCATRAZ](https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR) | [euromaxxing](https://open.spotify.com/album/1hytMCm9UDt0MteHZgGEmr) | 2:51 |
 | 37 | [Ocean Eyes](https://open.spotify.com/track/4w4J04la6lDFcwsVbyTmn9) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Ocean Eyes](https://open.spotify.com/album/0AIvwGbnBAHMFezRhyFchS) | 2:48 |

@@ -1,29 +1,13 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 17574,
+  "num_followers": 17603,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAAhCo3WvKq+SCs2U+1W0des",
+  "snapshot_id": "aoeVAAAAAADepsDS0J+kRJa2uSO8bXgc",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remedied",
-        "url": "https://open.spotify.com/album/3FuGxnQ5whfiCx1sPOpc2g"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Remedied",
-      "url": "https://open.spotify.com/track/3tu3WIgcHYck8A7csEKyUM"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,6 +59,22 @@
       "duration_ms": 189469,
       "name": "Pretty Eyes (feat. FLO)",
       "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remedied",
+        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Remedied",
+      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
     },
     {
       "added_at": null,
@@ -306,11 +306,15 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Small Doses",
-      "url": "https://open.spotify.com/track/12Fx3yoknUGZ20QIxPPnZJ"
+      "duration_ms": 205000,
+      "name": "Sex In Peace (ft. kwn)",
+      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
     },
     {
       "added_at": null,
@@ -442,15 +446,11 @@
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sex In Peace (ft. kwn)",
-      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
+      "duration_ms": 149000,
+      "name": "Small Doses",
+      "url": "https://open.spotify.com/track/12Fx3yoknUGZ20QIxPPnZJ"
     },
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOAT (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg"
+        "name": "Hide & Seek (FLO Remix)",
+        "url": "https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv"
       },
       "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 206497,
-      "name": "Mamacitas",
-      "url": "https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf"
+      "duration_ms": 209608,
+      "name": "Hide & Seek - FLO Remix",
+      "url": "https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H"
     },
     {
       "added_at": null,
@@ -535,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hide & Seek (FLO Remix)",
-        "url": "https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv"
+        "name": "GOAT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg"
       },
       "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
         {
           "name": "FLO",
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 209608,
-      "name": "Hide & Seek - FLO Remix",
-      "url": "https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H"
+      "duration_ms": 206497,
+      "name": "Mamacitas",
+      "url": "https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf"
     },
     {
       "added_at": null,

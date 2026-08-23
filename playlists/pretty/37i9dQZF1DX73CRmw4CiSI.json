@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol y amigxs.",
-  "num_followers": 117056,
+  "num_followers": 117093,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-07-21 09:15:29",
       "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 249680,
+      "name": "El universo sobre m\u00ed",
+      "url": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 225680,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
-    },
-    {
-      "added_at": "2026-07-21 09:15:29",
-      "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 249680,
-      "name": "El universo sobre m\u00ed",
-      "url": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
     },
     {
       "added_at": "2026-07-21 09:15:29",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-07-21 09:15:29",
       "album": {
-        "name": "Personas",
-        "url": "https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm"
-      },
-      "artists": [
-        {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        }
-      ],
-      "duration_ms": 259720,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo"
-    },
-    {
-      "added_at": "2026-07-21 09:15:29",
-      "album": {
         "name": "Una Peque\u00f1a Parte Del Mundo",
         "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 241266,
       "name": "C\u00f3mo hablar",
       "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
+    },
+    {
+      "added_at": "2026-07-21 09:15:29",
+      "album": {
+        "name": "Personas",
+        "url": "https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        }
+      ],
+      "duration_ms": 259720,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo"
     },
     {
       "added_at": "2026-07-21 09:15:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 353 likes - 2,563 songs - 6 day 6 hr 36 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 353 likes - 2,566 songs - 6 day 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2571,5 +2571,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2561 | [I Don't Wanna](https://open.spotify.com/track/2dBISZAkoPUFtSxXOrzFWg) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [I Don't Wanna](https://open.spotify.com/album/3uAjKCqmcjrqWzUk2CBLDw) | 4:18 |
 | 2562 | [Don't Remember](https://open.spotify.com/track/0coZLUJAyKfdywx3cuiMhu) | [ANTY\-DOTE](https://open.spotify.com/artist/6977CBnV7l66u6yEM9MwMW) | [Don't Remember](https://open.spotify.com/album/5gycPqdPjbDFaE4pe3WLyH) | 1:29 |
 | 2563 | [No Te Voy A Perder](https://open.spotify.com/track/1spu2SwHv1HetlN1dxl41n) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [No Te Voy A Perder](https://open.spotify.com/album/06dX0pQJFwrfgKVyyxYZBv) | 3:30 |
+| 2564 | [Ceniza en tu Boca](https://open.spotify.com/track/5wxExH3v0AfHqqD3r4tJCm) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:28 |
+| 2565 | [No Te Voy A Perder](https://open.spotify.com/track/3EfBHJNorj6Gbles4qhxIb) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:30 |
+| 2566 | [Me Quedo Contigo](https://open.spotify.com/track/1mgysJeEOX2MYA68RXE1Ar) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:28 |
 
-Snapshot ID: `AAAK4pyq7oj4KSrxN45Ud1uNPNfh3fHM`
+Snapshot ID: `AAAK5fONB2kq3zA6VUO+y6okWbCuDq/H`

@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 17903,
+  "num_followers": 17929,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
+        "name": "R\u00c9SONANCE",
+        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Woman King (T'as Capt\u00e9)",
+      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
         "name": "D\u00e9sarmer",
         "url": "https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus"
       },
@@ -1075,26 +1091,18 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "En Haut",
-        "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
+        "name": "Le succ\u00e8s",
+        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
       },
       "artists": [
         {
           "name": "Didi B",
           "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Jr La Melo",
-          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
-        },
-        {
-          "name": "Tam Sir",
-          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
         }
       ],
-      "duration_ms": 172394,
-      "name": "En Haut",
-      "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
+      "duration_ms": 208484,
+      "name": "Le succ\u00e8s",
+      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1131,22 +1139,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "R\u00c9SONANCE",
-        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Woman King (T'as Capt\u00e9)",
-      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg"
       },
@@ -1163,22 +1155,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Le succ\u00e8s",
-        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 208484,
-      "name": "Le succ\u00e8s",
-      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Chebaba",
         "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 202058,
       "name": "Chebaba",
       "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "En Haut",
+        "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Jr La Melo",
+          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
+        },
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
+        }
+      ],
+      "duration_ms": 172394,
+      "name": "En Haut",
+      "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1417,6 +1417,26 @@
       "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
     },
     {
+      "added_at": "2026-08-21 10:56:34",
+      "album": {
+        "name": "M\u00c9TAMORPHOSE",
+        "url": "https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0"
+      },
+      "artists": [
+        {
+          "name": "SK 07",
+          "url": "https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW"
+        },
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "MINIMUM (feat. d\u00f8pelym)",
+      "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
+    },
+    {
       "added_at": "2026-07-24 11:14:20",
       "album": {
         "name": "Kulule",
@@ -1483,26 +1503,6 @@
       "duration_ms": 177692,
       "name": "Biso Mibale (feat. Jungeli)",
       "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "Ma Belle",
-        "url": "https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj"
-      },
-      "artists": [
-        {
-          "name": "DCartier",
-          "url": "https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A"
-        },
-        {
-          "name": "Gino J",
-          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
-        }
-      ],
-      "duration_ms": 189891,
-      "name": "Ma Belle",
-      "url": "https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz"
     }
   ],
   "unique_name": "Francophone.wav",

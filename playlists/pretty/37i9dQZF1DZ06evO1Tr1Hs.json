@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 47113,
+  "num_followers": 47123,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAD9X7qGraSPHqPP6ygJLM7W",
+  "snapshot_id": "aoeVAAAAAAAm0nPI6WieGzNXSTNzdBDC",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "margiela",
-        "url": "https://open.spotify.com/album/6lCILy46F44uFdrHCunZss"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 138165,
-      "name": "margiela",
-      "url": "https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XTENDED",
         "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 152368,
       "name": "Swag Overload",
       "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "margiela",
+        "url": "https://open.spotify.com/album/6lCILy46F44uFdrHCunZss"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 138165,
+      "name": "margiela",
+      "url": "https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen Bean",
-        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 119248,
-      "name": "Teen Bean",
-      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "delusional",
         "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 131274,
       "name": "delusional",
       "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teen Bean",
+        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "Teen Bean",
+      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
     },
     {
       "added_at": null,

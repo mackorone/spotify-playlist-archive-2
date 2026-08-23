@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAAB29LfBO+BO+ttgWangbLE",
+  "snapshot_id": "aoeVAAAAAAD7QQfUUx32e1Cao+qVhFOu",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Reverie (Instrumentals)",
+        "url": "https://open.spotify.com/album/38IgamewgVd1PgPUmxBu7A"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "duration_ms": 237702,
+      "name": "All In - Instrumental",
+      "url": "https://open.spotify.com/track/3tTD3QjBMm9FivpAsv1qFN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOVERE",
         "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 183333,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie (Instrumentals)",
-        "url": "https://open.spotify.com/album/38IgamewgVd1PgPUmxBu7A"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "AMAKA",
-          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "All In - Instrumental",
-      "url": "https://open.spotify.com/track/3tTD3QjBMm9FivpAsv1qFN"
     },
     {
       "added_at": null,
@@ -886,11 +886,15 @@
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
+      "duration_ms": 191233,
+      "name": "Fried for the Night",
+      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
     },
     {
       "added_at": null,

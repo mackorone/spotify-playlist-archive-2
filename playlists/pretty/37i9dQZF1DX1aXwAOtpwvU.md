@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:0B4TTzKvNuF5Jcmbe5uQ1T">Pola Maj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,487 likes - 118 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,515 likes - 118 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 99 | [Dotyk](https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa) | [Dotyk](https://open.spotify.com/album/2CatqcH2Ypdow0EmCue0Ua) | 2:15 |
 | 100 | [24/7](https://open.spotify.com/track/3kEL4qQksVVMgptkaqyyAv) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [24/7](https://open.spotify.com/album/7kBOxQzeKtQ7Vh11wxuVkM) | 2:54 |
 | 101 | [Czuły punkt](https://open.spotify.com/track/2lszUq5AKP7gsC2ICpCs3S) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Czuły punkt](https://open.spotify.com/album/2pt9ofYyr8H5RFG7kngEVJ) | 3:14 |
-| 102 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 |
+| 102 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 |
 | 103 | [Chainz](https://open.spotify.com/track/2nZuIEriU4C2I7WbvA7xUa) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Chainz](https://open.spotify.com/album/5HPM2jDYBG8bJ0UfpAbDU8) | 3:34 |
 | 104 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 |
 | 105 | [mam dosyć striptiz clubów](https://open.spotify.com/track/77JAlSRiYQX3Hy5je6eZvo) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [mam dosyć striptiz clubów](https://open.spotify.com/album/29WqQEVn3lINejm16UYxUx) | 3:49 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 112 | [KEEPITUP](https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv) | [babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [KEEPITUP](https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV) | 3:58 |
 | 113 | [wait](https://open.spotify.com/track/30T8ZYbWzrgRowKBQcHRWD) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [wait](https://open.spotify.com/album/4PxuLgm53Sa8Q3EaApIBHn) | 2:31 |
 | 114 | [Pu$$ycat Dollz](https://open.spotify.com/track/4HYka4Gx4GJrzWYn7nU553) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Oh My Gawd](https://open.spotify.com/album/09VBO00Nq8UBvPNB07XWJS) | 2:05 |
-| 115 | [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 |
+| 115 | [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 |
 | 116 | [to ja](https://open.spotify.com/track/4Q5uAS1kCFYHaGAiWzvIqY) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [to ja](https://open.spotify.com/album/4D6cPkU2VbZyXuHEGHHm89) | 2:38 |
 | 117 | [nerw](https://open.spotify.com/track/1aAaSTXKjnVA9c0ZsnwbND) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [nerw](https://open.spotify.com/album/59Xgro4RsujClc1AFmwuuF) | 3:46 |
 | 118 | [jest ok](https://open.spotify.com/track/5DigAqqBPxlYVJ2bYJzPWk) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [xoxo](https://open.spotify.com/album/1fNZT5ZnzRafSraPgJlsDf) | 1:20 |

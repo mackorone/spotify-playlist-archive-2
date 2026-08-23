@@ -1,6 +1,6 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: P'tit Beliveau x kinji00",
-  "num_followers": 70627,
+  "num_followers": 70641,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,22 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Si j'avais un clou",
-        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
+        "name": "the evergreen, the birch",
+        "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
       },
       "artists": [
         {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        },
+        {
+          "name": "MEGGO",
+          "url": "https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc"
         }
       ],
-      "duration_ms": 229720,
-      "name": "Si j'avais un clou",
-      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
+      "duration_ms": 179050,
+      "name": "the evergreen, the birch",
+      "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -479,22 +483,18 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "the evergreen, the birch",
-        "url": "https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v"
+        "name": "Si j'avais un clou",
+        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
       },
       "artists": [
         {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        },
-        {
-          "name": "MEGGO",
-          "url": "https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc"
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
         }
       ],
-      "duration_ms": 179050,
-      "name": "the evergreen, the birch",
-      "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
+      "duration_ms": 229720,
+      "name": "Si j'avais un clou",
+      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "L'amour enterr\u00e9 vivant",
-        "url": "https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb"
-      },
-      "artists": [
-        {
-          "name": "La Bronze",
-          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "L'amour enterr\u00e9 vivant",
-      "url": "https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
         "name": "Rinque de m\u00eame que c'est",
         "url": "https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 174709,
       "name": "Oh, My Lanta!",
       "url": "https://open.spotify.com/track/0dthKlUKUhIUN0YHluFXs7"
+    },
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
+        "name": "L'amour enterr\u00e9 vivant",
+        "url": "https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb"
+      },
+      "artists": [
+        {
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "L'amour enterr\u00e9 vivant",
+      "url": "https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Ma Chance",
-        "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
-      },
-      "artists": [
-        {
-          "name": "A Girl Named Sue",
-          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Ma Chance",
-      "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
         "name": "Que ta lumi\u00e8re",
         "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 189945,
       "name": "Comme un b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
+    },
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
+        "name": "Ma Chance",
+        "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
+      },
+      "artists": [
+        {
+          "name": "A Girl Named Sue",
+          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Ma Chance",
+      "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Feel '26",
-        "url": "https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw"
-      },
-      "artists": [
-        {
-          "name": "Hansom \u0112li",
-          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
-        }
-      ],
-      "duration_ms": 343733,
-      "name": "Feel '26",
-      "url": "https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
         "name": "Todas mis amigas",
         "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 228786,
       "name": "Todas mis amigas",
       "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
+    },
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
+        "name": "Feel '26",
+        "url": "https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "duration_ms": 343733,
+      "name": "Feel '26",
+      "url": "https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Excuse-moi",
-        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
-      },
-      "artists": [
-        {
-          "name": "Lilou Morin",
-          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
-        }
-      ],
-      "duration_ms": 197145,
-      "name": "Excuse-moi",
-      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
         "name": "copacabana",
         "url": "https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 117624,
       "name": "copacabana",
       "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
+    },
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
+        "name": "Excuse-moi",
+        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
+      },
+      "artists": [
+        {
+          "name": "Lilou Morin",
+          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
+        }
+      ],
+      "duration_ms": 197145,
+      "name": "Excuse-moi",
+      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
+        "name": "Si les bateaux",
+        "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gilles Vigneault",
+          "url": "https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Si les bateaux",
+      "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
+    },
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
         "name": "Paranormal",
         "url": "https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO"
       },
@@ -1231,22 +1251,6 @@
       "duration_ms": 177106,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
-        "name": "Revenir",
-        "url": "https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ"
-      },
-      "artists": [
-        {
-          "name": "Rick Pagano",
-          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
-        }
-      ],
-      "duration_ms": 156079,
-      "name": "Revenir",
-      "url": "https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl"
     }
   ],
   "unique_name": "Qu\u00e9b\u00e9cois Contemporain",

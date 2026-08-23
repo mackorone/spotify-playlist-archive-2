@@ -1,6 +1,6 @@
 {
   "description": "Canciones para chillear, con esperanzah en portada.",
-  "num_followers": 29040,
+  "num_followers": 29042,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Querida Yo",
-        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 148037,
-      "name": "Devu\u00e9lvemela",
-      "url": "https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "bajare",
         "url": "https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 147898,
       "name": "bajare",
       "url": "https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 148037,
+      "name": "Devu\u00e9lvemela",
+      "url": "https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "SUPERSTICIONES: Remixes",
+        "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        }
+      ],
+      "duration_ms": 204782,
+      "name": "Amores Callejeros - Bolero Remix",
+      "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "SER AMIGOS (olvida)",
         "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
       },
@@ -1079,22 +1099,18 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "SUPERSTICIONES: Remixes",
-        "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
+        "name": "Una Herida Y Un Adi\u00f3s",
+        "url": "https://open.spotify.com/album/6gcvjfv3oLAHg5LYDLt4QL"
       },
       "artists": [
         {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+          "name": "Un Verano",
+          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
         }
       ],
-      "duration_ms": 204782,
-      "name": "Amores Callejeros - Bolero Remix",
-      "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
+      "duration_ms": 107865,
+      "name": "Una Herida Y Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5lucxvkqKHg0i6b4Dru8hw"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Una Herida Y Un Adi\u00f3s",
-        "url": "https://open.spotify.com/album/6gcvjfv3oLAHg5LYDLt4QL"
-      },
-      "artists": [
-        {
-          "name": "Un Verano",
-          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
-        }
-      ],
-      "duration_ms": 107865,
-      "name": "Una Herida Y Un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5lucxvkqKHg0i6b4Dru8hw"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -1151,6 +1151,26 @@
       "duration_ms": 238508,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "De M\u00ed",
+        "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
+      },
+      "artists": [
+        {
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 180073,
+      "name": "De M\u00ed",
+      "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1179,22 +1199,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "escapar de m\u00ed",
-        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "escapar de m\u00ed",
-      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "El Verdadero",
         "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
       },
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "De M\u00ed",
-        "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
+        "name": "escapar de m\u00ed",
+        "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
       },
       "artists": [
         {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 180073,
-      "name": "De M\u00ed",
-      "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
+      "duration_ms": 228533,
+      "name": "escapar de m\u00ed",
+      "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Hasta la Ra\u00edz",
-        "url": "https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5"
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/7DUgTiPrOU4zykqdPbtjb4"
       },
       "artists": [
         {
-          "name": "N1za",
-          "url": "https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
         }
       ],
-      "duration_ms": 159285,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
+      "duration_ms": 125396,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/25itt5YemGNnKNh4zOFDoJ"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1711,18 +1707,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/7DUgTiPrOU4zykqdPbtjb4"
+        "name": "Hasta la Ra\u00edz",
+        "url": "https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5"
       },
       "artists": [
         {
-          "name": "Flor Vigna",
-          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+          "name": "N1za",
+          "url": "https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 125396,
-      "name": "Valiente",
-      "url": "https://open.spotify.com/track/25itt5YemGNnKNh4zOFDoJ"
+      "duration_ms": 159285,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
     },
     {
       "added_at": "2026-08-20 22:49:00",

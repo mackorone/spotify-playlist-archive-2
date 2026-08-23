@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20838,
+  "num_followers": 20842,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-08-21 04:03:38",
       "album": {
-        "name": "Madame",
-        "url": "https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 118431,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM"
-    },
-    {
-      "added_at": "2026-08-21 04:03:38",
-      "album": {
         "name": "J't'en vacances (j'fais c'que j'veux)",
         "url": "https://open.spotify.com/album/2MKmI0ZxUvXA5ZlEHeuvml"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2026-08-21 04:03:38",
       "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 118431,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM"
+    },
+    {
+      "added_at": "2026-08-21 04:03:38",
+      "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
+    },
+    {
+      "added_at": "2026-08-21 04:03:38",
+      "album": {
+        "name": "Paysage",
+        "url": "https://open.spotify.com/album/6cafnFIJ0HfFmEOI8w5FgJ"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Paysage",
+      "url": "https://open.spotify.com/track/4fTMiWoGKTcFgSROCiYoLA"
     },
     {
       "added_at": "2026-08-21 04:03:38",
@@ -1755,22 +1771,6 @@
       "duration_ms": 215280,
       "name": "Tout nu sur la plage",
       "url": "https://open.spotify.com/track/1RcGvynfBjrDc8wCYwrNVI"
-    },
-    {
-      "added_at": "2026-08-21 04:03:38",
-      "album": {
-        "name": "Robots Apr\u00e8s Tout",
-        "url": "https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Katerine",
-          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Louxor j'adore",
-      "url": "https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV"
     }
   ],
   "unique_name": "Sp\u00e9cial soleil",

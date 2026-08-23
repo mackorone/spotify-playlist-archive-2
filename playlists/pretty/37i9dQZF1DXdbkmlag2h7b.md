@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,084 likes - 191 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,048 likes - 191 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 34 | [Ankomst](https://open.spotify.com/track/6mFz5W8sA3Kpp5BSWYh13k) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC), [Nico Rosenberg](https://open.spotify.com/artist/4MezBnEnw5gvmQamhQfvXs) | [Ankomst](https://open.spotify.com/album/3SRnF9hyMqeN4NX2Ymx6Ls) | 2:46 |
 | 35 | [Where Shadows Float](https://open.spotify.com/track/17oAJkNqeJCdqMaKVDlxAk) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Where Shadows Float](https://open.spotify.com/album/2jCazPUQvExlHHEgNJvLCK) | 2:27 |
 | 36 | [The Slow Within](https://open.spotify.com/track/6SCU524tS3UwL3bHJfOkMt) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi), [SOOTHE & SLEEP](https://open.spotify.com/artist/2RekgqfzfdeUzGS6a7Q6Gv) | [The Slow Within](https://open.spotify.com/album/3PftfxUI1JspoBtYoAPf6E) | 3:24 |
-| 37 | [Bloom](https://open.spotify.com/track/1FY0l5caHiUUBCy0Gc3sE4) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [CALM STUDIES VOL 1](https://open.spotify.com/album/4aonZVNEOlicHq2jt8k6Oc) | 4:10 |
+| 37 | [In Bloom](https://open.spotify.com/track/1FY0l5caHiUUBCy0Gc3sE4) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [CALM STUDIES VOL 1](https://open.spotify.com/album/4aonZVNEOlicHq2jt8k6Oc) | 4:10 |
 | 38 | [Lone Lights](https://open.spotify.com/track/0nxDy6ZzAAlwnHAzxLTd6r) | [Blue Saga](https://open.spotify.com/artist/3EUYJ46gohBhdmS96WqsbF) | [Lone Lights](https://open.spotify.com/album/6h2gZlVBiXYTYPgN9NF6I9) | 4:00 |
 | 39 | [Introspection](https://open.spotify.com/track/3liIip321tJq5GFgFfcGc7) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Introspection](https://open.spotify.com/album/51NBoP5ymYt2sOFaj3F17f) | 2:40 |
 | 40 | [Pulso](https://open.spotify.com/track/7C1yB2ZNKhnrRwXwY5pUYN) | [Rinlo San](https://open.spotify.com/artist/47ZXhmNIcqSHEirIl3SFKV) | [Pulso](https://open.spotify.com/album/7n0Lt4D2acRwZq43pn43MA) | 2:47 |

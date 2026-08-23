@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvyQZmRWHSm.md) - [plain]
 
 > Videos from the most legendary rock artists who inspired generations\. Music videos available only in Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 260 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAACbXxIy9bfY7UfiIAbczuKu",
+  "snapshot_id": "aoeVAAAAAADh8r3L9cQTM3N3uZQvQB1T",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Adentro Hacia Afuera",
         "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 307173,
       "name": "De Adentro Hacia Afuera",
       "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
     },
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "UVULUC",
-          "url": "https://open.spotify.com/artist/3oYJ0RiHUZRQChkRErZW16"
-        }
-      ],
-      "duration_ms": 278840,
-      "name": "Eu Me Rendo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vamos Cantar (Ao Vivo)",
         "url": "https://open.spotify.com/album/1xRXkUoEPB87tro7NXcAAe"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 368011,
       "name": "Vamos Cantar - Ao Vivo",
       "url": "https://open.spotify.com/track/28dhutzL2etPxNHo0nMWvp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "UVULUC",
+          "url": "https://open.spotify.com/artist/3oYJ0RiHUZRQChkRErZW16"
+        }
+      ],
+      "duration_ms": 278840,
+      "name": "Eu Me Rendo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Princ\u00edpio e Fim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 383913,
+      "name": "Princ\u00edpio e Fim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 262933,
       "name": "Bem Mais Que Tudo (Above All) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0EZb9A5oqsYM4HQxIlw2PC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Princ\u00edpio e Fim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7iLSh4dOutEWR2qZO3NWtV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 383913,
-      "name": "Princ\u00edpio e Fim - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eaTivrbUG41ALipFdQYus"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "UVULUC",
-          "url": "https://open.spotify.com/artist/3oYJ0RiHUZRQChkRErZW16"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "Me Atraiu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 296053,
       "name": "Jesus At The Center (Bonus Track) - Acoustic",
       "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "UVULUC",
+          "url": "https://open.spotify.com/artist/3oYJ0RiHUZRQChkRErZW16"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "Me Atraiu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ao Vivo na \u00d3pera de Arame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 412295,
+      "name": "Seu Amor Dura Para Sempre (Bonus Track) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 243973,
       "name": "Bondade de Deus (Goodness of God) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1ajhbZJPOVo337IV5XHRDd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ao Vivo na \u00d3pera de Arame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 412295,
-      "name": "Seu Amor Dura Para Sempre (Bonus Track) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catedral (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 278186,
-      "name": "Alvo Mais Que a Neve - Ao Vivo",
-      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perto Eu Quero Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 252866,
       "name": "Perto Eu Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catedral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 278186,
+      "name": "Alvo Mais Que a Neve - Ao Vivo",
+      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
     },
     {
       "added_at": null,

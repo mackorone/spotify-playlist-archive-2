@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,357 songs - 3 day 11 hr 34 min
+1,358 songs - 3 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [In Real Life](https://open.spotify.com/track/2yaW1iqYFifHngEac49I3T) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [A Repeat Wouldn't Go A Miss](https://open.spotify.com/album/238FIHtAWEN2fpgGu5YLFS) | 3:49 | 2021-08-23 |  |
 | [In the dark](https://open.spotify.com/track/2LXrbR5g8YtHOwsUajVA3n) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [In the dark](https://open.spotify.com/album/4f79OSrDn7wmCau5h8u1t9) | 4:01 | 2026-02-20 |  |
 | [In The Heat Of The Morning](https://open.spotify.com/track/2pAm0eho3UtxAK1bsRuOK7) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/1Rsm7e7fnLx87MDgV7w7ZM) | 2:41 | 2022-06-08 |  |
+| [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 | 2026-08-22 |  |
 | [Instant Destiny](https://open.spotify.com/track/6WCXBUFa0z3l9DoOY3k5Xe) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:14 | 2022-04-15 |  |
 | [intellectual greed](https://open.spotify.com/track/1o0hKMX2d4wIViz31dR7sG) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2025-06-21 |  |
 | [Intentions](https://open.spotify.com/track/3FbMtvXMcjmuAzlAhgwK0I) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 2:15 | 2025-09-12 |  |

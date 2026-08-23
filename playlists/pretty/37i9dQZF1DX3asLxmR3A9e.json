@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2014. Cover: BANKS",
-  "num_followers": 118929,
+  "num_followers": 118989,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-03-14 13:43:29",
       "album": {
+        "name": "Daydream Forever",
+        "url": "https://open.spotify.com/album/4WxbqJDGowHV65sJZdKAWU"
+      },
+      "artists": [
+        {
+          "name": "The Chain Gang Of 1974",
+          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
+        }
+      ],
+      "duration_ms": 217653,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/7rVVBxV1Shckul3R8alUqw"
+    },
+    {
+      "added_at": "2025-03-14 13:43:29",
+      "album": {
         "name": "After the Disco",
         "url": "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 236867,
       "name": "Holding on for Life",
       "url": "https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9"
-    },
-    {
-      "added_at": "2025-03-14 13:43:29",
-      "album": {
-        "name": "Daydream Forever",
-        "url": "https://open.spotify.com/album/4WxbqJDGowHV65sJZdKAWU"
-      },
-      "artists": [
-        {
-          "name": "The Chain Gang Of 1974",
-          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
-        }
-      ],
-      "duration_ms": 217653,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/7rVVBxV1Shckul3R8alUqw"
     },
     {
       "added_at": "2025-03-14 13:43:29",

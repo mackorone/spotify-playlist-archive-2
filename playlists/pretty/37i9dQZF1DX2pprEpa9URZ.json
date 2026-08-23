@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 917041,
+  "num_followers": 917143,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
         "name": "Before the Storm",
         "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 445210,
       "name": "Before the Storm",
       "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -199,6 +199,26 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/2eSDpMFSB9UmWGOa9tzcC4"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 290969,
       "name": "Objetos enterrados",
       "url": "https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Kamwana",
-        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
-      },
-      "artists": [
-        {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 152975,
-      "name": "Kamwana",
-      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
         "name": "Boho",
         "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 202553,
       "name": "Agua e pipa",
       "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
-        "name": "Thierry",
-        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
-      },
-      "artists": [
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 375652,
-      "name": "Thierry",
-      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2026-08-17 10:14:47",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-08-17 10:14:47",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
-    },
-    {
-      "added_at": "2026-08-17 10:14:47",
-      "album": {
         "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
         "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 451375,
       "name": "Mona Ki Ngi Xica - Everything Counts Remix",
       "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
+    },
+    {
+      "added_at": "2026-08-17 10:14:47",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 115090,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
     },
     {
       "added_at": "2026-08-17 10:14:47",

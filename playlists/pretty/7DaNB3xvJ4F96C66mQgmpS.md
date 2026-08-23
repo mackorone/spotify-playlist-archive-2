@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from YoungBoy Never Broke Again, Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 83,830 likes - 243 songs - 12 hr 23 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 83,828 likes - 243 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 29 | [Confessions](https://open.spotify.com/track/0t5Jg0F8pp7r5TUy6KW6Aa) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Confessions](https://open.spotify.com/album/3x269q50OnduXRbyEHPxU5) | 2:33 |
 | 30 | [Good Dope](https://open.spotify.com/track/2oJ0KQhHawciJV5RriP0TP) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:29 |
 | 31 | [Upgrade](https://open.spotify.com/track/0u3xMSqRjaQtuxX4CRY5f7) | [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3) | [Upgrade](https://open.spotify.com/album/7CWK9cw9sDVlYnkATklTiG) | 2:53 |
-| 32 | [Supreme Sanders](https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Supreme Sanders](https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la) | 2:22 |
+| 32 | [SUPREME SANDERS](https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SUPREME SANDERS](https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la) | 2:22 |
 | 33 | [Top Cobain](https://open.spotify.com/track/3SKyzZJvKDSabul0KwvMzn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top Cobain](https://open.spotify.com/album/7cBvKQxlZT5Cglic7x2T5r) | 3:45 |
 | 34 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
 | 35 | [Harry Potter](https://open.spotify.com/track/0wiEf8greUbMFJTu3UU3qo) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harry Potter](https://open.spotify.com/album/0dh66XoKbWrBZPXID0nlXO) | 5:35 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 51 | [In Dat Mode \(feat\. Flippa T\)](https://open.spotify.com/track/4Do4wljxELxgfDp5H5YqzB) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [Flippa T](https://open.spotify.com/artist/7ybmXfgq1wUp1tdU9Wnx1I) | [In Dat Mode](https://open.spotify.com/album/3KYH7RqONupr7224nB3KVh) | 2:24 |
 | 52 | [Gangsta Graduation \(feat\. G Herbo\)](https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gangsta Graduation \(feat\. G Herbo\)](https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR) | 3:21 |
 | 53 | [Zero IQ Freestyle \(Never Broke Again feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/10QjvprJ8xNzNK8x93Vske) | [Never Broke Again](https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Zero IQ Freestyle \(Never Broke Again feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/614YW5MUam4CfkQ40uhFKl) | 2:48 |
-| 54 | [Thug Club](https://open.spotify.com/track/4r4gzZPBiISYG3go1kuS8v) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thug Club](https://open.spotify.com/album/0E5OJv9IwZ7bFdpsWmnZY2) | 2:16 |
+| 54 | [THUG CLUB](https://open.spotify.com/track/4r4gzZPBiISYG3go1kuS8v) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [THUG CLUB](https://open.spotify.com/album/0E5OJv9IwZ7bFdpsWmnZY2) | 2:16 |
 | 55 | [CALCULATE](https://open.spotify.com/track/2iXiQ6ciWHKwEQko6RWSQu) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [CALCULATE](https://open.spotify.com/album/4Qvldnuls1LU43F3PkVLrL) | 2:04 |
 | 56 | [I HEARD \(FT\. YOUNGBOY NEVER BROKE AGAIN\)](https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:38 |
 | 57 | [Real Sisters](https://open.spotify.com/track/5GhJq5J9ZWIEDZdyw7EWzt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 2:53 |

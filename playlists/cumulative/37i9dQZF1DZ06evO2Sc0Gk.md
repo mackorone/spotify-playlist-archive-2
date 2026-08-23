@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-171 songs - 8 hr 30 min
+172 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Genging](https://open.spotify.com/track/6eLzbtSMbVP0Z6uZgjT4oE) | [Banku Music](https://open.spotify.com/artist/4zSirYAg96BEMDTNPIOY3E), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Genging](https://open.spotify.com/album/0mLjn3Kh9Q9BJShhmZHrOm) | 3:01 | 2022-02-14 | 2022-03-01 |
 | [Going Out Of My Way](https://open.spotify.com/track/0neHNQl5W4XqAarFxCnni7) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:53 | 2021-12-28 | 2023-11-11 |
 | [Happy](https://open.spotify.com/track/4K4ePgfFyaENPjNzsXIWCv) | [Yung Willis](https://open.spotify.com/artist/0499FesCSNLjH8MmbeXQmr), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Happy](https://open.spotify.com/album/0Nq2ODfFHRrbYXr35Hh6zE) | 3:10 | 2023-05-13 | 2023-12-14 |
+| [Hide Your Love](https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Dre Skull](https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK) | [Hide Your Love](https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx) | 2:37 | 2026-08-23 |  |
 | [Hollup](https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Hollup](https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj) | 4:20 | 2021-12-28 |  |
 | [I No Go Give Up On You](https://open.spotify.com/track/5gj2HpTTav81pD714RdU1O) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN) | [I No Go Give Up On You](https://open.spotify.com/album/4UZuNQHxYYKSr3c336LsvY) | 2:40 | 2022-10-12 | 2023-08-20 |
 | [I Wanna Run Away](https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I Wanna Run Away](https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY) | 2:39 | 2021-12-28 | 2023-06-05 |
@@ -102,7 +103,7 @@
 | [Make E No Tey](https://open.spotify.com/track/1HG1EuikzwOyMu1jWGQj6L) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Maison Rouge](https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I) | 3:25 | 2025-11-01 | 2026-03-16 |
 | [Mandela](https://open.spotify.com/track/4KsipOlFHPF7Qo29auvXXL) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:40 | 2023-11-10 | 2024-04-08 |
 | [Mariana](https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Mariana](https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX) | 2:28 | 2026-03-21 |  |
-| [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 | 2022-09-14 |  |
+| [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 | 2022-09-14 | 2026-08-23 |
 | [Mia Mia \(Bonus Track\)](https://open.spotify.com/track/1EATNOrIqIVFZqO7j6fngt) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Greatness](https://open.spotify.com/album/2RSJZNCDSrp8LclefaUIir) | 2:49 | 2022-10-05 | 2022-10-07 |
 | [Miss You Bad](https://open.spotify.com/track/3o8cpHgLK9x0G5eB1UusOQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos To London](https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO) | 2:56 | 2021-12-28 | 2022-05-10 |
 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 | 2022-05-09 |  |

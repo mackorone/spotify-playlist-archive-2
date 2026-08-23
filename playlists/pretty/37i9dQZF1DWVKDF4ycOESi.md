@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani delle ultime due settimane dei Fontaines D.C., Farruko,  KATSEYE, Jungle, HUGEL e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,798 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,785 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

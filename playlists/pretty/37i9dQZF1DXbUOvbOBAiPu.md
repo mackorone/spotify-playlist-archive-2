@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Roxy Dekker, Joseph Kamel x Vitaa, Fontaines D.C\. and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,221 likes - 97 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,220 likes - 97 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

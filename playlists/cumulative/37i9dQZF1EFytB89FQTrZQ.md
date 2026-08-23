@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-585 songs - 1 day 9 hr 12 min
+586 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,8 @@
 | [Sweet Melody](https://open.spotify.com/track/7tDXKvR41asAMSVF0KAlBz) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Sweet Melody \(Official Video\)](https://open.spotify.com/album/5APiRHRllqL2WynbPS9IHG) | 3:32 | 2023-12-14 | 2024-02-01 |
 | [Sweet Melody](https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:33 | 2022-09-08 |  |
 | [SXWME \(feat\. Jay Park\)](https://open.spotify.com/track/5PzJ6T2iKxIjst96NiVFJx) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Coolwater + Identity](https://open.spotify.com/album/55XunovJjgmmrRjdXOAWQE) | 3:33 | 2025-01-09 | 2025-04-12 |
-| [Take Me Somewhere](https://open.spotify.com/track/23VVDS6j7vW6ZJHFII7EiP) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 2:57 | 2025-04-17 |  |
+| [Take Me Somewhere](https://open.spotify.com/track/23VVDS6j7vW6ZJHFII7EiP) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 2:57 | 2025-04-17 | 2026-08-23 |
+| [Take Me Somewhere](https://open.spotify.com/track/3GN5xcws6AdpMVAne4hgS2) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6vjnPjYMo1OHS1IdknAuoW) | 2:57 | 2026-08-22 |  |
 | [Taste](https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 2:50 | 2026-01-17 |  |
 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 | 2024-09-25 |  |
 | [Tequila](https://open.spotify.com/track/2LqwV6UF8PGnoEtqw8nYzN) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Tequila](https://open.spotify.com/album/2SDHS19pVLQt02yHehI6BJ) | 3:48 | 2023-12-13 | 2024-02-02 |

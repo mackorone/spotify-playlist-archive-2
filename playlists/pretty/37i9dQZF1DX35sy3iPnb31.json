@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: girlsweetvoiced",
-  "num_followers": 2365,
+  "num_followers": 2372,
   "original_name": "Editors' Picks: Best Canadian Songs of July",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "ATMANS",
         "url": "https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
+        "name": "LiveFromTheBoonies.",
+        "url": "https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6"
       },
       "artists": [
         {
-          "name": "Andye",
-          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc"
+      "duration_ms": 105974,
+      "name": "LiveFromTheBoonies.",
+      "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -499,22 +515,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "LiveFromTheBoonies.",
-        "url": "https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6"
-      },
-      "artists": [
-        {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
-        }
-      ],
-      "duration_ms": 105974,
-      "name": "LiveFromTheBoonies.",
-      "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Bad Timing",
         "url": "https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 256034,
       "name": "Bad Timing",
       "url": "https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "RaGDOLL",
-        "url": "https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 204313,
-      "name": "RaGDOLL",
-      "url": "https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -563,6 +547,22 @@
       "duration_ms": 151794,
       "name": "Billo",
       "url": "https://open.spotify.com/track/2PrWSD6ZQcygasN8Bk7384"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "RaGDOLL",
+        "url": "https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 204313,
+      "name": "RaGDOLL",
+      "url": "https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Party Animal",
-        "url": "https://open.spotify.com/album/6i3GF9CpBa8eq5aQs55Xew"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Party Animal",
-      "url": "https://open.spotify.com/track/5eTwF5hRGuoWNhDgTZErwA"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "La fin",
         "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 220493,
       "name": "La fin",
       "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/6i3GF9CpBa8eq5aQs55Xew"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/5eTwF5hRGuoWNhDgTZErwA"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Ma Chance",
-        "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
-      },
-      "artists": [
-        {
-          "name": "A Girl Named Sue",
-          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Ma Chance",
-      "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Don't Eat Don't Sleep",
         "url": "https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 212000,
       "name": "Don't Eat Don't Sleep",
       "url": "https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Ma Chance",
+        "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
+      },
+      "artists": [
+        {
+          "name": "A Girl Named Sue",
+          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Ma Chance",
+      "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
     },
     {
       "added_at": "2026-07-31 15:05:53",

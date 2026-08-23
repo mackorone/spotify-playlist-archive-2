@@ -1,6 +1,6 @@
 {
   "description": "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2026 official playlist. Cover: Chappell Roan.",
-  "num_followers": 18878,
+  "num_followers": 18877,
   "original_name": "New Year's Rockin' Eve",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-12-29 17:14:31",
       "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 147209,
+      "name": "Blue Strips",
+      "url": "https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT"
+    },
+    {
+      "added_at": "2025-12-29 17:14:31",
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/1ZWSVbbHLBkDxohWmqOhzK"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 223711,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/2H4MC4UVMBqDmv7pd8jX1v"
-    },
-    {
-      "added_at": "2025-12-29 17:14:31",
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 147209,
-      "name": "Blue Strips",
-      "url": "https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT"
     },
     {
       "added_at": "2025-12-29 17:14:31",

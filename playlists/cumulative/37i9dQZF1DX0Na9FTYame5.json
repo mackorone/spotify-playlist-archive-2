@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 174673,
       "name": "6 Minuten",
       "url": "https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI"
@@ -641,7 +641,7 @@
     },
     {
       "album": {
-        "name": "art attack",
+        "name": "Art Attack",
         "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
       },
       "artists": [
@@ -658,7 +658,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166896,
-      "name": "art attack",
+      "name": "Art Attack",
       "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
     },
     {
@@ -7452,7 +7452,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 179032,
       "name": "Weg hier raus",
       "url": "https://open.spotify.com/track/0cSyRUIjVZh1sUIGBhWdWp"

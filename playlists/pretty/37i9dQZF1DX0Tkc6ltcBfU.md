@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Pooh Shiesty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,169 likes - 106 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,152 likes - 106 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

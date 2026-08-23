@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-713 songs - 2 day 10 hr 18 min
+714 songs - 2 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Berlin](https://open.spotify.com/track/7417sWBafxcD9NxZ7DbSMW) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Berlin](https://open.spotify.com/album/0Ec1kkdXl9Sxc5XB7SDt1W) | 3:22 | 2025-10-10 | 2026-06-06 |
 | [Between Us](https://open.spotify.com/track/4gha3RdrDG21s30NF3PTeT) | [Beraber](https://open.spotify.com/artist/1cD9tbKLNxATeTNNBpDDAx) | [Between Us / Afterthought](https://open.spotify.com/album/4CwX824ZzaFrfjSPFrGUpS) | 6:34 | 2026-05-15 | 2026-07-12 |
 | [Big Trip Believing](https://open.spotify.com/track/3xe8P71ZbZ7fc6UQbb8lfh) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1) | [Big Trip Believing](https://open.spotify.com/album/78eOlGIDGq0f0ZiAUzWN22) | 3:42 | 2024-11-22 |  |
+| [Bindweed](https://open.spotify.com/track/2nBWNhMPq8yUXMePsq25Ki) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Bindweed](https://open.spotify.com/album/3dS6YTQ6MX7QvmMPRaHFxb) | 3:42 | 2026-08-21 |  |
 | [Birdsong](https://open.spotify.com/track/15M45gEcIKFSLJqdEHrL6R) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Murmuration](https://open.spotify.com/album/7adyZcz9U5o44Q7sn1umNl) | 3:42 | 2024-07-12 | 2026-01-25 |
 | [Blasphemy](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko) | [Blasphemy](https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW) | 3:09 | 2023-10-28 | 2025-09-06 |
 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 | 2025-02-01 |
@@ -622,7 +623,7 @@
 | [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 | 2022-10-28 | 2024-08-10 |
 | [Tears](https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd) | 8:47 | 2023-11-17 | 2024-04-19 |
 | [The Crown](https://open.spotify.com/track/76rmPDUCuf6IDdYMzDMURR) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [The Crown](https://open.spotify.com/album/4aKmGcRsqb2ENQEMsQO1Ys) | 3:04 | 2025-08-29 | 2026-05-23 |
-| [The Hard Way](https://open.spotify.com/track/2LxFLV3dgQe6Uda8hsxa85) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [The Hard Way](https://open.spotify.com/album/5m2Q3oK9YWukiHXI378NDy) | 3:04 | 2026-05-15 |  |
+| [The Hard Way](https://open.spotify.com/track/2LxFLV3dgQe6Uda8hsxa85) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [The Hard Way](https://open.spotify.com/album/5m2Q3oK9YWukiHXI378NDy) | 3:04 | 2026-05-15 | 2026-08-23 |
 | [The Lights \- HANA Remix](https://open.spotify.com/track/7bwi46wM1XxbR6iGNfFFWV) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [The Lights \(HANA Remix\)](https://open.spotify.com/album/2ciw6n34rRHIFd7GvUEhRc) | 3:08 | 2025-09-05 |  |
 | [The Melody \- Henrik Schwarz Remix](https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [The Melody \(Henrik Schwarz Remix\)](https://open.spotify.com/album/3PwiGONOF33KuHMmCmyUxM) | 7:41 | 2021-12-08 | 2024-04-13 |
 | [the mirror](https://open.spotify.com/track/00i5lwTpbdEq3Cp9m3oB88) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [the mirror](https://open.spotify.com/album/1TEjpHuMWHgpxmE1MPzCFX) | 8:54 | 2021-12-08 | 2022-11-21 |

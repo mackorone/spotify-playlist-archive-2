@@ -1,6 +1,6 @@
 {
   "description": "A decade full of 00s country hits! Cover: Miranda Lambert",
-  "num_followers": 1002684,
+  "num_followers": 1002878,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 242733,
       "name": "Drive (For Daddy Gene)",
       "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Long Black Train",
-        "url": "https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "Long Black Train",
-      "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "I'll Stay Me",
         "url": "https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 242800,
       "name": "All My Friends Say",
       "url": "https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Long Black Train",
+        "url": "https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Phil Vassar",
-        "url": "https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC"
-      },
-      "artists": [
-        {
-          "name": "Phil Vassar",
-          "url": "https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Just Another Day In Paradise",
-      "url": "https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 242826,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Phil Vassar",
+        "url": "https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC"
+      },
+      "artists": [
+        {
+          "name": "Phil Vassar",
+          "url": "https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Just Another Day In Paradise",
+      "url": "https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW"
     },
     {
       "added_at": "2026-06-02 19:14:03",

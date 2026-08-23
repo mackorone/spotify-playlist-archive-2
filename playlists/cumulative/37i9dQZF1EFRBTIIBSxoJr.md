@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 44 min
+176 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,8 @@
 | [Hit The Ceiling](https://open.spotify.com/track/4qK2OPcn4ABsV4n71ICer0) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 4:19 | 2024-03-01 |  |
 | [Honest Man](https://open.spotify.com/track/6hvwdsJpK0YWAi6Zf8jyRf) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:46 | 2024-03-01 |  |
 | [Horror Movie](https://open.spotify.com/track/2N5AAoeXTv2j2b6uRo04cO) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [PRINCE$$ ROSIE](https://open.spotify.com/artist/5xmmPJI0GyVKVFRL82Ei2L) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 1:57 | 2024-03-01 |  |
+| [I Always Will](https://open.spotify.com/track/10W3rtMQO1um2kZ8g85y4J) | [Chelsey Johnson](https://open.spotify.com/artist/0eAGQLuupjn9nkE54w3S2G) | [I Always Will](https://open.spotify.com/album/2X1GobXcnd7c5OYf4vpVRl) | 3:55 | 2026-08-22 |  |
+| [I Do](https://open.spotify.com/track/1lcsApoi57xfCRUsmcD7pk) | [Red](https://open.spotify.com/artist/0zr3lEdAVIcvw08DqEMsNh) | [I Do](https://open.spotify.com/album/3ZdQabmNPCW6Kp0XbxwcDw) | 3:19 | 2026-08-22 |  |
 | [I Still Believe](https://open.spotify.com/track/5ij14NvXSzabsmGSNFgrTe) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:38 | 2025-01-09 | 2025-04-12 |
 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 | 2024-03-01 |  |
 | [In the Name of Love](https://open.spotify.com/track/0VWUhOUNIVOfUoBaq7xqMo) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [The Martin Garrix Experience](https://open.spotify.com/album/3UwcZ5menPSCTvdxyYgxZj) | 3:15 | 2024-03-01 | 2024-06-25 |

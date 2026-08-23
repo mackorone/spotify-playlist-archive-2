@@ -1,4 +1,4 @@
-## Playlists \(9314\)
+## Playlists \(9315\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - ["Wuthering Heights" Official Playlist](/playlists/pretty/37i9dQZF1DWXeFtiUMSxKD.md)
@@ -6851,6 +6851,7 @@
 - [This Is Jon Hassell](/playlists/pretty/37i9dQZF1DZ06evO38zEjl.md)
 - [This Is Jon Pardi](/playlists/pretty/37i9dQZF1DWZF4A4SdCRyp.md)
 - [This Is Jonas Blue](/playlists/pretty/37i9dQZF1DZ06evO0X3Z1S.md)
+- [This Is Jonas Brothers](/playlists/pretty/37i9dQZF1DZ06evO4iMvyE.md)
 - [This Is Joni Mitchell](/playlists/pretty/37i9dQZF1DX94esvuBEVw6.md)
 - [This Is Jordan Davis](/playlists/pretty/37i9dQZF1DZ06evO4d4SIi.md)
 - [This Is Jorja Smith](/playlists/pretty/37i9dQZF1DZ06evO0TW7y8.md)

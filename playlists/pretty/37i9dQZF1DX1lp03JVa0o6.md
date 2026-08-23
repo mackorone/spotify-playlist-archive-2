@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Odd Mob & OMNOM \(HYPERBEAM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,896 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,875 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 24 | [Barthelona](https://open.spotify.com/track/0SYOYm0e54czc1wHToxLBh) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Barthelona](https://open.spotify.com/album/0RQfxB3rNoZ8zFJhBUPoLM) | 2:40 |
 | 25 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
 | 26 | [Higher \(feat\. Rita Ora\)](https://open.spotify.com/track/68ROeDTnieAmMrQrMJlnsY) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Higher \(feat\. Rita Ora\)](https://open.spotify.com/album/1KLlMRa36B3s4E4s11wcDh) | 2:30 |
-| 27 | [Dracula \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
+| 27 | [Dracula \(with JENNIE\) \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(with JENNIE\) \[Boys Noize Disko Version\]](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
 | 28 | [Untouched](https://open.spotify.com/track/5Cxkx4cyKOVA63mXYRay4y) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Untouched](https://open.spotify.com/album/5eMstufN0xSZjaMXjNezsQ) | 3:02 |
 | 29 | [Now That I'm Falling](https://open.spotify.com/track/6jXKPAGT30YT1E4ovVdHOH) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [LIVE FAST](https://open.spotify.com/album/35J4iFfqzJ8qOqMj2bGllH) | 4:00 |
 | 30 | [For The Girls](https://open.spotify.com/track/2FcpOyFM5JRkKW7Y5xB3vX) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [For The Girls](https://open.spotify.com/album/52KpLYqodi1WCoHL4Cljdq) | 2:30 |

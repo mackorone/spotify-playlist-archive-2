@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 319399,
       "name": "Alak Alak",
       "url": "https://open.spotify.com/track/5okjGjbI5S9GON1fM0delO"
@@ -3922,6 +3922,24 @@
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
+        "name": "THE SIN : BLISS (Chinese Ver.)",
+        "url": "https://open.spotify.com/album/7LhAjABx06c9Zf6yIEcA4N"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Bloody Paradise",
+      "url": "https://open.spotify.com/track/0lkDoxNvtLUNZcWnm9f8lF"
     },
     {
       "album": {
@@ -8486,7 +8504,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 325825,
       "name": "Ebtalenah",
       "url": "https://open.spotify.com/track/1ArkNgsSkppcMWXcyQunFk"
@@ -11932,7 +11950,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 295157,
       "name": "Habibi Howa",
       "url": "https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X"
@@ -33420,7 +33438,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 377393,
       "name": "\u0627\u0628\u0648\u0633 \u0627\u064a\u062f\u0643",
       "url": "https://open.spotify.com/track/50ZKfaD2FGJrZsVAp2wBt8"
@@ -34596,7 +34614,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 321689,
       "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/6Yyou08EWcxFXJVL7gnGeD"

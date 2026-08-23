@@ -1,29 +1,13 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 206877,
+  "num_followers": 206929,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAAN3l8+Veake9imj6aJ4XO/",
+  "snapshot_id": "aoeVAAAAAABYxLypDrRdCuIlgwnPF1hr",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Nadie Sepa",
-        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Que Nadie Sepa",
-      "url": "https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Nadie Sepa",
+        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Que Nadie Sepa",
+      "url": "https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "La Chica Est\u00e1 Enojada",
-      "url": "https://open.spotify.com/track/4AqXQptYKEAwnuVtGk3zyR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevamente El Amor",
         "url": "https://open.spotify.com/album/7qFy8pz6riHrOQLtFHjXcF"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 175693,
       "name": "Nuevamente El Amor",
       "url": "https://open.spotify.com/track/3ADa5NLyUgz1mUGpJZ8ZGh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "La Chica Est\u00e1 Enojada",
+      "url": "https://open.spotify.com/track/4AqXQptYKEAwnuVtGk3zyR"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Qu\u00e9 M\u00e1s Da",
-        "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "Amor Chiquito",
-      "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 188146,
       "name": "Por Las Damas",
       "url": "https://open.spotify.com/track/3yg2klWupt24TGYuxeOhjS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Amor Chiquito",
+      "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuego Contra Fuego",
-        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Fuego Contra Fuego",
-      "url": "https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Canciones Y Tequila",
         "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 179786,
       "name": "No Te Imaginas",
       "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuego Contra Fuego",
+        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Fuego Contra Fuego",
+      "url": "https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 149186,
-      "name": "D\u00edmelo Cantando",
-      "url": "https://open.spotify.com/track/4KtPU3QVYgEZMCSsz5lIu8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Norte A Sur",
         "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 198533,
       "name": "Y Que Ganaste",
       "url": "https://open.spotify.com/track/1VvSdnL2tZsNWZtc865PxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 149186,
+      "name": "D\u00edmelo Cantando",
+      "url": "https://open.spotify.com/track/4KtPU3QVYgEZMCSsz5lIu8"
     },
     {
       "added_at": null,

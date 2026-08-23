@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,333 songs - 5 day 0 hr 59 min
+2,335 songs - 5 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 | 2026-02-22 |
 | [Change](https://open.spotify.com/track/6CK581mr24h7z7bFpwhHmm) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Change](https://open.spotify.com/album/2hxKPuoKlnH6ZMInQ3Xg9x) | 3:42 | 2021-12-16 | 2022-03-11 |
 | [Chasing \(feat\. NEIMY\)](https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Chasing \(feat\. NEIMY\)](https://open.spotify.com/album/2x2wq5Et0dUu1lLnYv07vc) | 2:28 | 2023-01-19 | 2023-10-06 |
-| [Cherry Blossom Sky](https://open.spotify.com/track/63HUPODfR1TEcUNvMtYnkh) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Cherry Blossom Sky](https://open.spotify.com/album/1ZtzSXlEjlLwJLYlLjBSnB) | 2:32 | 2026-05-04 |  |
+| [Cherry Blossom Sky](https://open.spotify.com/track/63HUPODfR1TEcUNvMtYnkh) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Cherry Blossom Sky](https://open.spotify.com/album/1ZtzSXlEjlLwJLYlLjBSnB) | 2:32 | 2026-05-04 | 2026-08-23 |
 | [Cherry On Top](https://open.spotify.com/track/27prlvK4avPPpYntCg7wEo) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Cherry On Top](https://open.spotify.com/album/1ThLpe0d8lTwMNRuSTtRqM) | 3:00 | 2024-03-21 | 2024-05-03 |
 | [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 | 2025-01-02 | 2025-05-02 |
 | [Childhood Dreams](https://open.spotify.com/track/4iVw5xhBCq3SE45d7K5T1O) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Childhood Dreams](https://open.spotify.com/album/2NyPWRjLfQZjejlgVidDAf) | 3:03 | 2023-08-25 | 2023-09-15 |
@@ -766,6 +766,7 @@
 | [go cowboy](https://open.spotify.com/track/1RvUSGdtvcHtWcO5bznlRA) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [big bite mixtape](https://open.spotify.com/album/6S90qib2tu9vmn1CYAU72T) | 2:49 | 2025-07-28 | 2025-09-12 |
 | [GoGetter](https://open.spotify.com/track/1i3CHFEK8QXKu9Rbt6Oaci) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [GoGetter](https://open.spotify.com/album/6VH0BeeYUr8WcTZMGw7l4J) | 2:39 | 2024-05-16 | 2024-06-14 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-25 | 2023-08-07 |
+| [Gold](https://open.spotify.com/track/1uFpnwSAYRNEQkzoetbqXC) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Gold](https://open.spotify.com/album/72IjySZa6oaEv9jXQ3n6IS) | 3:03 | 2026-08-20 |  |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-06-23 | 2023-08-17 |
 | [Goldfish](https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Goldfish](https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV) | 3:06 | 2025-05-01 | 2025-07-18 |
 | [Golvet i hallen](https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Golvet i hallen](https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW) | 3:06 | 2023-03-30 | 2023-06-25 |
@@ -1493,6 +1494,7 @@
 | [Ocean In Me](https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Ocean In Me](https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg) | 2:58 | 2024-01-04 | 2024-03-08 |
 | [Ocean Of Love](https://open.spotify.com/track/0HuzGszWURfPh46OS02wyn) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Ocean Of Love](https://open.spotify.com/album/4OEcpFgO5HBSaGm0NzLDKd) | 2:57 | 2023-08-10 | 2023-11-17 |
 | [Och blir en del av mig inuti](https://open.spotify.com/track/2pJewvGTgUrbHNHfN3Wg0S) | [Sara Thuresson](https://open.spotify.com/artist/3nYlkEt5H6K6uCoL7VBuq9) | [Och blir en del av mig inuti](https://open.spotify.com/album/29ZQuXmHQXcUSUjMIhg6K6) | 3:00 | 2024-02-08 | 2024-02-16 |
+| [Off My Mind](https://open.spotify.com/track/4qMVitILFfuxq1EolLLH0s) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [In the Margins, In Shades of Pale Blue](https://open.spotify.com/album/3SqvwWh7vGWCIttQCJKIgU) | 3:31 | 2026-08-20 |  |
 | [Oh Baby](https://open.spotify.com/track/5KeJHKaYCrj7zlCmUQFJgM) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:45 | 2021-12-16 | 2022-05-13 |
 | [Oh love](https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Oh love](https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67) | 4:16 | 2024-04-04 | 2024-05-10 |
 | [Oh My Gosh \- Radio Edit](https://open.spotify.com/track/2Lkinol3uHMW16xzcxXmpK) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Oh My Gosh \(Radio Edit\)](https://open.spotify.com/album/3qTU0a1gPO6VC3RA4VQZ8G) | 3:07 | 2024-01-18 | 2024-01-21 |
@@ -2061,7 +2063,7 @@
 | [Together](https://open.spotify.com/track/1Z5LUX0cHKI6V3aAQ9AfNQ) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Together](https://open.spotify.com/album/4NuQmXyWmVWl7vaFtWSp81) | 2:59 | 2023-12-08 | 2024-03-08 |
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-10-20 |
 | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP) | 2:22 | 2026-06-11 |  |
-| [Tomma läppar](https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf) | [Kid](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Tomma läppar](https://open.spotify.com/album/00q31p6qqDvVBNi7Y0oYv4) | 2:58 | 2026-05-14 |  |
+| [Tomma läppar](https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf) | [Kid](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Tomma läppar](https://open.spotify.com/album/00q31p6qqDvVBNi7Y0oYv4) | 2:58 | 2026-05-14 | 2026-08-23 |
 | [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 | 2025-12-29 | 2026-03-20 |
 | [Too Kind](https://open.spotify.com/track/5EbEsJFurAUO2WrMjr5ppZ) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Too Kind](https://open.spotify.com/album/5VCfwebiNPDB2Zgi4rSvbH) | 2:54 | 2024-01-25 | 2024-01-28 |
 | [Torka dina tårar](https://open.spotify.com/track/1J1IL6aC8k8q64ecwOUlSw) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Torka dina tårar](https://open.spotify.com/album/2GK7kCZljQxjGzDSnlq91N) | 3:12 | 2024-05-30 | 2024-06-28 |

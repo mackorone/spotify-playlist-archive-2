@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 
 > This is Rio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,942 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,943 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 16 | [Y Lloro](https://open.spotify.com/track/2sK7V3dEOks0kZQ0u6qY8T) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:44 |
 | 17 | [Cómo Te Va](https://open.spotify.com/track/2aaa3V2VnmUu3zCjCgLHYd) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 3:39 |
 | 18 | [Abandonado](https://open.spotify.com/track/4CylgVA9Bc2IBguAB86S8Z) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:28 |
-| 19 | [Pierdo la Razón](https://open.spotify.com/track/46jGMyvOhutyYjxGCmdDD1) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:15 |
-| 20 | [Mi Partido Lo Hará \(Los Políticos\)](https://open.spotify.com/track/3zdQwqFZsh6QMONfCjxAoC) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:09 |
+| 19 | [Mi Partido Lo Hará \(Los Políticos\)](https://open.spotify.com/track/3zdQwqFZsh6QMONfCjxAoC) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:09 |
+| 20 | [Pierdo la Razón](https://open.spotify.com/track/46jGMyvOhutyYjxGCmdDD1) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:15 |
 | 21 | [Historias](https://open.spotify.com/track/2SdR8B83ld7jUZg2F3BQ7i) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 4:16 |
 | 22 | [Lejos de Ti](https://open.spotify.com/track/1bdFcIjah87msquSrk7nvl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:29 |
 | 23 | [SOLO](https://open.spotify.com/track/3zC5KP49SB7OMZPXMArUiR) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [SOLO](https://open.spotify.com/album/6SQoSCiVveVIGqeL9pa7JS) | 3:34 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 36 | [Nos Van a Escuchar](https://open.spotify.com/track/0ydZwMus6teAlHjJ9EExVT) | [Christian Yaipen](https://open.spotify.com/artist/58ecNT3znxQ7I6B971ZYC1), [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93), [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E), [Ana Kohler](https://open.spotify.com/artist/1n64fyKoGQT4u1979QUerO), [Nicole Pillman](https://open.spotify.com/artist/3zzlgX9XsSkchvcPAK92ff), [Jean Paul Strauss](https://open.spotify.com/artist/1ww2z9bVWMR1jjVJWpNM9e), [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Amanda Portales](https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51), [Marco Romero](https://open.spotify.com/artist/5ZCR8gHM2UuU0JxuuFGduI), [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ), [Julio Andrade](https://open.spotify.com/artist/1WW69I4nXYzMTxkA63WCOe) | [Nos Van a Escuchar](https://open.spotify.com/album/6Y0RNqz4faP11dGgasMaMJ) | 2:37 |
 | 37 | [No Puedes Olvidarme](https://open.spotify.com/track/4YjgkkJfnxL8CbrNJr1ZNG) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 2:34 |
 | 38 | [Para Amarte](https://open.spotify.com/track/2AU3KqGwiwL7CCsfRFJqj7) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:07 |
-| 39 | [Estoy Cantando](https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [De Vuelta al Barrio Vol.1](https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM) | 3:01 |
-| 40 | [Mónica](https://open.spotify.com/track/48YO39ZxZzwHxFxj4GJYIH) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:51 |
-| 41 | [Apago la Luz](https://open.spotify.com/track/5yL1rZLvCG55hMrxjTPujx) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 3:37 |
-| 42 | [Si No](https://open.spotify.com/track/2Dz7WmYcFVQo37Okmaecwb) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 3:59 |
+| 39 | [Si No](https://open.spotify.com/track/2Dz7WmYcFVQo37Okmaecwb) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 3:59 |
+| 40 | [Apago la Luz](https://open.spotify.com/track/5yL1rZLvCG55hMrxjTPujx) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 3:37 |
+| 41 | [Mónica](https://open.spotify.com/track/48YO39ZxZzwHxFxj4GJYIH) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:51 |
+| 42 | [Estoy Cantando](https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [De Vuelta al Barrio Vol.1](https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM) | 3:01 |
 | 43 | [Tu y Yo](https://open.spotify.com/track/1p2oJoXRiijbnW3V0VvNLX) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Tu y Yo](https://open.spotify.com/album/5hglsSmv0KUkQ51n14g7dO) | 3:04 |
-| 44 | [Esa Luz Se Va](https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq) | 3:34 |
-| 45 | [Dicen Que el Viento](https://open.spotify.com/track/5bJc6GGoUyB1Rt1MLmbZKi) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 3:58 |
-| 46 | [Nena Rescátame](https://open.spotify.com/track/2Pd4CQbyrcXyONvUG412PK) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 2:45 |
+| 44 | [Dicen Que el Viento](https://open.spotify.com/track/5bJc6GGoUyB1Rt1MLmbZKi) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 3:58 |
+| 45 | [Nena Rescátame](https://open.spotify.com/track/2Pd4CQbyrcXyONvUG412PK) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 2:45 |
+| 46 | [Esa Luz Se Va](https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq) | 3:34 |
 | 47 | [Niños](https://open.spotify.com/track/3ZbEy885gVoMyywzvKFl31) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:32 |
-| 48 | [¡Vamos a Volver!](https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e) | 2:59 |
-| 49 | [No Es Tan Fácil](https://open.spotify.com/track/6zdPG56e0wuZZIqes8xBTl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 3:11 |
-| 50 | [Está en la Música](https://open.spotify.com/track/15ua6CkFnuyUj4GkSMgdYh) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 4:00 |
+| 48 | [No Es Tan Fácil](https://open.spotify.com/track/6zdPG56e0wuZZIqes8xBTl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 3:11 |
+| 49 | [Está en la Música](https://open.spotify.com/track/15ua6CkFnuyUj4GkSMgdYh) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 4:00 |
+| 50 | [¡Vamos a Volver!](https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e) | 2:59 |
 
-Snapshot ID: `aoZDgAAAAAAWA5ehlEtMPzf5og1jyKfI`
+Snapshot ID: `aoeVAAAAAABQACT5d0fHjKZY8Y1m77O5`

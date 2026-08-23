@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 380663,
+  "num_followers": 380688,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -399,46 +399,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "A Nossa F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP"
-      },
-      "artists": [
-        {
-          "name": "Juninho Cassimiro",
-          "url": "https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 724172,
-      "name": "A Nossa F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
-        "name": "Milagre de Amor",
-        "url": "https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 256824,
-      "name": "Milagre de Amor",
-      "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Voc\u00ea Vai Chegar",
         "url": "https://open.spotify.com/album/1kG2m6EM1BwfJ0fYvIJ1v0"
       },
@@ -463,6 +423,46 @@
       "duration_ms": 300089,
       "name": "Voc\u00ea Vai Chegar",
       "url": "https://open.spotify.com/track/4leQkS7OykGQT6isQoiLCr"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Milagre de Amor",
+        "url": "https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 256824,
+      "name": "Milagre de Amor",
+      "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "A Nossa F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP"
+      },
+      "artists": [
+        {
+          "name": "Juninho Cassimiro",
+          "url": "https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 724172,
+      "name": "A Nossa F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -591,22 +591,22 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Todos os Minutos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QYwx3MBDKFPponl7UKH21"
+        "name": "Atr\u00e1s do Temporal",
+        "url": "https://open.spotify.com/album/7DxudzZT8MjDJyjT6iEt4e"
       },
       "artists": [
         {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
         },
         {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
         }
       ],
-      "duration_ms": 371242,
-      "name": "Todos os Minutos - Ao Vivo",
-      "url": "https://open.spotify.com/track/6bxLtwqewzPeONN9tsaOae"
+      "duration_ms": 275242,
+      "name": "Atr\u00e1s do Temporal",
+      "url": "https://open.spotify.com/track/72RRX9piGwAcHYrIQ6eqnN"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -651,22 +651,22 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Atr\u00e1s do Temporal",
-        "url": "https://open.spotify.com/album/7DxudzZT8MjDJyjT6iEt4e"
+        "name": "Todos os Minutos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QYwx3MBDKFPponl7UKH21"
       },
       "artists": [
         {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
         },
         {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
         }
       ],
-      "duration_ms": 275242,
-      "name": "Atr\u00e1s do Temporal",
-      "url": "https://open.spotify.com/track/72RRX9piGwAcHYrIQ6eqnN"
+      "duration_ms": 371242,
+      "name": "Todos os Minutos - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bxLtwqewzPeONN9tsaOae"
     },
     {
       "added_at": "2026-08-07 14:21:56",

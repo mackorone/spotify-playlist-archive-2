@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Montez
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,317 likes - 90 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,247 likes - 90 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

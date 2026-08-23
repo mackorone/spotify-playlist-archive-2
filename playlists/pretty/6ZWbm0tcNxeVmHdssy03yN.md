@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,502 likes - 99 songs - 5 hr 8 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,501 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 6 | [Carol / not carol](https://open.spotify.com/track/5q94hPY3GrjhCUet14nIdl) | [Ruby Gill](https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU) | [Carol / not carol](https://open.spotify.com/album/1gDhE3043O3EnYRZR4f0wi) | 4:21 |
 | 7 | [Just You](https://open.spotify.com/track/5UK5VhaYT5DtjPWAVauRxZ) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [Vision](https://open.spotify.com/album/4ENXNuwSUlw8MCAgA1AbkK) | 2:43 |
 | 8 | [Sign of the Times](https://open.spotify.com/track/3A5JKGTWej34nGhG2PVYqA) | [Robert Marcko](https://open.spotify.com/artist/5M0spwcpLFEbxPsv1t1KFu) | [Sign of the Times](https://open.spotify.com/album/6uzAGVKbKhLgYWSk0TGlu4) | 2:48 |
-| 9 | [Low End Skeeza \(Archangel Remix\)](https://open.spotify.com/track/6XJ247eRHExD3Vt4EzVaVx) | [sha ray](https://open.spotify.com/artist/6kHupYxKkDFa7hIlQTu4ON), [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Critical Thot \[Extended Edition\]](https://open.spotify.com/album/5aPf0r92WHR6WaTbGJvi2w) | 3:20 |
+| 9 | [Low End Skeeza \(Archangel Remix\)](https://open.spotify.com/track/6XJ247eRHExD3Vt4EzVaVx) | [sha ray](https://open.spotify.com/artist/6kHupYxKkDFa7hIlQTu4ON), [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl), [Archangel](https://open.spotify.com/artist/0OGu6nIWmkhpVoxYltbBhK) | [Critical Thot \[Extended Edition\]](https://open.spotify.com/album/5aPf0r92WHR6WaTbGJvi2w) | 3:20 |
 | 10 | [Back Into It](https://open.spotify.com/track/2fpBl6CLmbGJ6bT4IBt6Vm) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Back Into It](https://open.spotify.com/album/7yZyK2GrqfCmXu7rc5mrQM) | 2:07 |
 | 11 | [ethel st](https://open.spotify.com/track/06rlVKwGctqZsKsXVPYJYo) | [Emma Yue](https://open.spotify.com/artist/3cc1hCCUelDAL7Dn5Bj06r) | [ethel st](https://open.spotify.com/album/4R4HACUAvMV9VzXGwWu6Ye) | 2:18 |
 | 12 | [Trust What You Feel](https://open.spotify.com/track/6zIa4VtaU9SibgQ5oPfgPa) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Trust What You Feel](https://open.spotify.com/album/18odGiiVmwUpgixm8moF14) | 3:46 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 21 | [PINK CIGARETTE](https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [PINK CIGARETTE](https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh) | 2:42 |
 | 22 | [MR MONEY](https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [MR MONEY](https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI) | 2:33 |
 | 23 | [Up My Profit](https://open.spotify.com/track/2rqoUrbHpznposZvn2I0H9) | [Adamn Killa](https://open.spotify.com/artist/2AwAtRmbmsuIr40rJFIWlv) | [Up My Profit](https://open.spotify.com/album/6J8LZpk2WWDaK5WK8Fzzjs) | 2:25 |
-| 24 | [Confidence](https://open.spotify.com/track/3tTuEr9baws73DZgQYICfe) | [SINGAAX](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Drippy](https://open.spotify.com/artist/1jkknDhiQJBRpS9DIbf8QA) | [Punjab's Blood](https://open.spotify.com/album/0RSf8YEGSGEWfYeWWV5SGd) | 3:26 |
+| 24 | [Confidence](https://open.spotify.com/track/3tTuEr9baws73DZgQYICfe) | [SINGAAX](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Drippy](https://open.spotify.com/artist/3ni9YvjyMo7oSCysU4OuVB) | [Punjab's Blood](https://open.spotify.com/album/0RSf8YEGSGEWfYeWWV5SGd) | 3:26 |
 | 25 | [Palimpsest](https://open.spotify.com/track/3peZ427W4kCw4jkRg4KMWY) | [CLAVVS](https://open.spotify.com/artist/2JcWOIfDeHESCg42COyDy1) | [Palimpsest](https://open.spotify.com/album/75X6uZt8CQGy9dbpBRf23z) | 3:12 |
 | 26 | [Ghost \(Live in Studio\)](https://open.spotify.com/track/6MPqKJP6SvCAVBtk8QDRHU) | [Kweku Collins](https://open.spotify.com/artist/2SPt3i9sJKS1qiMQQQr9LS) | [Ghost \(Live in Studio\)](https://open.spotify.com/album/6fC0vHVr8F4rLOqq9HRyOi) | 2:53 |
 | 27 | [Not a Freak](https://open.spotify.com/track/4pwakubp5f82kJxcHaF2n7) | [Vybez Music Group](https://open.spotify.com/artist/2zEODMVYbwqkhNgYSmfkuI), [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [j5ytee](https://open.spotify.com/artist/6x21st3uNy9T6nK2aBM150), [MvnnyMusik](https://open.spotify.com/artist/1cIi2cw0EgmYbzQyQmsQHp) | [Not a Freak](https://open.spotify.com/album/4lWHc6DmUu1b9KpLmdGkOW) | 2:47 |

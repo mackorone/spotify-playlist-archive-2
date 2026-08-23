@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4886,
+  "num_followers": 4885,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAACMTxu32gfgoHvzn0tV6MBy",
+  "snapshot_id": "aoeVAAAAAAD5kpwSJflm4K1fCmXmn2ZQ",
   "tracks": [
     {
       "added_at": null,
@@ -319,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
       },
       "artists": [
         {
           "name": "Tigers Jaw",
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        },
+        {
+          "name": "Andy Hull",
+          "url": "https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Charmer",
-      "url": "https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh"
+      "duration_ms": 216947,
+      "name": "I Won't Care How You Remember Me",
+      "url": "https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME"
     },
     {
       "added_at": null,
@@ -351,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
       "artists": [
         {
           "name": "Tigers Jaw",
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        },
-        {
-          "name": "Andy Hull",
-          "url": "https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV"
         }
       ],
-      "duration_ms": 216947,
-      "name": "I Won't Care How You Remember Me",
-      "url": "https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME"
+      "duration_ms": 205506,
+      "name": "Charmer",
+      "url": "https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Hum",
-      "url": "https://open.spotify.com/track/1efmAix0BIp3o9tmd4437z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Won't Care How You Remember Me",
         "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 163924,
       "name": "Hesitation",
       "url": "https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/1efmAix0BIp3o9tmd4437z"
     },
     {
       "added_at": null,
@@ -460,9 +460,25 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 123853,
-      "name": "Favorite",
-      "url": "https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW"
+      "duration_ms": 244986,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 164569,
+      "name": "New Detroit",
+      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
       "duration_ms": 186135,
       "name": "Berlin (feat. Tigers Jaw)",
       "url": "https://open.spotify.com/track/7jRtmIC2bixxr2RYGbPBgp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 164569,
-      "name": "New Detroit",
-      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
     },
     {
       "added_at": null,
@@ -528,25 +528,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 244986,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Lodging",
-      "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
+      "duration_ms": 123853,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
       "duration_ms": 156089,
       "name": "Cat's Cradle",
       "url": "https://open.spotify.com/track/6Wrt1iG9AKqkavwSXh1aNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Lodging",
+      "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
     },
     {
       "added_at": null,

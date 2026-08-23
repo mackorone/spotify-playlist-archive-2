@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto:  Los Ángeles Azules, TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,260 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,110 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 33 | [Na Calada da Tarde](https://open.spotify.com/track/7zqfsyPXgVQmaVkErptcP5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Na Calada da Tarde](https://open.spotify.com/album/7w151uzc6yuG4CnBKYkK6v) | 3:15 |
 | 34 | [Continental](https://open.spotify.com/track/2dRRAPNvQV0scVkbdEKuWk) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Continental](https://open.spotify.com/album/6odFB12JSFSvIF517Gj7Tc) | 2:58 |
 | 35 | [Causador de Choro \- Ao Vivo](https://open.spotify.com/track/2wAZdxdc3MHtfE1M9a8x2P) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [O Décimo Vol\. 02 \(Ao Vivo\)](https://open.spotify.com/album/0AfnwegDE4N2E6l1Hiewfz) | 3:00 |
-| 36 | [Toca Telefone \- Ao Vivo](https://open.spotify.com/track/7fhuYlFqlHU5kAnTzzgQZa) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Fora do Padrão Vol\. 4](https://open.spotify.com/album/4ueNZj9Aesby48z9g2atEF) | 3:08 |
+| 36 | [Toca Telefone \- Ao Vivo](https://open.spotify.com/track/7fhuYlFqlHU5kAnTzzgQZa) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Fora do Padrão Vol\. 04](https://open.spotify.com/album/4ueNZj9Aesby48z9g2atEF) | 3:08 |
 | 37 | [Latido del Amor](https://open.spotify.com/track/3rvekwLoI3ivf8lRjM5ax7) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Latido del Amor](https://open.spotify.com/album/3cJiiW3vhb8lSspFYhFqYS) | 3:36 |
 | 38 | [CULXX](https://open.spotify.com/track/36qfM90od24onJ50oQj5IR) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CULXX](https://open.spotify.com/album/0MKj7Eik6nMRkuIMjsABe4) | 3:00 |
 | 39 | [Gimidi](https://open.spotify.com/track/6wX0Jmo6ojeMXhFNTrzYuH) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Gimidi](https://open.spotify.com/album/3FDRHQZ14TUixAZwwYLQXP) | 2:34 |

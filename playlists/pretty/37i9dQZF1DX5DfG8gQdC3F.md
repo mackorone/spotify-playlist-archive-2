@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from STELLA LEFTY, Rex Orange County & Daniel Caesar, Sam Smith, Jorja Smith, Weezer, Ruth B., Casper TNG, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,195 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,199 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

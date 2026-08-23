@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-191 songs - 11 hr 5 min
+192 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 | 2023-01-27 |  |
 | [Tell Me You Love Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6c8yicr6W2pOT62TkZu2en) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/6eJDRuzwuZuVXHNGBSevVe) | 4:07 | 2021-11-05 | 2022-07-29 |
 | [Tell Me You Love Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7) | 4:07 | 2021-11-05 | 2023-01-08 |
-| [Tente Outra Vez \(Acusticamente\)](https://open.spotify.com/track/5tjISEORRTVuyvm5Hw1Xti) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp) | [Acusticamente \- Volume 2](https://open.spotify.com/album/3ztS5GIwMQZHYMZ7OIMjrK) | 2:33 | 2026-06-26 |  |
+| [Tente Outra Vez \(Acusticamente\)](https://open.spotify.com/track/5tjISEORRTVuyvm5Hw1Xti) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp) | [Acusticamente \- Volume 2](https://open.spotify.com/album/3ztS5GIwMQZHYMZ7OIMjrK) | 2:33 | 2026-06-26 | 2026-08-23 |
 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 | 2021-11-05 |  |
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 | 2021-11-05 |  |
 | [The Remedy \(I Won't Worry\) \- Live](https://open.spotify.com/track/0f0k6SsnHoZRR4Vkzvr2NO) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Waiting for My Rocket to Come \(Expanded Edition\)](https://open.spotify.com/album/5XmgxU4rDcAoP1EHiSFYBX) | 3:49 | 2022-10-14 | 2022-12-08 |
@@ -186,6 +186,7 @@
 | [Unfinished \- Acoustic](https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Unfinished \(Acoustic\)](https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq) | 4:07 | 2022-10-14 | 2023-02-12 |
 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 | 2021-11-05 |  |
 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2021-11-05 |  |
+| [Varandas](https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Varandas](https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB) | 3:43 | 2026-08-21 |  |
 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 | 2021-11-05 |  |
 | [Vilarejo](https://open.spotify.com/track/61lC5sxgs0gu1xFqwCKn0z) | [Isabella Gaspary](https://open.spotify.com/artist/235nxvND6xHQUoaX7d6JjX) | [Vilarejo](https://open.spotify.com/album/4iIb5K4pJLiSDs8AuTsjND) | 1:35 | 2026-07-10 |  |
 | [Viva La Vida \- Live from Spotify London](https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live from Spotify London](https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c) | 3:54 | 2021-11-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\| Cover: Westside Cowboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,886 likes - 133 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,875 likes - 133 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 21 | [Do What's Right \(Happy\)](https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Alone Together](https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg) | 3:11 |
 | 22 | [Good Fortune](https://open.spotify.com/track/6h9g67CxwZf4RcsQF4SZZb) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Halcyon Blues](https://open.spotify.com/album/3vUBcLeVjcC2HIztGj0T7F) | 3:07 |
 | 23 | [Distraction](https://open.spotify.com/track/2THq0FtyKwqUhiyvnOoscv) | [sundots](https://open.spotify.com/artist/0K7RoGabPQO08yJDhsvvL5) | [Distraction](https://open.spotify.com/album/4VoMAiBIrleRdYHsuAXdKP) | 3:23 |
-| 24 | [To Be American](https://open.spotify.com/track/0kDNYrlStkgDLemyXdMBUx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [To Be American](https://open.spotify.com/album/1Eioydw7VqUy42EKnwKLVE) | 4:00 |
+| 24 | [To Be American](https://open.spotify.com/track/0kDNYrlStkgDLemyXdMBUx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [To Be American](https://open.spotify.com/album/1Eioydw7VqUy42EKnwKLVE) | 4:01 |
 | 25 | [Loser](https://open.spotify.com/track/3gUwYPtBtdFr5T0zGFVwJj) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Loser](https://open.spotify.com/album/5btn7iVwFCbcelZ6kT4JU3) | 3:31 |
 | 26 | [Chin Up, Beautiful](https://open.spotify.com/track/4F62L8Scos6mt6yoYulGuQ) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Chin Up, Beautiful](https://open.spotify.com/album/0kimNgdB69eNOuDf4xZ7PW) | 3:40 |
 | 27 | [Harder to Stand](https://open.spotify.com/track/1XLGdQAMaldwlm0nUcpLWZ) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Harder to Stand](https://open.spotify.com/album/7vNhd41w5FhWjEbhJ0ZupO) | 3:32 |

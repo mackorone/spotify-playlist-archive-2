@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 190729,
+  "num_followers": 190780,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAACvK2MztSwsDFbKuo7spZS8",
+  "snapshot_id": "aoeVAAAAAABwtfR9iQfsrIuadiMtw7Bk",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Things (RAYE Remix)",
-        "url": "https://open.spotify.com/album/6eoXsMVCy9smgDaR9RkHMw"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 205002,
-      "name": "Better Things - RAYE Remix",
-      "url": "https://open.spotify.com/track/1RDMPArAraZJ5gW8Qvsucz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blue Print \u2013 Us Vs. Them",
         "url": "https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 225905,
       "name": "Ferrari Horses",
       "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Things (RAYE Remix)",
+        "url": "https://open.spotify.com/album/6eoXsMVCy9smgDaR9RkHMw"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 205002,
+      "name": "Better Things - RAYE Remix",
+      "url": "https://open.spotify.com/track/1RDMPArAraZJ5gW8Qvsucz"
     },
     {
       "added_at": null,

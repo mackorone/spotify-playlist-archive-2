@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,908 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,492 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Me Fala Qual Necessidade \- Ao Vivo](https://open.spotify.com/track/10a26720hpdHY8JVsHrrdQ) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Paralelos \(Ao Vivo\)](https://open.spotify.com/album/2rRbdZp33TwMs4kyZ6nFkd) | 2:28 |
 | 50 | [Bebe, Beija e Trai \- Ao Vivo](https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Bebe, Beija e Trai \(Ao Vivo\)](https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q) | 2:36 |
 
-Snapshot ID: `MhuuuAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mh0AOAAAAAAAAAAAAAAAAAAAAAAAAGVu`

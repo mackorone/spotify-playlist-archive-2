@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: ViVii
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,517 likes - 349 songs - 19 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,519 likes - 349 songs - 19 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 115 songs - 6 hr 45 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 121 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,5 +123,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 113 | [Empreinte](https://open.spotify.com/track/1tK4igtCBcBdrylvPCljta) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [...Et de Delphine Volange le ciel était toujours sans nouvelles](https://open.spotify.com/album/58NYl8v1T3BJbX2SxDF7Lx) | 3:11 |
 | 114 | [Loin \- Radio Edit](https://open.spotify.com/track/0bDZY8NKhpgZnDfhyMzUUt) | [Perrine Hope](https://open.spotify.com/artist/7aXpehI3ni2IquIMDyMeNw) | [Loin](https://open.spotify.com/album/08dxpZlDC9PfHQJrmJN6Th) | 3:59 |
 | 115 | [Six Days and A Single Dime](https://open.spotify.com/track/3B5cbLWHEa7mQuhy1Lf3ca) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:02 |
+| 116 | [Dardo](https://open.spotify.com/track/3HjSjfpRXsZi7VT8OJZC3N) | [Hivana](https://open.spotify.com/artist/6HSrospVkDB2uQbubfRXcg) | [Dardo](https://open.spotify.com/album/5CE40Vx8eWvSXFk0MMAypH) | 2:31 |
+| 117 | [A veces](https://open.spotify.com/track/2imejrjky3Gedjp0ORMty7) | [Teira](https://open.spotify.com/artist/7fWf4IrlJOQNK0Fahnw7Bc) | [A veces](https://open.spotify.com/album/28C1L8wW4OUjs8uj52x5RE) | 2:41 |
+| 118 | [All This Life](https://open.spotify.com/track/2V9VbMYDa8eCE5VY39dpHL) | [Solay](https://open.spotify.com/artist/0KN2t3lXJa6G29V7nuK0IC) | [All This Life](https://open.spotify.com/album/4J9Of3qaLwNAUqTn2lekKA) | 4:15 |
+| 119 | [Gloves and Pants](https://open.spotify.com/track/1hlahbgfZDJURKR0Rkbuz4) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Gloves and Pants](https://open.spotify.com/album/4Dhr841dZ5UIfWigaDpEqp) | 3:09 |
+| 120 | [I Never Knew](https://open.spotify.com/track/4y6cIJWjHhUcCvV3ORzqY1) | [Mikey Sovereign](https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ) | [I Never Knew](https://open.spotify.com/album/0ghugaetMbiI8yrJ0zOCT2) | 4:01 |
+| 121 | [You Orient Me](https://open.spotify.com/track/7J7pMhd7fB8UhwC7JsBDmE) | [Troy Page](https://open.spotify.com/artist/43sl6HtfaTIfUYNi7GDSSh) | [You Orient Me](https://open.spotify.com/album/5JyTywZwRy29o97qQpKZpR) | 3:30 |
 
-Snapshot ID: `AAAXLSkMkSzeN5gwy6VLmCfdQwTk7fKv`
+Snapshot ID: `AAAXM6be51uRGquXj3fMKHlt4u/3YgBf`

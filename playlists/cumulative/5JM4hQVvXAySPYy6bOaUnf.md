@@ -4,7 +4,7 @@
 
 > For the quiet hours when the world sleeps, and your thoughts speak the loudest.
 
-52 songs - 3 hr 13 min
+53 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Turning Page](https://open.spotify.com/track/2kfGoV9a5dbSKCNmUWH2ZF) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Turning Page](https://open.spotify.com/album/7lh3v8GsuH6TKFQcTimkji) | 4:15 | 2025-06-15 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2025-09-12 |  |
 | [Until The End](https://open.spotify.com/track/2NPczfuTCoJHEMxhCcJyti) | [Kelley McRae](https://open.spotify.com/artist/5jisWKblA5tIYYDLfTOKle) | [The Glory, Pt\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0OR9LHwVKfeRjkHxcDm1mc) | 4:35 | 2026-06-07 |  |
+| [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 | 2026-08-22 |  |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2025-09-23 |  |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:32 | 2025-09-14 |  |
 | [Your Name Engraved Herein](https://open.spotify.com/track/4Ty8zilaZy9GmtotuGsgC1) | [Edward Chen](https://open.spotify.com/artist/3caZxmZkahlga1xtnOtahu) | [Your Name Engraved Herein](https://open.spotify.com/album/28TX6Tycb9g2TsIStwPpTr) | 5:23 | 2025-06-05 |  |

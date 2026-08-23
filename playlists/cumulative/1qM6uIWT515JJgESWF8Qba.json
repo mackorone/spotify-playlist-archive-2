@@ -4111,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Se Acabaron Las Versiones",
+        "url": "https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25"
+      },
+      "artists": [
+        {
+          "name": "Tacrolimus",
+          "url": "https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Revoluci\u00f3n Silenciosa",
+      "url": "https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD"
+    },
+    {
+      "album": {
         "name": "Rooftops",
         "url": "https://open.spotify.com/album/2300qonTPP24PHDOv62WqB"
       },

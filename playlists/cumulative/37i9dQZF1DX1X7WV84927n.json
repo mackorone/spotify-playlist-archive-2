@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 262687,
       "name": "BLAME (feat. Corey Taylor)",
       "url": "https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU"
@@ -5480,7 +5480,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 237207,
       "name": "Construct",
       "url": "https://open.spotify.com/track/2MGhVrA4Th1xHGkdfdUZTk"
@@ -7578,6 +7578,24 @@
       "duration_ms": 167202,
       "name": "Do It For The Love",
       "url": "https://open.spotify.com/track/0MsKznzO1FRn41Ozgad0Rs"
+    },
+    {
+      "album": {
+        "name": "do or die",
+        "url": "https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204714,
+      "name": "do or die",
+      "url": "https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F"
     },
     {
       "album": {
@@ -15832,7 +15850,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 169945,
       "name": "Kill The Light",
       "url": "https://open.spotify.com/track/11lSODTR9IuEnnMB7zAvL9"
@@ -18941,6 +18959,24 @@
     },
     {
       "album": {
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
+    },
+    {
+      "album": {
         "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
         "url": "https://open.spotify.com/album/16zuCh6AvPoS058XshhseX"
       },
@@ -20358,6 +20394,32 @@
       "duration_ms": 221433,
       "name": "No More Tears To Cry",
       "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
+    },
+    {
+      "album": {
+        "name": "NO PLACE LIKE HOME",
+        "url": "https://open.spotify.com/album/02RkphFaGXCAJXEzhQm374"
+      },
+      "artists": [
+        {
+          "name": "Ninth Key",
+          "url": "https://open.spotify.com/artist/4lcvro3hYRhGU6BtcNIIYx"
+        },
+        {
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170357,
+      "name": "NO PLACE LIKE HOME",
+      "url": "https://open.spotify.com/track/7nY2UloR2gR1I5xZadsBJN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 347005,
+  "num_followers": 347024,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Swing Tournament",
+        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
+      },
+      "artists": [
+        {
+          "name": "US Golf 95",
+          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Empty Hiding World",
         "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 241836,
       "name": "Edenic Green Plus",
       "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Swing Tournament",
-        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
-      },
-      "artists": [
-        {
-          "name": "US Golf 95",
-          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
-      },
-      "artists": [
-        {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Dusty Shelves",
         "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 156230,
       "name": "Entrust",
       "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+      },
+      "artists": [
+        {
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Polygon Paradise",
-        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
-      },
-      "artists": [
-        {
-          "name": "Vaporwave Club",
-          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
-        }
-      ],
-      "duration_ms": 140678,
-      "name": "Monogon",
-      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "You're no one",
         "url": "https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR"
       },
@@ -1419,22 +1403,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Cry Again",
-        "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
+        "name": "Polygon Paradise",
+        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        },
-        {
-          "name": "Gavriel",
-          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+          "name": "Vaporwave Club",
+          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
         }
       ],
-      "duration_ms": 182192,
-      "name": "Cry Again",
-      "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
+      "duration_ms": 140678,
+      "name": "Monogon",
+      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1451,6 +1431,26 @@
       "duration_ms": 237333,
       "name": "You Got The Groove - slow + reverbed",
       "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Cry Again",
+        "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Cry Again",
+      "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
-      },
-      "artists": [
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Glass Mind",
         "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 219428,
       "name": "Glass Mind",
       "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fever Dream (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
-      },
-      "artists": [
-        {
-          "name": "sunnbrella",
-          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Fever Dream - slowed + reverb",
-      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Dxys Xff",
         "url": "https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
+        "name": "Fever Dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
       "artists": [
         {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+          "name": "sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
         }
       ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
+      "duration_ms": 232000,
+      "name": "Fever Dream - slowed + reverb",
+      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1695,6 +1679,22 @@
       "duration_ms": 222958,
       "name": "Gallery",
       "url": "https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
+      },
+      "artists": [
+        {
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+        }
+      ],
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
     },
     {
       "added_at": "2023-07-18 02:19:19",

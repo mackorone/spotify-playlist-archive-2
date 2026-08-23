@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: KAROL G & Bruno Mars",
-  "num_followers": 503905,
+  "num_followers": 503917,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -467,22 +447,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "RUBBERZ",
         "url": "https://open.spotify.com/album/5nh5SWvNLfdyPqJD5zvDNV"
       },
@@ -499,6 +463,42 @@
       "duration_ms": 173755,
       "name": "RUBBERZ",
       "url": "https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
+        "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
+      "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
         "name": "fu\u00ebgo (feat. Bizarrap, Yeat, Peso Pluma)",
         "url": "https://open.spotify.com/album/1IPgHElUWFJ5mmTcuXjlHE"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 226909,
       "name": "fu\u00ebgo (feat. Bizarrap, Yeat, Peso Pluma)",
       "url": "https://open.spotify.com/track/6U656W6WTyQKur99ihSybx"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
-        "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
-      "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "EPA (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/1UdIETjUPNwCRaYRrELqM7"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "EPA - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/1vdR1ypNFyVBl74HRCTvOg"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "pAPi wiTH tOKisCha",
         "url": "https://open.spotify.com/album/0zQSdKV9voIN7ZG8exJ9Ct"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 162206,
       "name": "pAPi wiTH tOKisCha",
       "url": "https://open.spotify.com/track/5UA4VZsSc5Ky988bOI5Fnu"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "EPA (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/1UdIETjUPNwCRaYRrELqM7"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "EPA - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/1vdR1ypNFyVBl74HRCTvOg"
     },
     {
       "added_at": "2026-08-07 09:42:57",

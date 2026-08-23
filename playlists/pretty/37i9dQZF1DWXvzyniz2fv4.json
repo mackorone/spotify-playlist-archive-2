@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158188,
+  "num_followers": 158187,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "OCANV (Cap. II)",
+        "url": "https://open.spotify.com/album/4MXCC1YWrntuViiFWApNAc"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "O Agora \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/6lFNaYEKcS3KtwKOSWpFuS"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "A Casa \u00c9 Tua",
         "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 198667,
       "name": "A Casa \u00c9 Tua",
       "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "OCANV (Cap. II)",
-        "url": "https://open.spotify.com/album/4MXCC1YWrntuViiFWApNAc"
-      },
-      "artists": [
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "O Agora \u00e9 Nosso",
-      "url": "https://open.spotify.com/track/6lFNaYEKcS3KtwKOSWpFuS"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Garotas s\u00e3o Confusas (Deluxe)",
-        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
-      },
-      "artists": [
-        {
-          "name": "Chase",
-          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 139780,
-      "name": "A Festa",
-      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "AIRBNB",
         "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 146000,
       "name": "AIRBNB",
       "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Garotas s\u00e3o Confusas (Deluxe)",
+        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 139780,
+      "name": "A Festa",
+      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1335,26 +1335,26 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
         },
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
         }
       ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+      "duration_ms": 193560,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
     }
   ],
   "unique_name": "Resenha na Praia",

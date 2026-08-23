@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Cherry Chola en portada.",
-  "num_followers": 39280,
+  "num_followers": 39288,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKVsuxtLesfXZ0wQ82Mq4IRYIb9l",
+  "snapshot_id": "AAAAABGE3wtB3Suie4bTd1VAuHqzDhXr",
   "tracks": [
     {
       "added_at": "2026-08-14 06:00:34",
@@ -279,54 +279,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Esc\u00e1pate Conmigo",
-        "url": "https://open.spotify.com/album/6xUYY9VhicvxFXES4q1MJ4"
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
       },
       "artists": [
         {
           "name": "Siddhartha",
           "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 252079,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/5dDXf3Ev3Cj10GHJJPhrgb"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Pop Rock",
-        "url": "https://open.spotify.com/album/0fBK2XFrgxTKQMYrLDQxsI"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Veneno y Arena",
-      "url": "https://open.spotify.com/track/4xRc4vzso6gm1waaBUFIoM"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Me Toca A M\u00ed",
-        "url": "https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         },
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 180340,
-      "name": "Me Toca A M\u00ed",
-      "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
+      "duration_ms": 243234,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -351,6 +319,42 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "Me Toca A M\u00ed",
+        "url": "https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 180340,
+      "name": "Me Toca A M\u00ed",
+      "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Pop Rock",
+        "url": "https://open.spotify.com/album/0fBK2XFrgxTKQMYrLDQxsI"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Veneno y Arena",
+      "url": "https://open.spotify.com/track/4xRc4vzso6gm1waaBUFIoM"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "Ca\u00edda Libre (feat. Robe)",
         "url": "https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs"
       },
@@ -371,22 +375,18 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
+        "name": "Esc\u00e1pate Conmigo",
+        "url": "https://open.spotify.com/album/6xUYY9VhicvxFXES4q1MJ4"
       },
       "artists": [
         {
           "name": "Siddhartha",
           "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 243234,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+      "duration_ms": 252079,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/5dDXf3Ev3Cj10GHJJPhrgb"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "El Reloj Me Miente",
         "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 171636,
       "name": "No Volver\u00e9 </3",
       "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "MARIPOSA TECKNICOLOR",
+        "url": "https://open.spotify.com/album/61goUJQEQm9DNsRUNfmOU6"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "MARIPOSA TECKNICOLOR",
+      "url": "https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
         "url": "https://open.spotify.com/album/1IlYdxr6kQ1SuzAN1xQWRf"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 262465,
       "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
       "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "MARIPOSA TECKNICOLOR",
-        "url": "https://open.spotify.com/album/61goUJQEQm9DNsRUNfmOU6"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "MARIPOSA TECKNICOLOR",
-      "url": "https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA"
     },
     {
       "added_at": "2026-08-14 06:00:34",

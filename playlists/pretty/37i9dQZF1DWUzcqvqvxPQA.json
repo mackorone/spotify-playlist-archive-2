@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 34116,
+  "num_followers": 34123,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "NO HALO",
-        "url": "https://open.spotify.com/album/213lU4rAk8SVSOs4bjAASB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 178944,
-      "name": "NO HALO",
-      "url": "https://open.spotify.com/track/4ASIujPxCr1c9Jj1JapaZ4"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "SOMETHING DIFFERENT",
         "url": "https://open.spotify.com/album/2DLFtkfpLL3nPxrgH5xDqu"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 176000,
       "name": "SOMETHING DIFFERENT",
       "url": "https://open.spotify.com/track/6IYLA7aFxVNi5puPw6wppV"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "NO HALO",
+        "url": "https://open.spotify.com/album/213lU4rAk8SVSOs4bjAASB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 178944,
+      "name": "NO HALO",
+      "url": "https://open.spotify.com/track/4ASIujPxCr1c9Jj1JapaZ4"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Like I Am Yours",
-        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
-      },
-      "artists": [
-        {
-          "name": "Hopeful.",
-          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Like I Am Yours",
-      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Menace",
         "url": "https://open.spotify.com/album/2UYLPh9VLF8ASVBn31VwIK"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 201419,
       "name": "Menace",
       "url": "https://open.spotify.com/track/4s7RVtoBdZ4nxhcVbHLSbW"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Like I Am Yours",
+        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "duration_ms": 184712,
+      "name": "Like I Am Yours",
+      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Always Summertime",
-        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Always Summertime",
-      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
+      "duration_ms": 224426,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+        "name": "Always Summertime",
+        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
       },
       "artists": [
         {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
         }
       ],
-      "duration_ms": 224426,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
+      "duration_ms": 150320,
+      "name": "Always Summertime",
+      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
+        "name": "Drives",
+        "url": "https://open.spotify.com/album/2PtkfjPzEs5UevBQYztU0b"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 183479,
+      "name": "Drives",
+      "url": "https://open.spotify.com/track/3olQqumBrebhLCjZXtpE3D"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
         "name": "Good Shepherd (John 10)",
         "url": "https://open.spotify.com/album/45wP8PPlXzpyh2lgnYMhvY"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 199583,
       "name": "Good Shepherd (John 10)",
       "url": "https://open.spotify.com/track/32ATRazMSiY7hvHvTeU2sj"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
-        "name": "Drives",
-        "url": "https://open.spotify.com/album/2PtkfjPzEs5UevBQYztU0b"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 183479,
-      "name": "Drives",
-      "url": "https://open.spotify.com/track/3olQqumBrebhLCjZXtpE3D"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1743,26 +1743,22 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "WAITING ROOM",
-        "url": "https://open.spotify.com/album/5pnf64squuM0LMkFqQ1GiC"
+        "name": "Something About Your Love",
+        "url": "https://open.spotify.com/album/3m9H87NkD8LlBsN1aDfXb6"
       },
       "artists": [
         {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+          "name": "Kieran De La Harpe",
+          "url": "https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl"
         },
         {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        },
-        {
-          "name": "Chanele",
-          "url": "https://open.spotify.com/artist/4jcApI1xdHMtx4iMvLV01a"
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
         }
       ],
-      "duration_ms": 169090,
-      "name": "DESTINY",
-      "url": "https://open.spotify.com/track/5RtRPhTCDjPoJqhqAtMz3t"
+      "duration_ms": 232105,
+      "name": "Something About Your Love",
+      "url": "https://open.spotify.com/track/4pWSuffghBr69VsPfSrhNr"
     }
   ],
   "unique_name": "Summer Spirit",

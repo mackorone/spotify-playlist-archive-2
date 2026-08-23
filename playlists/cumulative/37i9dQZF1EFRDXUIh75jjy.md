@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-352 songs - 18 hr 6 min
+356 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [BITCH](https://open.spotify.com/track/1rx8PmTyJBMygZfuResHaA) | [Jackie Schimmel](https://open.spotify.com/artist/7aUtTeuD62WFIuFkBe1AFO) | [BITCH](https://open.spotify.com/album/6iA9gO01qT0sUyK1ilqPMh) | 3:12 | 2024-06-07 | 2026-07-21 |
 | [Blackout](https://open.spotify.com/track/6QprbmHDb3yVNVTwlmaTkS) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw) | [Painting With Dreams](https://open.spotify.com/album/11t999cj3x48JaRSde6s8p) | 3:31 | 2024-06-07 |  |
 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 | 2024-06-07 |  |
+| [Blue and Black](https://open.spotify.com/track/0j698mHYfXHnPGfUE9QUpj) | [Conall Cafferty](https://open.spotify.com/artist/6d1qaR3dUpxiSxOJVVwGMc) | [Blue and Black](https://open.spotify.com/album/4g5g6a481seLfWVbADFlMF) | 3:57 | 2026-08-22 |  |
 | [Bodybag](https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:38 | 2024-06-07 |  |
 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 | 2024-08-16 |  |
 | [bored](https://open.spotify.com/track/4J1O1ERHhqtkOfdF9L6zyG) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 2:56 | 2024-06-07 |  |
@@ -94,6 +95,7 @@
 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-14 | 2026-06-22 |
 | [Drive Safe](https://open.spotify.com/track/66bHVK9hMZHc27qpFuEX3M) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:21 | 2026-06-21 |  |
 | [Dusty Boots](https://open.spotify.com/track/2Bihu3SURmuhoprSSbAlDA) | [Julianna Rankin](https://open.spotify.com/artist/0uAP95LA0OzjTjVuiJN95v) | [Dusty Boots](https://open.spotify.com/album/4uy2ZB4cevqa3exRXVGwxB) | 3:58 | 2026-06-19 |  |
+| [DYE](https://open.spotify.com/track/3w0EWHmOjRQRx09lWjOd0j) | [Ricky Manning](https://open.spotify.com/artist/6vNoWRiABhJa3DNEi9DddS) | [DYE](https://open.spotify.com/album/5I4LZFluxbY46PVBEMEv6D) | 3:03 | 2026-08-22 |  |
 | [Ego](https://open.spotify.com/track/4buILkAUAqLxfl8ep4iVrI) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Ego](https://open.spotify.com/album/71p1O9atppY1mj3GtTBJYN) | 3:13 | 2024-06-07 |  |
 | [Emotional](https://open.spotify.com/track/1Sucwox3dVEqgeDLUrt1Of) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q) | 2:40 | 2026-02-26 |  |
 | [Emotional](https://open.spotify.com/track/4g4qcimgoqIoJjjPgcpX0B) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/3zr73Sh6KeejozhC4mGR8r) | 2:40 | 2025-11-02 | 2025-11-14 |
@@ -231,6 +233,7 @@
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2024-06-07 |  |
 | [Northern Lights](https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:35 | 2025-02-20 |  |
 | [Nostalgia](https://open.spotify.com/track/3vZzVdbzeg8hbSmEKTqR2S) | [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Nostalgia](https://open.spotify.com/album/27VyDOinSlqrIMJLHjARWu) | 3:27 | 2024-06-07 |  |
+| [Off The Market](https://open.spotify.com/track/7tr6pn8ZyErey14TDcvz7A) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus](https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG) | 2:41 | 2026-08-22 |  |
 | [Oh The Things Men Do](https://open.spotify.com/track/0jbghI5IrOUr7ud15SeMN3) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Oh The Things Men Do](https://open.spotify.com/album/3moEbC72XlsWUtoVd0q6KF) | 3:23 | 2025-12-17 |  |
 | [ok with it](https://open.spotify.com/track/26xOau4IoTbBTdcVjITxcp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 2:45 | 2024-06-07 |  |
 | [omw](https://open.spotify.com/track/0GLSvSzqUHrV1XrCKUwtwq) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/3zr73Sh6KeejozhC4mGR8r) | 2:51 | 2025-11-02 | 2025-11-14 |
@@ -338,6 +341,7 @@
 | [Tribe](https://open.spotify.com/track/471WEvxNMHIoybCV9lw64v) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41) | [Pitch Perfect 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ghztb1E7auvrtaXmcRqbV) | 3:09 | 2024-06-07 |  |
 | [U Sometimes](https://open.spotify.com/track/1w77M7nvWjLJOO1ffSOzua) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:48 | 2024-06-07 |  |
 | [Up](https://open.spotify.com/track/3Te82fmptIksFvtNyYnNmw) | [Star Darlings](https://open.spotify.com/artist/3zFQEqIi3Q1RJ4O37M7nuw) | [Up](https://open.spotify.com/album/1LLxgahQlYvXMvPeKNbgmh) | 3:05 | 2024-06-07 |  |
+| [Used To Pray](https://open.spotify.com/track/6lfLRfYCSSKZZk4KLnziT4) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus](https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG) | 2:31 | 2026-08-22 |  |
 | [Used To You Now](https://open.spotify.com/track/2dCTUG5y7ZMKzm2b6ILDcH) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:11 | 2024-06-07 |  |
 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 | 2024-07-21 |  |
 | [Wait So Yeah](https://open.spotify.com/track/4KwjMTNV2EPshRxetSqz5h) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Wait So Yeah](https://open.spotify.com/album/7deI2VrFcQmkGusj5YQRvj) | 2:21 | 2024-11-21 | 2024-11-29 |

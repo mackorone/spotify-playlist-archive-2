@@ -1129,24 +1129,6 @@
     },
     {
       "album": {
-        "name": "CALM STUDIES VOL 1",
-        "url": "https://open.spotify.com/album/4aonZVNEOlicHq2jt8k6Oc"
-      },
-      "artists": [
-        {
-          "name": "Jasper van Dijk",
-          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
-        }
-      ],
-      "date_added": "2026-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 250000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1FY0l5caHiUUBCy0Gc3sE4"
-    },
-    {
-      "album": {
         "name": "Blooming Daze",
         "url": "https://open.spotify.com/album/6O8NndYqdd8GgQWIs8A0Xa"
       },
@@ -3648,6 +3630,24 @@
       "duration_ms": 342857,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/0UoCxmQeN0C53KdSh4QQ6b"
+    },
+    {
+      "album": {
+        "name": "CALM STUDIES VOL 1",
+        "url": "https://open.spotify.com/album/4aonZVNEOlicHq2jt8k6Oc"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2026-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/1FY0l5caHiUUBCy0Gc3sE4"
     },
     {
       "album": {

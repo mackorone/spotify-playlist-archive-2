@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 377458,
+  "num_followers": 377463,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -903,30 +903,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX"
-      },
-      "artists": [
-        {
-          "name": "Kadeem Tyrell",
-          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
-        },
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -951,22 +927,26 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "So Nice To Be In Love",
-        "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
         },
         {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
         }
       ],
-      "duration_ms": 154807,
-      "name": "So Nice To Be In Love",
-      "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
+      "duration_ms": 186500,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -987,6 +967,26 @@
       "duration_ms": 199497,
       "name": "DARLING DRIVE",
       "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "So Nice To Be In Love",
+        "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+        }
+      ],
+      "duration_ms": 154807,
+      "name": "So Nice To Be In Love",
+      "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Orpheus",
+        "url": "https://open.spotify.com/album/5Tex6HzPTc7LZw4ZkdoWqr"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/6IN34fpoCdMi8fovTdjQfJ"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
       },
@@ -1259,22 +1275,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Promises (feat. Rochelle Jordan)",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+        "name": "Found a Love",
+        "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         },
         {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+          "name": "The Voices of Epoch",
+          "url": "https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r"
         }
       ],
-      "duration_ms": 208375,
-      "name": "Promises (feat. Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+      "duration_ms": 235149,
+      "name": "Found a Love",
+      "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1299,22 +1315,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Found a Love",
-        "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
+        "name": "Promises (feat. Rochelle Jordan)",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
       "artists": [
         {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         },
         {
-          "name": "The Voices of Epoch",
-          "url": "https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 235149,
-      "name": "Found a Love",
-      "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
+      "duration_ms": 208375,
+      "name": "Promises (feat. Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1343,6 +1359,30 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Piece Of Me",
+        "url": "https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        },
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Piece Of Me",
+      "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "Ghetto",
         "url": "https://open.spotify.com/album/6N080cDfecQ0osmA1ZuCuM"
       },
@@ -1363,42 +1403,6 @@
       "duration_ms": 156691,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/6M6Rru7UYtdA8DxhqzJ1qv"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "North",
-        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
-      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
     }
   ],
   "unique_name": "Soultronic",

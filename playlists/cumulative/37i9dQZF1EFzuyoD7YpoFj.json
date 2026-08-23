@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 172626,
       "name": "A Fine Romance",
       "url": "https://open.spotify.com/track/3PhW5WWsAQ2BzCOkmpUd6u"
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 326880,
       "name": "Calypso",
       "url": "https://open.spotify.com/track/5ajVAuT7vQmDHhtqPYtpX5"
@@ -4290,7 +4290,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 165266,
       "name": "Fresh As A Daisy",
       "url": "https://open.spotify.com/track/70lTL8pZLu3TLaNa4IVrRv"
@@ -4320,7 +4320,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 170518,
       "name": "Fresh As a Daisy",
       "url": "https://open.spotify.com/track/2Q07oa6f3cyEwMoGbFuNxD"
@@ -4792,7 +4792,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 177426,
       "name": "Heebie Jeebies",
       "url": "https://open.spotify.com/track/3plNbmcw8aXOwsroPB74Ud"
@@ -4926,7 +4926,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 236893,
       "name": "High Society",
       "url": "https://open.spotify.com/track/6IZrkrD882aP8of0NNYH89"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 124133,
       "name": "High Society Calypso",
       "url": "https://open.spotify.com/track/3imIMmxgd6aIjsfknAdvLY"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 146657,
       "name": "I'm a Gigolo",
       "url": "https://open.spotify.com/track/1Z5IHeiO79ju4bSi7tK3vO"
@@ -5958,7 +5958,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 148466,
       "name": "I'm a Gigolo",
       "url": "https://open.spotify.com/track/7g8fowyKTwgk6UQEqQSYs5"
@@ -6990,7 +6990,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 180585,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/5Tjp2AGmLCQdTyvuSup6dT"
@@ -7534,7 +7534,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 178183,
       "name": "Let's Misbehave",
       "url": "https://open.spotify.com/track/3ig2xMzf9CE2dqUxVrMIgb"
@@ -7578,7 +7578,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 172880,
       "name": "Let's Misbehave",
       "url": "https://open.spotify.com/track/2KOpP1WCnfaoZSUfwuA7XI"
@@ -9380,7 +9380,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 179773,
       "name": "Only Another Boy And Girl",
       "url": "https://open.spotify.com/track/2h9JNdBkcpqA4FOO1Wb8cG"
@@ -9402,7 +9402,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 179066,
       "name": "Only Another Boy And Girl",
       "url": "https://open.spotify.com/track/1hYfftcJJPoGJTorbul01x"
@@ -9654,7 +9654,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 589740,
       "name": "Overtune",
       "url": "https://open.spotify.com/track/325mlX4aTKu0zdvMoTsJ0J"
@@ -9712,6 +9712,24 @@
       "duration_ms": 179360,
       "name": "Overture (From \"High Society\")",
       "url": "https://open.spotify.com/track/2orFSIsIFOJwv2f0BghtIk"
+    },
+    {
+      "album": {
+        "name": "Songs From St. Louis Blues",
+        "url": "https://open.spotify.com/album/0I3Rlvp11qSReT6oguQV4E"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188466,
+      "name": "Overture: A) Love Theme B) Hesitating Blues",
+      "url": "https://open.spotify.com/track/4ssa7tXhrisnqo4AHS7Nx9"
     },
     {
       "album": {
@@ -10400,7 +10418,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 131960,
       "name": "Pretty Snowflakes",
       "url": "https://open.spotify.com/track/13pS7jHCUwogkCXyqCXDGt"
@@ -11342,7 +11360,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Slam in Around",
       "url": "https://open.spotify.com/track/3F3zE2N7KfUORJUZZ33Y35"
@@ -11360,7 +11378,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 160786,
       "name": "Slammin' Around",
       "url": "https://open.spotify.com/track/4XlNF2AEx2CNeCiUrrQWWk"
@@ -12180,7 +12198,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 164666,
       "name": "The Cocotte",
       "url": "https://open.spotify.com/track/3NuJFQiACR0BVKziHdiBdk"
@@ -12198,7 +12216,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 166719,
       "name": "The Cocotte",
       "url": "https://open.spotify.com/track/0RnpokAzF37svUwKqLmClo"
@@ -14186,7 +14204,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 152206,
       "name": "What Is The Soul Of Man?",
       "url": "https://open.spotify.com/track/6kWBuj4V1DFRNa2suOuSfg"
@@ -15354,7 +15372,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 174866,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
@@ -15390,7 +15408,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 175840,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1UKLMpJqhab1yqnbDMPDUD"

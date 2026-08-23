@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Wasia Project",
-  "num_followers": 1663875,
+  "num_followers": 1663825,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+      },
+      "artists": [
+        {
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 199831,
       "name": "Dramatic Girl (feat. Che Ecru)",
       "url": "https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
-      },
-      "artists": [
-        {
-          "name": "Not For Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
-        }
-      ],
-      "duration_ms": 265606,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -697,20 +697,20 @@
       "url": "https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-08-21 13:40:14",
       "album": {
-        "name": "Back in Love",
-        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Back in Love",
-      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -727,6 +727,22 @@
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Back in Love",
+        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Back in Love",
+      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -977,22 +993,6 @@
       "url": "https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU"
     },
     {
-      "added_at": "2026-06-22 21:48:31",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 194773,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
@@ -1017,20 +1017,20 @@
       "url": "https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg"
     },
     {
-      "added_at": "2026-07-17 04:02:10",
+      "added_at": "2026-06-22 21:48:31",
       "album": {
-        "name": "PIXIE",
-        "url": "https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq"
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby"
       },
       "artists": [
         {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 203728,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
+      "duration_ms": 194773,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1047,6 +1047,22 @@
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "added_at": "2026-07-17 04:02:10",
+      "album": {
+        "name": "PIXIE",
+        "url": "https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
     },
     {
       "added_at": "2026-05-15 19:54:37",
@@ -1097,6 +1113,22 @@
       "url": "https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1"
     },
     {
+      "added_at": "2026-08-14 04:01:48",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+    },
+    {
       "added_at": "2026-06-05 04:02:01",
       "album": {
         "name": "Keep It To Yourself",
@@ -1129,22 +1161,6 @@
       "url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e"
     },
     {
-      "added_at": "2026-08-14 04:01:48",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Maybe Not Tonight",
@@ -1159,6 +1175,22 @@
       "duration_ms": 160917,
       "name": "Cross My Heart",
       "url": "https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7"
+    },
+    {
+      "added_at": "2026-07-31 16:09:08",
+      "album": {
+        "name": "only one way to know",
+        "url": "https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 166378,
+      "name": "only one way to know",
+      "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
     },
     {
       "added_at": "2026-06-26 04:55:44",
@@ -1191,22 +1223,6 @@
       "duration_ms": 211537,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
-    },
-    {
-      "added_at": "2026-07-31 16:09:08",
-      "album": {
-        "name": "only one way to know",
-        "url": "https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 166378,
-      "name": "only one way to know",
-      "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1261,38 +1277,6 @@
       "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
-      "added_at": "2026-07-10 16:27:35",
-      "album": {
-        "name": "Haven't Said I Love You Yet",
-        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
-      },
-      "artists": [
-        {
-          "name": "Golden Cats",
-          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
-        }
-      ],
-      "duration_ms": 113725,
-      "name": "Haven't Said I Love You Yet",
-      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
-    },
-    {
-      "added_at": "2026-07-24 04:02:39",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX"
-      },
-      "artists": [
-        {
-          "name": "Jace Cameron",
-          "url": "https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw"
-        }
-      ],
-      "duration_ms": 230637,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Vampire at the Beach",
@@ -1309,6 +1293,22 @@
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
     },
     {
+      "added_at": "2026-07-10 16:27:35",
+      "album": {
+        "name": "Haven't Said I Love You Yet",
+        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
+      },
+      "artists": [
+        {
+          "name": "Golden Cats",
+          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+        }
+      ],
+      "duration_ms": 113725,
+      "name": "Haven't Said I Love You Yet",
+      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
+    },
+    {
       "added_at": "2026-07-06 20:29:59",
       "album": {
         "name": "Edges of You",
@@ -1323,6 +1323,22 @@
       "duration_ms": 194746,
       "name": "Edges of You",
       "url": "https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L"
+    },
+    {
+      "added_at": "2026-07-24 04:02:39",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX"
+      },
+      "artists": [
+        {
+          "name": "Jace Cameron",
+          "url": "https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw"
+        }
+      ],
+      "duration_ms": 230637,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1421,22 +1437,6 @@
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
     },
     {
-      "added_at": "2026-07-24 04:02:39",
-      "album": {
-        "name": "I Hope You Don't Remember Me",
-        "url": "https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201508,
-      "name": "That's Fine",
-      "url": "https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E"
-    },
-    {
       "added_at": "2026-07-31 16:09:08",
       "album": {
         "name": "Wine",
@@ -1451,6 +1451,38 @@
       "duration_ms": 206247,
       "name": "Wine",
       "url": "https://open.spotify.com/track/6Ht6IgAvwRHNUDFlwdYdMt"
+    },
+    {
+      "added_at": "2026-08-07 15:29:36",
+      "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
+    },
+    {
+      "added_at": "2026-07-24 04:02:39",
+      "album": {
+        "name": "I Hope You Don't Remember Me",
+        "url": "https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201508,
+      "name": "That's Fine",
+      "url": "https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1471,18 +1503,18 @@
     {
       "added_at": "2026-08-07 15:29:36",
       "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
+        "name": "She's The Only One",
+        "url": "https://open.spotify.com/album/1p9MIpHyhfw9aVHcYJXCvW"
       },
       "artists": [
         {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
         }
       ],
-      "duration_ms": 156640,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
+      "duration_ms": 200417,
+      "name": "She's The Only One",
+      "url": "https://open.spotify.com/track/5ipoqLoXRhdeMB5FcpJWMQ"
     },
     {
       "added_at": "2026-07-17 04:02:10",
@@ -1499,22 +1531,6 @@
       "duration_ms": 150901,
       "name": "A Little More Fun",
       "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
-    },
-    {
-      "added_at": "2026-08-07 15:29:36",
-      "album": {
-        "name": "She's The Only One",
-        "url": "https://open.spotify.com/album/1p9MIpHyhfw9aVHcYJXCvW"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9yyess",
-          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
-        }
-      ],
-      "duration_ms": 200417,
-      "name": "She's The Only One",
-      "url": "https://open.spotify.com/track/5ipoqLoXRhdeMB5FcpJWMQ"
     },
     {
       "added_at": "2026-06-19 04:01:13",
@@ -1547,22 +1563,6 @@
       "duration_ms": 227127,
       "name": "Girl, Intentions",
       "url": "https://open.spotify.com/track/3vSUyBAQm9SVlnPWT3IT7v"
-    },
-    {
-      "added_at": "2026-08-21 13:40:14",
-      "album": {
-        "name": "Bottle",
-        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 258353,
-      "name": "Bottle",
-      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/69wt3kOH6ZtogwiLGOt394"
     },
     {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 228904,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
-    },
-    {
       "added_at": "2026-08-07 15:29:36",
       "album": {
         "name": "Porcelain",
@@ -1647,6 +1631,22 @@
       "duration_ms": 202880,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo"
+    },
+    {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 228904,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
     },
     {
       "added_at": "2026-05-15 16:17:55",

@@ -151029,32 +151029,6 @@
     },
     {
       "album": {
-        "name": "Bruckner: Symphony No. 3 \"Wagner Symphony\"",
-        "url": "https://open.spotify.com/album/1RqR27w8xgfebIuobZboRI"
-      },
-      "artists": [
-        {
-          "name": "Anton Bruckner",
-          "url": "https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2"
-        },
-        {
-          "name": "Anima Eterna",
-          "url": "https://open.spotify.com/artist/3VF1DLDlcg5otAs8S85Rm4"
-        },
-        {
-          "name": "Pablo Heras-Casado",
-          "url": "https://open.spotify.com/artist/17QYL51GCUv2vKlQWGqvWp"
-        }
-      ],
-      "date_added": "2026-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211141,
-      "name": "Ia. Gem\u00e4\u00dfigt, misterioso [Bars 1-122]",
-      "url": "https://open.spotify.com/track/5jlfpji0rDdVztNURsyNll"
-    },
-    {
-      "album": {
         "name": "Le Voyage en Am\u00e9rique: Ia. \u2013",
         "url": "https://open.spotify.com/album/4A2HYKqDdhaFfc6B3Ak9sn"
       },
@@ -205151,7 +205125,7 @@
     },
     {
       "album": {
-        "name": "de Machaut: Messe de Nostre Dame: IV. Gloria",
+        "name": "Machaut: Messe de Nostre Dame: IV. Gloria",
         "url": "https://open.spotify.com/album/08So4UWGq5u9yBuNgMfPbH"
       },
       "artists": [
@@ -205162,6 +205136,10 @@
         {
           "name": "Chanticleer",
           "url": "https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0"
+        },
+        {
+          "name": "Tim Keeler",
+          "url": "https://open.spotify.com/artist/027v3Yqn168mUkTYWKptif"
         }
       ],
       "date_added": "2026-08-21",
@@ -348604,6 +348582,32 @@
       "duration_ms": 602372,
       "name": "Symphony No. 3 in D Minor, Part Two: II. Tempo di minuetto. Sehr m\u00e4ssig",
       "url": "https://open.spotify.com/track/5G3r3olNpvPEfjEPFR0jFc"
+    },
+    {
+      "album": {
+        "name": "Bruckner: Symphony No. 3 \"Wagner Symphony\"",
+        "url": "https://open.spotify.com/album/1RqR27w8xgfebIuobZboRI"
+      },
+      "artists": [
+        {
+          "name": "Anton Bruckner",
+          "url": "https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2"
+        },
+        {
+          "name": "Anima Eterna",
+          "url": "https://open.spotify.com/artist/3VF1DLDlcg5otAs8S85Rm4"
+        },
+        {
+          "name": "Pablo Heras-Casado",
+          "url": "https://open.spotify.com/artist/17QYL51GCUv2vKlQWGqvWp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211141,
+      "name": "Symphony No. 3 in D Minor, WAB 103 \"Wagner Symphony\" (1873 Version): Ia. Gem\u00e4\u00dfigt, misterioso [Bars 1-122]",
+      "url": "https://open.spotify.com/track/5jlfpji0rDdVztNURsyNll"
     },
     {
       "album": {

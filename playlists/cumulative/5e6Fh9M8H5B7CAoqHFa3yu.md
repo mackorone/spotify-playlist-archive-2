@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,484 songs - 6 day 2 hr 7 min
+2,487 songs - 6 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [CELLES](https://open.spotify.com/track/21EckdWhnAnaGILOzwkyYu) | [Scott Lucchini](https://open.spotify.com/artist/2XwAoF8nWo3UNIYpGTieCQ) | [CELLES](https://open.spotify.com/album/6KMnrkJubkJc3SEfaBl7BQ) | 3:40 | 2025-05-22 |  |
 | [Celos que me Delatan](https://open.spotify.com/track/1VfRt5kJCYWlOXYMIqkali) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Celos que me Delatan](https://open.spotify.com/album/7xdIneTMjCsxrobnkyLqxx) | 3:36 | 2026-03-12 |  |
 | [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-03-15 |  |
+| [Ceniza en tu Boca](https://open.spotify.com/track/5wxExH3v0AfHqqD3r4tJCm) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:28 | 2026-08-22 |  |
 | [Cenário Apocalíptico](https://open.spotify.com/track/6Ub64JpRN7CNzBFRQtSD4n) | [Tapuru](https://open.spotify.com/artist/6efhglYGjl31jFVNDRzHzh) | [Ignorância Natural](https://open.spotify.com/album/5TAkSlid9jUS2fSV35hwld) | 2:43 | 2025-06-07 |  |
 | [Chains](https://open.spotify.com/track/2SNzI8vM6mBMPqduEEpMG2) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Chains](https://open.spotify.com/album/6b9mctTUwAivrfZKEuF5Nv) | 2:07 | 2026-01-03 |  |
 | [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/track/5OJLmwa30Cnz756KKfGz01) | [Judy Trinity](https://open.spotify.com/artist/4i7An55IinYv3AJLYItmeu) | [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/album/1yZszTyGMJLly1ulxpS8Wp) | 2:52 | 2025-11-29 |  |
@@ -1322,6 +1323,7 @@
 | [May It Be](https://open.spotify.com/track/1wIQ2Nm0raqOapHK4bCD3J) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [May It Be](https://open.spotify.com/album/6o6RblnNPtSpuIdv5p2cZe) | 3:31 | 2023-03-15 |  |
 | [Maybe I](https://open.spotify.com/track/05aSqaoNdnrRSqU0ld1VcX) | [UNICK STAR](https://open.spotify.com/artist/2TfAtK1FEbbyKIx1jwJrKL) | [Maybe I](https://open.spotify.com/album/6XQci72te4yZnxA4GK7XpP) | 2:33 | 2025-06-24 |  |
 | [Me Partes el Alma](https://open.spotify.com/track/4hiEnddFwCsFT2ZMmHd4Vw) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/36A4gGmNg8qcTEbeb78iJ5) | 3:02 | 2026-08-21 |  |
+| [Me Quedo Contigo](https://open.spotify.com/track/1mgysJeEOX2MYA68RXE1Ar) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:28 | 2026-08-22 |  |
 | [Me Rindo](https://open.spotify.com/track/4T4Rx7ApdVoMyeteFglpJ1) | [Michael Todd Brown](https://open.spotify.com/artist/1UVbWulqbJhDEpYxvOmHJa), [Tuva Paloma](https://open.spotify.com/artist/6uYz66bkpyYpokipvgIRrT) | [Me Rindo](https://open.spotify.com/album/0saQU98ixtjrMD3M6EXQ73) | 5:46 | 2026-04-30 |  |
 | [Me so' scocciata](https://open.spotify.com/track/6FV5RW9ofs1OOmQHLKqprF) | [Vala](https://open.spotify.com/artist/6timg8G6gpXauaqPKGzfIt) | [Me so' scocciata](https://open.spotify.com/album/3WTJvCmOnLBI5vHgCzrmTC) | 3:31 | 2025-05-29 |  |
 | [Meat Beat Manifestation \#2](https://open.spotify.com/track/0E1p2v24IJn99OeQq2JFNQ) | [MC 900 Ft\. Jesus](https://open.spotify.com/artist/2S8nYaxyItH72O4dhRWTPq) | [Welcome To My Dream](https://open.spotify.com/album/4InNADufitzJWnZQ1b6h08) | 4:04 | 2026-02-07 |  |
@@ -1511,6 +1513,7 @@
 | [No Surprise](https://open.spotify.com/track/00tb7IKUhzkWp1Fn7sVkIj) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA), [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [No Surprise](https://open.spotify.com/album/3uDruTtmzLmWTRzOiwGp8F) | 4:15 | 2026-03-26 |  |
 | [No te Quieren Conmigo](https://open.spotify.com/track/0Usktz4px5OykVVxdDQHvM) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No te Quieren Conmigo](https://open.spotify.com/album/1myRJMwsRY6EXrNQYw7eCA) | 2:06 | 2026-03-12 |  |
 | [No Te Voy A Perder](https://open.spotify.com/track/1spu2SwHv1HetlN1dxl41n) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [No Te Voy A Perder](https://open.spotify.com/album/06dX0pQJFwrfgKVyyxYZBv) | 3:30 | 2026-08-21 |  |
+| [No Te Voy A Perder](https://open.spotify.com/track/3EfBHJNorj6Gbles4qhxIb) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:30 | 2026-08-22 |  |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2025-12-01 |  |
 | [No WW3](https://open.spotify.com/track/25YGdL2WclZGjmq6YA027U) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 4:01 | 2024-03-23 |  |
 | [No\. 29](https://open.spotify.com/track/3plyGpDgzfrnZbpElpfioV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 1:38 | 2026-04-12 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Bolela, Bohemio en portada.",
-  "num_followers": 531465,
+  "num_followers": 531485,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,26 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
+        "name": "A La Luz De La luna",
+        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
+    },
+    {
+      "added_at": "2026-08-21 04:20:34",
+      "album": {
         "name": "Dulce Amargo",
         "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
       },
@@ -387,6 +407,26 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
+        "name": "Cuando Casi Te Olvidaba",
+        "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Grupo Sexta Edicion",
+          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
+    },
+    {
+      "added_at": "2026-08-21 04:20:34",
+      "album": {
         "name": "De Todas Y De Nadie",
         "url": "https://open.spotify.com/album/3ASDDNxxZalJZiGLYPdc4n"
       },
@@ -415,46 +455,6 @@
       "duration_ms": 147799,
       "name": "El Rubio",
       "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
-    },
-    {
-      "added_at": "2026-08-21 04:20:34",
-      "album": {
-        "name": "Cuando Casi Te Olvidaba",
-        "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "Grupo Sexta Edicion",
-          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
-    },
-    {
-      "added_at": "2026-08-21 04:20:34",
-      "album": {
-        "name": "A La Luz De La luna",
-        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
-      },
-      "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 165212,
-      "name": "A La Luz De La luna",
-      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
     },
     {
       "added_at": "2026-08-21 04:20:34",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
+        "name": "Evolucionando",
+        "url": "https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 167552,
+      "name": "Evolucionando",
+      "url": "https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0"
+    },
+    {
+      "added_at": "2026-08-21 04:20:34",
+      "album": {
         "name": "TMS",
         "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
-        "name": "Evolucionando",
-        "url": "https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ"
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 167552,
-      "name": "Evolucionando",
-      "url": "https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0"
+      "duration_ms": 200357,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
     },
     {
       "added_at": "2026-08-21 04:20:34",
@@ -599,22 +615,6 @@
       "duration_ms": 162066,
       "name": "Cuando No Estoy",
       "url": "https://open.spotify.com/track/4uSbOaDtyIZIj0CUmmjbDk"
-    },
-    {
-      "added_at": "2026-08-21 04:20:34",
-      "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 200357,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
     },
     {
       "added_at": "2026-08-21 04:20:34",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
-        "name": "La Meta Es Ser",
-        "url": "https://open.spotify.com/album/01BRbJbk8itR8nCetRX16p"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "La Meta Es Ser",
-      "url": "https://open.spotify.com/track/6XXuLRprNFfcZjHLvOBBmh"
-    },
-    {
-      "added_at": "2026-08-21 04:20:34",
-      "album": {
         "name": "La G\u00fcera",
         "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 158242,
       "name": "La G\u00fcera",
       "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
+    },
+    {
+      "added_at": "2026-08-21 04:20:34",
+      "album": {
+        "name": "La Meta Es Ser",
+        "url": "https://open.spotify.com/album/01BRbJbk8itR8nCetRX16p"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "La Meta Es Ser",
+      "url": "https://open.spotify.com/track/6XXuLRprNFfcZjHLvOBBmh"
     },
     {
       "added_at": "2026-08-21 04:20:34",
@@ -735,6 +735,26 @@
       "duration_ms": 163669,
       "name": "La Pen\u00ednsula",
       "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
+    },
+    {
+      "added_at": "2026-08-21 04:20:34",
+      "album": {
+        "name": "Viejos Tiempos",
+        "url": "https://open.spotify.com/album/2kXVZ9atw5dK5SPUMUNmgy"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Los 2 Plebes Y Su Tuba De Oro",
+          "url": "https://open.spotify.com/artist/1YzuswgrVFHlvA6Norl7Ze"
+        }
+      ],
+      "duration_ms": 207777,
+      "name": "As\u00ed Es El Amor",
+      "url": "https://open.spotify.com/track/6Xgy5U0hBUJsvhFaDodvJN"
     },
     {
       "added_at": "2026-08-21 04:20:34",
@@ -775,26 +795,6 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
-        "name": "Viejos Tiempos",
-        "url": "https://open.spotify.com/album/2kXVZ9atw5dK5SPUMUNmgy"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Los 2 Plebes Y Su Tuba De Oro",
-          "url": "https://open.spotify.com/artist/1YzuswgrVFHlvA6Norl7Ze"
-        }
-      ],
-      "duration_ms": 207777,
-      "name": "As\u00ed Es El Amor",
-      "url": "https://open.spotify.com/track/6Xgy5U0hBUJsvhFaDodvJN"
-    },
-    {
-      "added_at": "2026-08-21 04:20:34",
-      "album": {
         "name": "RED FLAG",
         "url": "https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
-        "name": "EL RG 2",
-        "url": "https://open.spotify.com/album/7rNLWhbgJ0X6TSmsF3rvc0"
+        "name": "TAN FACIL",
+        "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
       },
       "artists": [
         {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
         }
       ],
-      "duration_ms": 214783,
-      "name": "El RG 2",
-      "url": "https://open.spotify.com/track/6Jn2LvKZOmtGldcEcXOWEF"
+      "duration_ms": 162711,
+      "name": "TAN FACIL",
+      "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
     },
     {
       "added_at": "2026-08-21 04:20:34",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
-        "name": "TAN FACIL",
-        "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
+        "name": "EL RG 2",
+        "url": "https://open.spotify.com/album/7rNLWhbgJ0X6TSmsF3rvc0"
       },
       "artists": [
         {
-          "name": "Jonathan Caro",
-          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
         }
       ],
-      "duration_ms": 162711,
-      "name": "TAN FACIL",
-      "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
+      "duration_ms": 214783,
+      "name": "El RG 2",
+      "url": "https://open.spotify.com/track/6Jn2LvKZOmtGldcEcXOWEF"
     },
     {
       "added_at": "2026-08-21 04:20:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
-        "name": "CHULA ELLA 59",
-        "url": "https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty"
-      },
-      "artists": [
-        {
-          "name": "Reynaldos de la Sierra",
-          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
-        }
-      ],
-      "duration_ms": 144874,
-      "name": "KBRON",
-      "url": "https://open.spotify.com/track/1ggjoOO0Strq7nEV2GCdpK"
-    },
-    {
-      "added_at": "2026-08-21 04:20:34",
-      "album": {
         "name": "Etapa Migajera",
         "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 172202,
       "name": "Etapa Migajera",
       "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
+    },
+    {
+      "added_at": "2026-08-21 04:20:34",
+      "album": {
+        "name": "CHULA ELLA 59",
+        "url": "https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty"
+      },
+      "artists": [
+        {
+          "name": "Reynaldos de la Sierra",
+          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
+        }
+      ],
+      "duration_ms": 144874,
+      "name": "KBRON",
+      "url": "https://open.spotify.com/track/1ggjoOO0Strq7nEV2GCdpK"
     },
     {
       "added_at": "2026-08-21 04:20:34",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-08-21 04:20:34",
       "album": {
-        "name": "Apenas Prend\u00ed El Motor",
-        "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
-      },
-      "artists": [
-        {
-          "name": "Eley Romero",
-          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
-        },
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        }
-      ],
-      "duration_ms": 117866,
-      "name": "Apenas Prend\u00ed El Motor",
-      "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
-    },
-    {
-      "added_at": "2026-08-21 04:20:34",
-      "album": {
         "name": "No Te Da Verg\u00fcenza",
         "url": "https://open.spotify.com/album/53UsLp0OiG9YUnHYOfBJHm"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 184473,
       "name": "No Te Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/36rjhojiHUzrOCAk3A8Zbc"
+    },
+    {
+      "added_at": "2026-08-21 04:20:34",
+      "album": {
+        "name": "Apenas Prend\u00ed El Motor",
+        "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
+      },
+      "artists": [
+        {
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        },
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "duration_ms": 117866,
+      "name": "Apenas Prend\u00ed El Motor",
+      "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
     },
     {
       "added_at": "2026-08-21 04:20:34",

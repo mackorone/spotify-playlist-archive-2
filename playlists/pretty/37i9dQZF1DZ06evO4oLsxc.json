@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1567,
+  "num_followers": 1568,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAABTGvxKNtPrDNa6SiOih5NJ",
+  "snapshot_id": "aoeVAAAAAADFk8d8iLG67YSlJCyPra7d",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "nag champa",
-        "url": "https://open.spotify.com/album/2j3D8Ms83vrBFRKbIA3pQw"
+        "name": "The Yussef Dayes Experience - Live From Malibu",
+        "url": "https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm"
       },
       "artists": [
         {
-          "name": "agajon",
-          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 172190,
-      "name": "so simple",
-      "url": "https://open.spotify.com/track/1xg3Nzby8u6q88hOjvEWLy"
+      "duration_ms": 405840,
+      "name": "Black Classical Music / Afro Cubanism (feat. Venna) - Live From Malibu",
+      "url": "https://open.spotify.com/track/46YmGTsOcQRAjYr7waaAMs"
     },
     {
       "added_at": null,
@@ -539,22 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Yussef Dayes Experience - Live From Malibu",
-        "url": "https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm"
+        "name": "nag champa",
+        "url": "https://open.spotify.com/album/2j3D8Ms83vrBFRKbIA3pQw"
       },
       "artists": [
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+          "name": "agajon",
+          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
         },
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 405840,
-      "name": "Black Classical Music / Afro Cubanism (feat. Venna) - Live From Malibu",
-      "url": "https://open.spotify.com/track/46YmGTsOcQRAjYr7waaAMs"
+      "duration_ms": 172190,
+      "name": "so simple",
+      "url": "https://open.spotify.com/track/1xg3Nzby8u6q88hOjvEWLy"
     },
     {
       "added_at": null,

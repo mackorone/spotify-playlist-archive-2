@@ -10802,7 +10802,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 195291,
       "name": "Before You Tell Me",
       "url": "https://open.spotify.com/track/1FJ5dcBGo2GiIU8dzX1Rca"
@@ -12060,6 +12060,28 @@
       "duration_ms": 219392,
       "name": "Birds",
       "url": "https://open.spotify.com/track/01xDeWS4J09iVhVY7DZ9Ov"
+    },
+    {
+      "album": {
+        "name": "Birds & Bees (You Belong To Me)",
+        "url": "https://open.spotify.com/album/6X36DMfoT0uvcHBrtDWaF3"
+      },
+      "artists": [
+        {
+          "name": "Juli Mala",
+          "url": "https://open.spotify.com/artist/0VcXNI2SfCf0RDBNsKDkcU"
+        },
+        {
+          "name": "Puelo",
+          "url": "https://open.spotify.com/artist/2qoCSHy9hx6AaCNt8JlolS"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146315,
+      "name": "Birds & Bees (You Belong To Me)",
+      "url": "https://open.spotify.com/track/2opEnQuLSOiUPAO0nBHYNp"
     },
     {
       "album": {
@@ -50516,7 +50538,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 137812,
       "name": "I Tried (To Tell You)",
       "url": "https://open.spotify.com/track/63vC3T0WxJ7vs7e2oye6oC"
@@ -56789,6 +56811,24 @@
     },
     {
       "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/6cNjF1v3EslWkIOPgxz9DK"
+      },
+      "artists": [
+        {
+          "name": "Zach Madden",
+          "url": "https://open.spotify.com/artist/2QGt7Lf4zUJFBI6guVuU01"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208958,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/228TiWAoLctAfBXt86KQQG"
+    },
+    {
+      "album": {
         "name": "Kids of Summer",
         "url": "https://open.spotify.com/album/2BZvcY82oDXIpY71k1msWS"
       },
@@ -59380,7 +59420,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 254513,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/0F0VtbbFl3ZkkOKJqxMqaQ"
@@ -77283,6 +77323,32 @@
     },
     {
       "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/23hYOORStuudB8prartCvP"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Bindzi",
+          "url": "https://open.spotify.com/artist/4r4yiJl5T8xG80tFnUGIxv"
+        },
+        {
+          "name": "Mattanoll",
+          "url": "https://open.spotify.com/artist/3NAWZkwLeRsso7JSeFGEcx"
+        },
+        {
+          "name": "Enzo Bennet",
+          "url": "https://open.spotify.com/artist/54t1lL05EmM0HpnP8WKhhx"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169727,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/2U2x60PBBOSqMTh1VYulTU"
+    },
+    {
+      "album": {
         "name": "ON&ON",
         "url": "https://open.spotify.com/album/3P3GHIvRjgUNFNymZCebMu"
       },
@@ -78766,6 +78832,24 @@
       "duration_ms": 271835,
       "name": "Out On The Run",
       "url": "https://open.spotify.com/track/6hq2YzBeQENII2L7aCecCG"
+    },
+    {
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/71ekzcgs5LIOFU9HLA3QLO"
+      },
+      "artists": [
+        {
+          "name": "L'VON",
+          "url": "https://open.spotify.com/artist/4BIFlTyKfMZJXYNSRKekAq"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1F7ojBxZOKSzY2zOjMRcXR"
     },
     {
       "album": {
@@ -112018,6 +112102,24 @@
       "duration_ms": 111775,
       "name": "unrequited love",
       "url": "https://open.spotify.com/track/7saZGol648iJi3wvKev41R"
+    },
+    {
+      "album": {
+        "name": "Unrequited Zone",
+        "url": "https://open.spotify.com/album/3S9u88kOfb2unUxXIx0vud"
+      },
+      "artists": [
+        {
+          "name": "The Lizard Mixture",
+          "url": "https://open.spotify.com/artist/3qisEBqBLwBJZsl8Bdxqud"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268559,
+      "name": "Unrequited Zone",
+      "url": "https://open.spotify.com/track/2f0Y3OTB3hOmjk8UKO2Pdb"
     },
     {
       "album": {

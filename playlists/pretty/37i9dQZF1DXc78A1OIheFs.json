@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19377,
+  "num_followers": 19378,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Ride It Out",
-        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Ride It Out",
-      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "Road From 26",
         "url": "https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 196393,
       "name": "Blue Eyed M\u0101ori",
       "url": "https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Ride It Out",
+        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Ride It Out",
+      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Right Here Right Now",
-        "url": "https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W"
-      },
-      "artists": [
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 203539,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "Make Way For The Sun",
         "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 214000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Right Here Right Now",
+        "url": "https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "duration_ms": 203539,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Bless the Broken Road",
-        "url": "https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D"
-      },
-      "artists": [
-        {
-          "name": "Myshaan",
-          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Bless the Broken Road",
-      "url": "https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "The//Glow",
         "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 234947,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Bless the Broken Road",
+        "url": "https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D"
+      },
+      "artists": [
+        {
+          "name": "Myshaan",
+          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Bless the Broken Road",
+      "url": "https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
-      },
-      "artists": [
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "East Coast",
         "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
-      },
-      "artists": [
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 164070,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "drag",
-        "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
       },
       "artists": [
         {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
         }
       ],
-      "duration_ms": 229683,
-      "name": "drag",
-      "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
+      "duration_ms": 164070,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -847,6 +831,22 @@
       "duration_ms": 148525,
       "name": "DEATH COMES FROM THE SKY",
       "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "drag",
+        "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 229683,
+      "name": "drag",
+      "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
+        "name": "Heavy Meadow",
+        "url": "https://open.spotify.com/album/1MYepGZb30Prv8rd9paIRL"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Lean Into The Hill",
+      "url": "https://open.spotify.com/track/6vYO7UphrLGyCuQUs9621A"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
         "name": "Troubles",
         "url": "https://open.spotify.com/album/5kNqMZgBP1lh5as2AVerBY"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 195000,
       "name": "Troubles",
       "url": "https://open.spotify.com/track/6yjUcWU2Se6A26htiGZkPS"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "Heavy Meadow",
-        "url": "https://open.spotify.com/album/1MYepGZb30Prv8rd9paIRL"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Lean Into The Hill",
-      "url": "https://open.spotify.com/track/6vYO7UphrLGyCuQUs9621A"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -927,18 +927,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "call me yours",
-        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
+        "name": "I Wanna Tell Somebody",
+        "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
       },
       "artists": [
         {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Josh Milan",
+          "url": "https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR"
         }
       ],
-      "duration_ms": 204622,
-      "name": "call me yours",
-      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
+      "duration_ms": 358186,
+      "name": "I Wanna Tell Somebody",
+      "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -959,22 +963,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "I Wanna Tell Somebody",
-        "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
+        "name": "call me yours",
+        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
       },
       "artists": [
         {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        },
-        {
-          "name": "Josh Milan",
-          "url": "https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR"
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
         }
       ],
-      "duration_ms": 358186,
-      "name": "I Wanna Tell Somebody",
-      "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
+      "duration_ms": 204622,
+      "name": "call me yours",
+      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Have You Ever Seen the Rain",
-        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
       },
       "artists": [
         {
-          "name": "House of Shem",
-          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 193509,
-      "name": "Have You Ever Seen the Rain",
-      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 254385,
       "name": "Under The Surface",
       "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Have You Ever Seen the Rain",
+        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
+      },
+      "artists": [
+        {
+          "name": "House of Shem",
+          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
+        }
+      ],
+      "duration_ms": 193509,
+      "name": "Have You Ever Seen the Rain",
+      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "TRY MY LUCK X PLAY WITH MY NAME X BAD INTENTIONS",
-        "url": "https://open.spotify.com/album/3rjENvhrDfiGAzHVmIIAWj"
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
       },
       "artists": [
         {
-          "name": "Kings",
-          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "Sam Bruno",
+          "url": "https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb"
         }
       ],
-      "duration_ms": 145654,
-      "name": "TRY MY LUCK",
-      "url": "https://open.spotify.com/track/2ANN7DgIBa2YkpEsHGwviX"
+      "duration_ms": 186964,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "GO!",
-        "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
+        "name": "TRY MY LUCK X PLAY WITH MY NAME X BAD INTENTIONS",
+        "url": "https://open.spotify.com/album/3rjENvhrDfiGAzHVmIIAWj"
       },
       "artists": [
         {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        },
-        {
-          "name": "Sam Bruno",
-          "url": "https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb"
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
         }
       ],
-      "duration_ms": 186964,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
+      "duration_ms": 145654,
+      "name": "TRY MY LUCK",
+      "url": "https://open.spotify.com/track/2ANN7DgIBa2YkpEsHGwviX"
     }
   ],
   "unique_name": "The Local List Aotearoa",

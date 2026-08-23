@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 grootste hits in NL met cover: Aitch\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,101 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,973 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 17 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
 | 18 | [BLIJF RUSTIG](https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BLIJF RUSTIG](https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM) | 2:49 |
 | 19 | [Kingdom of Fear](https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:41 |
-| 20 | [PUNTA CANA](https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Trapmoneybiggie](https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv) | [Punta cana \(feat\. ADF Antje & Trapmoneybiggie\)](https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf) | 2:28 |
+| 20 | [PUNTA CANA](https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Trapmoneybiggie](https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv) | [PUNTA CANA \(feat\. ADF Antje & Trapmoneybiggie\)](https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf) | 2:28 |
 | 21 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 22 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI) | 2:57 |
 | 23 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |

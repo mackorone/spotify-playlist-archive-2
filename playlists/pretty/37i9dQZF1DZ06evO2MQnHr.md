@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 | 6 | [Same Car](https://open.spotify.com/track/0EMsXbJHyW0217asHoeMhY) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Same Car](https://open.spotify.com/album/759nkzilX3qEZTil0BPm4H) | 3:39 |
 | 7 | [If You Never Broke My Heart](https://open.spotify.com/track/2olvBlWjNUYMx2oEMsjfmD) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [If You Never Broke My Heart](https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN) | 2:55 |
 | 8 | [Day One \(ft\. Madeline Merlo\)](https://open.spotify.com/track/17qCaa3TLb3vOXc68p2w9B) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Dream House](https://open.spotify.com/album/4ZysfboxjcufMoSnnw4aoh) | 2:32 |
-| 9 | [Dear Me](https://open.spotify.com/track/5wj7pNgQbLABItpzF3yH8U) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Dear Me](https://open.spotify.com/album/6ZWF9IIPH4Ex6ygB9kizky) | 2:40 |
-| 10 | [Tim + Faith](https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv) | 3:50 |
+| 9 | [Tim + Faith](https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv) | 3:50 |
+| 10 | [Dear Me](https://open.spotify.com/track/5wj7pNgQbLABItpzF3yH8U) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Dear Me](https://open.spotify.com/album/6ZWF9IIPH4Ex6ygB9kizky) | 2:40 |
 | 11 | [Kiss Kiss](https://open.spotify.com/track/6qbJuNW2LYU1kYnzyyVBBn) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Kiss Kiss](https://open.spotify.com/album/0DVXGrjbjc0YSGbkh4g26Z) | 3:12 |
 | 12 | [Whatcha Wanna Do About It](https://open.spotify.com/track/4RvfyCTSXK7sxQ6Srp26lu) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:31 |
 | 13 | [Neon Love](https://open.spotify.com/track/0sKeaaAQYBTTkO8drpnEN1) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Neon Love](https://open.spotify.com/album/18e5sUiTLTXM7Kk05LU75j) | 3:09 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 | 35 | [Have You Ever Had so Much Fun](https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD) | [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:43 |
 | 36 | [Don't](https://open.spotify.com/track/5ziCJSpPo7Gjo0yXoGsu4v) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 4:20 |
 
-Snapshot ID: `aoZDgAAAAABjO4DPoXB6IWnomV49IrOY`
+Snapshot ID: `aoeVAAAAAAAAEniAY6ebJc0gVtvYF2S3`

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/0jTuYgwRJFEIt1Lj5DgZhj"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196516,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/13WG9SybiasncepUp5U3JP"
+    },
+    {
+      "album": {
         "name": "mensajes de voz",
         "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
       },

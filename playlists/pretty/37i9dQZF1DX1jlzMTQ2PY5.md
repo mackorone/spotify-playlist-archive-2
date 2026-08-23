@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,152 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,187 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 31 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 |
 | 32 | [FEEL LIKE ME](https://open.spotify.com/track/7fsyvxSJi1vkTzwO5eQFMo) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [FEEL LIKE ME](https://open.spotify.com/album/3bJ63PICHastTFzJkXGHAu) | 5:13 |
 | 33 | [Visions](https://open.spotify.com/track/1cUMjhHLPqZv7JVepLWx0I) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Visions](https://open.spotify.com/album/2eUc1a27dfnotXM45YipvI) | 4:12 |
-| 34 | [Sapphire Skies](https://open.spotify.com/track/5BMrCe5wYJVDWoXIDKTeqk) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Gemma Rose](https://open.spotify.com/artist/69e7Hu1jSzXawYb4pZQVLX) | [This Is Riyality](https://open.spotify.com/album/78nynwEosZprYfnTG2ZUos) | 5:11 |
-| 35 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
+| 34 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
+| 35 | [Sapphire Skies](https://open.spotify.com/track/5BMrCe5wYJVDWoXIDKTeqk) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Gemma Rose](https://open.spotify.com/artist/69e7Hu1jSzXawYb4pZQVLX) | [This Is Riyality](https://open.spotify.com/album/78nynwEosZprYfnTG2ZUos) | 5:11 |
 | 36 | [Lovebombs](https://open.spotify.com/track/0XC1E7JdINwIbX94uT5YkU) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Dunk](https://open.spotify.com/artist/3to9W3JX4kSmj4TEGlKiDS) | [Lunatics & Legends](https://open.spotify.com/album/3ykaR3X0wfsHG0JFxrmfFP) | 4:17 |
 | 37 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
 | 38 | [Time \- Nu: Tone Remix](https://open.spotify.com/track/4fVU6IM0HNStUA3Qkp9Brb) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ), [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ) | [Time \(Nu:Tone Remix\)](https://open.spotify.com/album/1kX2nhwX2PebPYl06D3BZ9) | 5:20 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 44 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
 | 45 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
 | 46 | [Wonderluv](https://open.spotify.com/track/6w28PfNPGBrfuaHRrOJ0aE) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [Wonderluv](https://open.spotify.com/album/2LkzjaFwGulpxmAU9qYNDD) | 4:16 |
-| 47 | [Be Your Girl](https://open.spotify.com/track/6kXqI6x2TR8lpHNmflsN9F) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [LADY KIM](https://open.spotify.com/artist/7hRNnqrDLe8mtGVfHHkdch) | [Be Your Girl](https://open.spotify.com/album/65E5O3o7unNpPrLaw1h5Gm) | 3:40 |
-| 48 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
-| 49 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
+| 47 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
+| 48 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
+| 49 | [Be Your Girl](https://open.spotify.com/track/6kXqI6x2TR8lpHNmflsN9F) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [LADY KIM](https://open.spotify.com/artist/7hRNnqrDLe8mtGVfHHkdch) | [Be Your Girl](https://open.spotify.com/album/65E5O3o7unNpPrLaw1h5Gm) | 3:40 |
 | 50 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
 
 Snapshot ID: `AAAAAFEk6UHawlT8bpmxlcD3Lf6mnkPg`

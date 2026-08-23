@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 50888,
+  "num_followers": 50898,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAADFZC53HtNejD1euaZvEI9o",
+  "snapshot_id": "aoeVAAAAAADy0kIXsuu/d1b79voPBz6t",
   "tracks": [
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 118618,
-      "name": "Devil In Disguise",
-      "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
+      "duration_ms": 81741,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 81741,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
+      "duration_ms": 118618,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
     },
     {
       "added_at": null,

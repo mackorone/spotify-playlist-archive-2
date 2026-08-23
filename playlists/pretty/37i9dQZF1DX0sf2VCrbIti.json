@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Me Enamoro de Ella",
+      "url": "https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
         "name": "Amores Perros (Soundtrack)",
         "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Me Enamoro de Ella",
-      "url": "https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
         "name": "Hector Lavoe El Cantante -The Originals",
         "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
       },
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Cl\u00e1sicos de Oro de Billo Caracas Boy's, Vol II",
-        "url": "https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W"
+        "name": "Las Mejores Gaitas Vol.2",
+        "url": "https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S"
       },
       "artists": [
         {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Gran Coquivacoa",
+          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
         }
       ],
-      "duration_ms": 193800,
-      "name": "Aguinaldo Con Billo",
-      "url": "https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t"
+      "duration_ms": 174240,
+      "name": "Gaita Onomatopeyica",
+      "url": "https://open.spotify.com/track/0HAoMv4QDZ52UCiCSWwLyy"
     }
   ],
   "unique_name": "\u00a1Felices Fiestas!",

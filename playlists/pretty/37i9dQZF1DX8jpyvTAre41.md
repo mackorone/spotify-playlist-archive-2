@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,573 likes - 147 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,574 likes - 147 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 138 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
 | 139 | [remember my name](https://open.spotify.com/track/5xmNuWZX1YTmuqH0V8Nlw3) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [remember my name](https://open.spotify.com/album/5xylOGmCjHPVBpPpo0SpbN) | 3:41 |
 | 140 | [Bridges to Burn](https://open.spotify.com/track/2MnYyyGS45UFtd8o0B7Zpg) | [Tess Anderson](https://open.spotify.com/artist/5ox6HO8bERaZnOnVWN06c8) | [Bridges to Burn](https://open.spotify.com/album/2pTJM3WL4sR0rNgXAk3kK6) | 3:33 |
-| 141 | [To Be American](https://open.spotify.com/track/0kDNYrlStkgDLemyXdMBUx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [To Be American](https://open.spotify.com/album/1Eioydw7VqUy42EKnwKLVE) | 4:00 |
+| 141 | [To Be American](https://open.spotify.com/track/0kDNYrlStkgDLemyXdMBUx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [To Be American](https://open.spotify.com/album/1Eioydw7VqUy42EKnwKLVE) | 4:01 |
 | 142 | [Ativan](https://open.spotify.com/track/3F2TEOaJ1n703q1rIiHlvm) | [Pillow Fite](https://open.spotify.com/artist/4qYYUWoet5mNRpDASCnGC8) | [Hard Feelings, Soft Promises](https://open.spotify.com/album/5A17o1NdZOcgNwW3gBJWmr) | 2:56 |
 | 143 | [uncle sam](https://open.spotify.com/track/3BJ57RrmPaTl1OjbAUkPxy) | [overtonight](https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs) | [uncle sam](https://open.spotify.com/album/1hra7FPAkxYBwp7KcENcU3) | 2:20 |
 | 144 | [I STILL KNOW YOU](https://open.spotify.com/track/73G7FMzRimBDLnuZ9v72M1) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [And You Who Drowned in the Grief of a Golden Thing \(The Director's Cut\)](https://open.spotify.com/album/14boQaEdORXEpj4CJNvepV) | 3:54 |

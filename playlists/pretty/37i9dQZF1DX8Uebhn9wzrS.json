@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udfa7 hit play, lock in, get stuff done \ud83d\udcda",
-  "num_followers": 2163829,
+  "num_followers": 2163761,
   "original_name": "chill lofi study beats",
   "owner": {
     "name": "Spotify",
@@ -675,8 +675,8 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "mellow out",
-        "url": "https://open.spotify.com/album/6UQUFb9OwDxj1Nm8H15tcf"
+        "name": "beneath",
+        "url": "https://open.spotify.com/album/6wv2ocQnKCuPRd4PLpuNKy"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U"
         }
       ],
-      "duration_ms": 122919,
-      "name": "mellow out",
-      "url": "https://open.spotify.com/track/3Nrvm4lMBMb7yem6dUnOdt"
+      "duration_ms": 151480,
+      "name": "beneath",
+      "url": "https://open.spotify.com/track/42pIoyICzBcN4iS6vtVpOr"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -755,8 +755,8 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "beneath",
-        "url": "https://open.spotify.com/album/6wv2ocQnKCuPRd4PLpuNKy"
+        "name": "mellow out",
+        "url": "https://open.spotify.com/album/6UQUFb9OwDxj1Nm8H15tcf"
       },
       "artists": [
         {
@@ -764,29 +764,9 @@
           "url": "https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U"
         }
       ],
-      "duration_ms": 151480,
-      "name": "beneath",
-      "url": "https://open.spotify.com/track/42pIoyICzBcN4iS6vtVpOr"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
-        "name": "Satin Soul",
-        "url": "https://open.spotify.com/album/7v6SSUmG30r1AkvgOZiky9"
-      },
-      "artists": [
-        {
-          "name": "Ghostnaut",
-          "url": "https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3"
-        },
-        {
-          "name": "Lunath",
-          "url": "https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Satin Soul",
-      "url": "https://open.spotify.com/track/2ArzG3wZ8AtiTyAZ4ErUyV"
+      "duration_ms": 122919,
+      "name": "mellow out",
+      "url": "https://open.spotify.com/track/3Nrvm4lMBMb7yem6dUnOdt"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -807,6 +787,26 @@
       "duration_ms": 175238,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
+        "name": "Satin Soul",
+        "url": "https://open.spotify.com/album/7v6SSUmG30r1AkvgOZiky9"
+      },
+      "artists": [
+        {
+          "name": "Ghostnaut",
+          "url": "https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3"
+        },
+        {
+          "name": "Lunath",
+          "url": "https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Satin Soul",
+      "url": "https://open.spotify.com/track/2ArzG3wZ8AtiTyAZ4ErUyV"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "trail running",
-        "url": "https://open.spotify.com/album/114QRu5RtFb6ckOjLI3LGP"
-      },
-      "artists": [
-        {
-          "name": "le gronk",
-          "url": "https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "trail running",
-      "url": "https://open.spotify.com/track/3596EdDGZEzM9UPr9w2I0w"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "random thoughts",
         "url": "https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 135000,
       "name": "random thoughts",
       "url": "https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
+        "name": "trail running",
+        "url": "https://open.spotify.com/album/114QRu5RtFb6ckOjLI3LGP"
+      },
+      "artists": [
+        {
+          "name": "le gronk",
+          "url": "https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "trail running",
+      "url": "https://open.spotify.com/track/3596EdDGZEzM9UPr9w2I0w"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "peaceful",
-        "url": "https://open.spotify.com/album/7rVGN9NF0yZMxjou6b4YoP"
-      },
-      "artists": [
-        {
-          "name": "Lil Leaf",
-          "url": "https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY"
-        }
-      ],
-      "duration_ms": 149700,
-      "name": "peaceful",
-      "url": "https://open.spotify.com/track/385fgx1lcfPAypihGYYfTT"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "Left the TV On",
         "url": "https://open.spotify.com/album/5YLw5U6ifXRWuVE8EzJSaE"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "Mellowed Out",
-        "url": "https://open.spotify.com/album/2TtHKdUbRqUlAJt8JJ8dLG"
+        "name": "peaceful",
+        "url": "https://open.spotify.com/album/7rVGN9NF0yZMxjou6b4YoP"
       },
       "artists": [
         {
-          "name": "bleubeats",
-          "url": "https://open.spotify.com/artist/17xtshp63CJcjSRpRowYMm"
+          "name": "Lil Leaf",
+          "url": "https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY"
         }
       ],
-      "duration_ms": 170526,
-      "name": "Mellowed Out",
-      "url": "https://open.spotify.com/track/4muVdc3j9JyY9vgxzNwo2J"
+      "duration_ms": 149700,
+      "name": "peaceful",
+      "url": "https://open.spotify.com/track/385fgx1lcfPAypihGYYfTT"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
+        "name": "Mellowed Out",
+        "url": "https://open.spotify.com/album/2TtHKdUbRqUlAJt8JJ8dLG"
+      },
+      "artists": [
+        {
+          "name": "bleubeats",
+          "url": "https://open.spotify.com/artist/17xtshp63CJcjSRpRowYMm"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Mellowed Out",
+      "url": "https://open.spotify.com/track/4muVdc3j9JyY9vgxzNwo2J"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
         "name": "alone with the moon.",
         "url": "https://open.spotify.com/album/3lBc2wGCbhf0SY5pI6iI4F"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "Folded Rhythm",
-        "url": "https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9"
-      },
-      "artists": [
-        {
-          "name": "weightless minutes",
-          "url": "https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN"
-        }
-      ],
-      "duration_ms": 110438,
-      "name": "Folded Rhythm",
-      "url": "https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "My Pond",
         "url": "https://open.spotify.com/album/0Ht2STMgFBaApzQSmj4hYQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 147540,
       "name": "My Pond",
       "url": "https://open.spotify.com/track/3dRnbYBfxx1dXbHEpI7Ayt"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
+        "name": "Folded Rhythm",
+        "url": "https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9"
+      },
+      "artists": [
+        {
+          "name": "weightless minutes",
+          "url": "https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN"
+        }
+      ],
+      "duration_ms": 110438,
+      "name": "Folded Rhythm",
+      "url": "https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/5a9qEcg5nTzr7ZIPVO8FQk"
-      },
-      "artists": [
-        {
-          "name": "Zeitgeister",
-          "url": "https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl"
-        }
-      ],
-      "duration_ms": 124556,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5gUG9ivCY3V5DRW8301SbS"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "Our Feelings",
         "url": "https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 140321,
       "name": "Our Feelings",
       "url": "https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/5a9qEcg5nTzr7ZIPVO8FQk"
+      },
+      "artists": [
+        {
+          "name": "Zeitgeister",
+          "url": "https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl"
+        }
+      ],
+      "duration_ms": 124556,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5gUG9ivCY3V5DRW8301SbS"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "separate ways",
-        "url": "https://open.spotify.com/album/5jsuVua8jgHydjorTJqqrC"
-      },
-      "artists": [
-        {
-          "name": "leaf land",
-          "url": "https://open.spotify.com/artist/53oSRikHvu3IOUp2L8Rano"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "separate ways",
-      "url": "https://open.spotify.com/track/4zIcaL6M0tAUmXiQeZp7IE"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "Gentle Shore",
         "url": "https://open.spotify.com/album/7r9en8Xo1JxfJQu92R2C6D"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 140307,
       "name": "Banana Muffin",
       "url": "https://open.spotify.com/track/0dnRn5FNiU0HiMrrNamNbK"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
+        "name": "separate ways",
+        "url": "https://open.spotify.com/album/5jsuVua8jgHydjorTJqqrC"
+      },
+      "artists": [
+        {
+          "name": "leaf land",
+          "url": "https://open.spotify.com/artist/53oSRikHvu3IOUp2L8Rano"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "separate ways",
+      "url": "https://open.spotify.com/track/4zIcaL6M0tAUmXiQeZp7IE"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -1407,42 +1407,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "Shifting Sands",
-        "url": "https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2"
-      },
-      "artists": [
-        {
-          "name": "G:sson",
-          "url": "https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Shifting Sands",
-      "url": "https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/3TWhBNWnXwJ8wJpH0vOyTM"
-      },
-      "artists": [
-        {
-          "name": "Lotus Beats",
-          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
-        },
-        {
-          "name": "Notation",
-          "url": "https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/1aswhgX6xYksPefv9z1phm"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "Afloat",
         "url": "https://open.spotify.com/album/3xNPhzGaJHRy4fe0Uwj0Bb"
       },
@@ -1463,6 +1427,22 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
+        "name": "Shifting Sands",
+        "url": "https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2"
+      },
+      "artists": [
+        {
+          "name": "G:sson",
+          "url": "https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Shifting Sands",
+      "url": "https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
         "name": "pawsitive",
         "url": "https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 136744,
       "name": "pawsitive",
       "url": "https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/3TWhBNWnXwJ8wJpH0vOyTM"
+      },
+      "artists": [
+        {
+          "name": "Lotus Beats",
+          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
+        },
+        {
+          "name": "Notation",
+          "url": "https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/1aswhgX6xYksPefv9z1phm"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "6pm",
-        "url": "https://open.spotify.com/album/3PPf3xP52A0riQ1fQU1ubU"
-      },
-      "artists": [
-        {
-          "name": "Living Room",
-          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "6pm",
-      "url": "https://open.spotify.com/track/6K0u6O2AuT5YDL19hwD7dj"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "Lo-fi Love Letters",
         "url": "https://open.spotify.com/album/1LDYsz7AHxedlGPb2Mj3Jw"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "here for the night",
-        "url": "https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw"
+        "name": "6pm",
+        "url": "https://open.spotify.com/album/3PPf3xP52A0riQ1fQU1ubU"
       },
       "artists": [
         {
-          "name": "Rustique Beats",
-          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
         }
       ],
-      "duration_ms": 119916,
-      "name": "late night walking",
-      "url": "https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a"
+      "duration_ms": 134769,
+      "name": "6pm",
+      "url": "https://open.spotify.com/track/6K0u6O2AuT5YDL19hwD7dj"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -1571,6 +1555,22 @@
       "duration_ms": 113142,
       "name": "Campanuela",
       "url": "https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
+        "name": "here for the night",
+        "url": "https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw"
+      },
+      "artists": [
+        {
+          "name": "Rustique Beats",
+          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+        }
+      ],
+      "duration_ms": 119916,
+      "name": "late night walking",
+      "url": "https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
+        "name": "Pattern",
+        "url": "https://open.spotify.com/album/0qSjBjBTS4PoP3hi7uaVJg"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "duration_ms": 122181,
+      "name": "Pattern",
+      "url": "https://open.spotify.com/track/6zDF9n0JB6caYu47scY6Fi"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
         "name": "Stones",
         "url": "https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 127856,
       "name": "Up In The Clouds Again",
       "url": "https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
-        "name": "Pattern",
-        "url": "https://open.spotify.com/album/0qSjBjBTS4PoP3hi7uaVJg"
-      },
-      "artists": [
-        {
-          "name": "Dosi",
-          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
-        }
-      ],
-      "duration_ms": 122181,
-      "name": "Pattern",
-      "url": "https://open.spotify.com/track/6zDF9n0JB6caYu47scY6Fi"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "deep reverie",
-        "url": "https://open.spotify.com/album/030JyTVxSvL5YzNCVrW12m"
-      },
-      "artists": [
-        {
-          "name": "buggy beats",
-          "url": "https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7"
-        }
-      ],
-      "duration_ms": 153362,
-      "name": "deep reverie",
-      "url": "https://open.spotify.com/track/6qSwCH11dUzTMU6dxvDtRo"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "Sunset Boulevard",
         "url": "https://open.spotify.com/album/7nJJah1pdRhcGpQReeDOVb"
       },
@@ -1951,6 +1935,22 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
+        "name": "deep reverie",
+        "url": "https://open.spotify.com/album/030JyTVxSvL5YzNCVrW12m"
+      },
+      "artists": [
+        {
+          "name": "buggy beats",
+          "url": "https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7"
+        }
+      ],
+      "duration_ms": 153362,
+      "name": "deep reverie",
+      "url": "https://open.spotify.com/track/6qSwCH11dUzTMU6dxvDtRo"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
         "name": "Behind the stars",
         "url": "https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9"
       },
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "Give Me a Slice",
-        "url": "https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD"
-      },
-      "artists": [
-        {
-          "name": "Amai Beats",
-          "url": "https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Give Me a Slice",
-      "url": "https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "Low Battery",
         "url": "https://open.spotify.com/album/4AYCDaIFCSdHmXUz6fkoxS"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 116511,
       "name": "Low Battery",
       "url": "https://open.spotify.com/track/1D4S66ipaVqV9du7elf89y"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
+        "name": "Give Me a Slice",
+        "url": "https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD"
+      },
+      "artists": [
+        {
+          "name": "Amai Beats",
+          "url": "https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Give Me a Slice",
+      "url": "https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
-        "name": "Napwave Nirvana",
-        "url": "https://open.spotify.com/album/0OUQWtv2Wny91GLsXsE5eB"
-      },
-      "artists": [
-        {
-          "name": "Dozy Duzzn",
-          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
-        }
-      ],
-      "duration_ms": 129142,
-      "name": "Napwave Nirvana",
-      "url": "https://open.spotify.com/track/1MRxxXsWluxrcyiyy0msBd"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
         "name": "fields",
         "url": "https://open.spotify.com/album/3zGuqSAuPhVZSIZAgMb8CG"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 115862,
       "name": "wherever you go",
       "url": "https://open.spotify.com/track/5gTRMe7rtIMxFRVMzJuP3T"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
+        "name": "Napwave Nirvana",
+        "url": "https://open.spotify.com/album/0OUQWtv2Wny91GLsXsE5eB"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "duration_ms": 129142,
+      "name": "Napwave Nirvana",
+      "url": "https://open.spotify.com/track/1MRxxXsWluxrcyiyy0msBd"
     },
     {
       "added_at": "2026-08-20 11:57:24",
@@ -2747,6 +2747,22 @@
     {
       "added_at": "2026-08-20 11:57:24",
       "album": {
+        "name": "by the river",
+        "url": "https://open.spotify.com/album/141FqY6TZMkbV7Xz0cLmdS"
+      },
+      "artists": [
+        {
+          "name": "marigold",
+          "url": "https://open.spotify.com/artist/4UPrESsUKf7K2iGxO1mSwc"
+        }
+      ],
+      "duration_ms": 107583,
+      "name": "by the river",
+      "url": "https://open.spotify.com/track/171mb7b7JKF2Tp1SFQa2US"
+    },
+    {
+      "added_at": "2026-08-20 11:57:24",
+      "album": {
         "name": "True Crimes",
         "url": "https://open.spotify.com/album/1WguboHSQgsMGzoQ66Y8Ds"
       },
@@ -2791,22 +2807,6 @@
       "duration_ms": 130000,
       "name": "winter dream",
       "url": "https://open.spotify.com/track/5VX7sWxG6qPfTfa89HlYTV"
-    },
-    {
-      "added_at": "2026-08-20 11:57:24",
-      "album": {
-        "name": "by the river",
-        "url": "https://open.spotify.com/album/141FqY6TZMkbV7Xz0cLmdS"
-      },
-      "artists": [
-        {
-          "name": "marigold",
-          "url": "https://open.spotify.com/artist/4UPrESsUKf7K2iGxO1mSwc"
-        }
-      ],
-      "duration_ms": 107583,
-      "name": "by the river",
-      "url": "https://open.spotify.com/track/171mb7b7JKF2Tp1SFQa2US"
     },
     {
       "added_at": "2026-08-20 11:57:24",

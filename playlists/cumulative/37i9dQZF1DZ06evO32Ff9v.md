@@ -4,10 +4,11 @@
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 45 min
+110 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [18 Segundos](https://open.spotify.com/track/5rnUPCxcAO4m0nPrHqAloE) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [18 Segundos](https://open.spotify.com/album/53Fh1PUaYyGf7FRHR3WPyt) | 3:32 | 2026-08-23 |  |
 | [3 Hectáreas y Media \(En Vivo\)](https://open.spotify.com/track/0Q5oW0YE1kUmfYFCetQvGz) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [3 Hectáreas y Media \(En Vivo\)](https://open.spotify.com/album/3s6AnnMfnUHUVW26oI2wOQ) | 3:25 | 2024-01-29 |  |
 | [A La Orden](https://open.spotify.com/track/3lysUQykedOafocejhc0lc) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [A La Orden](https://open.spotify.com/album/2xu7N2abDu6BgByx6gfFn4) | 2:57 | 2025-05-07 | 2025-07-10 |
 | [A.L.V.](https://open.spotify.com/track/29gK0gdgTdn0LsU9UTEwsn) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3) | [A.L.V.](https://open.spotify.com/album/3SxCRrJRJuFwtw2x4j86bU) | 2:39 | 2024-12-01 | 2025-03-08 |
@@ -102,7 +103,7 @@
 | [Ortiz](https://open.spotify.com/track/1szpyTT0Be1WuC62neWYIW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Torre De Oro](https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y) | 3:05 | 2025-02-15 | 2025-03-12 |
 | [Ortiz](https://open.spotify.com/track/6t5WA2338P7d8UUphfnH5c) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ortiz](https://open.spotify.com/album/4EJqxOOWo7zgEkZ0l1B7Sb) | 3:05 | 2025-01-15 | 2025-01-25 |
 | [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 | 2025-11-23 | 2026-08-08 |
-| [Por el Pueblo y Para el Pueblo](https://open.spotify.com/track/0r4FuLHmh5yE9TBBFOHikB) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Alta Gama](https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m) | [Por el Pueblo y Para el Pueblo](https://open.spotify.com/album/1wgidFNBRzoFtGx8NXhKm2) | 4:16 | 2026-07-11 |  |
+| [Por el Pueblo y Para el Pueblo](https://open.spotify.com/track/0r4FuLHmh5yE9TBBFOHikB) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Alta Gama](https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m) | [Por el Pueblo y Para el Pueblo](https://open.spotify.com/album/1wgidFNBRzoFtGx8NXhKm2) | 4:16 | 2026-07-11 | 2026-08-23 |
 | [Por Que Te Vas De Mi](https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:04 | 2024-01-29 |  |
 | [Que Casualidad](https://open.spotify.com/track/4ijcJd0qbM3i51wVAdoiMt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Que Casualidad](https://open.spotify.com/album/40AK5iEvmLqAYdWLKaBWDV) | 3:39 | 2025-05-18 | 2025-07-19 |
 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 | 2024-01-29 | 2025-02-15 |

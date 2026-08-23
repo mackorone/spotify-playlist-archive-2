@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,415 likes - 165 songs - 9 hr 10 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,419 likes - 167 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,5 +173,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 163 | [Skinny Boyfriend](https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Skinny Boyfriend](https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J) | 3:29 |
 | 164 | [Is It Too Soon to Tell You I Love You?](https://open.spotify.com/track/3sC4KTwoYy1L4nz7NXoabJ) | [KATANES](https://open.spotify.com/artist/5Z9F67svL9FJQW3g4hpBYE) | [Is It Too Soon to Tell You I Love You?](https://open.spotify.com/album/2L8WNAlTaXD8ab4RxRTT0d) | 5:39 |
 | 165 | [Skinny Boyfriend](https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Skinny Boyfriend](https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J) | 3:29 |
+| 166 | [Now](https://open.spotify.com/track/0E3kVurlBVyeiPT1oNaCI9) | [V.E.N!](https://open.spotify.com/artist/3sO9u4dOUWYj61kcOTBExd) | [The Beauty of Danger](https://open.spotify.com/album/2Jju9kOvnnejxo3XNVTI4k) | 3:00 |
+| 167 | [Notti senza sonnu](https://open.spotify.com/track/7f3DjU2N41dMAVhurBr6c2) | [Original Sicilian Style](https://open.spotify.com/artist/1ItdqjvLA5Kcx3kDkGgcVZ) | [Sutta stu celu](https://open.spotify.com/album/4gUiYiJJqvP7reBzm5qWfN) | 2:48 |
 
-Snapshot ID: `AACCN4tMl0Mhv+2zlDTPy1Dx+2yTIh6V`
+Snapshot ID: `AACCPPj7+ypeWgHVHBFnCFqGGOft1Frb`

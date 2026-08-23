@@ -14375,6 +14375,24 @@
     },
     {
       "album": {
+        "name": "Ou\u00e7a e Se Apaixone",
+        "url": "https://open.spotify.com/album/6ofMgRyODUmjHz23QTpHwM"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Resende",
+          "url": "https://open.spotify.com/artist/0Qfr2VBuNb5rk2DxkHeQEU"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139271,
+      "name": "V\u00e1rias L\u00ednguas",
+      "url": "https://open.spotify.com/track/4K3xTWJTHoH3CNB8h7Ms3w"
+    },
+    {
+      "album": {
         "name": "V\u00f4 Num V\u00f4",
         "url": "https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3"
       },

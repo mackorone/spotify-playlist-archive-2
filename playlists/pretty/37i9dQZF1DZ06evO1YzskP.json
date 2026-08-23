@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 69152,
+  "num_followers": 69180,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAAFUJRDcgM7jWsjV1lN5eLQ",
+  "snapshot_id": "aoeVAAAAAADFCub0QqQI+oPmf9vbZyRz",
   "tracks": [
     {
       "added_at": null,
@@ -515,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+        "name": "Nacimos Con Estrella",
+        "url": "https://open.spotify.com/album/2S0FbDrOTKRYbfTl462RV3"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         }
       ],
-      "duration_ms": 193800,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi"
+      "duration_ms": 226848,
+      "name": "Nacimos Con Estrella",
+      "url": "https://open.spotify.com/track/1Y3gC8sYbwQYA24CQwpfVu"
     },
     {
       "added_at": null,
@@ -547,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nacimos Con Estrella",
-        "url": "https://open.spotify.com/album/2S0FbDrOTKRYbfTl462RV3"
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         }
       ],
-      "duration_ms": 226848,
-      "name": "Nacimos Con Estrella",
-      "url": "https://open.spotify.com/track/1Y3gC8sYbwQYA24CQwpfVu"
+      "duration_ms": 193800,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-330 songs - 20 hr 21 min
+331 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Toca Toca](https://open.spotify.com/track/1B27a06OAQx7CS46plr5pU) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u), [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Toca Toca](https://open.spotify.com/album/1ectv01q8m2iZNm7p5hiaO) | 2:38 | 2026-07-10 |  |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-08-09 | 2026-03-21 |
 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-04-19 | 2026-03-21 |
-| [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 | 2026-04-10 |  |
+| [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 | 2026-04-10 | 2026-08-23 |
 | [TULUM](https://open.spotify.com/track/5M78hc4mehGI2p8HEcgkrk) | [Pllws](https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq), [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl) | [TULUM](https://open.spotify.com/album/6U69FDRdNrQAtuEu2XwIiA) | 3:26 | 2022-03-29 | 2022-07-29 |
 | [Una Bluna](https://open.spotify.com/track/5w751wHxeQVDLuC5EfjGRv) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Stiff Little Spinners, Vol\. 4](https://open.spotify.com/album/7zuqXEbXgEKCKcUXWCFY5V) | 7:18 | 2022-03-29 | 2022-07-11 |
 | [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 | 2025-03-14 |  |
@@ -317,6 +317,7 @@
 | [Víctor Jara](https://open.spotify.com/track/5Uyp05hXNyZ36m4oUzhS4G) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Vivir](https://open.spotify.com/album/7x9knGXeetiW9caJAHzRwv) | 5:15 | 2022-04-24 | 2022-07-29 |
 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-07-12 | 2024-07-29 |
 | [Walking On A Dream \- BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Walking On A Dream \(BLOND:ISH Remix\)](https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu) | 3:11 | 2025-07-25 |  |
+| [Want To Know](https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Want To Know](https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK) | 3:02 | 2026-08-21 |  |
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2024-01-26 | 2026-03-21 |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-03-08 |  |
 | [West Wind](https://open.spotify.com/track/2QAvIdV9Bj4ZMBdUvAk0ZN) | [Palo Canto](https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP) | [West Wind](https://open.spotify.com/album/3GTIFa60Icdq6ymygyfI2T) | 4:16 | 2023-12-20 | 2025-04-12 |

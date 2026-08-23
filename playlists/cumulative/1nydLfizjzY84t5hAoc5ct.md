@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-379 songs - 23 hr 24 min
+381 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,9 @@
 | [No pierdas la fe](https://open.spotify.com/track/21khIKflv727TWXrdzMDTR) | [Mentes Extrañas](https://open.spotify.com/artist/5zs9HS2LJT78BM3fk60mCM) | [No pierdas la fe](https://open.spotify.com/album/59KTNRoVmONWQzzMAt1ndm) | 4:52 | 2026-07-11 | 2026-07-22 |
 | [No Sound](https://open.spotify.com/track/3PPFlKH9JsyHz9mHQkDNX7) | [Mercy Girl](https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn) | [Closer](https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf) | 2:57 | 2025-12-07 | 2025-12-19 |
 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 | 2026-03-08 | 2026-03-22 |
+| [Notti senza sonnu](https://open.spotify.com/track/7f3DjU2N41dMAVhurBr6c2) | [Original Sicilian Style](https://open.spotify.com/artist/1ItdqjvLA5Kcx3kDkGgcVZ) | [Sutta stu celu](https://open.spotify.com/album/4gUiYiJJqvP7reBzm5qWfN) | 2:48 | 2026-08-22 |  |
 | [November](https://open.spotify.com/track/6saWWilud85AtEAxOhEYKj) | [The Marches](https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK) | [November](https://open.spotify.com/album/0WSEMdQ7LyZFXiDP38dmKL) | 3:42 | 2025-11-23 | 2026-02-02 |
+| [Now](https://open.spotify.com/track/0E3kVurlBVyeiPT1oNaCI9) | [V.E.N!](https://open.spotify.com/artist/3sO9u4dOUWYj61kcOTBExd) | [The Beauty of Danger](https://open.spotify.com/album/2Jju9kOvnnejxo3XNVTI4k) | 3:00 | 2026-08-22 |  |
 | [Não Bom](https://open.spotify.com/track/5Gm8ePYwKkWHTcAIWpwfR1) | [SINCERSIX](https://open.spotify.com/artist/7zJGhnTmm0NKy3JDYIKskG) | [Não Bom](https://open.spotify.com/album/6yebdivCb5VsaJzH6GS2AZ) | 3:06 | 2026-08-19 | 2026-08-22 |
 | [Opener \- The 2021 Remix](https://open.spotify.com/track/1o6ILuU2z8wC4sDX9lG0pm) | [Danny Mortimer](https://open.spotify.com/artist/6l9w9nqxBSB2ZXyLcpbWkJ) | [Songs From The Cutting Room Floor](https://open.spotify.com/album/2x4aoQQsWLengzDjCOMifL) | 3:56 | 2026-07-21 |  |
 | [Out Alive](https://open.spotify.com/track/2pJpwBSvXFSyNjkNo2p6b0) | [Mike McKenzie](https://open.spotify.com/artist/1ovhdzbqCmorFrI1dq0TAd) | [I'd Wait Again](https://open.spotify.com/album/0pdBVIn45RJ8A9FXqAJpTx) | 3:42 | 2025-11-23 | 2025-12-08 |

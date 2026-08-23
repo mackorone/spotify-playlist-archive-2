@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Raúl Beltan 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,377 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,382 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 8 | [Infidelidad](https://open.spotify.com/track/21TwmbukrZe8iJ6rwwZdoA) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Despecho a 2 Voces](https://open.spotify.com/album/65OKqVsg03YaIul5cSlvDY) | 2:33 |
 | 9 | [Sin Despedida](https://open.spotify.com/track/0zBHDsiokQcMyGkrbHRLoK) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Despedida](https://open.spotify.com/album/54Z7XyTnUVnuusid94Jj5Y) | 3:50 |
 | 10 | [El Culpable](https://open.spotify.com/track/2GrpJnHVgu7OX5wk41OMru) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Culpable](https://open.spotify.com/album/7sSFiwuU02RUBJwpxmHD3R) | 3:33 |
-| 11 | [Si No Piensas Cambiar \- En Vivo Desde la Plaza de Toros la México](https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Monumental \(En Vivo Desde la Plaza de Toros la México\)](https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE) | 4:34 |
+| 11 | [De Otro Planeta](https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Otro Planeta](https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b) | 2:58 |
 | 12 | [Una Mujer Como la Suya](https://open.spotify.com/track/1hGC0iYUrO6gvkRUogGCwH) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Bandera Blanca](https://open.spotify.com/album/1fh2WpHqtGZRKui9aj5LI0) | 3:34 |
-| 13 | [De Otro Planeta](https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Otro Planeta](https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b) | 2:58 |
+| 13 | [Si No Piensas Cambiar \- En Vivo Desde la Plaza de Toros la México](https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Monumental \(En Vivo Desde la Plaza de Toros la México\)](https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE) | 4:34 |
 | 14 | [Esclavo y Amo \- \(Live\)](https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esclavo y Amo \(Live\)](https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE) | 3:18 |
 | 15 | [Ya No Le Mientas](https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Ya No Le Mientas](https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf) | 2:39 |
 | 16 | [Disculpe Usted](https://open.spotify.com/track/79Fchr207sdYoIarAaJX7v) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Disculpe Usted](https://open.spotify.com/album/4Sj3RVZse1XYxZnyGdK7f7) | 3:05 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 63 | [Esa Perra Ya Me Mordió](https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Esa Perra Ya Me Mordió](https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC) | 3:30 |
 | 64 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
 | 65 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 |
-| 66 | [Antes](https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux) | [Marco Torres](https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H) | [Antes](https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i) | 3:04 |
-| 67 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
+| 66 | [El Último Beso](https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e) | [Eddy Y Samu](https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn) | [El Último Beso](https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S) | 2:49 |
+| 67 | [Antes](https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux) | [Marco Torres](https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H) | [Antes](https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i) | 3:04 |
 | 68 | [Señor Dios](https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Señor Dios](https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe) | 3:09 |
-| 69 | [Mi México Mestizo](https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo) | [Sant Orozco](https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG) | [Mi México Mestizo](https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv) | 2:26 |
-| 70 | [Qué Manera De Perder](https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs) | [Chayito Valdez Hija](https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa), [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Qué Manera De Perder](https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ) | 2:35 |
+| 69 | [Qué Manera De Perder](https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs) | [Chayito Valdez Hija](https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa), [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Qué Manera De Perder](https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ) | 2:35 |
+| 70 | [Mi México Mestizo](https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo) | [Sant Orozco](https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG) | [Mi México Mestizo](https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv) | 2:26 |
 | 71 | [Ya Es Muy Tarde](https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p) | [Ximena Ocampo](https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho) | [Ya Es Muy Tarde](https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy) | 3:47 |
 | 72 | [Porque la vida fue tan injusta](https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr) | [Mariacho Ay Ay Ay](https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2) | [Porque la vida fue tan injusta](https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9) | 3:02 |
 | 73 | [El Hielo Está Quemando](https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Hielo Está Quemando](https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ) | 3:09 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 78 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 |
 | 79 | [Después de ti](https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC) | [Victor Rodhes](https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk) | [Después de ti](https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf) | 3:42 |
 
-Snapshot ID: `AAAAAPIYTxPAsEIP3tOJ3GonHVtJEfVD`
+Snapshot ID: `AAAAAIvyHUEqJKAEEe6D8cmanoHTljK9`

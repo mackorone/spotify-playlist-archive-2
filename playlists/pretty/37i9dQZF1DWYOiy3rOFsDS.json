@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Tuffic en portada.",
-  "num_followers": 538710,
+  "num_followers": 538627,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
+      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "SER AMIGOS (olvida)",
         "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 247790,
       "name": "SER AMIGOS (olvida)",
       "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
-      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Que Suerte",
-        "url": "https://open.spotify.com/album/7eZKBS5wCk4ISf5C9autaV"
-      },
-      "artists": [
-        {
-          "name": "Edgar Alejandro",
-          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Que Suerte",
-      "url": "https://open.spotify.com/track/4mt0WV87PbWjOm1pONCbet"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Cuando Yo Fui Tu Clavel",
         "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Sabor A Llanto",
-        "url": "https://open.spotify.com/album/0ruBpdOaeRb9Up44T8Z6Of"
+        "name": "Que Suerte",
+        "url": "https://open.spotify.com/album/7eZKBS5wCk4ISf5C9autaV"
       },
       "artists": [
         {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+          "name": "Edgar Alejandro",
+          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Mi Alma Llorar\u00e1",
-      "url": "https://open.spotify.com/track/2ph1HxLM9MBQUs4mmlRWrW"
+      "duration_ms": 153000,
+      "name": "Que Suerte",
+      "url": "https://open.spotify.com/track/4mt0WV87PbWjOm1pONCbet"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -923,6 +907,22 @@
       "duration_ms": 211800,
       "name": "Tu Aprendiz",
       "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Sabor A Llanto",
+        "url": "https://open.spotify.com/album/0ruBpdOaeRb9Up44T8Z6Of"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Mi Alma Llorar\u00e1",
+      "url": "https://open.spotify.com/track/2ph1HxLM9MBQUs4mmlRWrW"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/6UqYRF2EZCGEcOELkjT6O6"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 217699,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/3BJKXVM6DY8po3lLP70SE7"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 161000,
       "name": "Farolito (with Gilberto Gil)",
       "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/6UqYRF2EZCGEcOELkjT6O6"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 217699,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/3BJKXVM6DY8po3lLP70SE7"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "ALIENS",
-        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 170805,
-      "name": "ALIENS",
-      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
       },
       "artists": [
         {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
+      "duration_ms": 170805,
+      "name": "ALIENS",
+      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Caso Cerrado",
-        "url": "https://open.spotify.com/album/4QyAhMcjSCY1OjNMfIgSuq"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Caso Cerrado",
-      "url": "https://open.spotify.com/track/5ufFr8RZTUaR6onPwL4vQb"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Tan B\u00e1sico",
         "url": "https://open.spotify.com/album/0v4BjRnKBVyXuDGanBQjzM"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 189155,
       "name": "Tan B\u00e1sico",
       "url": "https://open.spotify.com/track/72ntzS0t7Iq1smBA9wRjMx"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Caso Cerrado",
+        "url": "https://open.spotify.com/album/4QyAhMcjSCY1OjNMfIgSuq"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Caso Cerrado",
+      "url": "https://open.spotify.com/track/5ufFr8RZTUaR6onPwL4vQb"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Celebrando Al Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Piel Canela",
         "url": "https://open.spotify.com/album/25afOwevhL6aXlRax8SNBd"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 178909,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/1OZGO5DOqey2Rbes8x38lS"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Lo esencial de Or\u00edgenes: El Bolero",
-        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "No me reproches",
-      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Lo esencial de Or\u00edgenes: El Bolero",
+        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "No me reproches",
+      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 185727,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Maquiav\u00e9lico",
         "url": "https://open.spotify.com/album/6CEZ6nXauK20afWpvCkoYf"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 188760,
       "name": "Maquiav\u00e9lico",
       "url": "https://open.spotify.com/track/6POa4yNzSmqQLoqnwKtngG"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Tiza",
-        "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
         }
       ],
-      "duration_ms": 165642,
-      "name": "Muy Agradecido",
-      "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
+      "duration_ms": 190985,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
     }
   ],
   "unique_name": "nuevo bolero",

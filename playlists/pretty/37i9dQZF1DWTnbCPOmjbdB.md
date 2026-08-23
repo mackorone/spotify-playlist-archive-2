@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: sanah
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,608 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,641 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 15 | [na błysk](https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [na błysk](https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG) | 3:49 |
 | 16 | [Zostań](https://open.spotify.com/track/6ypf1R1ZifkAD48fKQ86VV) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM), [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zostań](https://open.spotify.com/album/4ZzP5IPGRmZpKg1JF9xNGG) | 3:05 |
 | 17 | [Tańczę](https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Tańczę](https://open.spotify.com/album/1YzaYcqieg8UA13VvY7r3S) | 3:14 |
-| 18 | [MAM TO](https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [MAM TO](https://open.spotify.com/album/4bJQIeloOH45HRwjWvn7xn) | 2:24 |
+| 18 | [MAM TO](https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [MAM TO](https://open.spotify.com/album/4bJQIeloOH45HRwjWvn7xn) | 2:24 |
 | 19 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
 | 20 | [Szklane oczy](https://open.spotify.com/track/34ZbBdoFqHbBG069yK9aiq) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Szklane oczy](https://open.spotify.com/album/75foZ05gIGgmWm3aI57zjO) | 2:45 |
 | 21 | [LUBIĘ CIĘ JAK LATO](https://open.spotify.com/track/3YroZZ167DAVEk8YfzZgdg) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [LUBIĘ CIĘ JAK LATO](https://open.spotify.com/album/6RN3TzcM1iclrKEiD4qwsl) | 2:04 |

@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Umur Doma
 
-707 songs - 1 day 11 hr 52 min
+708 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Nahide](https://open.spotify.com/track/4AC6Eg0zc2kZ72ZXVdU96J) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Nahide](https://open.spotify.com/album/2dA17mW4Y7Nb9VNz0RII6p) | 3:34 | 2026-05-14 | 2026-06-26 |
 | [Nanik](https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Nanik](https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG) | 2:37 | 2024-07-11 | 2024-08-10 |
 | [Nanik](https://open.spotify.com/track/6OodgbaFCaBejPQo4RjOtm) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:31 | 2025-07-10 | 2025-10-22 |
-| [Nankördük](https://open.spotify.com/track/1J2FKNY2ZXUqirIr1LG2OD) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Kavi](https://open.spotify.com/album/5HUqAZDTtciZsDmQqlyFst) | 3:44 | 2026-07-16 |  |
+| [Nankördük](https://open.spotify.com/track/1J2FKNY2ZXUqirIr1LG2OD) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Kavi](https://open.spotify.com/album/5HUqAZDTtciZsDmQqlyFst) | 3:44 | 2026-07-16 | 2026-08-23 |
 | [Nasıl Uyuyorsun \- Akustik](https://open.spotify.com/track/7q3PSyal8VnxwkR6Nxhvs2) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Nasıl Uyuyorsun \(Akustik\)](https://open.spotify.com/album/0YdAsUBssjev4FkUF42CbU) | 3:14 | 2026-08-13 |  |
 | [NAZAR](https://open.spotify.com/track/6uvUXO63MVDzfMV7DMsYlZ) | [Gökhan Özen](https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [NAZAR](https://open.spotify.com/album/1ltvCwbMqAkRNm5qUYyquF) | 2:50 | 2026-06-18 |  |
 | [Nazar](https://open.spotify.com/track/4AS8vEfzhPvYp68yRLkXnv) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Nazar](https://open.spotify.com/album/67EfUSy8Lo2Q53J4aBPtaS) | 2:35 | 2025-07-03 | 2025-08-27 |
@@ -485,6 +485,7 @@
 | [Paslı Sandık](https://open.spotify.com/track/6JENFxIrwe7JLKFYEYJeXh) | [Aysel Yakupoğlu](https://open.spotify.com/artist/2ZXIEujgkSOHFk47ra8Z1m) | [Paslı Sandık](https://open.spotify.com/album/5z5hTPBHnpdzc5EJDaitcy) | 2:37 | 2026-03-19 | 2026-04-07 |
 | [Peki biz n'olucaz?](https://open.spotify.com/track/14jDG7f4KKOSsCnUEg5DMq) | [Ayla Çelik](https://open.spotify.com/artist/3Z7GwK4hUEczTklLsVedcx) | [Peki biz n'olucaz?](https://open.spotify.com/album/0SLwlRavwmIJTkDShPEzr1) | 3:06 | 2026-06-26 | 2026-07-10 |
 | [Peki Öyle Olsun](https://open.spotify.com/track/6QHkJAqfl4mSUBhznWsVqP) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Peki Öyle Olsun](https://open.spotify.com/album/4c4UCx12jdeDe3FtHniGIx) | 2:45 | 2026-03-05 | 2026-03-22 |
+| [PES](https://open.spotify.com/track/6xZxMoZaKYEFXVcfUW8X1k) | [AURA](https://open.spotify.com/artist/3vv9Y0XUMGmPUfIj8KB7Oo) | [PES](https://open.spotify.com/album/25CWJzdUW8Wys9Nsaxm0f6) | 2:33 | 2026-08-20 |  |
 | [pişman...](https://open.spotify.com/track/1vHyuIpmhC2TWrQHWPNxBA) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [pişman...](https://open.spotify.com/album/1D8mP2XsFgTuFDsgXsyz0G) | 1:50 | 2025-03-06 | 2025-03-14 |
 | [Rakıya Meze Olalım](https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Rakıya Meze Olalım](https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K) | 2:09 | 2024-10-03 | 2025-01-16 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-27 | 2024-08-02 |

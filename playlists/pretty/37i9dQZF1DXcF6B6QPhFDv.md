@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive with Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,178,098 likes - 81 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,177,553 likes - 81 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 65 | [AFRAID TO DIE](https://open.spotify.com/track/6GiHYoRbplk9wYZ4TL3uw5) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [AFRAID TO DIE](https://open.spotify.com/album/6FMYxT1o4zfHEsas7nb1t9) | 4:00 |
 | 66 | [MY LOVE](https://open.spotify.com/track/2Co01NIDhLJrQRlI8QiGKw) | [M.O.T.H.E.R.](https://open.spotify.com/artist/60M5K3dy0dzK3tpxCvyOWs) | [M.O.T.H.E.R.](https://open.spotify.com/album/2CdUiNjDfXOy3Vr31aGuuU) | 3:12 |
 | 67 | [dark heaven](https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [dark heaven](https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM) | 3:32 |
-| 68 | [To Be American](https://open.spotify.com/track/0kDNYrlStkgDLemyXdMBUx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [To Be American](https://open.spotify.com/album/1Eioydw7VqUy42EKnwKLVE) | 4:00 |
+| 68 | [To Be American](https://open.spotify.com/track/0kDNYrlStkgDLemyXdMBUx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [To Be American](https://open.spotify.com/album/1Eioydw7VqUy42EKnwKLVE) | 4:01 |
 | 69 | [DEADMEAT](https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [DEADMEAT](https://open.spotify.com/album/75Nrza4VqqVE4sbKdrHBwZ) | 2:52 |
 | 70 | [Love To Go](https://open.spotify.com/track/5l84ho4jDsReTMHAsYrZoJ) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [Ode to the Greyhouse](https://open.spotify.com/album/6zvEun7yEcafFkJRC9jB2O) | 2:46 |
 | 71 | [Always You](https://open.spotify.com/track/5rGpgp8WxhRJrD4Pi5iL5B) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Always You](https://open.spotify.com/album/073ftzbTm7eaPcSe6uNeQs) | 3:43 |

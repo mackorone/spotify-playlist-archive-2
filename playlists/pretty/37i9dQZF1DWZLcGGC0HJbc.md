@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > Sarah Julia kiezen 20 liedjes voor de zomer\. <a href="spotify:presents:jouwzomerid">Meer zomersuggesties? Doe de quiz.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,128 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,115 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

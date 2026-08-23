@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 294246,
+  "num_followers": 294296,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Vital Loop",
-        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelbin",
-          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
-        }
-      ],
-      "duration_ms": 236659,
-      "name": "Vital Loop",
-      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 220355,
       "name": "Affection",
       "url": "https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Vital Loop",
+        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "duration_ms": 236659,
+      "name": "Vital Loop",
+      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
     },
     {
       "added_at": "2026-06-12 04:01:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > Unwind and enjoy the long summer evenings
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,803 likes - 127 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,016 likes - 127 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

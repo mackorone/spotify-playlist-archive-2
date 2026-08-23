@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 71319,
+  "num_followers": 71334,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -383,42 +383,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Want You In My Soul",
-        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
-        }
-      ],
-      "duration_ms": 497521,
-      "name": "Want You In My Soul",
-      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Overpowered",
-        "url": "https://open.spotify.com/album/4VX43pbOazOuTzApLx3ub7"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "Dear Miami",
-      "url": "https://open.spotify.com/track/1HI2DCMcSu1DaRm1cu3RNK"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Howling (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5"
       },
@@ -443,6 +407,42 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Overpowered",
+        "url": "https://open.spotify.com/album/4VX43pbOazOuTzApLx3ub7"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "Dear Miami",
+      "url": "https://open.spotify.com/track/1HI2DCMcSu1DaRm1cu3RNK"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Want You In My Soul",
+        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+        }
+      ],
+      "duration_ms": 497521,
+      "name": "Want You In My Soul",
+      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 264626,
-      "name": "Other People",
-      "url": "https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "It's the Arps",
         "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 400751,
       "name": "Inspector Norse",
       "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 264626,
+      "name": "Other People",
+      "url": "https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Odyssey / Sonne",
-        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 290201,
-      "name": "Recovery",
-      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Love Songs: Part Two",
         "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 294211,
       "name": "All Night",
       "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Odyssey / Sonne",
+        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 290201,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Underwaterfall",
-        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
       },
       "artists": [
         {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 260064,
-      "name": "Underwaterfall",
-      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Underwaterfall",
+        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 260064,
+      "name": "Underwaterfall",
+      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 156706,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 260413,
       "name": "Be a Body",
       "url": "https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 156706,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Glass Animals",
         "url": "https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 211194,
       "name": "Psylla",
       "url": "https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Lover Chanting (Jayda G Remix)",
-        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 205464,
-      "name": "Lover Chanting - Edit",
-      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Choose Your Weapon",
         "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Lover Chanting (Jayda G Remix)",
+        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 205464,
+      "name": "Lover Chanting - Edit",
+      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Why Make Sense? (Definitive Version)",
         "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 329169,
       "name": "Huarache Lights",
       "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "French Kiwi Juice",
+        "url": "https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Go Back Home",
+      "url": "https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1595,22 +1611,6 @@
       "duration_ms": 281303,
       "name": "She Just Likes to Fight",
       "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "French Kiwi Juice",
-        "url": "https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Go Back Home",
-      "url": "https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Helios",
-        "url": "https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S"
+        "name": "SBTRKT (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
       "artists": [
         {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
         },
         {
-          "name": "WAYNE SNOW",
-          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 198315,
-      "name": "Helios",
-      "url": "https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI"
+      "duration_ms": 264120,
+      "name": "Trials of the Past",
+      "url": "https://open.spotify.com/track/5xi6Afh939cKw8InioiS7z"
     }
   ],
   "unique_name": "voltage",

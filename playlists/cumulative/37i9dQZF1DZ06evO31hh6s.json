@@ -58,7 +58,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 277706,
       "name": "13 Goin' On 30",
       "url": "https://open.spotify.com/track/67CrJ4YmYTbmsMtNi6dqVh"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 224208,
       "name": "Dyin' 4 Rap",
       "url": "https://open.spotify.com/track/2ToAFQideOZHpmzqHO1QbY"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 271986,
       "name": "Emancipation (feat. Hussein Fatal, Edi Don)",
       "url": "https://open.spotify.com/track/6Dew9YiluiJs37C7kFCALb"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 148167,
       "name": "Energy (feat. Faith Walker)",
       "url": "https://open.spotify.com/track/08PrnEvGAtNXtBQDGqJBCL"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 205000,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/1nLGGdsWhyarkUVxox1Yaa"
@@ -2617,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "3rd Eye View",
+        "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183810,
+      "name": "King Shit",
+      "url": "https://open.spotify.com/track/7icMYT3clCbpAfMroWihae"
+    },
+    {
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/3N7Og743HnTDJ9qWk0E5u2"
       },
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 288880,
       "name": "Man Up",
       "url": "https://open.spotify.com/track/06yvGeeMmpG4J8aYYi3UcO"
@@ -4518,7 +4536,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 198922,
       "name": "Son of God",
       "url": "https://open.spotify.com/track/2w9UDH6xXAxWPXkICnbF2m"
@@ -4794,7 +4812,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 113136,
       "name": "Surviving",
       "url": "https://open.spotify.com/track/7KBU12tvd67cUSV4NZU0Dz"
@@ -4876,7 +4894,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 253666,
       "name": "Take Ya Time",
       "url": "https://open.spotify.com/track/3ROlELjllPEnjqwuAdgDX1"

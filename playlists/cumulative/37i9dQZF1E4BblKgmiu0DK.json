@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Mia Morris, Die Mannequin, The Donnas and more",
+  "description": "With Mia Morris, Jinx & The Royals, Die Mannequin and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 175846,
       "name": "Animals",
       "url": "https://open.spotify.com/track/4vqhWeI7nbLxZpYBghmrbR"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 248174,
       "name": "Better in the Day",
       "url": "https://open.spotify.com/track/5cOPGhgJ9y6J6ErrOTKpi5"
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 172973,
       "name": "Comin' Around",
       "url": "https://open.spotify.com/track/35aCtgxXl9naFeiaWcgCDS"
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 168813,
       "name": "Crystal Meth",
       "url": "https://open.spotify.com/track/3kwPkNrY8ZBfL1nHysvuXQ"
@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 214889,
       "name": "Deal with Me",
       "url": "https://open.spotify.com/track/3080vWpFKHjG0ismpaQbOg"
@@ -3092,7 +3092,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 167786,
       "name": "Drawing a Blank",
       "url": "https://open.spotify.com/track/4uq8q972ePu8YT6cy2eTgj"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 211140,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6XEmxbPWZN7JbZ230dPLkX"
@@ -3492,6 +3492,42 @@
       "duration_ms": 225200,
       "name": "FAME",
       "url": "https://open.spotify.com/track/2zty4A3XTAWyS4XHsY9EBj"
+    },
+    {
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/7j6PEUeDqJ9VEhzCBUKJ4N"
+      },
+      "artists": [
+        {
+          "name": "Coppernikas",
+          "url": "https://open.spotify.com/artist/76wgq1SCj5WX8h1bvucXgO"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183296,
+      "name": "Family Business",
+      "url": "https://open.spotify.com/track/5G17Fsj56q5wTOVDZQbGBN"
+    },
+    {
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/7j6PEUeDqJ9VEhzCBUKJ4N"
+      },
+      "artists": [
+        {
+          "name": "Coppernikas",
+          "url": "https://open.spotify.com/artist/76wgq1SCj5WX8h1bvucXgO"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175903,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/6qDaBJuKnKJcKeD5HVwA2y"
     },
     {
       "album": {
@@ -3842,7 +3878,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 237080,
       "name": "Freaks Like Us",
       "url": "https://open.spotify.com/track/6FvEXczXsFq0P92Oe3prqs"
@@ -3878,7 +3914,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 232621,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
@@ -4394,13 +4430,13 @@
       },
       "artists": [
         {
-          "name": "theSTART",
-          "url": "https://open.spotify.com/artist/5GVQJ1tepfuCYupk9lQcjz"
+          "name": "theStart",
+          "url": "https://open.spotify.com/artist/2FU3D8WpecHvVxzwaWjz0D"
         }
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/4kXObcVgUu9bQvgQj9pLEp"
@@ -4490,7 +4526,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 234057,
       "name": "Growing Up in Frustration",
       "url": "https://open.spotify.com/track/6HWb8Ez21ZaMGTRrSPW59Z"
@@ -4512,6 +4548,24 @@
       "duration_ms": 214759,
       "name": "Halloween Boogie",
       "url": "https://open.spotify.com/track/7lCS8qx8J8syVgYZN63BAi"
+    },
+    {
+      "album": {
+        "name": "Shakedown!",
+        "url": "https://open.spotify.com/album/7pDc1NwJV2Mh2hwCbGG5rn"
+      },
+      "artists": [
+        {
+          "name": "theStart",
+          "url": "https://open.spotify.com/artist/2FU3D8WpecHvVxzwaWjz0D"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Hang On Me",
+      "url": "https://open.spotify.com/track/34RCix3Dx61ufZFSDlIyNs"
     },
     {
       "album": {
@@ -4620,6 +4674,24 @@
       "duration_ms": 126306,
       "name": "Heavy Doom Wash",
       "url": "https://open.spotify.com/track/5mxGUHRWBg2JL2jOdSeY7s"
+    },
+    {
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/7j6PEUeDqJ9VEhzCBUKJ4N"
+      },
+      "artists": [
+        {
+          "name": "Coppernikas",
+          "url": "https://open.spotify.com/artist/76wgq1SCj5WX8h1bvucXgO"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179392,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/1Byhof54wdXLz4JhfG9ohj"
     },
     {
       "album": {
@@ -5196,7 +5268,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -6116,7 +6188,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 188040,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/6IKbsDfLFuTxliuw0U3zEQ"
@@ -6278,7 +6350,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -8552,7 +8624,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -8689,6 +8761,24 @@
     },
     {
       "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/7j6PEUeDqJ9VEhzCBUKJ4N"
+      },
+      "artists": [
+        {
+          "name": "Coppernikas",
+          "url": "https://open.spotify.com/artist/76wgq1SCj5WX8h1bvucXgO"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182303,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/4qo7poyzTZdR7cvLSqszbi"
+    },
+    {
+      "album": {
         "name": "Final Eclipse: Villain Collection Twelve",
         "url": "https://open.spotify.com/album/0kZLqqOe89CZhXE03fucv0"
       },
@@ -8754,7 +8844,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -9283,6 +9373,24 @@
     },
     {
       "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/7j6PEUeDqJ9VEhzCBUKJ4N"
+      },
+      "artists": [
+        {
+          "name": "Coppernikas",
+          "url": "https://open.spotify.com/artist/76wgq1SCj5WX8h1bvucXgO"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181141,
+      "name": "Same Blues Eyes",
+      "url": "https://open.spotify.com/track/4W43LyNeHNQntUqZuzI43n"
+    },
+    {
+      "album": {
         "name": "San Francisco",
         "url": "https://open.spotify.com/album/1jzKZv0PpkxIH3ICW95MLj"
       },
@@ -9348,7 +9456,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 207986,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/5knt1NyZCbNd9dKuwEkU5O"
@@ -9994,7 +10102,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -10214,7 +10322,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -10232,7 +10340,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 182786,
       "name": "Sugarbaby",
       "url": "https://open.spotify.com/track/61hpwV8EiNGOHCgkSL3cxc"
@@ -10560,7 +10668,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "The Longest Time",
       "url": "https://open.spotify.com/track/5wemf1fpNRhbo18p6t8fL2"
@@ -10841,6 +10949,24 @@
     },
     {
       "album": {
+        "name": "beautiful garbage (20th Anniversary / Deluxe)",
+        "url": "https://open.spotify.com/album/0oofioVRjS31kC0nM7UvHG"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208607,
+      "name": "Till the Day I Die - Remastered 2021",
+      "url": "https://open.spotify.com/track/5pIc7tjHIh6njOedcbMJSe"
+    },
+    {
+      "album": {
         "name": "Time Bomb",
         "url": "https://open.spotify.com/album/4raCEK5Ee68YgvaS9KQk4D"
       },
@@ -11090,7 +11216,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 135163,
       "name": "Turn You Off",
       "url": "https://open.spotify.com/track/11V3BXeXgGUSE5y3JEwXqe"
@@ -11414,7 +11540,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 177890,
       "name": "Watching You Watching Her",
       "url": "https://open.spotify.com/track/7G8eGrSjdXxAjbHWQsUUNR"
@@ -11468,7 +11594,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"

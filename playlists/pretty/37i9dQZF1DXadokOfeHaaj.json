@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 43831,
+  "num_followers": 43836,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,18 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
       },
       "artists": [
         {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 188320,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -95,18 +91,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         }
       ],
-      "duration_ms": 191003,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+      "duration_ms": 188320,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -251,26 +251,18 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Party Time (feat. Aatig)",
-        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 199072,
-      "name": "Party Time (feat. Aatig)",
-      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
+      "duration_ms": 229475,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -327,18 +319,26 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+        "name": "Party Time (feat. Aatig)",
+        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
         }
       ],
-      "duration_ms": 229475,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
+      "duration_ms": 199072,
+      "name": "Party Time (feat. Aatig)",
+      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
         "name": "Sick Of Love (Mura Masa Remix)",
         "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
       },
@@ -659,38 +675,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq"
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         },
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 349218,
-      "name": "Reckoning",
-      "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -711,22 +711,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Ambiguous Desire",
-        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         },
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 242541,
-      "name": "Senses ft. Sampha",
-      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+      "duration_ms": 349218,
+      "name": "Reckoning",
+      "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
+        "name": "ANYWHERE HERE IS PERFECT (DELUXE)",
+        "url": "https://open.spotify.com/album/6MKTrSshdclzuZG0piiQOh"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 109461,
+      "name": "LONGING",
+      "url": "https://open.spotify.com/track/3n8Y69tgxh3tk8BLxNAxLg"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
         "name": "The Nightlife",
         "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
@@ -907,38 +923,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "ANYWHERE HERE IS PERFECT (DELUXE)",
-        "url": "https://open.spotify.com/album/6MKTrSshdclzuZG0piiQOh"
+        "name": "Say\u014dnara",
+        "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 109461,
-      "name": "LONGING",
-      "url": "https://open.spotify.com/track/3n8Y69tgxh3tk8BLxNAxLg"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
-        "name": "mangetout (The Dare remix)",
-        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
         },
         {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+          "name": "Paul Hartnoll",
+          "url": "https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU"
         }
       ],
-      "duration_ms": 200192,
-      "name": "mangetout - The Dare remix",
-      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
+      "duration_ms": 184734,
+      "name": "Say\u014dnara",
+      "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -959,22 +959,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Say\u014dnara",
-        "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
+        "name": "mangetout (The Dare remix)",
+        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
       },
       "artists": [
         {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         },
         {
-          "name": "Paul Hartnoll",
-          "url": "https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU"
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 184734,
-      "name": "Say\u014dnara",
-      "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
+      "duration_ms": 200192,
+      "name": "mangetout - The Dare remix",
+      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
+        "name": "JOY (Light In The Dark)",
+        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 296045,
+      "name": "JOY (Light In The Dark)",
+      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
         "name": "When the Magic Comes",
         "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 210168,
       "name": "When the Magic Comes",
       "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
-        "name": "JOY (Light In The Dark)",
-        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 296045,
-      "name": "JOY (Light In The Dark)",
-      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "hav u a sec",
-        "url": "https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 298132,
-      "name": "hav u a sec",
-      "url": "https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Oh Baby",
         "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 180999,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "hav u a sec",
+        "url": "https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 298132,
+      "name": "hav u a sec",
+      "url": "https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/6dxHcJizTBUnujhu6ck68U"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 178409,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/5LkXJVuNpcG5nLw3SXdY0D"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM"
       },
@@ -1263,26 +1247,18 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "What You Want (SG Lewis Remix)",
-        "url": "https://open.spotify.com/album/1HKaZdOadRfquf0hGyDjBZ"
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/6dxHcJizTBUnujhu6ck68U"
       },
       "artists": [
         {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 198520,
-      "name": "What You Want - SG Lewis Remix",
-      "url": "https://open.spotify.com/track/5mFCEnWFocy9hDLHE0H7qo"
+      "duration_ms": 178409,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5LkXJVuNpcG5nLw3SXdY0D"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1303,6 +1279,30 @@
       "duration_ms": 225391,
       "name": "Woman",
       "url": "https://open.spotify.com/track/0nVA2gw5AKuuJjiVKwJvhB"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "What You Want (SG Lewis Remix)",
+        "url": "https://open.spotify.com/album/1HKaZdOadRfquf0hGyDjBZ"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "What You Want - SG Lewis Remix",
+      "url": "https://open.spotify.com/track/5mFCEnWFocy9hDLHE0H7qo"
     }
   ],
   "unique_name": "Indie Electronic ",

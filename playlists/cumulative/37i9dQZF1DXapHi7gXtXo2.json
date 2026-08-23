@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Good Fortune",
+        "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164815,
+      "name": "Good Fortune",
+      "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
+    },
+    {
+      "album": {
         "name": "GUARACHA",
         "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
       },
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 197790,
       "name": "Seremos Idiotas",
       "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"

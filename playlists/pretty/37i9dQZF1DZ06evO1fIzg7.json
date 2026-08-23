@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 21079,
+  "num_followers": 21086,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAABHv37778cJUnB8KVlwiT0u",
+  "snapshot_id": "aoeVAAAAAAAuY2c7qzEjgvFSTlhx3i91",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing Without You",
-        "url": "https://open.spotify.com/album/4u5hIHqpNIYQeZnKaEpLnH"
+        "name": "Ready For Your Love",
+        "url": "https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss"
       },
       "artists": [
         {
-          "name": "Disco Bambino",
-          "url": "https://open.spotify.com/artist/3Kd4HaFQtYahGHGqYjIQ93"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 208958,
-      "name": "Dancing Without You (feat. Sophie Ellis-Bextor)",
-      "url": "https://open.spotify.com/track/2vggUfAlL6HqfFR3wOWrDM"
+      "duration_ms": 159055,
+      "name": "Ready For Your Love",
+      "url": "https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP"
     },
     {
       "added_at": null,
@@ -123,22 +119,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready For Your Love",
-        "url": "https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss"
+        "name": "Dancing Without You",
+        "url": "https://open.spotify.com/album/4u5hIHqpNIYQeZnKaEpLnH"
       },
       "artists": [
         {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Disco Bambino",
+          "url": "https://open.spotify.com/artist/3Kd4HaFQtYahGHGqYjIQ93"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 159055,
-      "name": "Ready For Your Love",
-      "url": "https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP"
+      "duration_ms": 208958,
+      "name": "Dancing Without You (feat. Sophie Ellis-Bextor)",
+      "url": "https://open.spotify.com/track/2vggUfAlL6HqfFR3wOWrDM"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay On Me",
-        "url": "https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "Stay On Me",
-      "url": "https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA (Deluxe)",
         "url": "https://open.spotify.com/album/7qLSaa8bECEnHabElnugub"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 182799,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/12nbpyxZJ1WZW4KYXRD0Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay On Me",
+        "url": "https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Stay On Me",
+      "url": "https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Off & On",
-      "url": "https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Faith (BBC Session)",
         "url": "https://open.spotify.com/album/25ay5Qj85HqQ6eTHHecpVY"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 302106,
       "name": "True Faith - BBC Session",
       "url": "https://open.spotify.com/track/22p4EDZmtQjkS2wYq0jYjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Off & On",
+      "url": "https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
+        "url": "https://open.spotify.com/album/3BVWvOqPRrA7YuNkzCi9Xe"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Do You Remember the First Time? - Live",
+      "url": "https://open.spotify.com/track/1K3tMyvX5uU0bVi8KSC4TH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical 80s Dance",
         "url": "https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
-        "url": "https://open.spotify.com/album/3BVWvOqPRrA7YuNkzCi9Xe"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Do You Remember the First Time? - Live",
-      "url": "https://open.spotify.com/track/1K3tMyvX5uU0bVi8KSC4TH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 261093,
       "name": "Wild Forever",
       "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Everything is Sweet",
+      "url": "https://open.spotify.com/track/0Bt1jC0ia1DAKjSkqIsqiV"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 210528,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 289906,
-      "name": "Everything is Sweet",
-      "url": "https://open.spotify.com/track/0Bt1jC0ia1DAKjSkqIsqiV"
     },
     {
       "added_at": null,

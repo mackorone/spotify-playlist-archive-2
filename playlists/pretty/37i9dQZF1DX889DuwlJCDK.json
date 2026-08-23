@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u3042\u305f\u3089\u3088",
-  "num_followers": 22925,
+  "num_followers": 22930,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-08-18 17:02:26",
       "album": {
-        "name": "\u7761\u308b\u541b",
-        "url": "https://open.spotify.com/album/2z9WuGKhNHOqhi1SH0dnZD"
-      },
-      "artists": [
-        {
-          "name": "OddRe:",
-          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
-        }
-      ],
-      "duration_ms": 248235,
-      "name": "\u7761\u308b\u541b",
-      "url": "https://open.spotify.com/track/44IRqjfSa15d8E6URV3WO0"
-    },
-    {
-      "added_at": "2026-08-18 17:02:26",
-      "album": {
         "name": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/2mpJQNIjm5czakxjOb5cIZ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 147720,
       "name": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/3IB0BJE9hybJMOxufysBpu"
+    },
+    {
+      "added_at": "2026-08-18 17:02:26",
+      "album": {
+        "name": "\u7761\u308b\u541b",
+        "url": "https://open.spotify.com/album/2z9WuGKhNHOqhi1SH0dnZD"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "duration_ms": 248235,
+      "name": "\u7761\u308b\u541b",
+      "url": "https://open.spotify.com/track/44IRqjfSa15d8E6URV3WO0"
     },
     {
       "added_at": "2026-08-18 17:02:26",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-08-18 17:02:26",
       "album": {
-        "name": "FEVER TIME",
-        "url": "https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x"
-      },
-      "artists": [
-        {
-          "name": "OddRe:",
-          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
-        }
-      ],
-      "duration_ms": 224628,
-      "name": "FEVER TIME",
-      "url": "https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V"
-    },
-    {
-      "added_at": "2026-08-18 17:02:26",
-      "album": {
         "name": "\u8461\u8404",
         "url": "https://open.spotify.com/album/1oizGUJOT1aGCuHRkTHr3A"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 277142,
       "name": "\u8461\u8404",
       "url": "https://open.spotify.com/track/2a5MLJ8nRa612KywgqwfXY"
+    },
+    {
+      "added_at": "2026-08-18 17:02:26",
+      "album": {
+        "name": "FEVER TIME",
+        "url": "https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "duration_ms": 224628,
+      "name": "FEVER TIME",
+      "url": "https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V"
     },
     {
       "added_at": "2026-08-18 17:02:26",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-08-18 17:02:26",
       "album": {
-        "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
-        "url": "https://open.spotify.com/album/57uP8IjOsKGwHVqAls2bWo"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 241608,
-      "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
-      "url": "https://open.spotify.com/track/5UIbX3mRkgJ6NZbPRvw29F"
-    },
-    {
-      "added_at": "2026-08-18 17:02:26",
-      "album": {
         "name": "\u30c4\u30c4\u30b8\u306e\u67af\u308c\u308b\u9803\u306b\u306f",
         "url": "https://open.spotify.com/album/5ZOJxmStQRD9XKpKYZGHVG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 171666,
       "name": "\u30c4\u30c4\u30b8\u306e\u67af\u308c\u308b\u9803\u306b\u306f",
       "url": "https://open.spotify.com/track/3eB1FuGNXRYfSBeHqYz82G"
+    },
+    {
+      "added_at": "2026-08-18 17:02:26",
+      "album": {
+        "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
+        "url": "https://open.spotify.com/album/57uP8IjOsKGwHVqAls2bWo"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 241608,
+      "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/5UIbX3mRkgJ6NZbPRvw29F"
     },
     {
       "added_at": "2026-08-18 17:02:26",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-18 17:02:26",
       "album": {
-        "name": "\u5bc4\u308a\u9053",
-        "url": "https://open.spotify.com/album/7xJRthLvDJ2Kiu3N8P1X4a"
-      },
-      "artists": [
-        {
-          "name": "\u6620\u79c0\u3002",
-          "url": "https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k"
-        }
-      ],
-      "duration_ms": 218103,
-      "name": "\u5bc4\u308a\u9053",
-      "url": "https://open.spotify.com/track/7aJ4nj8jNZPDy819XX1FK8"
-    },
-    {
-      "added_at": "2026-08-18 17:02:26",
-      "album": {
         "name": "Greedy!!",
         "url": "https://open.spotify.com/album/4tFQ0Z0lMpqFxDT686LEWy"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 217533,
       "name": "Greedy!!",
       "url": "https://open.spotify.com/track/5wcuIVeXEFUb8uDIKIr8CA"
+    },
+    {
+      "added_at": "2026-08-18 17:02:26",
+      "album": {
+        "name": "\u5bc4\u308a\u9053",
+        "url": "https://open.spotify.com/album/7xJRthLvDJ2Kiu3N8P1X4a"
+      },
+      "artists": [
+        {
+          "name": "\u6620\u79c0\u3002",
+          "url": "https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k"
+        }
+      ],
+      "duration_ms": 218103,
+      "name": "\u5bc4\u308a\u9053",
+      "url": "https://open.spotify.com/track/7aJ4nj8jNZPDy819XX1FK8"
     },
     {
       "added_at": "2026-08-18 17:02:26",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-08-18 17:02:26",
       "album": {
+        "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
+        "url": "https://open.spotify.com/album/5peeLIBVjtnNChCRPjLdU5"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
+      "url": "https://open.spotify.com/track/1sQUFM2bc6mH9zBySp5td0"
+    },
+    {
+      "added_at": "2026-08-18 17:02:26",
+      "album": {
         "name": "\u9752\u6625\u30d0\u30a4\u30d6\u30ec\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/4h5vaOShmmy2GxDczYpUrU"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2026-08-18 17:02:26",
       "album": {
-        "name": "\u5bc6\u304b",
-        "url": "https://open.spotify.com/album/3xGH0bkhPPFO1oD4mXnD5H"
-      },
-      "artists": [
-        {
-          "name": "\u6708\u3068\u5f92\u82b1",
-          "url": "https://open.spotify.com/artist/6Dc0ZVkKdA7QGiFEEfAuCE"
-        }
-      ],
-      "duration_ms": 219622,
-      "name": "\u5bc6\u304b",
-      "url": "https://open.spotify.com/track/45WJKtsxdNQNQatWlTmIRo"
-    },
-    {
-      "added_at": "2026-08-18 17:02:26",
-      "album": {
         "name": "Whitoxin",
         "url": "https://open.spotify.com/album/2OSTqjT8ESEOYbasGPRjra"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 249360,
       "name": "Whitoxin",
       "url": "https://open.spotify.com/track/7HGUFKQkVQMgPhMIm2GDfl"
+    },
+    {
+      "added_at": "2026-08-18 17:02:26",
+      "album": {
+        "name": "\u5bc6\u304b",
+        "url": "https://open.spotify.com/album/3xGH0bkhPPFO1oD4mXnD5H"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u3068\u5f92\u82b1",
+          "url": "https://open.spotify.com/artist/6Dc0ZVkKdA7QGiFEEfAuCE"
+        }
+      ],
+      "duration_ms": 219622,
+      "name": "\u5bc6\u304b",
+      "url": "https://open.spotify.com/track/45WJKtsxdNQNQatWlTmIRo"
     },
     {
       "added_at": "2026-08-18 17:02:26",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2026-08-18 17:02:26",
       "album": {
-        "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
-        "url": "https://open.spotify.com/album/5peeLIBVjtnNChCRPjLdU5"
-      },
-      "artists": [
-        {
-          "name": "SIX LOUNGE",
-          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "\u541b\u304c\u3044\u308b\u306f\u305a\u306e\u99c5",
-      "url": "https://open.spotify.com/track/1sQUFM2bc6mH9zBySp5td0"
-    },
-    {
-      "added_at": "2026-08-18 17:02:26",
-      "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/40lBXGiHkC8ADfs5wip9jE"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-08-18 17:02:26",
       "album": {
-        "name": "\u30d2\u30b0\u30ec\u30c1\u30ac\u30a4",
-        "url": "https://open.spotify.com/album/5zEV12cgBzdPjvGOOabbwF"
-      },
-      "artists": [
-        {
-          "name": "PompadollS",
-          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
-        }
-      ],
-      "duration_ms": 195135,
-      "name": "\u30d2\u30b0\u30ec\u30c1\u30ac\u30a4",
-      "url": "https://open.spotify.com/track/1rgXu8UtDP4pdWP1fgoqEN"
-    },
-    {
-      "added_at": "2026-08-18 17:02:26",
-      "album": {
         "name": "\u7e01\u306e\u3064\u304d",
         "url": "https://open.spotify.com/album/4lsW9YJ71AIEXx1FWL7nXZ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 216724,
       "name": "\u7e01\u306e\u3064\u304d",
       "url": "https://open.spotify.com/track/4HKI2WOBDlU57LU3oJzkBl"
+    },
+    {
+      "added_at": "2026-08-18 17:02:26",
+      "album": {
+        "name": "GOOD LUCK\uff01",
+        "url": "https://open.spotify.com/album/4BoQxNUj8LtRfnHSppywGj"
+      },
+      "artists": [
+        {
+          "name": "PompadollS",
+          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
+        }
+      ],
+      "duration_ms": 224738,
+      "name": "GOOD LUCK\uff01",
+      "url": "https://open.spotify.com/track/5pIT8gorg5xVehbo7xU4ea"
     },
     {
       "added_at": "2026-08-18 17:02:26",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-08-18 17:02:26",
       "album": {
-        "name": "GOOD LUCK\uff01",
-        "url": "https://open.spotify.com/album/4BoQxNUj8LtRfnHSppywGj"
-      },
-      "artists": [
-        {
-          "name": "PompadollS",
-          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
-        }
-      ],
-      "duration_ms": 224738,
-      "name": "GOOD LUCK\uff01",
-      "url": "https://open.spotify.com/track/5pIT8gorg5xVehbo7xU4ea"
-    },
-    {
-      "added_at": "2026-08-18 17:02:26",
-      "album": {
         "name": "Secret Empire",
         "url": "https://open.spotify.com/album/1PGH9NZBuicCrMD4lcbT76"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 190613,
       "name": "Dirty Little Secrets",
       "url": "https://open.spotify.com/track/676vJm5y5zB7LOGvVFUfvG"
+    },
+    {
+      "added_at": "2026-08-18 17:02:26",
+      "album": {
+        "name": "\u30d2\u30b0\u30ec\u30c1\u30ac\u30a4",
+        "url": "https://open.spotify.com/album/5zEV12cgBzdPjvGOOabbwF"
+      },
+      "artists": [
+        {
+          "name": "PompadollS",
+          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
+        }
+      ],
+      "duration_ms": 195135,
+      "name": "\u30d2\u30b0\u30ec\u30c1\u30ac\u30a4",
+      "url": "https://open.spotify.com/track/1rgXu8UtDP4pdWP1fgoqEN"
     },
     {
       "added_at": "2026-08-18 17:02:26",

@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1589996,
+  "num_followers": 1590125,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -337,6 +337,26 @@
       "url": "https://open.spotify.com/track/2yrsdspJoplQGJ9ZiuiBPV"
     },
     {
+      "added_at": "2026-08-21 04:00:31",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 124551,
+      "name": "GONE FISHING",
+      "url": "https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz"
+    },
+    {
       "added_at": "2026-08-14 04:00:31",
       "album": {
         "name": "Paradise Records (Compilation)",
@@ -351,30 +371,6 @@
       "duration_ms": 129032,
       "name": "A Man Free",
       "url": "https://open.spotify.com/track/0FuXPVjTdLeRZva6JIcYX4"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
-        "name": "Konbini Wars",
-        "url": "https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg"
-      },
-      "artists": [
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        },
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Cruzzi",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 173414,
-      "name": "Konbini Wars",
-      "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -419,18 +415,26 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Konbini Wars",
+        "url": "https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Cruzzi",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
         }
       ],
-      "duration_ms": 275342,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+      "duration_ms": 173414,
+      "name": "Konbini Wars",
+      "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -447,6 +451,38 @@
       "duration_ms": 242787,
       "name": "THE LIVING LIGHT",
       "url": "https://open.spotify.com/track/6YTO8NQvqaTXUOiycutghC"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 275342,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "LiveFromTheBoonies.",
+        "url": "https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        }
+      ],
+      "duration_ms": 105974,
+      "name": "LiveFromTheBoonies.",
+      "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -471,50 +507,6 @@
       "duration_ms": 237733,
       "name": "Feel The Music",
       "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
-        "name": "LiveFromTheBoonies.",
-        "url": "https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6"
-      },
-      "artists": [
-        {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
-        }
-      ],
-      "duration_ms": 105974,
-      "name": "LiveFromTheBoonies.",
-      "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
-        "name": "Children Of The Internet (Remixes)",
-        "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        },
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Es Devlin",
-          "url": "https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut"
-        }
-      ],
-      "duration_ms": 353346,
-      "name": "Children Of The Internet - Ezra Collective Remix",
-      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -551,18 +543,30 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Clin D'oeil",
-        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
+        "name": "Children Of The Internet (Remixes)",
+        "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
       "artists": [
         {
-          "name": "Jazz Liberatorz",
-          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        },
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Es Devlin",
+          "url": "https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut"
         }
       ],
-      "duration_ms": 328573,
-      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
-      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
+      "duration_ms": 353346,
+      "name": "Children Of The Internet - Ezra Collective Remix",
+      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -607,6 +611,22 @@
       "duration_ms": 310626,
       "name": "Bunce Road Blues (with Future & Tems)",
       "url": "https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "Clin D'oeil",
+        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
+      },
+      "artists": [
+        {
+          "name": "Jazz Liberatorz",
+          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
+        }
+      ],
+      "duration_ms": 328573,
+      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
+      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -747,26 +767,6 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "ARE WE STILL DREAMING?",
-        "url": "https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "Konteks",
-          "url": "https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R"
-        }
-      ],
-      "duration_ms": 199373,
-      "name": "Bittersweet Baby",
-      "url": "https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
         "name": "Casa Lopez",
         "url": "https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 243560,
       "name": "Casa Lopez",
       "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "ARE WE STILL DREAMING?",
+        "url": "https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "Konteks",
+          "url": "https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R"
+        }
+      ],
+      "duration_ms": 199373,
+      "name": "Bittersweet Baby",
+      "url": "https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -983,26 +1003,6 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Easier Done Than Said",
-        "url": "https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE"
-      },
-      "artists": [
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 215604,
-      "name": "Easier Done Than Said",
-      "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
         "name": "Summer Drop (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
       },
@@ -1019,6 +1019,26 @@
       "duration_ms": 168573,
       "name": "Summer Drop (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "Easier Done Than Said",
+        "url": "https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE"
+      },
+      "artists": [
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 215604,
+      "name": "Easier Done Than Said",
+      "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "3:AM (feat. Erykah Badu)",
-        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 213566,
-      "name": "3:AM (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
         "name": "MEET ME ON WOODWARD TOO",
         "url": "https://open.spotify.com/album/0jHPCp9iry8OXCnuzHqTMw"
       },
@@ -1367,6 +1367,26 @@
       "duration_ms": 131609,
       "name": "MR. ROMANCE",
       "url": "https://open.spotify.com/track/3hYgdrdb8b5BJbHiozjqSo"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "3:AM (feat. Erykah Badu)",
+        "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1587,30 +1607,6 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Love N Drugs",
-        "url": "https://open.spotify.com/album/06WRkCTuAtCNqckOGrrksm"
-      },
-      "artists": [
-        {
-          "name": "KeepVibesNear",
-          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 249331,
-      "name": "Love N Drugs",
-      "url": "https://open.spotify.com/track/3kGK2EcioWNqaj5rfsKN5b"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
         "name": "BLAH",
         "url": "https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM"
       },
@@ -1631,6 +1627,30 @@
       "duration_ms": 147906,
       "name": "BLAH",
       "url": "https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "Love N Drugs",
+        "url": "https://open.spotify.com/album/06WRkCTuAtCNqckOGrrksm"
+      },
+      "artists": [
+        {
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 249331,
+      "name": "Love N Drugs",
+      "url": "https://open.spotify.com/track/3kGK2EcioWNqaj5rfsKN5b"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1875,26 +1895,6 @@
     {
       "added_at": "2026-08-14 04:00:31",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/5QRB3TqkRihMsgqVemCJwD"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        }
-      ],
-      "duration_ms": 196215,
-      "name": "Hundred Acres",
-      "url": "https://open.spotify.com/track/2UDS0XpaqKrMv7wbVtWIlX"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
         "name": "Syrup Sandwiches (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
       },
@@ -1911,6 +1911,26 @@
       "duration_ms": 173320,
       "name": "Syrup Sandwiches (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
+    },
+    {
+      "added_at": "2026-08-14 04:00:31",
+      "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/5QRB3TqkRihMsgqVemCJwD"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "duration_ms": 196215,
+      "name": "Hundred Acres",
+      "url": "https://open.spotify.com/track/2UDS0XpaqKrMv7wbVtWIlX"
     },
     {
       "added_at": "2026-08-14 04:00:31",
@@ -1947,30 +1967,6 @@
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
-    },
-    {
-      "added_at": "2026-08-14 04:00:31",
-      "album": {
-        "name": "UP & AWAY!",
-        "url": "https://open.spotify.com/album/2jlmcvz0xlwOsOGbiMFz7b"
-      },
-      "artists": [
-        {
-          "name": "Stoic",
-          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
-        },
-        {
-          "name": "Kaicrewsade",
-          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "UP & AWAY!",
-      "url": "https://open.spotify.com/track/5yMM5wMKQJC0oIC8kFnMAD"
     }
   ],
   "unique_name": "Jazz Rap",

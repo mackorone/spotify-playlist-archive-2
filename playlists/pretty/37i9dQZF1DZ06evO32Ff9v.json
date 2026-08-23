@@ -1,12 +1,12 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 58194,
+  "num_followers": 58210,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAB7o2xYe00E2S8EPGEHjdFM",
+  "snapshot_id": "aoeVAAAAAABlRksNThKd7SaZQsjceZbJ",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 191085,
       "name": "El Caguamillo",
       "url": "https://open.spotify.com/track/5iTCPbNS7QcfJzG8VToyMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "18 Segundos",
+        "url": "https://open.spotify.com/album/53Fh1PUaYyGf7FRHR3WPyt"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
+        }
+      ],
+      "duration_ms": 212377,
+      "name": "18 Segundos",
+      "url": "https://open.spotify.com/track/5rnUPCxcAO4m0nPrHqAloE"
     },
     {
       "added_at": null,
@@ -203,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolex En Mano",
-        "url": "https://open.spotify.com/album/3ACfdX2U7qNHU08ZlBw8rH"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Rolex En Mano",
-      "url": "https://open.spotify.com/track/0A5LFi7g3LHo1mY0HEHFQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL FEO",
         "url": "https://open.spotify.com/album/21IZ14eN30zaLRABndouBR"
       },
@@ -239,6 +239,26 @@
       "duration_ms": 171533,
       "name": "EL FEO",
       "url": "https://open.spotify.com/track/2t81deArycSJRivqLr1gpO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rolex En Mano",
+        "url": "https://open.spotify.com/album/3ACfdX2U7qNHU08ZlBw8rH"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Rolex En Mano",
+      "url": "https://open.spotify.com/track/0A5LFi7g3LHo1mY0HEHFQt"
     },
     {
       "added_at": null,
@@ -367,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO SOMOS IGUALES",
-        "url": "https://open.spotify.com/album/4uhdB3fEGr3wtPAUCTA3JD"
-      },
-      "artists": [
-        {
-          "name": "El Filly Y Sus Aliados",
-          "url": "https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 125772,
-      "name": "NO SOMOS IGUALES",
-      "url": "https://open.spotify.com/track/5UQJnZD47O3Zldwy3p6sgY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nos Cayeron los Guachitos",
         "url": "https://open.spotify.com/album/4BvfkPKhO3tBrV6pPxlSqy"
       },
@@ -403,6 +403,26 @@
       "duration_ms": 208373,
       "name": "Nos Cayeron los Guachitos",
       "url": "https://open.spotify.com/track/2OcwUZJSDpmqDTdHoGI1PH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO SOMOS IGUALES",
+        "url": "https://open.spotify.com/album/4uhdB3fEGr3wtPAUCTA3JD"
+      },
+      "artists": [
+        {
+          "name": "El Filly Y Sus Aliados",
+          "url": "https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 125772,
+      "name": "NO SOMOS IGUALES",
+      "url": "https://open.spotify.com/track/5UQJnZD47O3Zldwy3p6sgY"
     },
     {
       "added_at": null,
@@ -467,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asi Nomas",
-        "url": "https://open.spotify.com/album/1p38dNTQingk5pqbCaz1vY"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "El Afortunado",
-      "url": "https://open.spotify.com/track/01kjAH0uvpTp0clLfQxMo8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Scrappy",
         "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
       },
@@ -503,6 +507,22 @@
       "duration_ms": 227551,
       "name": "El Scrappy",
       "url": "https://open.spotify.com/track/1AN1Jemy82iQlzbxMezAAG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asi Nomas",
+        "url": "https://open.spotify.com/album/1p38dNTQingk5pqbCaz1vY"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "El Afortunado",
+      "url": "https://open.spotify.com/track/01kjAH0uvpTp0clLfQxMo8"
     },
     {
       "added_at": null,
@@ -647,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se\u00f1or Miedo",
+        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 232254,
+      "name": "Se\u00f1or Miedo",
+      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mando",
         "url": "https://open.spotify.com/album/1JNCWDC8UEJAjXz8vZ05mQ"
       },
@@ -663,22 +699,6 @@
       "duration_ms": 217000,
       "name": "El Mando",
       "url": "https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se\u00f1or Miedo",
-        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 232254,
-      "name": "Se\u00f1or Miedo",
-      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
       "duration_ms": 149125,
       "name": "Si No Es Contigo",
       "url": "https://open.spotify.com/track/2ZCxbNFArcJbqeH3QqMisn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por el Pueblo y Para el Pueblo",
-        "url": "https://open.spotify.com/album/1wgidFNBRzoFtGx8NXhKm2"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Alta Gama",
-          "url": "https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Por el Pueblo y Para el Pueblo",
-      "url": "https://open.spotify.com/track/0r4FuLHmh5yE9TBBFOHikB"
     }
   ],
   "unique_name": "This Is Los Farmerz",

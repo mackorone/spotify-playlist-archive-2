@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Laura Schadeck
 
-1,200 songs - 2 day 11 hr 29 min
+1,201 songs - 2 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,7 +704,7 @@
 | [no seu tempo](https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [no seu tempo](https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg) | 2:38 | 2026-03-20 |  |
 | [Nocaute](https://open.spotify.com/track/38y1KFdUpHjUIWXcUYS8aC) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acrônico](https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr) | 3:55 | 2024-11-22 | 2025-07-26 |
 | [NOITE DE CAÇA](https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [NOITE DE CAÇA](https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH) | 2:38 | 2023-02-14 | 2023-04-29 |
-| [Noites de Neon](https://open.spotify.com/track/427JHB9CmpmxSten7B2isW) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Ecos do Desejo](https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C) | 2:26 | 2025-08-01 |  |
+| [Noites de Neon](https://open.spotify.com/track/427JHB9CmpmxSten7B2isW) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Ecos do Desejo](https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C) | 2:26 | 2025-08-01 | 2026-08-23 |
 | [Noites de Papel](https://open.spotify.com/track/0gjfUMvW3dT1Vd0EkPokT9) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Noites de Papel](https://open.spotify.com/album/4wd02ki6dUCKFmy74c80ls) | 2:18 | 2024-07-05 | 2024-11-23 |
 | [Noites em Miami](https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vivi](https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI) | 3:03 | 2025-10-31 | 2026-02-28 |
 | [Nos Meus Sonhos](https://open.spotify.com/track/71OYvWfgOrjZ24aZO37fof) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Nos Meus Sonhos](https://open.spotify.com/album/3IqsAzB9DiO2SaB93295lj) | 3:33 | 2023-06-02 | 2023-07-29 |
@@ -766,6 +766,7 @@
 | [Olhar Pro Lado](https://open.spotify.com/track/2hmHDKwzxSeoA4AcmY12rC) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 2: TODAMANHÃ](https://open.spotify.com/album/1ro3qMEE6QLtwTqTS3c2A2) | 4:06 | 2023-06-16 | 2023-07-08 |
 | [Olho no Gato](https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:39 | 2023-04-28 | 2023-07-29 |
 | [Olhos de Lion](https://open.spotify.com/track/0WFFAnfXsdpxujIPmJVSjQ) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs) | [Olhos de Lion](https://open.spotify.com/album/6MiQPuOrR2sf1cVLa1g8mG) | 2:47 | 2023-11-24 | 2023-12-16 |
+| [olympia](https://open.spotify.com/track/6ZsOgfFtgB87e6r0wzZ5wm) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [olympia](https://open.spotify.com/album/22DMRedJ10iOcwprOeP9sI) | 2:10 | 2026-08-21 |  |
 | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7) | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL) | 2:15 | 2023-09-08 | 2024-03-30 |
 | [on god](https://open.spotify.com/track/7a7wbihbtKPnMCq17iECek) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [i don't care at all](https://open.spotify.com/album/7yLZeJTQUK0Dn5MHTLNjyI) | 3:14 | 2020-10-20 | 2022-07-08 |
 | [Ondas](https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Ondas](https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r) | 2:48 | 2023-08-11 | 2023-12-16 |

@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Promise & Presence",
+        "url": "https://open.spotify.com/album/06o4R0pXjpe38O18SQgDUv"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464297,
+      "name": "God I'm Just Grateful / Sure Been Good",
+      "url": "https://open.spotify.com/track/4B3aehbcjZDzJV85v6CUw6"
+    },
+    {
+      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 564423,
       "name": "Wait On You (feat. Dante Bowe & Chandler Moore)",
       "url": "https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy"

@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25833,
+  "num_followers": 25834,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAC3+l5vMLvOHTzpnGtWhROX",
+  "snapshot_id": "aoeVAAAAAADx8QGTEyfSlPMbakJN54kT",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Wanna Thank Ya (feat. Snoop Dogg) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2P5fZ0GeRsbMViExlAWJKO"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
+      "url": "https://open.spotify.com/track/1czczFfdsmQyH0qUnH8Clk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instant Vintage",
         "url": "https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 204106,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/72V3zdMD3x7CxNhtN7xYX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Thank Ya (feat. Snoop Dogg) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2P5fZ0GeRsbMViExlAWJKO"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
-      "url": "https://open.spotify.com/track/1czczFfdsmQyH0qUnH8Clk"
     },
     {
       "added_at": null,
@@ -607,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+        "name": "The Human Stone (feat. Angie Stone)",
+        "url": "https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "KDA",
+          "url": "https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg"
         },
         {
-          "name": "Pauletta Washington",
-          "url": "https://open.spotify.com/artist/1xPmfPmx5uMCXmTcB5aEiT"
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 269373,
-      "name": "Happy Being Me",
-      "url": "https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v"
+      "duration_ms": 207656,
+      "name": "The Human Stone (feat. Angie Stone)",
+      "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
     },
     {
       "added_at": null,
@@ -663,22 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Human Stone (feat. Angie Stone)",
-        "url": "https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro"
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
       "artists": [
         {
-          "name": "KDA",
-          "url": "https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg"
-        },
-        {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Pauletta Washington",
+          "url": "https://open.spotify.com/artist/1xPmfPmx5uMCXmTcB5aEiT"
         }
       ],
-      "duration_ms": 207656,
-      "name": "The Human Stone (feat. Angie Stone)",
-      "url": "https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F"
+      "duration_ms": 269373,
+      "name": "Happy Being Me",
+      "url": "https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 238220,
       "name": "Gonna Have to Be You",
       "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
     },
     {
       "added_at": null,

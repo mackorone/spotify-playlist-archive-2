@@ -1061,6 +1061,28 @@
     },
     {
       "album": {
+        "name": "Your Fada",
+        "url": "https://open.spotify.com/album/6bLFuSuIKIsqqyaxvqtvDx"
+      },
+      "artists": [
+        {
+          "name": "Snatcha",
+          "url": "https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152557,
+      "name": "Your Fada",
+      "url": "https://open.spotify.com/track/4F48JYIzoHHifwondyNJSi"
+    },
+    {
+      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },

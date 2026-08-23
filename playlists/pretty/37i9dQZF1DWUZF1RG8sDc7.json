@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 166908,
+  "num_followers": 166935,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -795,18 +795,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+        "name": "M\u00e1s Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
+      "duration_ms": 272440,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -843,22 +847,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "M\u00e1s Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 272440,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7"
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -895,38 +895,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Regalame una Noche",
-      "url": "https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Marca Registrada del Binomio de Oro",
-        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Me Sobran las Palabras",
-      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
@@ -947,6 +915,38 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Marca Registrada del Binomio de Oro",
+        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Me Sobran las Palabras",
+      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "Regalame una Noche",
+      "url": "https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Mas Vallenato",
         "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
@@ -963,8 +963,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "\u2026Que viva el vallenato!",
-        "url": "https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28"
+        "name": "Mas Cerca De T\u00ed",
+        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
       },
       "artists": [
         {
@@ -972,25 +972,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 294640,
-      "name": "Si Tu Amor No Vuelve",
-      "url": "https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 317760,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+      "duration_ms": 298146,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/0xkSIbrN1wLCjRHSZjpNHv"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1023,6 +1007,22 @@
       "duration_ms": 286640,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
+        "name": "De Primera",
+        "url": "https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
         }
       ],
-      "duration_ms": 305826,
-      "name": "Buscar\u00e9 Otro Amor",
-      "url": "https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw"
+      "duration_ms": 307304,
+      "name": "Se Me Salen las Lagrimas",
+      "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

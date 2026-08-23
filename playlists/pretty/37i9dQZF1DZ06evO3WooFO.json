@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 629192,
+  "num_followers": 629260,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAABdwBDkSQOCFCrfvlA8ue1U",
+  "snapshot_id": "aoeVAAAAAACkZ8d1cA5hYZOLRi+LuQLy",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Off Your Pants And Jacket (25 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu"
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 152375,
-      "name": "Don't Tell Me It's Over",
-      "url": "https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi"
+      "duration_ms": 235613,
+      "name": "Bored to Death",
+      "url": "https://open.spotify.com/track/12YGKHMw1l36tXlgU2Vrjj"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+        "name": "Take Off Your Pants And Jacket (25 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 235613,
-      "name": "Bored to Death",
-      "url": "https://open.spotify.com/track/12YGKHMw1l36tXlgU2Vrjj"
+      "duration_ms": 152375,
+      "name": "Don't Tell Me It's Over",
+      "url": "https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604469,
+  "num_followers": 604462,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Wrist",
-        "url": "https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD"
-      },
-      "artists": [
-        {
-          "name": "Like Roses",
-          "url": "https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI"
-        }
-      ],
-      "duration_ms": 202911,
-      "name": "Wrist",
-      "url": "https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Nowhere, At Last",
         "url": "https://open.spotify.com/album/5qXIdDehwNNmZs6OoTGT9E"
       },
@@ -651,22 +635,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Evil Is Contagious",
-        "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
+        "name": "Wrist",
+        "url": "https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD"
       },
       "artists": [
         {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
-        },
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+          "name": "Like Roses",
+          "url": "https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI"
         }
       ],
-      "duration_ms": 196097,
-      "name": "Evil Is Contagious",
-      "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
+      "duration_ms": 202911,
+      "name": "Wrist",
+      "url": "https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -683,6 +663,26 @@
       "duration_ms": 176381,
       "name": "Butterfly Effect",
       "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Evil Is Contagious",
+        "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 196097,
+      "name": "Evil Is Contagious",
+      "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "RESTORATION",
-        "url": "https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
-        }
-      ],
-      "duration_ms": 177349,
-      "name": "WOLVES",
-      "url": "https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 208168,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "RESTORATION",
+        "url": "https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "duration_ms": 177349,
+      "name": "WOLVES",
+      "url": "https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Burnout (Deluxe)",
-        "url": "https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7"
-      },
-      "artists": [
-        {
-          "name": "Good Terms",
-          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Oxy Moron",
         "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 246433,
       "name": "Oxy Moron",
       "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Burnout (Deluxe)",
+        "url": "https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7"
+      },
+      "artists": [
+        {
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+        }
+      ],
+      "duration_ms": 216640,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "X's For Eyes",
-        "url": "https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "X\u2019s For Eyes",
-      "url": "https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "FAKE FEELINGS",
         "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 185741,
       "name": "FAKE FEELINGS",
       "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "X's For Eyes",
+        "url": "https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "X\u2019s For Eyes",
+      "url": "https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 145547,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "INMYFEELINGS",
         "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 212464,
       "name": "INMYFEELINGS",
       "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Sandbox",
+        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 145547,
+      "name": "Sandbox",
+      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
-      },
-      "artists": [
-        {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
-        }
-      ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Don't Let Me Get Too Low",
         "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 158999,
       "name": "Don't Let Me Get Too Low",
       "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+      },
+      "artists": [
+        {
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+        }
+      ],
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-07-24 04:02:31",

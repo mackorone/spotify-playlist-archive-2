@@ -14259,6 +14259,28 @@
     },
     {
       "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/1bILUgo25ahrzoGF9l4Wlk"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/0iowmv0cVXPxD3bot8xHiQ"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },

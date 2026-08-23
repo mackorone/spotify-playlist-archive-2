@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-321 songs - 20 hr 55 min
+322 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Closer You Get](https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD) | [Arkansauce](https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl) | [Closer You Get](https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI) | 5:45 | 2025-02-21 |  |
 | [Coalmine](https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB) | [Wilson Banjo Co.](https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo) | [Memory Lane](https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP) | 2:31 | 2024-07-13 |  |
 | [Coat Of Many Colors](https://open.spotify.com/track/1d2bVY1wm0ho9tyHSbVlos) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Coat Of Many Colors](https://open.spotify.com/album/7kaEjySfxfkCxuCTBo9m5u) | 3:13 | 2023-09-22 |  |
+| [Colors of the Wind](https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Colors of the Wind](https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj) | 3:56 | 2026-08-21 |  |
 | [Come On In My Kitchen](https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 4:59 | 2021-12-10 |  |
 | [Come to Jesus](https://open.spotify.com/track/3DNui82TrXtZMoXKuzdyuw) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Come to Jesus](https://open.spotify.com/album/7DplEfND4glcIW4679OkXU) | 3:41 | 2023-06-30 | 2024-06-14 |
 | [Cotton Eyed Joe \(feat\. Carl Miner & Jamie Dick\)](https://open.spotify.com/track/7mrdHjkfEFTXCniqDTOYHM) | [Chessboxer](https://open.spotify.com/artist/7M6RbP2krwdFSjgzXnHp3b), [Carl Miner](https://open.spotify.com/artist/6EG8uorDPhIW5CA471W5Di), [Jamie Dick](https://open.spotify.com/artist/7xzCJRaY7nlG6rG0vAVK9s) | [Cotton Eyed Joe \(feat\. Carl Miner & Jamie Dick\)](https://open.spotify.com/album/0trHLApfMaHMLxqw5771wT) | 2:04 | 2021-08-20 | 2022-12-03 |
@@ -122,7 +123,7 @@
 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 | 2023-02-03 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/3V0vJXkBDGEZsG2mMzm32S) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/1XtucozRRB6IZq6m8vj8nm) | 4:29 | 2023-03-10 | 2025-01-11 |
 | [Graceland \(Live Session\)](https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4) | [Ramsey Thornton](https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL) | [Graceland \(Live Session\)](https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A) | 3:06 | 2023-09-22 |  |
-| [Guess I'm Doing Fine](https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Guess I'm Doing Fine](https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21) | 4:40 | 2023-02-24 |  |
+| [Guess I'm Doing Fine](https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Guess I'm Doing Fine](https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21) | 4:40 | 2023-02-24 | 2026-08-23 |
 | [Hand In My Pocket](https://open.spotify.com/track/6YKfKfe5Ey6yIPhZ0LS92O) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Hand In My Pocket](https://open.spotify.com/album/4EfSZbrQXDwQD8Ud7DCRXx) | 2:41 | 2023-03-10 | 2026-02-05 |
 | [Hand In My Pocket](https://open.spotify.com/track/7ikgdbyIecwr7OOkfW8tF5) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Pizza Tickets](https://open.spotify.com/album/0RK0VdRrsFe3ZozfDfBl09) | 2:41 | 2023-04-28 | 2024-04-19 |
 | [Happy](https://open.spotify.com/track/0jEaPBjFAWjQTMVouRwaHi) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Keepin' it Beefy](https://open.spotify.com/album/4IQn9XpweytNX2cUe2NBUH) | 3:38 | 2021-08-20 | 2022-01-22 |

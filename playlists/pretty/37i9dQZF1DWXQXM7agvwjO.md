@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: cehryl \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,848 likes - 105 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,850 likes - 105 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 28 | [Too Good](https://open.spotify.com/track/0gJeSKLwRezMIswuZph5Ms) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Too Good/Great Day](https://open.spotify.com/album/1bbq9MgeyGWd4LXO0P23KH) | 3:28 |
 | 29 | [Tokeau](https://open.spotify.com/track/1orZyOo0tOpw1cRMkuSYl4) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [Tokeau](https://open.spotify.com/album/05cCMDsTuc2K052tcWSGa1) | 3:18 |
 | 30 | [This and That](https://open.spotify.com/track/13c64od8WGLypIJIlTivOM) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [This and That](https://open.spotify.com/album/2GHpkTjWIlzkHSOE8HnzIZ) | 3:22 |
-| 31 | [或許我是焦慮型](https://open.spotify.com/track/1S0voKkC4RwGEcPcI6MzT5) | [8bite](https://open.spotify.com/artist/10adi7BOrRcihveeaZsRWA) | [落繭](https://open.spotify.com/album/7MY1yU0UxiXNSFqpv0UKED) | 2:58 |
+| 31 | [或許我是焦慮型](https://open.spotify.com/track/1S0voKkC4RwGEcPcI6MzT5) | [8Bite](https://open.spotify.com/artist/10adi7BOrRcihveeaZsRWA) | [落繭](https://open.spotify.com/album/7MY1yU0UxiXNSFqpv0UKED) | 2:58 |
 | 32 | [night night](https://open.spotify.com/track/5QThXrWkC8E6n2kY9CEmWm) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SKIN](https://open.spotify.com/album/2VwACWY14BDAQ6so8zIL07) | 3:59 |
 | 33 | [Moonlight](https://open.spotify.com/track/269MiEVU1Dyc6eUQU1PuiS) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Moonlight](https://open.spotify.com/album/3phWkXWHf65cK8vFh3jqMe) | 5:10 |
 | 34 | [weights of the world](https://open.spotify.com/track/4KyOHjX2gRIU9OfkcvDEaF) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [weights of the world](https://open.spotify.com/album/6zNhkRXyGjiwO4QUvVLC4j) | 3:44 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 90 | [Berdansa Berdancey](https://open.spotify.com/track/3jLbJfcEP5FcRv32AQYCOB) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Episode 2: Sticky Situation](https://open.spotify.com/album/6EmngjybN57GG8ivZ5VeRY) | 3:30 |
 | 91 | [MONO TARINAI !](https://open.spotify.com/track/00ylWW2FEhE5Y5eKzXutx7) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [MONO TARINAI !](https://open.spotify.com/album/4j4RiT6NenGXF51avgibJj) | 2:54 |
 | 92 | [Fell Too Deep](https://open.spotify.com/track/5kxKTKD2chM8U8mfHxhxK9) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [Fell Too Deep](https://open.spotify.com/album/2w1aoHabz5KInwE7QPjo5M) | 2:23 |
-| 93 | [夏燼](https://open.spotify.com/track/79QevogBPBrhNeZHe1TDah) | [8bite](https://open.spotify.com/artist/10adi7BOrRcihveeaZsRWA) | [夏燼](https://open.spotify.com/album/1wGFzarFTFN2xbwjCOHwMW) | 3:21 |
+| 93 | [夏燼](https://open.spotify.com/track/79QevogBPBrhNeZHe1TDah) | [8Bite](https://open.spotify.com/artist/10adi7BOrRcihveeaZsRWA) | [夏燼](https://open.spotify.com/album/1wGFzarFTFN2xbwjCOHwMW) | 3:21 |
 | 94 | [not again](https://open.spotify.com/track/6rc3jNCyKM37uZxCKTTKON) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [not again](https://open.spotify.com/album/6aUTe5jRMNsCzONsSQSVLI) | 4:24 |
 | 95 | [Sparkle Blue](https://open.spotify.com/track/2AsYTLSa51fTnWTNegQbCd) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [BLUE HOURS](https://open.spotify.com/album/1wzAwMstc8mW3z1vkU1P1O) | 3:03 |
 | 96 | [ฟื้น \(Athithan\)](https://open.spotify.com/track/1syUFw0njvgnZEVUTkBvkR) | [Yellow Fang](https://open.spotify.com/artist/7aB8dPCY3CPCjnRFGrFi2u) | [ฟื้น \(Athithan\)](https://open.spotify.com/album/7AgYS5giG9z7COFKnuJefN) | 5:37 |

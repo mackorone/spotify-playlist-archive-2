@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 158336,
       "name": "A Couple of Swells",
       "url": "https://open.spotify.com/track/5kElaHR873c7Z645EZSXdG"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 149563,
       "name": "A Fella With an Umbrella",
       "url": "https://open.spotify.com/track/7qktu6heGM5IQRsR5hZEhW"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 152520,
       "name": "A Fella with an Umbrella (from \"Easter Parade\") - 2022 Remaster",
       "url": "https://open.spotify.com/track/3HHzX0r45X4AOp6Y10aJ0j"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 268706,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/2rTSqBo2K3xbqa370GgopR"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 147440,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/2U1recJ0al3zhnAq6pNaw3"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 158066,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/6MOpTptNiBi9le3Mjk4OC1"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Dream On, Little Soldier Boy",
       "url": "https://open.spotify.com/track/3IrGOrTpDiCyt1CTA7mJAr"
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 131826,
       "name": "Easter Parade",
       "url": "https://open.spotify.com/track/521xvXNh0pQWnEfDxz4w6L"
@@ -4544,7 +4544,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 159893,
       "name": "In Your Easter Bonnet",
       "url": "https://open.spotify.com/track/0LyMDoOP9d264zzSsdN2GS"
@@ -5204,7 +5204,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 214493,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/1rIOXeVan5CrbcjlIWdU1z"
@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 217266,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/1ubhgngHGVuHSmpm2jySBD"
@@ -5882,7 +5882,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 214186,
       "name": "Mambo Five",
       "url": "https://open.spotify.com/track/5YKub7wA1oyjhMn7lII616"
@@ -6056,10 +6056,28 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 143562,
       "name": "Marrying for Love",
       "url": "https://open.spotify.com/track/1XschoiqUaGSJYPw57Ba8y"
+    },
+    {
+      "album": {
+        "name": "Call Me Madam (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/5Nx7z5DYTQS2pGiAOu0C6p"
+      },
+      "artists": [
+        {
+          "name": "George Sanders",
+          "url": "https://open.spotify.com/artist/3iMGWwcJibuaOORXJMwHJt"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146173,
+      "name": "Marrying for Love",
+      "url": "https://open.spotify.com/track/2qPgut4XmXgYcZ4aG7gQIU"
     },
     {
       "album": {
@@ -9226,7 +9244,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 132493,
       "name": "The Third Man - the 'Harry Lime' Theme",
       "url": "https://open.spotify.com/track/2a0KK2VpfAueyXdBjG45WB"
@@ -9244,7 +9262,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "The Third Man Theme",
       "url": "https://open.spotify.com/track/5iA2A3j0DJuIwv4srlCCVf"
@@ -10050,7 +10068,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 173576,
       "name": "Unfriendly Woman - Remastered",
       "url": "https://open.spotify.com/track/0v7c8vMd0FL4rcrtpUY564"
@@ -10090,7 +10108,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 206114,
       "name": "Virginia Lou",
       "url": "https://open.spotify.com/track/2rFm5AwZjFVIvDvFLcajsv"
@@ -11496,7 +11514,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 184573,
       "name": "You'd Be Surprised",
       "url": "https://open.spotify.com/track/621c0XNAmxRUVHM3PYaLhr"
@@ -11514,7 +11532,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 185866,
       "name": "You'd Be Surprised",
       "url": "https://open.spotify.com/track/6yd1X89ebKYhHDRNmOedNG"

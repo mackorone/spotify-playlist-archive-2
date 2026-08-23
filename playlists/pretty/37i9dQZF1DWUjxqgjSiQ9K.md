@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,489 likes - 75 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,577 likes - 75 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 22 | [Sin Reflectores](https://open.spotify.com/track/2MEep18MblsiDHN2Gjad4c) | [Emanuel Deliser](https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97) | [Sin Reflectores](https://open.spotify.com/album/7KNND33R7oWRhCr9fRHDpT) | 4:45 |
 | 23 | [Vida en Mis Brazos](https://open.spotify.com/track/159dJlHaSe2EdkXw5bSzCF) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Vida en Mis Brazos](https://open.spotify.com/album/6rFnGtErVJVTv81lx8b3TZ) | 3:07 |
 | 24 | [Tuyaiia](https://open.spotify.com/track/4Mv2w5KEXVFbdYnedgdsDz) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Tuyaiia](https://open.spotify.com/album/2Hpj4H3ecWsKPXk0eKysH0) | 3:03 |
-| 25 | [Con Yahweh 357](https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj) | [Lenny357](https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K) | [Con Yahweh 357](https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD) | 2:12 |
+| 25 | [Con Yahweh 357](https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj) | [Lenny357](https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse), [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K) | [Con Yahweh 357](https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD) | 2:12 |
 | 26 | [NO TIENES IGUAL](https://open.spotify.com/track/3W2H4Ss0F4C0XqTJfa2ke9) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [NO TIENES IGUAL](https://open.spotify.com/album/4Nrx6RkWTYqGr3IW2XLdNT) | 4:07 |
 | 27 | [Salmo 8 \(ALE\)](https://open.spotify.com/track/3SLqn2qHfVJe6XRzRgcJ7V) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Salmo 8 \(ALE\)](https://open.spotify.com/album/1qdW6VICl1X02rsuETum0H) | 3:44 |
 | 28 | [Padre Nuestro](https://open.spotify.com/track/00150goVTwTlHmZHg3K3TW) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Priscilla Bueno](https://open.spotify.com/artist/3583URsjwdBL39M6t9Y3TM) | [Padre Nuestro](https://open.spotify.com/album/0xZ4RuOP7fACHUsQIbDh68) | 3:43 |

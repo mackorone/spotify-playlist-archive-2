@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 1214,
+  "num_followers": 1216,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAAZsPq0mBpN3uGPvBx9XP5B",
+  "snapshot_id": "aoeVAAAAAABbDK9Cx44328NfPteXjLUo",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 300933,
-      "name": "Room at the Top",
-      "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 321693,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 300933,
+      "name": "Room at the Top",
+      "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
     },
     {
       "added_at": null,
@@ -550,11 +550,15 @@
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 284093,
-      "name": "Something Big",
-      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
+      "duration_ms": 260972,
+      "name": "Insider",
+      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
     },
     {
       "added_at": null,
@@ -614,15 +618,11 @@
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 260972,
-      "name": "Insider",
-      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
+      "duration_ms": 284093,
+      "name": "Something Big",
+      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
     },
     {
       "added_at": null,

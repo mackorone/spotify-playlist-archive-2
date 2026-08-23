@@ -624,7 +624,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 133545,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/7EVfyWoxyraAp1rRmuHpV7"
@@ -646,6 +646,24 @@
       "duration_ms": 133618,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"
+    },
+    {
+      "album": {
+        "name": "I'm John Lee Hooker",
+        "url": "https://open.spotify.com/album/1JS4r8YQPR1EFNepwVOAAi"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136266,
+      "name": "Dimples",
+      "url": "https://open.spotify.com/track/6WAVXqDKi9bHBmr6Z3Lkv0"
     },
     {
       "album": {

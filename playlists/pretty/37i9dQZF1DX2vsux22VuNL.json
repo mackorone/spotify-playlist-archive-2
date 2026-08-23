@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz, Sotam",
-  "num_followers": 289520,
+  "num_followers": 289519,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,26 @@
     {
       "added_at": "2026-08-21 03:00:43",
       "album": {
+        "name": "Sess\u00e3o Da Tarde",
+        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        },
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        }
+      ],
+      "duration_ms": 182784,
+      "name": "Sess\u00e3o Da Tarde",
+      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
+    },
+    {
+      "added_at": "2026-08-21 03:00:43",
+      "album": {
         "name": "Achei que era Doce",
         "url": "https://open.spotify.com/album/7H5BPDj13U6ZyohcUtFQyX"
       },
@@ -147,22 +167,18 @@
     {
       "added_at": "2026-08-21 03:00:43",
       "album": {
-        "name": "Sess\u00e3o Da Tarde",
-        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
+        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
+        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
       },
       "artists": [
         {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
-        },
-        {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 182784,
-      "name": "Sess\u00e3o Da Tarde",
-      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
+      "duration_ms": 189276,
+      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
+      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -195,18 +211,18 @@
     {
       "added_at": "2026-08-21 03:00:43",
       "album": {
-        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
-        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
+        "name": "Beira Mar",
+        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 189276,
-      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
-      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
+      "duration_ms": 180032,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -223,22 +239,6 @@
       "duration_ms": 199812,
       "name": "Azul Piscina",
       "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
-    },
-    {
-      "added_at": "2026-08-21 03:00:43",
-      "album": {
-        "name": "Beira Mar",
-        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 180032,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-08-21 03:00:43",
       "album": {
-        "name": "At\u00e9 virar saudade",
-        "url": "https://open.spotify.com/album/4q6PPp2iRvhhxa8zaFei7x"
-      },
-      "artists": [
-        {
-          "name": "Cael Gomess",
-          "url": "https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Deu um branco",
-      "url": "https://open.spotify.com/track/3lEBZ2Yx6nQEUnMPFA0aPV"
-    },
-    {
-      "added_at": "2026-08-21 03:00:43",
-      "album": {
         "name": "Trama",
         "url": "https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 259591,
       "name": "Trama",
       "url": "https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o"
+    },
+    {
+      "added_at": "2026-08-21 03:00:43",
+      "album": {
+        "name": "At\u00e9 virar saudade",
+        "url": "https://open.spotify.com/album/4q6PPp2iRvhhxa8zaFei7x"
+      },
+      "artists": [
+        {
+          "name": "Cael Gomess",
+          "url": "https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Deu um branco",
+      "url": "https://open.spotify.com/track/3lEBZ2Yx6nQEUnMPFA0aPV"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-08-21 03:00:43",
       "album": {
+        "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
+        "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 186486,
+      "name": "Quem sabe?",
+      "url": "https://open.spotify.com/track/5HPvLVF78LE2OD8fboFDo1"
+    },
+    {
+      "added_at": "2026-08-21 03:00:43",
+      "album": {
         "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
         "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 158293,
       "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
       "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
-    },
-    {
-      "added_at": "2026-08-21 03:00:43",
-      "album": {
-        "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
-        "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 186486,
-      "name": "Quem sabe?",
-      "url": "https://open.spotify.com/track/5HPvLVF78LE2OD8fboFDo1"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -739,6 +739,34 @@
     {
       "added_at": "2026-08-21 03:00:43",
       "album": {
+        "name": "Baile C\u00edtrico Utr\u00f3pico Lunar",
+        "url": "https://open.spotify.com/album/6bzigFZm76nltly1DBy1dZ"
+      },
+      "artists": [
+        {
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+        },
+        {
+          "name": "De Leve",
+          "url": "https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE"
+        },
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "duration_ms": 200892,
+      "name": "Pra Pegar Cachu",
+      "url": "https://open.spotify.com/track/1sAkWYLlensw7Lgowxs6b4"
+    },
+    {
+      "added_at": "2026-08-21 03:00:43",
+      "album": {
         "name": "Por Isso Me Liga",
         "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
@@ -755,30 +783,6 @@
       "duration_ms": 219168,
       "name": "Por Isso Me Liga",
       "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
-    },
-    {
-      "added_at": "2026-08-21 03:00:43",
-      "album": {
-        "name": "FRAGMENTADO",
-        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        },
-        {
-          "name": "Ramon Calixto",
-          "url": "https://open.spotify.com/artist/57LISFynxucEx3WF6Iqxq8"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "BASQUIAT",
-      "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -803,6 +807,30 @@
       "duration_ms": 191093,
       "name": "SAMBA DE CRIA",
       "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
+    },
+    {
+      "added_at": "2026-08-21 03:00:43",
+      "album": {
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        },
+        {
+          "name": "Ramon Calixto",
+          "url": "https://open.spotify.com/artist/57LISFynxucEx3WF6Iqxq8"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "BASQUIAT",
+      "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -851,6 +879,22 @@
       "duration_ms": 171000,
       "name": "assim",
       "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
+    },
+    {
+      "added_at": "2026-08-21 03:00:43",
+      "album": {
+        "name": "BIA1B99",
+        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 157553,
+      "name": "PERSONAGEM",
+      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -1123,6 +1167,30 @@
     {
       "added_at": "2026-08-21 03:00:43",
       "album": {
+        "name": "Olhar HD",
+        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "OLHAR HD",
+      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "added_at": "2026-08-21 03:00:43",
+      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
       },
@@ -1147,30 +1215,6 @@
       "duration_ms": 200930,
       "name": "Nada",
       "url": "https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi"
-    },
-    {
-      "added_at": "2026-08-21 03:00:43",
-      "album": {
-        "name": "Olhar HD",
-        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "OLHAR HD",
-      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -1435,38 +1479,6 @@
     {
       "added_at": "2026-08-21 03:00:43",
       "album": {
-        "name": "BIA1B99",
-        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 157553,
-      "name": "PERSONAGEM",
-      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
-    },
-    {
-      "added_at": "2026-08-21 03:00:43",
-      "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
-    },
-    {
-      "added_at": "2026-08-21 03:00:43",
-      "album": {
         "name": "Da Cabe\u00e7a Aos P\u00e9s",
         "url": "https://open.spotify.com/album/7wp6Af27m0ibNimiWpceYC"
       },
@@ -1487,6 +1499,22 @@
       "duration_ms": 131252,
       "name": "Da Cabe\u00e7a Aos P\u00e9s",
       "url": "https://open.spotify.com/track/09LHATplvixVD0wBwqAERR"
+    },
+    {
+      "added_at": "2026-08-21 03:00:43",
+      "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2026-08-21 03:00:43",
@@ -1595,34 +1623,6 @@
       "duration_ms": 141030,
       "name": "Ela \u00e9 de Escorpi\u00e3o",
       "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"
-    },
-    {
-      "added_at": "2026-08-21 03:00:43",
-      "album": {
-        "name": "Baile C\u00edtrico Utr\u00f3pico Lunar",
-        "url": "https://open.spotify.com/album/6bzigFZm76nltly1DBy1dZ"
-      },
-      "artists": [
-        {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
-        },
-        {
-          "name": "De Leve",
-          "url": "https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE"
-        },
-        {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        }
-      ],
-      "duration_ms": 200892,
-      "name": "Pra Pegar Cachu",
-      "url": "https://open.spotify.com/track/1sAkWYLlensw7Lgowxs6b4"
     },
     {
       "added_at": "2026-08-21 03:00:43",

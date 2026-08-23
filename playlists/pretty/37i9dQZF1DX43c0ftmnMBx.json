@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 273650,
+  "num_followers": 273692,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Carta De Verano",
-        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
-      },
-      "artists": [
-        {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Intentalo Tu",
-      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Se\u00f1or Juez",
         "url": "https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 264757,
       "name": "Se\u00f1or Juez",
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Carta De Verano",
+        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Intentalo Tu",
+      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Tonto Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "duration_ms": 284706,
+      "name": "La Pared",
+      "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Obl\u00edgame",
         "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 216800,
       "name": "Los Pobres Tambien LLoran",
       "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Tonto Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi"
-      },
-      "artists": [
-        {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
-        }
-      ],
-      "duration_ms": 284706,
-      "name": "La Pared",
-      "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
     },
     {
       "added_at": "2024-08-23 04:59:00",

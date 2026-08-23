@@ -1,13 +1,29 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 487917,
+  "num_followers": 487929,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAA3/OjsxwzBsASlDCZs0U94",
+  "snapshot_id": "aoeVAAAAAAC3m4N8aT9PGgBMdnwbCA+O",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
+        "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 252704,
+      "name": "Detroit Rock City - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
+      "url": "https://open.spotify.com/track/5tmpmE7ZqZcoCqRu62M9Gd"
+    },
     {
       "added_at": null,
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 167790,
       "name": "Rock And Roll All Nite - 2025 Remaster",
       "url": "https://open.spotify.com/track/1Buwv1iql0YsxftE5LHIgq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Double Platinum",
-        "url": "https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1259068,
+  "num_followers": 1258891,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
+        "name": "Que Sensaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/27L1rWQUpb8ctfroyDofHZ"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "Que Sensaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
         "name": "CORA DE HIELO",
         "url": "https://open.spotify.com/album/2ktxw6j04fB9NmqOv5ck0z"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 164769,
       "name": "CORA DE HIELO",
       "url": "https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
-        "name": "Que Sensaci\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/27L1rWQUpb8ctfroyDofHZ"
-      },
-      "artists": [
-        {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "Que Sensaci\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
     },
     {
       "added_at": "2026-08-19 21:13:46",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
-        "name": "Quiero Decirte",
-        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 222348,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
         "name": "BUENOS DIAS (feat. Tury, GeezyDee, CARABIN3)",
         "url": "https://open.spotify.com/album/1UrmUtWsy8x0Gr5NpVUyKM"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 295458,
       "name": "BUENOS DIAS (feat. Tury, GeezyDee, CARABIN3)",
       "url": "https://open.spotify.com/track/10B0cONtHL7b8hdMRE2Du6"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 222348,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
     },
     {
       "added_at": "2026-08-19 21:13:46",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/3P5a4yDyIT6q8ZsX7z2Qid"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 210576,
       "name": "Pasajero",
       "url": "https://open.spotify.com/track/5wPTk2TCDDuQRfqkZukWnk"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     },
     {
       "added_at": "2026-08-19 21:13:46",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "/Nachica",
+      "url": "https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
         "name": "Do Not Disturb",
         "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 165135,
       "name": "PATRONA",
       "url": "https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
-        "name": "DELIRIUM",
-        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "/Nachica",
-      "url": "https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d"
     },
     {
       "added_at": "2026-08-19 21:13:46",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
-        "name": "MALPORTADA",
-        "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 200112,
-      "name": "A CABALLO",
-      "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
         "name": "pasarella \ud83d\udc60",
         "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 162245,
       "name": "pasarella \ud83d\udc60",
       "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
+        "name": "MALPORTADA",
+        "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 200112,
+      "name": "A CABALLO",
+      "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
     },
     {
       "added_at": "2026-08-19 21:13:46",
@@ -2247,6 +2247,26 @@
     {
       "added_at": "2026-08-19 21:13:46",
       "album": {
+        "name": "Dumb Boy",
+        "url": "https://open.spotify.com/album/5EkTWCPU6bNaFGvodiYY05"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "duration_ms": 183307,
+      "name": "Dumb Boy",
+      "url": "https://open.spotify.com/track/1NnLLdGhBeQRZ8LNGM0CWb"
+    },
+    {
+      "added_at": "2026-08-19 21:13:46",
+      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets"
       },
@@ -2303,22 +2323,6 @@
       "duration_ms": 151825,
       "name": "AM\u00c9N BEB\u00c9",
       "url": "https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H"
-    },
-    {
-      "added_at": "2026-08-19 21:13:46",
-      "album": {
-        "name": "SELEDA.",
-        "url": "https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "SELEDA.",
-      "url": "https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO"
     }
   ],
   "unique_name": "Jangueo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,128 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,154 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 87 | [Ted](https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle \(Remastered\)](https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup) | 2:54 |
 | 88 | [Echo Boomed](https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Zoom](https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq) | 3:16 |
 | 89 | [Zero to Sixty](https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub), [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Zero to Sixty](https://open.spotify.com/album/4LSkUOsye6mMhUOVVkUG7f) | 4:48 |
-| 90 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 |
-| 91 | [Together](https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT) | 5:39 |
-| 92 | [Drunken Clouds](https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Drunken Clouds](https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR) | 4:13 |
-| 93 | [Endless Jasmine](https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 4:53 |
+| 90 | [Together](https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT) | 5:39 |
+| 91 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 |
+| 92 | [Endless Jasmine](https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 4:53 |
+| 93 | [Drunken Clouds](https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Drunken Clouds](https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR) | 4:13 |
 | 94 | [Doing The Beeston Bump](https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz) | 6:40 |
 | 95 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
 | 96 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 106 | [Empty Space](https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Empty Space](https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I) | 4:17 |
 | 107 | [Sister Species](https://open.spotify.com/track/0xi81plszmA40tDw7cefN1) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 5:04 |
 | 108 | [](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 0:00 |
-| 109 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
-| 110 | [Nautilus](https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx) | [Jake Slazenger](https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh) | [Das Ist Ein Groovybeat, Ja](https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS) | 6:19 |
+| 109 | [Nautilus](https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx) | [Jake Slazenger](https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh) | [Das Ist Ein Groovybeat, Ja](https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS) | 6:19 |
+| 110 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
 | 111 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 |
 | 112 | [Meridians](https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 4:43 |
 | 113 | [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 138 | [Orange Romeda](https://open.spotify.com/track/6vKJnXQ3k3BodEj0XXIt9T) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [We Are Reasonable People](https://open.spotify.com/album/2llsDTPNUbOw46ruEeGThR) | 4:51 |
 | 139 | [lux](https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy), [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [lux](https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs) | 3:15 |
 | 140 | [Ferrari Rocher](https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf) | [The Golden Age of Wrestling](https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp) | [Scorpion Deathlock](https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF) | 2:53 |
-| 141 | [Run](https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [Run](https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6) | 5:11 |
-| 142 | [The Red Line](https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Red Line](https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w) | 2:38 |
+| 141 | [The Red Line](https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Red Line](https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w) | 2:38 |
+| 142 | [Run](https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [Run](https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6) | 5:11 |
 | 143 | [Thurs Jung Yout](https://open.spotify.com/track/0gG7H4snjFftZCReVrdZBj) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Thurs Jung Yout](https://open.spotify.com/album/00wPi6Nswwcpr7oZTcj5gQ) | 3:41 |
 | 144 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
 | 145 | [Head Above The Parakeets](https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 7:16 |

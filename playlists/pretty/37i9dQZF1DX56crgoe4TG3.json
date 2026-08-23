@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 286017,
+  "num_followers": 286046,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Gum Tree Canoe",
-        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
-      },
-      "artists": [
-        {
-          "name": "John Hartford",
-          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Little Piece of My Heart",
-      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "In the Summertime",
         "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 295528,
       "name": "In the Summertime",
       "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Gum Tree Canoe",
+        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
+      },
+      "artists": [
+        {
+          "name": "John Hartford",
+          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Little Piece of My Heart",
+      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Royals (Bluegrass Cover)",
-        "url": "https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN"
+        "name": "Colors of the Wind",
+        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
       },
       "artists": [
         {
-          "name": "The Dirty Grass Players",
-          "url": "https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X"
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
         }
       ],
-      "duration_ms": 396714,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6"
+      "duration_ms": 236040,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -911,6 +911,22 @@
       "duration_ms": 199297,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Royals (Bluegrass Cover)",
+        "url": "https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Grass Players",
+          "url": "https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X"
+        }
+      ],
+      "duration_ms": 396714,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Verry Garcia",
-        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
-      },
-      "artists": [
-        {
-          "name": "Chicken Wire Empire",
-          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
-        }
-      ],
-      "duration_ms": 302720,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Possum",
         "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 333013,
       "name": "Possum",
       "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Verry Garcia",
+        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
+      },
+      "artists": [
+        {
+          "name": "Chicken Wire Empire",
+          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
+        }
+      ],
+      "duration_ms": 302720,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "He Called Me Baby",
-        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 279198,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Wagon Wheel",
         "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 433563,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 151466,
-      "name": "Coalmine",
-      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Me and Bobby McGee (2024 Mix)",
         "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
       },
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Norwegian Wood (This Bird Has Flown)",
-        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
       },
       "artists": [
         {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
         }
       ],
-      "duration_ms": 167827,
-      "name": "Norwegian Wood (This Bird Has Flown)",
-      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+      "duration_ms": 151466,
+      "name": "Coalmine",
+      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1459,6 +1459,22 @@
       "duration_ms": 197250,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 167827,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Ohio",
         "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 173279,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Fistful Of Bullets",
-        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
-      },
-      "artists": [
-        {
-          "name": "Mandowar",
-          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
-        }
-      ],
-      "duration_ms": 271753,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1635,6 +1635,22 @@
       "duration_ms": 190955,
       "name": "Drivin' Nails In My Coffin - Live",
       "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Fistful Of Bullets",
+        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
+      },
+      "artists": [
+        {
+          "name": "Mandowar",
+          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
+        }
+      ],
+      "duration_ms": 271753,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Born to Run",
-        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
-      },
-      "artists": [
-        {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Hits of Newgrass",
         "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
       },
@@ -1735,6 +1735,22 @@
       "duration_ms": 144933,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Born to Run",
+        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1791,26 +1807,6 @@
       "duration_ms": 243789,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Guess I'm Doing Fine",
-        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 280441,
-      "name": "Guess I'm Doing Fine",
-      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
     }
   ],
   "unique_name": "Bluegrass Covers",

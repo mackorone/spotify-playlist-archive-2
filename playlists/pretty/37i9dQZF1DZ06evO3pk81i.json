@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10080,
+  "num_followers": 10082,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAABuudAjgFnXztLN7TZGLO7C",
+  "snapshot_id": "aoeVAAAAAAA9PMIZw3x+dV+hz2LmTkpw",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectante",
-        "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/2BiIoEkjwXpP8x3aEujCjD"
       },
       "artists": [
         {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 154656,
-      "name": "Expectante",
-      "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
+      "duration_ms": 163000,
+      "name": "Arrancarte",
+      "url": "https://open.spotify.com/track/1SkONlC9ucuJD8irTfufcz"
     },
     {
       "added_at": null,
@@ -555,22 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/2BiIoEkjwXpP8x3aEujCjD"
+        "name": "Expectante",
+        "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
       },
       "artists": [
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
         },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Arrancarte",
-      "url": "https://open.spotify.com/track/1SkONlC9ucuJD8irTfufcz"
+      "duration_ms": 154656,
+      "name": "Expectante",
+      "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
     },
     {
       "added_at": null,

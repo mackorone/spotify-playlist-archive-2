@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > ايه الجديد؟ الغلاف: هيلة
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [TAB EH?](https://open.spotify.com/track/07VNX7kQuXuhXM4BDc8Mwf) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw) | [TAB EH?](https://open.spotify.com/album/7tM1CUtPCfLeGFaT07aJn8) | 2:24 |
 | 60 | [As2ela](https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [As2ela](https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5) | 3:41 |
 
-Snapshot ID: `AAAAADEVAxyed06QgieyLmqs5pRzGBpy`
+Snapshot ID: `AAAAAMAOFkGfrYtpDb/jJs3LX1NY9ubJ`

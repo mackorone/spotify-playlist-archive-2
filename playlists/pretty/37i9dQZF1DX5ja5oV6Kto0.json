@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro fusion music: Artsalghul ",
-  "num_followers": 113296,
+  "num_followers": 113423,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,22 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "GBED$$$",
-        "url": "https://open.spotify.com/album/4EglvXBZ5ofjhhRAv0qygO"
+        "name": "Okunkun",
+        "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
       },
       "artists": [
         {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
         }
       ],
-      "duration_ms": 157794,
-      "name": "WOE$KII",
-      "url": "https://open.spotify.com/track/0n9bLhbejFfR54AehIevMU"
+      "duration_ms": 159000,
+      "name": "Okunkun",
+      "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -251,22 +247,26 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "Okunkun",
-        "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
+        "name": "GBED$$$",
+        "url": "https://open.spotify.com/album/4EglvXBZ5ofjhhRAv0qygO"
       },
       "artists": [
         {
-          "name": "Solana",
-          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
         },
         {
-          "name": "Killertunes",
-          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Okunkun",
-      "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
+      "duration_ms": 157794,
+      "name": "WOE$KII",
+      "url": "https://open.spotify.com/track/0n9bLhbejFfR54AehIevMU"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "Dide",
-        "url": "https://open.spotify.com/album/5dB8XJyUhDbjfEZa0yxoS6"
-      },
-      "artists": [
-        {
-          "name": "Solana",
-          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
-        }
-      ],
-      "duration_ms": 121025,
-      "name": "Dide",
-      "url": "https://open.spotify.com/track/2wMklzdPVo20FNBwNB0Q6E"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
         "name": "Love Stray",
         "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 177968,
       "name": "Deeper Than Love",
       "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
+        "name": "Dide",
+        "url": "https://open.spotify.com/album/5dB8XJyUhDbjfEZa0yxoS6"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "duration_ms": 121025,
+      "name": "Dide",
+      "url": "https://open.spotify.com/track/2wMklzdPVo20FNBwNB0Q6E"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
+        "name": "Awilo",
+        "url": "https://open.spotify.com/album/6ULG4B8cSKQ4pLV2LYTEr0"
+      },
+      "artists": [
+        {
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Awilo",
+      "url": "https://open.spotify.com/track/0gQ2zMMal8jm7XyVtbtqEh"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
         "name": "REVIVAL",
         "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 146666,
       "name": "impossible",
       "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
-        "name": "Awilo",
-        "url": "https://open.spotify.com/album/6ULG4B8cSKQ4pLV2LYTEr0"
-      },
-      "artists": [
-        {
-          "name": "Yartti",
-          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Awilo",
-      "url": "https://open.spotify.com/track/0gQ2zMMal8jm7XyVtbtqEh"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
+        "name": "Kevin Bacon",
+        "url": "https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY"
+      },
+      "artists": [
+        {
+          "name": "Earldridge",
+          "url": "https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6"
+        }
+      ],
+      "duration_ms": 150279,
+      "name": "Kevin Bacon",
+      "url": "https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
         "name": "Big Bad World",
         "url": "https://open.spotify.com/album/4pCFcva7BTJM5Onhh4hiEn"
       },
@@ -1339,26 +1355,6 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "After",
-        "url": "https://open.spotify.com/album/5TsaHCdkZC6xhapMnZgKh2"
-      },
-      "artists": [
-        {
-          "name": "Sante SVM",
-          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
-        },
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "After",
-      "url": "https://open.spotify.com/track/10t22Qwyd0fbxfENS6ssbI"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
         "name": "LUCKY UU",
         "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
       },
@@ -1387,6 +1383,26 @@
       "duration_ms": 145426,
       "name": "Yapa Yapa",
       "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
+    },
+    {
+      "added_at": "2026-08-21 00:01:44",
+      "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/5TsaHCdkZC6xhapMnZgKh2"
+      },
+      "artists": [
+        {
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "After",
+      "url": "https://open.spotify.com/track/10t22Qwyd0fbxfENS6ssbI"
     },
     {
       "added_at": "2026-08-21 00:01:44",
@@ -1443,42 +1459,22 @@
     {
       "added_at": "2026-08-21 00:01:44",
       "album": {
-        "name": "Lust In Lagos",
-        "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
+        "name": "Only Water (Feat. Lady Donli)",
+        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
       },
       "artists": [
         {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
         },
         {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Crowther",
-          "url": "https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE"
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
         }
       ],
-      "duration_ms": 211934,
-      "name": "Soft Prayer",
-      "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
-    },
-    {
-      "added_at": "2026-08-21 00:01:44",
-      "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
+      "duration_ms": 187500,
+      "name": "Only Water (Feat. Lady Donli)",
+      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

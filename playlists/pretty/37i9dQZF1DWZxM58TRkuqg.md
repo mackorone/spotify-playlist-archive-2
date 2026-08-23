@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Bunga Citra Lestari, Josh Florentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,670 likes - 105 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,646 likes - 105 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

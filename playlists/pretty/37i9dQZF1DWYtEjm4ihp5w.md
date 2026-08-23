@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Shaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,666 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,739 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Machi Normal](https://open.spotify.com/track/3bDMMx2DCtciigoJn8jEcc) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Machi Normal](https://open.spotify.com/album/6H6SiOjNeSWfJjJ8kuFZxu) | 3:01 |
 | 50 | [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 |
 
-Snapshot ID: `AAAAAO1pjAqK69DhsweuLlbCt8gPoJ7H`
+Snapshot ID: `AAAAAOnW7tudenXdH7mrtfc2QYF5ypQq`

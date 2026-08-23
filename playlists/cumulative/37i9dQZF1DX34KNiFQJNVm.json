@@ -116593,6 +116593,24 @@
     },
     {
       "album": {
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/7oBBKHsVZ0FZt4BAwX6ICo"
+      },
+      "artists": [
+        {
+          "name": "Memphis Depay",
+          "url": "https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144485,
+      "name": "Don't Panic",
+      "url": "https://open.spotify.com/track/5iAocbGgCGwucmmafguHV5"
+    },
+    {
+      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -331271,7 +331289,7 @@
         },
         {
           "name": "FARIAS",
-          "url": "https://open.spotify.com/artist/4gjuVVLQReRkApkEPQCglv"
+          "url": "https://open.spotify.com/artist/1C7swBbZLPAFNdk5nFGwgC"
         }
       ],
       "date_added": "2026-08-22",

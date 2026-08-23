@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-496 songs - 23 hr 25 min
+497 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Blooming Canopy](https://open.spotify.com/track/05LVvmA1kkHNqCuqvXWeYk) | [Softfield](https://open.spotify.com/artist/3fAsMj4bHch8mjQ3wf5BOV) | [Blooming Canopy](https://open.spotify.com/album/52jBYHzCKQQolr0TrxAHLu) | 2:39 | 2026-07-03 |  |
 | [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-04-03 |  |
 | [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 | 2025-09-10 | 2026-07-11 |
+| [Bowl of Life](https://open.spotify.com/track/25GHFh0uRdeTXeb0k9V8qO) | [Divine Isle](https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT) | [Bowl of Life](https://open.spotify.com/album/0KQT1FnAZSbWHYkWdLWixI) | 2:54 | 2026-08-19 |  |
 | [Breath Of The Mountain \- Birdsong Mix](https://open.spotify.com/track/5MIHW6CVUX6Tk0fKV7Fz3I) | [Yakushima Dove](https://open.spotify.com/artist/5pOo0TJogDJFi9af6Takg5) | [Breath Of The Mountain \(Birdsong Mix\)](https://open.spotify.com/album/1nQVOIrtSwvlN2ncpY5VFX) | 2:50 | 2026-05-27 | 2026-06-27 |
 | [Breath of the Starlit Earth](https://open.spotify.com/track/17kmLfGd09fhG7oyGV5mqN) | [Pillow Dalliance](https://open.spotify.com/artist/6DM6WLvwOHMENEbAd4jbFN) | [Breath of the Starlit Earth](https://open.spotify.com/album/7k5GUo489LXhNLz3YQ5Iuv) | 2:39 | 2026-07-03 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2023-04-28 | 2025-05-22 |
@@ -152,7 +153,7 @@
 | [Fading Petals](https://open.spotify.com/track/3IJKGZ3iz4kdBcUru29Ucw) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Silver Linen Note](https://open.spotify.com/album/4dqvUtMRYaUvocHdEPz8ca) | 3:14 | 2026-07-03 |  |
 | [Falling Freely](https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Falling Freely](https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz) | 2:54 | 2025-06-17 | 2026-08-21 |
 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 | 2026-04-03 |  |
-| [Feather](https://open.spotify.com/track/2RzEZIvs2KzxBAzkHXgJZa) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Feather](https://open.spotify.com/album/3zZcMIi0OrREEVvK22os4K) | 2:58 | 2025-05-21 |  |
+| [Feather](https://open.spotify.com/track/2RzEZIvs2KzxBAzkHXgJZa) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Feather](https://open.spotify.com/album/3zZcMIi0OrREEVvK22os4K) | 2:58 | 2025-05-21 | 2026-08-23 |
 | [Fethgar](https://open.spotify.com/track/3yZmhuvcDfAE1jHKYe3aov) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Fethgar](https://open.spotify.com/album/69XqY6lqmzx9K1lOTkHhez) | 2:15 | 2026-02-23 | 2026-04-04 |
 | [Fields Above](https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Fields Above](https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth) | 2:33 | 2025-04-11 | 2026-04-04 |
 | [Fire Light](https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Fire Light](https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd) | 2:55 | 2023-04-28 | 2025-05-22 |
@@ -211,7 +212,7 @@
 | [Guided by water](https://open.spotify.com/track/5l7sHk5p9YnwW8WjdYPz3K) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Guided by water](https://open.spotify.com/album/6aaiU2um6gI6AoZxo03wxB) | 3:37 | 2026-04-03 |  |
 | [Habitat](https://open.spotify.com/track/3SgW6ntZSJqtndVkHgCnNl) | [Decie Orion](https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO) | [Habitat](https://open.spotify.com/album/7aOV06bE8iDApcqnE5Ov1X) | 2:54 | 2026-02-23 | 2026-04-04 |
 | [Halfmoon](https://open.spotify.com/track/0AdOu6FCkWdtrCxPYP4yS9) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Halfmoon](https://open.spotify.com/album/3f4dbs1Vhi3VBJ121oobzs) | 2:49 | 2023-08-11 | 2026-04-04 |
-| [Hands In The Sky](https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Hands In The Sky](https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW) | 2:44 | 2026-04-03 |  |
+| [Hands In The Sky](https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Hands In The Sky](https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW) | 2:44 | 2026-04-03 | 2026-08-23 |
 | [Hands of Peace](https://open.spotify.com/track/09k98ZBBIc5Dn261HfMaO7) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Hands of Peace](https://open.spotify.com/album/4Dktl0OS3gUY0CrymbhZns) | 3:27 | 2026-04-03 |  |
 | [Handwritten](https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Handwritten](https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl) | 2:10 | 2025-05-21 | 2026-08-20 |
 | [Harmony Embrace](https://open.spotify.com/track/2BvGnRld5Kg2pjnL1JRhYq) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Harmony Embrace](https://open.spotify.com/album/1ISODSwPtvU8UF3OiFRXHY) | 3:39 | 2026-07-03 |  |
@@ -448,7 +449,7 @@
 | [Trace](https://open.spotify.com/track/4zRFYGwWtpFj25EesmqzcL) | [Cuatico](https://open.spotify.com/artist/7uwkc1ZXfm0rVruHw8a91m) | [Trace](https://open.spotify.com/album/7ubIk8MvGIJ4TYXTiGGPOF) | 2:17 | 2026-01-08 | 2026-04-04 |
 | [Tranquility](https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Tranquility](https://open.spotify.com/album/0XN0oD4b0FwAy5URSvWFXk) | 2:43 | 2023-04-28 | 2024-04-02 |
 | [Tranquility](https://open.spotify.com/track/3qoGayotW8LH4rmjuYiB9r) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Tranquility](https://open.spotify.com/album/58nrqDQObWPfNLTcBSJw9H) | 2:23 | 2026-08-19 |  |
-| [Transcendent Pools](https://open.spotify.com/track/3zxKbETJMvNUEbQJsng8hs) | [Brave Olgot](https://open.spotify.com/artist/36ZUkDeMXc5THGh3Wzls66) | [Transcendent Pools](https://open.spotify.com/album/2PdNceP5p7zyrqQXlC33bm) | 2:39 | 2026-07-03 | 2026-08-20 |
+| [Transcendent Pools](https://open.spotify.com/track/3zxKbETJMvNUEbQJsng8hs) | [Brave Olgot](https://open.spotify.com/artist/36ZUkDeMXc5THGh3Wzls66) | [Transcendent Pools](https://open.spotify.com/album/2PdNceP5p7zyrqQXlC33bm) | 2:39 | 2026-07-03 |  |
 | [Transmission](https://open.spotify.com/track/06O8wPfnfKwzme7B2l6mEP) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Transmission](https://open.spotify.com/album/6P9UOCViUkPpWijj7wV6fQ) | 2:51 | 2024-11-28 | 2026-04-04 |
 | [Tree Spirits](https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Tree Spirits](https://open.spotify.com/album/0iceXQlw0yp36EITpApP5z) | 2:24 | 2024-07-19 | 2026-04-04 |
 | [Treelines](https://open.spotify.com/track/6ULxcjZlx0SWEp0f6gJnrH) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Treelines](https://open.spotify.com/album/65yPAJqfjzZs0IrjfMoZf4) | 3:11 | 2026-06-12 | 2026-08-22 |

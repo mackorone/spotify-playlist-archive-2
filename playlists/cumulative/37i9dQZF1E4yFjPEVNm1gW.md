@@ -4,7 +4,7 @@
 
 > With Yeat, Autumn!, Cuo Zay and more
 
-309 songs - 12 hr 5 min
+310 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Barricade Tape](https://open.spotify.com/track/3JAv0p8M0kPoyOIZnMt9Ou) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [Barricade Tape](https://open.spotify.com/album/5mzcsXGpcKTzuoHc6VHYC4) | 1:48 | 2026-05-02 | 2026-05-10 |
 | [beaver](https://open.spotify.com/track/35JBdERw52rF5vNn2Zujbl) | [Hariroc](https://open.spotify.com/artist/3P0Ts5pJZKOyfWjuORxn5U), [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [THE SQUIDFATHER 2](https://open.spotify.com/album/3CIqtma4xiI9roddle2h58) | 1:34 | 2026-08-03 | 2026-08-10 |
 | [Been Off \(feat\. Yeat\)](https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L) | [SeptembersRich](https://open.spotify.com/artist/2AXsnwUyL9eMUy3y0ly2si), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2high](https://open.spotify.com/album/2ILSr2xQkOORnjsZgUjcJ6) | 3:12 | 2025-11-29 | 2026-08-21 |
-| [BIG 3](https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Slimeto](https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4) | [BIG 3](https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu) | 2:02 | 2025-11-29 |  |
+| [BIG 3](https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Slimeto](https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4) | [BIG 3](https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu) | 2:02 | 2025-11-29 | 2026-08-23 |
 | [Blacked Out](https://open.spotify.com/track/0c7uMUPFCvPZGSHNEjv7z1) | [Yfg Reaper](https://open.spotify.com/artist/0feNk1Rpu53tZOXaaWfVzl) | [Reaper Files](https://open.spotify.com/album/1LkpG33vQtsDO7J16w9eE5) | 2:34 | 2026-06-15 | 2026-07-11 |
 | [BLEACHERS](https://open.spotify.com/track/3rInIavPYEfe9ljP732aFk) | [Laylo!!](https://open.spotify.com/artist/0YBxMclvsTziVtgFLvyQMc) | [COPACETIC](https://open.spotify.com/album/6rqoKKlLhomSjkEXL1NGhD) | 2:17 | 2026-01-04 | 2026-02-17 |
 | [blood](https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [blood](https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM) | 2:18 | 2025-11-29 | 2026-04-27 |
@@ -185,7 +185,7 @@
 | [Never Theirs](https://open.spotify.com/track/3tImnBbcBQK6pE0G28VAg6) | [YFG Trap](https://open.spotify.com/artist/42MiKfvv8YFBf9SdijIlci) | [Okay, Wait...](https://open.spotify.com/album/6gOcbSfYL9qCPAmN2c9LaI) | 2:16 | 2025-12-01 | 2025-12-08 |
 | [Nightcore 2](https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:02 | 2025-11-29 |  |
 | [nine](https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [3](https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ) | 1:54 | 2026-02-05 |  |
-| [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 |  |
+| [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 | 2026-08-23 |
 | [No Folding \(Bonus\)](https://open.spotify.com/track/5bOhFcWSkQfDRTNblpLicF) | [VazClare](https://open.spotify.com/artist/0nYdbzhczBc4XzpFdHOG75), [killfazos](https://open.spotify.com/artist/3gstM7z6Ou4hsmy3CTrJFj) | [ANTI](https://open.spotify.com/album/4LsamGhaJ4QVjy3z6t2snN) | 2:03 | 2026-05-09 | 2026-06-03 |
 | [No Luv](https://open.spotify.com/track/3DmSkzTtzNisgROnoIbw4I) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [No Luv](https://open.spotify.com/album/35HuNLOzxkWe7rtw8xu4Ur) | 2:17 | 2026-02-24 | 2026-03-20 |
 | [NO TRIP](https://open.spotify.com/track/1sfK2lF59BbYHCqFeyi8DL) | [LUHMADI](https://open.spotify.com/artist/1P5JM3MwarWSuWVLdLfqhT) | [NO TRIP](https://open.spotify.com/album/2OXjwgobVhuv6uuB3esA3p) | 1:49 | 2026-04-18 | 2026-05-06 |
@@ -241,6 +241,7 @@
 | [Simple!](https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Ils Verront](https://open.spotify.com/album/2VLmqA6liyiWLQ7pu8d0na) | 3:03 | 2025-11-29 | 2026-04-22 |
 | [Sizzurp](https://open.spotify.com/track/1aED4pzjTZQRwEWGVIqFk2) | [luhdelf](https://open.spotify.com/artist/4igaC79J5tLhSZ8Qqo8zII) | [Hiatus](https://open.spotify.com/album/1B5dNX0AKfkPAcesNTBMjr) | 2:17 | 2026-05-17 | 2026-05-29 |
 | [Slay3d](https://open.spotify.com/track/54Sa4mrJAHcdFLUO1dlC6G) | [gothamrok](https://open.spotify.com/artist/63PuOaP4fCF2PSA7caynRo) | [Slay3d](https://open.spotify.com/album/3RKcBezvMX6wXWRaUgEJ1q) | 1:53 | 2026-05-25 | 2026-06-18 |
+| [slur](https://open.spotify.com/track/71kF9Pw7KFfNsAqXGD6NQA) | [Konto](https://open.spotify.com/artist/1tGzMgkoDGrFiIYyshal4R), [imylia](https://open.spotify.com/artist/3yEpoErVGLX6Q12Y5RTEde) | [slur](https://open.spotify.com/album/0zqPRw7HpKTTzh3HovZX6u) | 1:45 | 2026-08-23 |  |
 | [Smith & Wesson](https://open.spotify.com/track/5zb7hZVZyhLhKEq3coGmPx) | [Lohily](https://open.spotify.com/artist/6vO2KGZh1rvFhv8qa3DDdx) | [Grails](https://open.spotify.com/album/1f6GQhQ22QLR08bdAFBGto) | 3:36 | 2026-08-09 | 2026-08-15 |
 | [snakes](https://open.spotify.com/track/6EjpOnPFV3tsGMb4CA1VUv) | [vamp](https://open.spotify.com/artist/7uTccMq0K79JPxvJy5Vpu8) | [snakes](https://open.spotify.com/album/3mOmWWY41mroTCYiDbanPp) | 2:14 | 2026-01-23 | 2026-01-31 |
 | [sorry not sorry](https://open.spotify.com/track/0YZYErTb3ZfNUBrKlWuLIu) | [Pure557](https://open.spotify.com/artist/0nhb1ZnJ9gedmTrLZgASKE) | [sorry not sorry](https://open.spotify.com/album/2COBCCxMt7pj0KYr5cFJyS) | 1:32 | 2026-01-27 | 2026-02-03 |
@@ -315,7 +316,7 @@
 | [you aint livin](https://open.spotify.com/track/38sNbOEGJ7enWMdB36U5Uw) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [xkt](https://open.spotify.com/artist/0HqPRbj8ohrUXHk25bmdIm), [khxznq](https://open.spotify.com/artist/1kuWGpWPlu9pGhLaA8TDnA) | [you aint livin](https://open.spotify.com/album/62JY04E0vjjM68GtdLqrzq) | 2:30 | 2025-11-29 | 2026-01-04 |
 | [Your Love](https://open.spotify.com/track/2O2p7GIYgc7C4uN4rVhcWS) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Industry](https://open.spotify.com/album/2D9cqvphij7wSJXIT8SqR4) | 2:24 | 2026-02-26 | 2026-02-27 |
 | [YOUTUBE](https://open.spotify.com/track/4AvbJFkxpj5x1ua2FeIS7l) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL) | 2:03 | 2025-11-29 | 2026-02-20 |
-| [YOUTUBE](https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1) | 2:03 | 2026-02-20 | 2026-08-07 |
+| [YOUTUBE](https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1) | 2:03 | 2026-02-20 |  |
 | [Šonic](https://open.spotify.com/track/2mCeEdHTCbaTaewIRHUchu) | [Ķingšteez₩](https://open.spotify.com/artist/5Kejvz1p0s9pxuJR2F5GYr) | [Šteez fileš](https://open.spotify.com/album/6Es5D57bsgWKPcvG8MEpvG) | 2:39 | 2026-07-20 | 2026-07-24 |
 
 \*This playlist was first scraped on 2025-11-29. Prior content cannot be recovered.

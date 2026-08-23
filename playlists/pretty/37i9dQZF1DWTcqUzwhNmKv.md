@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Cenobia are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,654,297 likes - 85 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,654,436 likes - 85 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

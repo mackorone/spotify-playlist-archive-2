@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: CARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,401 likes - 294 songs - 15 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,400 likes - 294 songs - 15 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

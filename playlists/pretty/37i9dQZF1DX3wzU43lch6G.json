@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 113783,
+  "num_followers": 113790,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Akustik Travma",
-        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
-      },
-      "artists": [
-        {
-          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
-          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
-        }
-      ],
-      "duration_ms": 235817,
-      "name": "Bodrum",
-      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Kehanet",
         "url": "https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 239605,
       "name": "Tac Mahal",
       "url": "https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Akustik Travma",
+        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
+      },
+      "artists": [
+        {
+          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
+          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+        }
+      ],
+      "duration_ms": 235817,
+      "name": "Bodrum",
+      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Kuantum 51",
-        "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "M\u00fcte\u015fekkir",
-      "url": "https://open.spotify.com/track/611rMkMHYTBQ2dYoUubI72"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Hissettin mi",
         "url": "https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 212608,
       "name": "Hissettin mi",
       "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Kuantum 51",
+        "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "M\u00fcte\u015fekkir",
+      "url": "https://open.spotify.com/track/611rMkMHYTBQ2dYoUubI72"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Al Senin Olsun D\u00fcnya",
+        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 195805,
+      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
+      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Yosun (Ayta\u00e7 Kart Remix)",
         "url": "https://open.spotify.com/album/742LXpIVetALHQnkHi1G31"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 218761,
       "name": "Yosun - Ayta\u00e7 Kart Remix",
       "url": "https://open.spotify.com/track/0UVorGN8jZe7RMgTq6RzXJ"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Al Senin Olsun D\u00fcnya",
-        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 195805,
-      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
-      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -819,18 +819,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Sarma\u015f\u0131k",
-        "url": "https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY"
+        "name": "Bir Anda",
+        "url": "https://open.spotify.com/album/4cG5f9NFKkNr3rH7K3zcuD"
       },
       "artists": [
         {
-          "name": "Evdeki Saat",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
+          "name": "Nilhan",
+          "url": "https://open.spotify.com/artist/04iDbY27hS8SKKr2toc0nD"
+        },
+        {
+          "name": "CEAUS",
+          "url": "https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Sarma\u015f\u0131k",
-      "url": "https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN"
+      "duration_ms": 158644,
+      "name": "Bir Anda",
+      "url": "https://open.spotify.com/track/4tYUzluvpdFTKhGfT1HTcK"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -851,22 +855,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Bir Anda",
-        "url": "https://open.spotify.com/album/4cG5f9NFKkNr3rH7K3zcuD"
+        "name": "Sarma\u015f\u0131k",
+        "url": "https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY"
       },
       "artists": [
         {
-          "name": "Nilhan",
-          "url": "https://open.spotify.com/artist/04iDbY27hS8SKKr2toc0nD"
-        },
-        {
-          "name": "CEAUS",
-          "url": "https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4"
+          "name": "Evdeki Saat",
+          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
         }
       ],
-      "duration_ms": 158644,
-      "name": "Bir Anda",
-      "url": "https://open.spotify.com/track/4tYUzluvpdFTKhGfT1HTcK"
+      "duration_ms": 245000,
+      "name": "Sarma\u015f\u0131k",
+      "url": "https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN"
     },
     {
       "added_at": "2025-07-10 21:06:57",

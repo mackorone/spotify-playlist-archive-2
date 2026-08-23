@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Meet Me by the Ocean",
+        "url": "https://open.spotify.com/album/4uC0Siq07QpZ1h5H7sTgK5"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236946,
+      "name": "Meet Me by the Ocean",
+      "url": "https://open.spotify.com/track/15u5ivcq3t32mDnId6LAXU"
+    },
+    {
+      "album": {
         "name": "Easy to Love You",
         "url": "https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91"
       },

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-451 songs - 1 day 5 hr 8 min
+452 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Cruel Summer \- Part I](https://open.spotify.com/track/6oHszVM0cChVuEKChXGP55) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Zampera & Muttofunk](https://open.spotify.com/artist/1DeIegb677snMXzU6LMLMQ) | [Cruel Summer](https://open.spotify.com/album/0v2R3NgURPoZCpdb0UmJp5) | 3:05 | 2022-06-20 | 2023-05-20 |
 | [Cruel Summer \- Part I \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/track/4YTO9Z4RSkQRfCoX6kYNrz) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Zampera & Muttofunk](https://open.spotify.com/artist/1DeIegb677snMXzU6LMLMQ) | [Cruel Summer \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/album/0nrCAUDPvtB9w4p7BAZX3a) | 3:05 | 2021-07-24 | 2023-02-25 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-05-19 | 2024-05-25 |
+| [Curious Subject](https://open.spotify.com/track/7iXdPnb4EnRwaJiABTQXV4) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Curious Subject](https://open.spotify.com/album/5tBsx7LYJk6sj86XS2qAlV) | 3:53 | 2026-08-21 |  |
 | [Dance baby oh](https://open.spotify.com/track/27hxOtUPvhetUhiHMXCoEQ) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh) | [Dance baby oh / Ko sar ra di ep](https://open.spotify.com/album/6FYjgDCCqAk8ANMfEUUX4E) | 6:47 | 2021-07-24 | 2023-05-20 |
 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 | 2024-03-29 | 2026-05-16 |
 | [Dance With You](https://open.spotify.com/track/1SF2Yv4eZgtd7q6ygLqKc9) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Dance With You](https://open.spotify.com/album/6tBYHEsGKuUmzXMxwQxLN3) | 2:24 | 2024-07-26 | 2025-09-04 |
@@ -445,7 +446,7 @@
 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 | 2023-05-19 | 2023-07-18 |
 | [Wish I Knew You \- Poolside Remix](https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Wish I Knew You \(Poolside Remix\)](https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj) | 4:05 | 2025-06-27 |  |
 | [Without You](https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Sacha Vee](https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8) | [Without You](https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh) | 3:47 | 2023-05-19 | 2026-05-16 |
-| [Won't Let U Down](https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Won't Let U Down](https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC) | 4:11 | 2026-05-08 |  |
+| [Won't Let U Down](https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Won't Let U Down](https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC) | 4:11 | 2026-05-08 | 2026-08-23 |
 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 | 2024-04-05 | 2024-09-07 |
 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 | 2021-07-24 | 2023-07-30 |
 | [You Bring Me Joy \- Radio Edit](https://open.spotify.com/track/7up1kromWJY9ZoR747ngVV) | [Soulista](https://open.spotify.com/artist/7wTnuabmq5mpF4ENwwC8el), [Tracy Hamlin](https://open.spotify.com/artist/0oZ9W2ul2WbXflo60EAqUT) | [You Bring Me Joy](https://open.spotify.com/album/7qC8j2gTsZJk38AsoGyWKI) | 4:19 | 2023-05-19 | 2023-11-17 |

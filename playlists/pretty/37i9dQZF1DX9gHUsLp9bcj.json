@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 49836,
+  "num_followers": 49841,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Ruega por Nosotros",
-      "url": "https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Alma de negro",
         "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 140146,
       "name": "Aquellos ojos verdes (bolero)",
       "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Ruega por Nosotros",
+      "url": "https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "The Best Of Perez Prado: The Original Mambo #5",
-        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 150386,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
         "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 187129,
       "name": "Somos (Bolero) - Remastered",
       "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "The Best Of Perez Prado: The Original Mambo #5",
+        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 150386,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Canciones de la Radio, Vol. 2",
-        "url": "https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD"
       },
       "artists": [
         {
-          "name": "Ana Mar\u00eda Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
+          "name": "Los Cinco Latinos",
+          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
         }
       ],
-      "duration_ms": 141626,
-      "name": "Espinita",
-      "url": "https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x"
+      "duration_ms": 117080,
+      "name": "Record\u00e1ndote",
+      "url": "https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD"
+        "name": "Canciones de la Radio, Vol. 2",
+        "url": "https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI"
       },
       "artists": [
         {
-          "name": "Los Cinco Latinos",
-          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
+          "name": "Ana Mar\u00eda Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
         }
       ],
-      "duration_ms": 117080,
-      "name": "Record\u00e1ndote",
-      "url": "https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H"
+      "duration_ms": 141626,
+      "name": "Espinita",
+      "url": "https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -815,18 +815,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Sus Mejores Boleros",
-        "url": "https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu"
+        "name": "La Sonora Matancera Desde Cuba. 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1kbXCTnGNOxY3jPGnrfxN1"
       },
       "artists": [
         {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
         }
       ],
-      "duration_ms": 176000,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt"
+      "duration_ms": 177333,
+      "name": "Angustia",
+      "url": "https://open.spotify.com/track/5ZQi9369ovLvjyvp4vEHTM"
     }
   ],
   "unique_name": "Los 50s",

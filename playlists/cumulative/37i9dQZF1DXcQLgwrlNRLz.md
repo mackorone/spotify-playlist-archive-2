@@ -4,7 +4,7 @@
 
 > Le plus chauds d'Afrique Francophone\. Cover: TRK.
 
-83 songs - 4 hr 15 min
+84 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Le succès](https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Le succès](https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN) | 3:28 | 2026-06-26 |  |
 | [Lover Boy \(feat\. Tayc & Dadju\)](https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:08 | 2026-06-26 |  |
 | [M3lo](https://open.spotify.com/track/7ELft1cx8anhsXE405kckI) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:18 | 2026-06-26 |  |
-| [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 | 2026-06-26 |  |
+| [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 | 2026-06-26 | 2026-08-23 |
 | [Ma Cherie \(Remix\)](https://open.spotify.com/track/4Rv6zpv0GZvlwynha2iLTN) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Ma Cherie \(Remix\)](https://open.spotify.com/album/27kBORRwppfjBcXrfE1Suc) | 2:52 | 2026-06-26 | 2026-07-24 |
 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 | 2026-06-26 |  |
 | [Ma nana](https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj) | [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Ma nana](https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba) | 3:17 | 2026-06-26 |  |
@@ -59,6 +59,7 @@
 | [Meleğim](https://open.spotify.com/track/0BD9boQC7jUTWkAoib4Z0d) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Vintage](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) | 3:40 | 2026-06-26 |  |
 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 | 2026-06-26 |  |
 | [MILLIONS](https://open.spotify.com/track/5jVNRVe4s6fyemCq82Bspt) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [AFRO\-N\-TCHAM 1](https://open.spotify.com/album/2plqEQ8EuoEMhTxMhUwfgG) | 3:06 | 2026-06-26 |  |
+| [MINIMUM \(feat\. døpelym\)](https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd) | [SK 07](https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [MÉTAMORPHOSE](https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0) | 2:42 | 2026-08-21 |  |
 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 | 2026-06-26 |  |
 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 | 2026-06-26 |  |
 | [Mood \(feat\. D2 & kulturr\)](https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [HYPERACTIF](https://open.spotify.com/album/7FhduVA2rvpQqdTOPrYUnt) | 2:28 | 2026-06-26 |  |

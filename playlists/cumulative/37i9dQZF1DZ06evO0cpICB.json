@@ -520,6 +520,24 @@
     {
       "album": {
         "name": "Remedied",
+        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Remedied",
+      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
+    },
+    {
+      "album": {
+        "name": "Remedied",
         "url": "https://open.spotify.com/album/3FuGxnQ5whfiCx1sPOpc2g"
       },
       "artists": [
@@ -530,7 +548,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 128000,
       "name": "Remedied",
       "url": "https://open.spotify.com/track/3tu3WIgcHYck8A7csEKyUM"

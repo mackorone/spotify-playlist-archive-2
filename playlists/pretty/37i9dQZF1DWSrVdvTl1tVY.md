@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Omar+
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,499 likes - 129 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,380 likes - 129 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

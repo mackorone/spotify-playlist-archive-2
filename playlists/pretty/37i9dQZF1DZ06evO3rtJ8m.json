@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 47544,
+  "num_followers": 47557,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAD7SPdW33yLJXVovYRh3NOU",
+  "snapshot_id": "aoeVAAAAAAA37lHWvVYguieCKbfPopte",
   "tracks": [
     {
       "added_at": null,
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love In Mine",
-        "url": "https://open.spotify.com/album/2JKJErveQLxl3DMN6L34fB"
+        "name": "Decoration Day, Vol. 4",
+        "url": "https://open.spotify.com/album/67uMXsEywNemsQDRbZV35D"
       },
       "artists": [
+        {
+          "name": "Mason Jar Music",
+          "url": "https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG"
+        },
         {
           "name": "Big Thief",
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 198280,
-      "name": "Love In Mine",
-      "url": "https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52"
+      "duration_ms": 264203,
+      "name": "I Was Young When I Left Home (feat. Big Thief)",
+      "url": "https://open.spotify.com/track/63KU6CDZK4fzBQhSEFymBn"
     },
     {
       "added_at": null,
@@ -635,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decoration Day, Vol. 4",
-        "url": "https://open.spotify.com/album/67uMXsEywNemsQDRbZV35D"
+        "name": "Love In Mine",
+        "url": "https://open.spotify.com/album/2JKJErveQLxl3DMN6L34fB"
       },
       "artists": [
-        {
-          "name": "Mason Jar Music",
-          "url": "https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG"
-        },
         {
           "name": "Big Thief",
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 264203,
-      "name": "I Was Young When I Left Home (feat. Big Thief)",
-      "url": "https://open.spotify.com/track/63KU6CDZK4fzBQhSEFymBn"
+      "duration_ms": 198280,
+      "name": "Love In Mine",
+      "url": "https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52"
     },
     {
       "added_at": null,

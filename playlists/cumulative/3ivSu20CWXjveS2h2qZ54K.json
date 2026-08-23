@@ -84573,6 +84573,24 @@
     },
     {
       "album": {
+        "name": "Laymelli",
+        "url": "https://open.spotify.com/album/2iLnnobOgnzlpBizbGPeAq"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228937,
+      "name": "Laymelli - Edit",
+      "url": "https://open.spotify.com/track/0jKRNJkTm7ysB70KpZaXUR"
+    },
+    {
+      "album": {
         "name": "LE COSE NON DETTE (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0YUuW1m2EOKpTUBvjghhLa"
       },
@@ -132712,6 +132730,24 @@
       "duration_ms": 217103,
       "name": "Seems Like You Don\u2019t Know Me",
       "url": "https://open.spotify.com/track/6z4XC6ijxA4sGZznuwyVMh"
+    },
+    {
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197285,
+      "name": "Seethe",
+      "url": "https://open.spotify.com/track/0ZEUKsXOlocU6IPJmx7exQ"
     },
     {
       "album": {

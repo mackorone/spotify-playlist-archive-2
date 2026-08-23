@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Algo M\u00e1s",
+        "url": "https://open.spotify.com/album/14gLmHFqobIVIwsk6gVIlD"
+      },
+      "artists": [
+        {
+          "name": "Boca Paila",
+          "url": "https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134241,
+      "name": "Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/2yjo5f6W1xULiT1xDswAdu"
+    },
+    {
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0"
       },
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 219221,
       "name": "Brinca (Acuario)",
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
@@ -1809,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Canta Pajarito",
+        "url": "https://open.spotify.com/album/0281jSvWsYbQmrYMtN6HDe"
+      },
+      "artists": [
+        {
+          "name": "Alisun",
+          "url": "https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "Canta Pajarito",
+      "url": "https://open.spotify.com/track/3hIBOOB7qwnlVkBz68g5ma"
+    },
+    {
+      "album": {
         "name": "CANTO A LA VIDA",
         "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
       },
@@ -2135,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127740,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
+    },
+    {
+      "album": {
         "name": "Churel",
         "url": "https://open.spotify.com/album/6IwqXUkQ1JGEeNPggY4YrM"
       },
@@ -2380,7 +2434,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 163411,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
@@ -2984,6 +3038,24 @@
       "duration_ms": 172481,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y"
+    },
+    {
+      "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/0ruLUYmTcsrZ7vVnUEZrC7"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/1Gkg90MCKQ90j3IezifUzJ"
     },
     {
       "album": {
@@ -3606,7 +3678,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 146857,
       "name": "el ingeniero",
       "url": "https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4"
@@ -4244,7 +4316,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 155025,
       "name": "Formal",
       "url": "https://open.spotify.com/track/639VMIRyWgnlaklcGMMQjU"
@@ -7230,7 +7302,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 173280,
       "name": "No Me Voy",
       "url": "https://open.spotify.com/track/1WYEuO8xTDMcRjHupwGsd2"
@@ -7562,6 +7634,24 @@
       "duration_ms": 260079,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk"
+    },
+    {
+      "album": {
+        "name": "Canciones del R\u00edo",
+        "url": "https://open.spotify.com/album/2dJbcky0oG63lOXAxgeOsB"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235898,
+      "name": "Nueva Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7EZzmKbCbfCiEqA6R9Scy9"
     },
     {
       "album": {
@@ -10763,6 +10853,24 @@
     },
     {
       "album": {
+        "name": "Todo Es Magia",
+        "url": "https://open.spotify.com/album/30KnoRWVub3L1eDgasBV8z"
+      },
+      "artists": [
+        {
+          "name": "Agenda Ritual",
+          "url": "https://open.spotify.com/artist/0vveG6WXYuE37Eln0SUbsG"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Todo Es Magia",
+      "url": "https://open.spotify.com/track/6dY6DSQzORiACueN2QPHdA"
+    },
+    {
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -11704,7 +11812,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 175242,
       "name": "Varias Quejas",
       "url": "https://open.spotify.com/track/01FtUiVEcS8JDru6llRRUy"

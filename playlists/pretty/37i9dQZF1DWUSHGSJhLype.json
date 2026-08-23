@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 761812,
+  "num_followers": 761886,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 147456,
+      "name": "Champanhe - Ao Vivo",
+      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 147456,
-      "name": "Champanhe - Ao Vivo",
-      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Um Pe\u00e3o Desse",
         "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
       },
@@ -231,42 +231,6 @@
       "duration_ms": 127161,
       "name": "Um Pe\u00e3o Desse",
       "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 180832,
-      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
-      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "EQUILIBRIVM II",
-        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 155697,
-      "name": "N\u00e3o Me Cutuca",
-      "url": "https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -299,6 +263,26 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 155697,
+      "name": "N\u00e3o Me Cutuca",
+      "url": "https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "P do Pecado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2JyYavPMFsaTRZFrc77bc3"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 192367,
       "name": "P do Pecado - Ao Vivo",
       "url": "https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 180832,
+      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
+      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -391,42 +391,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
-        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
-      },
-      "artists": [
-        {
-          "name": "Filho do Piseiro",
-          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Raparigas",
-      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Pela \u00daltima Vez (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 162325,
-      "name": "Pela \u00daltima Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "V\u00eddeo Sensual",
         "url": "https://open.spotify.com/album/6goDyWFpXpcU5f5toDyCXn"
       },
@@ -451,6 +415,42 @@
       "duration_ms": 148921,
       "name": "V\u00eddeo Sensual",
       "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Pela \u00daltima Vez (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 162325,
+      "name": "Pela \u00daltima Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Morena Jambo / Miau (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 158410,
+      "name": "Morena Jambo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RJubPh66tvUWCBoJ1GwEY"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "Superfantasticamente (Superfantastico)",
         "url": "https://open.spotify.com/album/59XAzmjcRnHQhErsREuAY8"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 151136,
       "name": "Superfantasticamente (Superfantastico)",
       "url": "https://open.spotify.com/track/7fFXRzdVsW8nNIjgYwL5Pf"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Morena Jambo / Miau (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 158410,
-      "name": "Morena Jambo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RJubPh66tvUWCBoJ1GwEY"
     },
     {
       "added_at": "2026-08-14 13:34:48",

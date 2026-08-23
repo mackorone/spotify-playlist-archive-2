@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17163,
+  "num_followers": 17168,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "El AchanTAdo",
+        "url": "https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 225750,
+      "name": "El AchanTAdo",
+      "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Low Key (feat. Humby)",
         "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "El AchanTAdo",
-        "url": "https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "El AchanTAdo",
-      "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -595,8 +595,8 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Dame Un Break",
-        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 200598,
-      "name": "Dame Un Break",
-      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -647,30 +647,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Belleza",
-        "url": "https://open.spotify.com/album/7dFEzeWR3MbGdQEykDTVbF"
-      },
-      "artists": [
-        {
-          "name": "Montano",
-          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
-        }
-      ],
-      "duration_ms": 240006,
-      "name": "Belleza",
-      "url": "https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
         "url": "https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN"
       },
@@ -695,8 +671,32 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+        "name": "Belleza",
+        "url": "https://open.spotify.com/album/7dFEzeWR3MbGdQEykDTVbF"
+      },
+      "artists": [
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "duration_ms": 240006,
+      "name": "Belleza",
+      "url": "https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Dame Un Break",
+        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
       },
       "artists": [
         {
@@ -704,25 +704,9 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Isla Pa Dos (Wawawao)",
-        "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 137691,
-      "name": "Isla Pa Dos (Wawawao)",
-      "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
+      "duration_ms": 200598,
+      "name": "Dame Un Break",
+      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -739,6 +723,22 @@
       "duration_ms": 195481,
       "name": "11:11pm",
       "url": "https://open.spotify.com/track/07wQKLfoZcloCEfVfdQtA7"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Isla Pa Dos (Wawawao)",
+        "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "Isla Pa Dos (Wawawao)",
+      "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -801,26 +801,6 @@
       "url": "https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q"
     },
     {
-      "added_at": "2026-08-07 04:59:14",
-      "album": {
-        "name": "Jamaica (wiki, wiki)",
-        "url": "https://open.spotify.com/album/15Zeo9YDc9qgiwxp2ibb8L"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "Jamaica (wiki, wiki)",
-      "url": "https://open.spotify.com/track/01g26vJTOuRKL4y3S8Myxb"
-    },
-    {
       "added_at": "2026-06-19 04:59:04",
       "album": {
         "name": "Namorar (Remix)",
@@ -847,6 +827,26 @@
       "duration_ms": 226319,
       "name": "Namorar - Remix",
       "url": "https://open.spotify.com/track/4cmojOwdrd3uZchcgZ9XCn"
+    },
+    {
+      "added_at": "2026-08-07 04:59:14",
+      "album": {
+        "name": "Jamaica (wiki, wiki)",
+        "url": "https://open.spotify.com/album/15Zeo9YDc9qgiwxp2ibb8L"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "Jamaica (wiki, wiki)",
+      "url": "https://open.spotify.com/track/01g26vJTOuRKL4y3S8Myxb"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo"
-      },
-      "artists": [
-        {
-          "name": "Vera Delacruz",
-          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo"
+      },
+      "artists": [
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        }
+      ],
+      "duration_ms": 173836,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Buen Pez (Deluz)",
         "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 177213,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2026-06-26 04:59:12",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Pailas Parcera",
-        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
-      },
-      "artists": [
-        {
-          "name": "Slow Mike",
-          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
-        },
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "Pailas Parcera",
-      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 180652,
       "name": "Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Pailas Parcera",
+        "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
+      },
+      "artists": [
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Pailas Parcera",
+      "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
     },
     {
       "added_at": "2026-06-19 04:59:04",

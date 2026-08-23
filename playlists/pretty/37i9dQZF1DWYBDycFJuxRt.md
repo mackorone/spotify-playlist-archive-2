@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Creepy Nuts \*👉 <a href="https://spice.eplus.jp/articles/348327">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,163 likes - 95 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,159 likes - 95 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

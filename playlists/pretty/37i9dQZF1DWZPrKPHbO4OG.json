@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38828,
+  "num_followers": 38852,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Zindagi Virat",
+        "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "Malhar",
+      "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Marathi Dance Hits",
         "url": "https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 96052,
       "name": "Punyachi Maina",
       "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Lagan",
-        "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 246671,
-      "name": "Payee Fufata",
-      "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
     }
   ],
   "unique_name": "Marathi Workout",

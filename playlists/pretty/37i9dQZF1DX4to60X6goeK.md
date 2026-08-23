@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,418 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,431 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 21 | [NO SURRENDER \(No Retreat\)](https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [NO SURRENDER \(No Retreat\)](https://open.spotify.com/album/2YTbTLwXVyRDmR8zyo8a77) | 3:29 |
 | 22 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 |
 | 23 | [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 |
-| 24 | [Sientelo \- Sota & Circadian Remix](https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Sientelo \(Sota & Circadian Remix\)](https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h) | 3:57 |
-| 25 | [Holy Moly \- VIP](https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Holy Moly \(VIP\)](https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ) | 4:13 |
+| 24 | [Holy Moly \- VIP](https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Holy Moly \(VIP\)](https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ) | 4:13 |
+| 25 | [Sientelo \- Sota & Circadian Remix](https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Sientelo \(Sota & Circadian Remix\)](https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h) | 3:57 |
 | 26 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 |
 | 27 | [Do You](https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q) | [Upgrade \(UK\)](https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Do You](https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64) | 3:42 |
 | 28 | [Feel The Pulse](https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Feel The Pulse](https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ) | 3:20 |

@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: RONA",
-  "num_followers": 128989,
+  "num_followers": 128979,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
     {
+      "added_at": "2026-08-20 14:00:37",
+      "album": {
+        "name": "Alyse",
+        "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 231477,
+      "name": "Alyse",
+      "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
+    },
+    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "A Hundred Days Off",
@@ -871,26 +887,6 @@
       "duration_ms": 193893,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Heaven Scent",
-        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
-      },
-      "artists": [
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        },
-        {
-          "name": "Chloe Sevigny",
-          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
-        }
-      ],
-      "duration_ms": 283424,
-      "name": "Heaven Scent",
-      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
     }
   ],
   "unique_name": "Portal",

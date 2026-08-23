@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Icona Pop
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 91,590 likes - 100 songs - 5 hr 23 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 91,580 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 71 | [Miss That \- Marten Lou Remix](https://open.spotify.com/track/01jOgVUVbmT0lXRaWRmYqi) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Miss That \(Marten Lou Remix\)](https://open.spotify.com/album/0lLbRJhBbp37aZYgdOBqm2) | 3:40 |
 | 72 | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/0opSDloCLZOuKbO968zLH5) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Zone \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/5HBTCoQOw75m5huue8nkBl) | 2:56 |
 | 73 | [LIES](https://open.spotify.com/track/5Saxjtjvao6X8tJgtfSWiF) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [LIES](https://open.spotify.com/album/6ESKVbNi4Zgx7OcMkge7dH) | 2:31 |
-| 74 | [Dracula \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
+| 74 | [Dracula \(with JENNIE\) \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(with JENNIE\) \[Boys Noize Disko Version\]](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
 | 75 | [Disco Cherry](https://open.spotify.com/track/0C0kbvI8BJEWejMb3b2d4t) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Disco Cherry](https://open.spotify.com/album/1JjnXqHpL8JDSzqgAw94ce) | 3:20 |
 | 76 | [LuvBug \(feat\. Lynsey Moore\)](https://open.spotify.com/track/2AG8USCIiL1rhnejTfa1Rw) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Ramsey & Fen](https://open.spotify.com/artist/5rBBAjkUV1bF89nr9AGpEu), [Lynsey Moore](https://open.spotify.com/artist/31RLNDGi0or2K3mJDBlfjV) | [LuvBug \(feat\. Lynsey Moore\)](https://open.spotify.com/album/2876t8q19vIgcnT5kFVoG8) | 2:37 |
 | 77 | [Electric Soul](https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Somewhere In Between](https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk) | 2:52 |

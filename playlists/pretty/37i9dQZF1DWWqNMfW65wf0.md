@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 
 > you are feeling sleepy, just go to sleep 💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,108 likes - 234 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,160 likes - 234 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 | 162 | [Inner Cycle Resonance](https://open.spotify.com/track/1BnBwBAh7nTZoVThJLQINH) | [Still Haven](https://open.spotify.com/artist/1QRxkAxxpNV9vqadac72Zy) | [Inner Cycle Resonance](https://open.spotify.com/album/0WkZPeK6w9ahROfZe95Kb3) | 3:28 |
 | 163 | [Pursue your dreams](https://open.spotify.com/track/1GHUuY7aFkc4ybLkdMsPId) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Pursue your dreams](https://open.spotify.com/album/7GrPFFnNYKCjHeflo58Zjw) | 2:48 |
 | 164 | [Whispers Back](https://open.spotify.com/track/0edRXHJ6JO9MSn6ujbWDDj) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Whispers Back](https://open.spotify.com/album/0aDSsCcz9wqaE6wYB4FFHi) | 1:58 |
-| 165 | [Bloom](https://open.spotify.com/track/1FY0l5caHiUUBCy0Gc3sE4) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [CALM STUDIES VOL 1](https://open.spotify.com/album/4aonZVNEOlicHq2jt8k6Oc) | 4:10 |
+| 165 | [In Bloom](https://open.spotify.com/track/1FY0l5caHiUUBCy0Gc3sE4) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [CALM STUDIES VOL 1](https://open.spotify.com/album/4aonZVNEOlicHq2jt8k6Oc) | 4:10 |
 | 166 | [can't sleep](https://open.spotify.com/track/51h8OOwcmfbgkfU8SjcaV7) | [Nova Dust](https://open.spotify.com/artist/5UyiEIfJDSqqBP0lRVQUVI) | [can't sleep](https://open.spotify.com/album/5EQnwpuO2ayCxiNGefURQ1) | 2:12 |
 | 167 | [Espacio Sagrado](https://open.spotify.com/track/2bVxRMmGrjNcuGChzWugK6) | [Ayla Nenura](https://open.spotify.com/artist/0xHbH4Lf2B7lHMjMMT1gRs) | [Espacio Sagrado](https://open.spotify.com/album/77G3sJ9ji3fwa57ng6rpFr) | 2:20 |
 | 168 | [Eternal Bloom](https://open.spotify.com/track/0AHgy3wNO7VblYZNOkdxFC) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [SOOTHE & SLEEP, Vol.21](https://open.spotify.com/album/7pColRDYO1XCQlDQPef89W) | 2:48 |

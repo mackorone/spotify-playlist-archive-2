@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,221 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,228 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 9 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
 | 10 | [Apareces después de tres veranos](https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr) | [Baja killa](https://open.spotify.com/artist/6cqkLCvzJ1bVf2aD6jAtu8) | [Rompecabezas](https://open.spotify.com/album/3mmUkFcttPbpTMkvh3DV4C) | 2:54 |
 | 11 | [Piel](https://open.spotify.com/track/0d5dMFrbWRkTVmElV35Inv) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Apoyo Emocional](https://open.spotify.com/album/657j47iSoFWivyz6e55mph) | 2:14 |
-| 12 | [Tan fácil que es hablar las cosas](https://open.spotify.com/track/7gYA78JHsoo6ETyLWA0oWX) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Tan fácil que es hablar las cosas](https://open.spotify.com/album/1PHF6JzIJ7id63Rzh598fU) | 5:22 |
-| 13 | [es estúpido cuánto quiero que vuelvas](https://open.spotify.com/track/5ywFeJ8mQLHOFRWy005Zur) | [mil ataris por segundo](https://open.spotify.com/artist/4YprYq1vIq74xBwBaTTgfs) | [epílogo, Ícaro, globo, destinito, bruja, madrugada, dormidera,](https://open.spotify.com/album/6AXvwpN6jA46pAWWfJKJjM) | 3:24 |
-| 14 | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG) | 2:52 |
+| 12 | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG) | 2:52 |
+| 13 | [Tan fácil que es hablar las cosas](https://open.spotify.com/track/7gYA78JHsoo6ETyLWA0oWX) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Tan fácil que es hablar las cosas](https://open.spotify.com/album/1PHF6JzIJ7id63Rzh598fU) | 5:22 |
+| 14 | [es estúpido cuánto quiero que vuelvas](https://open.spotify.com/track/5ywFeJ8mQLHOFRWy005Zur) | [mil ataris por segundo](https://open.spotify.com/artist/4YprYq1vIq74xBwBaTTgfs) | [epílogo, Ícaro, globo, destinito, bruja, madrugada, dormidera,](https://open.spotify.com/album/6AXvwpN6jA46pAWWfJKJjM) | 3:24 |
 | 15 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
 | 16 | [Estética Unisex](https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Estética Unisex](https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS) | 1:53 |
 | 17 | [Como en el 'Crechendo'](https://open.spotify.com/track/6KTjo4RmDk3J0mxsrdLw5F) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [Lomas Verdes](https://open.spotify.com/album/5RKUyelUpA0DsHZLM4Y8bn) | 3:25 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 33 | [Mata a Tus Ídolos](https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [S / T](https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB) | 1:48 |
 | 34 | [El Club Internacional de Astronautas Fracasados](https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Y Si un Día Explota el Planeta Quiero Tenerte Cerca](https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy) | 3:54 |
 | 35 | [respirar en cuadro](https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C), [Accidents](https://open.spotify.com/artist/0f2zT6pFZKYyFnFZQuZuS5) | [respirar en cuadro](https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j) | 6:13 |
-| 36 | [Uno](https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8) | [Adiós Cometa](https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl) | [Zero / Uno](https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd) | 6:21 |
-| 37 | [Otro Verano Campeón](https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Otro Verano Campeón](https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt) | 3:06 |
+| 36 | [Otro Verano Campeón](https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Otro Verano Campeón](https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt) | 3:06 |
+| 37 | [Uno](https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8) | [Adiós Cometa](https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl) | [Zero / Uno](https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd) | 6:21 |
 | 38 | [Parálisis del Sueño](https://open.spotify.com/track/3OgIhXydbvv8KV6lpyT3gx) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Omelette Du Fromage](https://open.spotify.com/album/2PbgzSvLi7z46n6WKiL4kK) | 2:30 |
 | 39 | [Orquídeas](https://open.spotify.com/track/0uNYFj02U52kOYTJAhzJNN) | [Hummm](https://open.spotify.com/artist/5Nd5eFtrvfMLHmA78iGmT7) | [Orquídeas](https://open.spotify.com/album/6BvXv0f2qbNI9aC1iKAs62) | 3:01 |
 | 40 | [Está Nublado y Tengo Calor](https://open.spotify.com/track/788chCGIQr4PgMByHndKyH) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Está Nublado y Tengo Calor](https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ) | 3:05 |

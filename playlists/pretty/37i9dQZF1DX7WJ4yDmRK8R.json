@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Sublime on cover ",
-  "num_followers": 413509,
+  "num_followers": 413543,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Destruction By Definition",
-        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Break The Glass",
-      "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Fuera de Control",
         "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 210824,
       "name": "Fuera de Control",
       "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Destruction By Definition",
+        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Break The Glass",
+      "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -651,8 +651,8 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Ska and Rocksteady Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 159381,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -731,8 +731,8 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+        "name": "Ska and Rocksteady Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Enjoy Yourself",
-      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+      "duration_ms": 159381,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Bersinar",
-        "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 225047,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Beatdown Generation",
         "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194825,
       "name": "Beatdown Generation",
       "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Bersinar",
+        "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
+      },
+      "artists": [
+        {
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+        }
+      ],
+      "duration_ms": 225047,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Here in The Heights",
-        "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 223347,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Blinding!",
         "url": "https://open.spotify.com/album/3621jwzaKGcZ80N9d0hBWQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 181786,
       "name": "Blinding!",
       "url": "https://open.spotify.com/track/3pWFWCDZyeHln3ct9Wdv28"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Here in The Heights",
+        "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "duration_ms": 223347,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
+        "name": "Escape from Everything",
+        "url": "https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy"
+      },
+      "artists": [
+        {
+          "name": "Codename Colin",
+          "url": "https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Losing Touch",
+      "url": "https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
         "name": "Un Amor Violento",
         "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 289000,
       "name": "Un Amor Violento",
       "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
-        "name": "Escape from Everything",
-        "url": "https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy"
-      },
-      "artists": [
-        {
-          "name": "Codename Colin",
-          "url": "https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Losing Touch",
-      "url": "https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp"
     },
     {
       "added_at": "2026-06-12 06:00:36",

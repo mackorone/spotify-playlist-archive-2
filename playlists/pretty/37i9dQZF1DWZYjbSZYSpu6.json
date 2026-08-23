@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: DAYOUNG, Jay Park)",
-  "num_followers": 392827,
+  "num_followers": 392824,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-08-20 10:33:47",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2026-08-20 10:33:47",
+      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2026-08-20 10:33:47",
-      "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2026-08-20 10:33:47",
@@ -451,22 +451,22 @@
     {
       "added_at": "2026-08-20 10:33:47",
       "album": {
-        "name": "Another Miss Oh, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms"
+        "name": "FLIRTY",
+        "url": "https://open.spotify.com/album/2GIDfAsKGJVasFJ4BZdsX2"
       },
       "artists": [
         {
-          "name": "Seo Hyun Jin",
-          "url": "https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs"
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
         },
         {
-          "name": "Yu Seung Woo",
-          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 213000,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
+      "duration_ms": 135000,
+      "name": "FLIRTY",
+      "url": "https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk"
     },
     {
       "added_at": "2026-08-20 10:33:47",
@@ -491,22 +491,22 @@
     {
       "added_at": "2026-08-20 10:33:47",
       "album": {
-        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
-        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
+        "name": "Another Miss Oh, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "Seo Hyun Jin",
+          "url": "https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs"
         },
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
         }
       ],
-      "duration_ms": 198749,
-      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
-      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+      "duration_ms": 213000,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
     },
     {
       "added_at": "2026-08-20 10:33:47",
@@ -531,22 +531,22 @@
     {
       "added_at": "2026-08-20 10:33:47",
       "album": {
-        "name": "FLIRTY",
-        "url": "https://open.spotify.com/album/2GIDfAsKGJVasFJ4BZdsX2"
+        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
+        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
       "artists": [
         {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 135000,
-      "name": "FLIRTY",
-      "url": "https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk"
+      "duration_ms": 198749,
+      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
+      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
     },
     {
       "added_at": "2026-08-20 10:33:47",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 161564,
+  "num_followers": 161628,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/6x4RUz4MAkT8SkQS2z1kfM"
       },
       "artists": [
         {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
         }
       ],
-      "duration_ms": 195760,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
+      "duration_ms": 172800,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/3sseODfORH068xlDZykeXz"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Conmigo",
-        "url": "https://open.spotify.com/album/6x4RUz4MAkT8SkQS2z1kfM"
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
       },
       "artists": [
         {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Conmigo",
-      "url": "https://open.spotify.com/track/3sseODfORH068xlDZykeXz"
+      "duration_ms": 195760,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -575,22 +575,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Bailo Contigo",
-        "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
+        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
       },
       "artists": [
         {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "Nate Diaz",
-          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
         }
       ],
-      "duration_ms": 183389,
-      "name": "Bailo Contigo",
-      "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
+      "duration_ms": 206367,
+      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -611,18 +607,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
+        "name": "Bailo Contigo",
+        "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
       },
       "artists": [
         {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
         }
       ],
-      "duration_ms": 206367,
-      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
+      "duration_ms": 183389,
+      "name": "Bailo Contigo",
+      "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "Gracia Divina",
+      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Ya Casi (EP)",
         "url": "https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb"
       },
@@ -863,38 +879,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Hoy Ver\u00e9 Su Gloria",
-        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 274130,
-      "name": "Hoy Ver\u00e9 Su Gloria",
-      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Gracia Divina",
-      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Hoy Ver\u00e9 Su Gloria",
+        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 274130,
+      "name": "Hoy Ver\u00e9 Su Gloria",
+      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Yeshua Hamashiaj - MelGod (Remix)",
         "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 200000,
       "name": "Yeshua Hamashiaj - MelGod - Remix",
       "url": "https://open.spotify.com/track/3nqBd4EKWTW822kwFikdVB"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Lamento En Baile",
-        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
       },
       "artists": [
         {
-          "name": "Misael J",
-          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
         }
       ],
-      "duration_ms": 222715,
-      "name": "Lamento En Baile",
-      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
+      "duration_ms": 178285,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
+        "name": "Lamento En Baile",
+        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
       },
       "artists": [
         {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
+      "duration_ms": 222715,
+      "name": "Lamento En Baile",
+      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Amor Verdadero",
+        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+      },
+      "artists": [
+        {
+          "name": "Abel Xanders",
+          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+        }
+      ],
+      "duration_ms": 203271,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Pero Tengo a Cristo (Remix)",
         "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Amor Verdadero",
-        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
       },
       "artists": [
         {
-          "name": "Abel Xanders",
-          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
         }
       ],
-      "duration_ms": 203271,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1283,6 +1299,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Mes\u00edas",
         "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
       },
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Llegaron Los Cristianos",
         "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 160169,
       "name": "Cristo Cambia",
       "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
-      },
-      "artists": [
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Todo Te Lo Debo a T\u00ed",
+        "url": "https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6"
+      },
+      "artists": [
+        {
+          "name": "Benji Rosales",
+          "url": "https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7"
+        }
+      ],
+      "duration_ms": 169624,
+      "name": "Todo Te Lo Debo a T\u00ed",
+      "url": "https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/0ihqqcN7ZEG9WYVuyWalY4"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 186958,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/3ipfCiqkiVAbbFiBvk5A0X"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Todo Te Lo Debo a T\u00ed",
-        "url": "https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6"
-      },
-      "artists": [
-        {
-          "name": "Benji Rosales",
-          "url": "https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7"
-        }
-      ],
-      "duration_ms": 169624,
-      "name": "Todo Te Lo Debo a T\u00ed",
-      "url": "https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa"
     }
   ],
   "unique_name": "Fiesta Cristiana",

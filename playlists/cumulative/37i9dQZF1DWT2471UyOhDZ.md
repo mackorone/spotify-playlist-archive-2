@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Westside Cowboy
 
-503 songs - 1 day 8 hr 24 min
+505 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Disappearing Act](https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Disappearing Act](https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV) | 2:59 | 2026-08-20 |  |
 | [Disintegrate](https://open.spotify.com/track/1AqYckXEV1wTzNlP437u8i) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Disintegrate](https://open.spotify.com/album/1jzPMd5TByVC0cFlbvBCRI) | 3:41 | 2025-05-23 | 2025-09-24 |
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-06-14 | 2025-03-22 |
+| [Does It Ever Cross Your Mind?](https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [THRASHER](https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo) | 3:11 | 2026-08-20 |  |
 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 | 2024-06-14 | 2025-02-28 |
 | [Don't Wanna Dance](https://open.spotify.com/track/6tQx6PTEzKxVBlfCSslZwq) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Is It Now?](https://open.spotify.com/album/2jliA7qOg03hZjRqumKssq) | 4:28 | 2025-10-02 | 2026-01-15 |
 | [Don't Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 | 2025-03-25 |
@@ -351,7 +352,7 @@
 | [Plans](https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Plans](https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk) | 3:51 | 2026-06-25 |  |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-12 |  |
 | [Poems](https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Nostalgia Death Act 1](https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw) | 3:49 | 2024-07-11 | 2024-10-12 |
-| [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 | 2025-09-04 |  |
+| [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 | 2025-09-04 | 2026-08-23 |
 | [Power of the Moon](https://open.spotify.com/track/2ohhElzcKlozBQCPVNG4s0) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Power of the Moon](https://open.spotify.com/album/5N2qF4eDauBb9nscIfuEul) | 4:26 | 2025-05-08 | 2025-06-06 |
 | [Pretrial \(Let Her Go Home\)](https://open.spotify.com/track/7sGQ4jAOUs3YG1CFyjDxdc) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pretrial \(Let Her Go Home\)](https://open.spotify.com/album/6oJAjOS2cydCmNmBmmqNQU) | 3:58 | 2025-05-08 | 2025-08-12 |
 | [Psychedelic Orgasm](https://open.spotify.com/track/5z8H0o98dlKANCnDlKsjkY) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [Psychedelic Orgasm](https://open.spotify.com/album/1152eHgDWVHE88C8ATUmqc) | 3:40 | 2024-06-14 | 2024-07-06 |
@@ -404,7 +405,7 @@
 | [Spin](https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Spin](https://open.spotify.com/album/5KX0Uj86kvTpEOMyEFgw8d) | 3:50 | 2026-06-18 |  |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2024-06-14 | 2024-12-14 |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-04-30 |  |
-| [Stars](https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Stars](https://open.spotify.com/album/1olpLgv7x6PoATBnNmNxjQ) | 2:52 | 2026-06-18 |  |
+| [Stars](https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Stars](https://open.spotify.com/album/1olpLgv7x6PoATBnNmNxjQ) | 2:52 | 2026-06-18 | 2026-08-23 |
 | [Statue In The Square](https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Statue In The Square](https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw) | 2:54 | 2025-03-21 | 2025-07-19 |
 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 | 2025-06-20 | 2026-04-02 |
 | [Stone Over Water](https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Stone Over Water](https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58) | 3:14 | 2026-06-12 | 2026-08-12 |
@@ -476,6 +477,7 @@
 | [Tunnels](https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Tunnels](https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR) | 2:48 | 2026-06-12 |  |
 | [Two Pairs Of Hands](https://open.spotify.com/track/0L5FTei1MmePVB9ECKOMwd) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:05 | 2024-08-14 | 2025-10-24 |
 | [U R MINE](https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [U R MINE](https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7) | 3:11 | 2024-07-18 | 2025-02-08 |
+| [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 | 2026-08-20 |  |
 | [Under the Weight](https://open.spotify.com/track/0jWubqRD8vxtEIn8zRlTHF) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Under the Weight](https://open.spotify.com/album/7j1xBW8ZMgUhxViDi1WRnh) | 3:13 | 2024-10-17 | 2024-12-09 |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-28 | 2026-06-19 |
 | [Unspoken](https://open.spotify.com/track/6HLMttRTKAdNgt1TwORlkW) | [Alex Burey](https://open.spotify.com/artist/4Euu7wpS2hGCEXU4hZxPuW) | [Unspoken](https://open.spotify.com/album/1yo76alAJhyp7wJKPYVbKM) | 4:33 | 2026-07-31 | 2026-08-14 |

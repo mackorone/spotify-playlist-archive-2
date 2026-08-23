@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 138000,
       "name": "bitter farewell",
       "url": "https://open.spotify.com/track/5TVfdngL5Ch8LNbCedvQ0E"
@@ -2950,6 +2950,24 @@
       "duration_ms": 316000,
       "name": "Cernunnos",
       "url": "https://open.spotify.com/track/2uXYysXNoU93w1ZDScIqBr"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3siK4GK2Hm15oT1BPQl1jx"
+      },
+      "artists": [
+        {
+          "name": "Luneflow",
+          "url": "https://open.spotify.com/artist/5IqkQT8I1OoOb4zhz1Z3fy"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4pvqJlnqVunyIf9OqIlG4M"
     },
     {
       "album": {
@@ -4098,7 +4116,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -4650,7 +4668,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 217173,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/6xMoVtv5mx5IAMmtLvehA1"
@@ -4850,7 +4868,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 225377,
       "name": "Did it make you cry",
       "url": "https://open.spotify.com/track/7M58VMKc8maYl3OJlXBkD5"
@@ -5586,7 +5604,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 260079,
       "name": "Endless Lovers Story",
       "url": "https://open.spotify.com/track/6haxQP3HmWLc3ccN8d6KGm"
@@ -7531,6 +7549,24 @@
     },
     {
       "album": {
+        "name": "Jagged",
+        "url": "https://open.spotify.com/album/0S0JsKGEuSs76f49iv4vop"
+      },
+      "artists": [
+        {
+          "name": "Gary Numan",
+          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331520,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/3Wx488LVmvoapvwSa8JCZ1"
+    },
+    {
+      "album": {
         "name": "Haze of light",
         "url": "https://open.spotify.com/album/2w6DcWifxPLz6KKZ1kYvRS"
       },
@@ -8094,7 +8130,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 183381,
       "name": "How Could You?",
       "url": "https://open.spotify.com/track/6IrCgHzHi0myHz1R7RvfhQ"
@@ -8672,6 +8708,24 @@
       "duration_ms": 245454,
       "name": "If it's the last time",
       "url": "https://open.spotify.com/track/4ET93WeLlGHMtPKgB28FvU"
+    },
+    {
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/2OmRpp2PVpNr16xihIguHM"
+      },
+      "artists": [
+        {
+          "name": "Crowsilver",
+          "url": "https://open.spotify.com/artist/67DiBvD9MtxgobnbgaceDZ"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253384,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
     },
     {
       "album": {
@@ -9407,6 +9461,24 @@
     },
     {
       "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/7rFREJSPaErG3J6jMsEjVN"
+      },
+      "artists": [
+        {
+          "name": "Who Saw Her Die?",
+          "url": "https://open.spotify.com/artist/04rfebSFvXDYvsubDSnavv"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/651tjNUNVFetut4ghwJHCT"
+    },
+    {
+      "album": {
         "name": "Nowhere and Now",
         "url": "https://open.spotify.com/album/0W9qwa6sYYersO7igycuFX"
       },
@@ -9710,7 +9782,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 216774,
       "name": "Keep The Light On",
       "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
@@ -9880,7 +9952,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 159157,
       "name": "Komputasad",
       "url": "https://open.spotify.com/track/07Av6Z7plwjdkN4msaeGuc"
@@ -9992,7 +10064,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -10396,7 +10468,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -10634,6 +10706,24 @@
       "duration_ms": 218008,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/4cVstee7fswTt4u33UxODw"
+    },
+    {
+      "album": {
+        "name": "Three Stones",
+        "url": "https://open.spotify.com/album/07XmEPqf1NP4Q6YBdvgcVC"
+      },
+      "artists": [
+        {
+          "name": "Ringfinger",
+          "url": "https://open.spotify.com/artist/2QhDTuCHMlTTezJBZXMGzQ"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/4N1CgNN64cCVeQ9To3THcB"
     },
     {
       "album": {
@@ -11410,7 +11500,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 219000,
       "name": "Model Behaviour",
       "url": "https://open.spotify.com/track/7cgzFBXhRtgVDupouGXoxg"
@@ -12526,7 +12616,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -13234,7 +13324,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 302000,
       "name": "Pretty Privilege",
       "url": "https://open.spotify.com/track/4Pe9cgCDHwmZOH6afOYPLE"
@@ -14966,7 +15056,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 286315,
       "name": "Shoreless",
       "url": "https://open.spotify.com/track/2XS2cOcl0oKcYz8SBZEtWA"
@@ -17156,7 +17246,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 273933,
       "name": "The Desert Inside",
       "url": "https://open.spotify.com/track/4YJXajzFrDy7NO9TNYU1Rl"
@@ -17192,7 +17282,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 252746,
       "name": "The End",
       "url": "https://open.spotify.com/track/31Kvm2IaOHyI90Q5NqFDBn"
@@ -19053,6 +19143,24 @@
     },
     {
       "album": {
+        "name": "Under Your Skin",
+        "url": "https://open.spotify.com/album/7vDe5uexINfA5ELF2mtFln"
+      },
+      "artists": [
+        {
+          "name": "Silke Bischoff",
+          "url": "https://open.spotify.com/artist/2dVZIOcClYr3ounVICYgKJ"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366200,
+      "name": "Under Your Skin",
+      "url": "https://open.spotify.com/track/3UbZxHjScqE6eWmXbR9zX4"
+    },
+    {
+      "album": {
         "name": "Details Fade",
         "url": "https://open.spotify.com/album/5T10bcTgNB0WgB830zi1QE"
       },
@@ -19408,7 +19516,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -19892,7 +20000,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 205641,
       "name": "We're At War",
       "url": "https://open.spotify.com/track/5dTeFjoEh1c9tULMPa1aWz"
@@ -20254,7 +20362,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
@@ -20838,6 +20946,24 @@
       "duration_ms": 221000,
       "name": "Your Disaster",
       "url": "https://open.spotify.com/track/4j1TVTWe33H1CRNsCdhcgK"
+    },
+    {
+      "album": {
+        "name": "Your Heart In The Serpent's Mouth",
+        "url": "https://open.spotify.com/album/5lGIi1A13lMtnr7OMyr7ul"
+      },
+      "artists": [
+        {
+          "name": "Corlyx",
+          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248647,
+      "name": "Your Heart In The Serpent's Mouth",
+      "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"
     },
     {
       "album": {

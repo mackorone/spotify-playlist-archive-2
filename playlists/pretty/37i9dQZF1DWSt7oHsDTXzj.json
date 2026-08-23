@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 271371,
+  "num_followers": 271354,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Purple Snowflakes / This Wintertime",
-        "url": "https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "This Wintertime",
-      "url": "https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "The Little Drummer Boy",
         "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 176583,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Purple Snowflakes / This Wintertime",
+        "url": "https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "This Wintertime",
+      "url": "https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
         }
       ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+      "duration_ms": 139600,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
     }
   ],
   "unique_name": "Indie Christmas",

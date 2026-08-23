@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 20160,
+  "num_followers": 20162,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAADIyDAOeqoxJuiURBjJXiBC",
+  "snapshot_id": "aoeVAAAAAAAOUiMV/yv62O1nWI3I/gzc",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides and besides",
-        "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "I Still Hear You",
-      "url": "https://open.spotify.com/track/0a0ceAVCC5bxDbmncbvQDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Better",
         "url": "https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he"
       },
@@ -447,22 +427,6 @@
       "duration_ms": 263933,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Steamboat",
-      "url": "https://open.spotify.com/track/2RzseQ5ZXkCvSUvRyGcBcn"
     },
     {
       "added_at": null,
@@ -483,6 +447,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Steamboat",
+      "url": "https://open.spotify.com/track/2RzseQ5ZXkCvSUvRyGcBcn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a-sides and besides",
+        "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "I Still Hear You",
+      "url": "https://open.spotify.com/track/0a0ceAVCC5bxDbmncbvQDZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at Revolution Hall",
         "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
       },
@@ -495,38 +495,6 @@
       "duration_ms": 92827,
       "name": "indiana & sneezing",
       "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Once A Bunch",
-        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 299354,
-      "name": "Once A Bunch",
-      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Hours Were the Birds",
-      "url": "https://open.spotify.com/track/5H87LbORbaiDnHLK5jv3iV"
     },
     {
       "added_at": null,
@@ -547,6 +515,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Hours Were the Birds",
+      "url": "https://open.spotify.com/track/5H87LbORbaiDnHLK5jv3iV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once A Bunch",
+        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 299354,
+      "name": "Once A Bunch",
+      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at Revolution Hall",
         "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
       },
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "happiness (live)",
-        "url": "https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0"
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 208180,
-      "name": "happiness - live",
-      "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
+      "duration_ms": 148133,
+      "name": "what can you say",
+      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+        "name": "happiness (live)",
+        "url": "https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 148133,
-      "name": "what can you say",
-      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
+      "duration_ms": 208180,
+      "name": "happiness - live",
+      "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 268133,
-      "name": "little things - live",
-      "url": "https://open.spotify.com/track/3D1HgplVqbguLDIPXBuDjj"
+      "duration_ms": 172401,
+      "name": "fangs",
+      "url": "https://open.spotify.com/track/236hmBETjcUngcQU2KWWjD"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 172401,
-      "name": "fangs",
-      "url": "https://open.spotify.com/track/236hmBETjcUngcQU2KWWjD"
+      "duration_ms": 268133,
+      "name": "little things - live",
+      "url": "https://open.spotify.com/track/3D1HgplVqbguLDIPXBuDjj"
     },
     {
       "added_at": null,

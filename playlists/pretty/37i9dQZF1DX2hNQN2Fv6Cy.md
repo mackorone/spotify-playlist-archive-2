@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 
 > 90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,336 likes - 128 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,723 likes - 128 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,14 +122,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 | 112 | [Trick Me](https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz) | 3:26 |
 | 113 | [Like Glue](https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:52 |
 | 114 | [Always On Time](https://open.spotify.com/track/0zaWQBwkfh9OmK77CiDmRI) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love \(International Version\)](https://open.spotify.com/album/4Xc3wBfUZ9yiszOrttoCXV) | 4:05 |
-| 115 | [Get Right](https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN) | 3:45 |
+| 115 | [I'm Sprung](https://open.spotify.com/track/0F7rEdewJ6cSLylOZZpDu7) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga](https://open.spotify.com/album/67kj88d9xbscqqG8EdMpIu) | 3:51 |
 | 116 | [Hypnotize](https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(Deluxe Version\)](https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r) | 3:50 |
-| 117 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/1zpu1PZ8ecmcX525Z3X8cl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown](https://open.spotify.com/album/2gRm1k9fVkhTfZDHvBI2sR) | 3:49 |
-| 118 | [I'm Sprung](https://open.spotify.com/track/0F7rEdewJ6cSLylOZZpDu7) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga](https://open.spotify.com/album/67kj88d9xbscqqG8EdMpIu) | 3:51 |
+| 117 | [Get Right](https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN) | 3:45 |
+| 118 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/1zpu1PZ8ecmcX525Z3X8cl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown](https://open.spotify.com/album/2gRm1k9fVkhTfZDHvBI2sR) | 3:49 |
 | 119 | [Livin' It Up](https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:17 |
 | 120 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/3G6hxSp260RzGw4sOiDOQ3) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/6DOrJ531pbcGf3ZkrfayPD) | 3:56 |
-| 121 | [Everything Is Everything](https://open.spotify.com/track/09RS0QfhJVmx1zwwEGtMQu) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 4:53 |
-| 122 | [Signs](https://open.spotify.com/track/1tx9agoDcTxIcUngUwNylR) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Signs \(UK Version\)](https://open.spotify.com/album/6s3BgptRMf2lKX3uuI4H6I) | 3:58 |
+| 121 | [Signs](https://open.spotify.com/track/1tx9agoDcTxIcUngUwNylR) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Signs \(UK Version\)](https://open.spotify.com/album/6s3BgptRMf2lKX3uuI4H6I) | 3:58 |
+| 122 | [Everything Is Everything](https://open.spotify.com/track/09RS0QfhJVmx1zwwEGtMQu) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 4:53 |
 | 123 | [Dirrty](https://open.spotify.com/track/4x1LFfoHJFGzlIQ9xGqpNt) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Stripped](https://open.spotify.com/album/29pwhTLIq3wug18AKVGPEM) | 4:58 |
 | 124 | [Rock The Boat](https://open.spotify.com/track/4KUQxsW63qc6CQbkZ76GmN) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Thug Life Ladies](https://open.spotify.com/album/0QpK0XUP1WzzuRJn6x3UDr) | 4:35 |
 | 125 | [If I Could Go \(feat\. Sacario & Lil Mo\)](https://open.spotify.com/track/623M2eiRUKVIDJGTuKsvut) | [Angie Martinez](https://open.spotify.com/artist/6VJqy1YyzrK4ZhgGs9cNTy) | [If I Could Go \(feat\. Sacario & Lil Mo\) \- Single](https://open.spotify.com/album/5Fm5jXpwSRQYDDfIIC2jn7) | 4:13 |

@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 204040,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy"
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Big City",
       "url": "https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt"
@@ -3812,7 +3812,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 221647,
       "name": "California",
       "url": "https://open.spotify.com/track/192yhfxvnZqzuIWDCaenau"
@@ -4764,7 +4764,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 215923,
       "name": "Co-Dependent",
       "url": "https://open.spotify.com/track/3x4iiQSOqfzfZ4MFmKMSAv"
@@ -5462,6 +5462,24 @@
     {
       "album": {
         "name": "Daydreams",
+        "url": "https://open.spotify.com/album/14Bpw650h92QoVdaltxP7U"
+      },
+      "artists": [
+        {
+          "name": "Walden",
+          "url": "https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232012,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/4UrsY8ssvL5aRh0HqrEHXg"
+    },
+    {
+      "album": {
+        "name": "Daydreams",
         "url": "https://open.spotify.com/album/1j79OR9z9uQarwcxPOBTcw"
       },
       "artists": [
@@ -5998,7 +6016,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 292200,
       "name": "Don't Go Dark",
       "url": "https://open.spotify.com/track/1f4CgPlQUVrhXphghXUU3O"
@@ -7646,7 +7664,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 217996,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/5T8a0Zg9oceeIbkDD9mRDo"
@@ -8278,7 +8296,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 191791,
       "name": "Flood",
       "url": "https://open.spotify.com/track/2tBg5EICFT9Ff0DzxzzZ3s"
@@ -10008,7 +10026,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 252200,
       "name": "hey, u up?",
       "url": "https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1"
@@ -10368,7 +10386,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 180952,
       "name": "Home",
       "url": "https://open.spotify.com/track/2jW4NPHX8uilq8HtZY7xbR"
@@ -10588,7 +10606,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 208200,
       "name": "How Can You Just Turn It Off?",
       "url": "https://open.spotify.com/track/7aSxA8rhj1qQir5RvjKReq"
@@ -11024,7 +11042,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 228260,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI"
@@ -14274,7 +14292,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 163619,
       "name": "Love Is Complicated",
       "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
@@ -14610,7 +14628,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 282354,
       "name": "Loving Like You Lost",
       "url": "https://open.spotify.com/track/0bSE852Jyc3H1koMeCOjaG"
@@ -15118,7 +15136,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 230138,
       "name": "Maybe, One Day",
       "url": "https://open.spotify.com/track/7lDD6klBmwKuoqmql1RuE2"
@@ -17350,7 +17368,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 170428,
       "name": "On My Head",
       "url": "https://open.spotify.com/track/3MPOLBE9FSc1dYO8W4o85E"
@@ -18008,7 +18026,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 211613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
@@ -19416,7 +19434,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 197706,
       "name": "Runaround",
       "url": "https://open.spotify.com/track/4EyroIb0uLZLqhnLn8ymCH"
@@ -20884,7 +20902,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 212416,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/3I3cztm9B7DIryjEegY1AY"
@@ -20938,7 +20956,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 228080,
       "name": "Soundtrack",
       "url": "https://open.spotify.com/track/0EyVRIUOD2x2oiv8VqC8wK"
@@ -21068,6 +21086,24 @@
       "duration_ms": 221760,
       "name": "Standing in the Rain",
       "url": "https://open.spotify.com/track/5S4pAZfIugwULt49eneojF"
+    },
+    {
+      "album": {
+        "name": "Nostalgia Burns",
+        "url": "https://open.spotify.com/album/7Fpwp7Av00fKhlVaMiMglL"
+      },
+      "artists": [
+        {
+          "name": "Siiga",
+          "url": "https://open.spotify.com/artist/0clzNEJT9mlytQHxiXV1AH"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309213,
+      "name": "Starlight Lovers",
+      "url": "https://open.spotify.com/track/5Erh1Wnura8KKPFcnJY9oQ"
     },
     {
       "album": {
@@ -21500,7 +21536,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 221982,
       "name": "Stranger (To Your Love)",
       "url": "https://open.spotify.com/track/3GvaA0jlVUoKqLORvgmOBn"
@@ -21558,7 +21594,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 212752,
       "name": "Stuck On Repeat",
       "url": "https://open.spotify.com/track/4IumexempE0GomP9xOj30B"
@@ -22796,7 +22832,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 240746,
       "name": "The Hotel",
       "url": "https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6"
@@ -23208,7 +23244,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 229685,
       "name": "Things I Can't Explain",
       "url": "https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq"
@@ -23660,7 +23696,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 273509,
       "name": "To The Blue",
       "url": "https://open.spotify.com/track/4vzs8fYH9GV7UqnSH6AaGV"
@@ -24108,7 +24144,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 313400,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M"
@@ -25714,7 +25750,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 222750,
       "name": "With You",
       "url": "https://open.spotify.com/track/1eZfQxzuj9HzQ0SrPJAhOy"

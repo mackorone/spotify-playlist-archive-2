@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2491828,
+  "num_followers": 2491970,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -99,26 +99,6 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
-        "name": "Just The Way You Are",
-        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
         "name": "Sorry Papi",
         "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 170671,
       "name": "Sorry Papi",
       "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "duration_ms": 165831,
+      "name": "What If?",
+      "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
         "name": "Wo, man (Edit)",
         "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
-      },
-      "artists": [
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        }
-      ],
-      "duration_ms": 165831,
-      "name": "What If?",
-      "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
-        "name": "feel",
-        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 220622,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
         "name": "Free (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 212345,
       "name": "Free (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 220622,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        }
-      ],
-      "duration_ms": 162684,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
         "name": "Mydnight",
         "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
+        "name": "Ain't No Game",
+        "url": "https://open.spotify.com/album/3wQeApJ63jTGhdyvzYMvLX"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 161983,
+      "name": "Ain't No Game",
+      "url": "https://open.spotify.com/track/1hRazzupiYrnYYUdpNhncL"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
       },
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
         "name": "START UP A RUMOUR",
         "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
       },
@@ -2223,6 +2223,22 @@
       "duration_ms": 166944,
       "name": "Call Me Your Girl",
       "url": "https://open.spotify.com/track/04ha4Efmnh5JmQnaSFmmRq"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -2267,6 +2283,22 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
+        "name": "Say It To Me",
+        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 242076,
+      "name": "Say It To Me",
+      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -2283,22 +2315,6 @@
       "duration_ms": 179408,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
-        "name": "Say It To Me",
-        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 242076,
-      "name": "Say It To Me",
-      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -2447,6 +2463,34 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
+        "name": "Do For Love",
+        "url": "https://open.spotify.com/album/0wOR43qEKPvjAgY8Nk06hb"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "Clover County",
+          "url": "https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2"
+        }
+      ],
+      "duration_ms": 193691,
+      "name": "Do For Love",
+      "url": "https://open.spotify.com/track/4IvvBFEmQxWgDcvi5Jn6r0"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
       },
@@ -2523,26 +2567,6 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/218YMO0wlVtSOj30diRqEy"
-      },
-      "artists": [
-        {
-          "name": "Zen Freeman",
-          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
-        },
-        {
-          "name": "Gan",
-          "url": "https://open.spotify.com/artist/4IR9oo9OqiIFtbElS1KyXH"
-        }
-      ],
-      "duration_ms": 192034,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/1Hh1XYNF1OUOEShv5STkWJ"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
         "name": "Sunday Best",
         "url": "https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe"
       },
@@ -2559,6 +2583,26 @@
       "duration_ms": 171990,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/218YMO0wlVtSOj30diRqEy"
+      },
+      "artists": [
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        },
+        {
+          "name": "Gan",
+          "url": "https://open.spotify.com/artist/4IR9oo9OqiIFtbElS1KyXH"
+        }
+      ],
+      "duration_ms": 192034,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/1Hh1XYNF1OUOEShv5STkWJ"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -2619,6 +2663,26 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
+        "name": "Future Renaissance",
+        "url": "https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 163834,
+      "name": "Believing In Us",
+      "url": "https://open.spotify.com/track/6WljWthiqncq6ad3FiDM8r"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU"
       },
@@ -2639,26 +2703,6 @@
       "duration_ms": 137250,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
-        "name": "Future Renaissance",
-        "url": "https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 163834,
-      "name": "Believing In Us",
-      "url": "https://open.spotify.com/track/6WljWthiqncq6ad3FiDM8r"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -2763,18 +2807,26 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/2yaFxmeJTLil88BebMAQ1F"
+        "name": "High In Ibiza",
+        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
       },
       "artists": [
         {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
         }
       ],
-      "duration_ms": 150465,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/2JpFgRepWLFpY7Lrcd76nU"
+      "duration_ms": 142500,
+      "name": "High In Ibiza",
+      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -2795,6 +2847,22 @@
       "duration_ms": 221683,
       "name": "THIS IS FOR YOU (feat. Niki & the Dove)",
       "url": "https://open.spotify.com/track/2EY0iypCKjix9tBeaGvm03"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/2yaFxmeJTLil88BebMAQ1F"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "duration_ms": 150465,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/2JpFgRepWLFpY7Lrcd76nU"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -2863,26 +2931,6 @@
     {
       "added_at": "2026-08-21 12:28:24",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/3TBa1RclhvrlSIYDNmmt3r"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 190914,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0hPjwZ80xT39CKpcAOu6zT"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/4LcgxmRpL6JlZiE0LjMWAd"
       },
@@ -2903,6 +2951,26 @@
       "duration_ms": 151935,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7MEGnPUY4dLQz3gvY212jM"
+    },
+    {
+      "added_at": "2026-08-21 12:28:24",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3TBa1RclhvrlSIYDNmmt3r"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0hPjwZ80xT39CKpcAOu6zT"
     },
     {
       "added_at": "2026-08-21 12:28:24",
@@ -2999,66 +3067,6 @@
       "duration_ms": 167619,
       "name": "No One Like You - Edit",
       "url": "https://open.spotify.com/track/5st3oeKHNhCPINTqk73tRx"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4sMMQskdXE5TJn62BHulqy"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 202935,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3bX3KMbLrkbxUb4p1jzaus"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
-        "name": "PARTY NEVER STOPS",
-        "url": "https://open.spotify.com/album/6By7ZkDoYPdCb4w508giWs"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Moon Boots",
-          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
-        }
-      ],
-      "duration_ms": 292330,
-      "name": "PARTY NEVER STOPS",
-      "url": "https://open.spotify.com/track/5aFi8YUPnBS7Z32QtbnIbE"
-    },
-    {
-      "added_at": "2026-08-21 12:28:24",
-      "album": {
-        "name": "We Groovin",
-        "url": "https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "We Groovin",
-      "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"
     }
   ],
   "unique_name": "Happy Beats",

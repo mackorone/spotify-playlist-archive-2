@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 387170,
+  "num_followers": 387214,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Bodv\u00e1r",
-        "url": "https://open.spotify.com/album/198aTBufTgIU0Dj47MJtUu"
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
       },
       "artists": [
         {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Bodv\u00e1r",
-      "url": "https://open.spotify.com/track/2QOXBvxgsF8tqS35uOkT4h"
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Heatiche (Vip Mix)",
-        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+        "name": "Bodv\u00e1r",
+        "url": "https://open.spotify.com/album/198aTBufTgIU0Dj47MJtUu"
       },
       "artists": [
         {
-          "name": "Mpirgkel",
-          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
         }
       ],
-      "duration_ms": 216521,
-      "name": "Heatiche - Vip Mix",
-      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+      "duration_ms": 166556,
+      "name": "Bodv\u00e1r",
+      "url": "https://open.spotify.com/track/2QOXBvxgsF8tqS35uOkT4h"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 410526,
+      "name": "Euphrates",
+      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
         "name": "Le Beirut",
         "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 431520,
       "name": "Le Beirut",
       "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 410526,
-      "name": "Euphrates",
-      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Arabian Magic",
-        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Arabian Magic",
-      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "Ederlezi (feat. Dikanda)",
         "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 244878,
       "name": "Ederlezi (feat. Dikanda)",
       "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
+        "name": "Arabian Magic",
+        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Arabian Magic",
+      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 184761,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "Arabic Nights",
         "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 165333,
       "name": "Arabic Nights",
       "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Aman",
-        "url": "https://open.spotify.com/album/7Eo6K5Z719L59LvUQr85Ng"
-      },
-      "artists": [
-        {
-          "name": "NODUS",
-          "url": "https://open.spotify.com/artist/1Z9YnRJkDgL44LM2ErTd9O"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Aman",
-      "url": "https://open.spotify.com/track/6xgYffMV8qvyxqRc7QuENp"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "CEWRESAMIN",
         "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 177261,
       "name": "Hayati",
       "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
+        "name": "Aman",
+        "url": "https://open.spotify.com/album/7Eo6K5Z719L59LvUQr85Ng"
+      },
+      "artists": [
+        {
+          "name": "NODUS",
+          "url": "https://open.spotify.com/artist/1Z9YnRJkDgL44LM2ErTd9O"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Aman",
+      "url": "https://open.spotify.com/track/6xgYffMV8qvyxqRc7QuENp"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Oh Lor My Love",
-        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Oh Lor My Love",
-      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "Helwa Belady El Samra (Kharma Remix)",
         "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 176350,
       "name": "Helwa Belady El Samra (Kharma Remix)",
       "url": "https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
+        "name": "Oh Lor My Love",
+        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Oh Lor My Love",
+      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
     },
     {
       "added_at": "2026-07-28 06:55:14",

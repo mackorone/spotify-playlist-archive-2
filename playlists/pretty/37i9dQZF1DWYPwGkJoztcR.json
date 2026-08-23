@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397649,
+  "num_followers": 397664,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Guy From Outer Space",
         "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 163176,
       "name": "Guy From Outer Space",
       "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Calling Out",
-        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
-      },
-      "artists": [
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 150904,
-      "name": "Calling Out",
-      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Light of My Life",
         "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 259518,
       "name": "Light of My Life",
       "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
+      },
+      "artists": [
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 150904,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 216005,
       "name": "Beginners",
       "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -963,18 +963,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "When She\u2019s Around",
-        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
       },
       "artists": [
         {
-          "name": "Milo Meskens",
-          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
         }
       ],
-      "duration_ms": 215280,
-      "name": "When She\u2019s Around",
-      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
+      "duration_ms": 150937,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
+        "name": "When She\u2019s Around",
+        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
       },
       "artists": [
         {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+          "name": "Milo Meskens",
+          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
         }
       ],
-      "duration_ms": 150937,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
+      "duration_ms": 215280,
+      "name": "When She\u2019s Around",
+      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL"
-      },
-      "artists": [
-        {
-          "name": "Axelle",
-          "url": "https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ"
-        }
-      ],
-      "duration_ms": 179148,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Better Tomorrow",
         "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 211111,
       "name": "Better Tomorrow",
       "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL"
+      },
+      "artists": [
+        {
+          "name": "Axelle",
+          "url": "https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ"
+        }
+      ],
+      "duration_ms": 179148,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1143,8 +1143,8 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
       },
       "artists": [
         {
@@ -1152,25 +1152,9 @@
           "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
         }
       ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
-        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
-        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
-      },
-      "artists": [
-        {
-          "name": "OSKI",
-          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
-      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+      "duration_ms": 245562,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
+        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
+        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
+      },
+      "artists": [
+        {
+          "name": "OSKI",
+          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
+      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
@@ -1207,38 +1207,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 245562,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "i'm changing my mind",
         "url": "https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB"
       },
@@ -1251,6 +1219,38 @@
       "duration_ms": 234336,
       "name": "adeline",
       "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1319,6 +1319,30 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
+        "name": "At My Worst (feat. philine & Remy van Kesteren)",
+        "url": "https://open.spotify.com/album/3SQlbSAOLKTVGyei9tKNPC"
+      },
+      "artists": [
+        {
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+        },
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        },
+        {
+          "name": "Remy Van Kesteren",
+          "url": "https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE"
+        }
+      ],
+      "duration_ms": 207058,
+      "name": "At My Worst (feat. philine & Remy van Kesteren)",
+      "url": "https://open.spotify.com/track/1folSXp8ckfkK0wsoXWsUZ"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
         "name": "Queen Of My Castle",
         "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
@@ -1347,30 +1371,6 @@
       "duration_ms": 229347,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
-        "name": "At My Worst (feat. philine & Remy van Kesteren)",
-        "url": "https://open.spotify.com/album/3SQlbSAOLKTVGyei9tKNPC"
-      },
-      "artists": [
-        {
-          "name": "Melle",
-          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
-        },
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        },
-        {
-          "name": "Remy Van Kesteren",
-          "url": "https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE"
-        }
-      ],
-      "duration_ms": 207058,
-      "name": "At My Worst (feat. philine & Remy van Kesteren)",
-      "url": "https://open.spotify.com/track/1folSXp8ckfkK0wsoXWsUZ"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Dark Harvest, Pt. 1",
-        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 292148,
-      "name": "Solastalgia",
-      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI"
+        "name": "Dark Harvest, Pt. 1",
+        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba"
+      "duration_ms": 292148,
+      "name": "Solastalgia",
+      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1599,6 +1583,22 @@
       "duration_ms": 164493,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba"
     },
     {
       "added_at": "2026-08-17 13:11:32",

@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1298447,
+  "num_followers": 1298422,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 135421,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
-        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        },
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        }
-      ],
-      "duration_ms": 331141,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "The Richard Rodgers Songbook",
         "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 207409,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
+        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        }
+      ],
+      "duration_ms": 331141,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Dear Blossom,",
         "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 233120,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "under a blanket of blue",
+        "url": "https://open.spotify.com/album/1PJlNK88NJuMHq4X6M73bG"
+      },
+      "artists": [
+        {
+          "name": "Richard Cortez",
+          "url": "https://open.spotify.com/artist/1a2UhBSkoQW9aWceDP6RF4"
+        },
+        {
+          "name": "Jacob Chung",
+          "url": "https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv"
+        }
+      ],
+      "duration_ms": 261130,
+      "name": "under a blanket of blue (feat. Jacob Chung)",
+      "url": "https://open.spotify.com/track/2kXMVlBLppsMe5u8QNkEmK"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "Our Love Is Here to Stay",
         "url": "https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK"
       },
@@ -943,22 +963,22 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "under a blanket of blue",
-        "url": "https://open.spotify.com/album/1PJlNK88NJuMHq4X6M73bG"
+        "name": "Sweet Pumpkin",
+        "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
       },
       "artists": [
         {
-          "name": "Richard Cortez",
-          "url": "https://open.spotify.com/artist/1a2UhBSkoQW9aWceDP6RF4"
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
         },
         {
-          "name": "Jacob Chung",
-          "url": "https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv"
+          "name": "Dave Baron",
+          "url": "https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB"
         }
       ],
-      "duration_ms": 261130,
-      "name": "under a blanket of blue (feat. Jacob Chung)",
-      "url": "https://open.spotify.com/track/2kXMVlBLppsMe5u8QNkEmK"
+      "duration_ms": 252173,
+      "name": "Sweet Pumpkin",
+      "url": "https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -995,26 +1015,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Sweet Pumpkin",
-        "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Dave Baron",
-          "url": "https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Sweet Pumpkin",
-      "url": "https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/3XSf8Unnnx22syZW9ILEtR"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/43gYSQn48BKuc9s6haVcDq"
-      },
-      "artists": [
-        {
-          "name": "April Varner",
-          "url": "https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b"
-        }
-      ],
-      "duration_ms": 237920,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/1d8fF3ussJbJdsXYy5GBym"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/43gYSQn48BKuc9s6haVcDq"
+      },
+      "artists": [
+        {
+          "name": "April Varner",
+          "url": "https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/1d8fF3ussJbJdsXYy5GBym"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Memories of You: A Tribute to Benny Goodman",
-        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 290653,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 209960,
       "name": "Our Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "Memories of You: A Tribute to Benny Goodman",
+        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 290653,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2026-07-03 08:18:20",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16073,
+  "num_followers": 16086,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAACoqIKvOO3MVEK81ByVoN2d",
+  "snapshot_id": "aoeVAAAAAADULFXSX58zIZWbqX96XW3p",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 256640,
-      "name": "Penelope",
-      "url": "https://open.spotify.com/track/5CsZuYia3R65X0Z5sNLsak"
+      "duration_ms": 200981,
+      "name": "Chasing the Escaping Sun",
+      "url": "https://open.spotify.com/track/6yk1nPTG2ymfQAvD9Qncuc"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 200981,
-      "name": "Chasing the Escaping Sun",
-      "url": "https://open.spotify.com/track/6yk1nPTG2ymfQAvD9Qncuc"
+      "duration_ms": 256640,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/5CsZuYia3R65X0Z5sNLsak"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Go Kid",
-      "url": "https://open.spotify.com/track/0c5ySgApQVeR06Bey6D7Gy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinners (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 208613,
       "name": "Smokestack Twins",
       "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Go Kid",
+      "url": "https://open.spotify.com/track/0c5ySgApQVeR06Bey6D7Gy"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 235570,
-      "name": "BETRAYAL",
-      "url": "https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything, Everything (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 114600,
       "name": "Truths (From \"Everything, Everything\" Score)",
       "url": "https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 235570,
+      "name": "BETRAYAL",
+      "url": "https://open.spotify.com/track/5SQWjbR3GyT9Mt8z2MbnUN"
     },
     {
       "added_at": null,

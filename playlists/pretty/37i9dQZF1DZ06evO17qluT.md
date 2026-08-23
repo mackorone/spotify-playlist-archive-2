@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,073 likes - 48 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,118 likes - 48 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 47 | [Se Eu Não Manter](https://open.spotify.com/track/0mBr4S97a0duSfgebe007c) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:11 |
 | 48 | [Vinho, Voz e Violão \- Ao Vivo](https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Trapzeiro \(Meu Piseiro Brasileiro\) \[Ao Vivo\]](https://open.spotify.com/album/3S4xoyB55MVXwT1ukuOL4p) | 3:45 |
 
-Snapshot ID: `aoZDgAAAAAC0l2dHcj+Fkp8FLPsWb9fC`
+Snapshot ID: `aoeVAAAAAADTvoKtqypijkKCSacDmOHk`

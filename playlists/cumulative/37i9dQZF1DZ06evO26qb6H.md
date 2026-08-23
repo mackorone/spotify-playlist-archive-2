@@ -4,7 +4,7 @@
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 14 min
+69 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG) | 3:24 | 2023-12-22 |  |
 | [420 in London](https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [420 in London](https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh) | 3:39 | 2023-12-13 |  |
 | [A Lot of Miles](https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:57 | 2024-01-27 |  |
-| [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 | 2026-05-10 |  |
+| [Baby](https://open.spotify.com/track/5iyGNErkuTfNuN2kPHMU7A) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:13 | 2026-08-23 |  |
+| [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 | 2026-05-10 | 2026-08-23 |
 | [Bad Habits \(feat\. Murda Beatz\)](https://open.spotify.com/track/6J2zOiRkS7rEkmCRpuvZgP) | [Fast Cash Boyz](https://open.spotify.com/artist/37ijPPH7qiKay4QJ5ktqEU), [Tay Keith](https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Fxck The Cash Up](https://open.spotify.com/album/3XMIPVAy1bXKoAaEasIHab) | 3:12 | 2024-06-15 | 2024-07-21 |
 | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4) | 3:12 | 2023-12-13 |  |
 | [Beef](https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU) | [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Beef](https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3) | 3:01 | 2023-12-13 |  |

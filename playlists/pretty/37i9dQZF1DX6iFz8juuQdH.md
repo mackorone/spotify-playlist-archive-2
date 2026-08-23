@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain]
 
 > Celebrating the life and impact of Kanya King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,809 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,807 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174272,
+  "num_followers": 174276,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAAmyfGQ+qvDpKiC4fVtfrbs",
+  "snapshot_id": "aoeVAAAAAAAX/IeU5w9BbnuG7V7QVoHc",
   "tracks": [
     {
       "added_at": null,
@@ -734,11 +734,19 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 120410,
-      "name": "A coisa mais esperan\u00e7osa e mais dilacerante s\u00e3o a mesma",
-      "url": "https://open.spotify.com/track/5WuVX5GiUShm29LMxzRE2j"
+      "duration_ms": 344373,
+      "name": "A mema pra\u00e7a",
+      "url": "https://open.spotify.com/track/6j02jeNHYIiQmEooAaE4kP"
     },
     {
       "added_at": null,
@@ -806,19 +814,11 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 344373,
-      "name": "A mema pra\u00e7a",
-      "url": "https://open.spotify.com/track/6j02jeNHYIiQmEooAaE4kP"
+      "duration_ms": 120410,
+      "name": "A coisa mais esperan\u00e7osa e mais dilacerante s\u00e3o a mesma",
+      "url": "https://open.spotify.com/track/5WuVX5GiUShm29LMxzRE2j"
     },
     {
       "added_at": null,
@@ -959,46 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Sou a Mar\u00e9 Viva",
-        "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
-      },
-      "artists": [
-        {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 274145,
-      "name": "Manifesto (feat. Lenine & Emicida)",
-      "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Sozim",
-      "url": "https://open.spotify.com/track/2l6Cfr8vIkONQJKQRRHnsz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Sol Tamb\u00e9m Chora",
         "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
       },
@@ -1019,6 +979,46 @@
       "duration_ms": 257654,
       "name": "Ven\u00e7a",
       "url": "https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Sozim",
+      "url": "https://open.spotify.com/track/2l6Cfr8vIkONQJKQRRHnsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Sou a Mar\u00e9 Viva",
+        "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 274145,
+      "name": "Manifesto (feat. Lenine & Emicida)",
+      "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
     },
     {
       "added_at": null,
@@ -1131,22 +1131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+        "name": "Trevo, Figuinha e Suor na Camisa",
+        "url": "https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 180448,
-      "name": "Melhor Rem\u00e9dio",
-      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
+      "duration_ms": 170453,
+      "name": "Trevo, Figuinha e Suor na Camisa",
+      "url": "https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8"
     }
   ],
   "unique_name": "This Is Emicida",

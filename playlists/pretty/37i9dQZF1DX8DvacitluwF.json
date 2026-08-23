@@ -1,6 +1,6 @@
 {
   "description": "The best in South African and international R&B. Cover: Njerae",
-  "num_followers": 32561,
+  "num_followers": 32634,
   "original_name": "R&Beats",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,22 @@
     {
       "added_at": "2026-08-20 22:00:37",
       "album": {
-        "name": "Remedied",
-        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
+        "name": "BELOVED: ACT II",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Remedied",
-      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
+      "duration_ms": 198812,
+      "name": "FOOL ME ONCE (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK"
     },
     {
       "added_at": "2026-08-20 22:00:37",
@@ -367,22 +371,18 @@
     {
       "added_at": "2026-08-20 22:00:37",
       "album": {
-        "name": "BELOVED: ACT II",
-        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+        "name": "Remedied",
+        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 198812,
-      "name": "FOOL ME ONCE (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK"
+      "duration_ms": 128000,
+      "name": "Remedied",
+      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
     },
     {
       "added_at": "2026-08-20 22:00:37",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-08-20 22:00:37",
       "album": {
-        "name": "sweet talk",
-        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
       "artists": [
         {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 146315,
-      "name": "sweet talk",
-      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
     },
     {
       "added_at": "2026-08-20 22:00:37",
@@ -607,6 +607,22 @@
       "duration_ms": 201408,
       "name": "Miss Hot July",
       "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
+    },
+    {
+      "added_at": "2026-08-20 22:00:37",
+      "album": {
+        "name": "sweet talk",
+        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 146315,
+      "name": "sweet talk",
+      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
       "added_at": "2026-08-20 22:00:37",
@@ -647,6 +663,26 @@
       "duration_ms": 294816,
       "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
       "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
+    },
+    {
+      "added_at": "2026-08-20 22:00:37",
+      "album": {
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
     },
     {
       "added_at": "2026-08-20 22:00:37",
@@ -759,18 +795,18 @@
     {
       "added_at": "2026-08-20 22:00:37",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
+        "name": "Peace To Make",
+        "url": "https://open.spotify.com/album/3RBRCj9pFM1Ercrwqv47uj"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
         }
       ],
-      "duration_ms": 252144,
-      "name": "Barii",
-      "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
+      "duration_ms": 189813,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0QBghBie9QpjQMm6F5EMbS"
     },
     {
       "added_at": "2026-08-20 22:00:37",
@@ -791,6 +827,22 @@
     {
       "added_at": "2026-08-20 22:00:37",
       "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 252144,
+      "name": "Barii",
+      "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
+    },
+    {
+      "added_at": "2026-08-20 22:00:37",
+      "album": {
         "name": "idea 1",
         "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
       },
@@ -807,26 +859,18 @@
     {
       "added_at": "2026-08-20 22:00:37",
       "album": {
-        "name": "T's & C's Apply",
-        "url": "https://open.spotify.com/album/1BGoSXH26t5oeXmzB1gdDz"
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Tellaman",
-          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 222722,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/4IG4PZqVEbllfl3h0Qoypw"
+      "duration_ms": 240000,
+      "name": "Two Roads",
+      "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"
     },
     {
       "added_at": "2026-08-20 22:00:37",
@@ -843,54 +887,6 @@
       "duration_ms": 194000,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
-    },
-    {
-      "added_at": "2026-08-20 22:00:37",
-      "album": {
-        "name": "By The Time I Wake Up",
-        "url": "https://open.spotify.com/album/7MV7YJxjstlQ2Nejqs2Zmj"
-      },
-      "artists": [
-        {
-          "name": "Lusanda",
-          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
-        }
-      ],
-      "duration_ms": 212282,
-      "name": "By The Time I Wake Up",
-      "url": "https://open.spotify.com/track/1MzS45AX5NrN1gxpuu195L"
-    },
-    {
-      "added_at": "2026-08-20 22:00:37",
-      "album": {
-        "name": "Serial Romantic",
-        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 249002,
-      "name": "Truce",
-      "url": "https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw"
-    },
-    {
-      "added_at": "2026-08-20 22:00:37",
-      "album": {
-        "name": "Don't Say the Words",
-        "url": "https://open.spotify.com/album/4iwWHgHZQ3yZUzOH6wVFBr"
-      },
-      "artists": [
-        {
-          "name": "Manana",
-          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Don't Say the Words",
-      "url": "https://open.spotify.com/track/0N1QCR8ixCrfJq61xeNoot"
     }
   ],
   "unique_name": "R&Beats",

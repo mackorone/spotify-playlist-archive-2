@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-505 songs - 1 day 7 hr 36 min
+506 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Cool Whip](https://open.spotify.com/track/11VRbqIoImi99kotcVUDKw) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 3:42 | 2022-08-19 | 2023-04-01 |
 | [Cool Whip](https://open.spotify.com/track/5sj0p138vmExupLI9pOTI7) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Cool Whip](https://open.spotify.com/album/2NyghAoOQRqYCUdHgMNTrl) | 3:42 | 2022-08-19 | 2023-03-02 |
 | [Cover Me](https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Ugly](https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3) | 5:35 | 2024-08-23 |  |
-| [Crisscross Way](https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [Crisscross Way](https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb) | 2:44 | 2026-03-06 |  |
+| [Crisscross Way](https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [Crisscross Way](https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb) | 2:44 | 2026-03-06 | 2026-08-23 |
 | [Crossroads](https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq) | [The Imaginaries](https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crossroads](https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN) | 3:47 | 2024-10-04 |  |
 | [Cruisin'](https://open.spotify.com/track/7CntU6rozZ57F9sB3ZDtad) | [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Cruisin'](https://open.spotify.com/album/0ZWTCT3qfUN7yxcHsilRAD) | 3:40 | 2026-03-06 | 2026-05-16 |
 | [CRY](https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [CRY](https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8) | 3:57 | 2021-12-17 | 2022-07-29 |
@@ -323,6 +323,7 @@
 | [Oceans Of Emotions \- The Circle Session, 2023](https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Circle Session, 2023](https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs) | 3:36 | 2024-01-12 |  |
 | [Oh Betty](https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:56 | 2026-02-13 |  |
 | [Oh Betty](https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty](https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o) | 3:56 | 2022-03-11 | 2023-03-11 |
+| [One Day Away](https://open.spotify.com/track/5bPqrKQNzFl4dKJzxDWHwC) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [The Breakdown](https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM) | 3:54 | 2026-08-21 |  |
 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 | 2021-12-17 | 2023-02-25 |
 | [Order out of Chaos](https://open.spotify.com/track/0g4O3fIl76RzfB6YvPjEhI) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [Order out of Chaos](https://open.spotify.com/album/474UZkOJiONk1qZbePll0F) | 5:02 | 2022-04-15 | 2022-06-11 |
 | [Out for Blood](https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning \(Deluxe\)](https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA) | 3:54 | 2024-02-09 |  |

@@ -6,8 +6,128 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACpK6RMV29Z1HjW40+PgLB6E38FZfW",
+  "snapshot_id": "AAACpc1jhsYWU+SxH5ngnxa7H0GNWGsP",
   "tracks": [
+    {
+      "added_at": "2026-08-22 08:16:03",
+      "album": {
+        "name": "submerged",
+        "url": "https://open.spotify.com/album/4C9zzsdrrDVYKruD7jjDX1"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "ihatemyjob",
+          "url": "https://open.spotify.com/artist/56FljFqP7tSmnd0jx4lpzO"
+        }
+      ],
+      "duration_ms": 124447,
+      "name": "submerged",
+      "url": "https://open.spotify.com/track/5FppNL8XUiT9pwBW9e2o4S"
+    },
+    {
+      "added_at": "2026-08-22 08:16:03",
+      "album": {
+        "name": "when light arrives",
+        "url": "https://open.spotify.com/album/5aUrbip7f4Nv2kdjruM6tq"
+      },
+      "artists": [
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        },
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        }
+      ],
+      "duration_ms": 70250,
+      "name": "when light arrives",
+      "url": "https://open.spotify.com/track/6hbPDHN3znHOYlun7VJRSg"
+    },
+    {
+      "added_at": "2026-08-22 08:16:03",
+      "album": {
+        "name": "comfort chain (Ambient Rework)",
+        "url": "https://open.spotify.com/album/1jfjPVGa5Xf1yrrfnHfLwa"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "duration_ms": 140917,
+      "name": "comfort chain (Ambient Rework)",
+      "url": "https://open.spotify.com/track/5clfR660bcJHelNQ61odBa"
+    },
+    {
+      "added_at": "2026-08-22 08:16:03",
+      "album": {
+        "name": "fading hours",
+        "url": "https://open.spotify.com/album/3yv5TiUZcExEQ8vpEea7f9"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "fading hours",
+      "url": "https://open.spotify.com/track/0SwKmT0h0N7FoAMAkTa35u"
+    },
+    {
+      "added_at": "2026-08-22 08:16:03",
+      "album": {
+        "name": "cassette world",
+        "url": "https://open.spotify.com/album/4Ipduu22CkX4bpKgGxaPDo"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        }
+      ],
+      "duration_ms": 112639,
+      "name": "cassette world",
+      "url": "https://open.spotify.com/track/3zqmw3HLtqkd3ZmPckIOey"
+    },
+    {
+      "added_at": "2026-08-22 08:16:03",
+      "album": {
+        "name": "take me home",
+        "url": "https://open.spotify.com/album/4OLDDaNR17F85FfLuWdBMY"
+      },
+      "artists": [
+        {
+          "name": "One Aphelion",
+          "url": "https://open.spotify.com/artist/7belGTuWSvvmxxQF6et8xO"
+        }
+      ],
+      "duration_ms": 122448,
+      "name": "take me home",
+      "url": "https://open.spotify.com/track/5O6C92xJYmEoUdYWxY2TyB"
+    },
+    {
+      "added_at": "2026-08-22 08:16:03",
+      "album": {
+        "name": "rest in place",
+        "url": "https://open.spotify.com/album/3EBVD3AMPQ2AsLtrrbGIru"
+      },
+      "artists": [
+        {
+          "name": "nightquest",
+          "url": "https://open.spotify.com/artist/2i7ybCGCXKSrcLzsoashPT"
+        }
+      ],
+      "duration_ms": 108888,
+      "name": "rest in place",
+      "url": "https://open.spotify.com/track/5zpKhJq0gAe5xFDJbbrMcE"
+    },
     {
       "added_at": "2026-08-14 20:27:41",
       "album": {

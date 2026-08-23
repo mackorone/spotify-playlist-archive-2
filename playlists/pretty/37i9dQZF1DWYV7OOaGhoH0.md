@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Ken Pomeroy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,687,727 likes - 130 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,687,542 likes - 130 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

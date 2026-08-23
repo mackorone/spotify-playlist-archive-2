@@ -8438,7 +8438,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 224824,
       "name": "Nank\u00f6rd\u00fck",
       "url": "https://open.spotify.com/track/1J2FKNY2ZXUqirIr1LG2OD"
@@ -9156,6 +9156,24 @@
       "duration_ms": 165000,
       "name": "Peki \u00d6yle Olsun",
       "url": "https://open.spotify.com/track/6QHkJAqfl4mSUBhznWsVqP"
+    },
+    {
+      "album": {
+        "name": "PES",
+        "url": "https://open.spotify.com/album/25CWJzdUW8Wys9Nsaxm0f6"
+      },
+      "artists": [
+        {
+          "name": "AURA",
+          "url": "https://open.spotify.com/artist/3vv9Y0XUMGmPUfIj8KB7Oo"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153012,
+      "name": "PES",
+      "url": "https://open.spotify.com/track/6xZxMoZaKYEFXVcfUW8X1k"
     },
     {
       "album": {

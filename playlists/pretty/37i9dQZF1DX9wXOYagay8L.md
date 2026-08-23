@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: MaWhoo, Lwah Ndlunkulu
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,696 likes - 101 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,064 likes - 101 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

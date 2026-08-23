@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,489 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,491 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 19 | [Offline](https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 2:29 |
 | 20 | [Ze Wil](https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [YAYO HARTJE JIMMY](https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v) | 3:09 |
 | 21 | [HOE?](https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [HOE?](https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3) | 3:41 |
-| 22 | [LATEN ME KOUD](https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5) | [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou) | [LATEN ME KOUD](https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433) | 2:35 |
-| 23 | [Vlijmscherp](https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Vlijmscherp](https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb) | 4:31 |
+| 22 | [Vlijmscherp](https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Vlijmscherp](https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb) | 4:31 |
+| 23 | [LATEN ME KOUD](https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5) | [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou) | [LATEN ME KOUD](https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433) | 2:35 |
 | 24 | [Als Hij dan echt bestaat](https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Wie de fak is Sophie Straat](https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk) | 3:09 |
 | 25 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo \(EP\)](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 |
 | 26 | [Ik Weet Hoe Het Werkt](https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Ik Weet Hoe Het Werkt](https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV) | 2:21 |
 | 27 | [Boterham](https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Boterham](https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO) | 2:07 |
 | 28 | [GEEN BEEST](https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [GEEN BEEST](https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk) | 2:25 |
 | 29 | [Winterkind](https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm) | [Lindi](https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR) | [Winterkind](https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P) | 2:45 |
-| 30 | [Bang Dat Ik Spring](https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4), [Saartje Van Camp](https://open.spotify.com/artist/4F6ezMqheQX1B8dBFnuJ1s) | [Bang Dat Ik Spring](https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2) | 3:06 |
-| 31 | [Behang](https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 2:33 |
+| 30 | [Behang](https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 2:33 |
+| 31 | [Bang Dat Ik Spring](https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4), [Saartje Van Camp](https://open.spotify.com/artist/4F6ezMqheQX1B8dBFnuJ1s) | [Bang Dat Ik Spring](https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2) | 3:06 |
 | 32 | [Rode Seks Feeks](https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Rode Seks Feeks](https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu) | 2:47 |
 | 33 | [Iedereen](https://open.spotify.com/track/6bmJJv4rw4YvaiXT68Mlxe) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [De zachte krachten](https://open.spotify.com/album/7FbZmatGGAGIkcuAeU5mM9) | 2:52 |
 | 34 | [Opscheer](https://open.spotify.com/track/0UHJ1EeeObYXPkO1Dscxtz) | [Het Algoritme](https://open.spotify.com/artist/0Iivrm0lwA0QXN0C4AlO8i), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [Opscheer](https://open.spotify.com/album/4G7LZsI57TjTz8epjLN2Wz) | 2:48 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 44 | [7 Dagen Maandag](https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb) | [Ricky Bekstok](https://open.spotify.com/artist/3XJeemwFhfopLJNzBlNZaT), [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [7 Dagen Maandag](https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ) | 2:46 |
 | 45 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
 | 46 | [CONFLICT](https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [GEEN TITEL](https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx) | 2:32 |
-| 47 | [Hoofd](https://open.spotify.com/track/7DsTVwUPn3qvsTVn26kgwv) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Hoofd](https://open.spotify.com/album/5XV6LTscTMjMK9EwuqSSJ9) | 2:49 |
-| 48 | [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 |
-| 49 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 |
-| 50 | [Gefeliciteerd](https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4) | [LOT](https://open.spotify.com/artist/5WFiEpMZfNw5NgFTHfJA8K) | [Gefeliciteerd](https://open.spotify.com/album/027zmAQqyEznyL4ty6ERuG) | 2:44 |
+| 47 | [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 |
+| 48 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 |
+| 49 | [Gefeliciteerd](https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4) | [LOT](https://open.spotify.com/artist/5WFiEpMZfNw5NgFTHfJA8K) | [Gefeliciteerd](https://open.spotify.com/album/027zmAQqyEznyL4ty6ERuG) | 2:44 |
+| 50 | [Hoofd](https://open.spotify.com/track/7DsTVwUPn3qvsTVn26kgwv) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Hoofd](https://open.spotify.com/album/5XV6LTscTMjMK9EwuqSSJ9) | 2:49 |
 
 Snapshot ID: `AAAAAJd5265WZLiafvn2fW3HnTeJldO1`

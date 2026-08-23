@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udde3\ufe0fdoisdeee, doisdeee // Maru2D",
-  "num_followers": 103575,
+  "num_followers": 103591,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-08-21 17:34:50",
       "album": {
-        "name": "BPP",
-        "url": "https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O"
-      },
-      "artists": [
-        {
-          "name": "Majis",
-          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
-        },
-        {
-          "name": "Maff",
-          "url": "https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL"
-        }
-      ],
-      "duration_ms": 153880,
-      "name": "BPP",
-      "url": "https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F"
-    },
-    {
-      "added_at": "2026-08-21 17:34:50",
-      "album": {
         "name": "BASE: Quem t\u00e1 s\u00e3o ELAS",
         "url": "https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 415238,
       "name": "Eu tenho uma FACA o nome dela \u00e9 RIMA",
       "url": "https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu"
+    },
+    {
+      "added_at": "2026-08-21 17:34:50",
+      "album": {
+        "name": "BPP",
+        "url": "https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O"
+      },
+      "artists": [
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Maff",
+          "url": "https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL"
+        }
+      ],
+      "duration_ms": 153880,
+      "name": "BPP",
+      "url": "https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F"
     },
     {
       "added_at": "2026-08-21 17:34:50",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-08-21 17:34:50",
       "album": {
-        "name": "Amina",
-        "url": "https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Amina",
-      "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
-    },
-    {
-      "added_at": "2026-08-21 17:34:50",
-      "album": {
         "name": "PERSONA",
         "url": "https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 122706,
       "name": "TRAPSTAR",
       "url": "https://open.spotify.com/track/7mm7xz3BqY0vPnrvYGLchv"
+    },
+    {
+      "added_at": "2026-08-21 17:34:50",
+      "album": {
+        "name": "Amina",
+        "url": "https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
     }
   ],
   "unique_name": "Baby Hair",

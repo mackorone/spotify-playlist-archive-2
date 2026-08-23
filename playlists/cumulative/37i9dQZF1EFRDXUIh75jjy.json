@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Blue and Black",
+        "url": "https://open.spotify.com/album/4g5g6a481seLfWVbADFlMF"
+      },
+      "artists": [
+        {
+          "name": "Conall Cafferty",
+          "url": "https://open.spotify.com/artist/6d1qaR3dUpxiSxOJVVwGMc"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237272,
+      "name": "Blue and Black",
+      "url": "https://open.spotify.com/track/0j698mHYfXHnPGfUE9QUpj"
+    },
+    {
+      "album": {
         "name": "Blood Bunny",
         "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
@@ -1602,6 +1620,24 @@
       "duration_ms": 238495,
       "name": "Dusty Boots",
       "url": "https://open.spotify.com/track/2Bihu3SURmuhoprSSbAlDA"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/5I4LZFluxbY46PVBEMEv6D"
+      },
+      "artists": [
+        {
+          "name": "Ricky Manning",
+          "url": "https://open.spotify.com/artist/6vNoWRiABhJa3DNEi9DddS"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183348,
+      "name": "DYE",
+      "url": "https://open.spotify.com/track/3w0EWHmOjRQRx09lWjOd0j"
     },
     {
       "album": {
@@ -4163,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Jeans, Boys & Jesus",
+        "url": "https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161741,
+      "name": "Off The Market",
+      "url": "https://open.spotify.com/track/7tr6pn8ZyErey14TDcvz7A"
+    },
+    {
+      "album": {
         "name": "Oh The Things Men Do",
         "url": "https://open.spotify.com/album/3moEbC72XlsWUtoVd0q6KF"
       },
@@ -6138,6 +6192,24 @@
       "duration_ms": 185826,
       "name": "Up",
       "url": "https://open.spotify.com/track/3Te82fmptIksFvtNyYnNmw"
+    },
+    {
+      "album": {
+        "name": "Jeans, Boys & Jesus",
+        "url": "https://open.spotify.com/album/3iDik3yiqMNZPkR1pzdekG"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2026-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151746,
+      "name": "Used To Pray",
+      "url": "https://open.spotify.com/track/6lfLRfYCSSKZZk4KLnziT4"
     },
     {
       "album": {

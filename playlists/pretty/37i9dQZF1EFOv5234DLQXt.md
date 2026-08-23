@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 114 | [Convoy \- Cover](https://open.spotify.com/track/3QtXvlNoMqRzzqNlTcBkCp) | [Malabares](https://open.spotify.com/artist/73IbUkj1P6fbxKRWWZdtRe) | [Esperando Algún Domingo Que Nos Calme](https://open.spotify.com/album/1R1dFPRpIex99KTp1DRoTr) | 2:53 |
 | 115 | [Toma la Ruta](https://open.spotify.com/track/7zdJCzMxeQotCBI2HkB0PP) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 5:05 |
 | 116 | [Lo Que Sangra \(La Cupula\) \[Made Popular By Soda Stereo\] \[Karaoke Version\]](https://open.spotify.com/track/2lHEeVNLhNvbPrhUfPvkWt) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Rock Hits 2](https://open.spotify.com/album/3CzO83NnQvH7AdBrJQ3pue) | 4:30 |
-| 117 | [Camaleon \(Made Popular By Soda Stereo\) \[Karaoke Version\]](https://open.spotify.com/track/768Pi3D4szxbs5cRwADHqR) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Rock Hits 1](https://open.spotify.com/album/04GN3VL8wlFoUHD5MRmdLD) | 4:25 |
-| 118 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
+| 117 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
+| 118 | [Camaleon \(Made Popular By Soda Stereo\) \[Karaoke Version\]](https://open.spotify.com/track/768Pi3D4szxbs5cRwADHqR) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Rock Hits 1](https://open.spotify.com/album/04GN3VL8wlFoUHD5MRmdLD) | 4:25 |
 | 119 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 
-Snapshot ID: `AcaM2AAAAADfnoFKdetD2LxHCFZFp5I7`
+Snapshot ID: `AcaSbgAAAAA07ud1m0DicbyVu1OxxPBu`

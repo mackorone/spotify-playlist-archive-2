@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from Manana, Cleo Sol, Victony, Jorja Smith and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,381 likes - 86 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,405 likes - 86 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 18 | [Veliry \- Radio Edit](https://open.spotify.com/track/6PgLJySwtWKaUadvf9lIkG) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [Veliry](https://open.spotify.com/album/6H766eSR6U25swHaZ0TJUS) | 3:00 |
 | 19 | [Ash Wagandha](https://open.spotify.com/track/1iOzphEGu8H7r2Glb1qbzY) | [Don Edward](https://open.spotify.com/artist/0aCy51jGSGf6y3xPNyE9fV), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [Ez Maestro](https://open.spotify.com/artist/3IMFYyZbvXrXDCRdrajyT2) | [Ash Wagandha](https://open.spotify.com/album/2paqvE3phIfPM3IBtf5SNU) | 5:55 |
 | 20 | [TABA TXAKA \(feat\. Makhadzi Entertainment\)](https://open.spotify.com/track/26qF7ElJ0T1A2hjaQOJTgc) | [Dj NTK](https://open.spotify.com/artist/1qxh0NIOoCwwgXLzkOvjxu), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k), [DJ Janisto](https://open.spotify.com/artist/49pDCx2fEbFhIhVwE37KZW), [Percy Five](https://open.spotify.com/artist/35zBYFuVUqrXGs6tIeAmMd), [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma) | [The Landlord](https://open.spotify.com/album/5hOtbiQwJWDl9FwqA4KX4W) | 4:40 |
-| 21 | [BEKEFUNA NGIMLANDELE \(feat\. Lokzin Keys & Passion Redd\)](https://open.spotify.com/track/1y4OD3GQtpAJKy8CiCpc22) | [Pushkin RSA](https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7), [Major Artic](https://open.spotify.com/artist/7tx1qNABXnSNEn64n0RyRB), [Lokzin Keys](https://open.spotify.com/artist/7hzDOwBjgdFxqhn7zh3aDc), [Passion Redd](https://open.spotify.com/artist/60p4W92rCQBJG3Fmq23sNM) | [BEKEFUNA NGIMLANDELE \(feat\. Lokzin Keys & Passion Redd\)](https://open.spotify.com/album/4XG7xf4j9PgxyS7UXY6g1f) | 6:04 |
+| 21 | [BEKEFUNA NGIMLANDELE \(feat\. Lokzin Keys & Passion Redd\)](https://open.spotify.com/track/1y4OD3GQtpAJKy8CiCpc22) | [Pushkin RSA](https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7), [Major Arctic 09](https://open.spotify.com/artist/5y5zhsfZc5G6gsif7pD67y), [Lokzin Keys](https://open.spotify.com/artist/7hzDOwBjgdFxqhn7zh3aDc), [Passion Redd](https://open.spotify.com/artist/60p4W92rCQBJG3Fmq23sNM) | [BEKEFUNA NGIMLANDELE \(feat\. Lokzin Keys & Passion Redd\)](https://open.spotify.com/album/4XG7xf4j9PgxyS7UXY6g1f) | 6:04 |
 | 22 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 |
 | 23 | [GONE FISHING](https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:04 |
 | 24 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |

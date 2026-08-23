@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 809446,
+  "num_followers": 809547,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0vl2mVJcPazbmvOdmP1kYH"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 300106,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0vl2mVJcPazbmvOdmP1kYH"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Nacimiento Y Recuerdos",
-        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/7hsC2wLaYgeKabMr6JGRzE"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Otra Nota",
         "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 296720,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/7hsC2wLaYgeKabMr6JGRzE"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Con Amor Se Gana",
-        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
-      },
-      "artists": [
-        {
-          "name": "Frankie Negr\u00f3n",
-          "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Hoy Me He Vuelto a Enamorar",
-      "url": "https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 257920,
       "name": "Magdalena, Mi Amor (Quimbara)",
       "url": "https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Con Amor Se Gana",
+        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
+      },
+      "artists": [
+        {
+          "name": "Frankie Negr\u00f3n",
+          "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Hoy Me He Vuelto a Enamorar",
+      "url": "https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
-      },
-      "artists": [
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
-        }
-      ],
-      "duration_ms": 372133,
-      "name": "Eres La Unica",
-      "url": "https://open.spotify.com/track/07YmP86ySInF4VLZnAOESp"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "30th Anniversary",
         "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 261146,
       "name": "Ojos Chinos",
       "url": "https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 372133,
+      "name": "Eres La Unica",
+      "url": "https://open.spotify.com/track/07YmP86ySInF4VLZnAOESp"
     },
     {
       "added_at": "2024-07-12 19:20:44",

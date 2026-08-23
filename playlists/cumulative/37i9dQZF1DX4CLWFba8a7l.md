@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: daine
 
-724 songs - 1 day 16 hr 25 min
+725 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 | 2025-06-26 | 2025-07-25 |
 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 | 2025-06-26 | 2026-03-30 |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-02-20 | 2025-04-25 |
-| [Movies](https://open.spotify.com/track/7vr7D1ISmDeTh4Zc1sZXDJ) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [soft pop](https://open.spotify.com/album/6sWOHghBqLrokOitAiYpcW) | 2:58 | 2026-07-23 |  |
+| [Movies](https://open.spotify.com/track/7vr7D1ISmDeTh4Zc1sZXDJ) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [soft pop](https://open.spotify.com/album/6sWOHghBqLrokOitAiYpcW) | 2:58 | 2026-07-23 | 2026-08-23 |
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2024-05-31 | 2024-11-02 |
 | [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes A Girl](https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ) | 4:08 | 2025-12-04 | 2026-03-30 |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-31 |  |
@@ -479,7 +479,7 @@
 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 | 2025-12-04 | 2026-05-20 |
 | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/track/0psw6oHJ5Y9eW04Hjp7PsM) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/album/7lVqRATuTl5kcK7VDHHnbI) | 2:55 | 2025-05-29 | 2025-06-06 |
 | [Padam Padam](https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5) | 2:46 | 2024-05-31 | 2025-01-24 |
-| [Paradise](https://open.spotify.com/track/61ekTX6pGkKKvcvPRqzHre) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Paradise](https://open.spotify.com/album/4nOsWyFYDoLDRiiw2osaKL) | 3:14 | 2026-08-14 | 2026-08-21 |
+| [Paradise](https://open.spotify.com/track/61ekTX6pGkKKvcvPRqzHre) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Paradise](https://open.spotify.com/album/4nOsWyFYDoLDRiiw2osaKL) | 3:14 | 2026-08-14 |  |
 | [Parallel Desire](https://open.spotify.com/track/6WMEkLBTvj1nFWO62YtW8B) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Parallel Desire](https://open.spotify.com/album/18s8juzVIHkxMQ48wgwHG0) | 2:40 | 2025-09-25 | 2025-10-03 |
 | [Parched](https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Parched](https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN) | 3:55 | 2024-11-21 | 2025-04-12 |
 | [Passionfruit](https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Happiness In A Place It Shouldn't Be](https://open.spotify.com/album/7bB8437Z2UvT6SSMFBWez2) | 2:49 | 2024-09-26 | 2025-05-09 |
@@ -539,6 +539,7 @@
 | [Santa Monica](https://open.spotify.com/track/5XMKcvFZ2UI1DinRNKX3N4) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS) | [Santa Monica](https://open.spotify.com/album/0YNrPeyxTrSLinHG0E4xPU) | 2:52 | 2025-09-01 | 2025-09-05 |
 | [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 | 2025-05-22 | 2025-09-02 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2024-05-31 | 2025-04-04 |
+| [Say Something](https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Say Something](https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i) | 3:48 | 2026-08-20 |  |
 | [Scary Movies](https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Scary Movies](https://open.spotify.com/album/5UItYWGjmw86QPdAKdAWur) | 3:15 | 2024-05-31 | 2024-08-31 |
 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 | 2025-06-05 | 2025-06-13 |
 | [Scumbag](https://open.spotify.com/track/0GpMgcNFWydvjsd0bXSEDu) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Everything Every Single Day](https://open.spotify.com/album/26InhFNchJBbPbVcd8Dxqb) | 3:53 | 2025-10-02 | 2026-05-01 |
@@ -720,7 +721,7 @@
 | [Wreck & Ruin](https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Rebuild Repeat](https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox) | 2:25 | 2024-06-13 | 2025-03-05 |
 | [XTC](https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [XTC](https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj) | 2:42 | 2025-10-02 | 2025-11-01 |
 | [XTC](https://open.spotify.com/track/5LPJ9swDvm6EKh8cW52I4A) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Melomaniac 003](https://open.spotify.com/album/5EzpGctzHsFSKTRUU1bvOD) | 2:37 | 2025-11-28 | 2025-12-05 |
-| [Ya Mind](https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9), [Harry Bee](https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i) | [Ya Mind](https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5) | 3:12 | 2026-05-28 |  |
+| [Ya Mind](https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9), [Harry Bee](https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i) | [Ya Mind](https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5) | 3:12 | 2026-05-28 | 2026-08-23 |
 | [Yes, Man](https://open.spotify.com/track/1DyR1urVZMo5DeGdCI9dqS) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Catch and Release](https://open.spotify.com/album/3wawyCj5SI0X8CLZkVorKW) | 2:51 | 2026-04-23 | 2026-05-01 |
 | [YOLŊU FEVER](https://open.spotify.com/track/20jqPNNcHCyU7eY08OP4Qr) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [DJANDJAY \(Deluxe\)](https://open.spotify.com/album/6buGvUce2iGzCEuBmRtLPf) | 2:59 | 2026-08-20 |  |
 | [You Were There](https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Whenever I Go](https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R) | 2:50 | 2026-02-12 | 2026-02-20 |

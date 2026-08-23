@@ -2297,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "THE SIN : BLISS",
+        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Bloody Paradise",
+      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
+    },
+    {
+      "album": {
         "name": "Blow",
         "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
       },
@@ -14286,7 +14304,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 186086,
       "name": "Show Starts Now",
       "url": "https://open.spotify.com/track/38wC3l1TdRF8ApuItxTnQ3"

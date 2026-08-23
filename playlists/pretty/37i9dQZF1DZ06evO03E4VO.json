@@ -1,13 +1,29 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4755,
+  "num_followers": 4754,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAC2J4m3gKEdhDga8I3CQD3L",
+  "snapshot_id": "aoeVAAAAAABRbPJRQO0UBRm11aWblHR2",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/0jTuYgwRJFEIt1Lj5DgZhj"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 196516,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/13WG9SybiasncepUp5U3JP"
+    },
     {
       "added_at": null,
       "album": {
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 152851,
-      "name": "no importa",
-      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "starz",
         "url": "https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 209800,
       "name": "starz",
       "url": "https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 152851,
+      "name": "no importa",
+      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
     },
     {
       "added_at": null,
@@ -427,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "make it rain",
+      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "wish you were here",
         "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
       },
@@ -455,22 +487,6 @@
       "duration_ms": 185681,
       "name": "un ni\u00f1o",
       "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "make it rain",
-      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
     },
     {
       "added_at": null,
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
+        "name": "wishlist",
+        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
     },
     {
       "added_at": null,
@@ -619,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
       },
       "artists": [
         {
@@ -628,25 +644,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 203093,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "malos h\u00e1bitos",
-        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "me conquistaste",
-      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
       "duration_ms": 203627,
       "name": "voicenote",
       "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "malos h\u00e1bitos",
+        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "me conquistaste",
+      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
     },
     {
       "added_at": null,

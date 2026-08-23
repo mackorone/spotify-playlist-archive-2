@@ -1,12 +1,12 @@
 {
   "description": "This is Cleo Sol. The essential tracks, all in one playlist.",
-  "num_followers": 45017,
+  "num_followers": 45059,
   "original_name": "This Is Cleo Sol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAB/ideWw7ErDv/8d16U4FkG",
+  "snapshot_id": "aoeVAAAAAAAR3VIxu0AoeRsHzNs4Z77M",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5xR9FOtRm2rjCQg3X8DYEc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rose in the Dark",
         "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 264710,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing Is Impossible With You",
-        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "Nothing Is Impossible With You",
-      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
     },
     {
       "added_at": null,
@@ -319,6 +319,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nothing Is Impossible With You",
+        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "Nothing Is Impossible With You",
+      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Force of Love",
+      "url": "https://open.spotify.com/track/0eTuYIcKA7pqvTCkEeOxaK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -331,6 +363,22 @@
       "duration_ms": 306186,
       "name": "23",
       "url": "https://open.spotify.com/track/1JVEM4C04VPAU9JTnKthNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 248837,
+      "name": "In Your Own Home",
+      "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
     },
     {
       "added_at": null,
@@ -360,25 +408,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 240466,
-      "name": "Gentlewoman",
-      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 248837,
-      "name": "In Your Own Home",
-      "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
+      "duration_ms": 257280,
+      "name": "Sentimental Love",
+      "url": "https://open.spotify.com/track/3LKqrPI3rAv2fGJOIMHIws"
     },
     {
       "added_at": null,
@@ -395,6 +427,22 @@
       "duration_ms": 207239,
       "name": "Golden Child (Jealous)",
       "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 279217,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1cwQahQmKdmKaCijjdNEv3"
     },
     {
       "added_at": null,
@@ -424,15 +472,15 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 188280,
-      "name": "I Only Look to You",
-      "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
+      "duration_ms": 220986,
+      "name": "Let Me Cry",
+      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
       "artists": [
         {
@@ -440,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 279217,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1cwQahQmKdmKaCijjdNEv3"
+      "duration_ms": 201017,
+      "name": "Miss Romantic",
+      "url": "https://open.spotify.com/track/71pFw48rIGZRAMbtWbA2XJ"
     },
     {
       "added_at": null,
@@ -467,38 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 201017,
-      "name": "Miss Romantic",
-      "url": "https://open.spotify.com/track/71pFw48rIGZRAMbtWbA2XJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/5xR9FOtRm2rjCQg3X8DYEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -511,38 +527,6 @@
       "duration_ms": 370213,
       "name": "Music",
       "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winter Songs",
-        "url": "https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 259461,
-      "name": "Still Cold",
-      "url": "https://open.spotify.com/track/0UgrFnBm4ZcWjCQj5g3Qal"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 162767,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
     },
     {
       "added_at": null,
@@ -563,6 +547,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winter Songs",
+        "url": "https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 259461,
+      "name": "Still Cold",
+      "url": "https://open.spotify.com/track/0UgrFnBm4ZcWjCQj5g3Qal"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Try and You Try",
         "url": "https://open.spotify.com/album/6j2kbJ5izF0jN0z5fVOWKY"
       },
@@ -579,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Songs",
-        "url": "https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq"
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
       },
       "artists": [
         {
@@ -588,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 333077,
-      "name": "Miles Song",
-      "url": "https://open.spotify.com/track/7eJuAwgcLzhGy1aXwrS5ID"
+      "duration_ms": 168146,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/682G0INywuW08FQ8jpnPCU"
     },
     {
       "added_at": null,
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+        "name": "Winter Songs",
+        "url": "https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 257280,
-      "name": "Sentimental Love",
-      "url": "https://open.spotify.com/track/3LKqrPI3rAv2fGJOIMHIws"
+      "duration_ms": 333077,
+      "name": "Miles Song",
+      "url": "https://open.spotify.com/track/7eJuAwgcLzhGy1aXwrS5ID"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
       "duration_ms": 273774,
       "name": "One",
       "url": "https://open.spotify.com/track/1BMlDJRb0MtjhliYhlofhw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Force of Love",
-      "url": "https://open.spotify.com/track/0eTuYIcKA7pqvTCkEeOxaK"
     }
   ],
   "unique_name": "This Is Cleo Sol",

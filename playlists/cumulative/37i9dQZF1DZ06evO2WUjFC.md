@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-171 songs - 9 hr 23 min
+172 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [MIENTRAS VIVA \- En Vivo](https://open.spotify.com/track/3K50Dqm0LzWQZKhpr4BovV) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Kortez De Sinaloa](https://open.spotify.com/artist/7EvFqmaY1UeFqI9ZM03HST) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 2:46 | 2025-03-05 | 2025-04-06 |
 | [MORENITA DE OJOS NEGROS \- En Vivo](https://open.spotify.com/track/2PaUAO8aWudhEgmRgbWkMd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Allegados](https://open.spotify.com/artist/7MZBmhd6drb9VL0CLRntt8) | [MORENITA DE OJOS NEGROS \(En Vivo\)](https://open.spotify.com/album/0iBtSzfx0uSe7FUlFEAvfM) | 3:50 | 2025-02-23 | 2025-04-22 |
 | [Morritas \- En Vivo](https://open.spotify.com/track/4FBCqhGaioQzi8MC8Z8IWa) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 3:39 | 2025-01-12 |  |
-| [Mujer Mujer \(Live\)](https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:18 | 2024-01-29 |  |
+| [Mujer Mujer \(Live\)](https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:18 | 2024-01-29 | 2026-08-23 |
 | [Nave 727 \- En Vivo](https://open.spotify.com/track/5Zk59MAZxwbf6oMulM8P0k) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [No Hay Pedo, Hay Peda \(En Vivo\)](https://open.spotify.com/album/5jaNQ9eqs1mTJwOsEunLY5) | 3:50 | 2024-01-29 | 2025-01-16 |
 | [NO LLORES MÁS](https://open.spotify.com/track/0WBFkBlu7H0l3s7qgEIMqd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [NO LLORES MÁS](https://open.spotify.com/album/3vXhGGDTFI8BXhAzJLV6qU) | 3:15 | 2024-05-05 | 2024-08-25 |
 | [NO LLORES MÁS](https://open.spotify.com/track/3QROwoRzAm4MP58syg12Zk) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:15 | 2024-10-23 | 2025-07-31 |
@@ -170,6 +170,7 @@
 | [Velas Encendidas](https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23) | [Gerencia AGC](https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jul Diez](https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5) | [Velas Encendidas](https://open.spotify.com/album/49E2apylgdz013orZ7Og0o) | 3:10 | 2026-01-25 | 2026-07-12 |
 | [VENGO A VER UNOS OJOS \- En Vivo](https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:38 | 2025-10-30 |  |
 | [VENGO A VER UNOS OJOS \- En Vivo](https://open.spotify.com/track/6i7VnbQMZh8PceE6pxb3xo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/0NzRPrgHKt6Av8Pap9H5hW) | 3:38 | 2025-03-06 | 2025-03-10 |
+| [VIDA VIVIDA](https://open.spotify.com/track/7u1o2hMzdGaH5Quj4eQsYf) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [VIDA VIVIDA](https://open.spotify.com/album/0d14JLjRXYMyhQZmohnKAH) | 3:52 | 2026-08-23 |  |
 | [Volar Contigo](https://open.spotify.com/track/0zieToB8rxTmoIya3OArDI) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Musica Romantica](https://open.spotify.com/album/6mJe3rqxZVaYauD5NxYAki) | 1:51 | 2024-03-04 | 2024-03-11 |
 | [Vuelve](https://open.spotify.com/track/40n0B9pwCkW8QeD7RflSjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 3:09 | 2024-01-29 | 2025-07-12 |
 | [Y SI YA ESTÁS CON OTRO](https://open.spotify.com/track/0R7NoLfi7HQ8sveb5ucmVi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 3:13 | 2025-12-23 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel-good tunes for your cinco de drinko. \u00a1Salud!",
-  "num_followers": 44434,
+  "num_followers": 44450,
   "original_name": "Cinco de Mayo",
   "owner": {
     "name": "Spotify",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2026-05-04 17:00:12",
       "album": {
+        "name": "Monterrey",
+        "url": "https://open.spotify.com/album/5e62RmU6dB91wQA6TWrIyL"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Pain Digital",
+          "url": "https://open.spotify.com/artist/3ROBnT2BmT0WBbwJCOxtRD"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Monterrey",
+      "url": "https://open.spotify.com/track/6y6xATSjOC2EpMTJh51R4v"
+    },
+    {
+      "added_at": "2026-05-04 17:00:12",
+      "album": {
         "name": "Libertad 548",
         "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 227920,
       "name": "Cinco De Mayo",
       "url": "https://open.spotify.com/track/3h4XzxkbhXPaQ2OYLBuLFB"
-    },
-    {
-      "added_at": "2026-05-04 17:00:12",
-      "album": {
-        "name": "Monterrey",
-        "url": "https://open.spotify.com/album/5e62RmU6dB91wQA6TWrIyL"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Pain Digital",
-          "url": "https://open.spotify.com/artist/3ROBnT2BmT0WBbwJCOxtRD"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Monterrey",
-      "url": "https://open.spotify.com/track/6y6xATSjOC2EpMTJh51R4v"
     },
     {
       "added_at": "2026-05-04 17:00:12",

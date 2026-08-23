@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,917 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,920 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 35 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:28 |
 | 36 | [Red Lights \(feat\. Wale\)](https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:39 |
 | 37 | [You Don't Know \(feat\. Wale\)](https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:05 |
-| 38 | [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/track/7miRYKcr0lYSb0zCRVKc5d) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J'TA](https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct) | [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/album/04IK5ajZvrJ2oAt9VqBLSX) | 3:37 |
-| 39 | [MY PYT](https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:56 |
-| 40 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 |
+| 38 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 |
+| 39 | [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/track/7miRYKcr0lYSb0zCRVKc5d) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J'TA](https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct) | [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/album/04IK5ajZvrJ2oAt9VqBLSX) | 3:37 |
+| 40 | [MY PYT](https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:56 |
 | 41 | [100 Miles and Running \(ft\. Wale & John Lindahl\)](https://open.spotify.com/track/4CstQ0SUkl0YkoeZkIZlIx) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [John Lindahl](https://open.spotify.com/artist/2ei3ToTz5SL3pVp17X0Vkd) | [YSIV](https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9) | 5:53 |
 | 42 | [On My Mind](https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:56 |
 | 43 | [Sue Me \(feat\. Kelly Price\)](https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 49 | [The Girls on Drugs](https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:09 |
 | 50 | [Feel the Love \(feat\. Wale\)](https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 3:56 |
 
-Snapshot ID: `aoZDgAAAAABYwpZVEqHsrB5p/OaiBZkT`
+Snapshot ID: `aoeVAAAAAACBGFXhNUoueNjMPQOzlaQs`

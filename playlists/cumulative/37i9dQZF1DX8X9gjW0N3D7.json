@@ -8352,7 +8352,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 156079,
       "name": "Revenir",
       "url": "https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl"
@@ -8908,6 +8908,28 @@
       "duration_ms": 177253,
       "name": "Si je rampe",
       "url": "https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn"
+    },
+    {
+      "album": {
+        "name": "Si les bateaux",
+        "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gilles Vigneault",
+          "url": "https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Si les bateaux",
+      "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
     },
     {
       "album": {

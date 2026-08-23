@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-767 songs - 1 day 13 hr 21 min
+768 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,6 +765,7 @@
 | [Vou Rezar Pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/1wI7K41GteOHQBFrLNm35w) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7mmkl86XhHDw82Cl39ZCKq) | 2:46 | 2025-03-14 | 2026-02-14 |
 | [Vou Rezar pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/6KFgdd6foa3k8nmZAk3EmZ) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus \(Ao Vivo\)](https://open.spotify.com/album/28UTRNOqAZr7QrowFlqQAA) | 2:46 | 2026-05-29 |  |
 | [Vou Rezar pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/5wWViE8aig0WIegS4blDiv) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/31rFe2XIZTQhjDfNwTMJXR) | 2:48 | 2026-02-06 | 2026-05-09 |
+| [Várias Línguas](https://open.spotify.com/track/4K3xTWJTHoH3CNB8h7Ms3w) | [Cristiano Resende](https://open.spotify.com/artist/0Qfr2VBuNb5rk2DxkHeQEU) | [Ouça e Se Apaixone](https://open.spotify.com/album/6ofMgRyODUmjHz23QTpHwM) | 2:19 | 2026-08-22 |  |
 | [Vô Num Vô](https://open.spotify.com/track/3YQ23xhBbGAG0o4PM27FEX) | [Marcello Teodoro](https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn) | [Vô Num Vô](https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3) | 2:45 | 2024-03-21 |  |
 | [Zap](https://open.spotify.com/track/1p787PB1sNKkN8wpI49jcJ) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:35 | 2023-12-30 |  |
 | [Zero Expectativa \- Ao Vivo](https://open.spotify.com/track/4Ep7iNCzIc57fbFpJFEhmH) | [Alice Ianes](https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5) | [Ao Vivo em Goiânia, Ep\. 1](https://open.spotify.com/album/4IOnCuAqRmFJvfWZH3ZwLO) | 2:53 | 2023-12-30 |  |

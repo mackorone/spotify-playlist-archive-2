@@ -1,6 +1,6 @@
 {
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
-  "num_followers": 669223,
+  "num_followers": 669198,
   "original_name": "The Wind Down",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-08-20 23:00:39",
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 464293,
-      "name": "#3",
-      "url": "https://open.spotify.com/track/3QIpnNYnUMe1lrr5LJTStk"
-    },
-    {
-      "added_at": "2026-08-20 23:00:39",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 216751,
       "name": "Tides",
       "url": "https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM"
+    },
+    {
+      "added_at": "2026-08-20 23:00:39",
+      "album": {
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/3QIpnNYnUMe1lrr5LJTStk"
     },
     {
       "added_at": "2026-08-20 23:00:39",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-08-20 23:00:39",
       "album": {
+        "name": "Entity Stims",
+        "url": "https://open.spotify.com/album/3Tu1JqP06ugWiQCyA8SD2d"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 125983,
+      "name": "Skein",
+      "url": "https://open.spotify.com/track/5eUDvCotRznaXSa5TtOlma"
+    },
+    {
+      "added_at": "2026-08-20 23:00:39",
+      "album": {
         "name": "Shining",
         "url": "https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 203524,
       "name": "+1",
       "url": "https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw"
-    },
-    {
-      "added_at": "2026-08-20 23:00:39",
-      "album": {
-        "name": "[Strings]",
-        "url": "https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 209834,
-      "name": "Sunrays [Strings]",
-      "url": "https://open.spotify.com/track/3dPjBWHW8rgJFFhy5MulzC"
     }
   ],
   "unique_name": "The Wind Down",

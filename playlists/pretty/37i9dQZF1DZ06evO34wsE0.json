@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254210,
+  "num_followers": 254222,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAABwodRL34J0ZGERlTULJlAz",
+  "snapshot_id": "aoeVAAAAAADOAzFOG78efLSI9uS9g53+",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 162665,
       "name": "Giddy Up!",
       "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198331,
-      "name": "Stranger Things",
-      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
     },
     {
       "added_at": null,
@@ -223,22 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party For Two",
-        "url": "https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo"
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Party For Two - Country Version With Intro",
-      "url": "https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s"
+      "duration_ms": 198331,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
     },
     {
       "added_at": null,
@@ -275,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Party For Two",
+        "url": "https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Party For Two - Country Version With Intro",
+      "url": "https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up! (Green Version)",
         "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 172906,
       "name": "Up!",
       "url": "https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218712,
+      "name": "That Don't Impress Me Much - Edit",
+      "url": "https://open.spotify.com/track/1wneerMXqozDjikFAKSUlw"
     },
     {
       "added_at": null,
@@ -311,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "That Don't Impress Me Much - Edit",
-      "url": "https://open.spotify.com/track/1wneerMXqozDjikFAKSUlw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 270026,
       "name": "(If You're Not In It For Love) I'm Outta Here!",
       "url": "https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 246826,
-      "name": "When You Kiss Me",
-      "url": "https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "When You Kiss Me",
+      "url": "https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shania Twain",
         "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
       },
@@ -431,54 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Ka-Ching!",
-      "url": "https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Quit My Life",
-      "url": "https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shania Twain",
-        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "What Made You Say That - Single Version",
-      "url": "https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets: Friends & Legends",
         "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
@@ -499,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
       },
       "artists": [
         {
@@ -508,9 +460,25 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 289573,
-      "name": "The Woman In Me (Needs The Man In You)",
-      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
+      "duration_ms": 200466,
+      "name": "Ka-Ching!",
+      "url": "https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shania Twain",
+        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "What Made You Say That - Single Version",
+      "url": "https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4"
     },
     {
       "added_at": null,
@@ -524,9 +492,25 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 179708,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/6CgLkhdNGckET8eJxLVRQ3"
+      "duration_ms": 166413,
+      "name": "Quit My Life",
+      "url": "https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "The Woman In Me (Needs The Man In You)",
+      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
     },
     {
       "added_at": null,
@@ -568,26 +552,6 @@
       "added_at": null,
       "album": {
         "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 255883,
-      "name": "Little Miss Twain (feat. Tanya Tucker)",
-      "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Miss Twain",
         "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
       },
       "artists": [
@@ -596,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 235284,
-      "name": "Northern Town",
-      "url": "https://open.spotify.com/track/1A8VErbB8Az7sEIh1SoySU"
+      "duration_ms": 179708,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/6CgLkhdNGckET8eJxLVRQ3"
     },
     {
       "added_at": null,
@@ -623,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 255883,
+      "name": "Little Miss Twain (feat. Tanya Tucker)",
+      "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up! (Green Version)",
         "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 235284,
+      "name": "Northern Town",
+      "url": "https://open.spotify.com/track/1A8VErbB8Az7sEIh1SoySU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 248866,
       "name": "Nah! - Red Version",
       "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 190349,
-      "name": "Scary Little Thing",
-      "url": "https://open.spotify.com/track/4g8Gqzb6Oh3Zpa4h3aFB0f"
     },
     {
       "added_at": null,
@@ -703,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "In My Car (I'll Be The Driver) - Red Version",
-      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Miss Twain",
         "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
       },
@@ -728,41 +696,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 200367,
-      "name": "I'd Be Loving Me",
-      "url": "https://open.spotify.com/track/6liXi6cJZMRp9CC8dpUQCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Black Eyes, Blue Tears",
-      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dirty Rosie",
-        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 166792,
-      "name": "Dirty Rosie",
-      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
+      "duration_ms": 190349,
+      "name": "Scary Little Thing",
+      "url": "https://open.spotify.com/track/4g8Gqzb6Oh3Zpa4h3aFB0f"
     },
     {
       "added_at": null,
@@ -783,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
@@ -792,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 195818,
-      "name": "Down The Middle",
-      "url": "https://open.spotify.com/track/4Qso9aF5ZPpMOP9FKoBTEU"
+      "duration_ms": 219693,
+      "name": "Black Eyes, Blue Tears",
+      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
     },
     {
       "added_at": null,
@@ -811,6 +747,54 @@
       "duration_ms": 238560,
       "name": "Don't! - Greatest Hits Version",
       "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 236462,
+      "name": "That's The Money",
+      "url": "https://open.spotify.com/track/0fQywf9DypbCkHGXuiWCEu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 196720,
+      "name": "In My Car (I'll Be The Driver) - Red Version",
+      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 200813,
       "name": "Forever And Ever, Amen",
       "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up! (Red and Blue Versions)",
+        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "It Only Hurts When I'm Breathing - Red Version",
+      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
     }
   ],
   "unique_name": "This Is Shania Twain",

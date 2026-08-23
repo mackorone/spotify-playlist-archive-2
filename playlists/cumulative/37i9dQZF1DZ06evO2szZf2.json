@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 148680,
       "name": "Llorando x 1",
       "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
@@ -4512,6 +4512,28 @@
       "duration_ms": 126511,
       "name": "Vagabunda do Caralho",
       "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
+    },
+    {
+      "album": {
+        "name": "Vai Lembrar Apaixonada",
+        "url": "https://open.spotify.com/album/1udqLiIS4VBe3PIeLudjbt"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149307,
+      "name": "Vai Lembrar Apaixonada",
+      "url": "https://open.spotify.com/track/08wxVR4v5ODZIkQh69a3w2"
     },
     {
       "album": {

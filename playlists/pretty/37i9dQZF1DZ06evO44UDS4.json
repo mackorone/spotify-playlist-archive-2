@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 178460,
+  "num_followers": 178548,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAAt2B3V9lEXMyyPm58j4Bl8",
+  "snapshot_id": "aoeVAAAAAAAv9woTJzk1ub44SIzZUmU4",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 120194,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/70Hi6JJq98794TMe1IeIAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 94857,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 120194,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/70Hi6JJq98794TMe1IeIAH"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All You Ever Wanted",
-        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 119934,
-      "name": "All You Ever Wanted",
-      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 193986,
       "name": "Every Type of Friend",
       "url": "https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All You Ever Wanted",
+        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 119934,
+      "name": "All You Ever Wanted",
+      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/4X6lXwC3CnCcbQPtoFlIrF"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 163195,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/4OLI1dUkU9GFHm3IUgChaf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ULTRAMAN (From The Netflix Film \"Ultraman: Rising\")",
         "url": "https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 204000,
       "name": "ULTRAMAN - From The Netflix Film \"Ultraman: Rising\"",
       "url": "https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/4X6lXwC3CnCcbQPtoFlIrF"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 163195,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/4OLI1dUkU9GFHm3IUgChaf"
     },
     {
       "added_at": null,

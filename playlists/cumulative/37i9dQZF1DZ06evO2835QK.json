@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 240466,
       "name": "Gentlewoman",
       "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 188280,
       "name": "I Only Look to You",
       "url": "https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC"
@@ -272,6 +272,24 @@
       "duration_ms": 202440,
       "name": "Know That You Are Loved",
       "url": "https://open.spotify.com/track/174yp4XX5F3HGX82Lj2JBB"
+    },
+    {
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220986,
+      "name": "Let Me Cry",
+      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
     },
     {
       "album": {
@@ -636,6 +654,24 @@
       "duration_ms": 209560,
       "name": "Things Will Get Better",
       "url": "https://open.spotify.com/track/72p6EgDYckzaHhqx9Sbxmz"
+    },
+    {
+      "album": {
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168146,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/682G0INywuW08FQ8jpnPCU"
     },
     {
       "album": {

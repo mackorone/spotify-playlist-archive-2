@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 131820,
+  "num_followers": 131817,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAAAoK6fB5di9iuR9ZS2jZEAq",
+  "snapshot_id": "aoeVAAAAAADVruD0RgDW9FdN9oexiLSx",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meu Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 310183,
+      "name": "Meu Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maranata (Vem Emanuel) (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
@@ -847,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Viver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
       },
       "artists": [
         {
@@ -856,9 +872,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 310183,
-      "name": "Meu Viver - Ao Vivo",
-      "url": "https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz"
+      "duration_ms": 248407,
+      "name": "Apaixonado Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
       "duration_ms": 300672,
       "name": "Porque Creio em Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "Apaixonado Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,331 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,330 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 38 | [ยังไม่รู้ \(I Don't Know\)](https://open.spotify.com/track/2OQQPlUlrSKu2nOPMwTS2c) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:46 |
 | 39 | [ข่าวดี](https://open.spotify.com/track/0ZfxuArCbDRjJbEPI93ao2) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [Pillow War](https://open.spotify.com/album/6sYl8jS1YLFwKoYCxvsgmP) | 3:47 |
 | 40 | [กันและกัน \(Us\)](https://open.spotify.com/track/4Cz21VKsqHnAt20Z1eQwhM) | [Moderndog](https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj) | [แดดส่อง](https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B) | 4:42 |
-| 41 | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/track/2N3yIGC0Lpv5kPAchqBeSa) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/album/5CdkLPijMS29YG9gfHSIZm) | 4:15 |
-| 42 | [ใครบางคนจากบนฟ้า](https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Tales](https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t) | 3:49 |
+| 41 | [ใครบางคนจากบนฟ้า](https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Tales](https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t) | 3:49 |
+| 42 | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/track/2N3yIGC0Lpv5kPAchqBeSa) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [อยู่คนเดียว \(Loner\)](https://open.spotify.com/album/5CdkLPijMS29YG9gfHSIZm) | 4:15 |
 | 43 | [ไม่เคยไม่รักเธอ \(Never\)](https://open.spotify.com/track/5dnUVOtziaHI5kAHVUTZQY) | [Better Weather](https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu) | [Better Than Looks](https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06) | 4:51 |
 | 44 | [ผ้าเช็ดหน้า \(Handkerchief\)](https://open.spotify.com/track/16RK1gjfUh7rHyCysMbIsp) | [Triumphs Kingdom](https://open.spotify.com/artist/6uJn2MQOmrIy2NBdFyMdG1) | [Twice TK \(Triumphs Xmas Kingdom\)](https://open.spotify.com/album/15LHBV3LqkBoOGRDabgJ2C) | 4:32 |
 | 45 | [รักเธอ](https://open.spotify.com/track/0vdr1c1Yk5BBfghJbDz2bj) | [TOR Saksit](https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR) | [Living In C Major](https://open.spotify.com/album/6PlzDyEvcDJfFQ4MqUiqvB) | 4:30 |

@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cover: RIA",
-  "num_followers": 820393,
+  "num_followers": 820403,
   "original_name": "Sierre\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
+        "name": "Haciendo Memoria",
+        "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 187034,
+      "name": "Haciendo Memoria",
+      "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -727,6 +747,22 @@
       "duration_ms": 189408,
       "name": "Ya Acabo",
       "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
+        "name": "YA ESTUVO BUENO",
+        "url": "https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 173588,
+      "name": "YA ESTUVO BUENO",
+      "url": "https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -751,42 +787,6 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
-        "name": "YA ESTUVO BUENO",
-        "url": "https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 173588,
-      "name": "YA ESTUVO BUENO",
-      "url": "https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "Haciendo Memoria",
-        "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187034,
-      "name": "Haciendo Memoria",
-      "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
       },
@@ -819,6 +835,22 @@
       "duration_ms": 150413,
       "name": "Recuerda",
       "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
+        "name": "Pasta",
+        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 194858,
+      "name": "Pasta",
+      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -839,38 +871,6 @@
       "duration_ms": 232205,
       "name": "RELOJ",
       "url": "https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "Pasta",
-        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 194858,
-      "name": "Pasta",
-      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 194805,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
-        "name": "Contratiempo",
-        "url": "https://open.spotify.com/album/3zaqt1c22wfob7yr8C3v3N"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 270554,
-      "name": "Como Mirarte",
-      "url": "https://open.spotify.com/track/2VBKSoDeHxjUK5K8i2AG9M"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 160185,
       "name": "Ni Con Patrulla",
       "url": "https://open.spotify.com/track/5KsUOwCSFIKKBsBxyCfgnS"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
+        "name": "Contratiempo",
+        "url": "https://open.spotify.com/album/3zaqt1c22wfob7yr8C3v3N"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 270554,
+      "name": "Como Mirarte",
+      "url": "https://open.spotify.com/track/2VBKSoDeHxjUK5K8i2AG9M"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 153431,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
         "name": "Mi Deber",
         "url": "https://open.spotify.com/album/2ILdDtamjfh4OMDhlRbjwk"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 170232,
       "name": "Mi Deber",
       "url": "https://open.spotify.com/track/5w5VxYwS2G9uffuQjY29XN"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 153431,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
     },
     {
       "added_at": "2026-08-14 07:20:00",

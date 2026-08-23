@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Wolves In the Throne Room
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,387 likes - 200 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,526 likes - 200 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 68 | [Far](https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Far](https://open.spotify.com/album/0ER0N9enALbr72SfW154lP) | 3:28 |
 | 69 | [GOING UNDER \(with Paledusk\)](https://open.spotify.com/track/3M9kF53lihIrXoLUoHkYC6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [GOING UNDER \(with Paledusk\)](https://open.spotify.com/album/54tWIX2hWrWrPkRd8ko6K2) | 3:09 |
 | 70 | [WILL YOU SURVIVE WHEN I DEVOUR YOUR HEARTBEAT](https://open.spotify.com/track/52RgParvYHRA0VZlKcPe7e) | [blacktoothed](https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6) | [WILL YOU SURVIVE WHEN I DEVOUR YOUR HEARTBEAT](https://open.spotify.com/album/4PMWOqivD2rXHWBzGDbJqU) | 3:51 |
-| 71 | [Beware Of The Heartless](https://open.spotify.com/track/5gBr6dUlsDzFkUsS5OKjah) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Beware Of The Heartless](https://open.spotify.com/album/2JDF7clDgIvyKYzkxKcuBf) | 4:21 |
+| 71 | [Beware Of The Heartless](https://open.spotify.com/track/5gBr6dUlsDzFkUsS5OKjah) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Beware Of The Heartless](https://open.spotify.com/album/2JDF7clDgIvyKYzkxKcuBf) | 4:18 |
 | 72 | [Karada](https://open.spotify.com/track/592mCrihKtsZj22vwRoGuU) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Lost Tapes](https://open.spotify.com/album/1GiMwVayYeS3epT4APwIWY) | 3:20 |
 | 73 | [CUT\_it](https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [CUT\_it](https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz) | 3:14 |
 | 74 | [Pound of Flesh](https://open.spotify.com/track/0kEenYd0Ib0smsRnd1Q1wO) | [Saltwound](https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP), [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Pound of Flesh](https://open.spotify.com/album/3lR3FxGCn9u0BQCzSivHfd) | 3:08 |

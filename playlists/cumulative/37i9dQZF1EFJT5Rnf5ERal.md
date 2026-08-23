@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-336 songs - 16 hr 9 min
+338 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Shooters \(feat\. Meek Mill & Doe Boy\)](https://open.spotify.com/track/3Uoy2lrZdhocMWO0jIdjAp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:28 | 2024-06-11 |  |
-| [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 | 2024-06-11 |  |
+| [2 Chains](https://open.spotify.com/track/6O0Qak9cf1bcfMQYbTvrF4) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/0n05EpnZ8QxkDW8zDJ8Lf2) | 4:04 | 2026-08-22 |  |
+| [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 | 2024-06-11 | 2026-08-23 |
 | [38 \(feat\. Pressa\)](https://open.spotify.com/track/5Ai52oUV3qH4mY2HzoZSwq) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Buy or Bye 2](https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF) | 2:37 | 2024-06-11 |  |
 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-01-29 |  |
 | [About Us](https://open.spotify.com/track/1PqkIRQVDy7D0APmhieM0u) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:36 | 2025-05-26 |  |
@@ -243,7 +244,8 @@
 | [Rap Check](https://open.spotify.com/track/6yvr47cP8j81sfMkEymL6b) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:54 | 2024-06-11 |  |
 | [Real Rich \(feat\. Gucci Mane\)](https://open.spotify.com/track/5t8djD6oZcfAyqF4cTQfFb) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 2:04 | 2024-06-11 |  |
 | [Real Trap](https://open.spotify.com/track/3yBpubzW5iquSgWt8Nt0BQ) | [Boston George](https://open.spotify.com/artist/7gten3sDCiuil5aBzq9Rej), [Diego](https://open.spotify.com/artist/6JMZQemAU6yRUWVc9e3gHo) | [Boston George & Diego](https://open.spotify.com/album/1bApVxEdfGoql7ExpWtdJW) | 3:00 | 2024-06-11 |  |
-| [Really Like That](https://open.spotify.com/track/2pMh6LepGJVOqsWYOHD1Ut) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 2:49 | 2024-06-11 |  |
+| [Really Like That](https://open.spotify.com/track/2pMh6LepGJVOqsWYOHD1Ut) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 2:49 | 2024-06-11 | 2026-08-23 |
+| [Really Like That](https://open.spotify.com/track/33eXJaZ2UBWEeVWd1mZHgC) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/0n05EpnZ8QxkDW8zDJ8Lf2) | 2:54 | 2026-08-22 |  |
 | [Recession Proof \- Bonus](https://open.spotify.com/track/4Lc321KT6dsd2rio7ysntE) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 3:31 | 2024-06-11 |  |
 | [Red Flag](https://open.spotify.com/track/4Ht6ZSdTuOS5wE1DCTq0rp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [So Icy Boyz: The Finale](https://open.spotify.com/album/5Rb7JdsT1IEITEMgUqcWq2) | 3:27 | 2024-06-11 |  |
 | [Request Refused](https://open.spotify.com/track/5msTV0CyhgjT6YcXOW1RWr) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [East Memphis Maniac](https://open.spotify.com/album/5OEoU8caLGSPsLPGomY3PH) | 2:30 | 2024-06-11 |  |

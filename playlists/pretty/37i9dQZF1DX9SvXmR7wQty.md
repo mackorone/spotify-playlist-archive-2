@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Sara Dufour, Francis Degranpré, Rymz, Claudia Bouvette, P'tit Belliveau, kinji00, bombe, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,178 likes - 98 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,176 likes - 98 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

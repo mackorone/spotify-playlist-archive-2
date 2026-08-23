@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,568 likes - 108 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,629 likes - 108 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Rymz",
-  "num_followers": 89633,
+  "num_followers": 89627,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/0DZKF3Lv2pSWXi7lVZi6II"
-      },
-      "artists": [
-        {
-          "name": "Zinera",
-          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
-        }
-      ],
-      "duration_ms": 201696,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/2YcbZbVDVFzf1puWGFOlqU"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
         "name": "La Belle \u00c9poque",
         "url": "https://open.spotify.com/album/0BY5VbZjLzh7QydxtzKeq8"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 154583,
       "name": "La Belle \u00c9poque",
       "url": "https://open.spotify.com/track/74NDsNxYBAizmb6jTsVnb5"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/0DZKF3Lv2pSWXi7lVZi6II"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "duration_ms": 201696,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/2YcbZbVDVFzf1puWGFOlqU"
     },
     {
       "added_at": "2026-08-21 04:03:32",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
-        "name": "CLIC CLAC",
-        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
-      },
-      "artists": [
-        {
-          "name": "Mk.official",
-          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "CLIC CLAC",
-      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
         "name": "Kesspass",
         "url": "https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 78406,
       "name": "Kesspass",
       "url": "https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
+        "name": "CLIC CLAC",
+        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
+      },
+      "artists": [
+        {
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "CLIC CLAC",
+      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
     },
     {
       "added_at": "2026-08-21 04:03:32",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
-        "name": "Au final",
-        "url": "https://open.spotify.com/album/0qkadvlS0JEyBWoRZy3z9r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Martin",
-          "url": "https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s"
-        },
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        }
-      ],
-      "duration_ms": 195807,
-      "name": "Au final",
-      "url": "https://open.spotify.com/track/6roD63p7GhWRT4tYEfDCNc"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
         "name": "N\u00e9m\u00e9sis",
         "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 246810,
       "name": "N\u00e9m\u00e9sis",
       "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
+        "name": "Au final",
+        "url": "https://open.spotify.com/album/0qkadvlS0JEyBWoRZy3z9r"
+      },
+      "artists": [
+        {
+          "name": "Christophe Martin",
+          "url": "https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s"
+        },
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        }
+      ],
+      "duration_ms": 195807,
+      "name": "Au final",
+      "url": "https://open.spotify.com/track/6roD63p7GhWRT4tYEfDCNc"
     },
     {
       "added_at": "2026-08-21 04:03:32",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
-        "name": "Fanta",
-        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
-      },
-      "artists": [
-        {
-          "name": "Yellow Rice",
-          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
-        }
-      ],
-      "duration_ms": 125090,
-      "name": "Fanta",
-      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
         "name": "LEFFETDUGWAP",
         "url": "https://open.spotify.com/album/5FY0qqOpkNGbpnMtaavzXO"
       },
@@ -1363,34 +1347,18 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
+        "name": "Fanta",
+        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
       },
       "artists": [
         {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
         }
       ],
-      "duration_ms": 227211,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
-        "name": "Jamais Faire",
-        "url": "https://open.spotify.com/album/27bZ7NbaNFPNZUA7usR0Dm"
-      },
-      "artists": [
-        {
-          "name": "Rach",
-          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
-        }
-      ],
-      "duration_ms": 163368,
-      "name": "Jamais Faire",
-      "url": "https://open.spotify.com/track/1xwtcVHOoBKJImvrpLTe0r"
+      "duration_ms": 125090,
+      "name": "Fanta",
+      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
     },
     {
       "added_at": "2026-08-21 04:03:32",
@@ -1415,6 +1383,22 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "duration_ms": 227211,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
         "name": "L'impr\u00e9visible",
         "url": "https://open.spotify.com/album/1XQgdAAQ9Glh4WpAm5BEpE"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 158355,
       "name": "Belles choses",
       "url": "https://open.spotify.com/track/7GmH8W71OUqdE2mMPhVDpI"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
+        "name": "Jamais Faire",
+        "url": "https://open.spotify.com/album/27bZ7NbaNFPNZUA7usR0Dm"
+      },
+      "artists": [
+        {
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+        }
+      ],
+      "duration_ms": 163368,
+      "name": "Jamais Faire",
+      "url": "https://open.spotify.com/track/1xwtcVHOoBKJImvrpLTe0r"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

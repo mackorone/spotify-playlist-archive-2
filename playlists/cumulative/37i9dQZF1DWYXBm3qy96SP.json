@@ -9296,7 +9296,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 182348,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/2lEQYDMTLgAjt515NG9Bh6"
@@ -13572,6 +13572,32 @@
       "duration_ms": 176901,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+    },
+    {
+      "album": {
+        "name": "FRIENDLYFIRE",
+        "url": "https://open.spotify.com/album/6twqhN8vwkHGAqFNm0LtWo"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        },
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        },
+        {
+          "name": "RedGhost",
+          "url": "https://open.spotify.com/artist/2EhWa1Qx6iLvuql6JafBCe"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213782,
+      "name": "FRIENDLYFIRE",
+      "url": "https://open.spotify.com/track/49nXdXy16FyWkOyKOgmLro"
     },
     {
       "album": {

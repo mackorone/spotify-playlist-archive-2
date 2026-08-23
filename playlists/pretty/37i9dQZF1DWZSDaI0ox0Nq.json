@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 22576,
+  "num_followers": 22580,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
+      },
+      "artists": [
+        {
+          "name": "Carolina Winograd",
+          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 210613,
       "name": "Cafet\u00edn de Buenos Aires",
       "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
-      },
-      "artists": [
-        {
-          "name": "Carolina Winograd",
-          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/0GqkkGEdfWT7ah9pWWpygr"
+      },
+      "artists": [
+        {
+          "name": "Agustina Cirulnik",
+          "url": "https://open.spotify.com/artist/2osnonnqTrIhJQVWRZ4J7u"
+        }
+      ],
+      "duration_ms": 176879,
+      "name": "Baldosa floja",
+      "url": "https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "The History Of Tango, Volume 1 / Recordings 1925 - 1929",
         "url": "https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 180520,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/0GqkkGEdfWT7ah9pWWpygr"
-      },
-      "artists": [
-        {
-          "name": "Agustina Cirulnik",
-          "url": "https://open.spotify.com/artist/2osnonnqTrIhJQVWRZ4J7u"
-        }
-      ],
-      "duration_ms": 176879,
-      "name": "Baldosa floja",
-      "url": "https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -991,22 +991,26 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Mi Buenos Aires Querido",
-        "url": "https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n"
+        "name": "Despu\u00e9s",
+        "url": "https://open.spotify.com/album/55Mgv7ouRbXJuZFXrO8csC"
       },
       "artists": [
         {
-          "name": "Ines Cuello",
-          "url": "https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW"
+          "name": "Carolina Winograd",
+          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
         },
         {
-          "name": "La Grela Quinteto de Tango",
-          "url": "https://open.spotify.com/artist/3P7aMfgfzuP6ltbwWDTj53"
+          "name": "Alejandro Drago",
+          "url": "https://open.spotify.com/artist/2MT1F37nxp6ZVYuazInz8w"
+        },
+        {
+          "name": "Federico Biraben",
+          "url": "https://open.spotify.com/artist/7sS1IsanBa9WPvHCcjYkJU"
         }
       ],
-      "duration_ms": 223255,
-      "name": "Mi Buenos Aires Querido",
-      "url": "https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1"
+      "duration_ms": 185693,
+      "name": "Sue\u00f1o de Barrilete",
+      "url": "https://open.spotify.com/track/2kJB9Hvpn3bqx2Mac8lMVP"
     }
   ],
   "unique_name": "Mujeres del Tango",

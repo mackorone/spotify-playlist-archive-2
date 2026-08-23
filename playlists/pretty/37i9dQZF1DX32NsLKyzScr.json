@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2589208,
+  "num_followers": 2589159,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 262170,
+      "name": "Comes and Goes",
+      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
+    },
+    {
+      "added_at": "2026-08-21 04:01:20",
+      "album": {
         "name": "Loco Loco",
         "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
-    },
-    {
-      "added_at": "2026-08-21 04:01:20",
-      "album": {
-        "name": "Comes and Goes",
-        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 262170,
-      "name": "Comes and Goes",
-      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
-    },
-    {
-      "added_at": "2026-08-21 04:01:20",
-      "album": {
         "name": "Silence (John Summit Remix)",
         "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 274736,
       "name": "Silence - John Summit Remix",
       "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
+    },
+    {
+      "added_at": "2026-08-21 04:01:20",
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
+        "name": "run",
+        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 262297,
+      "name": "run",
+      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
+    },
+    {
+      "added_at": "2026-08-21 04:01:20",
+      "album": {
         "name": "Feels Like Us",
         "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
       },
@@ -1099,22 +1119,22 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
-        "name": "run",
-        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
+        "name": "Other Dimension",
+        "url": "https://open.spotify.com/album/3jLVDlQGAhXz7OZSyS8C1W"
       },
       "artists": [
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
         }
       ],
-      "duration_ms": 262297,
-      "name": "run",
-      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
+      "duration_ms": 204462,
+      "name": "Other Dimension",
+      "url": "https://open.spotify.com/track/5IQCfDD1PwrArvdEFDLUZ2"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -1143,22 +1163,22 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
-        "name": "Other Dimension",
-        "url": "https://open.spotify.com/album/3jLVDlQGAhXz7OZSyS8C1W"
+        "name": "7 Days",
+        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 204462,
-      "name": "Other Dimension",
-      "url": "https://open.spotify.com/track/5IQCfDD1PwrArvdEFDLUZ2"
+      "duration_ms": 207187,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -1179,26 +1199,6 @@
       "duration_ms": 178205,
       "name": "FADE",
       "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
-    },
-    {
-      "added_at": "2026-08-21 04:01:20",
-      "album": {
-        "name": "7 Days",
-        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
-        "name": "Science (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Science (feat. Stevie Appleton) - Radio Edit",
-      "url": "https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny"
-    },
-    {
-      "added_at": "2026-08-21 04:01:20",
-      "album": {
         "name": "Help I'm Alive (BYNX Rework)",
         "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 157717,
       "name": "Don't Wanna Go Home (feat. Henry Camamile)",
       "url": "https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX"
+    },
+    {
+      "added_at": "2026-08-21 04:01:20",
+      "album": {
+        "name": "Science (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Science (feat. Stevie Appleton) - Radio Edit",
+      "url": "https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -1415,7 +1415,7 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
-        "name": "Dracula (Boys Noize Disko Version)",
+        "name": "Dracula (with JENNIE) [Boys Noize Disko Version]",
         "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
       },
       "artists": [
@@ -1433,7 +1433,7 @@
         }
       ],
       "duration_ms": 240318,
-      "name": "Dracula - Boys Noize Disko Version",
+      "name": "Dracula (with JENNIE) - Boys Noize Disko Version",
       "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
     },
     {
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
+        "name": "NEWORLD II",
+        "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "DONA",
+      "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
+    },
+    {
+      "added_at": "2026-08-21 04:01:20",
+      "album": {
         "name": "Roses (feat. Richard Judge)",
         "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 164307,
       "name": "Roses (feat. Richard Judge)",
       "url": "https://open.spotify.com/track/2l0uDfDDdz1cGLvAzw474o"
-    },
-    {
-      "added_at": "2026-08-21 04:01:20",
-      "album": {
-        "name": "NEWORLD II",
-        "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "DONA",
-      "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -1851,18 +1851,26 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+        "name": "Locked In (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p"
       },
       "artists": [
         {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 204720,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
+      "duration_ms": 168923,
+      "name": "Locked In (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -1907,26 +1915,22 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
-        "name": "Locked In (feat. Trippie Redd)",
-        "url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p"
+        "name": "She's A Devil",
+        "url": "https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 168923,
-      "name": "Locked In (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
+      "duration_ms": 204923,
+      "name": "She's A Devil",
+      "url": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -1947,26 +1951,6 @@
       "duration_ms": 245538,
       "name": "Wait So Long (Why Do I Have To) - Agents Of Time Remix",
       "url": "https://open.spotify.com/track/5LNZWPb0G57moAnwDtXQuH"
-    },
-    {
-      "added_at": "2026-08-21 04:01:20",
-      "album": {
-        "name": "She's A Devil",
-        "url": "https://open.spotify.com/album/0KNBzGKNzi9sS8R3TCjwQb"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "She's A Devil",
-      "url": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -1995,26 +1979,18 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
-        "name": "Don't Want Your Love (R\u00d8Z Remix)",
-        "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
         }
       ],
-      "duration_ms": 163555,
-      "name": "Don't Want Your Love - R\u00d8Z Remix",
-      "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
+      "duration_ms": 204720,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -2039,6 +2015,30 @@
       "duration_ms": 229337,
       "name": "Like A Prayer",
       "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
+    },
+    {
+      "added_at": "2026-08-21 04:01:20",
+      "album": {
+        "name": "Don't Want Your Love (R\u00d8Z Remix)",
+        "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Don't Want Your Love - R\u00d8Z Remix",
+      "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -2079,22 +2079,22 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/41OXi4lfWFAYr7TOsgxPCb"
+        "name": "Short Stop",
+        "url": "https://open.spotify.com/album/0Q0dqm7mFU4UhTveiWrRXP"
       },
       "artists": [
         {
-          "name": "Richard Durand",
-          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         },
         {
-          "name": "Brittany Egbert",
-          "url": "https://open.spotify.com/artist/1mQw28X8O2WndUUfZuZKgv"
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/7dSQzNuXUFq9uZ4Xujv83C"
+      "duration_ms": 225584,
+      "name": "Short Stop",
+      "url": "https://open.spotify.com/track/6ZXDqJiNIgQfWow7KruP6I"
     },
     {
       "added_at": "2026-08-21 04:01:20",
@@ -2123,6 +2123,26 @@
     {
       "added_at": "2026-08-21 04:01:20",
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/41OXi4lfWFAYr7TOsgxPCb"
+      },
+      "artists": [
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        },
+        {
+          "name": "Brittany Egbert",
+          "url": "https://open.spotify.com/artist/1mQw28X8O2WndUUfZuZKgv"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7dSQzNuXUFq9uZ4Xujv83C"
+    },
+    {
+      "added_at": "2026-08-21 04:01:20",
+      "album": {
         "name": "All My Life (feat. John Martin)",
         "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
       },
@@ -2143,26 +2163,6 @@
       "duration_ms": 172941,
       "name": "All My Life (feat. John Martin)",
       "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
-    },
-    {
-      "added_at": "2026-08-21 04:01:20",
-      "album": {
-        "name": "Short Stop",
-        "url": "https://open.spotify.com/album/0Q0dqm7mFU4UhTveiWrRXP"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 225584,
-      "name": "Short Stop",
-      "url": "https://open.spotify.com/track/6ZXDqJiNIgQfWow7KruP6I"
     },
     {
       "added_at": "2026-08-21 04:01:20",

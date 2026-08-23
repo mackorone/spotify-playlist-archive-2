@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-163 songs - 10 hr 23 min
+165 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-05-04 |  |
 | [La Decisión](https://open.spotify.com/track/0bWu8JSfxwEJMGL91qnWK3) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 5:12 | 2026-04-04 | 2026-05-16 |
 | [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 | 2025-12-11 | 2026-05-16 |
+| [Laissez Moi Rêver](https://open.spotify.com/track/4OOOeB1cNlHIF5G9p3RX7H) | [Remy Guisset](https://open.spotify.com/artist/2sY5voT3Ysa15gScs6KpiP) | [Laissez Moi Rêver](https://open.spotify.com/album/4ao7cg9YY22fKq0ZGHYaIn) | 3:29 | 2026-08-22 |  |
 | [Le chant du cygne \- Live](https://open.spotify.com/track/7mutnL7QlWUr3iduMEZnLF) | [Gabriel Keller](https://open.spotify.com/artist/0zOlM82GNeyKLBca65OwuG) | [Live \- La Rotonde](https://open.spotify.com/album/2Ee4IrT05W8EY5jQL8petg) | 5:28 | 2026-08-10 |  |
 | [Lesson to Be Learned](https://open.spotify.com/track/3H3TZ6As4H5f4HpCQ9RLEp) | [Juliet's Bane](https://open.spotify.com/artist/43FGjbS68JUpmmocZSmwKh) | [HumaNature & Lesson to Be Learned](https://open.spotify.com/album/20AGbANuWzwx5p4gFJ7GUK) | 4:37 | 2026-07-07 |  |
 | [Let You In](https://open.spotify.com/track/1oBqxv3lalzgjPdzeU6Dd6) | [FallenNFaded](https://open.spotify.com/artist/3Ct1LFryNkGnWXa6BPqwkF) | [Let You In](https://open.spotify.com/album/5zm72aO0CU1HXwKUkdwboa) | 3:00 | 2026-07-26 |  |
@@ -142,6 +143,7 @@
 | [Tell me](https://open.spotify.com/track/7Kii5doWDpS5BlMb8ZinhX) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Tell me](https://open.spotify.com/album/128I92xeAqGBMdLzBqCGdR) | 2:16 | 2026-07-14 |  |
 | [Tell Me Why](https://open.spotify.com/track/0BjA7kC1AjbGuoNV1xcvPS) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [Tell Me Why](https://open.spotify.com/album/3UhghdeJ61tvS5CBACFWi5) | 3:07 | 2026-02-06 | 2026-04-05 |
 | [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 | 2026-07-28 |  |
+| [Tennessee Rooftops](https://open.spotify.com/track/2mqu7BjUCtjd2BKU1cRw2Z) | [Colhart](https://open.spotify.com/artist/2Dfe9N3URM7oYuK2jxAHMr), [Ryan Hermann](https://open.spotify.com/artist/6LUSCIdPxrFpm9bl6KDRW0) | [Tennessee Rooftops](https://open.spotify.com/album/0yWMv6kovfXOcu11pFJ88y) | 3:33 | 2026-08-22 |  |
 | [Terrestrial](https://open.spotify.com/track/1gkS2fy9B3j8puwIS22DmR) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [The Kingdom of Trees](https://open.spotify.com/album/6rUJAze2ADreCV5kLqWmea) | 4:33 | 2025-10-19 | 2026-05-16 |
 | [Tesla](https://open.spotify.com/track/6iJSBzhwuo10snNpJPlT6o) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [Tesla](https://open.spotify.com/album/7fPZmtfCwbZfbMZNk5o4KG) | 4:44 | 2025-11-02 |  |
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-04-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 178875,
+  "num_followers": 178892,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoZDgAAAAABt/DVpSoJzgqKczijGngDV",
+  "snapshot_id": "aoeVAAAAAACAI8NlYFm+/RbSgY6P+P6X",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "Katy Bar the Door / Living Undercover",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 223613,
-      "name": "Paper Wings",
-      "url": "https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1"
+      "duration_ms": 229751,
+      "name": "Living Undercover",
+      "url": "https://open.spotify.com/track/6Zjfj6AYFAZICf0gbWTcqG"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Paper Wings",
+      "url": "https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Endgame",
         "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 221200,
       "name": "This Is Letting Go",
       "url": "https://open.spotify.com/track/0304Y3lXclcRh5N50KJ3sE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Katy Bar the Door / Living Undercover",
-        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 229751,
-      "name": "Living Undercover",
-      "url": "https://open.spotify.com/track/6Zjfj6AYFAZICf0gbWTcqG"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "People Live Here",
-      "url": "https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Unraveling (Re-Issue)",
         "url": "https://open.spotify.com/album/0eoON27HHTOIEMTRFJJn5u"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 227026,
       "name": "Everchanging",
       "url": "https://open.spotify.com/track/0qBWQ8Vai0ZVGcxZVM25zJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "People Live Here",
+      "url": "https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN"
     },
     {
       "added_at": null,

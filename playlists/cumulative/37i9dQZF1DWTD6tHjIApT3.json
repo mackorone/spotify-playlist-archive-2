@@ -8605,6 +8605,24 @@
     },
     {
       "album": {
+        "name": "\u30e6\u30e9\u30ea\u30e6\u30ec\u30eb / DAYS!",
+        "url": "https://open.spotify.com/album/0g74c4L2btWbochcpLcy8k"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "DAYS! (NOMELON NOLEMON ver.)",
+      "url": "https://open.spotify.com/track/2WGSfWKHfom5dRiHgMEI21"
+    },
+    {
+      "album": {
         "name": "\u7f8e\u8f9e\u5b66",
         "url": "https://open.spotify.com/album/4V0DjuDLtElbKX6WTUxvgV"
       },
@@ -50064,7 +50082,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-23",
       "duration_ms": 297000,
       "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw"

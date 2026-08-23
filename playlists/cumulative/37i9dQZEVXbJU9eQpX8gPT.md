@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,152 songs - 4 day 20 hr 29 min
+2,154 songs - 4 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 | 2023-01-03 | 2023-01-05 |
 | [Blood & Sand](https://open.spotify.com/track/1qzcBJjBNyxgnzVeUEELvG) | [Joe Mesmar](https://open.spotify.com/artist/6FcKiLiXqVUbEOAe7hhTua) | [Blood & Sand](https://open.spotify.com/album/0QYnSM87AZhFHhNTHCy68K) | 7:52 | 2023-03-24 | 2023-03-26 |
 | [Blood Sweat & Tears](https://open.spotify.com/track/4lsn7TSeTBVqeBtlZQnQRw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:37 | 2022-03-29 | 2022-03-31 |
+| [Bloody Paradise](https://open.spotify.com/track/0lkDoxNvtLUNZcWnm9f8lF) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS \(Chinese Ver.\)](https://open.spotify.com/album/7LhAjABx06c9Zf6yIEcA4N) | 2:11 | 2026-08-22 |  |
 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-09 | 2023-09-11 |
 | [Blue & Grey](https://open.spotify.com/track/0n2moJpAEWHwaPYYjkzMDl) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 4:14 | 2021-11-22 | 2021-11-23 |
 | [Blue & Grey](https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 4:14 | 2022-06-06 | 2022-06-08 |
@@ -304,7 +305,7 @@
 | [Born To Be Free](https://open.spotify.com/track/3NxiLykyGpgdC82v2xUJij) | [Joe Mesmar](https://open.spotify.com/artist/6FcKiLiXqVUbEOAe7hhTua) | [Born To Be Free](https://open.spotify.com/album/2vAG98yZyBRSHHgrk95Ssv) | 7:11 | 2022-11-05 | 2022-11-10 |
 | [Botola](https://open.spotify.com/track/3h1h6BgoZwbPQJlTvY56zE) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:05 | 2021-08-01 | 2021-08-10 |
 | [Bouh !](https://open.spotify.com/track/2hTvavZbSNLCUXFC4av6uR) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Mobydick](https://open.spotify.com/artist/1GJFMvl7YNCHPCFbIJfoXz) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:23 | 2022-05-07 | 2022-05-29 |
-| [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 1\)](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-11-30 |  |
+| [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 1\)](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-11-30 | 2026-08-23 |
 | [BOUHDI/M3AK](https://open.spotify.com/track/0ER1krGD2pcctQTDu3BZYp) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 3:59 | 2022-08-13 | 2022-08-15 |
 | [Bounce](https://open.spotify.com/track/69IdOm7PFDIcIUsXKOtiNK) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Bounce](https://open.spotify.com/album/77vSi8E4SGlrWvPs6NFSLz) | 2:46 | 2021-03-27\* | 2021-04-05 |
 | [BOUNCE!](https://open.spotify.com/track/1eVNZfliNyJJj5vHiZHR8D) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [VIBZ](https://open.spotify.com/album/5tQrJMLzU4BNGvhyF9ioqF) | 3:25 | 2021-07-25 | 2021-07-27 |
@@ -1681,7 +1682,7 @@
 | [Safe safe](https://open.spotify.com/track/5LyViLHbmjbJgQwwNgKEEH) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:40 | 2021-10-10 | 2022-07-10 |
 | [Safety Zone](https://open.spotify.com/track/00I41xsW6SunZDJ5fB8KAd) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:45 | 2022-07-16 | 2022-07-18 |
 | [Safi Safi \(feat\. Draganov\)](https://open.spotify.com/track/6f8PWwc97weAep3rXAeXyv) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:45 | 2023-12-02 | 2023-12-09 |
-| [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 | 2025-11-02 |  |
+| [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 | 2025-11-02 | 2026-08-23 |
 | [Saiyan](https://open.spotify.com/track/2BvjmY4Mp5q1AHL0laetd6) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Chef D'orchestre](https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7) | 3:09 | 2023-08-08 | 2023-09-30 |
 | [SAKA](https://open.spotify.com/track/4YxQW5226q4oacUOSbfIFS) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 3:00 | 2025-01-10 | 2025-02-09 |
 | [SALA LFILM](https://open.spotify.com/track/6unnLkrKs1pYyvQ1tQhHT9) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 3:37 | 2026-05-23 | 2026-05-29 |
@@ -1907,6 +1908,7 @@
 | [Time To Move](https://open.spotify.com/track/3FInU5pybNWxW1JECVoaBW) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Carmen](https://open.spotify.com/artist/6YeSd89uAp6HfQaZH2rhKZ) | [Time To Move](https://open.spotify.com/album/1lHpEkSLPxogNXrr2XXTAp) | 2:55 | 2022-04-01 | 2022-04-04 |
 | [Timeless](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-28 | 2025-02-02 |
 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 | 2025-02-01 | 2025-04-02 |
+| [TITIZ A KHAY](https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [TITIZ A KHAY](https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb) | 3:09 | 2026-08-22 |  |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2026-02-15 | 2026-02-19 |
 | [TJENENY](https://open.spotify.com/track/15inJJqxM31I8sKAUxucEg) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:52 | 2026-03-28 | 2026-05-01 |
 | [TJENENY](https://open.spotify.com/track/75wMBCs7Qo3CiAQDqQBhTJ) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SPLIT](https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e) | 2:52 | 2026-04-30 | 2026-07-02 |

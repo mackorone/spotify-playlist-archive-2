@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-699 songs - 1 day 23 hr 48 min
+700 songs - 1 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 4:09 | 2022-07-01 | 2023-05-04 |
 | [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 | 2025-10-14 |
 | [Never Alone \(feat\. Lizzy Land\)](https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Never Alone \(feat\. Lizzy Land\)](https://open.spotify.com/album/7GKJoW41JkfL76AmAJmbn8) | 3:24 | 2026-02-20 |  |
-| [Never Be The Same](https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Never Be The Same](https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs) | 3:38 | 2025-10-17 |  |
+| [Never Be The Same](https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Never Be The Same](https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs) | 3:38 | 2025-10-17 | 2026-08-23 |
 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 | 2025-03-21 |  |
 | [Never Let Me Go](https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Let Me Go](https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9) | 5:37 | 2025-02-28 | 2025-11-15 |
 | [Never Look Back](https://open.spotify.com/track/2eWJ7zxXXSy69oJf5143Wm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Never Look Back](https://open.spotify.com/album/2rWwHs1pK0dg4eV9pudC3y) | 3:42 | 2021-05-07 | 2022-07-28 |
@@ -635,6 +635,7 @@
 | [To the Sea \- Einmusik Remix](https://open.spotify.com/track/6RCT4geaXTmDmtiwFLJv8j) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [To the Sea](https://open.spotify.com/album/5mIRtNHm2HMi6vsxIS1QGl) | 7:32 | 2021-05-07 | 2022-11-20 |
 | [To the Sea \- Einmusik Remix](https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [To the Sea](https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm) | 7:32 | 2022-07-01 | 2024-04-06 |
 | [Tokyo Mafia](https://open.spotify.com/track/28zyJXiBCGEWp96jZMWGvG) | [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Tokyo Mafia](https://open.spotify.com/album/4LQQhtYzlsOWGyazNA7Ab0) | 3:21 | 2025-09-26 | 2025-10-23 |
+| [Too High](https://open.spotify.com/track/7GsgjLyOXrcGHELD2Zt5dl) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Too High](https://open.spotify.com/album/6YM7T0RhXNIUaZoF2ebETy) | 6:07 | 2026-08-21 |  |
 | [Too Little Too Late \- Little Late Edit](https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Too Little Too Late \(Little Late Edit\)](https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy) | 4:18 | 2022-10-14 | 2023-07-16 |
 | [Touch \- Dezza Remix](https://open.spotify.com/track/1at5qehGeavNrpmcHgfekA) | [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Pipa Moran](https://open.spotify.com/artist/5z88TAITDhRS122WMh0ORA), [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik) | [Touch](https://open.spotify.com/album/6tjU7pfLjIX3ADSMLDvuSa) | 4:04 | 2021-05-07 | 2022-07-27 |
 | [Transitory](https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Transitory](https://open.spotify.com/album/0NH5ptXUhDmNKKeAyqdWma) | 5:01 | 2022-07-29 | 2022-09-03 |

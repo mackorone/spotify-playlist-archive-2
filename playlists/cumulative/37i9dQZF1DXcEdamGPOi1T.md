@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-548 songs - 1 day 4 hr 57 min
+549 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Lost](https://open.spotify.com/track/5YLcn3phEgL6CPwZszT9Uu) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Lost](https://open.spotify.com/album/6IS8A4ifndtdmwvCY5r2rp) | 3:08 | 2022-05-27 | 2022-06-18 |
 | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/track/2RPI6fPjqaSPIFllpVzmok) | [KEVIN DAVE](https://open.spotify.com/artist/16Qu3P3jA0IIlZoKvY51q4), [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/album/2lTLB7ycN5uURBbRqf2pJs) | 3:15 | 2023-08-25 | 2023-09-09 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-04-21 | 2023-06-18 |
-| [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 | 2026-07-17 |  |
+| [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 | 2026-07-17 | 2026-08-23 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-06-04 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-05-27 | 2024-03-30 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2025-06-04 |  |
@@ -388,6 +388,7 @@
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2022-05-27 | 2022-07-29 |
 | [Pas de problème](https://open.spotify.com/track/2s2IR5X1g2HAKeb0Ncyg3G) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Funk Lion](https://open.spotify.com/artist/2KIpDmTKVMtD25Tb6R6geP) | [Pas de problème](https://open.spotify.com/album/0rc0ZowxUGN3ms6dwWAxn9) | 3:50 | 2022-05-27 | 2022-07-28 |
 | [Pas le temps de jouer](https://open.spotify.com/track/6oomlC7rQX4LpTXwXHe3aq) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Pas le temps de jouer](https://open.spotify.com/album/02M6nwxbFdK7DRgB5hxe1I) | 3:00 | 2022-05-27 | 2022-07-29 |
+| [Paysage](https://open.spotify.com/track/4fTMiWoGKTcFgSROCiYoLA) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Paysage](https://open.spotify.com/album/6cafnFIJ0HfFmEOI8w5FgJ) | 2:52 | 2026-08-21 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2022-05-27 | 2024-04-20 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-19 | 2025-06-05 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-06-17 | 2025-06-05 |

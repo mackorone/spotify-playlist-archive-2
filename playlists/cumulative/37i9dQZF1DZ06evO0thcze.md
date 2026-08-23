@@ -4,7 +4,7 @@
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-108 songs - 6 hr 57 min
+109 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Me Perdí](https://open.spotify.com/track/1tYBjcreU2WONT4AmhZ7oc) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Jon Jams](https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7) | [Me Perdí](https://open.spotify.com/album/6S2t4FIFbtG9Lov0u4WqGu) | 2:49 | 2024-07-27 | 2025-01-15 |
 | [Mirando Al Cielo](https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Mirando Al Cielo](https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv) | 3:16 | 2024-11-09 | 2025-02-09 |
 | [Monte Fuji](https://open.spotify.com/track/2GEcLZkMr3wZB7zM8gRRBe) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Monte Fuji](https://open.spotify.com/album/76ShoKZtDVnABmchT2APYJ) | 3:44 | 2025-11-24 |  |
+| [Mundo Cholo](https://open.spotify.com/track/00MmuIorbFcYWNleiiuJeQ) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Mundo Cholo](https://open.spotify.com/album/1k6OrwoCWoIMa9ObPY792d) | 2:49 | 2026-08-23 |  |
 | [Nada Me Va A Importar](https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 2:42 | 2023-11-10 |  |
 | [Ni Angel Ni Demonio](https://open.spotify.com/track/6v0DLxSpccrL2DtemB0b56) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Gona](https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB) | [Ni Angel Ni Demonio](https://open.spotify.com/album/2G5u8pyvsts5QZJIfhYvQl) | 3:08 | 2023-11-10 | 2025-11-07 |
 | [Ni Rey, Ni Corona](https://open.spotify.com/track/2yNbAet0LRJrpYWenxWi20) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Toques de Queda](https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ) | 3:06 | 2023-12-13 | 2025-02-24 |
@@ -114,7 +115,7 @@
 | [Yo No Fui](https://open.spotify.com/track/0e50i7uScPMfqZWBfYE3Vs) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Yo No Fui](https://open.spotify.com/album/3a9L76jK0d4jVlEooWCbuU) | 3:12 | 2024-08-11 | 2024-09-08 |
 | [Yo Soy Así](https://open.spotify.com/track/5iXaMajfZihMt5NhDVmGiw) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Yo Soy Así](https://open.spotify.com/album/60ghnmW09KFOQTTzLDRjdP) | 3:44 | 2024-04-20 | 2024-08-23 |
 | [¿Qué Hay Que Hacer?](https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [¿Qué Hay Que Hacer?](https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76) | 2:35 | 2023-11-10 | 2024-03-18 |
-| [¿Y si bailamos?](https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 3:42 | 2025-02-28 |  |
+| [¿Y si bailamos?](https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 3:42 | 2025-02-28 | 2026-08-23 |
 | [⁠⁠Caballo Del Desierto](https://open.spotify.com/track/63z4y0xxU454kYikT42uQd) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Mañana Será Otro Día](https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS) | 3:10 | 2025-07-04 | 2025-09-18 |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.
