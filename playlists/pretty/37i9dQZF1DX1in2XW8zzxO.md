@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,644 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,672 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 47 | [Moratata \(feat\. Leemckrazy & TitoM\)](https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:25 |
 | 48 | [Woza La](https://open.spotify.com/track/6XK0BdLYoXJyfb1JfuN4BQ) | [King P](https://open.spotify.com/artist/47afOpYr8n2njpPNQKuQfc), [Tumilemang](https://open.spotify.com/artist/0zdAH79ZRnudDRbmuSJFHl) | [Woza La](https://open.spotify.com/album/0uszDQSCIPfgXo8nEAPnaA) | 6:56 |
 | 49 | [Rekisa Kapela \(feat\. Certified Dyan\)](https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Certified Dyan](https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q) | [The EEQualizer](https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U) | 6:01 |
-| 50 | [Pure Bliss](https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe) | [Luzyo Keys](https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Pure Bliss](https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn) | 7:30 |
+| 50 | [Vanhu](https://open.spotify.com/track/4f54S9iJuUDeAd72x7Fe2w) | [De Mogul SA](https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC), [Afrikayla](https://open.spotify.com/artist/2F9X3CybO4nJ2DgmeAfa6k), [Vutomi](https://open.spotify.com/artist/1laGt6Q7rQk16Ya5mpooxA), [SwooshMafia](https://open.spotify.com/artist/6yD2BwDz48rTuqHTGYCReA) | [Vanhu](https://open.spotify.com/album/1xkHOiJizPkdNZhAYzBmjT) | 4:31 |
 
 Snapshot ID: `AAAAAJWbfR5ofqG80SnPy09+P8//cgbw`

@@ -6484,10 +6484,28 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 157207,
       "name": "Why Wouldn't We",
       "url": "https://open.spotify.com/track/1dBVto20nOkaZpazejlChu"
+    },
+    {
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157207,
+      "name": "Why Wouldn't We",
+      "url": "https://open.spotify.com/track/6sMINnZ3kU6ZTMB1wntMnQ"
     },
     {
       "album": {

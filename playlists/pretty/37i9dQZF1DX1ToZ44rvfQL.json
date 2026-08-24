@@ -1,6 +1,6 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 524762,
+  "num_followers": 524813,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-08-05 13:24:38",
       "album": {
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
+    },
+    {
+      "added_at": "2026-08-05 13:24:38",
+      "album": {
         "name": "Arruinarse (feat. Airbag) [En Vivo En River Plate]",
         "url": "https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 349806,
       "name": "Arruinarse - En Vivo En River Plate",
       "url": "https://open.spotify.com/track/7GSS3AEO9emTV5yXJ66V0i"
-    },
-    {
-      "added_at": "2026-08-05 13:24:38",
-      "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Mi enfermedad",
-      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
     },
     {
       "added_at": "2026-08-05 13:24:38",

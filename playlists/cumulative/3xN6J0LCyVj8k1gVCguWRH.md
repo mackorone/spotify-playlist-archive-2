@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,462 songs - 15 day 1 hr 36 min
+6,465 songs - 15 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1658,6 +1658,7 @@
 | [El Efectivo](https://open.spotify.com/track/2GvMgNyf7dTKvs82xLRzsm) | [Axell Vi](https://open.spotify.com/artist/0mp4hhZGTs9UADnWGoXRCJ) | [El Efectivo](https://open.spotify.com/album/4kw3OLTzF70nrOJOAHC8bX) | 3:04 | 2024-03-11 | 2024-03-23 |
 | [El Malo](https://open.spotify.com/track/0lRM1nECi5pj7sutFfoQw2) | [DJ Luxx](https://open.spotify.com/artist/5ZQqNlhkPXKvfxQuHcttj6) | [El Malo](https://open.spotify.com/album/0SqLlRdUCc1Im7BGqn9X19) | 3:03 | 2024-11-25 | 2024-12-08 |
 | [El Negro Sabroso \(Banda\)](https://open.spotify.com/track/3DFsxiMt0LbVIS77ZFdgUC) | [Lios Choko](https://open.spotify.com/artist/0VRmGGMsCYaO7vgvWFLEkP) | [El Negro Sabroso \(Banda\)](https://open.spotify.com/album/6fR2B2cNt2L5DF8bBpv9Fz) | 3:55 | 2024-01-20 | 2024-02-01 |
+| [El Sapo Argentino de Boca Ancha \- Mix 2 Ambient Version](https://open.spotify.com/track/3mD9V7MnXH4l5c7hTKRulg) | [Esteban Sehinkman](https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6), [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh) | [El Sapo Argentino de Boca Ancha \(Mix 2 Ambient Version\)](https://open.spotify.com/album/3jsO2CNnOK8zspgUgKVslN) | 5:42 | 2026-08-23 |  |
 | [El Sol \(2023\) \- Radio](https://open.spotify.com/track/3k9FBJbqq8IIjqIhJxBgWZ) | [Words Four Two](https://open.spotify.com/artist/0CHEpj8dNLqZhqIjblJAm4) | [El Sol \(2023\)](https://open.spotify.com/album/4HkAc02xRdkGKzrIp4KhvA) | 4:20 | 2024-01-13 | 2024-01-20 |
 | [El Sol \(2023\) \- Radio Edit](https://open.spotify.com/track/7oqSO59ztt1sg3qtxchW7o) | [Words Four Two](https://open.spotify.com/artist/0CHEpj8dNLqZhqIjblJAm4), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [El Sol \(2023\) \[Radio Edit\]](https://open.spotify.com/album/29VVBLOjYmMNvL0sd498pu) | 4:27 | 2024-01-12 | 2024-01-20 |
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-06-08 | 2025-06-20 |
@@ -4772,6 +4773,7 @@
 | [Saving Grace](https://open.spotify.com/track/470vHK4KQthoKtDU6caZux) | [Kinzoogianna](https://open.spotify.com/artist/2D069JyO8S067PzOr5XtUz) | [Saving Grace](https://open.spotify.com/album/0Lf3COKKr7BaRP0OEHRO3Y) | 4:46 | 2022-06-10 | 2022-06-29 |
 | [Savior Complex](https://open.spotify.com/track/1vz7wap09y2JGnVWJIImr6) | [Peyton Shay](https://open.spotify.com/artist/3ASCFTkBFRrX6KDFju42Xd) | [Savior Complex](https://open.spotify.com/album/7c0cdpPsG02ZUsrAV0mbu0) | 3:12 | 2024-09-30 | 2024-10-12 |
 | [Saviour](https://open.spotify.com/track/05WNvibI47v6Y9ificpqoK) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Saviour](https://open.spotify.com/album/6UONmsq7qrzQTBbEGptYd6) | 3:11 | 2020-05-11 | 2022-03-07 |
+| [Saw Red](https://open.spotify.com/track/2mDGP5s2McpUBjUvzf0WFr) | [Wanted Noise](https://open.spotify.com/artist/0ky0RnLH6ovRHbeKp71uuY), [Dani Petrunich](https://open.spotify.com/artist/3bFzoK8eESrEqn41w3W4xM) | [Saw Red](https://open.spotify.com/album/0NHVE7QtJEt1hfAuxR2Xvj) | 2:15 | 2026-08-23 |  |
 | [Say Goodbye](https://open.spotify.com/track/2ELrY7gGTfl3YUyJS2LuSS) | [pdtj.](https://open.spotify.com/artist/5rxAHZNPFnSV6kVToFHHqG) | [Say Goodbye](https://open.spotify.com/album/6Oz27Jlw6NlZqcEdV74v9J) | 4:07 | 2025-03-26 | 2025-04-07 |
 | [Say Goodbye](https://open.spotify.com/track/0sbLmf2DqMHjpWXSEjB1MC) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Say Goodbye](https://open.spotify.com/album/2q4xT0jH4pXIfzNpEnmTCy) | 2:54 | 2025-10-18 | 2025-11-26 |
 | [Say Goodbye To The Bad Guys](https://open.spotify.com/track/4DpVheICgQbnbfHR3Manb7) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [EROS](https://open.spotify.com/album/13ZPRwkvm5Lo9j6XZK0aHD) | 2:49 | 2022-03-06 | 2022-03-26 |
@@ -5567,6 +5569,7 @@
 | [The Moment](https://open.spotify.com/track/5XopHzTSHrw5vEhT5lXya6) | [Renn Olympus](https://open.spotify.com/artist/2SnlcY1L7eF3OyGMzhicqG) | [The Moment](https://open.spotify.com/album/63o64kAroioltgr4xMQ8oJ) | 2:28 | 2023-03-24 | 2023-04-13 |
 | [The Movie](https://open.spotify.com/track/355or5j0gmz9qUHAIsBhd7) | [Doris Club](https://open.spotify.com/artist/3VkvqhOXRjE6ShEbzzN7R7) | [The Movie](https://open.spotify.com/album/5BSIGN42U5I0Oc7WufATK1) | 3:33 | 2023-08-18 | 2023-09-26 |
 | [The Night is Young \- Remix](https://open.spotify.com/track/2u2RyJu64geXfFL0YMXXPM) | [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt), [Zech Biship](https://open.spotify.com/artist/0rPAd3q71tIiLr8iS2ZHIx) | [With the Gang b/w The Night is Young \(Remix\)](https://open.spotify.com/album/46rZzXplrgOyPR0c8KNMqX) | 2:55 | 2022-01-14 | 2022-01-30 |
+| [The Nightlife](https://open.spotify.com/track/6EPMl9KnwZp4dspQKCHReF) | [Noble Ghost](https://open.spotify.com/artist/1M1tZoLQAchqvYbHVSgnxm) | [The NIGHTLIFE](https://open.spotify.com/album/0UcxG2ZjxFTM8G99OJRQcB) | 3:22 | 2026-08-23 |  |
 | [The Northside](https://open.spotify.com/track/0YOIkSKZeJ9HOCVqNI1Gnv) | [MC Papa Bear](https://open.spotify.com/artist/7DMB67g6YNBJIoiBVepMy2), [Arianna Tsar Valentine](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [The Northside](https://open.spotify.com/album/1Ec8tfLt2GSJGIndau0NLN) | 3:43 | 2023-09-15 | 2023-12-14 |
 | [The Not Knowing](https://open.spotify.com/track/5AEC5qjIsjG3VD2oE9W0uL) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [The Groovalution](https://open.spotify.com/artist/1j2cai95XouuVw0utqMW34), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Fancy AF](https://open.spotify.com/album/4QA5JW3muURfJHduM05kJB) | 2:30 | 2023-02-16 | 2023-03-13 |
 | [The One](https://open.spotify.com/track/3UDeCMBXvqomGF7I0W2jLf) | [Brownsuede](https://open.spotify.com/artist/2cGslndmeHnGFbe1S2ESGQ) | [The One](https://open.spotify.com/album/0eMQV9QNcSYcxc5egJQ7Cj) | 3:51 | 2021-01-15 | 2021-02-04 |

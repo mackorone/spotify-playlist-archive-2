@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 
 > Where two indie music powerhouses meet! Enjoy the \[Tune Up Meets Fresh Finds\] LIVE SET from Tokai and Hyelyn Joo! 🎶✨ \(인디음악을 지원하는 두 프로그램의 만남! \[Tune Up Meets Fresh Finds\] 공연의 라이브셋을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 21 songs - 57 min 34 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,538 likes - 21 songs - 57 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

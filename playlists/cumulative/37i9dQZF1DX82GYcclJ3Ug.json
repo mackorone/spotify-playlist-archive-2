@@ -50263,6 +50263,24 @@
     },
     {
       "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/3Q583H3vpTt6aSSUVDyfOf"
+      },
+      "artists": [
+        {
+          "name": "Syd Taylor",
+          "url": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/5HmtVI8Zu6PljE6PgrEBTy"
+    },
+    {
+      "album": {
         "name": "Die In Love",
         "url": "https://open.spotify.com/album/4BMFHGrHTIRSPvSI6S9UKo"
       },

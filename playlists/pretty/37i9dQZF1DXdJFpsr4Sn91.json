@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59712,
+  "num_followers": 59689,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "SHOTIT",
         "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 154659,
       "name": "SHOTIT",
       "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Badabim (My Kind Of Terapiaa)",
-        "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
-      },
-      "artists": [
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Badabim (My Kind Of Terapiaa)",
-      "url": "https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "Jokaisen hymyn takana",
         "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 188893,
       "name": "Jokaisen hymyn takana",
       "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Badabim (My Kind Of Terapiaa)",
+        "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Badabim (My Kind Of Terapiaa)",
+      "url": "https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Kuka nauraa nyt",
-        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
-      },
-      "artists": [
-        {
-          "name": "ABREU",
-          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Kuka nauraa nyt",
-      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
         "url": "https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 169760,
       "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
       "url": "https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Kuka nauraa nyt",
+        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Kuka nauraa nyt",
+      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
+        "name": "Mun vuoro luovuttaa",
+        "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Mun vuoro luovuttaa",
+      "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
         "name": "Mustat sunnuntait",
         "url": "https://open.spotify.com/album/6ImfgFNiEsPVp2ALClyCPt"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 183461,
       "name": "Mustat sunnuntait",
       "url": "https://open.spotify.com/track/1LmOOpRQCtYuCubwh2PoE3"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
-        "name": "Mun vuoro luovuttaa",
-        "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Mun vuoro luovuttaa",
-      "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Paina play paina stop",
-        "url": "https://open.spotify.com/album/3wmjt0zXt7Dy48qPIXElDH"
-      },
-      "artists": [
-        {
-          "name": "AB",
-          "url": "https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm"
-        }
-      ],
-      "duration_ms": 153320,
-      "name": "Paina play paina stop",
-      "url": "https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "Ennen sua",
         "url": "https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 168693,
       "name": "Ennen sua",
       "url": "https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Paina play paina stop",
+        "url": "https://open.spotify.com/album/3wmjt0zXt7Dy48qPIXElDH"
+      },
+      "artists": [
+        {
+          "name": "AB",
+          "url": "https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm"
+        }
+      ],
+      "duration_ms": 153320,
+      "name": "Paina play paina stop",
+      "url": "https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -1011,6 +1011,22 @@
       "duration_ms": 212096,
       "name": "Amarantti",
       "url": "https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
+        "name": "Ihmisenpuolikas",
+        "url": "https://open.spotify.com/album/3aPhDcXiZ2MLBFCWNJMcj1"
+      },
+      "artists": [
+        {
+          "name": "Aatulove",
+          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
+        }
+      ],
+      "duration_ms": 172447,
+      "name": "Ihmisenpuolikas",
+      "url": "https://open.spotify.com/track/5XJOXkXEfDWJUmvrsvFbro"
     },
     {
       "added_at": "2026-08-20 21:00:38",
@@ -1099,6 +1115,22 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
+        "name": "Liian nuorii kuolinilmotuksiin",
+        "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
+      },
+      "artists": [
+        {
+          "name": "Lilja Lund\u00e9n",
+          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
+        }
+      ],
+      "duration_ms": 187986,
+      "name": "Liian nuorii kuolinilmotuksiin",
+      "url": "https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd"
+    },
+    {
+      "added_at": "2026-08-20 21:00:38",
+      "album": {
         "name": "Santana",
         "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
       },
@@ -1131,22 +1163,6 @@
     {
       "added_at": "2026-08-20 21:00:38",
       "album": {
-        "name": "Ihmisenpuolikas",
-        "url": "https://open.spotify.com/album/3aPhDcXiZ2MLBFCWNJMcj1"
-      },
-      "artists": [
-        {
-          "name": "Aatulove",
-          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
-        }
-      ],
-      "duration_ms": 172447,
-      "name": "Ihmisenpuolikas",
-      "url": "https://open.spotify.com/track/5XJOXkXEfDWJUmvrsvFbro"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
         "name": "Tilulilulauluja",
         "url": "https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 247786,
       "name": "Tilulilulauluja",
       "url": "https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9"
-    },
-    {
-      "added_at": "2026-08-20 21:00:38",
-      "album": {
-        "name": "Liian nuorii kuolinilmotuksiin",
-        "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
-      },
-      "artists": [
-        {
-          "name": "Lilja Lund\u00e9n",
-          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
-        }
-      ],
-      "duration_ms": 187986,
-      "name": "Liian nuorii kuolinilmotuksiin",
-      "url": "https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd"
     },
     {
       "added_at": "2026-08-20 21:00:38",

@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Bleed Me",
+        "url": "https://open.spotify.com/album/6Fgy6G7kwojsXyI5WTp6FT"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Merchants",
+          "url": "https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201282,
+      "name": "Bleed Me",
+      "url": "https://open.spotify.com/track/1zUyNaht7QAMAjpe9d0bsw"
+    },
+    {
+      "album": {
         "name": "Bleeding Rage",
         "url": "https://open.spotify.com/album/3Tih67eYTaq5xzKDMT0sAc"
       },

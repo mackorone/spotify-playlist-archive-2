@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:5lbW0rNhFyCiSlClBMYbki">Yung Miami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147,557 likes - 155 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147,486 likes - 155 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

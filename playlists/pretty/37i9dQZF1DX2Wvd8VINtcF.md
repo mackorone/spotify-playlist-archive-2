@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,066 likes - 290 songs - 15 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,068 likes - 290 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

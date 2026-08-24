@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 177666,
       "name": "Balek",
       "url": "https://open.spotify.com/track/6FyIByL10DzsD0xMKsa4hL"
@@ -22528,6 +22528,24 @@
       "duration_ms": 142290,
       "name": "Wa zebi",
       "url": "https://open.spotify.com/track/2fisgK2Gvu3Fn2yShuZqaO"
+    },
+    {
+      "album": {
+        "name": "Wagyu",
+        "url": "https://open.spotify.com/album/6xi9IqY00Ip9MXX8IJO616"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117691,
+      "name": "Wagyu",
+      "url": "https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX"
     },
     {
       "album": {

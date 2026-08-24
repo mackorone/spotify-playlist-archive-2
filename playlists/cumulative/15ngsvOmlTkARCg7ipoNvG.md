@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,058 songs - 1 day 17 hr 26 min
+2,059 songs - 1 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1099,6 +1099,7 @@
 | [Memories Are Faded](https://open.spotify.com/track/4fQs6kLS2JpMSszHYA6iN5) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Memories, Vol\. 2](https://open.spotify.com/album/4fgMhnmLUlZCGbz9Eh1ECd) | 1:00 | 2023-04-08 | 2024-02-13 |
 | [Memory](https://open.spotify.com/track/3uOo8GWlN91OxIK6wOsrdz) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Memory](https://open.spotify.com/album/6cBlCFP74GNlrHeafgT83k) | 1:02 | 2023-04-08 | 2024-02-13 |
 | [Memory Arr\. For Cello And Grand Piano](https://open.spotify.com/track/0oRqjAWunHNnCf3611TPNm) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Memory Arr\. For Cello And Grand Piano](https://open.spotify.com/album/4zUjyW02CC6pJ5koSELofx) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Memory Of You \- Cello Version](https://open.spotify.com/track/01ha0xqTotOX0viqRULI8G) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Memory Of You](https://open.spotify.com/album/6a4etyTy9B0EGwuzCFrBQq) | 1:00 | 2026-08-23 |  |
 | [Mend](https://open.spotify.com/track/1alybRxBrceYyVpCH0ywif) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Mend](https://open.spotify.com/album/0thoeshRRPrCSqe0W0QF6P) | 2:33 | 2022-01-12 | 2024-02-13 |
 | [Mend](https://open.spotify.com/track/20avro99kei7aQ3TBfiYYc) | [Vaudlow](https://open.spotify.com/artist/2j9gr6OvbmDHXnQ1xyk4W0) | [Vaudlow](https://open.spotify.com/album/3X0XhEm6CERPIMvueTHh7z) | 3:37 | 2022-01-12 | 2022-12-29 |
 | [Mercury](https://open.spotify.com/track/1PnzwzjzVmsNd4RUwNwOoW) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:13 | 2022-01-12 |  |

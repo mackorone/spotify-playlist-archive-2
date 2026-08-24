@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Jailer 2
 
-2,625 songs - 6 day 13 hr 22 min
+2,626 songs - 6 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,6 +942,7 @@
 | [Kalyaana Satham Satham \(From "The Family Star"\)](https://open.spotify.com/track/7mjF9JEihQK1BLh6NUy9op) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Padma Latha](https://open.spotify.com/artist/6quH1Jx1yR0QdQhS4TIZeO), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Kalyaana Satham Satham \(From "The Family Star"\)](https://open.spotify.com/album/08L0yYBokzsMTMVnomcc4Q) | 3:21 | 2024-03-27 | 2024-09-10 |
 | [Kalyana Kalavaram](https://open.spotify.com/track/5ZA1ZhyxMnwRHqws2r9txS) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Love Marriage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zcDtzfS625vYDZnN5RV3V) | 3:21 | 2025-06-23 | 2025-07-25 |
 | [Kalyana Kalavaram \(From "Love Marriage"\)](https://open.spotify.com/track/12cGbxEKm36O7koYFGj5YE) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Kalyana Kalavaram \(From "Love Marriage"\)](https://open.spotify.com/album/5k4SnJp59cFLtvv5VgSvRn) | 3:21 | 2025-04-04 | 2025-06-10 |
+| [Kalyana Virundhu \(From "Dorothy"\)](https://open.spotify.com/track/0WYvTSq7UvfpumdsziyDGP) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Yugendran Vasudevan](https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Priya Jerson](https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2) | [Kalyana Virundhu \(From "Dorothy"\)](https://open.spotify.com/album/1ptkIUrvlqwD2ToCjP3LoR) | 3:58 | 2026-08-23 |  |
 | [Kammangkoozhu Karuvadu](https://open.spotify.com/track/4ncSbz7duANgKsgP1LttVW) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi) | [Kammangkoozhu Karuvadu \(From "Sembi"\)](https://open.spotify.com/album/01UiOHDEnLQoLueoyAzcOv) | 3:02 | 2022-12-30 | 2023-01-04 |
 | [Kammangkoozhu Karuvadu \(From "Sembi"\)](https://open.spotify.com/track/4u3vaDzwylP71epIzYzAw4) | [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Ilayakamban](https://open.spotify.com/artist/76fKTL3a0lFkfV9I75X49V) | [Kammangkoozhu Karuvadu \(From "Sembi"\) \- Single](https://open.spotify.com/album/4FwBzzN9rHm5nOxHw5zpfz) | 3:02 | 2022-12-30 | 2023-02-11 |
 | [Kan Moodudho](https://open.spotify.com/track/2uIBoGulmh41LvW1kLn1tt) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [John Pradeep JL](https://open.spotify.com/artist/5KzKQEw1x6s19KK4hUr6Ct), [Tharun Sekar](https://open.spotify.com/artist/0jTgcTfANC98ArEClKTQvB) | [Kan Moodudho](https://open.spotify.com/album/14JypDIIf47d3KUeVuA9ZR) | 4:22 | 2023-05-04 | 2023-05-09 |

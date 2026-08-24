@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0rmQ0vdPMgWqE68a1njhTv">segunda terapia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,071 likes - 17 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,070 likes - 17 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

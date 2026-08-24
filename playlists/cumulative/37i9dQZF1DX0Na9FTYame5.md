@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Mucco
 
-404 songs - 18 hr 16 min
+405 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,11 +102,12 @@
 | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD) | 2:56 | 2024-07-25 | 2024-10-18 |
 | [Ein letztes Mal noch](https://open.spotify.com/track/6U0ONSf8rDjrOvFo2ZYOw0) | [CALO](https://open.spotify.com/artist/474Q0FLKeKJZpGZgvo8QdD), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [Ein letztes Mal noch](https://open.spotify.com/album/3I8ZRT8pH3GEaqMjQR58HM) | 2:29 | 2025-06-09 | 2025-07-29 |
 | [Ein Lied für dich](https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [21 Gramm](https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK) | 3:01 | 2025-08-28 |  |
-| [EIN TEIL VON MIR](https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [EIN TEIL VON MIR](https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd) | 2:45 | 2025-02-03 |  |
+| [EIN TEIL VON MIR](https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [EIN TEIL VON MIR](https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd) | 2:45 | 2025-02-03 | 2026-08-24 |
 | [Eintausend Farben](https://open.spotify.com/track/2ExSVDSeDoHUUW0iyGEEpx) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Eintausend Farben](https://open.spotify.com/album/2wmJrZ5RWw969i9SifZNpJ) | 2:36 | 2025-08-07 | 2025-11-14 |
 | [Elbe](https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Elbe](https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg) | 3:15 | 2024-06-28 | 2026-08-14 |
 | [Ende](https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Ende](https://open.spotify.com/album/4a93EgYKbcOmW5aSeL6ODf) | 2:53 | 2025-02-27 | 2025-04-22 |
 | [Ende der Strasse](https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Ende der Strasse](https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ) | 2:36 | 2024-06-28 | 2025-01-03 |
+| [Endlich Normale Träume](https://open.spotify.com/track/5tI29X3CK0J4qF65vLORQq) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [luzey](https://open.spotify.com/artist/2JKCEqNzqDx1L6c76Jo7uM) | [Endlich Normale Träume](https://open.spotify.com/album/3VOLa4gRnHI0kvUPSNjOQx) | 2:42 | 2026-08-21 |  |
 | [Endorphine](https://open.spotify.com/track/7enu8G9wzACrCOSsGrzXWA) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Endorphine](https://open.spotify.com/album/3GAHfpsReZrt8QYIeEtuE6) | 2:08 | 2025-10-10 | 2025-12-20 |
 | [Engel](https://open.spotify.com/track/46EwNycSh1V6DTtsIffbS0) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Engel](https://open.spotify.com/album/7Jy7AQ54wPaWiYXExMZ70r) | 2:16 | 2024-09-16 | 2024-10-13 |
 | [Erinnerung](https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Erinnerung](https://open.spotify.com/album/12HdgFBc0Ij4mvk9MefIk2) | 3:26 | 2025-03-24 | 2025-06-07 |

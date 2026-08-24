@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16612,
+  "num_followers": 16615,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAABijq36q0s//uylEH6qHRj3",
+  "snapshot_id": "aojmgAAAAAD5Z79HN4sx6aWPmpqqgKWr",
   "tracks": [
     {
       "added_at": null,
@@ -147,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+        "name": "A.A.F.B-Sides",
+        "url": "https://open.spotify.com/album/5LYjokc0bkRmpo3zh43e3s"
       },
       "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 180185,
-      "name": "Foreign Things",
-      "url": "https://open.spotify.com/track/1tyGqOo8VRLDVQETLtMyDS"
+      "duration_ms": 198520,
+      "name": "4 Wheel Truck",
+      "url": "https://open.spotify.com/track/3IgTe28roXdZtmvIUTcO7W"
     },
     {
       "added_at": null,
@@ -179,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.A.F.B-Sides",
-        "url": "https://open.spotify.com/album/5LYjokc0bkRmpo3zh43e3s"
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
       "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 198520,
-      "name": "4 Wheel Truck",
-      "url": "https://open.spotify.com/track/3IgTe28roXdZtmvIUTcO7W"
+      "duration_ms": 180185,
+      "name": "Foreign Things",
+      "url": "https://open.spotify.com/track/1tyGqOo8VRLDVQETLtMyDS"
     },
     {
       "added_at": null,

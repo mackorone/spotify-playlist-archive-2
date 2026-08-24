@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: P'tit Beliveau x kinji00
 
-584 songs - 1 day 8 hr 42 min
+585 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Excuse\-moi](https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA) | [Lilou Morin](https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM) | [Excuse\-moi](https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG) | 3:17 | 2026-06-19 |  |
 | [Exit](https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Exit](https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI) | 2:12 | 2026-07-24 |  |
 | [Expedition](https://open.spotify.com/track/5bT4JjpOvG7vjH6wRnTwvS) | [Désaccords](https://open.spotify.com/artist/5O4DFUrc2Xb9U3UglWdQtC) | [À fleur de paupière](https://open.spotify.com/album/6bJKvM31AJJuhOaFmyii8z) | 4:19 | 2026-07-17 |  |
+| [FACELIFT!](https://open.spotify.com/track/4LGWguFl4Hf8k9bPyb5JW5) | [Luka Ferraro](https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp) | [Pilot](https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz) | 2:54 | 2026-08-21 |  |
 | [Fais\-moi rêver](https://open.spotify.com/track/5M7URPl2QApuwqFUQkpRuK) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Fais\-moi rêver](https://open.spotify.com/album/53aO4Ze0Jp2MtnCgmbDs5Q) | 3:15 | 2024-10-04 | 2025-11-08 |
 | [Fake Friends](https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Fake Friends](https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO) | 3:00 | 2024-07-26 | 2025-10-25 |
 | [Fame and Fortune](https://open.spotify.com/track/4Dc2wdGDO4qFwxzWYV0DkP) | [Eman Alali](https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W) | [Fame and Fortune](https://open.spotify.com/album/7kbAqv24wUpbzc3bJmAUH7) | 2:56 | 2026-03-13 | 2026-05-02 |
@@ -402,7 +403,7 @@
 | [Paiements égaux](https://open.spotify.com/track/5T4XCyNBzJggHwUfyATUNX) | [Saligaude](https://open.spotify.com/artist/3eBpJRoTMJKX8YAdRGRolr) | [Full Millennial Jacket](https://open.spotify.com/album/4eIf9pVU7cL8B81OBlTpyu) | 3:55 | 2026-06-12 | 2026-07-18 |
 | [Panne électrique \- Version piano](https://open.spotify.com/track/7n6ndSC1Y0LRatyupnApF9) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Panne électrique / Not Your Princess \(Versions piano\)](https://open.spotify.com/album/3HaJRUOwXoFjZtO6HFZwUU) | 2:52 | 2026-03-23 | 2026-05-01 |
 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 | 2024-06-28 | 2024-08-10 |
-| [Paranormal](https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L) | [Kamilou](https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5) | [Paranormal](https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO) | 2:57 | 2026-07-17 |  |
+| [Paranormal](https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L) | [Kamilou](https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5) | [Paranormal](https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO) | 2:57 | 2026-07-17 | 2026-08-24 |
 | [Paranoïa etc.](https://open.spotify.com/track/44sGbp0IOD4JgnFN9Oq7IS) | [Caracol](https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa) | [Paranoïa etc.](https://open.spotify.com/album/4wNsmCPiKKiyqXmYgIIx37) | 2:56 | 2024-10-11 | 2025-01-18 |
 | [Parfait pays](https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM), [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF) | [Parfait pays](https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf) | 2:19 | 2026-08-21 |  |
 | [Parfaite](https://open.spotify.com/track/2GP3VhE1kaZR4FupxwbHJo) | [Marie\-France Lantin](https://open.spotify.com/artist/5Yrr2h5czzCl3c2YK7vaj9) | [Parfaite](https://open.spotify.com/album/78n8vnv7ZZa31F6nzlcWCZ) | 3:42 | 2025-11-28 | 2025-12-13 |

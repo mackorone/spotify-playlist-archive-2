@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz"
+      },
+      "artists": [
+        {
+          "name": "Luka Ferraro",
+          "url": "https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "FACELIFT!",
+      "url": "https://open.spotify.com/track/4LGWguFl4Hf8k9bPyb5JW5"
+    },
+    {
+      "album": {
         "name": "Fais-moi r\u00eaver",
         "url": "https://open.spotify.com/album/53aO4Ze0Jp2MtnCgmbDs5Q"
       },
@@ -7416,7 +7434,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 177106,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L"

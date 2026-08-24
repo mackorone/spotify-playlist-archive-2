@@ -19691,6 +19691,24 @@
     },
     {
       "album": {
+        "name": "Memory Of You",
+        "url": "https://open.spotify.com/album/6a4etyTy9B0EGwuzCFrBQq"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Memory Of You - Cello Version",
+      "url": "https://open.spotify.com/track/01ha0xqTotOX0viqRULI8G"
+    },
+    {
+      "album": {
         "name": "Mend",
         "url": "https://open.spotify.com/album/0thoeshRRPrCSqe0W0QF6P"
       },

@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/6ZVkcZXg252nVEbMETBT1d"
@@ -378,6 +378,24 @@
       "duration_ms": 129720,
       "name": "Bim Bom - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1"
+    },
+    {
+      "album": {
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/5JltXlPJVIDwClIfnscM9v"
     },
     {
       "album": {

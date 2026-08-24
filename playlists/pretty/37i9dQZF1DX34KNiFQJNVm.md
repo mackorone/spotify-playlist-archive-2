@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Diego & Victor Hugo, PARTYNEXTDOOR,  Lagum,  Cynthia Luz com Sotam, Panda e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,307,639 likes - 79 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,306,613 likes - 79 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

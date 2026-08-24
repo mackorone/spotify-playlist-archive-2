@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,904 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,908 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 |
 | 50 | [AL ME LADIES](https://open.spotify.com/track/5xatt9NJdj7mAYE5ZxrpPo) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [Scarface](https://open.spotify.com/artist/0AKfGRIDWDiLB8EHORfP8J) | [AL ME LADIES \(feat\. Scarface\)](https://open.spotify.com/album/3TuIkrTo6MZGWQLkchWExB) | 2:07 |
 
-Snapshot ID: `Mh0AOAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mh5RuAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,114 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,113 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 3 | [No Será Lo Mismo Sin Ti](https://open.spotify.com/track/0nZNZc5GzMTYlDzeXU5cPV) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/6TgwJxSTeSBQBSPYJrLsfE) | 3:36 |
 | 4 | [Tan Suave](https://open.spotify.com/track/17NwlT5t6LX7DbwP3u9jbZ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/30ZEtM3sTLf0N6OTLX4l2m) | 3:42 |
 | 5 | [Tres](https://open.spotify.com/track/2qKa8JyIVGdurqIhUofhiS) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/5bFlStxTq4dNLnYgUMES6n) | 3:42 |
-| 6 | [Libido](https://open.spotify.com/track/6iBjXQMV67MLRCBKqbAJIf) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/1LA8tJh592GVJhZfpUsczU) | 4:58 |
+| 6 | [Ojos de Ángel](https://open.spotify.com/track/6tirbgtMikCaJnJRb2VUom) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/1LA8tJh592GVJhZfpUsczU) | 2:50 |
 | 7 | [Frágil](https://open.spotify.com/track/2tZb7gJLswIF8pVetZlol0) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/6TgwJxSTeSBQBSPYJrLsfE) | 3:38 |
 | 8 | [Malvada](https://open.spotify.com/track/5oaQE02gGgG2bbXBxLxobt) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 2:58 |
 | 9 | [No Voy a Verte Más](https://open.spotify.com/track/3KCR5U9YkmnCwlLvlBJki4) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/5bFlStxTq4dNLnYgUMES6n) | 3:50 |
-| 10 | [Ojos de Ángel](https://open.spotify.com/track/6tirbgtMikCaJnJRb2VUom) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/1LA8tJh592GVJhZfpUsczU) | 2:50 |
+| 10 | [Libido](https://open.spotify.com/track/6iBjXQMV67MLRCBKqbAJIf) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/1LA8tJh592GVJhZfpUsczU) | 4:58 |
 | 11 | [Sin Rencor](https://open.spotify.com/track/1SNPIMf7FsPtb1aRQndvQj) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/6TgwJxSTeSBQBSPYJrLsfE) | 4:39 |
 | 12 | [Mabel](https://open.spotify.com/track/2T7WlGitcpfNIX63s3yrlD) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5hGB6av695f2Z7dihL9aCs) | 4:00 |
 | 13 | [Hembra](https://open.spotify.com/track/6IssLvvySFmJhNE8hao3GP) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/5bFlStxTq4dNLnYgUMES6n) | 4:11 |
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 30 | [Cuelgo el Teléfono](https://open.spotify.com/track/3GIetbJaBAB8jnqVeUF2WE) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/7y2Mm6rNbKFKlEBQeGXxAa) | 3:25 |
 | 31 | [Vientos y Amarguras](https://open.spotify.com/track/38gqUUznAWsu8K55zfFfdx) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 2:36 |
 | 32 | [Fantasma \- En Vivo](https://open.spotify.com/track/4cHItL6lggofWDDPVg4AUO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5hGB6av695f2Z7dihL9aCs) | 3:46 |
-| 33 | [Octubre](https://open.spotify.com/track/1HpKNHRbFTegVKjbAtcfco) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 3:43 |
+| 33 | [Un Día Nuevo](https://open.spotify.com/track/3mQLsMADrQL9cCpKVbnpYa) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 4:03 |
 | 34 | [Mundo Perfecto](https://open.spotify.com/track/4LTxmiksWSUtuHzg2S7PXO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/62xgGgRQT5NrAfsWEoeTyt) | 2:41 |
 | 35 | [La Mujer](https://open.spotify.com/track/1aI5v8VXseEIohlEZoOti6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 3:16 |
 | 36 | [Criatura Misteriosa \- En Vivo](https://open.spotify.com/track/6iEZ8FQwD73BGBskoR7E1R) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/2XZbsEeI6vKVCdoEJ6pEKp) | 4:39 |
-| 37 | [Un Día Nuevo](https://open.spotify.com/track/3mQLsMADrQL9cCpKVbnpYa) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 4:03 |
+| 37 | [Octubre](https://open.spotify.com/track/1HpKNHRbFTegVKjbAtcfco) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 3:43 |
 | 38 | [Hablar No Es Necesario](https://open.spotify.com/track/7mQx2pOfRyGLCOO8umcjb9) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/62xgGgRQT5NrAfsWEoeTyt) | 2:16 |
 | 39 | [Sentir Que Hoy](https://open.spotify.com/track/5f8aphPeEriZf6qNZXBNTc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 3:30 |
 | 40 | [Something](https://open.spotify.com/track/7mC7r1jLqnsIgRdJNJ8q9l) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 2:46 |
 
-Snapshot ID: `aoeVAAAAAABBgeaug6olJh//+SDPL/eA`
+Snapshot ID: `aojmgAAAAADgRc05lWKJNdjv534w19cI`

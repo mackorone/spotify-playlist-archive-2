@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJwh8CtWJAfXO88bDu6iZpWS+nByR4",
+  "snapshot_id": "AAAJxfweQgHaPoCl0DMiFbB9i1C6Lx+o",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -77339,6 +77339,54 @@
       "duration_ms": 222666,
       "name": "Tenfold The Blood",
       "url": "https://open.spotify.com/track/0tkxA99Aw4l1e7KQHHj5lt"
+    },
+    {
+      "added_at": "2026-08-23 11:09:04",
+      "album": {
+        "name": "At the Edge of Goodbye",
+        "url": "https://open.spotify.com/album/1O0SrcMefu8W6w7bsOvJUq"
+      },
+      "artists": [
+        {
+          "name": "WIARANETY",
+          "url": "https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL"
+        }
+      ],
+      "duration_ms": 206263,
+      "name": "At the Edge of Goodbye",
+      "url": "https://open.spotify.com/track/2Bl4FGbvFIUEaitSyDg2zI"
+    },
+    {
+      "added_at": "2026-08-23 11:15:33",
+      "album": {
+        "name": "Three Cuts",
+        "url": "https://open.spotify.com/album/1uXNnjRTMXmv2KoCGK49HU"
+      },
+      "artists": [
+        {
+          "name": "Mikey Mills",
+          "url": "https://open.spotify.com/artist/3Zpw9cotE2q7uM8Lswsb3U"
+        }
+      ],
+      "duration_ms": 348449,
+      "name": "Letter for a Friend",
+      "url": "https://open.spotify.com/track/1k3Wi7FoBl96bhPFhJI2dk"
+    },
+    {
+      "added_at": "2026-08-23 16:58:32",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/7DV9VxlVyJowieEFVVDxT6"
+      },
+      "artists": [
+        {
+          "name": "WolFang",
+          "url": "https://open.spotify.com/artist/4TRv1uo8LqhJiEBbKElMQA"
+        }
+      ],
+      "duration_ms": 481151,
+      "name": "Purgatory",
+      "url": "https://open.spotify.com/track/5JG6EWc3QRbkLslINLFZcl"
     }
   ],
   "unique_name": "playlist spotify free",

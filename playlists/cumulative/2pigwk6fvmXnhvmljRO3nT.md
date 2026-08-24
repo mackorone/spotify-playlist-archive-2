@@ -4,7 +4,7 @@
 
 > 
 
-8,829 songs - 22 day 11 hr 25 min
+8,830 songs - 22 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2025-01-03 |  |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2025-01-04 |  |
 | [Attention \(250 Remix\)](https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:01 | 2025-01-06 |  |
-| [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 | 2025-04-13 |  |
+| [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 | 2025-04-13 | 2026-08-24 |
 | [Aurora](https://open.spotify.com/track/7dIh8FF0EzYKS8STv3v4F4) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 5:49 | 2025-01-03 |  |
 | [Aurora](https://open.spotify.com/track/61N74tM8p1s1lMQ4Vfrcny) | [oDDling](https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE) | [Milestone](https://open.spotify.com/album/3FWnNpJUrMwtCRUlEMgeUb) | 4:01 | 2026-08-15 |  |
 | [AUTOMATIC](https://open.spotify.com/track/2TqfASuL5JRds7bJX01PdZ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:02 | 2025-01-03 |  |
@@ -4710,6 +4710,7 @@
 | [Nobody New](https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Nobody New](https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3) | 3:35 | 2025-11-19 |  |
 | [Nobody's Perfect](https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:10 | 2025-01-03 |  |
 | [Nocturnal Illumination](https://open.spotify.com/track/35YjNszL3bVxu5sOVnrGWo) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Fountain of Belleau \(Original Game Soundtrack\)](https://open.spotify.com/album/4UwFbGhMZA4LZqqAnt8LCB) | 1:35 | 2025-11-29 |  |
+| [Nod\-Krai](https://open.spotify.com/track/2iLXob2hgJHqsqPdU8dRdt) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Genshin Impact \- Outside It Is Growing Dark \(Original Game Soundtrack\)](https://open.spotify.com/album/2CmoJO7rl4JDnsKHG1ZMsL) | 4:20 | 2026-08-23 |  |
 | [Noid](https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:44 | 2025-01-15 |  |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-24 |  |
 | [Nomad](https://open.spotify.com/track/4WJPxTsvWIdRZ9vMtqk7fj) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:45 | 2024-12-14 |  |
@@ -8490,7 +8491,7 @@
 | [고래사냥](https://open.spotify.com/track/6s9XHtTmseyLWzfX3IaIQP) | [Song Chang Sik](https://open.spotify.com/artist/6uKCrM3dtEuH1azKTcuLdy) | [송창식 베스트](https://open.spotify.com/album/3yQCtlj0OGG6go9whCDfrW) | 4:35 | 2025-01-15 | 2025-07-24 |
 | [고백](https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV) | [DELISPICE](https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf) | [Espresso](https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb) | 5:23 | 2025-01-03 |  |
 | [고해](https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 5:02 | 2025-01-03 |  |
-| [고해](https://open.spotify.com/track/6wSZU5OaILn51xgAqvoLws) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories](https://open.spotify.com/album/73gPVFr5bRXhm2iGL29eK1) | 5:33 | 2025-01-03 |  |
+| [고해](https://open.spotify.com/track/6wSZU5OaILn51xgAqvoLws) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories](https://open.spotify.com/album/73gPVFr5bRXhm2iGL29eK1) | 5:33 | 2025-01-03 | 2026-08-24 |
 | [골목길](https://open.spotify.com/track/5MUStyZypucBWxiNnnZXPl) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 Best 10](https://open.spotify.com/album/4fR66BGWGpIIfAC1v66NUn) | 4:48 | 2025-11-03 |  |
 | [공허해 empty](https://open.spotify.com/track/2ENZ9lWpoLAGFDJsDb2Cbt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A) | 3:40 | 2025-01-15 |  |
 | [관찰](https://open.spotify.com/track/2itE7WlP7hdP8ehM4ORfGt) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 1](https://open.spotify.com/album/7nXgDEsZZdp3ri3WtDNS8v) | 3:35 | 2025-01-03 |  |

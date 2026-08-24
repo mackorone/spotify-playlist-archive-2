@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 47229,
+  "num_followers": 47251,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,22 @@
     {
       "added_at": "2026-07-16 22:01:26",
       "album": {
-        "name": "Tussen Jou en Mij",
-        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
+        "name": "(Die Man Is) Verliefd",
+        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
       },
       "artists": [
         {
-          "name": "Willem & Jan",
-          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
-        },
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        },
-        {
           "name": "Jan Smit",
           "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
         }
       ],
-      "duration_ms": 178708,
-      "name": "Tussen Jou en Mij",
-      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
+      "duration_ms": 186799,
+      "name": "(Die Man Is) Verliefd",
+      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
       "added_at": "2026-07-16 22:01:26",
@@ -127,22 +123,26 @@
     {
       "added_at": "2026-07-16 22:01:26",
       "album": {
-        "name": "(Die Man Is) Verliefd",
-        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
+        "name": "Tussen Jou en Mij",
+        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
       },
       "artists": [
         {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+          "name": "Willem & Jan",
+          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
         },
         {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        },
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
         }
       ],
-      "duration_ms": 186799,
-      "name": "(Die Man Is) Verliefd",
-      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+      "duration_ms": 178708,
+      "name": "Tussen Jou en Mij",
+      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
     },
     {
       "added_at": "2026-07-16 22:01:26",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-07-16 22:01:26",
       "album": {
+        "name": "Nu Jij Hier Niet Meer Bent",
+        "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 250269,
+      "name": "Nu Jij Hier Niet Meer Bent",
+      "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
+    },
+    {
+      "added_at": "2026-07-16 22:01:26",
+      "album": {
         "name": "Oktober",
         "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 155724,
       "name": "Echte Liefde",
       "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
-    },
-    {
-      "added_at": "2026-07-16 22:01:26",
-      "album": {
-        "name": "Nu Jij Hier Niet Meer Bent",
-        "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 250269,
-      "name": "Nu Jij Hier Niet Meer Bent",
-      "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
     },
     {
       "added_at": "2026-07-16 22:01:26",

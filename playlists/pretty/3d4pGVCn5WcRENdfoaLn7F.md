@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 835 likes - 61 songs - 3 hr 25 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 837 likes - 62 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 59 | [if there's nothing \(Hectic remix\)](https://open.spotify.com/track/6MPGzh7e28n4zcglTZ0YLD) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [if there's nothing \(Hectic remix\)](https://open.spotify.com/album/2Lor3cYUlpeYXYm3ehGSOo) | 3:44 |
 | 60 | [Euforia](https://open.spotify.com/track/6ZE7kFAYRTr8sN9hmNB8Zk) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [El Tiempo](https://open.spotify.com/album/2UFGBEFfLOnX2yDj2x9YNR) | 2:32 |
 | 61 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
+| 62 | [Bleed Me](https://open.spotify.com/track/1zUyNaht7QAMAjpe9d0bsw) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [Bleed Me](https://open.spotify.com/album/6Fgy6G7kwojsXyI5WTp6FT) | 3:21 |
 
-Snapshot ID: `AAAD5y7YuflHOtZLpclyD7z3CypphOXa`
+Snapshot ID: `AAAD6FanaIzWFz94v8NCcRyD5kEpnuQk`

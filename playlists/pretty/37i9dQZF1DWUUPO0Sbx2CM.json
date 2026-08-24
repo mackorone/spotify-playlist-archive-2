@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 238164,
+  "num_followers": 238204,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "The Way, The Truth, The Life",
+        "url": "https://open.spotify.com/album/3aRpZMdMJA6h9lU5naGp9Y"
+      },
+      "artists": [
+        {
+          "name": "AndyG",
+          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "The Way, The Truth, The Life",
+      "url": "https://open.spotify.com/track/3AFN5L7h94fa7UGn533VVy"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Like Water",
         "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 161219,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "The Way, The Truth, The Life",
-        "url": "https://open.spotify.com/album/3aRpZMdMJA6h9lU5naGp9Y"
-      },
-      "artists": [
-        {
-          "name": "AndyG",
-          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "The Way, The Truth, The Life",
-      "url": "https://open.spotify.com/track/3AFN5L7h94fa7UGn533VVy"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -441,44 +441,12 @@
         },
         {
           "name": "Praise Lubangu",
-          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
+          "url": "https://open.spotify.com/artist/3EkrjQH6KyUDl0weOryOiq"
         }
       ],
       "duration_ms": 162500,
       "name": "Covenant",
       "url": "https://open.spotify.com/track/1ygx5QNNXt5IYhnwy7xuH0"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "KALLAH",
-        "url": "https://open.spotify.com/album/4fBfxw4vbbBcx39lJtPGup"
-      },
-      "artists": [
-        {
-          "name": "Camila Sof\u00eda",
-          "url": "https://open.spotify.com/artist/2TJxyZOletIHtZ2e3rIcr8"
-        }
-      ],
-      "duration_ms": 186517,
-      "name": "KALLAH",
-      "url": "https://open.spotify.com/track/7KMBBsBa0b8nEStzLMluTo"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "looking for You",
-        "url": "https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "looking for You",
-      "url": "https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -499,6 +467,38 @@
       "duration_ms": 170118,
       "name": "One Day",
       "url": "https://open.spotify.com/track/2gRcs1nHQX7DBjIScfj41R"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "looking for You",
+        "url": "https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "looking for You",
+      "url": "https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "KALLAH",
+        "url": "https://open.spotify.com/album/4fBfxw4vbbBcx39lJtPGup"
+      },
+      "artists": [
+        {
+          "name": "Camila Sof\u00eda",
+          "url": "https://open.spotify.com/artist/2TJxyZOletIHtZ2e3rIcr8"
+        }
+      ],
+      "duration_ms": 186517,
+      "name": "KALLAH",
+      "url": "https://open.spotify.com/track/7KMBBsBa0b8nEStzLMluTo"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -807,6 +807,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Every Move I Make",
+        "url": "https://open.spotify.com/album/2awny9v4MKwfeiED5UoYcH"
+      },
+      "artists": [
+        {
+          "name": "Keross Music",
+          "url": "https://open.spotify.com/artist/1HtXEUY5ekhBgwHBQsVkay"
+        },
+        {
+          "name": "CARISSA M.",
+          "url": "https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/3E5ME1nX4zRt1oI6tydLop"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Move (Remixes)",
         "url": "https://open.spotify.com/album/3Bl4P0Vz2KijX8BrGzOFcF"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 112500,
       "name": "Move - Gui Brazil & Bruninho Music Remix",
       "url": "https://open.spotify.com/track/5irlMDKsADoAWrZM29bXYx"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Every Move I Make",
-        "url": "https://open.spotify.com/album/2awny9v4MKwfeiED5UoYcH"
-      },
-      "artists": [
-        {
-          "name": "Keross Music",
-          "url": "https://open.spotify.com/artist/1HtXEUY5ekhBgwHBQsVkay"
-        },
-        {
-          "name": "CARISSA M.",
-          "url": "https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Every Move I Make",
-      "url": "https://open.spotify.com/track/3E5ME1nX4zRt1oI6tydLop"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Calling My Name",
-        "url": "https://open.spotify.com/album/4IeX9q85ep83QsXB1LpN6j"
-      },
-      "artists": [
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Calling My Name",
-      "url": "https://open.spotify.com/track/6pzWAV0CjM025DvrUSR6uE"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Jumping Fences (GREGATRON Remix)",
         "url": "https://open.spotify.com/album/3xohme0JhBOoJ9Q4nVrQvC"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 161360,
       "name": "Jumping Fences - GREGATRON Remix",
       "url": "https://open.spotify.com/track/7F3OGOKsNgjfy6Oa7YSLol"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Calling My Name",
+        "url": "https://open.spotify.com/album/4IeX9q85ep83QsXB1LpN6j"
+      },
+      "artists": [
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Calling My Name",
+      "url": "https://open.spotify.com/track/6pzWAV0CjM025DvrUSR6uE"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "crown",
+        "url": "https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "crown",
+      "url": "https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/3im4azOVIjhYWRD3a8u8Ic"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 188793,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/02cqJ7yEmzwJoEzlWwdEn4"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "crown",
-        "url": "https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "crown",
-      "url": "https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "ELIJAH LEVEL EP",
-        "url": "https://open.spotify.com/album/42HqbTzC7Rw2L05IBUnJPy"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        },
-        {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Elijah Level EDM",
-      "url": "https://open.spotify.com/track/4ea0T3YrxaKA7q15n6JrCH"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Tell The World",
         "url": "https://open.spotify.com/album/2JnYrqR2pB3DyPIzPfE6vs"
       },
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "ELIJAH LEVEL EP",
+        "url": "https://open.spotify.com/album/42HqbTzC7Rw2L05IBUnJPy"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        },
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Elijah Level EDM",
+      "url": "https://open.spotify.com/track/4ea0T3YrxaKA7q15n6JrCH"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
       },
@@ -1299,26 +1299,6 @@
       "duration_ms": 243180,
       "name": "Angels - Original Vocal Mix",
       "url": "https://open.spotify.com/track/1od7YOxcc8N7ndCXV7hMdj"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
-        }
-      ],
-      "duration_ms": 232802,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1343,38 +1323,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 293916,
-      "name": "Love Is All I Know",
-      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
-      },
-      "artists": [
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
         },
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
         }
       ],
-      "duration_ms": 149032,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
+      "duration_ms": 232802,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1403,6 +1367,42 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
+      },
+      "artists": [
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 293916,
+      "name": "Love Is All I Know",
+      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "You Love Me",
         "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
       },
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Praise Him",
-        "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
+        "name": "Reason To Dance",
+        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
       },
       "artists": [
         {
-          "name": "Megamind Nova",
-          "url": "https://open.spotify.com/artist/1zVnf3ZQeEYaicFVZfNTzC"
-        },
-        {
-          "name": "MacD",
-          "url": "https://open.spotify.com/artist/4Ssv2d04jzGpEhOoqE1prh"
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
         }
       ],
-      "duration_ms": 434086,
-      "name": "Praise Him",
-      "url": "https://open.spotify.com/track/3WA5oS4gru99UDZbYcMJI4"
+      "duration_ms": 220296,
+      "name": "Reason To Dance",
+      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Reason To Dance",
-        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
       },
       "artists": [
         {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+          "name": "Megamind Nova",
+          "url": "https://open.spotify.com/artist/1zVnf3ZQeEYaicFVZfNTzC"
+        },
+        {
+          "name": "MacD",
+          "url": "https://open.spotify.com/artist/4Ssv2d04jzGpEhOoqE1prh"
         }
       ],
-      "duration_ms": 220296,
-      "name": "Reason To Dance",
-      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
+      "duration_ms": 434086,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/3WA5oS4gru99UDZbYcMJI4"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4S80CkwQ8lpwX69leEAHat"
+      },
+      "artists": [
+        {
+          "name": "Nathan G",
+          "url": "https://open.spotify.com/artist/5sY89xuf8fkENxCnGT3d6P"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "My Sweet Heaven (feat. Stealth)",
         "url": "https://open.spotify.com/album/70iRS7awE2Q5iQgY8wDzcB"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/4S80CkwQ8lpwX69leEAHat"
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
       },
       "artists": [
         {
-          "name": "Nathan G",
-          "url": "https://open.spotify.com/artist/5sY89xuf8fkENxCnGT3d6P"
+          "name": "Kislaw",
+          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
         }
       ],
-      "duration_ms": 187086,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
+      "duration_ms": 182120,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1595,22 +1611,6 @@
       "duration_ms": 224646,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2OC92OqMTZY9jQvX9ihFTK"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
-      },
-      "artists": [
-        {
-          "name": "Kislaw",
-          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Save Me (Illingworth Remix)",
-        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        },
-        {
-          "name": "Illingworth",
-          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Save Me (Illingworth Remix)",
-      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Who I was",
         "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 208800,
       "name": "Who I Was",
       "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Save Me (Illingworth Remix)",
+        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        },
+        {
+          "name": "Illingworth",
+          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Save Me (Illingworth Remix)",
+      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1847,22 +1847,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Music Comes from God",
-        "url": "https://open.spotify.com/album/1QU3tPc4vf6l21ylcrGuNG"
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
       },
       "artists": [
         {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "R. Gallery",
-          "url": "https://open.spotify.com/artist/3YEHk7kkh4J4o6ICOU9a2g"
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
         }
       ],
-      "duration_ms": 189374,
-      "name": "Music Comes from God",
-      "url": "https://open.spotify.com/track/2V5cKqjFASygj6yIFdW4eP"
+      "duration_ms": 174240,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1919,18 +1915,42 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
+        "name": "Music Comes from God",
+        "url": "https://open.spotify.com/album/1QU3tPc4vf6l21ylcrGuNG"
       },
       "artists": [
         {
-          "name": "Petrina DeLacey",
-          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "R. Gallery",
+          "url": "https://open.spotify.com/artist/3YEHk7kkh4J4o6ICOU9a2g"
         }
       ],
-      "duration_ms": 174240,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
+      "duration_ms": 189374,
+      "name": "Music Comes from God",
+      "url": "https://open.spotify.com/track/2V5cKqjFASygj6yIFdW4eP"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Fire Fall (Paris Jones Remix)",
+        "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
+      },
+      "artists": [
+        {
+          "name": "Seth & Nirva",
+          "url": "https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL"
+        },
+        {
+          "name": "Paris Jones",
+          "url": "https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp"
+        }
+      ],
+      "duration_ms": 250378,
+      "name": "Fire Fall - Paris Jones Remix",
+      "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1971,22 +1991,6 @@
       "duration_ms": 343666,
       "name": "Joy (Hallelujah) Extended - Extended Version",
       "url": "https://open.spotify.com/track/525FyfifOZtwPiXxhfTOFT"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "You Ain't",
-        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "You Ain't",
-      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
     }
   ],
   "unique_name": "Christian Dance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lcfHaG6KKl.md) - [plain]
 
 > The official soundtrack to One Night Only, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

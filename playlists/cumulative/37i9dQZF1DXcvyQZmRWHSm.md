@@ -2,7 +2,7 @@
 
 ### [Classic Rock Videos](https://open.spotify.com/playlist/37i9dQZF1DXcvyQZmRWHSm)
 
-> Videos from the most legendary rock artists who inspired generations\. Music videos available only in Premium.
+> Videos from the most legendary rockstars who inspired generations\. Music videos available only in Premium.
 
 80 songs - 5 hr 53 min
 

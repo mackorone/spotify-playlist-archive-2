@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Jc, Romano Santino, BDLC en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,458 likes - 56 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,450 likes - 56 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

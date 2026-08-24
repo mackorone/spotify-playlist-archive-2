@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Nabi,  Villabanks, lildombaby, CARO WOW, Jasmin407 e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,995 likes - 103 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,997 likes - 103 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

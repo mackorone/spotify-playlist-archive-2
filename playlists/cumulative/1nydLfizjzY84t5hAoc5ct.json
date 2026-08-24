@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Beckoning Back",
+        "url": "https://open.spotify.com/album/2fYKySVGQezklU2wUY7ZWT"
+      },
+      "artists": [
+        {
+          "name": "merrowfolk",
+          "url": "https://open.spotify.com/artist/5HjMNe74pWawzyga0Atud2"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252386,
+      "name": "Beckoning Back",
+      "url": "https://open.spotify.com/track/5uh2aY66UaegLGcwIyLVT7"
+    },
+    {
+      "album": {
         "name": "Before The Rain",
         "url": "https://open.spotify.com/album/4hpjcDj5zk0gPqOKxPqiwg"
       },
@@ -3774,6 +3792,24 @@
       "duration_ms": 318759,
       "name": "Lemonade Tycoon",
       "url": "https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD"
+    },
+    {
+      "album": {
+        "name": "Let Me Be Yours",
+        "url": "https://open.spotify.com/album/1VICKjpv8DBEMXTQ8Ojtuo"
+      },
+      "artists": [
+        {
+          "name": "merrowfolk",
+          "url": "https://open.spotify.com/artist/5HjMNe74pWawzyga0Atud2"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "Let Me Be Yours",
+      "url": "https://open.spotify.com/track/5FcH9C2O5uXC48tBaGoEXA"
     },
     {
       "album": {

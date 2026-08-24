@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,859 likes - 238 songs - 12 hr 12 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,858 likes - 245 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,5 +246,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 236 | [Fighting Shadows](https://open.spotify.com/track/5Je4cjbgFp4eOUeT1VFPNb) | [Sams Beatz](https://open.spotify.com/artist/31sor2nBOhCr8OTC2X92wI) | [Fighting Shadows](https://open.spotify.com/album/6MmwI1527M4BinNWo3227H) | 3:02 |
 | 237 | [HIGH SCHOOL](https://open.spotify.com/track/16noJaTnjhTFQVIndW63Cn) | [yungsaint✞✞✞](https://open.spotify.com/artist/3BqwY2JmYDFLd2QZtwbtUQ) | [HIGH SCHOOL](https://open.spotify.com/album/1peDkOntME2cFsek0rtDyR) | 2:02 |
 | 238 | [Outed Now](https://open.spotify.com/track/791mkxaPDt239fHRBl6Xf5) | [Gawd](https://open.spotify.com/artist/76xDrhcwYuayzbzIkR3mBD) | [American Closet](https://open.spotify.com/album/2JJBoMlIWcIHhnsbt7Hnld) | 3:46 |
+| 239 | [Sunshine Mery](https://open.spotify.com/track/6R8bdDF7LEmYfSFnuL8JPb) | [Nakace7](https://open.spotify.com/artist/79WqBie5aUELM4nIUaNqZs) | [Sunshine Mery](https://open.spotify.com/album/5SCF6XJUAw8ypOX6JPhdjz) | 3:24 |
+| 240 | [Algorithmic Forgetting](https://open.spotify.com/track/6RGdlirYSVRAHBQmd6JyEM) | [System Idle](https://open.spotify.com/artist/2kKtYiV7afMJuCAglWMDvn) | [Algorithmic Forgetting](https://open.spotify.com/album/6jh7WJeXdoei6V7ZpDbInO) | 6:25 |
+| 241 | [Echo](https://open.spotify.com/track/2qgWXBiWbMsoxl4hCW3nfD) | [Simon Bennett](https://open.spotify.com/artist/2xuLWfEQjEjR2NqXpG6i54) | [Echo](https://open.spotify.com/album/2J2yg0tCg5Jqio9OrY4k6f) | 3:53 |
+| 242 | [If Heaven Won’t Come Down](https://open.spotify.com/track/6nQ5ErJd0Sn65y6CMy5nXb) | [DrMorri](https://open.spotify.com/artist/14Ju0GMUuoMTBopLjMmVQR), [ADA](https://open.spotify.com/artist/0vOKoC29mMCeG1MkjqgKq1) | [If Heaven Won’t Come Down](https://open.spotify.com/album/5NFLTw2RrkfACvLyrNRKHe) | 2:52 |
+| 243 | [Oxygen](https://open.spotify.com/track/72nYI05HXLVqpWmgB1BcBu) | [HOME Hits](https://open.spotify.com/artist/7HuJZxcsnsNvIBpdLXp0RJ), [Rachel Curtis](https://open.spotify.com/artist/6DkII9PFxB8CETfB5qqr9W), [Maria Shockey](https://open.spotify.com/artist/1PMyd7oGcPMuJppXFlzFAF) | [Oxygen](https://open.spotify.com/album/3838VJAKasK8BXoGgkU3QM) | 2:16 |
+| 244 | [Lost in you](https://open.spotify.com/track/71qWqk3oJK9bUH2WGDy0At) | [Me & Melancholy](https://open.spotify.com/artist/6ZZZwGgM356RFi7YH7uSOs) | [Lost in you](https://open.spotify.com/album/0fYyBWqir7U2qHumwq0zzF) | 2:36 |
+| 245 | [Under The Karri Tree](https://open.spotify.com/track/0Z5f5hm9JshVj4gz1ooyC1) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Under The Karri Tree](https://open.spotify.com/album/35hnr06kHziZWYDBAaQCha) | 3:52 |
 
-Snapshot ID: `AAA7mvuK/BkMo5Toz1Yz37Uxd1tcEINi`
+Snapshot ID: `AAA7oTbIRAkeX2u29JfajpFkWh4N2oa2`

@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83126,
+  "num_followers": 83119,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "BOMBEI AQUELA MSC DO INVEJOSO",
+        "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "BOMBEI AQUELA MSC DO INVEJOSO",
+      "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 141615,
       "name": "Mas Existe um Lugar - speed",
       "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "BOMBEI AQUELA MSC DO INVEJOSO",
-        "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
-      },
-      "artists": [
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "BOMBEI AQUELA MSC DO INVEJOSO",
-      "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
     },
     {
       "added_at": "2024-07-08 19:10:57",

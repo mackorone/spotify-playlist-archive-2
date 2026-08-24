@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Winter Back)",
-  "num_followers": 37977,
+  "num_followers": 37982,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -363,26 +363,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "PINKY UP: The Remixes",
-        "url": "https://open.spotify.com/album/6SbW01YgpOGMmqTm8XoyBB"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        },
-        {
-          "name": "Fig Tape",
-          "url": "https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z"
-        }
-      ],
-      "duration_ms": 167989,
-      "name": "PINKY UP - Katwalk Remix",
-      "url": "https://open.spotify.com/track/7o6hR43FSGru6pmc9KofQU"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "3D (feat. Jack Harlow) (MK Remix)",
         "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 186241,
       "name": "3D (feat. Jack Harlow) (MK Remix)",
       "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "PINKY UP: The Remixes",
+        "url": "https://open.spotify.com/album/6SbW01YgpOGMmqTm8XoyBB"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "Fig Tape",
+          "url": "https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z"
+        }
+      ],
+      "duration_ms": 167989,
+      "name": "PINKY UP - Katwalk Remix",
+      "url": "https://open.spotify.com/track/7o6hR43FSGru6pmc9KofQU"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "White cat",
-        "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "White cat",
-      "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "Standing Next to You (The Remixes)",
         "url": "https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 197160,
       "name": "Standing Next to You (Future Funk Remix)",
       "url": "https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "White cat",
+        "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "White cat",
+      "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -623,8 +623,8 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "YES",
-        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
+        "name": "MOVEURBODY",
+        "url": "https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
         }
       ],
-      "duration_ms": 178230,
-      "name": "YES",
-      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
+      "duration_ms": 136817,
+      "name": "MOVEURBODY",
+      "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -715,8 +715,8 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "MOVEURBODY",
-        "url": "https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW"
+        "name": "YES",
+        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
         }
       ],
-      "duration_ms": 136817,
-      "name": "MOVEURBODY",
-      "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
+      "duration_ms": 178230,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "caffeine withdrawal",
         "url": "https://open.spotify.com/album/0nJlGYaDlHYfbdRx9NTFe0"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 165169,
       "name": "caffeine withdrawal",
       "url": "https://open.spotify.com/track/3xSFpa7tcAXZv1oGPZ0ZsO"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
+        "name": "XE\u00d6UL",
+        "url": "https://open.spotify.com/album/4HThPrEuT8tIYHDcBOO9a2"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/0MaYYvxoSPs7CZ5UnsjMO9"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Phone Down",
+      "url": "https://open.spotify.com/track/1xUtJf93RvTpa5Wm1w10Ux"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
         "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
         "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
       },
@@ -1155,30 +1179,6 @@
       "duration_ms": 212352,
       "name": "My Bad (feat. Julie Bergan) - KSHMR Edit",
       "url": "https://open.spotify.com/track/7rM4FWiY8PqU2TxdXX6BXh"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
-        "name": "XE\u00d6UL",
-        "url": "https://open.spotify.com/album/4HThPrEuT8tIYHDcBOO9a2"
-      },
-      "artists": [
-        {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
-        },
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/0MaYYvxoSPs7CZ5UnsjMO9"
-        },
-        {
-          "name": "NOWIMYOUNG",
-          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Phone Down",
-      "url": "https://open.spotify.com/track/1xUtJf93RvTpa5Wm1w10Ux"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "allez, pousse!",
-        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 190151,
-      "name": "allez, pousse!",
-      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "silkysmooth 01",
         "url": "https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "allez, pousse!",
+        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 190151,
+      "name": "allez, pousse!",
+      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "Green and Pink",
-        "url": "https://open.spotify.com/album/4zqNeC6wVMrKWg5sPhd7Uu"
-      },
-      "artists": [
-        {
-          "name": "Kim Doeon",
-          "url": "https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg"
-        }
-      ],
-      "duration_ms": 257472,
-      "name": "Green and Pink",
-      "url": "https://open.spotify.com/track/1UzTZQXNsoi6EeQmszDqiJ"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "wo ai ni / break it even",
         "url": "https://open.spotify.com/album/2GMtWkMoiQifiJB7qDW4XY"
       },
@@ -1615,22 +1599,18 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+        "name": "Green and Pink",
+        "url": "https://open.spotify.com/album/4zqNeC6wVMrKWg5sPhd7Uu"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Mount XLR",
-          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+          "name": "Kim Doeon",
+          "url": "https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Armageddon (Mount XLR Remix)",
-      "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
+      "duration_ms": 257472,
+      "name": "Green and Pink",
+      "url": "https://open.spotify.com/track/1UzTZQXNsoi6EeQmszDqiJ"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1651,6 +1631,26 @@
       "duration_ms": 216386,
       "name": "Red Flavor - Mar Vista Remix",
       "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Mount XLR",
+          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Armageddon (Mount XLR Remix)",
+      "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/3zx7uivDY6DW2UrvPs9wua"
+      },
+      "artists": [
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5"
+        }
+      ],
+      "duration_ms": 243165,
+      "name": "\ucc9c\uc0dd\uc5f0\ubd84 Destiny (Fyke Remix)",
+      "url": "https://open.spotify.com/track/0BZgJV9s7ib3ysp75hSW8x"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
         "name": "iScreaM Vol.14 : Peaches Remixes",
         "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 199453,
       "name": "Peaches - SUMIN Remix",
       "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/3zx7uivDY6DW2UrvPs9wua"
-      },
-      "artists": [
-        {
-          "name": "Solid",
-          "url": "https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5"
-        }
-      ],
-      "duration_ms": 243165,
-      "name": "\ucc9c\uc0dd\uc5f0\ubd84 Destiny (Fyke Remix)",
-      "url": "https://open.spotify.com/track/0BZgJV9s7ib3ysp75hSW8x"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
-    },
-    {
-      "added_at": "2026-08-20 05:31:14",
-      "album": {
         "name": "SPAZ",
         "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 169506,
       "name": "Bassister (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
+    },
+    {
+      "added_at": "2026-08-20 05:31:14",
+      "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-08-20 05:31:14",
@@ -1851,26 +1851,22 @@
     {
       "added_at": "2026-08-20 05:31:14",
       "album": {
-        "name": "Atmosphere - SM STATION",
-        "url": "https://open.spotify.com/album/6F44f0aj0LxqI4hguioxTZ"
+        "name": "MOONLIGHT (MOTi Remix)",
+        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
       "artists": [
         {
-          "name": "Juncoco",
-          "url": "https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td"
+          "name": "HENRY LAU",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
         },
         {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
-        },
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 191654,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx"
+      "duration_ms": 163500,
+      "name": "MOONLIGHT - MOTi Remix",
+      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     }
   ],
   "unique_name": "Electronii[K]",

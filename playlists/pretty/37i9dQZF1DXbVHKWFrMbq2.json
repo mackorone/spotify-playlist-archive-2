@@ -1,6 +1,6 @@
 {
   "description": "Canciones para chillear, con esperanzah en portada.",
-  "num_followers": 29042,
+  "num_followers": 29043,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 152566,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "sorry es que soy bipolarrr",
         "url": "https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 193154,
       "name": "Una Noche Contigo",
       "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "NO ME OLVIDES",
-        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 152566,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "+ de cerquita",
-        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "c\u00e1bala (+ de cerquita)",
-      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "no llames lo m\u00edo nuestro",
         "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 219133,
       "name": "no llames lo m\u00edo nuestro",
       "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "+ de cerquita",
+        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "c\u00e1bala (+ de cerquita)",
+      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "EL MENSAJERO",
-        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
-      },
-      "artists": [
-        {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
-        },
-        {
-          "name": "Cocodrilo P&B",
-          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "EL MENSAJERO",
-      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 178160,
       "name": "oda al canto",
       "url": "https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "EL MENSAJERO",
+        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        },
+        {
+          "name": "Cocodrilo P&B",
+          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
+        }
+      ],
+      "duration_ms": 148421,
+      "name": "EL MENSAJERO",
+      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "calma",
+        "url": "https://open.spotify.com/album/0FxGdicC03LBraAb4Zcglc"
+      },
+      "artists": [
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
+        }
+      ],
+      "duration_ms": 119336,
+      "name": "calma",
+      "url": "https://open.spotify.com/track/72u9TVViPWzK3xiuhxRgf0"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "shut up",
         "url": "https://open.spotify.com/album/3cu7eK8Qo7fV32SGE5fJtq"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 118518,
       "name": "shut up",
       "url": "https://open.spotify.com/track/0Im7QsuIw1G7ZU8u8wKBYZ"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "calma",
-        "url": "https://open.spotify.com/album/0FxGdicC03LBraAb4Zcglc"
-      },
-      "artists": [
-        {
-          "name": "Lito",
-          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
-        }
-      ],
-      "duration_ms": 119336,
-      "name": "calma",
-      "url": "https://open.spotify.com/track/72u9TVViPWzK3xiuhxRgf0"
     },
     {
       "added_at": "2026-08-20 22:49:00",

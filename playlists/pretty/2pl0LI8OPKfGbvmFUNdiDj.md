@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,117 likes - 58 songs - 3 hr 14 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,121 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 56 | [B!tch](https://open.spotify.com/track/6yuAizja4nZcTgGHARMGbR) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [B!tch](https://open.spotify.com/album/5bkMKZjEHxdsB6chVzgXZt) | 3:24 |
 | 57 | [Happy Pill](https://open.spotify.com/track/70s2jRIzv2wH9WiQv3CNuY) | [Millie Mountain](https://open.spotify.com/artist/6DVdCYxPalV6GXHAFhEkIG) | [Tools](https://open.spotify.com/album/5prOUcOkdi374LTU7xR6h8) | 1:58 |
 | 58 | [Forever](https://open.spotify.com/track/1RuckU5sGctczAPxEBiNRl) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Forever](https://open.spotify.com/album/0HwDigYQQjh0T0tqsC71dM) | 4:17 |
+| 59 | [Need and Desire](https://open.spotify.com/track/0PP0HKi1EVTQ5OupfncE7A) | [Ebb 'n Flow](https://open.spotify.com/artist/10whZfAsmPiGyP9x4K4VMu) | [Need and Desire](https://open.spotify.com/album/3XXqrdUMW5OjilzoqgTxid) | 3:04 |
 
-Snapshot ID: `AAAEPadBvP1/uT5ML3jTs7BjIoxBEoS5`
+Snapshot ID: `AAAEPtsfztnvQ8eTCLKOJzOD7b/PRKRY`

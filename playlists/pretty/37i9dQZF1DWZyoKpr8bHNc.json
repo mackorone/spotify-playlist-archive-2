@@ -1,6 +1,6 @@
 {
   "description": "Timeless & classic Arabic songs. Cover: Warda",
-  "num_followers": 120379,
+  "num_followers": 120466,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,18 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Best of Salwa El Katrib, Vol. 1",
-        "url": "https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ"
+        "name": "Legend - The Best Of Fairuz",
+        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
       },
       "artists": [
         {
-          "name": "Salwa El Katrib",
-          "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
-        },
-        {
-          "name": "Romeo Lahoud",
-          "url": "https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta"
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Khedni Maak Aa Darb Bi'ldi",
-      "url": "https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x"
+      "duration_ms": 349266,
+      "name": "Sallimleh Alayh",
+      "url": "https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -431,18 +427,22 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Legend - The Best Of Fairuz",
-        "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
+        "name": "Best of Salwa El Katrib, Vol. 1",
+        "url": "https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ"
       },
       "artists": [
         {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+          "name": "Salwa El Katrib",
+          "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
+        },
+        {
+          "name": "Romeo Lahoud",
+          "url": "https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta"
         }
       ],
-      "duration_ms": 349266,
-      "name": "Sallimleh Alayh",
-      "url": "https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d"
+      "duration_ms": 254640,
+      "name": "Khedni Maak Aa Darb Bi'ldi",
+      "url": "https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -767,18 +767,18 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Law Fina",
-        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
+        "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
+        "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
       },
       "artists": [
         {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+          "name": "Sabah Fakhri",
+          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
         }
       ],
-      "duration_ms": 371890,
-      "name": "Law Fina",
-      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
+      "duration_ms": 666840,
+      "name": "Alloulou al-Mamdood / Loulou Bi Loulou",
+      "url": "https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -799,6 +799,38 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
+        "name": "Shta'na Aa Lebnan",
+        "url": "https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd"
+      },
+      "artists": [
+        {
+          "name": "Zaki Nassif",
+          "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Helwi W Ya Niyalha",
+      "url": "https://open.spotify.com/track/0pK13fWr2YzS8UjHMq9vUY"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Law Fina",
+        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
+      },
+      "artists": [
+        {
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+        }
+      ],
+      "duration_ms": 371890,
+      "name": "Law Fina",
+      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
         "name": "Pascale Sakr Sings Elias Rahbani",
         "url": "https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab"
       },
@@ -815,38 +847,6 @@
       "duration_ms": 392840,
       "name": "Ya Sarek Makatibi",
       "url": "https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
-        "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
-        "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
-      },
-      "artists": [
-        {
-          "name": "Sabah Fakhri",
-          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
-        }
-      ],
-      "duration_ms": 666840,
-      "name": "Alloulou al-Mamdood / Loulou Bi Loulou",
-      "url": "https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
-        "name": "Shta'na Aa Lebnan",
-        "url": "https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd"
-      },
-      "artists": [
-        {
-          "name": "Zaki Nassif",
-          "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Helwi W Ya Niyalha",
-      "url": "https://open.spotify.com/track/0pK13fWr2YzS8UjHMq9vUY"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -879,6 +879,22 @@
       "duration_ms": 327439,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/1VSLxZvSN0RAeION7bK8AL"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Shta'na Aa Lebnan",
+        "url": "https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd"
+      },
+      "artists": [
+        {
+          "name": "Zaki Nassif",
+          "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT"
+        }
+      ],
+      "duration_ms": 250984,
+      "name": "Habayebna Hawalayna",
+      "url": "https://open.spotify.com/track/3mJetRKi2uyhXGE1j8NnF9"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -919,22 +935,6 @@
       "duration_ms": 308226,
       "name": "Nwina Al Jazi Nwina",
       "url": "https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
-        "name": "Shta'na Aa Lebnan",
-        "url": "https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd"
-      },
-      "artists": [
-        {
-          "name": "Zaki Nassif",
-          "url": "https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT"
-        }
-      ],
-      "duration_ms": 250984,
-      "name": "Habayebna Hawalayna",
-      "url": "https://open.spotify.com/track/3mJetRKi2uyhXGE1j8NnF9"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
+        "name": "The Best of Azar Habib",
+        "url": "https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV"
+      },
+      "artists": [
+        {
+          "name": "Azar Habib",
+          "url": "https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX"
+        },
+        {
+          "name": "Elias Naser",
+          "url": "https://open.spotify.com/artist/561DiR7jvCZPfVL3rVaAMx"
+        }
+      ],
+      "duration_ms": 250466,
+      "name": "Ktir Mohalaia",
+      "url": "https://open.spotify.com/track/1WvJC3zAXl9RvBtN8u0FOB"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
         "name": "Nwina Al Jaze",
         "url": "https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 415040,
       "name": "Ya Ahl El Hawa",
       "url": "https://open.spotify.com/track/1CoN7VnsENHvbSD7TuiIjg"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
-        "name": "The Best of Azar Habib",
-        "url": "https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV"
-      },
-      "artists": [
-        {
-          "name": "Azar Habib",
-          "url": "https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX"
-        },
-        {
-          "name": "Elias Naser",
-          "url": "https://open.spotify.com/artist/561DiR7jvCZPfVL3rVaAMx"
-        }
-      ],
-      "duration_ms": 250466,
-      "name": "Ktir Mohalaia",
-      "url": "https://open.spotify.com/track/1WvJC3zAXl9RvBtN8u0FOB"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Chante Philemon Wehbe Volume 1",
-        "url": "https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 226821,
-      "name": "Ya Mersal El Marasil",
-      "url": "https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "The Best of Azar Habib",
         "url": "https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 451093,
       "name": "Ya Saken Albi",
       "url": "https://open.spotify.com/track/50x4cUPlmajTIHp0LRHqqj"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Chante Philemon Wehbe Volume 1",
+        "url": "https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 226821,
+      "name": "Ya Mersal El Marasil",
+      "url": "https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
+        "name": "The Best of Azar Habib",
+        "url": "https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV"
+      },
+      "artists": [
+        {
+          "name": "Azar Habib",
+          "url": "https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX"
+        },
+        {
+          "name": "Youness Al Eben",
+          "url": "https://open.spotify.com/artist/7B998bAW7QS8Oij1onMYLe"
+        }
+      ],
+      "duration_ms": 329280,
+      "name": "Etuel Omrak 2",
+      "url": "https://open.spotify.com/track/6kLj4NqXvD9vraba7ZXSZY"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
         "name": "Oriental Evening",
         "url": "https://open.spotify.com/album/1h4i7x3JQWdRcmAHrpZTyD"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 304626,
       "name": "Yamme Ma Baaref",
       "url": "https://open.spotify.com/track/1TwtEM3Pazor5Jp41MWLLM"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
-        "name": "The Best of Azar Habib",
-        "url": "https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV"
-      },
-      "artists": [
-        {
-          "name": "Azar Habib",
-          "url": "https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX"
-        },
-        {
-          "name": "Youness Al Eben",
-          "url": "https://open.spotify.com/artist/7B998bAW7QS8Oij1onMYLe"
-        }
-      ],
-      "duration_ms": 329280,
-      "name": "Etuel Omrak 2",
-      "url": "https://open.spotify.com/track/6kLj4NqXvD9vraba7ZXSZY"
     },
     {
       "added_at": "2025-09-15 06:53:21",

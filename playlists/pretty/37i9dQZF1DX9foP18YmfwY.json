@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 380688,
+  "num_followers": 380719,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Studio Can\u00e7\u00e3o Nova | Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o Nova",
-          "url": "https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu"
-        },
-        {
-          "name": "Thiago Tom\u00e9",
-          "url": "https://open.spotify.com/artist/3V3MytrEt2MOhIEaAe4EYP"
-        }
-      ],
-      "duration_ms": 229067,
-      "name": "Teu Amor N\u00e3o Sabe",
-      "url": "https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Restitui",
         "url": "https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 273013,
       "name": "Restitui",
       "url": "https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Studio Can\u00e7\u00e3o Nova | Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o Nova",
+          "url": "https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu"
+        },
+        {
+          "name": "Thiago Tom\u00e9",
+          "url": "https://open.spotify.com/artist/3V3MytrEt2MOhIEaAe4EYP"
+        }
+      ],
+      "duration_ms": 229067,
+      "name": "Teu Amor N\u00e3o Sabe",
+      "url": "https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz"
     },
     {
       "added_at": "2026-08-07 14:21:56",

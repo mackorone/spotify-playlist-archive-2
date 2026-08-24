@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: SOTA
 
-373 songs - 23 hr 40 min
+374 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [CHARGIE \- Rendah Edit](https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Jamakabi](https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC), [Rendah](https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX) | [DAY ONE \(Edits\)](https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT) | 3:31 | 2026-02-27 | 2026-08-21 |
 | [Chop House \- VIP](https://open.spotify.com/track/4k3R5FJM6cL07CNDGgihIR) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Chop House \(VIP\)](https://open.spotify.com/album/194WUrt4sV1BdhEiHUR8JG) | 4:29 | 2023-12-27 | 2024-01-12 |
 | [Cigarette](https://open.spotify.com/track/5WxvNw9tY5MttliFP6LRVG) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Entity](https://open.spotify.com/artist/5L8dqEpUKv5tG6ut6BLa1t) | [Cigarette](https://open.spotify.com/album/4t4NGhv3ws51s50LFD4ayG) | 2:19 | 2026-08-06 |  |
+| [CLOSE2U](https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [CLOSE2U](https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN) | 3:44 | 2026-08-20 |  |
 | [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 | 2025-09-25 | 2026-01-21 |
 | [Closer \- Hedex Remix](https://open.spotify.com/track/5GxZzzm83wpUBcDfkH6VPk) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer \(Hedex Remix\)](https://open.spotify.com/album/5CyWDYcKoNeiOkfCHisIMa) | 2:58 | 2023-12-27 | 2024-01-12 |
 | [Clubcard](https://open.spotify.com/track/69iCFPZbfFBrJ86RCi9Fk7) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Mercy & Misery / Clubcard](https://open.spotify.com/album/21GSw1OpXdBDiuYxFGET0J) | 4:02 | 2022-05-06 | 2022-07-26 |
@@ -242,7 +243,7 @@
 | [OH SHIT](https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Dreps](https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2) | [OH SHIT](https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv) | 2:13 | 2024-05-10 | 2025-01-31 |
 | [OH YEAH](https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN) | [Killer Hertz](https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [OH YEAH](https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP) | 3:47 | 2026-07-01 |  |
 | [OMG](https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Latte](https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [OMG](https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC) | 3:24 | 2024-07-25 | 2026-05-21 |
-| [On Fire](https://open.spotify.com/track/3YT0OteRA5wK1aCKUSzJRG) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Captain Bass](https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG) | [On Fire](https://open.spotify.com/album/088LmopF7elxRb67tJmx7w) | 3:40 | 2026-08-06 |  |
+| [On Fire](https://open.spotify.com/track/3YT0OteRA5wK1aCKUSzJRG) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Captain Bass](https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG) | [On Fire](https://open.spotify.com/album/088LmopF7elxRb67tJmx7w) | 3:40 | 2026-08-06 | 2026-08-24 |
 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 | 2026-05-21 |  |
 | [Onslaught](https://open.spotify.com/track/5MOhLJs3asuZxAVPijNlNX) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Onslaught / Shufflin’](https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368) | 4:27 | 2026-08-06 |  |
 | [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 | 2022-06-20 | 2023-10-16 |

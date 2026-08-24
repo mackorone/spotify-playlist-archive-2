@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfdSGwr4MVg.md) - [plain]
 
 > Gentle covers of hit songs to help your little one drift off to sleep🌙✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

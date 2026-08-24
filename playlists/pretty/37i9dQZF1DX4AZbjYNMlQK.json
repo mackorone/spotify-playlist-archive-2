@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 269674,
+  "num_followers": 269584,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Lleg\u00f3 la Navidad",
+        "url": "https://open.spotify.com/album/41BtvGvCv8JpWl3RXFEZdI"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 245792,
+      "name": "Lleg\u00f3 la Navidad",
+      "url": "https://open.spotify.com/track/6kmwUkaKQMGxQGpS52r1Pt"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "gracias navidad",
         "url": "https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 251914,
       "name": "gracias navidad",
       "url": "https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Lleg\u00f3 la Navidad",
-        "url": "https://open.spotify.com/album/41BtvGvCv8JpWl3RXFEZdI"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 245792,
-      "name": "Lleg\u00f3 la Navidad",
-      "url": "https://open.spotify.com/track/6kmwUkaKQMGxQGpS52r1Pt"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 143745,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 143745,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1111,6 +1111,42 @@
       "duration_ms": 181794,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/2Qb16NRF8oWi7TMlt8vlQS"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "mi \u00fanico deseo",
+        "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
+      },
+      "artists": [
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        },
+        {
+          "name": "NEON16",
+          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "mi \u00fanico deseo",
+      "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1179,22 +1215,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "mi \u00fanico deseo",
-        "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
+        "name": "Mu\u00f1eco de Nieve",
+        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
       },
       "artists": [
         {
-          "name": "Nashy-Nashai",
-          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
-        },
-        {
-          "name": "NEON16",
-          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
+          "name": "Blas Cant\u00f3",
+          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
         }
       ],
-      "duration_ms": 186947,
-      "name": "mi \u00fanico deseo",
-      "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
+      "duration_ms": 170856,
+      "name": "Mu\u00f1eco de Nieve",
+      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1231,18 +1263,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Mu\u00f1eco de Nieve",
-        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
+        "name": "Navidad Contigo",
+        "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
       },
       "artists": [
         {
-          "name": "Blas Cant\u00f3",
-          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
         }
       ],
-      "duration_ms": 170856,
-      "name": "Mu\u00f1eco de Nieve",
-      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
+      "duration_ms": 123333,
+      "name": "Navidad Contigo",
+      "url": "https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1256,25 +1288,9 @@
           "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 217024,
-      "name": "Viva La Navidad",
-      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Navidad Contigo",
-        "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Navidad Contigo",
-      "url": "https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv"
+      "duration_ms": 255125,
+      "name": "Human Nature - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1327,34 +1343,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 255125,
-      "name": "Human Nature - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "La Navidad Comenz\u00f3",
-        "url": "https://open.spotify.com/album/0hAbjmOFoi35grgTjnQjU2"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
-        }
-      ],
-      "duration_ms": 199829,
-      "name": "La Navidad Comenz\u00f3",
-      "url": "https://open.spotify.com/track/0EUjKWaJ3CgAWbNDJ2DkDd"
+      "duration_ms": 187668,
+      "name": "Otra Navidad :(",
+      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
     }
   ],
   "unique_name": "Feliz Navidad",

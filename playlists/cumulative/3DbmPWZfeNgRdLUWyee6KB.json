@@ -8167,6 +8167,28 @@
     },
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/1HswWa7nyJLmXW2GVaeJOM"
+      },
+      "artists": [
+        {
+          "name": "ALRIUS",
+          "url": "https://open.spotify.com/artist/18rb66vq8BuliwNj43FYtq"
+        },
+        {
+          "name": "Oana Matei",
+          "url": "https://open.spotify.com/artist/5brhe7vMaAjxcZaARepHEJ"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226559,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0w6id2oYcUA7YH7lChTi2h"
+    },
+    {
+      "album": {
         "name": "Giammatteo",
         "url": "https://open.spotify.com/album/0atOfzRYVlb5JyOUgu6dgd"
       },
@@ -23551,6 +23573,24 @@
     },
     {
       "album": {
+        "name": "Till I Die",
+        "url": "https://open.spotify.com/album/3kLyxG63lNZ1O6rqKbjr4o"
+      },
+      "artists": [
+        {
+          "name": "Peter Raadho",
+          "url": "https://open.spotify.com/artist/7u8tdfvBBUHAwiqDkmTIUx"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284298,
+      "name": "Till I Die",
+      "url": "https://open.spotify.com/track/5NR5MyDRJjh4SfGe1SIbpe"
+    },
+    {
+      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/0pWpys0WNsG2CMAbn83RdF"
       },
@@ -24907,6 +24947,24 @@
     },
     {
       "album": {
+        "name": "Vitanova",
+        "url": "https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL"
+      },
+      "artists": [
+        {
+          "name": "ANNAPURNA",
+          "url": "https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195538,
+      "name": "Vitanova",
+      "url": "https://open.spotify.com/track/0btWnV5EiS7kzDlDbkgsTH"
+    },
+    {
+      "album": {
         "name": "Vivo e rinasco",
         "url": "https://open.spotify.com/album/2Jhdimc5VsOJduGqYfeVmB"
       },
@@ -25526,6 +25584,24 @@
       "duration_ms": 215967,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP"
+    },
+    {
+      "album": {
+        "name": "what you want",
+        "url": "https://open.spotify.com/album/5rncqxKNvPAqA1nZFZ7yCy"
+      },
+      "artists": [
+        {
+          "name": "Prince Frencho",
+          "url": "https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "what you want",
+      "url": "https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj"
     },
     {
       "album": {

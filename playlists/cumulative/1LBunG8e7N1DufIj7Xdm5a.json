@@ -4787,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "At the Edge of Goodbye",
+        "url": "https://open.spotify.com/album/1O0SrcMefu8W6w7bsOvJUq"
+      },
+      "artists": [
+        {
+          "name": "WIARANETY",
+          "url": "https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206263,
+      "name": "At the Edge of Goodbye",
+      "url": "https://open.spotify.com/track/2Bl4FGbvFIUEaitSyDg2zI"
+    },
+    {
+      "album": {
         "name": "Atmosfera",
         "url": "https://open.spotify.com/album/7bYDL4rWtJosKnnPgLHGx4"
       },
@@ -41831,6 +41849,24 @@
     },
     {
       "album": {
+        "name": "Three Cuts",
+        "url": "https://open.spotify.com/album/1uXNnjRTMXmv2KoCGK49HU"
+      },
+      "artists": [
+        {
+          "name": "Mikey Mills",
+          "url": "https://open.spotify.com/artist/3Zpw9cotE2q7uM8Lswsb3U"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348449,
+      "name": "Letter for a Friend",
+      "url": "https://open.spotify.com/track/1k3Wi7FoBl96bhPFhJI2dk"
+    },
+    {
+      "album": {
         "name": "Lettera al mare",
         "url": "https://open.spotify.com/album/5jPR1c8XTQBjYXv2A5zga1"
       },
@@ -58318,6 +58354,24 @@
       "duration_ms": 228839,
       "name": "Pure Skies (sunshine mix)",
       "url": "https://open.spotify.com/track/2itReH39hgH9cUKTsT2yzW"
+    },
+    {
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/7DV9VxlVyJowieEFVVDxT6"
+      },
+      "artists": [
+        {
+          "name": "WolFang",
+          "url": "https://open.spotify.com/artist/4TRv1uo8LqhJiEBbKElMQA"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481151,
+      "name": "Purgatory",
+      "url": "https://open.spotify.com/track/5JG6EWc3QRbkLslINLFZcl"
     },
     {
       "album": {

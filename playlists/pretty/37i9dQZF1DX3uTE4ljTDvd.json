@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 134364,
+  "num_followers": 134369,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Ter Paz",
+        "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
+      },
+      "artists": [
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        }
+      ],
+      "duration_ms": 285660,
+      "name": "Ter Paz",
+      "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 216131,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Ter Paz",
-        "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
-      },
-      "artists": [
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        }
-      ],
-      "duration_ms": 285660,
-      "name": "Ter Paz",
-      "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Clame a Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY"
+      },
+      "artists": [
+        {
+          "name": "Carol Miranda",
+          "url": "https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "Clame a Jesus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4TuBFUtxI7hV9SxUwsFawd"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Destemida",
         "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Clame a Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY"
+        "name": "Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img"
       },
       "artists": [
         {
-          "name": "Carol Miranda",
-          "url": "https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g"
+          "name": "Fernanda Tomadon",
+          "url": "https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl"
         }
       ],
-      "duration_ms": 267400,
-      "name": "Clame a Jesus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4TuBFUtxI7hV9SxUwsFawd"
+      "duration_ms": 294918,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -575,22 +591,6 @@
       "duration_ms": 319577,
       "name": "Quem \u00e9 Esse?",
       "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Tomadon",
-          "url": "https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl"
-        }
-      ],
-      "duration_ms": 294918,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq"
     },
     {
       "added_at": "2026-03-02 15:12:51",

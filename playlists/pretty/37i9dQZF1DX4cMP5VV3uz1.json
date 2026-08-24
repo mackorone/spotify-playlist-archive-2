@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166947,
+  "num_followers": 166954,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -355,30 +355,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Bodybag",
-        "url": "https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Inside The Rider",
         "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 217411,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0dDO88EP1FcKMrj8N1hXWy"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Legit",
         "url": "https://open.spotify.com/album/0Loed09SSf2Yz9hmbuE3UZ"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
         "name": "King of the Dancefloor",
         "url": "https://open.spotify.com/album/0n1SKP7iUYc8oNjRPVlqQm"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 227657,
       "name": "King of the Dancefloor",
       "url": "https://open.spotify.com/track/7EQXA9lc7yRI3ZUQbPBYgT"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/0VLtqQTq8jknSNAHmWPeog"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -927,18 +943,22 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/0VLtqQTq8jknSNAHmWPeog"
+        "name": "Paigons",
+        "url": "https://open.spotify.com/album/6qIeN4g5UCz68STx536tqz"
       },
       "artists": [
         {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+          "name": "Amplify",
+          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
+        },
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Substance",
-      "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
+      "duration_ms": 268800,
+      "name": "Paigons",
+      "url": "https://open.spotify.com/track/1SoOBEkddoZvhrEECTZKQM"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -967,26 +987,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Paigons",
-        "url": "https://open.spotify.com/album/6qIeN4g5UCz68STx536tqz"
-      },
-      "artists": [
-        {
-          "name": "Amplify",
-          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
-        },
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Paigons",
-      "url": "https://open.spotify.com/track/1SoOBEkddoZvhrEECTZKQM"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Badman Talk",
         "url": "https://open.spotify.com/album/6JXpd9RqKGRUKbYYmgL1ND"
       },
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
         "name": "Go Down Low",
         "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 112140,
       "name": "Go Down Low",
       "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Run That",
-        "url": "https://open.spotify.com/album/1Gzh4s51F9Ly5cZOgxovIr"
-      },
-      "artists": [
-        {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Run That",
-      "url": "https://open.spotify.com/track/4sC1bIdUSHWMsdBOTdlmMo"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Combat (feat. Gardna)",
         "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 147000,
       "name": "Combat (feat. Gardna)",
       "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Run That",
+        "url": "https://open.spotify.com/album/1Gzh4s51F9Ly5cZOgxovIr"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Run That",
+      "url": "https://open.spotify.com/track/4sC1bIdUSHWMsdBOTdlmMo"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Argument Done",
-        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Argument Done",
-      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Shrine",
         "url": "https://open.spotify.com/album/2BMToCcKq1d8NfujdRTKD5"
       },
@@ -1571,22 +1555,18 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "14ZERO",
-        "url": "https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM"
+        "name": "Argument Done",
+        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
         }
       ],
-      "duration_ms": 241714,
-      "name": "Dubplate Fly",
-      "url": "https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj"
+      "duration_ms": 173793,
+      "name": "Argument Done",
+      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1611,6 +1591,26 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
+        "name": "14ZERO",
+        "url": "https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Dubplate Fly",
+      "url": "https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
         "name": "The Speaker",
         "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "stop&watch",
-        "url": "https://open.spotify.com/album/1LrxigYCruS0fxgjKXsDnp"
-      },
-      "artists": [
-        {
-          "name": "cu.rve",
-          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "stop&watch",
-      "url": "https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Ash Dem",
         "url": "https://open.spotify.com/album/5TlfoLx6XSuFFfJAtDpXbL"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 137584,
       "name": "Ash Dem",
       "url": "https://open.spotify.com/track/5RIRxMzIWOxULw5pSiAqeG"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "stop&watch",
+        "url": "https://open.spotify.com/album/1LrxigYCruS0fxgjKXsDnp"
+      },
+      "artists": [
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "stop&watch",
+      "url": "https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Wanna See",
-        "url": "https://open.spotify.com/album/2owX9DzHnanHnmCEW7WGeD"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        }
-      ],
-      "duration_ms": 262628,
-      "name": "Wanna See",
-      "url": "https://open.spotify.com/track/73VAzauxc5rBUmzrm5gCmR"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Disguise",
         "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 193273,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Wanna See",
+        "url": "https://open.spotify.com/album/2owX9DzHnanHnmCEW7WGeD"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "duration_ms": 262628,
+      "name": "Wanna See",
+      "url": "https://open.spotify.com/track/73VAzauxc5rBUmzrm5gCmR"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Feel Your Love EP",
-        "url": "https://open.spotify.com/album/6GQBcwLcfDKw1Vk8y65ejD"
-      },
-      "artists": [
-        {
-          "name": "Gino",
-          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Feel Your Love",
-      "url": "https://open.spotify.com/track/6MZe35h3pzai53S3vIgvwE"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Back 2 Back",
         "url": "https://open.spotify.com/album/1qifRrKiai9KblVPvEx3gR"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 226285,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/3ogoZDptV0na4dDSztv8OD"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Feel Your Love EP",
+        "url": "https://open.spotify.com/album/6GQBcwLcfDKw1Vk8y65ejD"
+      },
+      "artists": [
+        {
+          "name": "Gino",
+          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/6MZe35h3pzai53S3vIgvwE"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -2027,26 +2027,18 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4BRNTcgZo6tys2xcN8r66H"
+        "name": "Count That",
+        "url": "https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt"
       },
       "artists": [
         {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Shapes",
-          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
-        },
-        {
-          "name": "Takura",
-          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/7yzWoFEY4JxXt9lbucfTCt"
+      "duration_ms": 216214,
+      "name": "Count That",
+      "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
     }
   ],
   "unique_name": "Proper Naughty ",

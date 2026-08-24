@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 11888,
+  "num_followers": 11908,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAABgM+SM+Y6ByBSqQ/DPpKgp",
+  "snapshot_id": "aojmgAAAAAAK/OuiUncKZdtYnA41zoRa",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG"
+      },
+      "artists": [
+        {
+          "name": "TMP Offisial",
+          "url": "https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bere Mi (Reimagined)",
         "url": "https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 177963,
       "name": "Bere Mi (Reimagined)",
       "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG"
-      },
-      "artists": [
-        {
-          "name": "TMP Offisial",
-          "url": "https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk"
     },
     {
       "added_at": null,

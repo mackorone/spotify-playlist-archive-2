@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 50137,
+  "num_followers": 50145,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
-      },
-      "artists": [
-        {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 225813,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
+        "name": "The Uncanny Counter (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/2knMaAPOJG94PH3blGVLkr"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/6cxe7wIuwH7ul9XI7D853w"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
         "name": "Resident Playbook (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7scrnEA8acHOJr2BhWwKgb"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 215537,
       "name": "A Race",
       "url": "https://open.spotify.com/track/2XIxIDXxuE9d97TqjQPwQy"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
-        "name": "The Uncanny Counter (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/2knMaAPOJG94PH3blGVLkr"
-      },
-      "artists": [
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "No Problem",
-      "url": "https://open.spotify.com/track/6cxe7wIuwH7ul9XI7D853w"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "You don\u2019t have to be a star",
-        "url": "https://open.spotify.com/album/6OhmLQUKQfh10tr3stKRD6"
+        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
+        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
       },
       "artists": [
         {
-          "name": "109",
-          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
         }
       ],
-      "duration_ms": 200592,
-      "name": "You don\u2019t have to be a star",
-      "url": "https://open.spotify.com/track/2B8YSN8znuRfYSkwJusNfQ"
+      "duration_ms": 357120,
+      "name": "\ub0b4\uac00 \ub2c8\ud3b8\uc774 \ub418\uc5b4 \uc904\uac8c I Will Be on Your Side",
+      "url": "https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

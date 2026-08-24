@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\| Cover: Westside Cowboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,875 likes - 133 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,904 likes - 133 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

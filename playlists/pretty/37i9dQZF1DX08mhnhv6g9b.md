@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Check out the <a href="https://open.spotify.com/playlist/37i9dQZF1DXc3O66k5Ivui">BTS's NORMAL Day playlist </a>\. This playlist reflects your votes for each member's personal picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,081,753 likes - 326 songs - 19 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,081,700 likes - 326 songs - 19 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

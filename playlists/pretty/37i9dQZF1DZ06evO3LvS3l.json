@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28947,
+  "num_followers": 28953,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAAAZGPYjP3FHRmtXrzphyCNx",
+  "snapshot_id": "aojmgAAAAABaP19Gc1rzC6DUaggE8Kqv",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Mississippi River Queen",
-      "url": "https://open.spotify.com/track/5fHhVrVYg4TloeZoVf6wJX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Mysterious Rhinestone Cowboy",
         "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 258333,
       "name": "Please Come to Boston",
       "url": "https://open.spotify.com/track/47ctsEbmgRRHXcFOfeeUVe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Mississippi River Queen",
+      "url": "https://open.spotify.com/track/5fHhVrVYg4TloeZoVf6wJX"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Mona Lisa Lost Her Smile",
-      "url": "https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 141000,
       "name": "Hey Gypsy",
       "url": "https://open.spotify.com/track/1mhMZNhh6uwgJYYZYOrBdO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Mona Lisa Lost Her Smile",
+      "url": "https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 268120,
-      "name": "Human Emotions",
-      "url": "https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castles in the Sand",
         "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 162293,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "Human Emotions",
+      "url": "https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1117,
+  "num_followers": 1121,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEPadBvP1/uT5ML3jTs7BjIoxBEoS5",
+  "snapshot_id": "AAAEPtsfztnvQ8eTCLKOJzOD7b/PRKRY",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -983,6 +983,22 @@
       "duration_ms": 257083,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1RuckU5sGctczAPxEBiNRl"
+    },
+    {
+      "added_at": "2026-08-23 14:40:25",
+      "album": {
+        "name": "Need and Desire",
+        "url": "https://open.spotify.com/album/3XXqrdUMW5OjilzoqgTxid"
+      },
+      "artists": [
+        {
+          "name": "Ebb 'n Flow",
+          "url": "https://open.spotify.com/artist/10whZfAsmPiGyP9x4K4VMu"
+        }
+      ],
+      "duration_ms": 184811,
+      "name": "Need and Desire",
+      "url": "https://open.spotify.com/track/0PP0HKi1EVTQ5OupfncE7A"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

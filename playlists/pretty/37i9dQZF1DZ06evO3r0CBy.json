@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 44056,
+  "num_followers": 44058,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAAAfCPLoCN4bH1whSejxc0ui",
+  "snapshot_id": "aojmgAAAAACJOCflXrS0oHkxVXt/MWLL",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Latinos del Mundo",
-        "url": "https://open.spotify.com/album/0WMM5TdUq0VgNUZXCwlnYG"
+        "name": "Nova Era Best of 100 M\u00fasicas",
+        "url": "https://open.spotify.com/album/7L2PwjozCp34dOj5xQJiWx"
       },
       "artists": [
         {
+          "name": "Magan",
+          "url": "https://open.spotify.com/artist/0l3zBG99MlGD6ZAdKAwF6x"
+        },
+        {
           "name": "Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        },
-        {
-          "name": "E-LA",
-          "url": "https://open.spotify.com/artist/7aOghF4fGWkNo1Vh3zDHJ9"
-        },
-        {
-          "name": "Ander & Rossi",
-          "url": "https://open.spotify.com/artist/0eijjeT8lIc14E862vjaNz"
         }
       ],
-      "duration_ms": 205599,
-      "name": "La Vida Es Una",
-      "url": "https://open.spotify.com/track/2yHMbsv5PMpJ1ubOhz3XXQ"
+      "duration_ms": 226800,
+      "name": "Bora Bora",
+      "url": "https://open.spotify.com/track/3GNo7A9Voonfk9AgVFYPsK"
     },
     {
       "added_at": null,
@@ -335,22 +331,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nova Era Best of 100 M\u00fasicas",
-        "url": "https://open.spotify.com/album/7L2PwjozCp34dOj5xQJiWx"
+        "name": "Latinos del Mundo",
+        "url": "https://open.spotify.com/album/0WMM5TdUq0VgNUZXCwlnYG"
       },
       "artists": [
         {
-          "name": "Magan",
-          "url": "https://open.spotify.com/artist/0l3zBG99MlGD6ZAdKAwF6x"
-        },
-        {
           "name": "Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        },
+        {
+          "name": "E-LA",
+          "url": "https://open.spotify.com/artist/7aOghF4fGWkNo1Vh3zDHJ9"
+        },
+        {
+          "name": "Ander & Rossi",
+          "url": "https://open.spotify.com/artist/0eijjeT8lIc14E862vjaNz"
         }
       ],
-      "duration_ms": 226800,
-      "name": "Bora Bora",
-      "url": "https://open.spotify.com/track/3GNo7A9Voonfk9AgVFYPsK"
+      "duration_ms": 205599,
+      "name": "La Vida Es Una",
+      "url": "https://open.spotify.com/track/2yHMbsv5PMpJ1ubOhz3XXQ"
     },
     {
       "added_at": null,

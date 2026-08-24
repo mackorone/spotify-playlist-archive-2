@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Anne Wilson
 
-1,517 songs - 3 day 20 hr 54 min
+1,519 songs - 3 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [God Is Faithful](https://open.spotify.com/track/2dkTLhgtsYewiUMCOzJlBH) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Katie Torwalt](https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6) | [God Is Faithful](https://open.spotify.com/album/4RXLV7wKchzluzCd0BELnU) | 3:51 | 2025-10-20 | 2025-12-06 |
 | [God Is For Me](https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [God Is For Me](https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU) | 2:44 | 2025-07-19 | 2025-09-15 |
 | [God Is For You](https://open.spotify.com/track/4qwdVi0MbRcG5VdvF2QEnb) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [God Is For You](https://open.spotify.com/album/2ZG6q0V7ahSUCYoeaIS9II) | 3:22 | 2024-06-07 | 2024-08-10 |
-| [God Is Good](https://open.spotify.com/track/04nXl44tbFiQJ4s9CzpYb6) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [God Is Good](https://open.spotify.com/album/2fnrnu2E1I1DDLA1CraNyA) | 2:33 | 2026-08-21 |  |
+| [God Is Good](https://open.spotify.com/track/04nXl44tbFiQJ4s9CzpYb6) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [God Is Good](https://open.spotify.com/album/2fnrnu2E1I1DDLA1CraNyA) | 2:33 | 2026-08-21 | 2026-08-24 |
 | [GOD IS GOOD](https://open.spotify.com/track/55WuvXbkbNK3WlyROpIoxv) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [John & Jami](https://open.spotify.com/artist/6vdDNKDO5i45r4GSxXYunE) | [GOD IS GOOD](https://open.spotify.com/album/0NqsVN9y80pBNoQoJ1koxg) | 2:56 | 2025-07-19 | 2025-09-15 |
 | [God Is Love](https://open.spotify.com/track/4q5xJZOlHLtlnrN8P3oAXJ) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [God Is Love](https://open.spotify.com/album/1qo1kILODkFrkg5oJTNGzL) | 5:08 | 2026-04-04 | 2026-05-02 |
 | [God Is On The Throne](https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [God Is On The Throne](https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ) | 4:44 | 2022-10-29 | 2024-06-08 |
@@ -692,6 +692,7 @@
 | [Jesus Cries](https://open.spotify.com/track/4euQFpAjLThkzv4S9Td2Ud) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:23 | 2024-06-07 | 2024-08-10 |
 | [Jesus Did](https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Jesus Did](https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b) | 3:23 | 2022-05-27 | 2024-06-08 |
 | [JESUS DOWN IN FLORIDA](https://open.spotify.com/track/6KqS3801hmRDd1DnVhpMtN) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [JESUS DOWN IN FLORIDA](https://open.spotify.com/album/0nRdvNgo4d1xb6pAKG3Ocq) | 2:24 | 2025-08-04 | 2025-09-15 |
+| [Jesus Girl](https://open.spotify.com/track/5oNoj8Zpm2y2BUM8TVxLO0) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Jesus Girl](https://open.spotify.com/album/3tlOXJ3edt3rFexxz6I9Fj) | 3:50 | 2026-08-21 |  |
 | [Jesus Glow](https://open.spotify.com/track/1pSC8MUpl5ql6GAQz6hCXU) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Jesus Glow](https://open.spotify.com/album/1XSsNegb55qGzykG9Vhly1) | 3:29 | 2026-03-21 | 2026-04-18 |
 | [Jesus I Miss You](https://open.spotify.com/track/3a4Zo8KH3A5UKdYgarRt4J) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Jesus I Miss You](https://open.spotify.com/album/4FBhiNzx2OgzQXZviCnh61) | 4:17 | 2026-03-21 | 2026-04-18 |
 | [Jesus I Will Worship You \- Acoustic](https://open.spotify.com/track/4attQDOxN8U5vzr9Gxbkew) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Higher Name](https://open.spotify.com/album/0O9IX4G5blEUd1CmjzTCex) | 3:54 | 2024-11-29 | 2025-03-22 |
@@ -750,6 +751,7 @@
 | [Know Me God](https://open.spotify.com/track/51NTYD2gSPR3CLOsgnTBYE) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Know Me God](https://open.spotify.com/album/4oGfZseuQG3WCQBe6JdirW) | 3:20 | 2026-07-03 | 2026-07-18 |
 | [Know Your Name](https://open.spotify.com/track/45EuRfYN9UPYrRuu0Kqvzb) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Know Your Name](https://open.spotify.com/album/7sfVqskY9vO2XqKlXY2pMv) | 4:32 | 2026-07-17 | 2026-08-22 |
 | [KNOWN](https://open.spotify.com/track/1h58D20BA2O5WIXmpRGGvH) | [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [KNOWN](https://open.spotify.com/album/1rhLqLdT3MO4dQGRgmaqiS) | 3:48 | 2026-04-04 | 2026-05-02 |
+| [Known and Loved \(Oliver's Song\)](https://open.spotify.com/track/2a4CBfsjgda40IcEJ4yCQG) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Known and Loved \(Oliver's Song\)](https://open.spotify.com/album/4mqoOg50bFEASN19qpXyU2) | 3:49 | 2026-08-21 |  |
 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 | 2022-10-29 | 2024-06-08 |
 | [Koolaid](https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Koolaid](https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr) | 3:00 | 2025-06-06 | 2025-08-05 |
 | [Lake Of Fire](https://open.spotify.com/track/1zrh3tlviFYxXH47gOURPe) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Lake Of Fire](https://open.spotify.com/album/1eUbv2vRwcVboQI53tcuuZ) | 3:20 | 2026-05-19 | 2026-06-20 |
@@ -1518,7 +1520,7 @@
 | [Your Love](https://open.spotify.com/track/7pvu7uNMHqULQW3dWYXbSg) | [Kevin Winebarger](https://open.spotify.com/artist/0Mihk33hOz5pYMIDALdiFG) | [Your Love](https://open.spotify.com/album/5CMEgMzRAFGo9wSW4pLkEa) | 3:18 | 2025-09-14 | 2025-11-16 |
 | [Your Love](https://open.spotify.com/track/6FEWELlUL95LbTc3BdOmn6) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [Your Love](https://open.spotify.com/album/1wL8nxLrSs5RBYOTFp5cIu) | 3:33 | 2026-04-17 | 2026-05-20 |
 | [Your Love Is A Flood](https://open.spotify.com/track/4DY5O3TgTFuTIsYDn6arlc) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Your Love Is A Flood](https://open.spotify.com/album/57S7kWSTHvOpOnFuREKtRA) | 3:45 | 2025-08-04 | 2025-09-15 |
-| [Your Spirit](https://open.spotify.com/track/3rB9oUKkKELWw5HD7DvLK2) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Your Spirit](https://open.spotify.com/album/3lIPGiL0tCwQOe50SQUTRt) | 3:21 | 2026-08-07 |  |
+| [Your Spirit](https://open.spotify.com/track/3rB9oUKkKELWw5HD7DvLK2) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Your Spirit](https://open.spotify.com/album/3lIPGiL0tCwQOe50SQUTRt) | 3:21 | 2026-08-07 | 2026-08-24 |
 | [Your Unfailing Love](https://open.spotify.com/track/7hseWCWgCUXAE2trkTs2Pb) | [Darin and Brooke Aldridge](https://open.spotify.com/artist/5pwpynH9ZDP8ECECyMJFHK) | [Your Unfailing Love](https://open.spotify.com/album/3eVe6E36MiaVsV13rwSo0b) | 3:03 | 2026-01-17 | 2026-02-21 |
 | [YOUR WAY](https://open.spotify.com/track/6MmU56aIG5mW3qwvE45rXl) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [YOUR WAY](https://open.spotify.com/album/3gmSMDHYNmLidMIFAChMKH) | 3:50 | 2025-06-21 | 2025-07-20 |
 | [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 | 2025-04-18 | 2025-06-22 |

@@ -1,6 +1,6 @@
 {
   "description": "De allerbeste songs van de 10's! Cover: Martin Garrix",
-  "num_followers": 54459,
+  "num_followers": 54457,
   "original_name": "10's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Black Star Elephant",
         "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 245866,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -575,18 +575,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+        "name": "Girl on Fire (Remixes) - EP",
+        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+      "duration_ms": 224920,
+      "name": "Girl on Fire",
+      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -611,18 +611,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Girl on Fire (Remixes) - EP",
-        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 224920,
-      "name": "Girl on Fire",
-      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Oh My My (Deluxe)",
-        "url": "https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Wherever I Go",
-      "url": "https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 223773,
       "name": "A Head Full of Dreams",
       "url": "https://open.spotify.com/track/6f49kbOuQSOsStBpyGvQfA"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Oh My My (Deluxe)",
+        "url": "https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Hey",
-        "url": "https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH"
+        "name": "Tears (feat. Louisa Johnson)",
+        "url": "https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE"
       },
       "artists": [
         {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 215625,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/6KZmDucZFfvxGJkrHInbix"
+      "duration_ms": 225914,
+      "name": "Tears (feat. Louisa Johnson)",
+      "url": "https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Tears (feat. Louisa Johnson)",
-        "url": "https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE"
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
         },
         {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 225914,
-      "name": "Tears (feat. Louisa Johnson)",
-      "url": "https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn"
+      "duration_ms": 215625,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/6KZmDucZFfvxGJkrHInbix"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/5jfuIbTeaLhBZxsCVv3QyM"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/6OZh916QF8XNunWaP97WEZ"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 260004,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/163nFrWkhj8FwiwJ11Gu93"
       },
@@ -1523,6 +1507,70 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 260004,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "In A Perfect World (Deluxe)",
+        "url": "https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Sigh No More (Benelux Edition)",
+        "url": "https://open.spotify.com/album/4yHxYRTHNocJenKZ4gQndD"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/1QTixxvaGxwe6GF8PBwAve"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
         "name": "Solo Dance",
         "url": "https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq"
       },
@@ -1535,6 +1583,22 @@
       "duration_ms": 174933,
       "name": "Solo Dance",
       "url": "https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "September Song",
+        "url": "https://open.spotify.com/album/4PtHrEv5SyIVsdbMKi6Vkg"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 220290,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1559,70 +1623,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "In A Perfect World (Deluxe)",
-        "url": "https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
-        "name": "Sigh No More (Benelux Edition)",
-        "url": "https://open.spotify.com/album/4yHxYRTHNocJenKZ4gQndD"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/1QTixxvaGxwe6GF8PBwAve"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
-        "name": "September Song",
-        "url": "https://open.spotify.com/album/4PtHrEv5SyIVsdbMKi6Vkg"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 220290,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 199413,
       "name": "Human",
       "url": "https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1683,6 +1667,22 @@
       "duration_ms": 216373,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5k3xD5FmMQjKuqJgK4Qk4k"
       },
       "artists": [
         {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 209687,
-      "name": "Hungry",
-      "url": "https://open.spotify.com/track/5oe8ei8OtZzp8xmuzguRfG"
+      "duration_ms": 208733,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/4lYTkvMkcNRj9uoSr8Zpws"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/5k3xD5FmMQjKuqJgK4Qk4k"
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/4lYTkvMkcNRj9uoSr8Zpws"
+      "duration_ms": 209687,
+      "name": "Hungry",
+      "url": "https://open.spotify.com/track/5oe8ei8OtZzp8xmuzguRfG"
     }
   ],
   "unique_name": "10's Allerbeste",

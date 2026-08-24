@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -12532,7 +12532,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 202408,
       "name": "\u05d0\u05d1\u05d0",
       "url": "https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ"
@@ -13168,7 +13168,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 212737,
       "name": "\u05d0\u05d5\u05e8\u05d5\u05ea \u05db\u05d7\u05d5\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6jG3OmapjEN38Q1UCA6CJI"
@@ -17664,7 +17664,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 233232,
       "name": "\u05d4\u05e9\u05dd \u05d9\u05e8\u05d7\u05dd",
       "url": "https://open.spotify.com/track/3XSSUNQJHy7GTWtSHHITq5"
@@ -18838,7 +18838,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 160642,
       "name": "\u05d8\u05e7\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/5ppuL7dOIhd7td0YCJJuwf"
@@ -19330,6 +19330,32 @@
       "duration_ms": 214545,
       "name": "\u05d9\u05dc\u05d3\u05d4 \u05de\u05d8\u05d5\u05e8\u05e4\u05ea",
       "url": "https://open.spotify.com/track/5e6drWIXYtTwW6EFOwTU65"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05dc\u05d3\u05d4 \u05de\u05d8\u05d5\u05e8\u05e4\u05ea (\u05de\u05d9\u05d5\u05d7\u05d3 \u05dc\u05de\u05e6\u05e2\u05d3 \u05d4\u05e9\u05e0\u05ea\u05d9 \u05ea\u05e9\u05e4\"\u05d5)",
+        "url": "https://open.spotify.com/album/3StQSwD5C6leWnoN7jCJXd"
+      },
+      "artists": [
+        {
+          "name": "Itay Levi",
+          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
+        },
+        {
+          "name": "Mor",
+          "url": "https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX"
+        },
+        {
+          "name": "\u05db\u05d0\u05df \u05d2\u05d9\u05de\u05dc",
+          "url": "https://open.spotify.com/artist/4WQlIWFXTbWSeWLfEqXYhx"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u05d9\u05dc\u05d3\u05d4 \u05de\u05d8\u05d5\u05e8\u05e4\u05ea (\u05de\u05d9\u05d5\u05d7\u05d3 \u05dc\u05de\u05e6\u05e2\u05d3 \u05d4\u05e9\u05e0\u05ea\u05d9 \u05ea\u05e9\u05e4\"\u05d5)",
+      "url": "https://open.spotify.com/track/6ZT08N4tOjUZyD3JaO6bhS"
     },
     {
       "album": {
@@ -19872,7 +19898,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 162088,
       "name": "\u05db\u05dc \u05e2\u05db\u05d1\u05d4 \u05dc\u05d8\u05d5\u05d1\u05d4",
       "url": "https://open.spotify.com/track/6spkDJlie5raRezVwEDeQK"
@@ -20356,7 +20382,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 213088,
       "name": "\u05dc\u05d0 \u05e9\u05d1\u05ea \u05d5\u05dc\u05d0 \u05e9\u05dc\u05d5\u05dd",
       "url": "https://open.spotify.com/track/5W8FripY28nqThH37zmSHn"

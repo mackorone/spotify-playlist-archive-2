@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ra\u00fal Beltan \ud83d\udcf8",
-  "num_followers": 368382,
+  "num_followers": 368389,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Endeble",
-        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 190239,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 182064,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Endeble",
+        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 190239,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "MIL RAZONES",
-        "url": "https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 176597,
-      "name": "MIL RAZONES",
-      "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Yo No Se Que Me Paso",
         "url": "https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 288857,
       "name": "Yo No Se Que Me Paso",
       "url": "https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "MIL RAZONES",
+        "url": "https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 176597,
+      "name": "MIL RAZONES",
+      "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 426232,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 223402,
       "name": "La Noche de Mi Mal",
       "url": "https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 426232,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 209322,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Me Nace Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 164117,
       "name": "Me Nace Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Que Ganas De No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 209322,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
-      },
-      "artists": [
-        {
-          "name": "Marco Torres",
-          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Se\u00f1or Dios",
         "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 155667,
       "name": "Qu\u00e9 Manera De Perder",
       "url": "https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
+      },
+      "artists": [
+        {
+          "name": "Marco Torres",
+          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
     },
     {
       "added_at": "2026-08-14 06:00:30",

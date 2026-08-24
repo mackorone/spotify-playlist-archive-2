@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: GB
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,068 likes - 183 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,224 likes - 183 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

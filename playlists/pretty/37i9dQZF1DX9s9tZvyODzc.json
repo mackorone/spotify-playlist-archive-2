@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 223430,
+  "num_followers": 223482,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-21 17:59:56",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 263653,
-      "name": "Homero",
-      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
-    },
-    {
-      "added_at": "2026-08-21 17:59:56",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 274586,
       "name": "Un Misil En Mi Placard - MTV Unplugged",
       "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
+    },
+    {
+      "added_at": "2026-08-21 17:59:56",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "Homero",
+      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
     },
     {
       "added_at": "2026-08-21 17:59:56",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-08-21 17:59:56",
       "album": {
+        "name": "Pruebas de Contacto",
+        "url": "https://open.spotify.com/album/6UMI4aH8659Xm0U4Bg0us1"
+      },
+      "artists": [
+        {
+          "name": "Camionero",
+          "url": "https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc"
+        }
+      ],
+      "duration_ms": 277405,
+      "name": "BOT\u00d3N DE P\u00c1NICO",
+      "url": "https://open.spotify.com/track/1s9gjm76CMBiiiBhXLOoGj"
+    },
+    {
+      "added_at": "2026-08-21 17:59:56",
+      "album": {
         "name": "Toda la vida",
         "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 274908,
       "name": "Toda la vida",
       "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
-    },
-    {
-      "added_at": "2026-08-21 17:59:56",
-      "album": {
-        "name": "Pruebas de Contacto",
-        "url": "https://open.spotify.com/album/6UMI4aH8659Xm0U4Bg0us1"
-      },
-      "artists": [
-        {
-          "name": "Camionero",
-          "url": "https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc"
-        }
-      ],
-      "duration_ms": 277405,
-      "name": "BOT\u00d3N DE P\u00c1NICO",
-      "url": "https://open.spotify.com/track/1s9gjm76CMBiiiBhXLOoGj"
     },
     {
       "added_at": "2026-08-21 17:59:56",

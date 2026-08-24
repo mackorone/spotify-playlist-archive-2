@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Rap & Hip Hop today\.  Cover: Canon
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,228 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,246 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CLEAN](https://open.spotify.com/track/5JG9VY0x8c6IzbkzKXb1xp) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [CLEAN](https://open.spotify.com/album/4OgGS765Eor1GUQUH0cEVH) | 2:16 |
 | 2 | [Don't Rob That Man](https://open.spotify.com/track/4UXe3gT5cmd8otr2pSeL6O) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Don't Rob That Man](https://open.spotify.com/album/6XA9clEkBvuBrfXnLaLef5) | 2:21 |
 | 3 | [Spin It](https://open.spotify.com/track/7htAALx5r7yclVr3u5JhXx) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Loose Canon, Vol\. 4](https://open.spotify.com/album/6OkZLiR0MBkYS8qaFNUIRc) | 1:50 |
-| 4 | [“Checking In”](https://open.spotify.com/track/50MW24b6EAvpY1f8sdp8lt) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [“Checking In”](https://open.spotify.com/album/0dp2ECJa0bhJQ884rPHlgv) | 2:17 |
+| 4 | [Checking In](https://open.spotify.com/track/50MW24b6EAvpY1f8sdp8lt) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Checking In](https://open.spotify.com/album/0dp2ECJa0bhJQ884rPHlgv) | 2:17 |
 | 5 | [JEHOVAH JIREH](https://open.spotify.com/track/50Slrz4o2imIf1JAMiCkl3) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Jerome Dillard](https://open.spotify.com/artist/6p6PeVcBO7Rk6rQQllW0Pt), [Angel Cintron](https://open.spotify.com/artist/6hZZbz6dn2lD5VvXUSeUs3) | [JEHOVAH JIREH](https://open.spotify.com/album/2T382ZEI00P2bcbpj9CXPN) | 3:15 |
 | 6 | [Finally Repented](https://open.spotify.com/track/50JnTvGLHvFByTTSQj9Ltp) | [Definitely D](https://open.spotify.com/artist/4Gh8C9Bc8G9r3ntg0XFKIx), [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Homecoming](https://open.spotify.com/album/0E2ZHqN3Dki8r5aLcZZ94i) | 1:58 |
 | 7 | [ABBA HOLD](https://open.spotify.com/track/5Ru7cdFXXtyKXIfzAGDvfJ) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [Kodoku](https://open.spotify.com/artist/2mDygmvuNzsZhLvMfEUfmu) | [ABBA HOLD](https://open.spotify.com/album/7bi5pRpZkXddPaGJY9F7Wy) | 2:59 |

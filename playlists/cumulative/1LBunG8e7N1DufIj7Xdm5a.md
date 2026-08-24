@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,673 songs - 10 day 11 hr 43 min
+4,676 songs - 10 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Asteroide](https://open.spotify.com/track/4HCKs8aLpF95zowxPfm5Dy) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 4:05 | 2025-07-29 |  |
 | [Astral Landscapes](https://open.spotify.com/track/4aWRSsrCpPNdstkgR6eDm6) | [Binaural Beats Ascension](https://open.spotify.com/artist/1pZSqxQu4oj7bUxjBZKyD0) | [Astral Landscapes](https://open.spotify.com/album/4CWECRFE3cYL803aHIC8XA) | 12:00 | 2025-06-04 |  |
 | [Astros](https://open.spotify.com/track/23USLP01Sb9lL29bkMdGNe) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 4:03 | 2025-07-29 |  |
+| [At the Edge of Goodbye](https://open.spotify.com/track/2Bl4FGbvFIUEaitSyDg2zI) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [At the Edge of Goodbye](https://open.spotify.com/album/1O0SrcMefu8W6w7bsOvJUq) | 3:26 | 2026-08-23 |  |
 | [Atmosfera](https://open.spotify.com/track/6UXq9qjPgwCpfU4E4q8uy6) | [Resma](https://open.spotify.com/artist/1gWkVUP7obAEzU2RPvbuKx) | [Atmosfera](https://open.spotify.com/album/7bYDL4rWtJosKnnPgLHGx4) | 3:22 | 2025-06-06 |  |
 | [Atrapado en ti](https://open.spotify.com/track/2TmrPOOjVTHX1tOWGXy7eU) | [Ivan Cortes](https://open.spotify.com/artist/15aPeDSL8oBv1kJamlqkWo) | [Atrapado en ti](https://open.spotify.com/album/4EvYTcqBr09wEAm0oRXorM) | 1:42 | 2025-03-18 |  |
 | [Atto secondo](https://open.spotify.com/track/3EMwkvUl7st7bJujGMDyAJ) | [Workless Academy](https://open.spotify.com/artist/03kJTdj59Rm53crxqhvr23) | [Il coraggio di esistere](https://open.spotify.com/album/3HhJxdvpZUqhydoR96yo4J) | 4:03 | 2025-02-19 |  |
@@ -2291,6 +2292,7 @@
 | [Let's Go!!](https://open.spotify.com/track/1zSAUMt5jxtIV1oDnUJbY2) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Let's Go!!](https://open.spotify.com/album/1MbOwUa67e4zVOawifDOIA) | 3:51 | 2025-09-26 |  |
 | [Let's Go!! \(Remixed\)](https://open.spotify.com/track/71kpTEDnwgzm772US3Uttc) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Let's Go!! \(Remixed\)](https://open.spotify.com/album/6zZqCdv769t9CvE2qAcgw0) | 2:54 | 2025-09-26 |  |
 | [Letter bomb](https://open.spotify.com/track/257ouBd9Lk6cTN6Pehksog) | [The Hong Kong Dollars](https://open.spotify.com/artist/1Gj90JO3ihhhnztQlrnubj) | [Letter bomb](https://open.spotify.com/album/2EMTEHR6B7PNUxZq3tHaCS) | 3:04 | 2026-07-30 |  |
+| [Letter for a Friend](https://open.spotify.com/track/1k3Wi7FoBl96bhPFhJI2dk) | [Mikey Mills](https://open.spotify.com/artist/3Zpw9cotE2q7uM8Lswsb3U) | [Three Cuts](https://open.spotify.com/album/1uXNnjRTMXmv2KoCGK49HU) | 5:48 | 2026-08-23 |  |
 | [Lettera al mare](https://open.spotify.com/track/5KyqzgQeQR9MaVIGcAysM4) | [Solary](https://open.spotify.com/artist/0klksJbbpQWOEM47rfwg1u) | [Lettera al mare](https://open.spotify.com/album/5jPR1c8XTQBjYXv2A5zga1) | 2:32 | 2025-06-28 |  |
 | [Letters I Never Sent](https://open.spotify.com/track/00Fi9Z70M2APXY7HwVlaVA) | [Jett Harlow](https://open.spotify.com/artist/6Yerr8iumOGPbdhUv7Qci8) | [Fragments](https://open.spotify.com/album/2SIUFOdX6ebNUfo33fwC6K) | 4:11 | 2025-05-28 |  |
 | [Letting Go](https://open.spotify.com/track/4cyhP6RdHSh3BO3w919RoZ) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Letting Go](https://open.spotify.com/album/5tWApKMQsnNfjd0kb0hdf1) | 3:44 | 2026-07-30 |  |
@@ -3186,6 +3188,7 @@
 | [Pure Real](https://open.spotify.com/track/3ZqW45lopWmPuppXtYmkGC) | [The Porcelain Blister](https://open.spotify.com/artist/44jaIkwSC9gia7vNxMZssR) | [Pure Real](https://open.spotify.com/album/4B5KGFayhLO4vw2qtj1rHO) | 5:29 | 2025-05-24 |  |
 | [Pure Skies](https://open.spotify.com/track/4OIo2reuI8HlqF1Vcd72bF) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Pure Skies](https://open.spotify.com/album/2zCco0qfWGnXm684i23KM3) | 3:04 | 2025-09-26 |  |
 | [Pure Skies \(sunshine mix\)](https://open.spotify.com/track/2itReH39hgH9cUKTsT2yzW) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Pure Skies \(sunshine mix\)](https://open.spotify.com/album/6rTpVsy8vBvgV5eBQR5Ppo) | 3:48 | 2025-10-10 |  |
+| [Purgatory](https://open.spotify.com/track/5JG6EWc3QRbkLslINLFZcl) | [WolFang](https://open.spotify.com/artist/4TRv1uo8LqhJiEBbKElMQA) | [Purgatory](https://open.spotify.com/album/7DV9VxlVyJowieEFVVDxT6) | 8:01 | 2026-08-23 |  |
 | [Purple Boots](https://open.spotify.com/track/1l5ibJGuB8RKadQ6c2x6eZ) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Purple Boots](https://open.spotify.com/album/6zNl5lgn9FuPngHvt8jfyk) | 3:31 | 2026-07-08 |  |
 | [Push Them Away](https://open.spotify.com/track/6hTWg46elnphzUBcyhwUb7) | [Delusive Relics](https://open.spotify.com/artist/30OZ49YXqwwaOeq2LH94PG) | [Chaotic Notions](https://open.spotify.com/album/3TKHTI0fDRS1p5b5Wu8Yca) | 4:27 | 2025-09-16 |  |
 | [Put It Down](https://open.spotify.com/track/6myFOuMQp6uzw5BYvVm8aa) | [Xhulooo](https://open.spotify.com/artist/7Lg7lDO4P5HMTJljr0MV83) | [ABSENCE OF PRESENCE](https://open.spotify.com/album/0RIgj1ViL7PAk1iSoD0H3j) | 1:43 | 2025-06-23 |  |

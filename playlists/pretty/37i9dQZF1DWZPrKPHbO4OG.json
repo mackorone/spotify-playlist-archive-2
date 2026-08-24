@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38852,
+  "num_followers": 38868,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Mamachya Gavala - Kratex Remix",
+        "url": "https://open.spotify.com/album/6BNKdnEmPOqzRauarspPCQ"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "duration_ms": 195234,
+      "name": "Mamachya Gavala - Kratex Remix",
+      "url": "https://open.spotify.com/track/2a0SIkpwz7tWP9fKrNrx07"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 268242,
       "name": "Majhi Baay Go",
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Mamachya Gavala - Kratex Remix",
-        "url": "https://open.spotify.com/album/6BNKdnEmPOqzRauarspPCQ"
-      },
-      "artists": [
-        {
-          "name": "Kratex",
-          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
-        },
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        }
-      ],
-      "duration_ms": 195234,
-      "name": "Mamachya Gavala - Kratex Remix",
-      "url": "https://open.spotify.com/track/2a0SIkpwz7tWP9fKrNrx07"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Halgi Original Mix 2021",
-        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
-      },
-      "artists": [
-        {
-          "name": "Dj Sagar Barshi",
-          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
-        }
-      ],
-      "duration_ms": 253283,
-      "name": "Halgi Original Mix 2021",
-      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
         "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
         "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 154137,
       "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
       "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Halgi Original Mix 2021",
+        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
+      },
+      "artists": [
+        {
+          "name": "Dj Sagar Barshi",
+          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Halgi Original Mix 2021",
+      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
     },
     {
       "added_at": "2026-08-04 09:03:36",

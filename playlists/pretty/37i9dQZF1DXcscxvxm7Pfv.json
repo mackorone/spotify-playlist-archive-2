@@ -1,6 +1,6 @@
 {
   "description": "Free your mind from distraction with calming white noise.",
-  "num_followers": 231786,
+  "num_followers": 231999,
   "original_name": "Noise Canceling",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "White Dreams",
-        "url": "https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL"
-      },
-      "artists": [
-        {
-          "name": "Deepnoum",
-          "url": "https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi"
-        }
-      ],
-      "duration_ms": 150483,
-      "name": "White Oasis",
-      "url": "https://open.spotify.com/track/5byMQvWH7RUCFVrYgiYluo"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Fluffy Winds",
         "url": "https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 187500,
       "name": "Soothing Deep",
       "url": "https://open.spotify.com/track/7onLbJEZjADTmezCnSWND5"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "White Dreams",
+        "url": "https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL"
+      },
+      "artists": [
+        {
+          "name": "Deepnoum",
+          "url": "https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi"
+        }
+      ],
+      "duration_ms": 150483,
+      "name": "White Oasis",
+      "url": "https://open.spotify.com/track/5byMQvWH7RUCFVrYgiYluo"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Sugar Cube White Noise",
-        "url": "https://open.spotify.com/album/03q9lHSONngZXcXHgETzgK"
-      },
-      "artists": [
-        {
-          "name": "The Clear Mind",
-          "url": "https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs"
-        }
-      ],
-      "duration_ms": 225129,
-      "name": "Sugar Cube White Noise",
-      "url": "https://open.spotify.com/track/7MuZHnNrVStFlsVFrPETD6"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Silver Fox White Noise",
         "url": "https://open.spotify.com/album/4renNYQr7zpkSayTwxStcr"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 219033,
       "name": "Silver Fox White Noise",
       "url": "https://open.spotify.com/track/72XAy5nWhNtyjxPqHl3Txb"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "Sugar Cube White Noise",
+        "url": "https://open.spotify.com/album/03q9lHSONngZXcXHgETzgK"
+      },
+      "artists": [
+        {
+          "name": "The Clear Mind",
+          "url": "https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs"
+        }
+      ],
+      "duration_ms": 225129,
+      "name": "Sugar Cube White Noise",
+      "url": "https://open.spotify.com/track/7MuZHnNrVStFlsVFrPETD6"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Fluffy White Noise",
-        "url": "https://open.spotify.com/album/56ATMdtGLSEtPmFNmGSg00"
+        "name": "Priceless White Noise",
+        "url": "https://open.spotify.com/album/2UNqPOWgKSLRvSxeBiotwb"
       },
       "artists": [
         {
-          "name": "Noi Ses",
-          "url": "https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH"
+          "name": "ZNoize",
+          "url": "https://open.spotify.com/artist/2WHtWqbEUv3kRTBhTdeLIG"
         }
       ],
-      "duration_ms": 190645,
-      "name": "Fluffy White Noise",
-      "url": "https://open.spotify.com/track/0ZiCt8FvFJqxqM0ioP3CzF"
+      "duration_ms": 228031,
+      "name": "Priceless White Noise",
+      "url": "https://open.spotify.com/track/198ccToP7ZpJUUUjOURLS1"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Priceless White Noise",
-        "url": "https://open.spotify.com/album/2UNqPOWgKSLRvSxeBiotwb"
+        "name": "Fluffy White Noise",
+        "url": "https://open.spotify.com/album/56ATMdtGLSEtPmFNmGSg00"
       },
       "artists": [
         {
-          "name": "ZNoize",
-          "url": "https://open.spotify.com/artist/2WHtWqbEUv3kRTBhTdeLIG"
+          "name": "Noi Ses",
+          "url": "https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH"
         }
       ],
-      "duration_ms": 228031,
-      "name": "Priceless White Noise",
-      "url": "https://open.spotify.com/track/198ccToP7ZpJUUUjOURLS1"
+      "duration_ms": 190645,
+      "name": "Fluffy White Noise",
+      "url": "https://open.spotify.com/track/0ZiCt8FvFJqxqM0ioP3CzF"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "White Noise Lab",
-        "url": "https://open.spotify.com/album/52hCqut1paN4fnsC2R4SUG"
-      },
-      "artists": [
-        {
-          "name": "Freifall",
-          "url": "https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte"
-        }
-      ],
-      "duration_ms": 283258,
-      "name": "White Noise Lab",
-      "url": "https://open.spotify.com/track/2S3RHmOXFV5uYqM3YmiFOD"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Placid Noise",
         "url": "https://open.spotify.com/album/2BOzypucqC7iyUbofB6gWn"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 179500,
       "name": "White Heaven",
       "url": "https://open.spotify.com/track/6QC5r7XJPiyn92rOWpLkc6"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "White Noise Lab",
+        "url": "https://open.spotify.com/album/52hCqut1paN4fnsC2R4SUG"
+      },
+      "artists": [
+        {
+          "name": "Freifall",
+          "url": "https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte"
+        }
+      ],
+      "duration_ms": 283258,
+      "name": "White Noise Lab",
+      "url": "https://open.spotify.com/track/2S3RHmOXFV5uYqM3YmiFOD"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Quiet White Noise Mind",
-        "url": "https://open.spotify.com/album/4C9i6KIT1xlUi5S0mrp4KL"
-      },
-      "artists": [
-        {
-          "name": "Scientists of Noise",
-          "url": "https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA"
-        }
-      ],
-      "duration_ms": 299604,
-      "name": "Quiet White Noise Mind",
-      "url": "https://open.spotify.com/track/12yrUrUGUVuEAE84E1V31h"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Sleep, White Noise Sleep",
         "url": "https://open.spotify.com/album/4wuyiKHy5bgqYlvIhW4nuC"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 147392,
       "name": "White Noise is for Napping",
       "url": "https://open.spotify.com/track/1auhrJevFfuhjPaIt9b2XH"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "Quiet White Noise Mind",
+        "url": "https://open.spotify.com/album/4C9i6KIT1xlUi5S0mrp4KL"
+      },
+      "artists": [
+        {
+          "name": "Scientists of Noise",
+          "url": "https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA"
+        }
+      ],
+      "duration_ms": 299604,
+      "name": "Quiet White Noise Mind",
+      "url": "https://open.spotify.com/track/12yrUrUGUVuEAE84E1V31h"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Sound of the sky",
-        "url": "https://open.spotify.com/album/1HGH7m5sXj7xbdx2NPE7Tr"
-      },
-      "artists": [
-        {
-          "name": "Zendium",
-          "url": "https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Sound of the sky",
-      "url": "https://open.spotify.com/track/6YiKHnPQKzY0wM7zHDMPy0"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "The Rhythm Of Noise",
         "url": "https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 142278,
       "name": "Forever Ambient Noise",
       "url": "https://open.spotify.com/track/4Qs93QCHeZOsf01IVNQCBY"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "Sound of the sky",
+        "url": "https://open.spotify.com/album/1HGH7m5sXj7xbdx2NPE7Tr"
+      },
+      "artists": [
+        {
+          "name": "Zendium",
+          "url": "https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Sound of the sky",
+      "url": "https://open.spotify.com/track/6YiKHnPQKzY0wM7zHDMPy0"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Cloud White Noise",
-        "url": "https://open.spotify.com/album/5PyzfPy1AYilqzNLPThpct"
-      },
-      "artists": [
-        {
-          "name": "Sonhos De Aviao",
-          "url": "https://open.spotify.com/artist/4w2htsFo12HRIEO0LibBNg"
-        }
-      ],
-      "duration_ms": 136736,
-      "name": "Cloud White Noise",
-      "url": "https://open.spotify.com/track/1pKDDWvQp4HiyEzsVuSHTT"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Beneath The Surface",
         "url": "https://open.spotify.com/album/78i64SMc5sjTETYK3RuWYh"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 191000,
       "name": "Beneath The Surface",
       "url": "https://open.spotify.com/track/48X2dWdhT84ZS6lj6ZDjoD"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "Cloud White Noise",
+        "url": "https://open.spotify.com/album/5PyzfPy1AYilqzNLPThpct"
+      },
+      "artists": [
+        {
+          "name": "Sonhos De Aviao",
+          "url": "https://open.spotify.com/artist/4w2htsFo12HRIEO0LibBNg"
+        }
+      ],
+      "duration_ms": 136736,
+      "name": "Cloud White Noise",
+      "url": "https://open.spotify.com/track/1pKDDWvQp4HiyEzsVuSHTT"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "Sleeping Shades",
-        "url": "https://open.spotify.com/album/101gECc58naaiDEJaLDvJU"
-      },
-      "artists": [
-        {
-          "name": "Panoramia",
-          "url": "https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Sleeping Shades",
-      "url": "https://open.spotify.com/track/2TKQ2Ia0YvoBKE0LZWnBiU"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Digital Waves",
         "url": "https://open.spotify.com/album/0skuQXE2EMOp6OHysUQxQs"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 175500,
       "name": "Digital Waves",
       "url": "https://open.spotify.com/track/6DDLnwNKKt5jRjghysaLem"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "Sleeping Shades",
+        "url": "https://open.spotify.com/album/101gECc58naaiDEJaLDvJU"
+      },
+      "artists": [
+        {
+          "name": "Panoramia",
+          "url": "https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Sleeping Shades",
+      "url": "https://open.spotify.com/track/2TKQ2Ia0YvoBKE0LZWnBiU"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "White Noise Winter Dreams",
-        "url": "https://open.spotify.com/album/7CZu7ZsAzkSCwEZtB4Ouyt"
-      },
-      "artists": [
-        {
-          "name": "Freifall",
-          "url": "https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "White Noise Winter Dreams",
-      "url": "https://open.spotify.com/track/0WYciAV0lVsMEQk15UXVw1"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Rumore Leggero",
         "url": "https://open.spotify.com/album/2gUqOfKDQU6tl4hgAuGgjj"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 147121,
       "name": "Rumore Prima Di Coricarsi",
       "url": "https://open.spotify.com/track/4MrffGqdV4mgr2qBtC07SF"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "White Noise Winter Dreams",
+        "url": "https://open.spotify.com/album/7CZu7ZsAzkSCwEZtB4Ouyt"
+      },
+      "artists": [
+        {
+          "name": "Freifall",
+          "url": "https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "White Noise Winter Dreams",
+      "url": "https://open.spotify.com/track/0WYciAV0lVsMEQk15UXVw1"
     },
     {
       "added_at": "2026-03-31 15:18:30",
@@ -2699,22 +2699,6 @@
     {
       "added_at": "2026-03-31 15:18:30",
       "album": {
-        "name": "White Noise White Lights",
-        "url": "https://open.spotify.com/album/4iA06G0Vj9kyAnXylxCVuw"
-      },
-      "artists": [
-        {
-          "name": "The Rain Crew",
-          "url": "https://open.spotify.com/artist/0YtEZ0PyTeyY3bit3tlhPG"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Sky Noise",
-      "url": "https://open.spotify.com/track/5VBsrCjgAi5LCEm3qi6jDB"
-    },
-    {
-      "added_at": "2026-03-31 15:18:30",
-      "album": {
         "name": "Momentary Repose",
         "url": "https://open.spotify.com/album/1giBQuyDOKrKsgt3WcYzNo"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 143877,
       "name": "Relaxing Focus Noise",
       "url": "https://open.spotify.com/track/7K7agsW6aBgr1RVi2NXFPf"
+    },
+    {
+      "added_at": "2026-03-31 15:18:30",
+      "album": {
+        "name": "White Noise White Lights",
+        "url": "https://open.spotify.com/album/4iA06G0Vj9kyAnXylxCVuw"
+      },
+      "artists": [
+        {
+          "name": "The Rain Crew",
+          "url": "https://open.spotify.com/artist/0YtEZ0PyTeyY3bit3tlhPG"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Sky Noise",
+      "url": "https://open.spotify.com/track/5VBsrCjgAi5LCEm3qi6jDB"
     },
     {
       "added_at": "2026-03-31 15:18:30",

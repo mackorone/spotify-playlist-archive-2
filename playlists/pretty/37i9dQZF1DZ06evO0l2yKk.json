@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 206929,
+  "num_followers": 206972,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAABYxLypDrRdCuIlgwnPF1hr",
+  "snapshot_id": "aojmgAAAAADJQ1ZX9UcPGlQThKeuht+N",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta Norte\u00f1a Puras Cumbias",
-        "url": "https://open.spotify.com/album/7dKTUMDMyCyUnAHF1L1VKG"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 147266,
-      "name": "Las Cerezas",
-      "url": "https://open.spotify.com/track/4yRpPJBLOuTcXQDxEkCEt1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 188146,
       "name": "Por Las Damas",
       "url": "https://open.spotify.com/track/3yg2klWupt24TGYuxeOhjS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta Norte\u00f1a Puras Cumbias",
+        "url": "https://open.spotify.com/album/7dKTUMDMyCyUnAHF1L1VKG"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 147266,
+      "name": "Las Cerezas",
+      "url": "https://open.spotify.com/track/4yRpPJBLOuTcXQDxEkCEt1"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo De Cantina",
-        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "La Baraja",
-      "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Coraz\u00f3n Necio",
         "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 232120,
       "name": "Ya Lo S\u00e9",
       "url": "https://open.spotify.com/track/1NA4zhZ9JXv1dXlSYaWTDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Espejo De Cantina",
+        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "La Baraja",
+      "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH"
+      "duration_ms": 206773,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Asesino A Sueldo",
-      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
+      "duration_ms": 193666,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
       "duration_ms": 191320,
       "name": "Te Olvid\u00e9 - Cumbia",
       "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Me Olvidaste",
+      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 186306,
       "name": "Y Es Que Te Quiero De Tal Forma",
       "url": "https://open.spotify.com/track/6gvXjXn0bnrVFG1JJcrohG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Me Olvidaste",
-      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
     },
     {
       "added_at": null,

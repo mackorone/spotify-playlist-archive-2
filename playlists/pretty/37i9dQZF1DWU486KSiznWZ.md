@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > نخبة الأغاني الخليجية\. الغلاف: ماجد المهندس
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,242 likes - 42 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,255 likes - 42 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

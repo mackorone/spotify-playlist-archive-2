@@ -1,6 +1,6 @@
 {
   "description": "The best hardstyle remixes of songs you know!",
-  "num_followers": 234545,
+  "num_followers": 234564,
   "original_name": "Hardstyle Remixes of Popular Songs",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2026-08-17 14:00:33",
       "album": {
+        "name": "Can Can (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "High Level",
+          "url": "https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh"
+        }
+      ],
+      "duration_ms": 120187,
+      "name": "Can Can (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2"
+    },
+    {
+      "added_at": "2026-08-17 14:00:33",
+      "album": {
         "name": "Another Love (Hardstyle - Sped Up)",
         "url": "https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 129783,
       "name": "Another Love - Hardstyle - Sped Up",
       "url": "https://open.spotify.com/track/5VhPhDGiJrc2rd7GbToA7z"
-    },
-    {
-      "added_at": "2026-08-17 14:00:33",
-      "album": {
-        "name": "Can Can (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "High Level",
-          "url": "https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh"
-        }
-      ],
-      "duration_ms": 120187,
-      "name": "Can Can (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2"
     },
     {
       "added_at": "2026-08-17 14:00:33",

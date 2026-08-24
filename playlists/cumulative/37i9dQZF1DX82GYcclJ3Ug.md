@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Balu Brigada
 
-3,922 songs - 9 day 0 hr 23 min
+3,923 songs - 9 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2717,6 +2717,7 @@
 | [Recognize You](https://open.spotify.com/track/7hJ0oqscjJIrGPyiKenpcx) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Recognize You](https://open.spotify.com/album/5jhawCgrp2Lv5E3dyMEOzs) | 4:31 | 2025-10-10 | 2026-02-07 |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-12-10 | 2022-04-16 |
 | [Records](https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Summer](https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H) | 3:28 | 2022-06-24 | 2022-08-27 |
+| [Red Light](https://open.spotify.com/track/5HmtVI8Zu6PljE6PgrEBTy) | [Syd Taylor](https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav) | [Red Light](https://open.spotify.com/album/3Q583H3vpTt6aSSUVDyfOf) | 2:55 | 2026-08-23 |  |
 | [Red Rocket](https://open.spotify.com/track/4lts576zeE2VhWw14CdHPM) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Die In Love](https://open.spotify.com/album/4BMFHGrHTIRSPvSI6S9UKo) | 4:38 | 2025-06-27 | 2025-07-12 |
 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 | 2025-03-07 | 2025-03-29 |
 | [Redeemer](https://open.spotify.com/track/6rDVb2EImUpLRrOJkev2XE) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Redeemer](https://open.spotify.com/album/2UejSXZV8wsfHIM47lo2hD) | 3:58 | 2026-05-08 | 2026-06-27 |

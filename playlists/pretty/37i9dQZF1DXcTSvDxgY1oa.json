@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Jim Gardner",
-  "num_followers": 2011,
+  "num_followers": 2012,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "okaydokay_",
-        "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
-      },
-      "artists": [
-        {
-          "name": "Magazines",
-          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
-        }
-      ],
-      "duration_ms": 160517,
-      "name": "okaydokay_",
-      "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
         "name": "Holes",
         "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 231000,
       "name": "Holes",
       "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
+        "name": "okaydokay_",
+        "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
+      },
+      "artists": [
+        {
+          "name": "Magazines",
+          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
+        }
+      ],
+      "duration_ms": 160517,
+      "name": "okaydokay_",
+      "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
+        "name": "Wie weet",
+        "url": "https://open.spotify.com/album/6qCo4XIWgLL1hHOJTBI7kM"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
+        }
+      ],
+      "duration_ms": 195459,
+      "name": "Wie weet",
+      "url": "https://open.spotify.com/track/1mUXSKARq2lBJkjy4jA7yc"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
         "name": "Gingah",
         "url": "https://open.spotify.com/album/3DnQQs5TlPMctrgqNs5oog"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 136969,
       "name": "Gingah",
       "url": "https://open.spotify.com/track/5CiI5CS7yLfEq94B8rcTzo"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
-        "name": "Wie weet",
-        "url": "https://open.spotify.com/album/6qCo4XIWgLL1hHOJTBI7kM"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
-        }
-      ],
-      "duration_ms": 195459,
-      "name": "Wie weet",
-      "url": "https://open.spotify.com/track/1mUXSKARq2lBJkjy4jA7yc"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "Bad Mood",
-        "url": "https://open.spotify.com/album/0s7FGOz0lzMPPFqpeK8rlU"
-      },
-      "artists": [
-        {
-          "name": "BARBEE",
-          "url": "https://open.spotify.com/artist/34An8qUakkZAIsvAoFNwX4"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Bad Mood",
-      "url": "https://open.spotify.com/track/2Vpd1LXBwRVKoeL6d1rZb3"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
         "name": "swim (play me the deep cut)",
         "url": "https://open.spotify.com/album/5G871464XFiXsCzwJczt4X"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 184624,
       "name": "swim (play me the deep cut)",
       "url": "https://open.spotify.com/track/4JDW9ypwDDopsSk8ZXZz8D"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
+        "name": "Bad Mood",
+        "url": "https://open.spotify.com/album/0s7FGOz0lzMPPFqpeK8rlU"
+      },
+      "artists": [
+        {
+          "name": "BARBEE",
+          "url": "https://open.spotify.com/artist/34An8qUakkZAIsvAoFNwX4"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Bad Mood",
+      "url": "https://open.spotify.com/track/2Vpd1LXBwRVKoeL6d1rZb3"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -727,54 +727,6 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "lOvE",
-        "url": "https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ"
-      },
-      "artists": [
-        {
-          "name": "Lola Louii",
-          "url": "https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "lOvE",
-      "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
-        "name": "Make A Wish",
-        "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
-      },
-      "artists": [
-        {
-          "name": "SWANSLAUGHTER",
-          "url": "https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI"
-        }
-      ],
-      "duration_ms": 114260,
-      "name": "Nothing Means Anything",
-      "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
-        "name": "Comfort on its Knees",
-        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
-      },
-      "artists": [
-        {
-          "name": "In Good Spirit",
-          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
-        }
-      ],
-      "duration_ms": 288952,
-      "name": "Brother Please",
-      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/5gQxxMdJzf5mNQWDX1Daw1"
       },
@@ -791,18 +743,18 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "Consistent",
-        "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
+        "name": "Comfort on its Knees",
+        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
       },
       "artists": [
         {
-          "name": "Gilly",
-          "url": "https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN"
+          "name": "In Good Spirit",
+          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
         }
       ],
-      "duration_ms": 175483,
-      "name": "Consistent",
-      "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
+      "duration_ms": 288952,
+      "name": "Brother Please",
+      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -827,6 +779,54 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
+        "name": "Make A Wish",
+        "url": "https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z"
+      },
+      "artists": [
+        {
+          "name": "SWANSLAUGHTER",
+          "url": "https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI"
+        }
+      ],
+      "duration_ms": 114260,
+      "name": "Nothing Means Anything",
+      "url": "https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
+        "name": "lOvE",
+        "url": "https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ"
+      },
+      "artists": [
+        {
+          "name": "Lola Louii",
+          "url": "https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "lOvE",
+      "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
+        "name": "Consistent",
+        "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
+      },
+      "artists": [
+        {
+          "name": "Gilly",
+          "url": "https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Consistent",
+      "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
         "name": "WAS DIT ALLES?",
         "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
       },
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
+        "name": "Mad Again",
+        "url": "https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV"
       },
       "artists": [
         {
-          "name": "Wilson A.",
-          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
+          "name": "Doris Vosters",
+          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
         }
       ],
-      "duration_ms": 191945,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
+      "duration_ms": 262224,
+      "name": "Mad Again",
+      "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "Mad Again",
-        "url": "https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV"
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
       },
       "artists": [
         {
-          "name": "Doris Vosters",
-          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
+          "name": "Wilson A.",
+          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
         }
       ],
-      "duration_ms": 262224,
-      "name": "Mad Again",
-      "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
+      "duration_ms": 191945,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "\u0130kimiz Bir Fidan\u0131z",
-        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
-      },
-      "artists": [
-        {
-          "name": "Duygu Alkan",
-          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
-        }
-      ],
-      "duration_ms": 194925,
-      "name": "\u0130kimiz Bir Fidan\u0131z",
-      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
         "name": "deadbeat (how long)",
         "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 240233,
       "name": "deadbeat (how long)",
       "url": "https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
+        "name": "\u0130kimiz Bir Fidan\u0131z",
+        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
+      },
+      "artists": [
+        {
+          "name": "Duygu Alkan",
+          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
+        }
+      ],
+      "duration_ms": 194925,
+      "name": "\u0130kimiz Bir Fidan\u0131z",
+      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "ZO MOE",
-        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
+        "name": "Vallen",
+        "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
       },
       "artists": [
         {
-          "name": "WABR",
-          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
+          "name": "YRSA",
+          "url": "https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h"
         }
       ],
-      "duration_ms": 235789,
-      "name": "ZO MOE",
-      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
+      "duration_ms": 161226,
+      "name": "Vallen",
+      "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "Vallen",
-        "url": "https://open.spotify.com/album/0xL30vL7g8ofXojja3ulRY"
-      },
-      "artists": [
-        {
-          "name": "YRSA",
-          "url": "https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Vallen",
-      "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 129333,
       "name": "Life",
       "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
+        "name": "ZO MOE",
+        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
+      },
+      "artists": [
+        {
+          "name": "WABR",
+          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "ZO MOE",
+      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
+        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
+        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
+      },
+      "artists": [
+        {
+          "name": "Coalmine Canary",
+          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "bandnamegenerator",
+      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
         "name": "Wistful Way",
         "url": "https://open.spotify.com/album/3490a2LWidSgSyEhqdV1Af"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 310015,
       "name": "Agony",
       "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
-        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
-        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
-      },
-      "artists": [
-        {
-          "name": "Coalmine Canary",
-          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "bandnamegenerator",
-      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "BAD CHI",
-        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
-      },
-      "artists": [
-        {
-          "name": "Kidd Nebula",
-          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
-        }
-      ],
-      "duration_ms": 223974,
-      "name": "BAD CHI - Single Version",
-      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
         "name": "ireallylikeboys",
         "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 149163,
       "name": "ireallylikeboys",
       "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
+        "name": "BAD CHI",
+        "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
+      },
+      "artists": [
+        {
+          "name": "Kidd Nebula",
+          "url": "https://open.spotify.com/artist/3ub4ZKV3rL12fXn8LzIhk4"
+        }
+      ],
+      "duration_ms": 223974,
+      "name": "BAD CHI - Single Version",
+      "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "Warm Light",
-        "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
-      },
-      "artists": [
-        {
-          "name": "Amelie Spinks",
-          "url": "https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
         "name": "Fashion Week",
         "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 199013,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
+        "name": "Warm Light",
+        "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
+      },
+      "artists": [
+        {
+          "name": "Amelie Spinks",
+          "url": "https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -1295,18 +1295,38 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "dislocated .",
-        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
+        "name": "CAH",
+        "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
       },
       "artists": [
         {
-          "name": "MOR\u00c8L",
-          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
+          "name": "CAH",
+          "url": "https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr"
         }
       ],
-      "duration_ms": 255120,
-      "name": "ozempic tears",
-      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
+      "duration_ms": 228500,
+      "name": "Polder",
+      "url": "https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4"
+    },
+    {
+      "added_at": "2026-08-19 07:55:20",
+      "album": {
+        "name": "Snakes and Heartbreak(er)s",
+        "url": "https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC"
+      },
+      "artists": [
+        {
+          "name": "Weird Youth",
+          "url": "https://open.spotify.com/artist/6TnYTsKeXWGO0BmrQtLXIC"
+        },
+        {
+          "name": "suze who?",
+          "url": "https://open.spotify.com/artist/5tb3T4SvNmr26QW5SMFAsG"
+        }
+      ],
+      "duration_ms": 298693,
+      "name": "Snakes and Heartbreak(er)s",
+      "url": "https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0"
     },
     {
       "added_at": "2026-08-19 07:55:20",
@@ -1343,38 +1363,18 @@
     {
       "added_at": "2026-08-19 07:55:20",
       "album": {
-        "name": "CAH",
-        "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
+        "name": "dislocated .",
+        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
       },
       "artists": [
         {
-          "name": "CAH",
-          "url": "https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr"
+          "name": "MOR\u00c8L",
+          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
         }
       ],
-      "duration_ms": 228500,
-      "name": "Polder",
-      "url": "https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4"
-    },
-    {
-      "added_at": "2026-08-19 07:55:20",
-      "album": {
-        "name": "Snakes and Heartbreak(er)s",
-        "url": "https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC"
-      },
-      "artists": [
-        {
-          "name": "Weird Youth",
-          "url": "https://open.spotify.com/artist/6TnYTsKeXWGO0BmrQtLXIC"
-        },
-        {
-          "name": "suze who?",
-          "url": "https://open.spotify.com/artist/5tb3T4SvNmr26QW5SMFAsG"
-        }
-      ],
-      "duration_ms": 298693,
-      "name": "Snakes and Heartbreak(er)s",
-      "url": "https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0"
+      "duration_ms": 255120,
+      "name": "ozempic tears",
+      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
     },
     {
       "added_at": "2026-08-19 07:55:20",

@@ -4204,7 +4204,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 285148,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
@@ -25692,6 +25692,28 @@
       "duration_ms": 217821,
       "name": "You Know",
       "url": "https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj"
+    },
+    {
+      "album": {
+        "name": "you love me",
+        "url": "https://open.spotify.com/album/0SnOkgG5O4elTdlvY68K0O"
+      },
+      "artists": [
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "you love me",
+      "url": "https://open.spotify.com/track/1tD762Wdgt43yznHd2I4ST"
     },
     {
       "album": {

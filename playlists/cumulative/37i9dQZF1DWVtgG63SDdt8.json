@@ -36543,6 +36543,24 @@
     },
     {
       "album": {
+        "name": "Checking In",
+        "url": "https://open.spotify.com/album/0dp2ECJa0bhJQ884rPHlgv"
+      },
+      "artists": [
+        {
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137232,
+      "name": "Checking In",
+      "url": "https://open.spotify.com/track/50MW24b6EAvpY1f8sdp8lt"
+    },
+    {
+      "album": {
         "name": "Checking In (From the Inspired By Soundtrack \"Unsung Hero\")",
         "url": "https://open.spotify.com/album/5pc39dpKoqqIibRMtvrPyr"
       },
@@ -273406,24 +273424,6 @@
       "duration_ms": 221203,
       "name": "\u2018Till I Choke",
       "url": "https://open.spotify.com/track/6Lj6TKYDEgQYMWtynNf9Za"
-    },
-    {
-      "album": {
-        "name": "\u201cChecking In\u201d",
-        "url": "https://open.spotify.com/album/0dp2ECJa0bhJQ884rPHlgv"
-      },
-      "artists": [
-        {
-          "name": "Aha Gazelle",
-          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
-        }
-      ],
-      "date_added": "2026-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137232,
-      "name": "\u201cChecking In\u201d",
-      "url": "https://open.spotify.com/track/50MW24b6EAvpY1f8sdp8lt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVtgG63SDdt8"

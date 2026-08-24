@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-728 songs - 1 day 14 hr 19 min
+729 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Nature's Pink Noise](https://open.spotify.com/track/5W5uzgdHweh75IxEqP8dQ9) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Nature's Pink Noise](https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5) | 4:11 | 2022-06-03 | 2023-02-17 |
 | [Noise Bliss 200 Hz](https://open.spotify.com/track/1PIexPfZnVlmoPMqNE6Xvu) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Noise Bliss](https://open.spotify.com/album/5lT9didrhUW3Xx4OgkzbSm) | 3:26 | 2021-12-01 | 2023-02-17 |
 | [Noise Dimension](https://open.spotify.com/track/09OGDAEgUPwra1K9ou5FaC) | [Hypnotic Noise](https://open.spotify.com/artist/5NEOAF1p2oJqwe3RWBCgmL) | [Hypnotic Brown Noise](https://open.spotify.com/album/672omZvPgnZ7griA3MP4dc) | 2:46 | 2022-11-18 |  |
-| [Noise Dream](https://open.spotify.com/track/7s5bkyULE2gi9UXNWOippx) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Floating Through Brown Noise](https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM) | 3:10 | 2022-11-18 |  |
+| [Noise Dream](https://open.spotify.com/track/7s5bkyULE2gi9UXNWOippx) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Floating Through Brown Noise](https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM) | 3:10 | 2022-11-18 | 2026-08-24 |
 | [Noise of Blush](https://open.spotify.com/track/69g5H45jmhVbX6hwbP1ZE3) | [Rosonance](https://open.spotify.com/artist/4SYjHr4H1LksGbBg0sXkb3) | [Noise of Blush](https://open.spotify.com/album/07OlK6DGItRxwiDBYBbO4U) | 2:55 | 2025-12-19 |  |
 | [Noise Recovery](https://open.spotify.com/track/5twyfN4WqWcrBWoxZIxFfj) | [Symphony of Noises](https://open.spotify.com/artist/0gju4pLAHiP2XhvPXy5Irj) | [Noise Recovery](https://open.spotify.com/album/0gj1JxsAVyb003i7uvTIWy) | 3:27 | 2021-12-01 | 2022-12-21 |
 | [Noisy Heart](https://open.spotify.com/track/0h6vTpXxtdYJp6lcTkvjIO) | [Recordings From Earth](https://open.spotify.com/artist/3ZQb2yyHzgU02WZWbMOnyU) | [Loud Tile](https://open.spotify.com/album/4Huv5Bvn7wtHzuAZRv7X8m) | 2:21 | 2021-12-01 | 2026-03-10 |
@@ -605,6 +605,7 @@
 | [Rosé Sleep Noise](https://open.spotify.com/track/1LyaQYpdN0P5PN11iiuW3U) | [EXOA](https://open.spotify.com/artist/16fII77WGyUG8E5DTIW4EU) | [Rosé Sleep Noise](https://open.spotify.com/album/69YSFpafyANsqZAJhvdPkJ) | 3:37 | 2025-04-09 |  |
 | [Ruido De Aviones Freq 238 Hz Q 0.5 \- Seamless](https://open.spotify.com/track/7IULbyfSZ5rViyx7qKCrdZ) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido De Aviones](https://open.spotify.com/album/4DA3h0stpjokKVyHVL0Z8y) | 3:05 | 2022-11-18 |  |
 | [Ruido Del Mar \- Seamless](https://open.spotify.com/track/5BCbMLN2bw6sRvWZVI11OF) | [Amantigo](https://open.spotify.com/artist/2egW4Lh3v9aPggJ9e5wAHc) | [Ruido Rosa](https://open.spotify.com/album/6CwpDWdL7PxgH97lvEdx2c) | 2:54 | 2022-11-18 |  |
+| [Ruido Marrón Cuántico](https://open.spotify.com/track/4xyvTPjqtIwuGpGURW3PUI) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido Marrón Cuántico](https://open.spotify.com/album/1oppK9AZFgrwHtlxzPCPeF) | 2:58 | 2026-08-14 |  |
 | [Ruido Rosa \- Seamless](https://open.spotify.com/track/2XxL38UvgKqGdVlg5k2xth) | [Amantigo](https://open.spotify.com/artist/2egW4Lh3v9aPggJ9e5wAHc) | [Ruido Rosa](https://open.spotify.com/album/6CwpDWdL7PxgH97lvEdx2c) | 3:08 | 2022-11-18 |  |
 | [Rumble on the Ocean Floor](https://open.spotify.com/track/0NaEa0iLAJ789b9FZmelek) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:05 | 2021-12-01 | 2022-11-19 |
 | [Rumbling Pink Noise](https://open.spotify.com/track/7esOmrJXvLhjmS9zRycl0k) | [Lazzink](https://open.spotify.com/artist/5Q4tKwDny1EHVFVtyqL01w) | [Pink Noise sensation](https://open.spotify.com/album/0xAfotHsx9O6FeIQ1DQogM) | 2:56 | 2021-12-01 | 2022-12-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 122466,
+  "num_followers": 122467,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAAD9AVIoshYeQSAmTI5KW7Aq",
+  "snapshot_id": "aojmgAAAAAD+4KXKArMKeosDChHsF1PA",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 246106,
-      "name": "Stricken",
-      "url": "https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx"
+      "duration_ms": 221000,
+      "name": "Open The Gate",
+      "url": "https://open.spotify.com/track/61vxG9VYYLXPi9lYCmM6Qv"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN"
+        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
+        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY"
+      "duration_ms": 232346,
+      "name": "Big Distraction",
+      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Open The Gate",
-      "url": "https://open.spotify.com/track/61vxG9VYYLXPi9lYCmM6Qv"
+      "duration_ms": 246106,
+      "name": "Stricken",
+      "url": "https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 232346,
-      "name": "Big Distraction",
-      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
+      "duration_ms": 219973,
+      "name": "You're So Foxy",
+      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Push And Shove (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Push And Shove",
         "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 310226,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5vccqEnXkzZxHroGh1Am1R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
-        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "You're So Foxy",
-      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove",
-        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Undercover",
-      "url": "https://open.spotify.com/track/2Cp5exQvEWphydFc11pxO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything In Time (B-Sides, Rarities, Remixes)",
         "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 269000,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Push And Shove",
+        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/2Cp5exQvEWphydFc11pxO6"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
+        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Everything In Time - Los Angeles",
+      "url": "https://open.spotify.com/track/2vNh6cL0D2SlnNua7XUpcN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tastes Like Gold",
         "url": "https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 161911,
       "name": "Mouth Shut (feat. Adrian Young of No Doubt)",
       "url": "https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
-        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Everything In Time - Los Angeles",
-      "url": "https://open.spotify.com/track/2vNh6cL0D2SlnNua7XUpcN"
     },
     {
       "added_at": null,

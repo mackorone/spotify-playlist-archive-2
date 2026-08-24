@@ -3021,6 +3021,32 @@
     },
     {
       "album": {
+        "name": "Cintilante",
+        "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "2B",
+          "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
+        },
+        {
+          "name": "Amorim PL",
+          "url": "https://open.spotify.com/artist/65F0ZSq5lEEWBe5dSMwPtB"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Porta Aberta",
+      "url": "https://open.spotify.com/track/6AH3DsNS11Tie09WQra0Yt"
+    },
+    {
+      "album": {
         "name": "Pra Viajar",
         "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
       },
@@ -3110,7 +3136,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 204750,
       "name": "Quando Amanhece",
       "url": "https://open.spotify.com/track/3MmxK7jLxLTHe2fKEC3SIn"

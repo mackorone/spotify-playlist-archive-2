@@ -1,6 +1,6 @@
 {
   "description": "\u00a1PUEEERTAAAAAAAAS! ",
-  "num_followers": 261476,
+  "num_followers": 261504,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Me Gustan Las Viejas Buenas",
-        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
-      },
-      "artists": [
-        {
-          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
-          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Tamarindo",
-      "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Zapateado Endemoniado",
         "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 168600,
       "name": "Orde\u00f1ando la Vaca",
       "url": "https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+      },
+      "artists": [
+        {
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+        }
+      ],
+      "duration_ms": 159213,
+      "name": "Tamarindo",
+      "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Ajeno",
-        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Prov\u00f3came",
-      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Banda La Jaripera Vol.1",
         "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 145520,
       "name": "Arriba Pichataro",
       "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Ajeno",
+        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -495,8 +495,8 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
-        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 159706,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
+      "duration_ms": 145600,
+      "name": "Los Viejitos",
+      "url": "https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 196736,
+      "name": "Pelea De Gallos - En Vivo",
+      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
         "name": "El Guateque",
         "url": "https://open.spotify.com/album/4wcH9aFTZCj2kB7eDoXPrj"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 160011,
       "name": "Mujer Interesada",
       "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 196736,
-      "name": "Pelea De Gallos - En Vivo",
-      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Cumbias Y Mas Con Banda",
-        "url": "https://open.spotify.com/album/3yXSUrthEmKtUmVLzK3XUz"
-      },
-      "artists": [
-        {
-          "name": "Banda Oasis De Valentin Figueroa",
-          "url": "https://open.spotify.com/artist/7LVm1TssFoEt9JsZvzIw66"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "La Ni\u00f1a Esta Triste",
-      "url": "https://open.spotify.com/track/4qeh6TQfgk8hNHupcMbj88"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "En Vivo...Desde Guanajuato Vol. 2",
         "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 123141,
       "name": "El Olotito",
       "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Cumbias Y Mas Con Banda",
+        "url": "https://open.spotify.com/album/3yXSUrthEmKtUmVLzK3XUz"
+      },
+      "artists": [
+        {
+          "name": "Banda Oasis De Valentin Figueroa",
+          "url": "https://open.spotify.com/artist/7LVm1TssFoEt9JsZvzIw66"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "La Ni\u00f1a Esta Triste",
+      "url": "https://open.spotify.com/track/4qeh6TQfgk8hNHupcMbj88"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Me He Enamorado",
-        "url": "https://open.spotify.com/album/0PcA6F22piO1Beu7ud9K8L"
-      },
-      "artists": [
-        {
-          "name": "Banda La Joya De Antequera",
-          "url": "https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt"
-        }
-      ],
-      "duration_ms": 184072,
-      "name": "Los Triciclos",
-      "url": "https://open.spotify.com/track/0GaeJIMjDiOOuD2N1ajoWp"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Fiesta de Enero",
         "url": "https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 145397,
       "name": "Fiesta de Enero",
       "url": "https://open.spotify.com/track/5KhK6Wjsr7GBeLKrPlWune"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Me He Enamorado",
+        "url": "https://open.spotify.com/album/0PcA6F22piO1Beu7ud9K8L"
+      },
+      "artists": [
+        {
+          "name": "Banda La Joya De Antequera",
+          "url": "https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt"
+        }
+      ],
+      "duration_ms": 184072,
+      "name": "Los Triciclos",
+      "url": "https://open.spotify.com/track/0GaeJIMjDiOOuD2N1ajoWp"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/6F1a2oyhCeba3S0ToPqACz"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "El Toro Requeson",
-      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
         "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 138640,
       "name": "El Tiliche",
       "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Que Chulo Es el Jaripeo",
+        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fascinante del Merito Zirahuen",
+          "url": "https://open.spotify.com/artist/6F1a2oyhCeba3S0ToPqACz"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "El Toro Requeson",
+      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "La Yaquesita",
-      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Agua de T\u00e9",
         "url": "https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 170520,
       "name": "Agua de T\u00e9",
       "url": "https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 152373,
-      "name": "Rumbo a la Ca\u00f1ada",
-      "url": "https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 180197,
       "name": "La Amachona - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 152373,
+      "name": "Rumbo a la Ca\u00f1ada",
+      "url": "https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Arriba Tonichi",
-      "url": "https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Que Chulo Es el Jaripeo",
         "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 177930,
       "name": "El Novillo Despuntado",
       "url": "https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Arriba Tonichi",
+      "url": "https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "15 Aniversario",
-        "url": "https://open.spotify.com/album/5nIe1Rb2LZHb0knEt8fHLJ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Tecateando",
-          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
-        }
-      ],
-      "duration_ms": 242207,
-      "name": "Sones Tecateando",
-      "url": "https://open.spotify.com/track/0UrHzYYNOXu4i6SQxPjyLh"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
         "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 186266,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/6MTPBQhyDwyDkYkiRbC5CJ"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "15 Aniversario",
+        "url": "https://open.spotify.com/album/5nIe1Rb2LZHb0knEt8fHLJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Tecateando",
+          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
+        }
+      ],
+      "duration_ms": 242207,
+      "name": "Sones Tecateando",
+      "url": "https://open.spotify.com/track/0UrHzYYNOXu4i6SQxPjyLh"
     },
     {
       "added_at": "2025-09-01 20:36:31",

@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104409,
+  "num_followers": 104411,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAAC6oWolZxTnZHwfYBYA9N46",
+  "snapshot_id": "aojmgAAAAAD5dCNxb3ijXYPsitT4UBVz",
   "tracks": [
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 210319,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Following My Intuition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 181480,
       "name": "Couldn't Be Mine",
       "url": "https://open.spotify.com/track/4BUYYtxQYG8eoHPieyc9Tx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 210319,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
     },
     {
       "added_at": null,
@@ -943,38 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bang Bang (Remixes) (feat. R. City, Selah Sue & Craig David)",
-        "url": "https://open.spotify.com/album/7n06YZj3TcbcsaDDUtAthS"
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
       "artists": [
         {
-          "name": "DJ Fresh",
-          "url": "https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "R. City",
-          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
-        },
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        },
-        {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Ren\u00e9 LaVice",
-          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
         }
       ],
-      "duration_ms": 242746,
-      "name": "Bang Bang (feat. R. City, Selah Sue & Craig David) - Ren\u00e9 LaVice's Trigger Happy Remix",
-      "url": "https://open.spotify.com/track/5fEn8RHPrh5eC1HlAT2yG8"
+      "duration_ms": 194520,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5fm1g5y5KoxxAcoqvm7FDK"
     }
   ],
   "unique_name": "This Is Craig David",

@@ -27275,6 +27275,24 @@
     },
     {
       "album": {
+        "name": "sugar",
+        "url": "https://open.spotify.com/album/71fp4VoLfyXVqPTWmbUhzl"
+      },
+      "artists": [
+        {
+          "name": "VRSTY",
+          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200863,
+      "name": "sugar",
+      "url": "https://open.spotify.com/track/3DNmwqs5O0czUgRT5AvvY5"
+    },
+    {
+      "album": {
         "name": "Suicide (The Lovers)",
         "url": "https://open.spotify.com/album/1TcAW6Ulse2wgqHGfEyFK9"
       },
@@ -33538,7 +33556,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 154000,
       "name": "Woodstock \u201999",
       "url": "https://open.spotify.com/track/7FRPqRBXaqoJy2hAOl7Vll"

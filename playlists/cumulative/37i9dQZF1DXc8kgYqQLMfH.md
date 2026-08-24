@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,336 songs - 2 day 3 hr 6 min
+1,337 songs - 2 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Flawed](https://open.spotify.com/track/6d6mHXbP1XnN104ONxI1jU) | [Nomadic Focus](https://open.spotify.com/artist/6tZYiudQKCGp6IUbo9vAer) | [Flawed](https://open.spotify.com/album/6MMPE4FvxMatM3IdkI0E5Q) | 3:39 | 2023-04-03 | 2025-09-26 |
 | [Flexible](https://open.spotify.com/track/3HVfuu2oatWqcmDOrJTf8Q) | [Mario Ginger](https://open.spotify.com/artist/66Eh1Lk4MPnv3k4EfeBhXm) | [Flexible](https://open.spotify.com/album/17BcWcXOXkKxdgyDYEHZ8O) | 2:18 | 2023-10-27 | 2024-06-02 |
 | [Flickering Fireflies](https://open.spotify.com/track/1nu4zLonjawurs9hig5VQl) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Familiar Faces Vol\. 1](https://open.spotify.com/album/19mL5qH4MCuPoALZQKMFQs) | 2:12 | 2022-10-28 | 2023-10-06 |
-| [Flight](https://open.spotify.com/track/0QRnRAGO39PZNTb2CcxuZu) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Flight](https://open.spotify.com/album/7lVNYwi1kJXcdpAabXkvfw) | 1:50 | 2022-11-11 |  |
+| [Flight](https://open.spotify.com/track/0QRnRAGO39PZNTb2CcxuZu) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Flight](https://open.spotify.com/album/7lVNYwi1kJXcdpAabXkvfw) | 1:50 | 2022-11-11 | 2026-08-24 |
 | [Flight](https://open.spotify.com/track/1lBK2beWSiXq8wq9B7Ntob) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Flight](https://open.spotify.com/album/5daojBJP5WG0eZd0iULKVj) | 1:54 | 2023-04-20 | 2025-08-22 |
 | [Floating Between](https://open.spotify.com/track/6nqOGykFeVWsM3Okw3V73C) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Floating Between](https://open.spotify.com/album/1igMIVWhheDDTcSE6y9tjh) | 2:41 | 2021-11-10 | 2022-07-29 |
 | [Flora](https://open.spotify.com/track/6daXhzCYlhXydbuNtWvzeu) | [Mad Seedling](https://open.spotify.com/artist/7BZ7k3A6VWTeuE8i0y5hbu), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Flora](https://open.spotify.com/album/7mMQ4kc7MsnJ72gYyxPEhH) | 2:12 | 2022-09-16 | 2023-10-06 |
@@ -943,6 +943,7 @@
 | [Puzzle Games](https://open.spotify.com/track/1hU8XWa2YZiQQK78ypYZNP) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Puzzle Games](https://open.spotify.com/album/7o7ujWd4hMX1EfVaXSfgNi) | 1:48 | 2023-03-16 | 2025-07-16 |
 | [Quali Spec](https://open.spotify.com/track/1LrS2RIkDI9paZTReBpufA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [Quali Spec](https://open.spotify.com/album/2quruZML6dfErb679MJ6Yl) | 2:46 | 2024-09-13 | 2025-07-16 |
 | [quetzal](https://open.spotify.com/track/1agUl7NQusmxiJtbLm9oRS) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [quetzal](https://open.spotify.com/album/4TzETeuVh0EakHs2gihYhu) | 2:12 | 2024-05-13 | 2024-06-22 |
+| [Quietude](https://open.spotify.com/track/4y3mdViy762R955psB5OhT) | [Rainbows & Clouds](https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg) | [Quietude](https://open.spotify.com/album/2bQqjXPv0U52wf7p1bohPj) | 2:42 | 2026-08-20 |  |
 | [Rain Relaxation](https://open.spotify.com/track/4UNI7NvY0ti3jJikm4f4ld) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rain Relaxation](https://open.spotify.com/album/12rvDONgzBXcUOS62Z1GZZ) | 3:00 | 2021-11-10 | 2025-11-21 |
 | [raindance](https://open.spotify.com/track/720sJmHXRC3ZGzgE6BoO3X) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [raindance](https://open.spotify.com/album/0nMIcz9pkKQtd78NuHbzVz) | 2:16 | 2025-12-17 |  |
 | [rainy day](https://open.spotify.com/track/2WUCGxGlpQdxjSLXyzsSBN) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [rainy day](https://open.spotify.com/album/68Tu5Ec4RPtuoHQ4s1asl1) | 2:17 | 2023-01-06 | 2024-05-14 |

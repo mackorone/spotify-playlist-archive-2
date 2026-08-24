@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 508202,
+  "num_followers": 508376,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAAC0Uhr4Cnc7TZ1jTvtY6XIw",
+  "snapshot_id": "aojmgAAAAADpqzHlNNt0Fhea+6utvhfM",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "One Weak",
-      "url": "https://open.spotify.com/track/4Bj9dhsxbIwrblcmBs9BpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 302413,
       "name": "(L)MIRL",
       "url": "https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 268973,
+      "name": "One Weak",
+      "url": "https://open.spotify.com/track/4Bj9dhsxbIwrblcmBs9BpZ"
     }
   ],
   "unique_name": "This Is Deftones",

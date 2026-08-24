@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ci7Yi79zJe.md) - [plain]
 
 > Over at Studio 54 \- A special transmission from the Broadway cast of The Rocky Horror Show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512 likes - 45 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 516 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

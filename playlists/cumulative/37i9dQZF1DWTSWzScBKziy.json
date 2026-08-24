@@ -7734,7 +7734,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 153189,
       "name": "God Is Good",
       "url": "https://open.spotify.com/track/04nXl44tbFiQJ4s9CzpYb6"
@@ -13105,6 +13105,24 @@
     },
     {
       "album": {
+        "name": "Jesus Girl",
+        "url": "https://open.spotify.com/album/3tlOXJ3edt3rFexxz6I9Fj"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230988,
+      "name": "Jesus Girl",
+      "url": "https://open.spotify.com/track/5oNoj8Zpm2y2BUM8TVxLO0"
+    },
+    {
+      "album": {
         "name": "Jesus Glow",
         "url": "https://open.spotify.com/album/1XSsNegb55qGzykG9Vhly1"
       },
@@ -14250,6 +14268,24 @@
       "duration_ms": 228279,
       "name": "KNOWN",
       "url": "https://open.spotify.com/track/1h58D20BA2O5WIXmpRGGvH"
+    },
+    {
+      "album": {
+        "name": "Known and Loved (Oliver's Song)",
+        "url": "https://open.spotify.com/album/4mqoOg50bFEASN19qpXyU2"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229835,
+      "name": "Known and Loved (Oliver's Song)",
+      "url": "https://open.spotify.com/track/2a4CBfsjgda40IcEJ4yCQG"
     },
     {
       "album": {
@@ -28996,7 +29032,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 201000,
       "name": "Your Spirit",
       "url": "https://open.spotify.com/track/3rB9oUKkKELWw5HD7DvLK2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,385 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,370 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 2 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 3 | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0) | 2:49 |
 | 4 | [the cops are coming](https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [the cops are coming](https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm) | 3:13 |
-| 5 | [Coldest Day of the Year](https://open.spotify.com/track/3bHAy4WNUOCZPVMoGv1oGs) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [Coldest Day of the Year](https://open.spotify.com/album/4uJzguePJ0j5GRf6bHybai) | 3:26 |
+| 5 | [TOPDOWN](https://open.spotify.com/track/3AxFblYdMyxKCRWPvEzQ9A) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [TOPDOWN](https://open.spotify.com/album/2RFKuXZC8WzFAjblWs0t6l) | 3:11 |
 | 6 | [I Only Look to You](https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 3:08 |
 | 7 | [Witch Doctor](https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Witch Doctor](https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm) | 6:26 |
 | 8 | [Cairo FM](https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Zero](https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y) | 3:01 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 14 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
 | 15 | [Slowmotion](https://open.spotify.com/track/6swghzYMFkDNoHuXvGxX7z) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 3:02 |
 | 16 | [1980](https://open.spotify.com/track/0dE9u4HlmCK0CdwVY2SxUM) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM), [AJRadico](https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR) | [1980](https://open.spotify.com/album/4R0ikpuB5IQVkoSPFWxMFJ) | 2:31 |
-| 17 | [Mothers Bells](https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Mothers Bells](https://open.spotify.com/album/5hNLHKD4yVFc6FhVLDVkOd) | 2:32 |
-| 18 | [TOPDOWN](https://open.spotify.com/track/3AxFblYdMyxKCRWPvEzQ9A) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [TOPDOWN](https://open.spotify.com/album/2RFKuXZC8WzFAjblWs0t6l) | 3:11 |
+| 17 | [Coldest Day of the Year](https://open.spotify.com/track/3bHAy4WNUOCZPVMoGv1oGs) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [Coldest Day of the Year](https://open.spotify.com/album/4uJzguePJ0j5GRf6bHybai) | 3:26 |
+| 18 | [Mothers Bells](https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Mothers Bells](https://open.spotify.com/album/5hNLHKD4yVFc6FhVLDVkOd) | 2:32 |
 | 19 | [Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Robotboy](https://open.spotify.com/album/02XtoOnK9btJCcMgVpk11Z) | 2:34 |
 | 20 | [The Dealer](https://open.spotify.com/track/5llJpOgfpEjtVbl4STXtwy) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [The Dealer](https://open.spotify.com/album/18spRMEcgjPsyCgQPYzvgg) | 3:09 |
 | 21 | [Froggy](https://open.spotify.com/track/6WFGOqd36ZxYdkPRrbmouz) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Froggy](https://open.spotify.com/album/52vlHvDqL7bptUKo3QA47t) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 |
 | 100 | [Wake Up and Get Sexy](https://open.spotify.com/track/061lImbIi2dyZift5GqtIo) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [SYNY 3 Act I](https://open.spotify.com/album/7HcelJ0xbHNYZ5QaPTg3p9) | 2:33 |
 
-Snapshot ID: `AAAAAOXpaAFqtGlSudkX+8t8dzTp01iQ`
+Snapshot ID: `AAAAALjzDOQhaMyzU90i45tkZ1GVj1tz`

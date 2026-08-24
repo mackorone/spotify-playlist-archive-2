@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 156386,
       "name": "80 Days",
       "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 182824,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT"
@@ -1322,6 +1322,24 @@
       "duration_ms": 205453,
       "name": "Civilized",
       "url": "https://open.spotify.com/track/3bQvM3YOC0CLeqZuKwHTZP"
+    },
+    {
+      "album": {
+        "name": "Castle Hill",
+        "url": "https://open.spotify.com/album/6QVGukkHZkBkL59DFfLKHX"
+      },
+      "artists": [
+        {
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217840,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/4ob2bdo7iBIZruwdUz1RvK"
     },
     {
       "album": {
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 235609,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/6gxMXHr2GxN7afbdNmsoaj"
@@ -3793,6 +3811,28 @@
     },
     {
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        },
+        {
+          "name": "The Maes",
+          "url": "https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180281,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
+    },
+    {
+      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/7ylFkfr7N9H4e2aRANwDzA"
       },
@@ -5466,7 +5506,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 201810,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/59VWVBr0dMHL5JQTnYVC7m"
@@ -6084,6 +6124,24 @@
       "duration_ms": 152488,
       "name": "Rewarding Melody",
       "url": "https://open.spotify.com/track/7mf2ubTq7o3O9U9ql3CNPv"
+    },
+    {
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/5XY5YnNaFqaDxVsHSmsCBI"
+      },
+      "artists": [
+        {
+          "name": "Leroy Clampitt",
+          "url": "https://open.spotify.com/artist/1RKdNxma7zLA5FAyt5ghJ7"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245984,
+      "name": "Ricky Martin",
+      "url": "https://open.spotify.com/track/11omWd3QdJkiNIgQwZCalR"
     },
     {
       "album": {
@@ -8382,6 +8440,24 @@
       "duration_ms": 163611,
       "name": "wasting your love",
       "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
+    },
+    {
+      "album": {
+        "name": "Water for Gasoline",
+        "url": "https://open.spotify.com/album/0Z5cm2pYiVGlGZOfYDaBZ8"
+      },
+      "artists": [
+        {
+          "name": "Reb Fountain",
+          "url": "https://open.spotify.com/artist/3wayc8vDx8ukvWV17IBZE1"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441360,
+      "name": "Water for Gasoline",
+      "url": "https://open.spotify.com/track/6cJh446tEn4cO9jhvgOkVm"
     },
     {
       "album": {

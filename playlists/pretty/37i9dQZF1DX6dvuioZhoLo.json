@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover:  Kaitlin Butts",
-  "num_followers": 315483,
+  "num_followers": 315474,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,18 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/319oKHutG8MS3EFFUF00Th"
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/75zGvMsabnuDzWZmhY5duZ"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c"
+      "duration_ms": 187976,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/2PD23eZV0pO15j27UCmISk"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -191,18 +191,18 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/75zGvMsabnuDzWZmhY5duZ"
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/319oKHutG8MS3EFFUF00Th"
       },
       "artists": [
         {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 187976,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/2PD23eZV0pO15j27UCmISk"
+      "duration_ms": 263933,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 241646,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Fast As I Can Crawl",
         "url": "https://open.spotify.com/album/7wTXnx3KkxWFcqWhYiseg4"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 201200,
       "name": "Fast As I Can Crawl",
       "url": "https://open.spotify.com/track/3DDoP7OhS85NKjnuEwb4Pq"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 241646,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Linger On",
-        "url": "https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD"
-      },
-      "artists": [
-        {
-          "name": "credits",
-          "url": "https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U"
-        }
-      ],
-      "duration_ms": 189862,
-      "name": "Linger On",
-      "url": "https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Tumbleweeds and Chewing Gum",
         "url": "https://open.spotify.com/album/06POsA4cWPeLqwEZRg1rJl"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 159330,
       "name": "Tumbleweeds and Chewing Gum",
       "url": "https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "Linger On",
+        "url": "https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD"
+      },
+      "artists": [
+        {
+          "name": "credits",
+          "url": "https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U"
+        }
+      ],
+      "duration_ms": 189862,
+      "name": "Linger On",
+      "url": "https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "This Masquerade",
-        "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "This Masquerade",
-      "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Movin\u2019 Shoes",
         "url": "https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 249734,
       "name": "Home With My Dog",
       "url": "https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "This Masquerade",
+        "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "This Masquerade",
+      "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Mr. Jukebox",
-        "url": "https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hedley",
-          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Mr. Jukebox",
-      "url": "https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Livin\u2019 In Shame",
         "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 145253,
       "name": "Livin\u2019 In Shame",
       "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "Mr. Jukebox",
+        "url": "https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Mr. Jukebox",
+      "url": "https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
+        "name": "Listening to the Music",
+        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
+      },
+      "artists": [
+        {
+          "name": "Zephaniah OHora",
+          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
+        }
+      ],
+      "duration_ms": 190035,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
         "name": "It\u2019s Been Too Long",
         "url": "https://open.spotify.com/album/2ILBE0Bx1t9FmUUqctFE9A"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Listening to the Music",
-        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
+        "name": "Fuck With Sad Girls",
+        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
       },
       "artists": [
         {
-          "name": "Zephaniah OHora",
-          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
+          "name": "Bonnie Whitmore",
+          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
         }
       ],
-      "duration_ms": 190035,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
+      "duration_ms": 278546,
+      "name": "Fuck With Sad Girls",
+      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Fuck With Sad Girls",
-        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
+        "name": "Tom Turkey (Alternate Version)",
+        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
       },
       "artists": [
         {
-          "name": "Bonnie Whitmore",
-          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 278546,
-      "name": "Fuck With Sad Girls",
-      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
+      "duration_ms": 234656,
+      "name": "Tom Turkey - Alternate Version",
+      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1211,22 +1227,6 @@
       "duration_ms": 143386,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
-        "name": "Tom Turkey (Alternate Version)",
-        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 234656,
-      "name": "Tom Turkey - Alternate Version",
-      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "California Blues",
-        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 258645,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
+        "name": "California Blues",
+        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 258645,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
         "name": "Lawdy Mama",
         "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Love All Night (Work All Day)",
-        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Cherie Vico",
         "url": "https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 316440,
       "name": "Cherie Vico",
       "url": "https://open.spotify.com/track/44QY6TpNOFnUEm6mrIxOuY"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "Love All Night (Work All Day)",
+        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Cabin By The Sea",
-        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
       "artists": [
         {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
         }
       ],
-      "duration_ms": 202368,
-      "name": "Cabin By The Sea",
-      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
+      "duration_ms": 241000,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+        "name": "Every Single Star",
+        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Dori Freeman",
+          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
+      "duration_ms": 163906,
+      "name": "That's How I Feel",
+      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
     },
     {
       "added_at": "2026-08-14 04:01:13",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-08-14 04:01:13",
       "album": {
-        "name": "Every Single Star",
-        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
-      },
-      "artists": [
-        {
-          "name": "Dori Freeman",
-          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "That's How I Feel",
-      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
-    },
-    {
-      "added_at": "2026-08-14 04:01:13",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 220571,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+    },
+    {
+      "added_at": "2026-08-14 04:01:13",
+      "album": {
+        "name": "Cabin By The Sea",
+        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Cabin By The Sea",
+      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
     },
     {
       "added_at": "2026-08-14 04:01:13",

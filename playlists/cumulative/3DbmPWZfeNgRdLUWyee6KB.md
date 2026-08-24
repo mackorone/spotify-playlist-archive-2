@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,415 songs - 3 day 10 hr 16 min
+1,419 songs - 3 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Get Ready](https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Get Ready](https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e) | 4:23 | 2026-03-02 | 2026-04-12 |
 | [Getaway](https://open.spotify.com/track/3g1Vn9PzhA3vstx5fpN5Jd) | [Kathleen Elle](https://open.spotify.com/artist/4DeO2GdonsOqpAKJSYE0QB) | [Memory Lane](https://open.spotify.com/album/4Cum7RJmlLoV04qNTQYzmb) | 3:52 | 2026-03-21 | 2026-04-22 |
 | [Getting Closer](https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Getting Closer](https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI) | 2:53 | 2026-02-19 | 2026-03-25 |
+| [Ghosts](https://open.spotify.com/track/0w6id2oYcUA7YH7lChTi2h) | [ALRIUS](https://open.spotify.com/artist/18rb66vq8BuliwNj43FYtq), [Oana Matei](https://open.spotify.com/artist/5brhe7vMaAjxcZaARepHEJ) | [Ghosts](https://open.spotify.com/album/1HswWa7nyJLmXW2GVaeJOM) | 3:46 | 2026-08-23 |  |
 | [Giammatteo](https://open.spotify.com/track/7rqiD3ucbslzxgY7MV8z8Q) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Giammatteo](https://open.spotify.com/album/0atOfzRYVlb5JyOUgu6dgd) | 3:35 | 2026-01-05 | 2026-02-03 |
 | [Gitani di camargue](https://open.spotify.com/track/4ebdvjJR1ILzkbmZwrodlJ) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Molòn Labè \(Come and Get Them!\)](https://open.spotify.com/album/7IaWrlaoTDtILz5I2fzDY7) | 3:53 | 2023-04-20 | 2025-11-29 |
 | [Glimpse](https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR) | [Field of View](https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG) | [In My Own Way](https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi) | 2:30 | 2026-04-21 | 2026-06-05 |
@@ -1243,6 +1244,7 @@
 | [Ti aspetterò per anni \- Demo](https://open.spotify.com/track/67FrejNz20wZwatCbcnSwa) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Ti aspetterò per anni \(Demo\)](https://open.spotify.com/album/5FTqGok8ZgiualuvwjjfrF) | 3:21 | 2025-12-29 | 2026-01-24 |
 | [Ticket To The Moon](https://open.spotify.com/track/6j5upLhN41mzpAwK3NWFrv) | [Earth Zep Tepi](https://open.spotify.com/artist/5rrEyXFSwau2wwN0JcrRLh), [420 Sir$mokealot](https://open.spotify.com/artist/4K1wW4mswgXDZUks88Up8O) | [Ticket To The Moon](https://open.spotify.com/album/1VpdLVkm6TIixsUtU68qnp) | 2:57 | 2025-11-14 | 2025-12-21 |
 | [Tiempos malos](https://open.spotify.com/track/58Ew7nIxymuVUtR8hWFQVk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Mal Presagio](https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR) | 2:20 | 2025-12-09 | 2026-01-05 |
+| [Till I Die](https://open.spotify.com/track/5NR5MyDRJjh4SfGe1SIbpe) | [Peter Raadho](https://open.spotify.com/artist/7u8tdfvBBUHAwiqDkmTIUx) | [Till I Die](https://open.spotify.com/album/3kLyxG63lNZ1O6rqKbjr4o) | 4:44 | 2026-08-23 |  |
 | [Time, a Precious Thing](https://open.spotify.com/track/3gO58ZltrU855Iy1LqJm71) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [Wide Open](https://open.spotify.com/album/0pWpys0WNsG2CMAbn83RdF) | 3:50 | 2026-04-13 | 2026-05-14 |
 | [Tita](https://open.spotify.com/track/3szBoeI0YAihQVqTI70Dgz) | [Last Song Bea](https://open.spotify.com/artist/4EMwMsHZTGFZSE4Mxl3dhV) | [Tita](https://open.spotify.com/album/27TYK7VqoPwcGZFhU880y7) | 5:08 | 2026-05-19 | 2026-07-03 |
 | [Together Forever](https://open.spotify.com/track/52iZ8XgcPT09O8zs4KZz48) | [Distortion Peak](https://open.spotify.com/artist/7f6wI2Pt4JIYxcvjwyfCix) | [Together Forever](https://open.spotify.com/album/6rRWrGfD2j9MsJIIYwlRCR) | 2:45 | 2026-08-08 |  |
@@ -1315,6 +1317,7 @@
 | [Vicio Favorito](https://open.spotify.com/track/09PGUcOsWZY0nZLoRCikpo) | [Teira](https://open.spotify.com/artist/7fWf4IrlJOQNK0Fahnw7Bc) | [Vicio Favorito](https://open.spotify.com/album/4pVgIni9YHTfXF3JEejarD) | 3:06 | 2026-03-08 | 2026-04-12 |
 | [Vino El Amor](https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc) | [Evan Rodz](https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw) | [Vino El Amor](https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD) | 3:43 | 2025-11-21 | 2026-01-05 |
 | [Visitantes](https://open.spotify.com/track/6MyaVhVyLkh6GfUUu7cts5) | [Julian Kancepolski](https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE) | [Estantes](https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn) | 3:10 | 2026-02-05 | 2026-03-07 |
+| [Vitanova](https://open.spotify.com/track/0btWnV5EiS7kzDlDbkgsTH) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Vitanova](https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL) | 3:15 | 2026-08-23 |  |
 | [Vivo e rinasco](https://open.spotify.com/track/10dVUOSkQQlpGNOXM8TIkU) | [Sabrina Cor](https://open.spotify.com/artist/30LQQ8lsO1RO4N3GzzDudl) | [Vivo e rinasco](https://open.spotify.com/album/2Jhdimc5VsOJduGqYfeVmB) | 2:57 | 2026-03-20 | 2026-04-22 |
 | [Vochinch \(Ոչինչ\)](https://open.spotify.com/track/2ydFQDTK56qpH24cWrQmaK) | [SHANT](https://open.spotify.com/artist/1UBy0HrtNVoS1FcAnngrx0) | [Vochinch \(Ոչինչ\)](https://open.spotify.com/album/0M3VuTB8B9d7KCVxVK8RVE) | 4:07 | 2026-06-16 | 2026-07-19 |
 | [Voice Inside Your Head](https://open.spotify.com/track/6KOuuIdVpJgLFjlu73P6fQ) | [Harlem Night](https://open.spotify.com/artist/5eEP76MIZe73OshBV05bNd) | [Voice Inside Your Head](https://open.spotify.com/album/77YnVpsKX8NXAa5YlLnwDf) | 2:40 | 2026-07-10 |  |
@@ -1348,6 +1351,7 @@
 | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/track/3Mm300FDJhsQSvVngugH2G) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU) | 3:12 | 2026-02-21 | 2026-03-25 |
 | [What are you doing the rest of your life?](https://open.spotify.com/track/2KHHj0ghB5pkwVGoKbJDZF) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [What are you doing the rest of your life?](https://open.spotify.com/album/5UOBOEhS23KJ9kiVfsCjVr) | 5:37 | 2025-07-18 | 2026-01-05 |
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2025-12-23 | 2026-01-24 |
+| [what you want](https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [what you want](https://open.spotify.com/album/5rncqxKNvPAqA1nZFZ7yCy) | 2:34 | 2026-08-23 |  |
 | [What's My Scam?](https://open.spotify.com/track/6ZudKarH8XOwIFdPHtmYI3) | [Crant Oliver Buekeley](https://open.spotify.com/artist/3ct3WW0E8NUEZawfjPdxBa), [Dax Aloysius Buekeley](https://open.spotify.com/artist/2gEi5uDdXX5Y8CUU9PhgwX) | [Exciting Opportunities](https://open.spotify.com/album/3RVeuykb5sRt59wkzFkwI6) | 3:39 | 2025-12-23 | 2026-01-24 |
 | [What's the Use? \- Instrumental](https://open.spotify.com/track/5r4DMrQ4BpTRdnPe9QGeya) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [What's the Use? \(Instrumental\)](https://open.spotify.com/album/5FffrbI5spPovvRmhyo7UH) | 2:37 | 2026-02-26 | 2026-03-25 |
 | [When It Comes My Way](https://open.spotify.com/track/57hVO6knZIXkHRV1nxYGAP) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [When It Comes My Way](https://open.spotify.com/album/1mvmlh5yZgm1W7IMnAhVV3) | 3:10 | 2026-03-09 | 2026-04-12 |

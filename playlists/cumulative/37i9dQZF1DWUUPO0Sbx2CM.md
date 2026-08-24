@@ -4,7 +4,7 @@
 
 > You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now\. 🪩🕺🏽
 
-631 songs - 1 day 10 hr 27 min
+632 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Coming In Hot \- Wuki Remix](https://open.spotify.com/track/2F9jc4l18skWHn6GsjbN5L) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Coming In Hot \- Wuki Remix](https://open.spotify.com/album/3H748cRUjynjpcaBmmd9qz) | 2:59 | 2021-10-31 | 2023-02-08 |
 | [Conqueror](https://open.spotify.com/track/089vf2r4s5obkgONgWd1FB) | [High Praise](https://open.spotify.com/artist/3cn684M2OtJFV8y5QAhlZU) | [Conqueror](https://open.spotify.com/album/7iIsfmogTfklo25kTEEB6H) | 3:55 | 2021-10-31 | 2022-07-26 |
 | [Conversation](https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI) | [Soulsician](https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt) | [Conversation](https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc) | 3:56 | 2023-02-07 | 2024-07-20 |
-| [Covenant](https://open.spotify.com/track/1ygx5QNNXt5IYhnwy7xuH0) | [BOUE](https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [Covenant](https://open.spotify.com/album/6GiboQ1HJHj05vBdjrcmuk) | 2:42 | 2026-08-18 |  |
+| [Covenant](https://open.spotify.com/track/1ygx5QNNXt5IYhnwy7xuH0) | [BOUE](https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH), [Praise Lubangu](https://open.spotify.com/artist/3EkrjQH6KyUDl0weOryOiq) | [Covenant](https://open.spotify.com/album/6GiboQ1HJHj05vBdjrcmuk) | 2:42 | 2026-08-18 |  |
 | [Covered](https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb) | [Life.Church Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Covered](https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D) | 3:16 | 2023-02-07 | 2026-08-19 |
 | [Crazy](https://open.spotify.com/track/1OedeUMxA0Qm69WXxk150z) | [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Crazy](https://open.spotify.com/album/751nrgafVxx3wIhLzIwM5n) | 3:07 | 2024-07-19 | 2025-09-15 |
 | [CRESCERE \- BLVRS Remix](https://open.spotify.com/track/5Sdci9F4857qfhfEcSLL3o) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP), [BLVRS](https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD) | [CRESCERE \(BLVRS Remix\)](https://open.spotify.com/album/1fZWSo1d5rYsIEcAEpZCmi) | 2:36 | 2026-04-25 | 2026-08-19 |
@@ -179,6 +179,7 @@
 | [Fight My Fight For Me](https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Trampolines](https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2) | [Fight My Fight For Me](https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB) | 2:41 | 2021-10-31 | 2023-02-08 |
 | [Find You](https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Find You](https://open.spotify.com/album/6xCw4dK6PgNA26EEux2Phu) | 2:42 | 2021-10-31 | 2023-02-08 |
 | [Fire + Rain](https://open.spotify.com/track/5pFU5IH9dTIaGGRtL7dNUQ) | [The Agape Music Group](https://open.spotify.com/artist/6q6OWH72l1iFYBZUb6z9E4), [Renee Pullum](https://open.spotify.com/artist/6jX5ekSzDJgziIWpxvumgt) | [Fire + Rain](https://open.spotify.com/album/7HsEsFpLDvnsIwuIpZypm7) | 3:10 | 2021-10-31 | 2022-06-07 |
+| [Fire Fall \- Paris Jones Remix](https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d) | [Seth & Nirva](https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL), [Paris Jones](https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp) | [Fire Fall \(Paris Jones Remix\)](https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh) | 4:10 | 2026-08-18 |  |
 | [Floating \- okay.benny Remix](https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [okay.benny](https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x) | [Floating \(okay.benny Remix\)](https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU) | 2:35 | 2026-08-18 | 2026-08-23 |
 | [FOOTSTOOL](https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [FOOTSTOOL](https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ) | 4:09 | 2025-09-14 | 2026-08-19 |
 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 | 2021-10-31 | 2023-02-08 |
@@ -623,7 +624,7 @@
 | [Yeshua](https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Yeshua](https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA) | 7:36 | 2026-08-18 |  |
 | [You](https://open.spotify.com/track/3jhlcmuz08z1eaZmH20nui) | [Jesus Loves Electro](https://open.spotify.com/artist/6OP8EQDkqXBMT6CY9Rsngp) | [You](https://open.spotify.com/album/7gbt61EFvdtJhOyNtbn6yo) | 2:34 | 2025-09-14 | 2026-03-24 |
 | [You](https://open.spotify.com/track/5Hi0fGAj0HPQtjkMwnlQ1u) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [You](https://open.spotify.com/album/1sq30FcNaSXJ0xMFPx7joK) | 3:00 | 2021-10-31 | 2022-07-27 |
-| [You Ain't](https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [You Ain't](https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX) | 3:21 | 2026-08-18 |  |
+| [You Ain't](https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [You Ain't](https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX) | 3:21 | 2026-08-18 | 2026-08-24 |
 | [You Are](https://open.spotify.com/track/31FbRIjh7s2pf3As8SSM9F) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 4:14 | 2021-10-31 | 2022-07-29 |
 | [You Are Faithful](https://open.spotify.com/track/50eFFgwaLVqP2oKiJ9oeNV) | [Activate Music](https://open.spotify.com/artist/1CvJjbeELK5b5VGyiF9a9p) | [The King Is Here](https://open.spotify.com/album/5Q1aMEy0isDuhbE0v2bFoN) | 4:23 | 2024-07-19 | 2026-08-19 |
 | [YOU ARE GOOD](https://open.spotify.com/track/2K8WQYyYQgCkMn68iK5yiz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [YOU ARE GOOD](https://open.spotify.com/album/4N7YMZlUlS4Mx4UAqKRUEJ) | 2:20 | 2025-09-14 | 2026-03-24 |

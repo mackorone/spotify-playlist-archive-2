@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 761886,
+  "num_followers": 761954,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Cortando Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Sonho de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
         "url": "https://open.spotify.com/album/3FjxQlpQrfjpwIcb410U50"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Cortando Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk"
-      },
-      "artists": [
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Sonho de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Deixa o Barulho, Completo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4OW2pM2MEy4Iw8rdeg4onm"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Ancorado - Ao Vivo",
-      "url": "https://open.spotify.com/track/1fcwyeBBJ9VnZAKcgc7GRf"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 129090,
       "name": "GOSTOSIN",
       "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Deixa o Barulho, Completo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OW2pM2MEy4Iw8rdeg4onm"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Ancorado - Ao Vivo",
+      "url": "https://open.spotify.com/track/1fcwyeBBJ9VnZAKcgc7GRf"
     },
     {
       "added_at": "2026-08-14 13:34:48",

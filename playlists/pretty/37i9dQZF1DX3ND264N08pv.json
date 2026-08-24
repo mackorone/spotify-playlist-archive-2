@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 96348,
+  "num_followers": 96371,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
+        "name": "Round My Mind",
+        "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
+      },
+      "artists": [
+        {
+          "name": "Revealer",
+          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Round My Mind",
+      "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
         "name": "Tequila In My Eyes",
         "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 183747,
       "name": "Tequila In My Eyes",
       "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
-        "name": "Round My Mind",
-        "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
-      },
-      "artists": [
-        {
-          "name": "Revealer",
-          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Round My Mind",
-      "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Hit The Speakers",
-        "url": "https://open.spotify.com/album/5tzzkX9Tc6OJxQtUJCBxJN"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 205416,
-      "name": "Hit The Speakers",
-      "url": "https://open.spotify.com/track/0RbJaaZtC648PbCBgeb9Uh"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
         "name": "Hardcore Bass",
         "url": "https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 168855,
       "name": "Hardcore Bass",
       "url": "https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
+        "name": "Hit The Speakers",
+        "url": "https://open.spotify.com/album/5tzzkX9Tc6OJxQtUJCBxJN"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 205416,
+      "name": "Hit The Speakers",
+      "url": "https://open.spotify.com/track/0RbJaaZtC648PbCBgeb9Uh"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -879,22 +879,18 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Remember The Name",
-        "url": "https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv"
+        "name": "Major Bounce",
+        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
       },
       "artists": [
         {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        },
-        {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
         }
       ],
-      "duration_ms": 129332,
-      "name": "Remember The Name",
-      "url": "https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh"
+      "duration_ms": 155024,
+      "name": "Major Bounce",
+      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Major Bounce",
-        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
+        "name": "Remember The Name",
+        "url": "https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv"
       },
       "artists": [
         {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
         }
       ],
-      "duration_ms": 155024,
-      "name": "Major Bounce",
-      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
+      "duration_ms": 129332,
+      "name": "Remember The Name",
+      "url": "https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh"
     },
     {
       "added_at": "2026-08-17 11:28:00",

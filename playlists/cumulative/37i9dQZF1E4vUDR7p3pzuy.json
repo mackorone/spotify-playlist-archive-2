@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 228000,
       "name": "BLACK SUMMER",
       "url": "https://open.spotify.com/track/3cv9qR7Y4ORPBtjxZ6RTVV"
@@ -2740,7 +2740,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 171428,
       "name": "Change",
       "url": "https://open.spotify.com/track/4pvqJlnqVunyIf9OqIlG4M"
@@ -3286,6 +3286,24 @@
       "duration_ms": 306000,
       "name": "Cloak of Stars",
       "url": "https://open.spotify.com/track/4MdykEfpvTUGgAQbNv0RMO"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5ajM3ucewzdEXViLoejMSO"
+      },
+      "artists": [
+        {
+          "name": "I Ya Toyah",
+          "url": "https://open.spotify.com/artist/5pig0rzYT7aqLkAryQjF45"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250020,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3TNsZk954Y1ngBBk1fwitt"
     },
     {
       "album": {
@@ -7560,7 +7578,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 331520,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/3Wx488LVmvoapvwSa8JCZ1"
@@ -8365,6 +8383,24 @@
     },
     {
       "album": {
+        "name": "I Hope It\u2019s Ok",
+        "url": "https://open.spotify.com/album/7IlGUWj2lB64OTJIfTDZYY"
+      },
+      "artists": [
+        {
+          "name": "N8NOFACE",
+          "url": "https://open.spotify.com/artist/0HlRzJcjY69mM3nW2Xvrzi"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156917,
+      "name": "I Hope It\u2019s Ok",
+      "url": "https://open.spotify.com/track/2LsdXuxC067W8ym4OhtijK"
+    },
+    {
+      "album": {
         "name": "I Kinda Love You",
         "url": "https://open.spotify.com/album/3jqrpNT6ak5mVsuACkEFzS"
       },
@@ -8722,7 +8758,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -9876,7 +9912,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 246761,
       "name": "Kiss (Me)",
       "url": "https://open.spotify.com/track/3OKtkqTikliFqEHjs9hMF1"
@@ -10064,7 +10100,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -11428,7 +11464,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 197811,
       "name": "MINOTAUR",
       "url": "https://open.spotify.com/track/47My6EV8qNkxAqYDe1HsxQ"
@@ -11814,7 +11850,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 183524,
       "name": "My Eyes",
       "url": "https://open.spotify.com/track/6zockqopBFey2GojwAb3Kt"
@@ -15056,7 +15092,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 286315,
       "name": "Shoreless",
       "url": "https://open.spotify.com/track/2XS2cOcl0oKcYz8SBZEtWA"
@@ -19516,7 +19552,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -20000,7 +20036,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-24",
       "duration_ms": 205641,
       "name": "We're At War",
       "url": "https://open.spotify.com/track/5dTeFjoEh1c9tULMPa1aWz"
@@ -20174,6 +20210,24 @@
       "duration_ms": 240250,
       "name": "What's Beyond the Light?",
       "url": "https://open.spotify.com/track/7lfysetxVne5yK7TT893Nr"
+    },
+    {
+      "album": {
+        "name": "Ordinary Humanz",
+        "url": "https://open.spotify.com/album/6RRV0mlB5knv3oJbgEEILo"
+      },
+      "artists": [
+        {
+          "name": "Rabyd Rabbyt",
+          "url": "https://open.spotify.com/artist/0Ddsmc5NjKVYfBb9IXU38p"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196507,
+      "name": "Whateverforevermore",
+      "url": "https://open.spotify.com/track/7yW9dqf9n5fpP2SD27EfTm"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 842041,
+  "num_followers": 842109,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAADhBwqfpPvyAkSjr+JB1nmx",
+  "snapshot_id": "aojmgAAAAAB1AyzQ2NRjsUoucDW0ZgBB",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 315751,
-      "name": "The Dark Forest",
-      "url": "https://open.spotify.com/track/1JIffDQIhTeOeqYW66uu9e"
+      "duration_ms": 247144,
+      "name": "Nightshift Superstar",
+      "url": "https://open.spotify.com/track/51ukPU68k4Zl0cLdNGXaHn"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 247144,
-      "name": "Nightshift Superstar",
-      "url": "https://open.spotify.com/track/51ukPU68k4Zl0cLdNGXaHn"
+      "duration_ms": 315751,
+      "name": "The Dark Forest",
+      "url": "https://open.spotify.com/track/1JIffDQIhTeOeqYW66uu9e"
     },
     {
       "added_at": null,

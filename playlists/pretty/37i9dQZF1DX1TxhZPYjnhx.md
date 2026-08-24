@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Rex Orange County, Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,512 likes - 113 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,514 likes - 113 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: cehryl \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,850 likes - 105 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,848 likes - 105 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

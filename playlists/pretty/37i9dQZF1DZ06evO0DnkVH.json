@@ -1,12 +1,12 @@
 {
   "description": "This is Kate Bush. The essential tracks, all in one playlist.",
-  "num_followers": 208867,
+  "num_followers": 208871,
   "original_name": "This Is Kate Bush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAADr3fzo9xeGpjl7dtXcKKs/",
+  "snapshot_id": "aojmgAAAAABRqCjRnDYLMlzRdxImZDX1",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 358560,
-      "name": "Sunset - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2996WS18xvEgYAyaMPpglz"
+      "duration_ms": 240773,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/1hbB7wFZ28n5vOfMEEY2Jw"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp"
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 240773,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/1hbB7wFZ28n5vOfMEEY2Jw"
+      "duration_ms": 358560,
+      "name": "Sunset - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2996WS18xvEgYAyaMPpglz"
     },
     {
       "added_at": null,

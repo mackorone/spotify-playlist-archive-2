@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,281 likes - 116 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,290 likes - 116 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 30 | [Garden](https://open.spotify.com/track/26fP6qORAEPTbeKxLKGORh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Garden](https://open.spotify.com/album/4li2lNlTmWPKTLKz0droR8) | 2:10 |
 | 31 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 |
 | 32 | [awesome GOD](https://open.spotify.com/track/6KURRNHo7fWe14mFw7n5pU) | [Grove Kifasi](https://open.spotify.com/artist/1oCupC0FNIQBe2dUse7zlY), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [awesome GOD](https://open.spotify.com/album/4zsDPbAT73LnYyuTmjn9Jj) | 3:10 |
-| 33 | [Can't Complain](https://open.spotify.com/track/1chiJJA7erNtjXXmBf5niT) | [BUKTheArtist](https://open.spotify.com/artist/2TlfA8Gn3mvNpwd6K0s9yu), [TeeFamous](https://open.spotify.com/artist/5t6vdzlbZf28kIKuz7ts9e), [Damola Davis](https://open.spotify.com/artist/14nWb44eQATdBHGsxOTQ2m) | [Can't Complain](https://open.spotify.com/album/1il0wxGn1i1PpsZwu0BnF5) | 4:18 |
+| 33 | [Can't Complain](https://open.spotify.com/track/1chiJJA7erNtjXXmBf5niT) | [BUKTheArtist](https://open.spotify.com/artist/2TlfA8Gn3mvNpwd6K0s9yu), [Damola Davis](https://open.spotify.com/artist/14nWb44eQATdBHGsxOTQ2m), [TeeFamous](https://open.spotify.com/artist/5t6vdzlbZf28kIKuz7ts9e) | [Can't Complain](https://open.spotify.com/album/1il0wxGn1i1PpsZwu0BnF5) | 4:18 |
 | 34 | [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 |
 | 35 | [Unending Joy](https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Unending Joy](https://open.spotify.com/album/1JlSlgPAX5ES1G05LZJESr) | 9:45 |
 | 36 | [Forgive Them](https://open.spotify.com/track/7AKGAXjgLwJqjlDiRgPRzm) | [Essence Natay](https://open.spotify.com/artist/6CBOrBHVUHNz4sMFic0Tux), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Forgive Them](https://open.spotify.com/album/52NdNfeH0aHfuijcc1IEi4) | 2:26 |

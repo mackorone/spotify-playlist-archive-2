@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Joshua Bell
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,356 likes - 98 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,350 likes - 98 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

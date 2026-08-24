@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya que deje de llover para salir más a bailar con La Adictiva y toda la música chida de la semana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,809 likes - 69 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,795 likes - 69 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

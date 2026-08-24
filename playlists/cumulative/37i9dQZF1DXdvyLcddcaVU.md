@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,185 songs - 2 day 13 hr 22 min
+1,186 songs - 2 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Balade](https://open.spotify.com/track/3PAkE2potAfVGgTocmrF89) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Balade](https://open.spotify.com/album/3nw79WxspBWa9V7r3KiFBT) | 3:13 | 2025-04-18 | 2025-10-18 |
 | [Balade](https://open.spotify.com/track/0CO0WLMOiNwCuPonyekwAg) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Tsuki](https://open.spotify.com/album/5ougie7bdBOvz2fCwdH9bH) | 4:58 | 2026-04-30 | 2026-05-30 |
 | [Balafre](https://open.spotify.com/track/6tVuTJ8gSuIphMh50QfhL9) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Balafre](https://open.spotify.com/album/4PnoDtGAjjPzih66PwUg7R) | 2:09 | 2025-01-10 | 2025-02-15 |
-| [Balek](https://open.spotify.com/track/6FyIByL10DzsD0xMKsa4hL) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 2:57 | 2026-04-10 |  |
+| [Balek](https://open.spotify.com/track/6FyIByL10DzsD0xMKsa4hL) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 2:57 | 2026-04-10 | 2026-08-24 |
 | [Ballon D'or](https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 3:26 | 2025-11-21 | 2026-06-13 |
 | [Bambina](https://open.spotify.com/track/6npyDB4mn8MO1A1h666FTk) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Dans la légende](https://open.spotify.com/album/5GFHFEASZeJF0gyWuDDjGE) | 4:46 | 2026-01-09 | 2026-05-14 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-05-31 | 2024-09-14 |
@@ -1147,6 +1147,7 @@
 | [Vrais](https://open.spotify.com/track/6WfnzeciIa1Ta661GY9hue) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:03 | 2025-01-24 | 2025-08-15 |
 | [Vérité](https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:19 | 2025-12-19 | 2026-04-11 |
 | [Wa zebi](https://open.spotify.com/track/2fisgK2Gvu3Fn2yShuZqaO) | [Cappuccino](https://open.spotify.com/artist/0iOZ6jaUQL07vALKUPworY) | [Wa zebi](https://open.spotify.com/album/1PUqIOcYy8b8JXh2nN0071) | 2:22 | 2024-05-24 | 2024-09-14 |
+| [Wagyu](https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Wagyu](https://open.spotify.com/album/6xi9IqY00Ip9MXX8IJO616) | 1:57 | 2026-08-23 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-08 | 2024-02-03 |
 | [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 | 2024-05-17 | 2024-09-28 |
 | [We Are The People](https://open.spotify.com/track/2lN9y0KWC0hvKuQY3KYSxh) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/6PpwY4y4jGTeojmWRGduUk) | 4:27 | 2025-04-04 | 2025-04-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: bombe
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,802 likes - 64 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,807 likes - 64 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

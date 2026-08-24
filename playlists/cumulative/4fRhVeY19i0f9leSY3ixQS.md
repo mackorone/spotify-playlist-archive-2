@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,131 songs - 4 day 23 hr 16 min
+2,134 songs - 4 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Behind](https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Behind](https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA) | 2:48 | 2026-08-04 |  |
 | [Behind The Eleven](https://open.spotify.com/track/1uEgFdzgTM6szgHtsto5N1) | [Eren Ayintap](https://open.spotify.com/artist/0K18HE2KC6yov0rrfwjF1D) | [The Codes In The Stones](https://open.spotify.com/album/2fLJyG7Tm4sETaSLdkZFkL) | 5:14 | 2026-01-12 | 2026-02-03 |
 | [Behind The Mask](https://open.spotify.com/track/2cVdtrGa8BC3EtXSGIfgIv) | [Door Marked Summer](https://open.spotify.com/artist/3ryXL59wPHXYFRrwujR6hh) | [Psychic Surfing](https://open.spotify.com/album/0CgCUmORGOjJddPC1LMu1F) | 2:38 | 2026-01-08 |  |
-| [Believe Me](https://open.spotify.com/track/0xGYlj1AOhpdnzQWdXmD6f) | [Joe's Groove Huddle](https://open.spotify.com/artist/2MYCJagSHSX3eG9YDinwBV) | [Believe Me](https://open.spotify.com/album/7sASxkx3miyLkwcQAEgaxE) | 3:34 | 2026-07-24 |  |
+| [Believe Me](https://open.spotify.com/track/0xGYlj1AOhpdnzQWdXmD6f) | [Joe's Groove Huddle](https://open.spotify.com/artist/2MYCJagSHSX3eG9YDinwBV) | [Believe Me](https://open.spotify.com/album/7sASxkx3miyLkwcQAEgaxE) | 3:34 | 2026-07-24 | 2026-08-24 |
 | [Bellissimo](https://open.spotify.com/track/5xrZSCxudVpzlF9XXDQ6Md) | [Crawl Town](https://open.spotify.com/artist/4qjmL9io1J7QYLvDhhTPDd) | [Bellissimo](https://open.spotify.com/album/13zIjaUWbrWZ0MNlJ9h1AQ) | 2:40 | 2026-03-28 | 2026-04-17 |
 | [BEND THE TRUTH](https://open.spotify.com/track/0Rb0ktvRa2LmCsQK2AGpFh) | [Crimson Arcanum](https://open.spotify.com/artist/64C6mWlxyAnVHiYmQ1iDNe) | [BEND THE TRUTH](https://open.spotify.com/album/0qY4mBrrJuL565VsvPbFze) | 3:25 | 2026-01-01 | 2026-01-22 |
 | [Berezin](https://open.spotify.com/track/10SrNbg6O4aIFaim1YkjpP) | [Crush](https://open.spotify.com/artist/5yvFvBNNtlQLLiV6QZOreL) | [EL DIABLO](https://open.spotify.com/album/446hwj8FbwM0R6XECjBbed) | 2:48 | 2026-05-31 |  |
@@ -1046,6 +1046,7 @@
 | [lights out](https://open.spotify.com/track/4DU9eAbGOvn1M9BSMCituu) | [Aviary](https://open.spotify.com/artist/7aYB2PKHHRAukKrxR6MWd3) | [lights out](https://open.spotify.com/album/5tBiqmhsZEGYVUkpNnpYA9) | 4:09 | 2026-06-26 | 2026-07-18 |
 | [Lights Out](https://open.spotify.com/track/2NOPgU9JiEvPqyxCMmbJUa) | [Wasted Youth Club](https://open.spotify.com/artist/6fPbsRQTwFE5HTMNwZqyhw) | [Lights Out](https://open.spotify.com/album/26bXxVttmXZVMRlHbePNJ0) | 2:50 | 2026-02-26 | 2026-03-30 |
 | [Lightspeed](https://open.spotify.com/track/0Yu2piUOhLiwCQo8EFWvU3) | [Lyra Ash](https://open.spotify.com/artist/1ifx4vYdESbELp6kikeprp) | [Lightspeed](https://open.spotify.com/album/2I4w8HcHeeejYMgmwfaPNg) | 3:15 | 2026-07-12 | 2026-08-01 |
+| [Like a Burning Page](https://open.spotify.com/track/3aJ0RtdpOB5oKkXu6KoJbs) | [Vogs](https://open.spotify.com/artist/3TKmeKBGthNHcE96z2ClT1) | [Like a Burning Page](https://open.spotify.com/album/32b7S93Da3SP6aVIKbAZ8r) | 2:58 | 2026-08-23 |  |
 | [Like A Phoenix](https://open.spotify.com/track/2fxhKNbUWjZHijIaufQ3O9) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD) | [Aeons](https://open.spotify.com/album/13ClQsOANOW8waXYZPQ72W) | 3:37 | 2025-11-07 | 2025-12-10 |
 | [Like a tiger](https://open.spotify.com/track/7pdZC2GKkI9hIQ96TFAGir) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Like a tiger](https://open.spotify.com/album/1zoWFV2Pcy8VqXSDBXYROg) | 4:14 | 2026-04-10 | 2026-05-08 |
 | [LILITH](https://open.spotify.com/track/7p0orJbI7LkEHuiCP93OvA) | [Neuroklast](https://open.spotify.com/artist/5xfQSijbVetvH1QAS58n30) | [LILITH](https://open.spotify.com/album/5T1ufkH1h0Q1T60P380f35) | 2:50 | 2026-02-19 | 2026-03-23 |
@@ -1426,6 +1427,7 @@
 | [Quokkas serving chicken dinner](https://open.spotify.com/track/5OIJ2fCKKpoccgDyxwSiWt) | [W.C.U.](https://open.spotify.com/artist/0fYons6jBj4Vn9AE61Hgkv) | [Wir stehen hier](https://open.spotify.com/album/3hRWcsqotdRpZuLYqkLDuf) | 2:24 | 2025-12-31 | 2026-01-22 |
 | [Radio Silence](https://open.spotify.com/track/2pYRR2kmClRQfY13gJf7v8) | [The Savage Hearts](https://open.spotify.com/artist/0P9ejp1MT9rNQaufi5Rvq0) | [Radio Silence](https://open.spotify.com/album/0M3o34t4JsGiCei4LtzKlk) | 3:22 | 2026-01-06 | 2026-01-29 |
 | [RAGNAROK](https://open.spotify.com/track/3ganiNjhw9fWaBdVpfXDt4) | [Bjergborn](https://open.spotify.com/artist/0KS0l5gMsKpxcG8x1L5Ddn) | [GOÐAVERK](https://open.spotify.com/album/6CRNHhAB2zyIBoNMJ2QjZq) | 4:57 | 2026-02-02 | 2026-02-27 |
+| [Rain Of Regret \- Emo Rap](https://open.spotify.com/track/46Nkn0ATiaBJ9XfwFEKukE) | [Prasad\_Fdoz](https://open.spotify.com/artist/2EVCv5L3S5Zlc7zKcBqGgY) | [Rain Of Regret \(Emo Rap\)](https://open.spotify.com/album/5FhIz0p7YXgSv9co6X6Hmf) | 2:44 | 2026-08-23 |  |
 | [Ramonero](https://open.spotify.com/track/4bJg7Dj1Gv7Hd3sSL2IH9R) | [Miguelitos](https://open.spotify.com/artist/0fDfcP4CbwLJixjlJaxVCr) | [En las Calles](https://open.spotify.com/album/1fuUMBZtdNexMPKqp05T0J) | 2:11 | 2025-12-23 | 2026-01-15 |
 | [Rampage](https://open.spotify.com/track/2yfitTwuoucAqR1HAhUpix) | [L.A\. Sagne](https://open.spotify.com/artist/6vapR4KOszK2FbsUe3txCO) | [Rampage](https://open.spotify.com/album/7dHC9UY3v58pd9QQt0RXYK) | 2:15 | 2026-02-05 | 2026-03-09 |
 | [ratrace](https://open.spotify.com/track/2F3BGTkuAnPmtm1DPk3AAl) | [everything ending!](https://open.spotify.com/artist/52avG1ZL5tD2hg7nFY35Kw) | [animal](https://open.spotify.com/album/6k6BrRl4pdpNKk94SRUUbA) | 2:46 | 2026-05-10 | 2026-05-30 |
@@ -1818,6 +1820,7 @@
 | [The Gutter](https://open.spotify.com/track/4XMFBPsFBxSgVuXo9oTvqT) | [Misery Channel](https://open.spotify.com/artist/0km1fYeCjrTJF5VOJShTsc) | [The Gutter](https://open.spotify.com/album/6EmcFf2Gqkpby9vZ71Bb1D) | 3:03 | 2026-02-27 | 2026-03-31 |
 | [The Hidden Cove](https://open.spotify.com/track/3Xe8hb9NETJ5Iw4fjj9N9x) | [Frog Fortress](https://open.spotify.com/artist/1hCyCHuTSzpTuOURKNzYCb) | [The Hidden Cove](https://open.spotify.com/album/1Opb9UFDvzaENrKmFqPfcm) | 3:40 | 2026-06-10 | 2026-07-12 |
 | [The Hunger](https://open.spotify.com/track/7f7mRP26GQ6cxVeLcOsQE7) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [The Hunger](https://open.spotify.com/album/5uq35jfSKO9nuz0BBl8WGZ) | 4:45 | 2026-04-07 | 2026-05-08 |
+| [The Illusion of Freedom](https://open.spotify.com/track/7cSYywcw6ZupLdPqzQlx1n) | [Tramp Sail](https://open.spotify.com/artist/11QpwimYAQJPzcke9vtxgy) | [Under Dark Light](https://open.spotify.com/album/7wJCH2ObNKMxFHLTqKGwxO) | 5:34 | 2026-08-23 |  |
 | [The Knife](https://open.spotify.com/track/1cbB3p9Z3Dhch9PDtReYyu) | [Barren Sea](https://open.spotify.com/artist/52YaDNTA2VWMofP95FkTSi) | [The War on Cars](https://open.spotify.com/album/1tkfcVGm3ZxwKRq51SWTcV) | 4:14 | 2026-02-12 | 2026-03-16 |
 | [The Last Frequency](https://open.spotify.com/track/1vPf1NmZiKXBUMWhfc9fCL) | [FACEVOLT](https://open.spotify.com/artist/6pIqGqpnJZlIGDzwTsv9WH) | [LONG WAY](https://open.spotify.com/album/7uzLn5WRyAa5Ac5qhJgEKC) | 4:26 | 2026-05-29 | 2026-07-04 |
 | [The Last Goodbye](https://open.spotify.com/track/7wr218NpemhLpMCWKOSMEr) | [Joakim Doverskär](https://open.spotify.com/artist/5KVzy4gC3sa63hV6wZdhW0) | [The Last Goodbye](https://open.spotify.com/album/3X14Da2e7GPK0VMaT6ZUzJ) | 3:53 | 2026-07-21 | 2026-08-13 |

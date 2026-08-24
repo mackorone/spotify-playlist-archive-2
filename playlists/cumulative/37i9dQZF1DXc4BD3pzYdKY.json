@@ -4971,6 +4971,24 @@
     },
     {
       "album": {
+        "name": "Checking In",
+        "url": "https://open.spotify.com/album/0dp2ECJa0bhJQ884rPHlgv"
+      },
+      "artists": [
+        {
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137232,
+      "name": "Checking In",
+      "url": "https://open.spotify.com/track/50MW24b6EAvpY1f8sdp8lt"
+    },
+    {
+      "album": {
         "name": "Tale of a Free Man",
         "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
       },
@@ -30326,24 +30344,6 @@
       "duration_ms": 164893,
       "name": "\u00c1ndale",
       "url": "https://open.spotify.com/track/5W4w67FKSCD7igqy3ShGCx"
-    },
-    {
-      "album": {
-        "name": "\u201cChecking In\u201d",
-        "url": "https://open.spotify.com/album/0dp2ECJa0bhJQ884rPHlgv"
-      },
-      "artists": [
-        {
-          "name": "Aha Gazelle",
-          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
-        }
-      ],
-      "date_added": "2026-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137232,
-      "name": "\u201cChecking In\u201d",
-      "url": "https://open.spotify.com/track/50MW24b6EAvpY1f8sdp8lt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc4BD3pzYdKY"

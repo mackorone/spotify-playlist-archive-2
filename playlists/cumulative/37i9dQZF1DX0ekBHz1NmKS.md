@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,335 songs - 5 day 1 hr 6 min
+2,336 songs - 5 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Can't Let Him Win](https://open.spotify.com/track/5S0DFXk6kIDc7sGk5pFdCW) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Can't Let Him Win](https://open.spotify.com/album/1MTC1u6CHauWISb9Hxz2do) | 3:05 | 2026-01-01 | 2026-04-10 |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-12-16 | 2022-03-09 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-28 | 2023-10-06 |
+| [Candy Shoppin´](https://open.spotify.com/track/6HQt5rlV5IPbqxID3S0e9y) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Candy Shoppin´](https://open.spotify.com/album/1P6kKW6fnhs0ElXsiUF6Ca) | 2:14 | 2026-08-20 |  |
 | [Can’t Stay Away](https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Can’t Stay Away](https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5) | 2:59 | 2022-11-04 | 2023-04-14 |
 | [Can’t Stop Loving You \(feat\. Theron Thomas\) \- Audio Video](https://open.spotify.com/track/5sHFbT3YHNi2QSn8L9nhdO) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Theron Thomas](https://open.spotify.com/artist/6ymA00Kh0SfzlSbYJjsY07) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 4:27 | 2021-12-16 | 2022-01-10 |
 | [CAPPUCCINO](https://open.spotify.com/track/3ug48HneByt6Ci1Vb4VQu9) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [CAPPUCCINO](https://open.spotify.com/album/0PsFUPiLYkZmelIdf0XocV) | 3:01 | 2021-12-16 | 2022-01-07 |
@@ -1648,7 +1649,7 @@
 | [River In Reverse](https://open.spotify.com/track/6lQoYDLeDtIbvBAuslKy4d) | [Winhill/Losehill](https://open.spotify.com/artist/7fXcDsj4r6w3mVHauFRNqu) | [The Grief](https://open.spotify.com/album/6SzQzNJsxlpH9k3oHHSIy5) | 3:58 | 2022-06-30 | 2022-07-13 |
 | [Rock and Roll, Summer](https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [See what heaven looks like now](https://open.spotify.com/album/46MlUsV2c7Jxi8tQItfT57) | 3:10 | 2025-03-13 | 2025-03-28 |
 | [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 | 2024-09-19 | 2024-11-05 |
-| [Rockenrollen](https://open.spotify.com/track/3AjnXyw1G38KLVOIEiESww) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Rockenrollen](https://open.spotify.com/album/1N0sJpiWaZfEqaBDg72WR0) | 3:06 | 2026-02-26 |  |
+| [Rockenrollen](https://open.spotify.com/track/3AjnXyw1G38KLVOIEiESww) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Rockenrollen](https://open.spotify.com/album/1N0sJpiWaZfEqaBDg72WR0) | 3:06 | 2026-02-26 | 2026-08-24 |
 | [Rodeo](https://open.spotify.com/track/4raslbaoG46LuL6wsB35qA) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Grindarna Till Ithaka](https://open.spotify.com/album/3mho6giNN5KjgBDsbyJanY) | 3:35 | 2026-05-28 | 2026-08-05 |
 | [Rokokoro](https://open.spotify.com/track/1TMzd1u5I4uGcdsJFA6zXL) | [Axel Ruby](https://open.spotify.com/artist/2QjRFoEwl1oOQgKhyWr47Z), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Rokokoro](https://open.spotify.com/album/4f4pLi6Za8M12ytpzLkoex) | 4:15 | 2026-03-12 | 2026-04-10 |
 | [Rollercoaster](https://open.spotify.com/track/1XrEvLfgYuTcHELpsK3mEq) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Rollercoaster](https://open.spotify.com/album/3tqha1gDXyKevGWizc2sn3) | 3:05 | 2021-12-16 | 2022-05-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,372 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,371 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 22 | [Sunbleach](https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Sunbleach](https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89) | 3:04 |
 | 23 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
 | 24 | [Sentimental Things](https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Sentimental Things](https://open.spotify.com/album/0yJu6n3gg2LXJcL1KsaaU9) | 2:15 |
-| 25 | [Did That](https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:23 |
-| 26 | [Easy](https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Easy](https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa) | 2:38 |
-| 27 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 |
+| 25 | [Easy](https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Easy](https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa) | 2:38 |
+| 26 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 |
+| 27 | [Did That](https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:23 |
 | 28 | [LiveFromTheBoonies.](https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [LiveFromTheBoonies.](https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6) | 1:45 |
 | 29 | [Sun Up](https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Sun Up / Hilly Fields](https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc) | 2:36 |
-| 30 | [Bad Timing](https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Bad Timing](https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA) | 4:16 |
-| 31 | [Billo](https://open.spotify.com/track/2PrWSD6ZQcygasN8Bk7384) | [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Billo](https://open.spotify.com/album/3E93c87HK1qNpthSVaJ2UV) | 2:31 |
+| 30 | [Billo](https://open.spotify.com/track/2PrWSD6ZQcygasN8Bk7384) | [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Billo](https://open.spotify.com/album/3E93c87HK1qNpthSVaJ2UV) | 2:31 |
+| 31 | [Bad Timing](https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Bad Timing](https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA) | 4:16 |
 | 32 | [RaGDOLL](https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [RaGDOLL](https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA) | 3:24 |
 | 33 | [Here & Now](https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Some Kind Of Life](https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3) | 3:16 |
 | 34 | [World Tour Freestyle](https://open.spotify.com/track/4GiJmFhOuGbfPl6gdKErwe) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [World Tour Freestyle](https://open.spotify.com/album/1T6zovINsDE46fupkeHo7a) | 2:11 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aoeVAAAAAABhgqFEI1N9RuEWoKaSmsqr",
+  "snapshot_id": "aojmgAAAAACX5NKL75+Q8Xnmv5vyzlLG",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye Bye Baby",
-        "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
+        "name": "Evil Angel",
+        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
+      "duration_ms": 143000,
+      "name": "Evil Angel",
+      "url": "https://open.spotify.com/track/6JOhnaA96rAc1BHgvDRp4Q"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Angel",
-        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
+        "name": "Bye Bye Baby",
+        "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Evil Angel",
-      "url": "https://open.spotify.com/track/6JOhnaA96rAc1BHgvDRp4Q"
+      "duration_ms": 179666,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
     },
     {
       "added_at": null,

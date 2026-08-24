@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,183 songs - 3 day 23 hr 42 min
+1,184 songs - 3 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Canto del Pilón \- Meines Remix](https://open.spotify.com/track/4eGGJGQY0UUx7lrPG2Y3Ww) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Meines](https://open.spotify.com/artist/58J4dcCu15dtqMbtQu94K3) | [Milk & Sugar Summer Sessions 2021](https://open.spotify.com/album/4ASxdmE6WZosAoxv2FkjVs) | 3:49 | 2021-07-02 | 2022-04-21 |
 | [Caramel](https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Caramel](https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC) | 7:28 | 2022-07-28 | 2022-09-26 |
 | [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 | 2023-03-10 | 2024-03-27 |
-| [Casablanca](https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Casablanca](https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA) | 4:45 | 2026-07-10 |  |
+| [Casablanca](https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Casablanca](https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA) | 4:45 | 2026-07-10 | 2026-08-24 |
 | [Cascada](https://open.spotify.com/track/5M5Lwtcha7fE8UQwSzIhjS) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Cascada](https://open.spotify.com/album/3pp75bcu0VJzigYnGfqcZd) | 4:38 | 2022-07-01 | 2022-07-22 |
 | [Cash Only](https://open.spotify.com/track/0sRtWWtsxrztPvnXWD1SM7) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Cash Only](https://open.spotify.com/album/5GdozmjqIYpkSqymsLKc6t) | 2:26 | 2024-12-06 | 2025-01-25 |
 | [Cash Only \- Andrea Oliva Remix](https://open.spotify.com/track/4wm7PC1t648ATT1pd8Zltr) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Cash Only \(Andrea Oliva Remix\)](https://open.spotify.com/album/3WpCmdQkMWxn0dJmfPtCfe) | 2:59 | 2025-01-24 | 2025-04-08 |
@@ -1179,6 +1179,7 @@
 | [You Are](https://open.spotify.com/track/7ivcxtK1L1Y1j50x9yUWIR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [You Are](https://open.spotify.com/album/3Mlmg99htNwRiVf6yDAspJ) | 3:59 | 2025-06-13 | 2025-12-13 |
 | [You Belong To No\-One \- Tripolism Remix](https://open.spotify.com/track/4CyCAxTyrTDtzzrBZdjveC) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Kiss & Forget Remixes](https://open.spotify.com/album/6EEn6shLUPyB81mp89ZTwQ) | 6:33 | 2024-12-13 | 2025-02-09 |
 | [You Know](https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj) | [Benji \(UK\)](https://open.spotify.com/artist/2rktaPoxmpCqSnjH8sG9Dq), [Julio Ade](https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd) | [You Know](https://open.spotify.com/album/787Fe2sF7ApgAtMfu7O30C) | 3:37 | 2024-11-08 | 2025-02-15 |
+| [you love me](https://open.spotify.com/track/1tD762Wdgt43yznHd2I4ST) | [millforlife](https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [you love me](https://open.spotify.com/album/0SnOkgG5O4elTdlvY68K0O) | 2:10 | 2026-08-21 |  |
 | [You're Light](https://open.spotify.com/track/2EjX7Bo4oDXcB4F1hXRV4w) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [You're Light](https://open.spotify.com/album/2qxVBdSbQ66nnsZTpduPjr) | 5:57 | 2025-04-04 | 2025-04-26 |
 | [You're Not Alone](https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [You're Not Alone](https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m) | 3:34 | 2024-03-01 | 2024-08-28 |
 | [You're Not Alone](https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Simone Santagati](https://open.spotify.com/artist/4kucxpxFKtEXH98xR8GCPH), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [You're Not Alone](https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do) | 4:56 | 2026-05-22 |  |

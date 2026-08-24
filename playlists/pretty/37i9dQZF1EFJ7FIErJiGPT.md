@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 74 | [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 |
 | 75 | [Dead Alive](https://open.spotify.com/track/0yjRyCmu3Oj8oU5fZ9cIwT) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Dead Alive](https://open.spotify.com/album/559sIaWsRUmd3uaGVhumjv) | 2:25 |
 | 76 | [Heart Of Glass](https://open.spotify.com/track/1zSH9tOGrtnEifKQDS8f26) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/7FhItM1ikJEMstS8qtnuzf) | 3:15 |
-| 77 | [The Tension](https://open.spotify.com/track/3TV87ai0hYuDa3W5Y5VWTB) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Umbrella Club \- EP](https://open.spotify.com/album/3GXmtYOUCWsp8nXwdYDrix) | 4:32 |
-| 78 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/0xqULsi14wPaXT2p301s4B) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:27 |
+| 77 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/0xqULsi14wPaXT2p301s4B) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:27 |
+| 78 | [The Tension](https://open.spotify.com/track/3TV87ai0hYuDa3W5Y5VWTB) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Umbrella Club \- EP](https://open.spotify.com/album/3GXmtYOUCWsp8nXwdYDrix) | 4:32 |
 | 79 | [Bloody Mind](https://open.spotify.com/track/3Kf2OAACRIMHgertEDBXjp) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Bloody Mind](https://open.spotify.com/album/7fgokPamspJrlCilQsYfdD) | 4:19 |
 | 80 | [Purple Haze](https://open.spotify.com/track/0YRJfcmlQ0zaYmZ5tPMmZR) | [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu) | [Purple E.P.](https://open.spotify.com/album/0ILgg10qHRLTFTjQEkKyIs) | 3:00 |
 | 81 | [Never Alone \- Radio Edit](https://open.spotify.com/track/4rM36Y3iFxwW4j1GBXoVSv) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Never Alone](https://open.spotify.com/album/0X6afcc8D5WXG0Imxg1Tqz) | 3:15 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 107 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 108 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcaSZAAAAAAASUpMxBqRFq78+3tQeoFn`
+Snapshot ID: `AcaYBAAAAACzgqgE+A/UH/JKYmByQpOj`

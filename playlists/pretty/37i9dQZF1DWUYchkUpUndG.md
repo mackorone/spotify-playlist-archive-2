@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Victor Thompson and Snatcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,858 likes - 100 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,895 likes - 100 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 56 | [Rai Na \(My Soul\)](https://open.spotify.com/track/2gg2TN9ro2gHtudpNcyKcN) | [Willo Philips](https://open.spotify.com/artist/5quNbw3bDC2ioek93yUOaf), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Rai Na \(My Soul\)](https://open.spotify.com/album/6ACbPvgjhD2U0FZnHK97sd) | 3:05 |
 | 57 | [Holy Ground](https://open.spotify.com/track/16D0VC3gOPKteAWVAZlKIR) | [Abraham H.](https://open.spotify.com/artist/3M7phinI0gb39Yj760iIQV) | [Holy Ground](https://open.spotify.com/album/6dE8iJzALtiv79pVE0MNyW) | 2:39 |
 | 58 | [Give Am Praise \(GAP\)](https://open.spotify.com/track/5YmFfaFp9n8ptuI5zGj1Wg) | [Greala Wake](https://open.spotify.com/artist/5y5CKKzsdUzWNRmvOrP9Zr), [Mic Dash](https://open.spotify.com/artist/4e6tvZ67ISf3yEpUYtvWyg), [Lyrical Jo](https://open.spotify.com/artist/5kIfkbqOK8JliMJjOYTk7K), [Nuelzakx](https://open.spotify.com/artist/2G8Jf0c655eBib9tVisDcd) | [Give Am Praise \(GAP\)](https://open.spotify.com/album/2t94cpEO7LAz53YHXooLZK) | 2:44 |
-| 59 | [Can't Complain](https://open.spotify.com/track/1chiJJA7erNtjXXmBf5niT) | [BUKTheArtist](https://open.spotify.com/artist/2TlfA8Gn3mvNpwd6K0s9yu), [TeeFamous](https://open.spotify.com/artist/5t6vdzlbZf28kIKuz7ts9e), [Damola Davis](https://open.spotify.com/artist/14nWb44eQATdBHGsxOTQ2m) | [Can't Complain](https://open.spotify.com/album/1il0wxGn1i1PpsZwu0BnF5) | 4:18 |
+| 59 | [Can't Complain](https://open.spotify.com/track/1chiJJA7erNtjXXmBf5niT) | [BUKTheArtist](https://open.spotify.com/artist/2TlfA8Gn3mvNpwd6K0s9yu), [Damola Davis](https://open.spotify.com/artist/14nWb44eQATdBHGsxOTQ2m), [TeeFamous](https://open.spotify.com/artist/5t6vdzlbZf28kIKuz7ts9e) | [Can't Complain](https://open.spotify.com/album/1il0wxGn1i1PpsZwu0BnF5) | 4:18 |
 | 60 | [Acoustic Worship Medley \(Recorded Live at ‘The Epiphany’, V1\)](https://open.spotify.com/track/1vFoYxBAvdUHykCWCiI9Mc) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW) | [Acoustic Worship Medley \(Recorded Live at ‘The Epiphany’, V1\)](https://open.spotify.com/album/4wzpW58kU9MLOUMxxWYKv2) | 7:55 |
 | 61 | [All of my heart](https://open.spotify.com/track/4M1F8h7IGJc80pB1rhuJ3z) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT), [Emmanuel Songsore](https://open.spotify.com/artist/3BMM9j0sNACwGYlL9TvbBP) | [All of my heart](https://open.spotify.com/album/7wcnNe90XEikzKSTfvO5Bg) | 2:10 |
 | 62 | [Holy](https://open.spotify.com/track/0v1uO428VRb2PkpLiRIeHq) | [Chidi David Ani](https://open.spotify.com/artist/6JJdAFq4ih4UJmU3O5Qvyk) | [Holy](https://open.spotify.com/album/4W8AgN3WdH6mfNHLsYZIl2) | 10:00 |

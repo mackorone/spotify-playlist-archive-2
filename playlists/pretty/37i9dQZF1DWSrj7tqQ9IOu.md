@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,542 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,538 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 29 | [Bad Guys](https://open.spotify.com/track/1nU4xSpaKjOaGzzcx7XddG) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 3:17 |
 | 30 | [Faut pas m’faire chier](https://open.spotify.com/track/51bDuV05lEHRxBIFixVTBN) | [STI](https://open.spotify.com/artist/4XWx64t3h7r28YLQ89xpXI), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Faut pas m’faire chier](https://open.spotify.com/album/00XKhwHIvJ3TJKyGE2Qmqc) | 3:24 |
 | 31 | [Link](https://open.spotify.com/track/6cTRRyMEZtsQS3kmpOSo6Y) | [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6), [Acchi Mello](https://open.spotify.com/artist/3xQRIjbbG10vnQzMP59lPg) | [Aniki, mon frère](https://open.spotify.com/album/1Q0tJdD1VkUAPF8MSyv3sw) | 2:39 |
-| 32 | [White Lies](https://open.spotify.com/track/43B2IaiA1jE8oPIVbUfJYU) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [White Lies](https://open.spotify.com/album/1aAjXZ9y33UvjrDBVXaVXX) | 3:25 |
-| 33 | [BUKSHOT](https://open.spotify.com/track/2abRIuX33VwSkWsM8sLnIW) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [BADDIES <3 MOLIY](https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l) | 2:56 |
+| 32 | [BUKSHOT](https://open.spotify.com/track/2abRIuX33VwSkWsM8sLnIW) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [BADDIES <3 MOLIY](https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l) | 2:56 |
+| 33 | [White Lies](https://open.spotify.com/track/43B2IaiA1jE8oPIVbUfJYU) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [White Lies](https://open.spotify.com/album/1aAjXZ9y33UvjrDBVXaVXX) | 3:25 |
 | 34 | [PROMISE](https://open.spotify.com/track/2cvBh4B2DloHVFwMnqYypW) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 3:43 |
 | 35 | [MON TEMPS](https://open.spotify.com/track/3tCfK10BHJw1iO5lNc4bnV) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [MON TEMPS](https://open.spotify.com/album/6Y0SWxk0IP0qkBMkn5cvcY) | 2:47 |
 | 36 | [Vibe](https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS) | 2:07 |

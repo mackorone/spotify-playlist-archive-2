@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-381 songs - 23 hr 29 min
+383 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Be That Way](https://open.spotify.com/track/0QV8Rgw3puKgvODemZPVhX) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [The Change \- EP](https://open.spotify.com/album/5xosQhKjMOteD54hwmMpqk) | 3:55 | 2026-03-21 | 2026-06-20 |
 | [Beautiful Frankenstein](https://open.spotify.com/track/7r0iKylcYP9i5MWfprfM9G) | [Foreign Mornings](https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm) | [Beginnings and Endings](https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci) | 3:30 | 2025-11-16 | 2026-07-22 |
 | [Beautiful Sadness](https://open.spotify.com/track/67VCEFOb8GVbP8OpZDkIGt) | [DJ Buuh](https://open.spotify.com/artist/5VN7BWjaSRSTeFtpuAktoR) | [Valentine](https://open.spotify.com/album/61akGCbupf9oI6aOaIWZQW) | 3:58 | 2026-08-19 | 2026-08-22 |
+| [Beckoning Back](https://open.spotify.com/track/5uh2aY66UaegLGcwIyLVT7) | [merrowfolk](https://open.spotify.com/artist/5HjMNe74pWawzyga0Atud2) | [Beckoning Back](https://open.spotify.com/album/2fYKySVGQezklU2wUY7ZWT) | 4:12 | 2026-08-23 |  |
 | [Before The Rain](https://open.spotify.com/track/3CpoowmropZND11bEzJbcU) | [The Painting](https://open.spotify.com/artist/5TjGNZOpfGRJciIQfHLAs7) | [Before The Rain](https://open.spotify.com/album/4hpjcDj5zk0gPqOKxPqiwg) | 7:04 | 2026-02-01 | 2026-02-09 |
 | [Believe](https://open.spotify.com/track/6SHgxSFPPPPyqjVyc4s824) | [Ant Thomaz](https://open.spotify.com/artist/2feSaRrLlSdjoDPVyibesT) | [Believe](https://open.spotify.com/album/74K3Zzm007fjN2rfeiyl76) | 3:30 | 2025-11-16 | 2025-11-24 |
 | [Better Believe It](https://open.spotify.com/track/1lqjPIXelaXfIrdBp7STJ2) | [Deltamanic](https://open.spotify.com/artist/38Z9P9syEIsPB70vvJ1otB) | [Better Believe It](https://open.spotify.com/album/0LPbVatZzqqPtCCCqiDz7p) | 3:51 | 2025-11-16 | 2026-02-02 |
@@ -208,6 +209,7 @@
 | [Least Of All You](https://open.spotify.com/track/6XZGlzVQLGOs7UgJP3Bmv7) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:29 | 2025-11-23 | 2025-12-01 |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2026-06-09 | 2026-06-20 |
 | [Lemonade Tycoon](https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD) | [Taupe](https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU) | [waxing \| waning](https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm) | 5:18 | 2026-03-15 | 2026-03-22 |
+| [Let Me Be Yours](https://open.spotify.com/track/5FcH9C2O5uXC48tBaGoEXA) | [merrowfolk](https://open.spotify.com/artist/5HjMNe74pWawzyga0Atud2) | [Let Me Be Yours](https://open.spotify.com/album/1VICKjpv8DBEMXTQ8Ojtuo) | 4:02 | 2026-08-23 |  |
 | [Lies](https://open.spotify.com/track/2MoFtyPPhZv7CpTxfdNjJq) | [K\-LYN](https://open.spotify.com/artist/2Qp9KchzSzTUCF29ENQwz1) | [Lies](https://open.spotify.com/album/03iscBHsYdPmsOHVuo03J7) | 2:51 | 2026-04-10 | 2026-05-04 |
 | [Lightning In a Bottle](https://open.spotify.com/track/1DIXOhpniezyXDTjHZrdlT) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Lightning In a Bottle](https://open.spotify.com/album/3EL0fXppNfiSwSUIom0euS) | 4:12 | 2026-06-09 | 2026-06-20 |
 | [Limelight](https://open.spotify.com/track/26REr7Uuna2BoKbtfWDrHL) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [Limelight](https://open.spotify.com/album/5mppIA74m49Xnw2q38UBjE) | 4:08 | 2025-11-16 | 2025-11-24 |

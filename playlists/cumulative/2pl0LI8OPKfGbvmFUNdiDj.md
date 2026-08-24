@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-563 songs - 1 day 7 hr 54 min
+564 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2026-02-14 | 2026-07-02 |
 | [Nazar Me Ho Tum](https://open.spotify.com/track/1B0q03LH9E1W7AogVcRCj4) | [RONIE](https://open.spotify.com/artist/2cDCmLQDfXJBReBT87zo22) | [Safar](https://open.spotify.com/album/5VqEGWFrykkos7KuLPBkmT) | 2:35 | 2026-01-06 | 2026-02-21 |
 | [Nebular \- Radio Edit](https://open.spotify.com/track/315OXgioK5tVKmhQkcWPQL) | [Aniderev](https://open.spotify.com/artist/46FaRfT6nNVUzxhZrCBJ9z) | [Nebular \(Radio Edit\)](https://open.spotify.com/album/3U7EGF3H1xi7wKx4RTOiGD) | 3:00 | 2025-11-17 | 2026-01-05 |
+| [Need and Desire](https://open.spotify.com/track/0PP0HKi1EVTQ5OupfncE7A) | [Ebb 'n Flow](https://open.spotify.com/artist/10whZfAsmPiGyP9x4K4VMu) | [Need and Desire](https://open.spotify.com/album/3XXqrdUMW5OjilzoqgTxid) | 3:04 | 2026-08-23 |  |
 | [Need To Know](https://open.spotify.com/track/0BOkxcQkVnyudtX8g5RSVi) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Time Trials](https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx) | 2:56 | 2025-11-03 | 2025-12-01 |
 | [NEON](https://open.spotify.com/track/19KW2WQqr28EodAzjVDDAB) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [INTIMATE](https://open.spotify.com/album/23h0kTWdfyEbYPlM3iKa7l) | 3:26 | 2026-01-13 | 2026-02-21 |
 | [Never Be The Same](https://open.spotify.com/track/61SyXYa2Qy6Jw321zNc8vl) | [Baby Booder](https://open.spotify.com/artist/34hbnab20NIQKBxBF3HyFY) | [FINKO I](https://open.spotify.com/album/3QOeK4p2AvLk07jAgqXXBu) | 2:28 | 2026-01-29 | 2026-03-03 |
