@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Eric Bellinger",
-  "num_followers": 787743,
+  "num_followers": 787709,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMGUnbfVcG7NFM3HJO7E5srfl4ON",
+  "snapshot_id": "AAAAANDX8X4wGtcqbmWFh6IJ5rPsQkpq",
   "tracks": [
     {
       "added_at": "2026-08-21 05:54:20",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     },
     {
-      "added_at": "2026-01-09 07:03:52",
-      "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 246036,
-      "name": "Good Things Will Come After the Pressure",
-      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
-    },
-    {
       "added_at": "2024-09-13 09:22:53",
       "album": {
         "name": "The Love Is Gone",
@@ -1675,6 +1659,22 @@
       "duration_ms": 199732,
       "name": "The Love Is Gone",
       "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
+      "added_at": "2026-01-09 07:03:52",
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 246036,
+      "name": "Good Things Will Come After the Pressure",
+      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
       "added_at": "2025-04-18 05:17:41",
@@ -2069,6 +2069,26 @@
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Good Morning (feat. Susan Carol)",
+        "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Susan Carol",
+          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
+        }
+      ],
+      "duration_ms": 162038,
+      "name": "Good Morning (feat. Susan Carol)",
+      "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
+    },
+    {
       "added_at": "2026-07-24 06:09:33",
       "album": {
         "name": "EGO RUINS EVERYTHING",
@@ -2097,28 +2117,8 @@
         }
       ],
       "duration_ms": 172933,
-      "name": "Tangled (Stripped)",
+      "name": "Tangled - Stripped",
       "url": "https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Good Morning (feat. Susan Carol)",
-        "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Susan Carol",
-          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
-        }
-      ],
-      "duration_ms": 162038,
-      "name": "Good Morning (feat. Susan Carol)",
-      "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
     },
     {
       "added_at": "2024-10-18 16:11:48",
@@ -2329,22 +2329,6 @@
       "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
     },
     {
-      "added_at": "2026-07-24 06:09:33",
-      "album": {
-        "name": "Save Her 4 Me",
-        "url": "https://open.spotify.com/album/2AX5AoMK78qczFJHy2oE2F"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Save Her 4 Me",
-      "url": "https://open.spotify.com/track/6bj2u9VRe7kq8Q7eINfUOz"
-    },
-    {
       "added_at": "2023-09-16 14:17:34",
       "album": {
         "name": "Waiting For You (feat. Naomi Sharon)",
@@ -2363,6 +2347,22 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "added_at": "2026-07-24 06:09:33",
+      "album": {
+        "name": "Save Her 4 Me",
+        "url": "https://open.spotify.com/album/2AX5AoMK78qczFJHy2oE2F"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Save Her 4 Me",
+      "url": "https://open.spotify.com/track/6bj2u9VRe7kq8Q7eINfUOz"
     },
     {
       "added_at": "2024-09-13 09:22:53",
@@ -2577,20 +2577,24 @@
       "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
     },
     {
-      "added_at": "2026-04-18 17:35:25",
+      "added_at": "2026-01-09 20:11:29",
       "album": {
-        "name": "TALK YOU THROUGH IT",
-        "url": "https://open.spotify.com/album/1asusosFcXFlJh4fhlBUg9"
+        "name": "Come Get My Love",
+        "url": "https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK"
       },
       "artists": [
         {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN"
+        },
+        {
+          "name": "ZaeFyeHunnit",
+          "url": "https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1"
         }
       ],
-      "duration_ms": 213367,
-      "name": "TALK YOU THROUGH IT",
-      "url": "https://open.spotify.com/track/3mzxUmddRU18xFwnLs02hw"
+      "duration_ms": 218998,
+      "name": "Come Get My Love",
+      "url": "https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH"
     }
   ],
   "unique_name": "Soul Coffee",

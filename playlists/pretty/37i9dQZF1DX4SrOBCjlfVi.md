@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Denzel Curry & Kenny Beats,  Mac Miller, slayr and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,743 likes - 60 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,789 likes - 60 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 59 | [Me In The Room](https://open.spotify.com/track/0wMUDfW2pTAZ2zFv4QioDR) | [Ronshach](https://open.spotify.com/artist/0EINQs1jKxovMVKKEmg3q4) | [Me In The Room](https://open.spotify.com/album/6iQAYtDI2Ms6E4kG75mZN2) | 1:59 |
 | 60 | [Hot Summer](https://open.spotify.com/track/7zHrmgAZGbfPyGjfI4qMzn) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b) | [Hot Summer](https://open.spotify.com/album/4ENjAZIVoS8yTGJ9vdbuBj) | 2:50 |
 
-Snapshot ID: `AAAAAB5u5+X8RMIOxy/sjQLiovwyPyJr`
+Snapshot ID: `AAAAALhigEarVlccLnPsgP4y8Oj0ZZVa`

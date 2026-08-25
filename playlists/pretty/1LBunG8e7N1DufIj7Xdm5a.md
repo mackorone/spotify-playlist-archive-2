@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,743 songs - 10 day 15 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 282 likes - 4,749 songs - 10 day 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4751,5 +4751,11 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4741 | [At the Edge of Goodbye](https://open.spotify.com/track/2Bl4FGbvFIUEaitSyDg2zI) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [At the Edge of Goodbye](https://open.spotify.com/album/1O0SrcMefu8W6w7bsOvJUq) | 3:26 |
 | 4742 | [Letter for a Friend](https://open.spotify.com/track/1k3Wi7FoBl96bhPFhJI2dk) | [Mikey Mills](https://open.spotify.com/artist/3Zpw9cotE2q7uM8Lswsb3U) | [Three Cuts](https://open.spotify.com/album/1uXNnjRTMXmv2KoCGK49HU) | 5:48 |
 | 4743 | [Purgatory](https://open.spotify.com/track/5JG6EWc3QRbkLslINLFZcl) | [WolFang](https://open.spotify.com/artist/4TRv1uo8LqhJiEBbKElMQA) | [Purgatory](https://open.spotify.com/album/7DV9VxlVyJowieEFVVDxT6) | 8:01 |
+| 4744 | [Butcher Me \(Remaster 2026\)](https://open.spotify.com/track/0llkXlfDULFv9HtAiIBKEE) | [EASY MEAT](https://open.spotify.com/artist/0Q0B1XtGYLcaDMbWOKqOKx) | [Butcher Me \(Remaster 2026\)](https://open.spotify.com/album/3K915fr6cYhuyRRwvkIKKt) | 6:36 |
+| 4745 | [Otra Copa](https://open.spotify.com/track/3BsxDSTlhqIKkF78gjZ8px) | [Troti](https://open.spotify.com/artist/0UH4E3NrB6IzGxp4OCGbIK), [Yatel](https://open.spotify.com/artist/1RnJ8PIWc6mCIPZRIUO61J), [Twiyster](https://open.spotify.com/artist/1cRZSqaGDQBd4Sv9dpNr3p) | [Otra Copa](https://open.spotify.com/album/1gA15RsvorPEg6m7Whc4Tf) | 2:43 |
+| 4746 | [Eterno Amore](https://open.spotify.com/track/1IRH15U82rOWdJcZTY7xKV) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:19 |
+| 4747 | [Antarctica 2 South Georgia](https://open.spotify.com/track/5u5UMCU1vEDPbEHssiDabE) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 2:56 |
+| 4748 | [Hypocrites](https://open.spotify.com/track/090nOZR3d8AQbCP7kuLQ65) | [Alexi AI](https://open.spotify.com/artist/5XhP1fhZHcpeskzupMb9DZ) | [Hypocrites](https://open.spotify.com/album/27gw8l9i5pmhf6ikjUnnMn) | 5:18 |
+| 4749 | [Figlio del tempo](https://open.spotify.com/track/0cUzOeykFW2SwLp4mJEbSa) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:49 |
 
-Snapshot ID: `AAAJxfweQgHaPoCl0DMiFbB9i1C6Lx+o`
+Snapshot ID: `AAAJzABcfTzzFYM/LoOOBMqoyrdHB5rG`

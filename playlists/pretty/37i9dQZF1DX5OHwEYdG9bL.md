@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,801 likes - 215 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,804 likes - 215 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 31 | [CRAZY \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/4KhF3kOe5u8eS27G8DEJI9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/7rckq7pX7XmzgPNgSOaXMP) | 2:52 |
 | 32 | [4 Flowers](https://open.spotify.com/track/1qqOBKgUU5E9d3vQHV3lP0) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [4 Flowers](https://open.spotify.com/album/6juelTCCFH2EyDobhyS1Xo) | 3:22 |
 | 33 | [ACAI](https://open.spotify.com/track/2XQCOrGdBuQ1iYTyP8UgeX) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [ACAI](https://open.spotify.com/album/5U1N7lWqz3ZeHpn52IE1Ys) | 3:07 |
-| 34 | [ACAI \(Conceptual Performance Film\)](https://open.spotify.com/track/7hiIV5dJXegq1tkaVsdUCY) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [ACAI \(Conceptual Performance Film\)](https://open.spotify.com/album/1pNAWrkwa5KobO6WCHENQs) | 3:01 |
+| 34 | [ACAI \- Conceptual Performance Film](https://open.spotify.com/track/7hiIV5dJXegq1tkaVsdUCY) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [ACAI \(Conceptual Performance Film\)](https://open.spotify.com/album/1pNAWrkwa5KobO6WCHENQs) | 3:01 |
 | 35 | [Sonder \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/11rPa1ex0jv6jQQdnopJYd) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Sonder \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/0Ch54rVSoEPdCE8qKuxH8W) | 2:51 |
 | 36 | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/3WotTZr6P3Y7faSFC82nPO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/1l9nBUyvVRmv03XYfv6NYA) | 3:11 |
 | 37 | [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/4RpHkKbIFAc96Q2ep2eg6y) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/3SheoOcRqSqoeJdvfhZPHo) | 3:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 45 | [CELEBRATION](https://open.spotify.com/track/5fnj5MWx4amtaNjd1JM3sr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/6o2JgJq6t8b056VpQyUjDz) | 3:08 |
 | 46 | [Hooligan](https://open.spotify.com/track/7lMEAMyUDYJpaz836g1xqD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Hooligan](https://open.spotify.com/album/32mqFjNgLRT0UCXzHSkXQR) | 3:57 |
 | 47 | [Hooligan](https://open.spotify.com/track/4TZc4KyZrSOcKCdrTKVYdS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Hooligan](https://open.spotify.com/album/7Gdn1kwr0LZ39avRoflJd8) | 3:57 |
-| 48 | [TNT \(Conceptual Performance Film\)](https://open.spotify.com/track/6IlTq3fsXD37YdX95Cca9a) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [TNT \(Conceptual Performance Film\)](https://open.spotify.com/album/09XVwkKFGFWxWDFClHoDXD) | 2:04 |
-| 49 | [REDRED \(Conceptual Performance Film\)](https://open.spotify.com/track/3Sm48IuOVGZQC6uHCrMMcU) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED \(Conceptual Performance Film\)](https://open.spotify.com/album/7JCDz05dMWeVTZV4J7USnk) | 2:44 |
+| 48 | [TNT \- Conceptual Performance Film](https://open.spotify.com/track/6IlTq3fsXD37YdX95Cca9a) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [TNT \(Conceptual Performance Film\)](https://open.spotify.com/album/09XVwkKFGFWxWDFClHoDXD) | 2:04 |
+| 49 | [REDRED \- Conceptual Performance Film](https://open.spotify.com/track/3Sm48IuOVGZQC6uHCrMMcU) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED \(Conceptual Performance Film\)](https://open.spotify.com/album/7JCDz05dMWeVTZV4J7USnk) | 2:44 |
 | 50 | [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/track/2zoci1Endv9cwcyYF00mYr) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/album/22YsfExa6uLecnP0NPNOK0) | 2:17 |
 | 51 | [REDRED](https://open.spotify.com/track/50Zyos50vXSPAx4OrzRneI) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/1bM2llz1kxKJRmYxWuEbbS) | 3:24 |
 | 52 | [Summer’s Not Over](https://open.spotify.com/track/54oadQzakuAsGYSMQfQpYH) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [Summer’s Not Over](https://open.spotify.com/album/2r8odKOHeU9yD6nzKNkf7h) | 3:11 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 59 | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD) | 2:42 |
 | 60 | [Ice Cream](https://open.spotify.com/track/5wxUDqvvV1S2mmQ9X04QWB) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/3CjxTjmJ0IefgzQzmVc7aG) | 3:08 |
 | 61 | [Ice Cream](https://open.spotify.com/track/5De6B7Rh8ablBQMDQBB1fy) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/65Qzv9eW5oSY6ZtXsTdJsR) | 3:08 |
-| 62 | [SWIM \(Performance Video\)](https://open.spotify.com/track/4wlEUhiWXY4ujj9bobwmMa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/4y9MdW6bpJLTVeRSWwOSTs) | 2:46 |
-| 63 | [SWIM \(Performance Video\)](https://open.spotify.com/track/6tMMQtrhJijTnPvmeLBNAn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/1764P8O4fqiKa7bXztICT2) | 2:46 |
+| 62 | [SWIM](https://open.spotify.com/track/4wlEUhiWXY4ujj9bobwmMa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/4y9MdW6bpJLTVeRSWwOSTs) | 2:46 |
+| 63 | [SWIM](https://open.spotify.com/track/6tMMQtrhJijTnPvmeLBNAn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/1764P8O4fqiKa7bXztICT2) | 2:46 |
 | 64 | [MUSEUM](https://open.spotify.com/track/3I8Dqw8JZI89crzCtWalJD) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/1717Ib5wr97Iz47nHBJTnM) | 3:17 |
 | 65 | [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/3Wc0oNZ8yumJEHWGJQT8tK) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/15Gkr52k58zVQQSDsEVwOC) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/6JmOILJh75p0OGirFOCRpa) | 3:12 |
 | 66 | [X room](https://open.spotify.com/track/1QrvItFJXHpGnZBLV4x2Qa) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [X room](https://open.spotify.com/album/70kNjkfecMiiFCKfkvE2sp) | 4:00 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 214 | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/track/7rDFxohNf6gwCe80dplCWt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/album/7bfjfcnBeCXsHXJcPr8q4o) | 3:27 |
 | 215 | [BTG](https://open.spotify.com/track/65R0GRTYAygptqXHwQMDQG) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [BTG](https://open.spotify.com/album/27P5shDmd4RpYH7UgWJYSk) | 3:14 |
 
-Snapshot ID: `AAAAAARhZCK0uGfn7hHd8lo3Me9y0Q+q`
+Snapshot ID: `AAAAAJwj/Vu9wYwaO8s6eo2eMgCi6U3k`

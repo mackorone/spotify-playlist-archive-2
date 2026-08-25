@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqwIaXJO7rE.md) - [plain]
 
 > The songs and videos we'd put on if we were feeling loose in someone's living room together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062 likes - 46 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,066 likes - 46 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqwIaXJO7rE.md) - [plain]
 | 45 | [Nothing Really Matters](https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 4:27 |
 | 46 | [So What](https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [So What](https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC) | 4:31 |
 
-Snapshot ID: `AAAAAFHng3ptzWbmszTKqXZ2+sgQRJ6C`
+Snapshot ID: `AAAAAPJQ0D82udKCesmkWGcORYEOzWx3`

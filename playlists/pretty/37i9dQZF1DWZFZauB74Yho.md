@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: Bronwyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,829 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,834 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 99 | [Here Rattler](https://open.spotify.com/track/15SLW0p76aVCqCeN1ZtMTg) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Here Rattler](https://open.spotify.com/album/1qzQ6LslZmLiBWOAtnlwJE) | 2:48 |
 | 100 | [Magic Accident](https://open.spotify.com/track/5vypHtcvQNHK2TNFaednYJ) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Magic Accident](https://open.spotify.com/album/5LwlAnEWE4l7TSydKpuEDh) | 3:51 |
 
-Snapshot ID: `AAAAAAl8G2VSuPQiorxl2ElVDTRs9iVL`
+Snapshot ID: `AAAAALq21K/j5R+oGPyBIDta4ivWW50i`

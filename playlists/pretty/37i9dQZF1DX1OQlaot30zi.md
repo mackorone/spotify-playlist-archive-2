@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Nabi,  Villabanks, lildombaby, CARO WOW, Jasmin407 e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,997 likes - 103 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,988 likes - 103 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 102 | [CONTO FINO A 4](https://open.spotify.com/track/7oVBdUwzeMmsTxUYjND1GX) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb) | [CONTO FINO A 4](https://open.spotify.com/album/1ZdECgnvHUbgJcHVdnTTcp) | 2:30 |
 | 103 | [LAGUCCI](https://open.spotify.com/track/51SbsQBfnba04dco4z8QPR) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [LAGUCCI](https://open.spotify.com/album/0D5Bo8WAD32YcHkEl6zMeL) | 3:01 |
 
-Snapshot ID: `AAAAAALlYYkeM6I39ZMC216EA3Lxk9IJ`
+Snapshot ID: `AAAAAHmvw7jVCiIftRVqJxFUieQ9UPq1`

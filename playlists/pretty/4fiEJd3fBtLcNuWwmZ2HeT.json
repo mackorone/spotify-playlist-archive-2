@@ -6,7 +6,7 @@
     "name": "raincandy",
     "url": "https://open.spotify.com/user/megaalexpro3000"
   },
-  "snapshot_id": "AAAKYzVXyUHqxZeO9gYfNHGd1LVtAHbv",
+  "snapshot_id": "AAAKaamD81lzjROo9Rx/mDFfv0MW7PT0",
   "tracks": [
     {
       "added_at": "2021-08-04 04:53:44",
@@ -8787,6 +8787,110 @@
       "duration_ms": 183488,
       "name": "\u30e1\u30ed\u30e1\u30ed\u30a4\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4yug2vxP12JjgRDOURtvNY"
+    },
+    {
+      "added_at": "2026-08-24 03:34:47",
+      "album": {
+        "name": "Alluring Secret ~Black Vow~",
+        "url": "https://open.spotify.com/album/5ZmUmdPJMbTKfoN87rjaNE"
+      },
+      "artists": [
+        {
+          "name": "axopholes",
+          "url": "https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 256894,
+      "name": "Alluring Secret ~Black Vow~",
+      "url": "https://open.spotify.com/track/71e2lIBhyqO1HOVsZlNcM4"
+    },
+    {
+      "added_at": "2026-08-24 05:44:32",
+      "album": {
+        "name": "NAMIDA",
+        "url": "https://open.spotify.com/album/4MevvGbMQOBhWletiSPIXv"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "duration_ms": 244188,
+      "name": "NAMIDA",
+      "url": "https://open.spotify.com/track/4rW2Jk3MZ2uE74mYEQ3Pb3"
+    },
+    {
+      "added_at": "2026-08-24 05:45:54",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/33kmAV4JnR0ZcKbWD9XQS2"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "duration_ms": 223793,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/2F10BWg1Wmu2hsxBqutXZn"
+    },
+    {
+      "added_at": "2026-08-24 05:46:01",
+      "album": {
+        "name": "Koukatsu",
+        "url": "https://open.spotify.com/album/4XvVtXEKOW0NQr9nyeXnoe"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "duration_ms": 226310,
+      "name": "Koukatsu",
+      "url": "https://open.spotify.com/track/4BeBddCKKwrTvqqyK5XZr5"
+    },
+    {
+      "added_at": "2026-08-24 05:46:03",
+      "album": {
+        "name": "Toutetsu",
+        "url": "https://open.spotify.com/album/4SmGvvUIfmEQvC6eOklB2m"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "duration_ms": 248418,
+      "name": "Toutetsu",
+      "url": "https://open.spotify.com/track/2MsGQOwD0CNkEO6npnbK0Z"
+    },
+    {
+      "added_at": "2026-08-24 05:46:10",
+      "album": {
+        "name": "SIU",
+        "url": "https://open.spotify.com/album/6DOMrPaNqy5Iz5PuponuJz"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "duration_ms": 278808,
+      "name": "SIU",
+      "url": "https://open.spotify.com/track/7AqPtCvcCx7zgEIHr2RO8B"
     }
   ],
   "unique_name": "KristaLenz",

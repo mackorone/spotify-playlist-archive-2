@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbP9O5gwI0xP.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,894 likes - 65 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,051 likes - 65 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbP9O5gwI0xP.md) - [plain]
 | 64 | [Round Are Way \- Remastered](https://open.spotify.com/track/7iFb0atLdlW8g2i2ULNANJ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 5:44 |
 | 65 | [I Am The Walrus \(Live at Knebworth, 11 August '96\)](https://open.spotify.com/track/1vvlQgoUYdBICnqzuREVnI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 6:40 |
 
-Snapshot ID: `AAAAAFhZiQKO3QgvGb0iAWhi1oqqJuzd`
+Snapshot ID: `AAAAAKwzuLjfORG95ZiFCPLgM01pigCZ`

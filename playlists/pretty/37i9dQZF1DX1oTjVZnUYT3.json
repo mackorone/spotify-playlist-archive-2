@@ -1,12 +1,12 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 483110,
+  "num_followers": 483114,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABrCvGZ3aewR0e6BK+TNOErABnpr",
+  "snapshot_id": "AAAAACEFZg4qVJ6SkH014oojz26w9Kee",
   "tracks": [
     {
       "added_at": "2021-11-26 03:18:52",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "O Canto da Cidade",
-        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "O Canto da Cidade",
-      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 97200,
       "name": "O Sol Nascer\u00e1 (A Sorrir)",
       "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "O Canto da Cidade",
+        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "O Canto da Cidade",
+      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Juramento do Dedinho",
-        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
-      },
-      "artists": [
-        {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        }
-      ],
-      "duration_ms": 164808,
-      "name": "Juramento do Dedinho",
-      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 293613,
       "name": "Faixa Amarela",
       "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Juramento do Dedinho",
+        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        }
+      ],
+      "duration_ms": 164808,
+      "name": "Juramento do Dedinho",
+      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
     }
   ],
   "unique_name": "Festa Brasileira",

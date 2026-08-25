@@ -119,6 +119,6 @@
 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 | 2026-06-17 |  |
 | [Wannabe in L.A](https://open.spotify.com/track/3B7mbMbbcuKdfWssAcyvG8) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WcK8D30CYZQxCUv5mEnMT) | 2:15 | 2026-06-17 |  |
 | [Wasted](https://open.spotify.com/track/7EmvtCpjnNIIDl1gmVXwGb) | [Beautiful Creatures](https://open.spotify.com/artist/3QvsQJzvJ9XPRqeEDWJXFp) | [Alternative Metal Giants](https://open.spotify.com/album/4BxL9oPkHPHXiT9jknJkfq) | 3:28 | 2026-06-17 |  |
-| [Wave Of Mutilation](https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:03 | 2026-06-17 |  |
+| [Wave of Mutilation](https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:03 | 2026-06-17 |  |
 
 \*This playlist was first scraped on 2026-06-26. Prior content cannot be recovered.

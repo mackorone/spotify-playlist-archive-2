@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,177 likes - 125 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,219 likes - 125 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 | 124 | [396 Hz Beneficial Solfeggio](https://open.spotify.com/track/2a3CTPp7O41lK1Uuq9qFsa) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Oneness](https://open.spotify.com/album/4QLfoHYd8mMaXxYbSwV4OU) | 3:10 |
 | 125 | [Grounded 396 Hz](https://open.spotify.com/track/7tWrhtuZD1NWWKxSTAXALq) | [Bruce Brus](https://open.spotify.com/artist/6jKgLzBdINpIrcinbmi7hI) | [Grounded 396 Hz](https://open.spotify.com/album/39fJL5m138d8MB1d2f3oS0) | 2:59 |
 
-Snapshot ID: `AAAAAI3eYq++hgM7wZDXGIOOdbfABPXD`
+Snapshot ID: `AAAAAAUlGIPE4JgrSFl1Co7ex2ZhAP/w`

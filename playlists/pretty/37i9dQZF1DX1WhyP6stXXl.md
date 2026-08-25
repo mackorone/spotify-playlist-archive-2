@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,361 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,302 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 88 | [My Darlin'](https://open.spotify.com/track/3YCPMgglyGmlBAgIHE8KJw) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Das Ist Daddy](https://open.spotify.com/album/2YebmkQzLA10QYQc6GOMM6) | 2:49 |
 | 89 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
 
-Snapshot ID: `AAAAAOTDDfrDBoO6agPfYGFOov/6MwWQ`
+Snapshot ID: `AAAAAKfG3sk9y/Tboto8YvlxBnG0gbNt`

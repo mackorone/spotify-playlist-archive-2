@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPEJMppAp/lpM8raB+4Hd7rs1bT",
+  "snapshot_id": "AAAAAAHwxKcnBpecr2Hsx6wBzBxKTn/B",
   "tracks": [
     {
       "added_at": "2023-08-08 08:47:20",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "On a perdu la boussole",
-        "url": "https://open.spotify.com/album/4Dl6SeurL5kRLwyor11WHh"
+        "name": "Au fil des \u00e9motions",
+        "url": "https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn"
       },
       "artists": [
         {
-          "name": "Les Enfantastiques",
-          "url": "https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo"
+          "name": "M\u00e9lyne",
+          "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
         }
       ],
-      "duration_ms": 180401,
-      "name": "Dans notre dictionnaire imaginaire",
-      "url": "https://open.spotify.com/track/38e9NYLk6zCgWYor6WIH98"
+      "duration_ms": 145453,
+      "name": "Bienvenue \u00e0 toi",
+      "url": "https://open.spotify.com/track/6awvphIFrbxUEKPtF4CyzL"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "On a perdu la boussole",
+        "url": "https://open.spotify.com/album/4Dl6SeurL5kRLwyor11WHh"
+      },
+      "artists": [
+        {
+          "name": "Les Enfantastiques",
+          "url": "https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo"
+        }
+      ],
+      "duration_ms": 180401,
+      "name": "Dans notre dictionnaire imaginaire",
+      "url": "https://open.spotify.com/track/38e9NYLk6zCgWYor6WIH98"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Dans les bois",
         "url": "https://open.spotify.com/album/49ZMQ81ruV7VPNQW341eOQ"
       },
@@ -520,9 +536,25 @@
           "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
         }
       ],
-      "duration_ms": 145453,
-      "name": "Bienvenue \u00e0 toi",
-      "url": "https://open.spotify.com/track/6awvphIFrbxUEKPtF4CyzL"
+      "duration_ms": 127840,
+      "name": "Je suis d\u00e9go\u00fbt\u00e9(e)",
+      "url": "https://open.spotify.com/track/4fSolIPapbSByj1hUch5Zf"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
+        "name": "M\u00eame pas !",
+        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9li M\u00f4mes",
+          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
+        }
+      ],
+      "duration_ms": 181097,
+      "name": "Les c\u00e2lins",
+      "url": "https://open.spotify.com/track/6GpSt8mjG25ldFMKrGut6m"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -543,22 +575,6 @@
       "duration_ms": 177453,
       "name": "Super flemmard",
       "url": "https://open.spotify.com/track/4u57MxyzGESjI1yoeLuinS"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "M\u00eame pas !",
-        "url": "https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9li M\u00f4mes",
-          "url": "https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs"
-        }
-      ],
-      "duration_ms": 181097,
-      "name": "Les c\u00e2lins",
-      "url": "https://open.spotify.com/track/6GpSt8mjG25ldFMKrGut6m"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Au fil des \u00e9motions",
-        "url": "https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lyne",
-          "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
-        }
-      ],
-      "duration_ms": 127840,
-      "name": "Je suis d\u00e9go\u00fbt\u00e9(e)",
-      "url": "https://open.spotify.com/track/4fSolIPapbSByj1hUch5Zf"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
         "name": "Etre tous diff\u00e9rents",
         "url": "https://open.spotify.com/album/5BQWigU2ysC5t0LKL0wD7E"
       },
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "Le mod\u00e8le r\u00e9duit de nos pens\u00e9es",
+        "url": "https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3"
+      },
+      "artists": [
+        {
+          "name": "David Delabrosse",
+          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
+        }
+      ],
+      "duration_ms": 189462,
+      "name": "J'm'aime pas comme papa",
+      "url": "https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Allez hop hop hop",
         "url": "https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk"
       },
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8"
         }
       ],
-      "duration_ms": 196853,
-      "name": "La chouchou",
-      "url": "https://open.spotify.com/track/5tK6HcRvSBjaV9DHnuOb8r"
+      "duration_ms": 143906,
+      "name": "La p\u00e2te \u00e0 cr\u00eapes",
+      "url": "https://open.spotify.com/track/26SFwCnNaToGJqiHFRfCsT"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -683,22 +699,6 @@
       "duration_ms": 182573,
       "name": "Mon pyjama de nuit",
       "url": "https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "Le mod\u00e8le r\u00e9duit de nos pens\u00e9es",
-        "url": "https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3"
-      },
-      "artists": [
-        {
-          "name": "David Delabrosse",
-          "url": "https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs"
-        }
-      ],
-      "duration_ms": 189462,
-      "name": "J'm'aime pas comme papa",
-      "url": "https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "Au fil des \u00e9motions",
+        "url": "https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lyne",
+          "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
+        }
+      ],
+      "duration_ms": 135373,
+      "name": "J'ai trop la honte",
+      "url": "https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Allez hop hop hop",
         "url": "https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk"
       },
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8"
         }
       ],
-      "duration_ms": 143906,
-      "name": "La p\u00e2te \u00e0 cr\u00eapes",
-      "url": "https://open.spotify.com/track/26SFwCnNaToGJqiHFRfCsT"
+      "duration_ms": 196853,
+      "name": "La chouchou",
+      "url": "https://open.spotify.com/track/5tK6HcRvSBjaV9DHnuOb8r"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -835,34 +851,18 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
-        "name": "Au fil des \u00e9motions",
-        "url": "https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn"
+        "name": "Chansons polies pour enfants \u00e9nerv\u00e9s",
+        "url": "https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM"
       },
       "artists": [
         {
-          "name": "M\u00e9lyne",
-          "url": "https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg"
+          "name": "LAFREUX",
+          "url": "https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr"
         }
       ],
-      "duration_ms": 135373,
-      "name": "J'ai trop la honte",
-      "url": "https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "Les vacances, zones a,b,c et la Corse aussi et les Dom-Tom etc.",
-        "url": "https://open.spotify.com/album/3B4Tjf9PWob95nPYjd7FkN"
-      },
-      "artists": [
-        {
-          "name": "Rit qui qui",
-          "url": "https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "La r\u00e9volution des doudous",
-      "url": "https://open.spotify.com/track/51i15bMvzYVhqF0jIGsB9M"
+      "duration_ms": 152000,
+      "name": "Non oui",
+      "url": "https://open.spotify.com/track/2bNp29G1UCFD1PcctgsBgy"
     }
   ],
   "unique_name": "Bo\u00eete \u00e0 jouets",

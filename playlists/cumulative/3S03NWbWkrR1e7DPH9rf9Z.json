@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 280000,
       "name": "Future Rave Is Now",
       "url": "https://open.spotify.com/track/5phqs1kTBLOWhG7FD3MVDv"
@@ -3901,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/73rMsW5P4EeY7Lbdavaw4E"
+      },
+      "artists": [
+        {
+          "name": "Jai Jetpack",
+          "url": "https://open.spotify.com/artist/2wMc8TjTevoHkcHBpBMkJp"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209587,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/60f2sQ3Zad0lNAC1ROvbN3"
+    },
+    {
+      "album": {
         "name": "Revealed Recordings presents ADE Sampler 2025",
         "url": "https://open.spotify.com/album/65lW8fSZ6efAbWPgP5d1lb"
       },
@@ -4756,7 +4774,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 163730,
       "name": "The Oldskool",
       "url": "https://open.spotify.com/track/7E6PttMltdug1odSoOUaLg"

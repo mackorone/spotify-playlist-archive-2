@@ -1,12 +1,12 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39233,
+  "num_followers": 39239,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOIEC3BFxnrZs2iex6ZO2AH+ZZYm",
+  "snapshot_id": "AAAAABqP6ZR3SE2nva09WRb9r2jwQGsG",
   "tracks": [
     {
       "added_at": "2026-08-21 06:00:33",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "Zero / Uno",
-        "url": "https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd"
-      },
-      "artists": [
-        {
-          "name": "Adi\u00f3s Cometa",
-          "url": "https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl"
-        }
-      ],
-      "duration_ms": 381000,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8"
-    },
-    {
-      "added_at": "2026-08-21 06:00:33",
-      "album": {
         "name": "Omelette Du Fromage",
         "url": "https://open.spotify.com/album/2PbgzSvLi7z46n6WKiL4kK"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 150090,
       "name": "Par\u00e1lisis del Sue\u00f1o",
       "url": "https://open.spotify.com/track/3OgIhXydbvv8KV6lpyT3gx"
+    },
+    {
+      "added_at": "2026-08-21 06:00:33",
+      "album": {
+        "name": "Zero / Uno",
+        "url": "https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd"
+      },
+      "artists": [
+        {
+          "name": "Adi\u00f3s Cometa",
+          "url": "https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl"
+        }
+      ],
+      "duration_ms": 381000,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8"
     },
     {
       "added_at": "2026-08-21 06:00:33",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-08-21 06:00:33",
       "album": {
-        "name": "fluya +",
-        "url": "https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX"
-      },
-      "artists": [
-        {
-          "name": "prado norte",
-          "url": "https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "fluya +",
-      "url": "https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc"
-    },
-    {
-      "added_at": "2026-08-21 06:00:33",
-      "album": {
         "name": "Principio de Siglo",
         "url": "https://open.spotify.com/album/2JpjjKhUGPEG0rmYNvAIGu"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 180551,
       "name": "Principio de Siglo",
       "url": "https://open.spotify.com/track/5yC06ptF9OlI2krZRj0B8U"
+    },
+    {
+      "added_at": "2026-08-21 06:00:33",
+      "album": {
+        "name": "fluya +",
+        "url": "https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX"
+      },
+      "artists": [
+        {
+          "name": "prado norte",
+          "url": "https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB"
+        }
+      ],
+      "duration_ms": 242823,
+      "name": "fluya +",
+      "url": "https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc"
     },
     {
       "added_at": "2026-08-21 06:00:33",

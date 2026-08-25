@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop. Cover: Tino Martin & Billy Dans! <a href=\"spotify:presents:jouwzomerid\">Zomer aanbevelingen van Spotify? Doe de quiz!</a>",
-  "num_followers": 156480,
+  "num_followers": 156483,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4A7otrFEzx7MrmsZnTZzsLPf9i",
+  "snapshot_id": "AAAAAO/qaHs4PRONzqntW27sx+PO4UXM",
   "tracks": [
     {
       "added_at": "2026-08-20 22:01:10",
@@ -31,6 +31,26 @@
     {
       "added_at": "2026-08-20 22:01:10",
       "album": {
+        "name": "Moe Van De Malibu",
+        "url": "https://open.spotify.com/album/0hva22a1POQWSleIEhm9PF"
+      },
+      "artists": [
+        {
+          "name": "Andy Van der Leek",
+          "url": "https://open.spotify.com/artist/7nCWWJ31tKrrzCfDbzKvqu"
+        },
+        {
+          "name": "John Zoet",
+          "url": "https://open.spotify.com/artist/0OV8oXXEG1zHvllmUqtzpL"
+        }
+      ],
+      "duration_ms": 143202,
+      "name": "Moe Van De Malibu",
+      "url": "https://open.spotify.com/track/00evU5H08oLkwEWxUpu4jO"
+    },
+    {
+      "added_at": "2026-08-20 22:01:10",
+      "album": {
         "name": "Kroegen in de Hemel",
         "url": "https://open.spotify.com/album/0WNSIdhb8F6wZwnvNF3748"
       },
@@ -43,6 +63,22 @@
       "duration_ms": 183674,
       "name": "Kroegen in de Hemel",
       "url": "https://open.spotify.com/track/7daRniFQ3OpZzxCmCBPuoE"
+    },
+    {
+      "added_at": "2026-08-20 22:01:10",
+      "album": {
+        "name": "De Wasserette",
+        "url": "https://open.spotify.com/album/3QJqsp5tuzQ08i35eHQ1Cv"
+      },
+      "artists": [
+        {
+          "name": "Remco Carlos",
+          "url": "https://open.spotify.com/artist/6de30Or60GgJUqLODB7uLv"
+        }
+      ],
+      "duration_ms": 160264,
+      "name": "De Wasserette",
+      "url": "https://open.spotify.com/track/4xmWQPFSQRrZZzpooW4hHN"
     },
     {
       "added_at": "2026-08-20 22:01:10",
@@ -75,26 +111,6 @@
       "duration_ms": 149057,
       "name": "Sjansen",
       "url": "https://open.spotify.com/track/5CFrNBn5fJymiGNUn6D5dQ"
-    },
-    {
-      "added_at": "2026-08-20 22:01:10",
-      "album": {
-        "name": "Moe Van De Malibu",
-        "url": "https://open.spotify.com/album/0hva22a1POQWSleIEhm9PF"
-      },
-      "artists": [
-        {
-          "name": "Andy Van der Leek",
-          "url": "https://open.spotify.com/artist/7nCWWJ31tKrrzCfDbzKvqu"
-        },
-        {
-          "name": "John Zoet",
-          "url": "https://open.spotify.com/artist/0OV8oXXEG1zHvllmUqtzpL"
-        }
-      ],
-      "duration_ms": 143202,
-      "name": "Moe Van De Malibu",
-      "url": "https://open.spotify.com/track/00evU5H08oLkwEWxUpu4jO"
     },
     {
       "added_at": "2026-08-20 22:01:10",
@@ -143,22 +159,6 @@
       "duration_ms": 189090,
       "name": "Zomer, Zon & Strand",
       "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
-    },
-    {
-      "added_at": "2026-08-20 22:01:10",
-      "album": {
-        "name": "De Wasserette",
-        "url": "https://open.spotify.com/album/3QJqsp5tuzQ08i35eHQ1Cv"
-      },
-      "artists": [
-        {
-          "name": "Remco Carlos",
-          "url": "https://open.spotify.com/artist/6de30Or60GgJUqLODB7uLv"
-        }
-      ],
-      "duration_ms": 160264,
-      "name": "De Wasserette",
-      "url": "https://open.spotify.com/track/4xmWQPFSQRrZZzpooW4hHN"
     },
     {
       "added_at": "2026-08-20 22:01:10",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-08-20 22:01:10",
       "album": {
+        "name": "Zonder Jou",
+        "url": "https://open.spotify.com/album/4VrHHuhW6BcJFS38MESDPF"
+      },
+      "artists": [
+        {
+          "name": "Jan Witlox",
+          "url": "https://open.spotify.com/artist/0C2i7hVaB3C0LpCKIxZhYJ"
+        }
+      ],
+      "duration_ms": 182896,
+      "name": "Zonder Jou",
+      "url": "https://open.spotify.com/track/6EzNmBP0DHotVbGPVzMyou"
+    },
+    {
+      "added_at": "2026-08-20 22:01:10",
+      "album": {
         "name": "Happie Sappie BBQ-tje (feat. Jean Paul)",
         "url": "https://open.spotify.com/album/4KyKM5a0BF2yortjIuIlkC"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 173428,
       "name": "Ik Dans Altijd Door Het Leven",
       "url": "https://open.spotify.com/track/194p8pZp4o3Bt6mwRIT4x1"
-    },
-    {
-      "added_at": "2026-08-20 22:01:10",
-      "album": {
-        "name": "Zonder Jou",
-        "url": "https://open.spotify.com/album/4VrHHuhW6BcJFS38MESDPF"
-      },
-      "artists": [
-        {
-          "name": "Jan Witlox",
-          "url": "https://open.spotify.com/artist/0C2i7hVaB3C0LpCKIxZhYJ"
-        }
-      ],
-      "duration_ms": 182896,
-      "name": "Zonder Jou",
-      "url": "https://open.spotify.com/track/6EzNmBP0DHotVbGPVzMyou"
     },
     {
       "added_at": "2026-08-20 22:01:10",

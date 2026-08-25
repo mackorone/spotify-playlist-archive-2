@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2016. Cover: Shakira\n\n",
-  "num_followers": 74020,
+  "num_followers": 74046,
   "original_name": "Latin Hits 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6idd/gqrvANego9N3OXN/OrXYP",
+  "snapshot_id": "AAAAAFhF5B8+mwhYF1nv6BFAuHLp57M5",
   "tracks": [
     {
       "added_at": "2024-07-13 01:19:45",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Sigo Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
         "name": "Sobre El Amor Y Sus Efectos Secundarios",
         "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 229213,
       "name": "Aprender A Quererte",
       "url": "https://open.spotify.com/track/3zNcn4BaVfKORyx3uDfruW"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Sigo Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk"
     },
     {
       "added_at": "2024-07-13 01:19:45",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Una \u00daltima Vez (Delux Edition)",
-        "url": "https://open.spotify.com/album/1J1sbNQnbDs9moxppFbaum"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "En \u00c9sta No",
-      "url": "https://open.spotify.com/track/1zRqRmZyE0bgXkSoVVaCwK"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 238800,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
+        "name": "Una \u00daltima Vez (Delux Edition)",
+        "url": "https://open.spotify.com/album/1J1sbNQnbDs9moxppFbaum"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "En \u00c9sta No",
+      "url": "https://open.spotify.com/track/1zRqRmZyE0bgXkSoVVaCwK"
     },
     {
       "added_at": "2024-07-13 01:19:45",

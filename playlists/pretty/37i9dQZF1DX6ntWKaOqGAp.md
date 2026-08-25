@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: go!go!vanillas
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,086 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,075 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [BIRDMAN](https://open.spotify.com/track/7vbCgfsSfRKuz3h3W1WCsS) | [RAINCOVER](https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW) | [BIRDMAN](https://open.spotify.com/album/5tvWHSaAqx2QWDveVqc0G6) | 4:40 |
 | 100 | [Japanese Young Punk](https://open.spotify.com/track/4qNthuQbiGFzOp9WRDQcZt) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Japanese Young Punk](https://open.spotify.com/album/35u2NhpOJCAQlKqsVXG6mE) | 3:48 |
 
-Snapshot ID: `AAAAACmplyHXC1QyGfvihnN0Mh0nUfrG`
+Snapshot ID: `AAAAAIyHYyX5jQmyRnhzjnpcJi2CTlpo`

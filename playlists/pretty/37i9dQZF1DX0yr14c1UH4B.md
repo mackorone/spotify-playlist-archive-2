@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷 cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,625 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,621 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [I don’t mind if you don’t mind](https://open.spotify.com/track/1jXDRZjQ36rZrXmq6HiudV) | [Minna](https://open.spotify.com/artist/4Qk9F01tP4FfjkBam8LfNL) | [I don’t mind if you don’t mind](https://open.spotify.com/album/1kxCluFD9ZYsYcHJWKLAZv) | 3:36 |
 | 100 | [Gracie](https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [F.I.G](https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX) | 2:54 |
 
-Snapshot ID: `AAAAAJRC4xp7GqOXnCVn9zvkNdgAzZOK`
+Snapshot ID: `AAAAAGxwyFAgcduQgElE33GxJYxfGvji`

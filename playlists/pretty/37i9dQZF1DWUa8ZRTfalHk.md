@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,196,065 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,195,515 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 99 | [Girl That I Am](https://open.spotify.com/track/7jZk5cOxV1LVZFG7RIOaHE) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 4:11 |
 | 100 | [Camilla](https://open.spotify.com/track/6fsVL2HeSgQrciFJg4gkqT) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Camilla](https://open.spotify.com/album/014mbn2oZiArZavmho6hog) | 3:32 |
 
-Snapshot ID: `AAAAAN0frM4aGzNXnYsF1Z3Wo3k86mdO`
+Snapshot ID: `AAAAANvd1QN4gmAhZzJtJ+gcktJO+02f`

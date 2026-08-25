@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,157 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,148 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Frequency](https://open.spotify.com/track/63LswPK31jvNEjlhtKFzaK) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM), [Mvk](https://open.spotify.com/artist/7KJy9iqbUNj0xqHcsZSnbN) | [Frequency](https://open.spotify.com/album/3aJ7EwZSzppNcnuhzEkHku) | 2:43 |
 | 40 | [Changé](https://open.spotify.com/track/1ojup8iwvq5SUFvuBMfDfh) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [Changé](https://open.spotify.com/album/5qp1uwgBPuyy2h2LywRlbM) | 1:46 |
 
-Snapshot ID: `AAAAAOi4gyBStmMhqfPWNVNF5NWcuXAq`
+Snapshot ID: `AAAAADo3A+D98CdY6uTWkiLAPUq2tE8/`

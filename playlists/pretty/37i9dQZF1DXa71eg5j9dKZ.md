@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,168 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,177 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Without Pause](https://open.spotify.com/track/2DcvId9f7WuBgqWG11KH4H) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Without Pause](https://open.spotify.com/album/2abVu6lYCTT6Coxf2q4TSs) | 7:23 |
 | 100 | [Pay Attention to Me](https://open.spotify.com/track/0euCs7l9u8japDamITC7Ab) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Pay Attention to Me](https://open.spotify.com/album/2JpkP5mLRbWr19HwaYKfqj) | 3:52 |
 
-Snapshot ID: `AAAAANLcAsECGR4U3CkCh1/W4lRctAVq`
+Snapshot ID: `AAAAAPbZ0gVWlMhKvOKWE3P5e0SRyRcc`

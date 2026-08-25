@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 189928,
       "name": "Atti Poda Vaa Mame",
       "url": "https://open.spotify.com/track/35jglKbFFjw0CoGTnjWvVY"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 152666,
       "name": "Dhooram",
       "url": "https://open.spotify.com/track/6dvDX6DXNkpxjrCjRqXFf6"
@@ -10747,6 +10747,24 @@
     },
     {
       "album": {
+        "name": "Nenje Vaa",
+        "url": "https://open.spotify.com/album/3O4QN3x9yNsx8Ee14A1ei1"
+      },
+      "artists": [
+        {
+          "name": "Harris Karasseri",
+          "url": "https://open.spotify.com/artist/12I2y5L7d6zEyJ09AFf4NB"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223608,
+      "name": "Nenje Vaa",
+      "url": "https://open.spotify.com/track/568DulJMpNIPaTJ52erPEZ"
+    },
+    {
+      "album": {
         "name": "Nenjukulla",
         "url": "https://open.spotify.com/album/1PTz76Cyxu9OrOGWvDfHXL"
       },
@@ -11584,6 +11602,32 @@
       "duration_ms": 210433,
       "name": "Ondu Rendu",
       "url": "https://open.spotify.com/track/26j5TqO25YifNx5kpAE6N1"
+    },
+    {
+      "album": {
+        "name": "Onna Moona",
+        "url": "https://open.spotify.com/album/00Tq9LEBTEkaff92fPzYHg"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sridhar",
+          "url": "https://open.spotify.com/artist/6XKDxjugFmNftYE7m2YuuJ"
+        },
+        {
+          "name": "Jananie S.V",
+          "url": "https://open.spotify.com/artist/76AjpgQpgJLWeONwNfW2zg"
+        },
+        {
+          "name": "Pa Hariharan",
+          "url": "https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Onna Moona",
+      "url": "https://open.spotify.com/track/3sAbIVkaUbUekxl8oWkmUo"
     },
     {
       "album": {
@@ -14744,7 +14788,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 156455,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/3LWzYA7qw4gbWyI148zLaf"
@@ -18342,7 +18386,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 121000,
       "name": "What The Heck (From \"Loopd\")",
       "url": "https://open.spotify.com/track/19XTzloySSYKl8E755hMKw"
@@ -18364,6 +18408,28 @@
       "duration_ms": 153039,
       "name": "Why So Sad Sugar Muffin?",
       "url": "https://open.spotify.com/track/0ZxhGxOyluyUlFi2S595Zv"
+    },
+    {
+      "album": {
+        "name": "I-popstar Tamil | Ep 14",
+        "url": "https://open.spotify.com/album/2P1KtSqhEyFG6SnwW1AVQO"
+      },
+      "artists": [
+        {
+          "name": "Trinita Misha Das",
+          "url": "https://open.spotify.com/artist/5rKjQdErGg9xPNsz2Luydu"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169426,
+      "name": "Wifi Kaadhal",
+      "url": "https://open.spotify.com/track/10XfKT7pdXygkAyQ2zYTWz"
     },
     {
       "album": {

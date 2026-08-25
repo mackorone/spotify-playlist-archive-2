@@ -5038,7 +5038,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
@@ -5360,7 +5360,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 224284,
       "name": "Mere Qareeb",
       "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
@@ -8662,7 +8662,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "URDU ME GEETA",
       "url": "https://open.spotify.com/track/0OJmfTfnwwj02W7TNi9COo"
@@ -9016,6 +9016,24 @@
       "duration_ms": 161052,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/6HYNj3EIDAgTkC5U1bcpHi"
+    },
+    {
+      "album": {
+        "name": "Yeh Duniya",
+        "url": "https://open.spotify.com/album/74EZZPUsRd1wMvDJtUI4gK"
+      },
+      "artists": [
+        {
+          "name": "Curtain Blue",
+          "url": "https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155363,
+      "name": "Yeh Duniya",
+      "url": "https://open.spotify.com/track/3afNMElBBtkRPyR79DMyMJ"
     },
     {
       "album": {

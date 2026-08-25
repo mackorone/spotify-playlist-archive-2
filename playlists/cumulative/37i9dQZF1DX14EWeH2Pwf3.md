@@ -4,7 +4,7 @@
 
 > È una Geolier summer🩸
 
-1,133 songs - 2 day 6 hr 36 min
+1,134 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [BBE \(feat\. Lazza\)](https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [BBE \(feat\. Lazza\)](https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3) | 3:18 | 2024-05-09 | 2024-09-27 |
 | [BEBE \(feat\. Baby Gang\)](https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 2:46 | 2022-06-30 | 2023-01-27 |
 | [Bee](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 | 2024-01-25 | 2024-05-17 |
-| [Belek](https://open.spotify.com/track/5P0y33C4m5uK9TcMHRnCsL) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Belek](https://open.spotify.com/album/6WyGM8HsbPI3OQSeW9PRB5) | 2:17 | 2026-08-06 |  |
+| [Belek](https://open.spotify.com/track/5P0y33C4m5uK9TcMHRnCsL) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Belek](https://open.spotify.com/album/6WyGM8HsbPI3OQSeW9PRB5) | 2:17 | 2026-08-06 | 2026-08-25 |
 | [BELLA](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [BELLA](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-22 | 2023-11-03 |
 | [Bene ormai](https://open.spotify.com/track/4Vq5sGWPEemZvBWP7CRjj2) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:10 | 2026-01-02 | 2026-01-21 |
 | [Bentley \(feat\. Simba La Rue, J Lord\)](https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 1:59 | 2023-10-12 | 2024-01-11 |
@@ -875,6 +875,7 @@
 | [QUALCOSA CHE MANCA \(feat\. Rkomi\)](https://open.spotify.com/track/2zjJyRnAFAOlSmEs3u1daV) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 2:57 | 2022-11-17 | 2022-11-25 |
 | [Qualcosa da bere](https://open.spotify.com/track/5exPVjfGC9CNztXOGp8pEI) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Qualcosa da bere](https://open.spotify.com/album/6LSWJbpX34FT3KbQS1CfI1) | 3:10 | 2023-07-20 | 2023-09-08 |
 | [Quando Voglio](https://open.spotify.com/track/25KME3ppdakx670F46k124) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [IO](https://open.spotify.com/album/63MuNY0qdgnGdQSwLnZunG) | 2:53 | 2026-05-28 | 2026-06-12 |
+| [QUANTO FORTE TI PENSAVO](https://open.spotify.com/track/7ldyOPtbSh2t7iOEAsFOlR) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [L'AMORE](https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG) | 3:33 | 2026-08-24 |  |
 | [Que Lo Ke](https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:03 | 2023-08-31 | 2024-01-19 |
 | [QUE PASA \(feat\. Salmo & nayt\) \- Prod\. Luciennn](https://open.spotify.com/track/2XIKgvqa06lm1gydT3Df19) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP) | [Teoria Del Contrario Mixtape Vol\. 3](https://open.spotify.com/album/3GGyy5u29yQ6sv9VA8UocU) | 3:12 | 2025-10-30 | 2025-11-07 |
 | [RAFFAELLA FICO](https://open.spotify.com/track/3fBHfKPOuaZ99tZOMg9Cgw) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [RAFFAELLA FICO](https://open.spotify.com/album/26BpBOqkCoqIFDEfavYQl7) | 2:12 | 2026-07-09 |  |

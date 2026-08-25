@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3D78h6FPBPC.md) - [plain]
 
 > This is ABBA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,838,911 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,839,088 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3D78h6FPBPC.md) - [plain]
 | 59 | [Sitting In The Palmtree](https://open.spotify.com/track/5GtZQAGslCdh7jUtvhMx1E) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/1WAlaVMaCstzAQ1Y5i0VeX) | 3:38 |
 | 60 | [I Can Be That Woman](https://open.spotify.com/track/2JNzo5lIfJNFXV1ttcLD7r) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 4:01 |
 
-Snapshot ID: `AAAAAAa6KDmvwpera495v+Lpaje8WECE`
+Snapshot ID: `AAAAAACd69UrMm3UsWXhvAUyWYPGP7v9`

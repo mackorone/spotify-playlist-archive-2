@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume! August ambassador: <a href=\"spotify:artist:2sGGaKKex7GgNlH1DRXZSa\">Inez</a>",
-  "num_followers": 14398,
+  "num_followers": 14401,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEIdfqcDlzaDsK62Rb9iuVsvQB2C",
+  "snapshot_id": "AAAAAFqN1+JtOFA8SHvfLzBOFndxwRPF",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:19",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Call For Change",
         "url": "https://open.spotify.com/album/0iVuaj5BrkdvcgTUsDaQXw"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 209590,
       "name": "Call for Change",
       "url": "https://open.spotify.com/track/4oLrikt1RciSZOSttW7Z65"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/7DbtiCKBfAyL4LbnkxAtsJ"
-      },
-      "artists": [
-        {
-          "name": "OGENE",
-          "url": "https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8"
-        }
-      ],
-      "duration_ms": 189204,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/6xbXAGLzysOOICLeu65Xpy"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Que Rico",
         "url": "https://open.spotify.com/album/7JCceKJ3VULoYeqQkhrcng"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 218536,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/5EquLMxMnBX2hSS9SyDooO"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/7DbtiCKBfAyL4LbnkxAtsJ"
+      },
+      "artists": [
+        {
+          "name": "OGENE",
+          "url": "https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8"
+        }
+      ],
+      "duration_ms": 189204,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/6xbXAGLzysOOICLeu65Xpy"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/2BIhdL6klX2WyZIebY9ukR"
-      },
-      "artists": [
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 144097,
-      "name": "Slip",
-      "url": "https://open.spotify.com/track/1X0K8nDSoCHMt9qZOOA4pU"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Searching For Love",
         "url": "https://open.spotify.com/album/3oJ9E6jIEqMwxJGdbLkvgU"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/2BIhdL6klX2WyZIebY9ukR"
+      },
+      "artists": [
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "duration_ms": 144097,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/1X0K8nDSoCHMt9qZOOA4pU"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Echo Zonder Naam",
         "url": "https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 213340,
       "name": "Echo Zonder Naam",
       "url": "https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "De Stilte",
-        "url": "https://open.spotify.com/album/5EtuU469Nf7Ujdaz0gFqPc"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 147865,
-      "name": "De Stilte",
-      "url": "https://open.spotify.com/track/7unuI0bmqLzpfqoF3ONK5L"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -623,6 +607,22 @@
       "duration_ms": 178249,
       "name": "OOK EEN POSE",
       "url": "https://open.spotify.com/track/63p8iUcJnoe6hPUggOHtUT"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "De Stilte",
+        "url": "https://open.spotify.com/album/5EtuU469Nf7Ujdaz0gFqPc"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 147865,
+      "name": "De Stilte",
+      "url": "https://open.spotify.com/track/7unuI0bmqLzpfqoF3ONK5L"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Back voor je needs",
-        "url": "https://open.spotify.com/album/5BdDqKGlJrCmuQP4LohGJD"
-      },
-      "artists": [
-        {
-          "name": "NOELL3",
-          "url": "https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB"
-        }
-      ],
-      "duration_ms": 112447,
-      "name": "Back voor je needs",
-      "url": "https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Fast Paced Society",
         "url": "https://open.spotify.com/album/5R3nVOD8ENM6WTNflnyF8P"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 193589,
       "name": "Fast Paced Society",
       "url": "https://open.spotify.com/track/6FtD6D6SoPG0Xk3d19HJnX"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Back voor je needs",
+        "url": "https://open.spotify.com/album/5BdDqKGlJrCmuQP4LohGJD"
+      },
+      "artists": [
+        {
+          "name": "NOELL3",
+          "url": "https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB"
+        }
+      ],
+      "duration_ms": 112447,
+      "name": "Back voor je needs",
+      "url": "https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi"
     },
     {
       "added_at": "2026-08-04 22:00:19",

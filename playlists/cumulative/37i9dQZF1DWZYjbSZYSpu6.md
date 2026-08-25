@@ -2,7 +2,7 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: DAYOUNG, Jay Park\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: WENDY, JUN\. K\)
 
 292 songs - 17 hr 8 min
 

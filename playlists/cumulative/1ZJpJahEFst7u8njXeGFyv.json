@@ -3387,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/0T1VpvIZIlSGKIGna6jmf2"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1kVGIwMtkoaZKG7rAJvpYs"
+    },
+    {
+      "album": {
         "name": "Can't Help Falling in Love",
         "url": "https://open.spotify.com/album/02wWehqmAzISzsLasUlAn7"
       },
@@ -3436,6 +3454,32 @@
       "duration_ms": 258826,
       "name": "Canon in D Major for Strings and Continuo",
       "url": "https://open.spotify.com/track/7AafyLw1ZhdezoI0Lfv5vf"
+    },
+    {
+      "album": {
+        "name": "Paganini",
+        "url": "https://open.spotify.com/album/0AuitR7KXJaKTg9LEZ8FzK"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248293,
+      "name": "Cantabile in D Major",
+      "url": "https://open.spotify.com/track/7jcyyrHsdamsTAXosNcG1b"
     },
     {
       "album": {
@@ -4134,6 +4178,28 @@
       "duration_ms": 342941,
       "name": "Clair de lune",
       "url": "https://open.spotify.com/track/1dsRMrt0UNCB4egmlSI12Z"
+    },
+    {
+      "album": {
+        "name": "Clair de Lune Variation (After Suite Bergamasque CD 82/L.75: III. Clair de Lune)",
+        "url": "https://open.spotify.com/album/6fXix6kDoCq46NqJvssuAF"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105527,
+      "name": "Clair de Lune Variation (After Suite Bergamasque CD 82/L.75: III. Clair de Lune)",
+      "url": "https://open.spotify.com/track/3MB6PEhgViZUiTc6u9Esod"
     },
     {
       "album": {
@@ -11001,6 +11067,24 @@
     },
     {
       "album": {
+        "name": "Midnight Dreamer",
+        "url": "https://open.spotify.com/album/5sb0vRgPfKGi5jJ7QTM1CK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186476,
+      "name": "Midnight Dreamer",
+      "url": "https://open.spotify.com/track/6tFQJ4WjSHXCI7SvosCRPv"
+    },
+    {
+      "album": {
         "name": "Reverie (Solo Piano Version) & Midnight Reverie",
         "url": "https://open.spotify.com/album/1pmlr7X61B3YItvw6bTVEC"
       },
@@ -16142,6 +16226,36 @@
       "duration_ms": 296595,
       "name": "Schafe k\u00f6nnen sicher weiden (Ninth Movement from Was mir behagt, ist nur die muntre Jagd, BWV 208)",
       "url": "https://open.spotify.com/track/0m2BtqmqLNMvCZS9Z9OReu"
+    },
+    {
+      "album": {
+        "name": "Schumann Cello Concerto Variation (After Cello Concerto in A Minor, Op. 129: II. Langsam)",
+        "url": "https://open.spotify.com/album/6qt1v7pDzXWllhNOsVXtji"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Jan Vogler",
+          "url": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+        },
+        {
+          "name": "Moritzburg Ensemble",
+          "url": "https://open.spotify.com/artist/0cfPipoXojPaJ5deRb7oGa"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Schumann Cello Concerto Variation (After Cello Concerto in A Minor, Op. 129: II. Langsam)",
+      "url": "https://open.spotify.com/track/29JAQjGvqLY5AqdLsKdw7D"
     },
     {
       "album": {

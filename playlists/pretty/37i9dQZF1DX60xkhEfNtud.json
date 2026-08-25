@@ -1,12 +1,12 @@
 {
   "description": "Whale song from the deep underwater world of the oceans",
-  "num_followers": 270596,
+  "num_followers": 270688,
   "original_name": "Whale Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABvv1gez2UWOm5WrMoanYs471Tpm",
+  "snapshot_id": "AAAAAKAy5oO5sexjTtmiAP7tEQcUbQd5",
   "tracks": [
     {
       "added_at": "2026-04-02 13:31:38",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-04-02 13:31:38",
       "album": {
-        "name": "Whales in the Deep Sea 2",
-        "url": "https://open.spotify.com/album/2rDqBJ5WkcS2jw5jrJW1Hs"
-      },
-      "artists": [
-        {
-          "name": "Nature Expedition",
-          "url": "https://open.spotify.com/artist/4Yo8oXOy1dREjZAQkzbsTi"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Communicating Wales",
-      "url": "https://open.spotify.com/track/0t6nVgwOmJikwqxR3mHtYO"
-    },
-    {
-      "added_at": "2026-04-02 13:31:38",
-      "album": {
         "name": "Whales",
         "url": "https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 122679,
       "name": "Beautiful Whales",
       "url": "https://open.spotify.com/track/4LNs3G6PdQNFoFbYxo5VAb"
+    },
+    {
+      "added_at": "2026-04-02 13:31:38",
+      "album": {
+        "name": "Whales in the Deep Sea 2",
+        "url": "https://open.spotify.com/album/2rDqBJ5WkcS2jw5jrJW1Hs"
+      },
+      "artists": [
+        {
+          "name": "Nature Expedition",
+          "url": "https://open.spotify.com/artist/4Yo8oXOy1dREjZAQkzbsTi"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Communicating Wales",
+      "url": "https://open.spotify.com/track/0t6nVgwOmJikwqxR3mHtYO"
     },
     {
       "added_at": "2026-04-02 13:31:38",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-04-02 13:31:38",
       "album": {
-        "name": "Whale Songs",
-        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
+        "name": "The Songs of Whales",
+        "url": "https://open.spotify.com/album/47kOSBiCJ5GvfoxoG6spP3"
       },
       "artists": [
         {
-          "name": "Underwater Sound",
-          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+          "name": "Wavofota",
+          "url": "https://open.spotify.com/artist/0HnNp4qEj5NucLcMsJiEU3"
         }
       ],
-      "duration_ms": 196721,
-      "name": "Whale Song I",
-      "url": "https://open.spotify.com/track/1200m91gtne5JWrxvRaslI"
+      "duration_ms": 156000,
+      "name": "The Songs of Whales",
+      "url": "https://open.spotify.com/track/3jiBweaVQTNPllkquruQPP"
     },
     {
       "added_at": "2026-04-02 13:31:38",
@@ -347,50 +347,18 @@
     {
       "added_at": "2026-04-02 13:31:38",
       "album": {
-        "name": "The Songs of Whales",
-        "url": "https://open.spotify.com/album/47kOSBiCJ5GvfoxoG6spP3"
+        "name": "Whale Songs",
+        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
       },
       "artists": [
         {
-          "name": "Wavofota",
-          "url": "https://open.spotify.com/artist/0HnNp4qEj5NucLcMsJiEU3"
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
         }
       ],
-      "duration_ms": 156000,
-      "name": "The Songs of Whales",
-      "url": "https://open.spotify.com/track/3jiBweaVQTNPllkquruQPP"
-    },
-    {
-      "added_at": "2026-04-02 13:31:38",
-      "album": {
-        "name": "Songs Of The Sea",
-        "url": "https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM"
-      },
-      "artists": [
-        {
-          "name": "ORCA",
-          "url": "https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Megaptera Novaeangliae",
-      "url": "https://open.spotify.com/track/1PmDangSs9cmS08IAWGNEg"
-    },
-    {
-      "added_at": "2026-04-02 13:31:38",
-      "album": {
-        "name": "Whale Sound",
-        "url": "https://open.spotify.com/album/1yslweRLL69chC57YVX6vB"
-      },
-      "artists": [
-        {
-          "name": "Sounds of Ice",
-          "url": "https://open.spotify.com/artist/0XzyojMCU3KQJ86WLrfFLB"
-        }
-      ],
-      "duration_ms": 150312,
-      "name": "Whale Samples 3",
-      "url": "https://open.spotify.com/track/2Z7AhdadhogkWvpn37uMfL"
+      "duration_ms": 196721,
+      "name": "Whale Song I",
+      "url": "https://open.spotify.com/track/1200m91gtne5JWrxvRaslI"
     },
     {
       "added_at": "2026-04-02 13:31:38",
@@ -411,6 +379,22 @@
     {
       "added_at": "2026-04-02 13:31:38",
       "album": {
+        "name": "Songs Of The Sea",
+        "url": "https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM"
+      },
+      "artists": [
+        {
+          "name": "ORCA",
+          "url": "https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Megaptera Novaeangliae",
+      "url": "https://open.spotify.com/track/1PmDangSs9cmS08IAWGNEg"
+    },
+    {
+      "added_at": "2026-04-02 13:31:38",
+      "album": {
         "name": "Dream Whales",
         "url": "https://open.spotify.com/album/2zmm83nqWpkkrFa7C8GkIh"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 121054,
       "name": "Lamenting Whales 2",
       "url": "https://open.spotify.com/track/0wEAlJJugzCzf8BqDusm9H"
+    },
+    {
+      "added_at": "2026-04-02 13:31:38",
+      "album": {
+        "name": "Whale Sound",
+        "url": "https://open.spotify.com/album/1yslweRLL69chC57YVX6vB"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Ice",
+          "url": "https://open.spotify.com/artist/0XzyojMCU3KQJ86WLrfFLB"
+        }
+      ],
+      "duration_ms": 150312,
+      "name": "Whale Samples 3",
+      "url": "https://open.spotify.com/track/2Z7AhdadhogkWvpn37uMfL"
     },
     {
       "added_at": "2026-04-02 13:31:38",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-02 13:31:38",
       "album": {
-        "name": "Ocean Lullaby",
-        "url": "https://open.spotify.com/album/10mcUSh5uSFAUbr0UqFmax"
-      },
-      "artists": [
-        {
-          "name": "Free Willy",
-          "url": "https://open.spotify.com/artist/5vDTy6dUo96B60u7aDWkmR"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Aqua Serenade",
-      "url": "https://open.spotify.com/track/2kivwM2GwYlf7vsA5WqaLQ"
-    },
-    {
-      "added_at": "2026-04-02 13:31:38",
-      "album": {
         "name": "Whale Healing",
         "url": "https://open.spotify.com/album/7JuJVKdm8eDXTchOi3V0v8"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 165027,
       "name": "Come and Play",
       "url": "https://open.spotify.com/track/3F2d3Z7spaefmIzRfkzfuH"
+    },
+    {
+      "added_at": "2026-04-02 13:31:38",
+      "album": {
+        "name": "Ocean Lullaby",
+        "url": "https://open.spotify.com/album/10mcUSh5uSFAUbr0UqFmax"
+      },
+      "artists": [
+        {
+          "name": "Free Willy",
+          "url": "https://open.spotify.com/artist/5vDTy6dUo96B60u7aDWkmR"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Aqua Serenade",
+      "url": "https://open.spotify.com/track/2kivwM2GwYlf7vsA5WqaLQ"
     },
     {
       "added_at": "2026-04-02 13:31:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-04-02 13:31:38",
       "album": {
-        "name": "Silent Depths of Whales",
-        "url": "https://open.spotify.com/album/4veIKY0a2odUVrldEiJsTm"
-      },
-      "artists": [
-        {
-          "name": "Biolume",
-          "url": "https://open.spotify.com/artist/398RKZCqh8iuD1nKlZWTZl"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Silent Depths of Whales",
-      "url": "https://open.spotify.com/track/0nWovK3nl9wGdPJCy07hbo"
-    },
-    {
-      "added_at": "2026-04-02 13:31:38",
-      "album": {
         "name": "Whale Sounds for Sleep",
         "url": "https://open.spotify.com/album/1yTiBYnYPCpFKUVNV6gG9m"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 142769,
       "name": "Peaceful Underwater Sounds",
       "url": "https://open.spotify.com/track/3kKxYG0iEOptbjH38AKXws"
+    },
+    {
+      "added_at": "2026-04-02 13:31:38",
+      "album": {
+        "name": "Silent Depths of Whales",
+        "url": "https://open.spotify.com/album/4veIKY0a2odUVrldEiJsTm"
+      },
+      "artists": [
+        {
+          "name": "Biolume",
+          "url": "https://open.spotify.com/artist/398RKZCqh8iuD1nKlZWTZl"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Silent Depths of Whales",
+      "url": "https://open.spotify.com/track/0nWovK3nl9wGdPJCy07hbo"
     },
     {
       "added_at": "2026-04-02 13:31:38",
@@ -651,18 +651,18 @@
     {
       "added_at": "2026-04-02 13:31:38",
       "album": {
-        "name": "Whales in the Wild",
-        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
+        "name": "Binaural Whales Sound",
+        "url": "https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b"
       },
       "artists": [
         {
-          "name": "Memorable",
-          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+          "name": "Binaural Reality",
+          "url": "https://open.spotify.com/artist/32iOS2Ox6N0NgAhzbKNjIQ"
         }
       ],
-      "duration_ms": 197822,
-      "name": "Whales Singing",
-      "url": "https://open.spotify.com/track/15kTpHlXT02GbofofDh7n5"
+      "duration_ms": 205784,
+      "name": "Binaural Whales Sound 2",
+      "url": "https://open.spotify.com/track/0QQL2dGifMFHOpHRTjPuHB"
     },
     {
       "added_at": "2026-04-02 13:31:38",
@@ -683,34 +683,18 @@
     {
       "added_at": "2026-04-02 13:31:38",
       "album": {
-        "name": "Binaural Whales Sound",
-        "url": "https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b"
+        "name": "Whales in the Wild",
+        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
       },
       "artists": [
         {
-          "name": "Binaural Reality",
-          "url": "https://open.spotify.com/artist/32iOS2Ox6N0NgAhzbKNjIQ"
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
         }
       ],
-      "duration_ms": 205784,
-      "name": "Binaural Whales Sound 2",
-      "url": "https://open.spotify.com/track/0QQL2dGifMFHOpHRTjPuHB"
-    },
-    {
-      "added_at": "2026-04-02 13:31:38",
-      "album": {
-        "name": "Whale Sounds for Sleep",
-        "url": "https://open.spotify.com/album/1yTiBYnYPCpFKUVNV6gG9m"
-      },
-      "artists": [
-        {
-          "name": "Winds of Spirits",
-          "url": "https://open.spotify.com/artist/2o4Z8cAefTvOBs6BPzA3Vv"
-        }
-      ],
-      "duration_ms": 157844,
-      "name": "Whales Relaxation",
-      "url": "https://open.spotify.com/track/3CcsCkkquozro6x6H6loDi"
+      "duration_ms": 197822,
+      "name": "Whales Singing",
+      "url": "https://open.spotify.com/track/15kTpHlXT02GbofofDh7n5"
     },
     {
       "added_at": "2026-04-02 13:31:38",
@@ -727,6 +711,22 @@
       "duration_ms": 172889,
       "name": "Ocean Atmosphere",
       "url": "https://open.spotify.com/track/2gNaYeNB0U0f1YTRESqp6L"
+    },
+    {
+      "added_at": "2026-04-02 13:31:38",
+      "album": {
+        "name": "Whale Sounds for Sleep",
+        "url": "https://open.spotify.com/album/1yTiBYnYPCpFKUVNV6gG9m"
+      },
+      "artists": [
+        {
+          "name": "Winds of Spirits",
+          "url": "https://open.spotify.com/artist/2o4Z8cAefTvOBs6BPzA3Vv"
+        }
+      ],
+      "duration_ms": 157844,
+      "name": "Whales Relaxation",
+      "url": "https://open.spotify.com/track/3CcsCkkquozro6x6H6loDi"
     },
     {
       "added_at": "2026-04-02 13:31:38",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-02 13:31:38",
       "album": {
-        "name": "Meditative Whale Sounds",
-        "url": "https://open.spotify.com/album/4o37vY1ZKlLDiaTkHpkILV"
-      },
-      "artists": [
-        {
-          "name": "Sea Kelp",
-          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Meditative Whale Sounds",
-      "url": "https://open.spotify.com/track/52b92BlOi9lIAF4FIfq1hs"
-    },
-    {
-      "added_at": "2026-04-02 13:31:38",
-      "album": {
         "name": "Deep Waters",
         "url": "https://open.spotify.com/album/6WzDyDhqfNchKJ0Y1nqSGl"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 156521,
       "name": "Deep Ocean Sleep",
       "url": "https://open.spotify.com/track/2nQ4V8lzAc85CNrRZqjfD8"
+    },
+    {
+      "added_at": "2026-04-02 13:31:38",
+      "album": {
+        "name": "Meditative Whale Sounds",
+        "url": "https://open.spotify.com/album/4o37vY1ZKlLDiaTkHpkILV"
+      },
+      "artists": [
+        {
+          "name": "Sea Kelp",
+          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Meditative Whale Sounds",
+      "url": "https://open.spotify.com/track/52b92BlOi9lIAF4FIfq1hs"
     },
     {
       "added_at": "2026-04-02 13:31:38",

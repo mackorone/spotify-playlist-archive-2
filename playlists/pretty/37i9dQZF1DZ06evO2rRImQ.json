@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 205449,
+  "num_followers": 205459,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAAAhm/3HIZWrsK836uFFeVgU",
+  "snapshot_id": "aoo4AAAAAAAwS6m6gTxziN63Y2jDxsdE",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 180146,
-      "name": "Me Est\u00e1 Gustando",
-      "url": "https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo"
+      "duration_ms": 144613,
+      "name": "Pistear\u00e9",
+      "url": "https://open.spotify.com/track/0LCMFLgIISg4Mab1YL5shU"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 144613,
-      "name": "Pistear\u00e9",
-      "url": "https://open.spotify.com/track/0LCMFLgIISg4Mab1YL5shU"
+      "duration_ms": 180146,
+      "name": "Me Est\u00e1 Gustando",
+      "url": "https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivir La Vida",
-        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Vivir La Vida",
-      "url": "https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 200800,
       "name": "Esta Va Por Ti",
       "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "Vivir La Vida",
+      "url": "https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Gustos Que Me Doy",
-        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+        "name": "En Coma Inducido",
+        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 187466,
-      "name": "Ya No Tiene Caso",
-      "url": "https://open.spotify.com/track/4NSisaKfhQhg14T4T088oW"
+      "duration_ms": 159929,
+      "name": "En Coma Inducido",
+      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Coma Inducido",
-        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 159929,
-      "name": "En Coma Inducido",
-      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
+      "duration_ms": 187466,
+      "name": "Ya No Tiene Caso",
+      "url": "https://open.spotify.com/track/4NSisaKfhQhg14T4T088oW"
     },
     {
       "added_at": null,

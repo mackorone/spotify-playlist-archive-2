@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,183 likes - 190 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,190 likes - 190 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 189 | [moment of peace](https://open.spotify.com/track/0tboTvs5x79EsdRDfWE479) | [Calmist](https://open.spotify.com/artist/4d7PnhvgHGxk7I9Yve1USM) | [moment of peace](https://open.spotify.com/album/3Jbtm17QxkeIvaXC1zaL3p) | 2:23 |
 | 190 | [Still Enough](https://open.spotify.com/track/4EBGzSxfeTPWExF26DMZyi) | [Velvet Meadows](https://open.spotify.com/artist/28kFEC8QQxlRDhDXxTWYCn) | [Still Enough](https://open.spotify.com/album/3mJdHVkak7iuIG0KLCxJQi) | 2:16 |
 
-Snapshot ID: `AAAAAPjQEQZ5FGBpxvociMWyJzncPmDy`
+Snapshot ID: `AAAAADLF1a5IHTZT2olpwuQZoaRSVtKY`

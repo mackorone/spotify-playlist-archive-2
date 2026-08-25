@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: girlsweetvoiced",
-  "num_followers": 2371,
+  "num_followers": 2377,
   "original_name": "Editors' Picks: Best Canadian Songs of July",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIQsyhciy4QO14RizFn7xFWq8rHw",
+  "snapshot_id": "AAAAAFME3nX/yiOh4qdhKsKboQWw+OFx",
   "tracks": [
     {
       "added_at": "2026-07-31 15:05:53",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Moment Of Silence",
-        "url": "https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt"
-      },
-      "artists": [
-        {
-          "name": "Luna Elle",
-          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
-        }
-      ],
-      "duration_ms": 187427,
-      "name": "Moment Of Silence",
-      "url": "https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "KGB (Kill Get Back)",
         "url": "https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 133546,
       "name": "KGB (Kill Get Back)",
       "url": "https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Moment Of Silence",
+        "url": "https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "duration_ms": 187427,
+      "name": "Moment Of Silence",
+      "url": "https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Bad Timing",
-        "url": "https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA"
-      },
-      "artists": [
-        {
-          "name": "Zenesoul",
-          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
-        }
-      ],
-      "duration_ms": 256034,
-      "name": "Bad Timing",
-      "url": "https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "RaGDOLL",
         "url": "https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 204313,
       "name": "RaGDOLL",
       "url": "https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Bad Timing",
+        "url": "https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "duration_ms": 256034,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w"
     },
     {
       "added_at": "2026-07-31 15:05:53",

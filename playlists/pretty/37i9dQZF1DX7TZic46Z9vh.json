@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPM7zUatJ8MbuYnR1OySujTIjwFN",
+  "snapshot_id": "AAAAAPDSUwA/gN1crKOZJDmLPuJPRk4S",
   "tracks": [
     {
       "added_at": "2024-04-05 19:11:35",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
-      },
-      "artists": [
-        {
-          "name": "Enigma!",
-          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "The Call of the Woman (El Llamado de la Hembra)",
-      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
         "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
       },
@@ -591,18 +575,34 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Regreso al Origen",
-        "url": "https://open.spotify.com/album/64RtO5TpcdbVol35dsP4L1"
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
       },
       "artists": [
         {
-          "name": "Grupo Ciruela",
-          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+          "name": "Enigma!",
+          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
         }
       ],
-      "duration_ms": 237320,
-      "name": "Regreso al Origen",
-      "url": "https://open.spotify.com/track/2IlUZ4U52jCcE5oRebAnbK"
+      "duration_ms": 228080,
+      "name": "The Call of the Woman (El Llamado de la Hembra)",
+      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
+      },
+      "artists": [
+        {
+          "name": "Las Moskas",
+          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/64RtO5TpcdbVol35dsP4L1"
       },
       "artists": [
         {
-          "name": "Las Moskas",
-          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
         }
       ],
-      "duration_ms": 163386,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
+      "duration_ms": 237320,
+      "name": "Regreso al Origen",
+      "url": "https://open.spotify.com/track/2IlUZ4U52jCcE5oRebAnbK"
     },
     {
       "added_at": "2024-04-05 19:11:35",

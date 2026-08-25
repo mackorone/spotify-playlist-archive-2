@@ -1,33 +1,13 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 30888,
-  "original_name": "LA LLISTA DE FLAIXBAC (16/8/2026)",
+  "num_followers": 30890,
+  "original_name": "LA LLISTA DE FLAIXBAC (23/8/2026)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AABD1CoGOhb1y3Mo7nCwPyPPk4EzJCkM",
+  "snapshot_id": "AABD7Pp7u/xadGtKkfDJdQ9BsA0NPzHS",
   "tracks": [
-    {
-      "added_at": "2026-07-06 09:17:05",
-      "album": {
-        "name": "LA GRACIOSA",
-        "url": "https://open.spotify.com/album/0WijS8Oq1zVzbVCepggKgV"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 257713,
-      "name": "LA GRACIOSA",
-      "url": "https://open.spotify.com/track/0b3Bkp0UfCkNqquAUmoP5m"
-    },
     {
       "added_at": "2026-06-29 12:03:23",
       "album": {
@@ -49,6 +29,26 @@
       "url": "https://open.spotify.com/track/1wRpCDnUqqlHDkn7B128Tb"
     },
     {
+      "added_at": "2026-07-06 09:17:05",
+      "album": {
+        "name": "LA GRACIOSA",
+        "url": "https://open.spotify.com/album/0WijS8Oq1zVzbVCepggKgV"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 257713,
+      "name": "LA GRACIOSA",
+      "url": "https://open.spotify.com/track/0b3Bkp0UfCkNqquAUmoP5m"
+    },
+    {
       "added_at": "2026-07-06 09:17:01",
       "album": {
         "name": "pa ti toa <3",
@@ -67,6 +67,22 @@
       "duration_ms": 213001,
       "name": "pa ti toa <3",
       "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
+    },
+    {
+      "added_at": "2026-06-08 11:48:40",
+      "album": {
+        "name": "Segurament t'estimo",
+        "url": "https://open.spotify.com/album/3jrApK4R30iY51EFJBZ21v"
+      },
+      "artists": [
+        {
+          "name": "Els Amics De Les Arts",
+          "url": "https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2"
+        }
+      ],
+      "duration_ms": 175311,
+      "name": "Segurament t'estimo",
+      "url": "https://open.spotify.com/track/7x4x0456YjudZ4wlqZrRLd"
     },
     {
       "added_at": "2026-06-08 11:48:27",
@@ -105,22 +121,6 @@
       "url": "https://open.spotify.com/track/2kYWt6YP1M6gFCgpErIkIu"
     },
     {
-      "added_at": "2026-06-08 11:48:40",
-      "album": {
-        "name": "Segurament t'estimo",
-        "url": "https://open.spotify.com/album/3jrApK4R30iY51EFJBZ21v"
-      },
-      "artists": [
-        {
-          "name": "Els Amics De Les Arts",
-          "url": "https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2"
-        }
-      ],
-      "duration_ms": 175311,
-      "name": "Segurament t'estimo",
-      "url": "https://open.spotify.com/track/7x4x0456YjudZ4wlqZrRLd"
-    },
-    {
       "added_at": "2026-07-06 09:16:49",
       "album": {
         "name": "El ventilador",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/5MCycgUlsY56qp50wjnBte"
     },
     {
+      "added_at": "2026-07-21 09:55:13",
+      "album": {
+        "name": "Era aix\u00f2!",
+        "url": "https://open.spotify.com/album/5aEmeAtv8inEaZnb2F5DAW"
+      },
+      "artists": [
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+        }
+      ],
+      "duration_ms": 157651,
+      "name": "Era aix\u00f2!",
+      "url": "https://open.spotify.com/track/4ii7barTDoTTj1SfYWZQ02"
+    },
+    {
       "added_at": "2026-05-19 10:59:03",
       "album": {
         "name": "NI BORRACHO",
@@ -161,20 +177,28 @@
       "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
-      "added_at": "2026-07-21 09:55:13",
+      "added_at": "2026-07-21 10:10:20",
       "album": {
-        "name": "Era aix\u00f2!",
-        "url": "https://open.spotify.com/album/5aEmeAtv8inEaZnb2F5DAW"
+        "name": "Movin' To The Sun",
+        "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
       },
       "artists": [
         {
-          "name": "The Tyets",
-          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         }
       ],
-      "duration_ms": 157651,
-      "name": "Era aix\u00f2!",
-      "url": "https://open.spotify.com/track/4ii7barTDoTTj1SfYWZQ02"
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
     },
     {
       "added_at": "2026-06-22 08:32:27",
@@ -213,38 +237,6 @@
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
-      "added_at": "2026-04-13 08:31:22",
-      "album": {
-        "name": "Energia!",
-        "url": "https://open.spotify.com/album/6jyQ44hp5mFxXAdFKiYwjM"
-      },
-      "artists": [
-        {
-          "name": "Doctor Prats",
-          "url": "https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW"
-        }
-      ],
-      "duration_ms": 187992,
-      "name": "Energia!",
-      "url": "https://open.spotify.com/track/0S2ghDlCY0B4AvYDmFobeK"
-    },
-    {
-      "added_at": "2026-05-19 10:53:32",
-      "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
-    },
-    {
       "added_at": "2026-06-29 12:02:23",
       "album": {
         "name": "Vine'm a buscar",
@@ -259,86 +251,6 @@
       "duration_ms": 149226,
       "name": "Vine'm a buscar",
       "url": "https://open.spotify.com/track/1xEr1o7xL4PQfWgUOao1Kw"
-    },
-    {
-      "added_at": "2026-07-21 10:10:20",
-      "album": {
-        "name": "Movin' To The Sun",
-        "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Movin' To The Sun",
-      "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
-    },
-    {
-      "added_at": "2026-03-31 07:59:38",
-      "album": {
-        "name": "Dorayakis",
-        "url": "https://open.spotify.com/album/0ngTIQsDW6zPMOe31utsMA"
-      },
-      "artists": [
-        {
-          "name": "Flashy Ice Cream",
-          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
-        },
-        {
-          "name": "31 FAM",
-          "url": "https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Dorayakis",
-      "url": "https://open.spotify.com/track/531muL88wgzZPwqRD4eXmJ"
-    },
-    {
-      "added_at": "2026-06-01 11:30:33",
-      "album": {
-        "name": "Dracula (with JENNIE)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula (with JENNIE)",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-06-08 11:48:14",
-      "album": {
-        "name": "Des de lluny",
-        "url": "https://open.spotify.com/album/04jgOSgxG5FI35fgHjkCav"
-      },
-      "artists": [
-        {
-          "name": "Ivan Herzog",
-          "url": "https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y"
-        }
-      ],
-      "duration_ms": 174336,
-      "name": "Des de lluny",
-      "url": "https://open.spotify.com/track/2JFTbiGHVX4KuWrx0ovGn0"
     },
     {
       "added_at": "2026-06-29 12:01:45",
@@ -357,20 +269,20 @@
       "url": "https://open.spotify.com/track/6c4iTnfTMSV0GbVO5r7yTm"
     },
     {
-      "added_at": "2026-04-27 10:17:13",
+      "added_at": "2026-04-13 08:31:22",
       "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+        "name": "Energia!",
+        "url": "https://open.spotify.com/album/6jyQ44hp5mFxXAdFKiYwjM"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Doctor Prats",
+          "url": "https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW"
         }
       ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+      "duration_ms": 187992,
+      "name": "Energia!",
+      "url": "https://open.spotify.com/track/0S2ghDlCY0B4AvYDmFobeK"
     },
     {
       "added_at": "2026-08-10 07:00:26",
@@ -397,24 +309,112 @@
       "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
     },
     {
-      "added_at": "2026-05-05 15:03:06",
+      "added_at": "2026-05-19 10:53:32",
       "album": {
-        "name": "Tothom t\u00e9 ra\u00f3",
-        "url": "https://open.spotify.com/album/0FJcGAmhKdmB6DteGKxG0Q"
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
       },
       "artists": [
         {
-          "name": "Mama Dousha",
-          "url": "https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN"
-        },
-        {
-          "name": "Scotty DK",
-          "url": "https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 166893,
-      "name": "La millor gent del planeta",
-      "url": "https://open.spotify.com/track/277bBvikhaNZo2sDjOGCVG"
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-03-31 07:59:38",
+      "album": {
+        "name": "Dorayakis",
+        "url": "https://open.spotify.com/album/0ngTIQsDW6zPMOe31utsMA"
+      },
+      "artists": [
+        {
+          "name": "Flashy Ice Cream",
+          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
+        },
+        {
+          "name": "31 FAM",
+          "url": "https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Dorayakis",
+      "url": "https://open.spotify.com/track/531muL88wgzZPwqRD4eXmJ"
+    },
+    {
+      "added_at": "2026-06-08 11:48:14",
+      "album": {
+        "name": "Des de lluny",
+        "url": "https://open.spotify.com/album/04jgOSgxG5FI35fgHjkCav"
+      },
+      "artists": [
+        {
+          "name": "Ivan Herzog",
+          "url": "https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y"
+        }
+      ],
+      "duration_ms": 174336,
+      "name": "Des de lluny",
+      "url": "https://open.spotify.com/track/2JFTbiGHVX4KuWrx0ovGn0"
+    },
+    {
+      "added_at": "2026-06-01 11:30:33",
+      "album": {
+        "name": "Dracula (with JENNIE)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula (with JENNIE)",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-08-10 07:01:42",
+      "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
+    {
+      "added_at": "2026-04-27 10:17:13",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "added_at": "2026-05-26 14:01:45",
@@ -435,6 +435,42 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+    },
+    {
+      "added_at": "2026-05-05 15:03:06",
+      "album": {
+        "name": "Tothom t\u00e9 ra\u00f3",
+        "url": "https://open.spotify.com/album/0FJcGAmhKdmB6DteGKxG0Q"
+      },
+      "artists": [
+        {
+          "name": "Mama Dousha",
+          "url": "https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN"
+        },
+        {
+          "name": "Scotty DK",
+          "url": "https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "La millor gent del planeta",
+      "url": "https://open.spotify.com/track/277bBvikhaNZo2sDjOGCVG"
+    },
+    {
+      "added_at": "2026-08-10 06:59:44",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 174676,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
     },
     {
       "added_at": "2026-06-22 08:32:08",
@@ -485,22 +521,6 @@
       "url": "https://open.spotify.com/track/0nMNmyhAnUSNNJ8YjzCnWA"
     },
     {
-      "added_at": "2026-08-10 06:59:44",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 174676,
-      "name": "On My Soul",
-      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
-    },
-    {
       "added_at": "2026-02-18 11:56:13",
       "album": {
         "name": "NEXO 01. Me acuerdo de ti",
@@ -515,6 +535,22 @@
       "duration_ms": 195279,
       "name": "NEXO 01. Me acuerdo de ti",
       "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
+    },
+    {
+      "added_at": "2026-07-21 09:54:59",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "added_at": "2026-03-23 11:33:15",
@@ -541,26 +577,6 @@
       "url": "https://open.spotify.com/track/6jGPtl4cmJc9ee2S5KtjWF"
     },
     {
-      "added_at": "2026-08-10 07:01:42",
-      "album": {
-        "name": "Talk To You (ft. 54 Ultra)",
-        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
-    },
-    {
       "added_at": "2026-03-23 11:34:11",
       "album": {
         "name": "New Religion",
@@ -581,22 +597,6 @@
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
     },
     {
-      "added_at": "2026-07-21 09:54:59",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
       "added_at": "2026-02-09 10:14:15",
       "album": {
         "name": "I Just Might",
@@ -611,126 +611,6 @@
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
-      "added_at": "2026-04-27 10:10:10",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
-    },
-    {
-      "added_at": "2026-03-23 11:35:36",
-      "album": {
-        "name": "Ayer La Vi (BPA26)",
-        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Ayer La Vi (BPA26)",
-      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
-    },
-    {
-      "added_at": "2026-05-19 11:01:19",
-      "album": {
-        "name": "RUNWAY",
-        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 171010,
-      "name": "RUNWAY",
-      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
-    },
-    {
-      "added_at": "2026-04-27 10:16:51",
-      "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/7bjdddU6NFSG6V8cD00ODu"
-      },
-      "artists": [
-        {
-          "name": "Max Navarro",
-          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Inigualable",
-      "url": "https://open.spotify.com/track/4HilSPgYbcZdtR6bJDGkF8"
-    },
-    {
-      "added_at": "2026-08-10 07:02:54",
-      "album": {
-        "name": "Un altre cop",
-        "url": "https://open.spotify.com/album/2DLZMrfogypgyVPn0OOAbJ"
-      },
-      "artists": [
-        {
-          "name": "Miki N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
-        }
-      ],
-      "duration_ms": 124096,
-      "name": "Un altre cop",
-      "url": "https://open.spotify.com/track/1uVxeC2DdSbPFcwOdhYMfs"
-    },
-    {
-      "added_at": "2026-02-02 10:04:31",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2026-01-21 12:58:07",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2026-08-17 09:02:45",
@@ -765,24 +645,76 @@
       "url": "https://open.spotify.com/track/5mTdH9qtGmem11SmHYjBuS"
     },
     {
-      "added_at": "2025-12-18 12:03:41",
+      "added_at": "2026-03-23 11:35:36",
       "album": {
-        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
+        "name": "Ayer La Vi (BPA26)",
+        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
-      "duration_ms": 151805,
-      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
+      "duration_ms": 170769,
+      "name": "Ayer La Vi (BPA26)",
+      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
+    },
+    {
+      "added_at": "2026-04-27 10:10:10",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-05-19 11:01:19",
+      "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+    },
+    {
+      "added_at": "2026-08-10 07:02:54",
+      "album": {
+        "name": "Un altre cop",
+        "url": "https://open.spotify.com/album/2DLZMrfogypgyVPn0OOAbJ"
+      },
+      "artists": [
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+        }
+      ],
+      "duration_ms": 124096,
+      "name": "Un altre cop",
+      "url": "https://open.spotify.com/track/1uVxeC2DdSbPFcwOdhYMfs"
     },
     {
       "added_at": "2026-08-10 07:06:53",
@@ -805,24 +737,88 @@
       "url": "https://open.spotify.com/track/5bkZzfXgA6zMrbUiRrGAjc"
     },
     {
-      "added_at": "2026-06-15 08:39:36",
+      "added_at": "2026-02-02 10:04:31",
       "album": {
-        "name": "NO HI HA PLA B",
-        "url": "https://open.spotify.com/album/4vPkiF2AkdmAN1IrZDY5eC"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Buhos",
-          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
-        },
-        {
-          "name": "Leire Martinez",
-          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 144857,
-      "name": "NO HI HA PLA B",
-      "url": "https://open.spotify.com/track/2Fbx71bXpVKKgn0Dycz9NE"
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2026-04-27 10:16:51",
+      "album": {
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/7bjdddU6NFSG6V8cD00ODu"
+      },
+      "artists": [
+        {
+          "name": "Max Navarro",
+          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Inigualable",
+      "url": "https://open.spotify.com/track/4HilSPgYbcZdtR6bJDGkF8"
+    },
+    {
+      "added_at": "2026-08-24 09:32:00",
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
+    },
+    {
+      "added_at": "2026-01-21 12:58:07",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2025-12-18 12:03:41",
+      "album": {
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
       "added_at": "2025-12-18 11:58:28",
@@ -845,6 +841,6 @@
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (16/8/2026)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (23/8/2026)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

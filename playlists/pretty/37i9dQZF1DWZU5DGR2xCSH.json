@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1107763,
+  "num_followers": 1107644,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE3goZei5btms6hLv7Dxae/ekmLc",
+  "snapshot_id": "AAAAAGk1tEMHuoej6j6qeBsLTke2U0KO",
   "tracks": [
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Obras Cumbres",
+        "url": "https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "No Tan Distintos",
+      "url": "https://open.spotify.com/track/4dG3znpT3NJjfRRvPc77xe"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Billy Bond y la Pesada del Rock And Roll",
         "url": "https://open.spotify.com/album/7aUqnB7wm0Ak4Hh7magbIG"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 199653,
       "name": "Salgan al Sol",
       "url": "https://open.spotify.com/track/6p8mHQFj6xcNyizDj6ly0s"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Demoliendo Hoteles",
-      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
     },
     {
       "added_at": "2024-11-11 16:58:11",

@@ -7527,6 +7527,24 @@
     },
     {
       "album": {
+        "name": "Dime T\u00fa",
+        "url": "https://open.spotify.com/album/46qBIXa47mBySNtwotuyUM"
+      },
+      "artists": [
+        {
+          "name": "La Pen\u00faltima",
+          "url": "https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139312,
+      "name": "Dime T\u00fa",
+      "url": "https://open.spotify.com/track/2tE00CWlJrVIRQKJLpFZGf"
+    },
+    {
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -13380,7 +13398,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 185568,
       "name": "La noche sin ti | ASADO EN LO DE TOTE #7",
       "url": "https://open.spotify.com/track/6RZ7Jy7xb9dhesCdw9IvCh"

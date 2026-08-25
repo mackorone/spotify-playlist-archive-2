@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Aline Barros y Danny Gokey
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,587 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,629 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 7 | [No Tengas Miedo \- Versión Acústica](https://open.spotify.com/track/7eq6q36ycXThzR2d5KES0V) | [Yore](https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa) | [No Tengas Miedo \(Versión Acústica\)](https://open.spotify.com/album/0kNbWLA45GNDBBmrSRmeHM) | 3:04 |
 | 8 | [Sí, sí, pero tú no](https://open.spotify.com/track/5i0Y969PgGUQtTUntMcjg6) | [Emanuel Deliser](https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97) | [Sí, sí, pero tú no](https://open.spotify.com/album/4YwEaCJKjQgjuHGpEXWeW8) | 2:18 |
 | 9 | [Te Amaré](https://open.spotify.com/track/6nrAgrba3IuTVKii7OFHBm) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Rony Padilla](https://open.spotify.com/artist/1bzrNrmDKVJFm41AosAYDv) | [Te Amaré](https://open.spotify.com/album/6sic9NkP6FlVSQCeGOb3vB) | 3:12 |
-| 10 | [Dios no falla \- Acustico](https://open.spotify.com/track/3MtSQsU2cESeDk3ZU5RMIZ) | [Esteban Music](https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH) | [Dios no falla \(Acustico\)](https://open.spotify.com/album/7kXXieoeMmcqWJfbc6pYVf) | 2:49 |
+| 10 | [Dios no falla \- Acústico](https://open.spotify.com/track/3MtSQsU2cESeDk3ZU5RMIZ) | [Esteban Music](https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH), [Isaac Ramos](https://open.spotify.com/artist/2CM8oWpCey84yaqw4anuks) | [Dios no falla \(Acústico\)](https://open.spotify.com/album/7kXXieoeMmcqWJfbc6pYVf) | 2:49 |
 | 11 | [fotos q duelen](https://open.spotify.com/track/6SUpld3sGDM1YGDs6toroZ) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [fotos q duelen](https://open.spotify.com/album/0A1cGcqCOvllaHMgl7GQVE) | 2:26 |
 | 12 | [Con Yahweh 357](https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj) | [Lenny357](https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse), [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K) | [Con Yahweh 357](https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD) | 2:12 |
 | 13 | [Salmos 23](https://open.spotify.com/track/5pYPQZWhXryUz6p9DwosKW) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Diamnd El Cientifico](https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Reggaeton Cristiano](https://open.spotify.com/album/3KBH9NtKBHMuBeyOhdAVVd) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Todo Lo Puedo](https://open.spotify.com/track/7DkW5Sc9y3p309mszD3zQd) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Todo Lo Puedo](https://open.spotify.com/album/1M7AqQfNENuAOHoLQjeC0L) | 2:49 |
 | 100 | [Viene Alegría](https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Viene Alegría](https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow) | 2:45 |
 
-Snapshot ID: `AAAAAAgrjci/9qyRFYRlx3tr/vFv9ja7`
+Snapshot ID: `AAAAACSTdamDAGOHV1rtVfyBa5V/gudQ`

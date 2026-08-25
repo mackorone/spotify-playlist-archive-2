@@ -1,13 +1,49 @@
 {
   "description": "The official music from the Battlefield franchise",
-  "num_followers": 24103,
+  "num_followers": 24151,
   "original_name": "Battlefield Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACsgOQznqzpbNJJwsod+hMUya4NZ",
+  "snapshot_id": "AAAAAKPAdINIPBqyAxDOGOm3lgR2gtRl",
   "tracks": [
+    {
+      "added_at": "2026-08-24 16:52:39",
+      "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Harold Faltermeyer",
+          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
+        },
+        {
+          "name": "Steve Stevens",
+          "url": "https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Top Gun Anthem - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/00Y9r5SfbDdEjJhNg7laQr"
+    },
+    {
+      "added_at": "2026-08-24 16:52:39",
+      "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
+    },
     {
       "added_at": "2026-07-23 20:30:44",
       "album": {

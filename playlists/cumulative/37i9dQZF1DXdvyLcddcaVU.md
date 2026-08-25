@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,186 songs - 2 day 13 hr 24 min
+1,187 songs - 2 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Allez retour](https://open.spotify.com/track/0s98n6udKCwZCvP2onZnI1) | [BAGITO](https://open.spotify.com/artist/0guxhzoPYZ1HLnj0fdg0ga), [Scott](https://open.spotify.com/artist/0ufEUSNUPIOULZSMS2otl1) | [Premiere Offense](https://open.spotify.com/album/2Y1YgTwgrB1KnZ9higRBE0) | 2:51 | 2026-01-16 | 2026-02-07 |
 | [Allo](https://open.spotify.com/track/3IWsDAFAwPNVnnTeQyUj7w) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Allo](https://open.spotify.com/album/7ylMn46R4HGKkOhmjCuFhx) | 3:06 | 2023-03-24 | 2023-08-05 |
 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2023-11-17 | 2024-01-20 |
+| [Allo Doudou](https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Allo Doudou](https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U) | 2:50 | 2026-08-24 |  |
 | [Aloha](https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Merryn Jeann](https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT) | [Panorama](https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r) | 3:38 | 2025-06-27 | 2025-09-20 |
 | [Alpha](https://open.spotify.com/track/2dVDbbS9W6n6YY80R4aJdZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Alpha](https://open.spotify.com/album/6UvEQv66MXQooh2lUDYiMw) | 2:48 | 2024-12-06 | 2025-06-07 |
 | [Alright](https://open.spotify.com/track/44ahv3Zj4FOJoy8gJLZF9B) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Souldier](https://open.spotify.com/album/1qlfzN8ITUS58EU0T7PAWX) | 3:42 | 2024-09-27 | 2024-11-09 |
@@ -892,7 +893,7 @@
 | [Pour un pote \- Bande originale du film "Brice 3"](https://open.spotify.com/track/38sc2aKVyDG77l7kv6zBDZ) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs), [Jean Dujardin](https://open.spotify.com/artist/1SNXHU6Ra98YVdhuoZC5FM) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 4:52 | 2024-03-29 | 2024-04-20 |
 | [Pourtant](https://open.spotify.com/track/47wyFDQKlZ4ycYTHYqOelQ) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/0IBVzjJxYn6o69T4FfXMLi) | 3:11 | 2023-10-20 | 2024-03-02 |
 | [Pourvu Qu'Elles M'Aiment](https://open.spotify.com/track/6Hr8Ek8a7r0aIdybhEx2T2) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:00 | 2023-07-21 | 2024-01-03 |
-| [Pow Pow / Allo Doudou](https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Pow Pow / Allo Doudou](https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB) | 3:39 | 2026-08-19 |  |
+| [Pow Pow / Allo Doudou](https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Pow Pow / Allo Doudou](https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB) | 3:39 | 2026-08-19 | 2026-08-25 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-01-26 | 2024-06-01 |
 | [Predador de Perereca](https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v) | [BLOW RECORDS](https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca](https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM) | 3:06 | 2025-09-26 | 2025-10-04 |
 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 | 2025-05-22 | 2025-06-21 |

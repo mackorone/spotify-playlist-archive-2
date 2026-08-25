@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,646 likes - 94 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,656 likes - 94 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WWE: Acknowledge Me \(Roman Reigns\)](https://open.spotify.com/track/53AFODDfkGCdrKCUt00BUP) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Acknowledge Me \(Roman Reigns\)](https://open.spotify.com/album/0lzC5VxkJoRymSLYc4jvw4) | 4:10 |
 | 2 | [WWE: Demon In Your Dreams \(Rhea Ripley\) \[feat\. Motionless In White\]](https://open.spotify.com/track/3fipbHYZTVsHT0gucFe1Xi) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [WWE: Demon In Your Dreams \(Rhea Ripley\) \[feat\. Motionless In White\]](https://open.spotify.com/album/2JE9mts5wJjxhasArqkEw8) | 2:21 |
-| 3 | [Cult of Personality \(Remastered 2023\)](https://open.spotify.com/track/5gRUFpRflutZDXSmp2rv32) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Cult of Personality \(Remastered 2023\)](https://open.spotify.com/album/5mIvL5y70jIqMoWwmnZ8KL) | 4:57 |
+| 3 | [Cult of Personality \- Remastered 2023](https://open.spotify.com/track/5gRUFpRflutZDXSmp2rv32) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Cult of Personality \(Remastered 2023\)](https://open.spotify.com/album/5mIvL5y70jIqMoWwmnZ8KL) | 4:57 |
 | 4 | [WWE: Trouble \(Liv Morgan\)](https://open.spotify.com/track/2eJqBALWKjMETUXb6sviic) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Trouble \(Liv Morgan\)](https://open.spotify.com/album/35SCRke1wEbX7AA4dFWMF7) | 2:29 |
 | 5 | [Kingdom](https://open.spotify.com/track/3gILDObZFV7LD5pmjSr9zo) | [Downstait](https://open.spotify.com/artist/4g6EnIPhmYBTZ7vsmxDkxH) | [Kingdom](https://open.spotify.com/album/0x4hB9vx14nmKhnI3br9wh) | 3:30 |
 | 6 | [WWE: A Storm Is Coming \(Jade Cargill\)](https://open.spotify.com/track/1hXtTWyXxHO9xJjb8npz93) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: A Storm Is Coming \(Jade Cargill\)](https://open.spotify.com/album/3K5exnGoaL4UqOTbcaTIOJ) | 3:14 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 | 93 | [WWE: Feel the Power \(Big E\)](https://open.spotify.com/track/0qHls5hkIs5jqVlKZuRvy3) | [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7) | [WWE: Feel the Power \(Big E\)](https://open.spotify.com/album/3SjD5DmlEwdCWR4CQORMGB) | 2:14 |
 | 94 | [WWE: I Won't Do What You Tell Me \(Stone Cold Steve Austin\) \[Original Theme\]](https://open.spotify.com/track/4vHR7NYZh2wbQ6jLlC0wdH) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Jim Johnston](https://open.spotify.com/artist/6irRU9KRGb0cMtlsBZMg2i) | [WWE: Stone Cold Steve Austin \(The Entrance Music\)](https://open.spotify.com/album/6G3gBUvVjaWTJXjYBln3K0) | 3:03 |
 
-Snapshot ID: `AAAAAGFwyl9NX0PSv4IpT991opPt8/fq`
+Snapshot ID: `AAAAAMYhNIfydrzsxG4zZBf5hoPrC+t1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,319 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,311 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [winter's excuse](https://open.spotify.com/track/6psC5fIFB5JXTOdw01ghOj) | [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [winter's excuse](https://open.spotify.com/album/7idz6eKECr06U892s0lwek) | 3:29 |
 | 100 | [Sweet Satin Boy](https://open.spotify.com/track/2XRieO4EqaCRzUIxvbQfdZ) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [Sweet Satin Boy](https://open.spotify.com/album/30JilV14nAFQI9TyL8Tlka) | 3:05 |
 
-Snapshot ID: `AAAAAPaWHNOWmpwyky6KksOtOiHh/zXU`
+Snapshot ID: `AAAAAOSuP8EDjkL0zoYWS+TlUMpltxFK`

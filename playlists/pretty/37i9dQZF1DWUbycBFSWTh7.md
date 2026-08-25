@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove with a selection of new underground deep house
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,625 likes - 145 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,635 likes - 145 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 121 | [So Seductive](https://open.spotify.com/track/7zozi3j9zUbvv37jnSe57D) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [To Ricciardi](https://open.spotify.com/artist/5F6WA0nohXFShdM6XlRBw7) | [So Seductive EP](https://open.spotify.com/album/2ZKMPn87SgPjAZTtwm8nDc) | 3:22 |
 | 122 | [Move It Up \- Original Mix](https://open.spotify.com/track/7CsYDuQ3bJj9Bdk9QtWXLg) | [DJ Romain](https://open.spotify.com/artist/4wFXtrXI9ZLILb0K3uOh2z) | [Move It Up](https://open.spotify.com/album/06kHaeie7vyYUKZK0rNOhB) | 5:40 |
 | 123 | [Untitled](https://open.spotify.com/track/25VM9OwLL4g2EoyXLsaMY8) | [nthng](https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO) | [Nothing Unprofessional](https://open.spotify.com/album/3D2MdX9SSMoMGGu4qitgmV) | 6:55 |
-| 124 | [Loss \(Mr\. G's Raw Dub\)](https://open.spotify.com/track/6yVOkK6DWRZ8GEqdMKT1gH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [SCB](https://open.spotify.com/artist/7wXzAJOG2A0jtJXh5VucxT), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Loss \(Mr\. G's Raw Dub\)](https://open.spotify.com/album/3KIyMbsvumiVKXUNCMQvQ3) | 5:46 |
+| 124 | [Loss \- Mr\. G's Raw Dub](https://open.spotify.com/track/6yVOkK6DWRZ8GEqdMKT1gH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [SCB](https://open.spotify.com/artist/7wXzAJOG2A0jtJXh5VucxT), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [Loss \(Mr\. G's Raw Dub\)](https://open.spotify.com/album/3KIyMbsvumiVKXUNCMQvQ3) | 5:46 |
 | 125 | [Lost in Loops](https://open.spotify.com/track/5yScrYlwTZFbs7vu6DHQF0) | [Beraber](https://open.spotify.com/artist/1cD9tbKLNxATeTNNBpDDAx) | [Gentle Actions](https://open.spotify.com/album/1c5zRd2dU1RKOkqEZFsvfs) | 5:04 |
 | 126 | [Basic Foundation](https://open.spotify.com/track/0lpTezzSBtSIrN0vKwvAIE) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Careless Drifter / Basic Foundation](https://open.spotify.com/album/5NgWWSu3TqUs2dfbIOtx10) | 6:32 |
 | 127 | [Seven Mile \(feat\. Moodymann\) \- Dennis Quin Remix Short Edit](https://open.spotify.com/track/7rqW8ZLgibbBIyhhyraSVt) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Seven Mile \(feat\. Moodymann\) \[Remixes\]](https://open.spotify.com/album/6i5rReIhtBSpJgbOxD3DqG) | 3:26 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 144 | [Silky, Buttery, Smooth](https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Silky, Buttery, Smooth](https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ) | 3:04 |
 | 145 | [If I Could](https://open.spotify.com/track/41iOaljQRzb0sQ20Yrqv2S) | [Paul Hawkins](https://open.spotify.com/artist/2yWzNcBbN6nFlT0WleVvSc), [Carl Price](https://open.spotify.com/artist/3QxkM0517OcqWykLkQaTw4) | [If I Could EP](https://open.spotify.com/album/6XxDhO6UM6x1pAI5NAC2qG) | 5:37 |
 
-Snapshot ID: `AAAAAND4ohkda61sXrO7a8U81Ed8yDuG`
+Snapshot ID: `AAAAABe2Ydipu56Lg/gF1nhcKz+v/jOh`

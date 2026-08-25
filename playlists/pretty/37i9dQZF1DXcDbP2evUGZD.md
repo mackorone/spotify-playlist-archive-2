@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2026</a>! Meet them first at the MU:CON 2026 official playlist\. \(뮤콘 2026 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,648 likes - 123 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,652 likes - 123 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [YOUR SCENT](https://open.spotify.com/track/4SXl8SyaRL9n5TwRCw4lBs) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [YOUR SCENT \(20th Anniversary of the Korean Wave Pt.8\)](https://open.spotify.com/album/5Bsu9N0gTqI9YrtH1NXwaI) | 3:16 |
 | 123 | [UFO \(ATTENT!ON\)](https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [&Our Vibe](https://open.spotify.com/album/52f4wYBg1SDSaMMwZ5u3OF) | 2:39 |
 
-Snapshot ID: `AAAAAN4fNcj+BWt6X5HH0CJ3JEdHzQoH`
+Snapshot ID: `AAAAAFHdXNtj9QS/cPM4aKA9CqmFG95x`

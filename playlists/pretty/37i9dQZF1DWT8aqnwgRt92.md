@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,088 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,067 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [BURNING GOLD](https://open.spotify.com/track/1jE6DU7txBjWgsYC6TUXLW) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [twice upon a time](https://open.spotify.com/album/4Cds0e3SueZskz3N2sm4Uy) | 3:02 |
 | 100 | [くつずれ](https://open.spotify.com/track/7GKnUaCSps9im9sZRUbM66) | [ハチワレ（CV.田中誠人）](https://open.spotify.com/artist/22WLGArDVTIq1DKE6ScSP5) | [『映画ちいかわ 人魚の島のひみつ』オリジナル・サウンドトラック Part1](https://open.spotify.com/album/7xx5V6cnXjC9CNcpbdBQpm) | 3:00 |
 
-Snapshot ID: `AAAAAMG0fN9lXC2cKriwp2kvPabWFlYg`
+Snapshot ID: `AAAAAMeZAJe2AP70lK6UUSWdL6UU2u2h`

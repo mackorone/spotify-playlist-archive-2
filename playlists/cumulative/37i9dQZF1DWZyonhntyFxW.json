@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0641\u0631\u0648\u062a\u0648",
+  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0634\u0627\u0647\u064a\u0646\u060c \u062f\u0628\u0644 \u0632\u0648\u0643\u0634\u060c \u0643\u0648\u0644 \u0628\u064a\u0643\u0633",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -876,7 +876,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 147500,
       "name": "AHMED RAMZY",
       "url": "https://open.spotify.com/track/0RrBLm06KzwLREkyXXlgzo"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 191986,
       "name": "BLEEDIN'",
       "url": "https://open.spotify.com/track/6GOtWLa27cE7Os0FddS4Xl"
@@ -2102,6 +2102,28 @@
       "duration_ms": 134511,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/49b5PKQTRiFp6fJq0idjB8"
+    },
+    {
+      "album": {
+        "name": "Taltesh",
+        "url": "https://open.spotify.com/album/6aMnPHAhk61cqirNCy6pGi"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        },
+        {
+          "name": "Coolpix",
+          "url": "https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139726,
+      "name": "CEO",
+      "url": "https://open.spotify.com/track/6IsX1rs9rcMd3wv93o6qfG"
     },
     {
       "album": {
@@ -2444,7 +2466,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 207360,
       "name": "Do",
       "url": "https://open.spotify.com/track/59548fTGuQyKSryFEOCnON"
@@ -5969,6 +5991,32 @@
     },
     {
       "album": {
+        "name": "Taltesh",
+        "url": "https://open.spotify.com/album/6aMnPHAhk61cqirNCy6pGi"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        },
+        {
+          "name": "Coolpix",
+          "url": "https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ"
+        },
+        {
+          "name": "Double Zuksh",
+          "url": "https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0q5gVDlv82GXQaHVjsujlC"
+    },
+    {
+      "album": {
         "name": "Mossadas Soot",
         "url": "https://open.spotify.com/album/5IYYgEosDioBGkYpaJ86PQ"
       },
@@ -6114,6 +6162,28 @@
       "duration_ms": 168000,
       "name": "Msh True",
       "url": "https://open.spotify.com/track/77HrEBy6qY1rRPrUw9OlzZ"
+    },
+    {
+      "album": {
+        "name": "Nane \u0646\u0639\u0646\u0627\u0639",
+        "url": "https://open.spotify.com/album/41YXRUqslAGIGx9gEPlXds"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164644,
+      "name": "Nane \u0646\u0639\u0646\u0627\u0639",
+      "url": "https://open.spotify.com/track/3juSoiFBZhI9vT7l34hpNS"
     },
     {
       "album": {
@@ -7684,6 +7754,28 @@
       "duration_ms": 208135,
       "name": "Taw3ya",
       "url": "https://open.spotify.com/track/6wMQp7F7B09atuwvrqR9gC"
+    },
+    {
+      "album": {
+        "name": "Tawahin",
+        "url": "https://open.spotify.com/album/03qf9rLrn0pFmghIBG5os0"
+      },
+      "artists": [
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168536,
+      "name": "Tawahin",
+      "url": "https://open.spotify.com/track/4zH77fwKdCc8dZCdNxQsbS"
     },
     {
       "album": {

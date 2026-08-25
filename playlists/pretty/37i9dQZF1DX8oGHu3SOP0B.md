@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [ตัวเลือก=ฉัน \(option\)](https://open.spotify.com/track/3foSLRZfeWObI1yiH6fb9x) | [MOFO](https://open.spotify.com/artist/62bRgpDlI2vIiK5AUh6RKP) | [ตัวเลือก=ฉัน \(option\)](https://open.spotify.com/album/6fh9X8CF25ja1PS6Zhvt3Q) | 3:50 |
 | 50 | [Girlfriend](https://open.spotify.com/track/00velRJvhabjlxUAmmWptg) | [MADELN](https://open.spotify.com/artist/5ApNtcmlfHITwpgMDyKRsF) | [Girlfriend](https://open.spotify.com/album/2wh5EKH25HVNc28pUQodNw) | 3:12 |
 
-Snapshot ID: `AAAAACTbjqZN39ZNTpb71DpXzudSW2kW`
+Snapshot ID: `AAAAAHTNsRmWmA4uM4EbcySVPOFW3MyQ`

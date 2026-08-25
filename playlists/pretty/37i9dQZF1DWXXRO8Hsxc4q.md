@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXRO8Hsxc4q.md) - [plain]
 
 > Create new habits in the new year with gentle Ambient meditations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,961 likes - 120 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,048 likes - 120 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXRO8Hsxc4q.md) - [plain]
 | 119 | [Neural Cloud](https://open.spotify.com/track/1PLJILCaR8acauvJFNJouM) | [Digitalis](https://open.spotify.com/artist/0dxuNGL2sY3z2qXzZ69ki2) | [Neural Cloud](https://open.spotify.com/album/6p9aZ6HAdEGJom70KHrsOC) | 2:46 |
 | 120 | [Significance](https://open.spotify.com/track/5GMHaE1YHEU3my5xZBNduE) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Significance](https://open.spotify.com/album/273lakU830IgJxsqvZye6d) | 2:34 |
 
-Snapshot ID: `AAAAAAKX2mbbAWnrPKQjywaMz3sb6d3A`
+Snapshot ID: `AAAAAPZuj9LZleic+VN9gaRNwDWKY2N/`

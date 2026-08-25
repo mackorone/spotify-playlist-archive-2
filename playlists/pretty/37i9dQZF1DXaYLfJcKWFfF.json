@@ -1,12 +1,12 @@
 {
   "description": "Alternative / Indie / Folk cuts from Africa and diaspora to dive into. Cover: Mishy Kope",
-  "num_followers": 3044,
+  "num_followers": 3062,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAARPyyMLDED9Z12bSn3QFS7X0FdS",
+  "snapshot_id": "AAAAAE7lVA2CaQVBZpLh/GVfStGwA3QA",
   "tracks": [
     {
       "added_at": "2026-08-07 02:00:02",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Sinatanale",
-        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
-        },
-        {
-          "name": "TSIE",
-          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
-        }
-      ],
-      "duration_ms": 214956,
-      "name": "Sinatanale",
-      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
         "name": "showmetheway !!",
         "url": "https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 140800,
       "name": "showmetheway !!",
       "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
+        "name": "Sinatanale",
+        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
+        }
+      ],
+      "duration_ms": 214956,
+      "name": "Sinatanale",
+      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
+        "name": "Pour Some More",
+        "url": "https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF"
+      },
+      "artists": [
+        {
+          "name": "Yas Mayou",
+          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
+        }
+      ],
+      "duration_ms": 207455,
+      "name": "Pour Some More",
+      "url": "https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 236080,
       "name": "Faya",
       "url": "https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
-        "name": "Pour Some More",
-        "url": "https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF"
-      },
-      "artists": [
-        {
-          "name": "Yas Mayou",
-          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
-        }
-      ],
-      "duration_ms": 207455,
-      "name": "Pour Some More",
-      "url": "https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 193477,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE"
-    },
-    {
-      "added_at": "2026-08-07 02:00:02",
-      "album": {
         "name": "UNGOWAM",
         "url": "https://open.spotify.com/album/02pEPun8I1XhMp8RvMXVBK"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 193125,
       "name": "UNGOWAM",
       "url": "https://open.spotify.com/track/06iPJ5s9KJ5oGmEFdiKvk9"
+    },
+    {
+      "added_at": "2026-08-07 02:00:02",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 193477,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Zama",
-        "url": "https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh"
+        "name": "Yalwa",
+        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
         }
       ],
-      "duration_ms": 263493,
-      "name": "Zama",
-      "url": "https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE"
+      "duration_ms": 154333,
+      "name": "Yalwa",
+      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
     },
     {
       "added_at": "2026-08-07 02:00:02",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2026-08-07 02:00:02",
       "album": {
-        "name": "Yalwa",
-        "url": "https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO"
+        "name": "Zama",
+        "url": "https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
         }
       ],
-      "duration_ms": 154333,
-      "name": "Yalwa",
-      "url": "https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR"
+      "duration_ms": 263493,
+      "name": "Zama",
+      "url": "https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE"
     }
   ],
   "unique_name": "Afro Indie",

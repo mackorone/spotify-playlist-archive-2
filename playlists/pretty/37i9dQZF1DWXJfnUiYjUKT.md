@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Sam Smith on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,451 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,449 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Dystopian Cemetery](https://open.spotify.com/track/07ajsPPcaQIS6fjF1md3ao) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Dystopian Cemetery](https://open.spotify.com/album/38oiY96BAkseRfcI6UG4Y5) | 3:47 |
 | 100 | [WANNABE](https://open.spotify.com/track/59ZtFO8uChtboZ5bQvfaqF) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [Wear & Tear](https://open.spotify.com/album/5gnyVjuKWSqMcSkjItty9x) | 3:32 |
 
-Snapshot ID: `AAAAAMWMk/K8U3qLEW3H1/NY/a74iz5C`
+Snapshot ID: `AAAAAOQRAXFFP0KVYIEriAuwxIluKj8w`

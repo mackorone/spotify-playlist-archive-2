@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,805 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,818 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [Let Me Hold You Again Tonight](https://open.spotify.com/track/1k77BfbL9jwRXC4O9LEmx2) | [原田真二 & クライシス](https://open.spotify.com/artist/2OzKnHAV9H54abcIaIJAoa) | [原田真二GOLDEN☆BEST Legendary Hits 80's](https://open.spotify.com/album/4k2ZzNZ0koeUw4rXzMjwdO) | 4:43 |
 | 50 | [タワー・サイド・メモリー](https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [昨晩お会いしましょう](https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4) | 3:06 |
 
-Snapshot ID: `AAAAAL3KBl86EK7QOWUl5vE1XWhWve9b`
+Snapshot ID: `AAAAALuvbB0eP69Fs6rynOCQpmJT3Kwy`

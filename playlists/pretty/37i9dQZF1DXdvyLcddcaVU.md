@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,249 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,316 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 14 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
 | 15 | [Le taf du loup](https://open.spotify.com/track/2kp4i1IJXmmPcanUa6ncU6) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [Le taf du loup](https://open.spotify.com/album/17qj9fSKiQmV4lTyVZKvwM) | 2:58 |
 | 16 | [Ε\. Signaler](https://open.spotify.com/track/0z0izoGFPCoPJKFi41azyb) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:21 |
-| 17 | [Pow Pow / Allo Doudou](https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Pow Pow / Allo Doudou](https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB) | 3:39 |
+| 17 | [Allo Doudou](https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Allo Doudou](https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U) | 2:50 |
 | 18 | [Sicario](https://open.spotify.com/track/7CQW2QMr6WGaksSqn5Y4Lf) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Sicario](https://open.spotify.com/album/0SoqqGHxdSJpNf7MNNE1Fq) | 2:29 |
 | 19 | [Mopao aye](https://open.spotify.com/track/0YjcIRiArrvDYyZz3YUegi) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 3:18 |
 | 20 | [Goût De Miel 2](https://open.spotify.com/track/0TWwxhAMGfAJuoVsnkT07b) | [Jody](https://open.spotify.com/artist/2i7Y7lGQ020QnacSnCjOdK) | [Seul en été](https://open.spotify.com/album/6W2JZJb62dUket2bSmHzs9) | 2:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 69 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 |
 | 70 | [Papillon](https://open.spotify.com/track/65aoWADtWi6jDs2iP3vCPc) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw), [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [Papillon](https://open.spotify.com/album/4gLpcoXUoPHlFP7FGscEg9) | 2:26 |
 
-Snapshot ID: `AAAAABnv+2NNF0L/xE2YO4LiIXZf3COP`
+Snapshot ID: `AAAAAJLFku15kYoj9jheWFZ4gFsNI3xU`

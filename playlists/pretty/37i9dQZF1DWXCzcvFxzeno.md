@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,896 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,262 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 28 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 |
 | 29 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 |
 | 30 | [Endless Dance](https://open.spotify.com/track/0533WxWr8MQPiMoc9pXwxA) | [O‑NINEEIGHT](https://open.spotify.com/artist/07B2wRwMbnJLWUhjTFSpve), [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Endless Dance EP](https://open.spotify.com/album/4UrgbHvuCZ9zm5Kwm9BV7m) | 2:36 |
-| 31 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
+| 31 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 |
 | 32 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 |
 | 33 | [WTF?](https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [WTF?](https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5) | 3:42 |
 | 34 | [BLOW IT UP](https://open.spotify.com/track/3vqRYeWGfQli1HlRKgsrSA) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [BLOW IT UP](https://open.spotify.com/album/5hwnKzCJXnIFdvbrziT6si) | 2:38 |
 | 35 | [Action](https://open.spotify.com/track/5BWCKHfQvqFISwyynSaD1P) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Action](https://open.spotify.com/album/76peazkhZj5eNDTTAQyyU4) | 3:18 |
-| 36 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 |
+| 36 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
 | 37 | [Weltschmerz](https://open.spotify.com/track/5dV8v9sGqh0qt4eGdoJzKg) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Weltschmerz](https://open.spotify.com/album/3YCwoebRDXZBEf5ZfnoNb3) | 6:24 |
 | 38 | [SCHREI NACH LIEBE](https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw) | [Michael Klotz](https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh) | [SCHREI NACH LIEBE](https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu) | 2:29 |
 | 39 | [Get High](https://open.spotify.com/track/3cCaThaCDh36KtTR64QWrv) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Get High](https://open.spotify.com/album/1inNSojfp9GpD1UjNsQqSP) | 2:26 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 58 | [2 LOUD](https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [2 LOUD](https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9) | 5:03 |
 | 59 | [One Reason](https://open.spotify.com/track/2NYA4tspSM9YuGMwY7KElC) | [THOMM](https://open.spotify.com/artist/5dYTI0a9mTwRdRD4IWZh7L), [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [One Reason](https://open.spotify.com/album/0g9RmIKOLej4A9IkiRgeIg) | 3:17 |
 | 60 | [Human Attraction](https://open.spotify.com/track/32d7VRKwo03sQZXnaMobQa) | [Mattia Trani](https://open.spotify.com/artist/0eQjVfBtEcSZ16oAq0V4mk) | [Human Attraction](https://open.spotify.com/album/4NCWOMEJF8EW83pbBAe20C) | 3:13 |
-| 61 | [Overdose](https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Overdose](https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT) | 2:51 |
+| 61 | [HEAR THIZ MF](https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [HEAR THIZ MF](https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX) | 2:23 |
 | 62 | [4 Da Ravers](https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [4 Da Ravers](https://open.spotify.com/album/7rFjECStShUcE157PCp9z8) | 2:33 |
-| 63 | [HEAR THIZ MF](https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [HEAR THIZ MF](https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX) | 2:23 |
+| 63 | [Overdose](https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Overdose](https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT) | 2:51 |
 | 64 | [DANCE NOW](https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [DANCE NOW](https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr) | 4:00 |
 | 65 | [MOVE](https://open.spotify.com/track/4BIygQShBWiPBdGAXt5TBp) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw) | [MOVE](https://open.spotify.com/album/6IqKIMMASEDxZuMkPQyQkg) | 2:42 |
 | 66 | [Purple Widow](https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Purple Widow \(Original & Remix Versions\)](https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At) | 6:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 99 | [Medication](https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm) | [DØMINA](https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD) | [Medication](https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL) | 3:58 |
 | 100 | [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 |
 
-Snapshot ID: `AAAAALyGFllezQqca1eM+SBM3Ze6JlfK`
+Snapshot ID: `AAAAALF++tSwS638Ug9qNocOO4TyBgxM`

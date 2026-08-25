@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Itlu Arjuna
 
-458 songs - 1 day 5 hr 30 min
+459 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Darsanamey \(From "Nari Nari Naduma Murari"\)](https://open.spotify.com/track/60puehJxKv05JPITtHLvAc) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Darsanamey \(From "Nari Nari Naduma Murari"\)](https://open.spotify.com/album/3Fa85cAkVuB6nc1yWAyAUA) | 4:01 | 2025-04-16 | 2026-01-29 |
 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 | 2023-01-30 | 2023-11-07 |
 | [Dhada Dhada](https://open.spotify.com/track/2AvlqNNJdRrfRhS9GoaL48) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [The Warriorr](https://open.spotify.com/album/5YHLMRNyLqmIMF6z0FUdsQ) | 4:06 | 2022-06-04 | 2023-02-21 |
+| [Dheem Tha Dhirana \(From "Jagamae Sangeetham"\)](https://open.spotify.com/track/3KXVnullvdfGoCOuwafSwW) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [RR Dhruvan](https://open.spotify.com/artist/0u8CV5hMxYiKctbYRZy1aW), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Dheem Tha Dhirana \(From "Jagamae Sangeetham"\)](https://open.spotify.com/album/2WrGWGZEmLSysz4IkpXCQ7) | 3:44 | 2026-08-24 |  |
 | [Dheemthanana](https://open.spotify.com/track/3dPHu4WuOSn3zw4udpBBNv) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1CYUy4WQ2yXvt7OV0ANIbs) | 3:39 | 2022-10-10 | 2023-04-25 |
 | [Dheere Dheere \(From "Her Chapter 1"\)](https://open.spotify.com/track/2XDhRAhefcbPgavlGZq5hW) | [Akanksha Bisht](https://open.spotify.com/artist/7hVfqYdQ9vPCD8VEGxs2EZ), [Pavan](https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp), [Mahesh \(Lyricist\)](https://open.spotify.com/artist/5NNYbJA0irrbbxgram8Q1f) | [Dheere Dheere \(From "Her Chapter 1"\)](https://open.spotify.com/album/6CpP03enfuLSIh8Lx7CCbw) | 3:55 | 2023-07-03 | 2023-07-22 |
 | [Dhochaave Nanne \(From "Premante"\)](https://open.spotify.com/track/1T66KUOewj4WoG91CBfFFH) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Shree Mani](https://open.spotify.com/artist/5DBt33WIllF4C75q0WqqoL) | [Dhochaave Nanne \(From "Premante"\)](https://open.spotify.com/album/3qZ69MZPHVoWr6NbZs28da) | 3:32 | 2025-10-09 | 2026-03-14 |

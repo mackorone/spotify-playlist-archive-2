@@ -1,13 +1,29 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: P'tit Beliveau x kinji00",
-  "num_followers": 70649,
+  "num_followers": 70659,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADrXXSdOp5vskhNrV5KEncDS6RQG",
+  "snapshot_id": "AAAAAPNbuRbnfPqxS9Z3goNsXfcJuGi1",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
+        "name": "Prendre soin du beau",
+        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
+      },
+      "artists": [
+        {
+          "name": "Jessica Charlie",
+          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Prendre soin du beau",
+      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
+    },
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
@@ -75,22 +91,6 @@
       "duration_ms": 223134,
       "name": "Amour \u00e9cran",
       "url": "https://open.spotify.com/track/754XP3sRRI7DXaSC75ROxN"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
-        "name": "Prendre soin du beau",
-        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
-      },
-      "artists": [
-        {
-          "name": "Jessica Charlie",
-          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Prendre soin du beau",
-      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Rat Race",
-        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 190808,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
         "name": "Voz de mi vida",
         "url": "https://open.spotify.com/album/2s7tiJxU39CIoTA8jnmgKt"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 216080,
       "name": "Voz de mi vida",
       "url": "https://open.spotify.com/track/6szdFD6E3qZorOiVV5bhKk"
+    },
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 190808,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "we were fire",
-        "url": "https://open.spotify.com/album/6RFN9IU19eOFxTFE2RKJgb"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Collin",
-          "url": "https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "we were fire",
-      "url": "https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
         "name": "Something More",
         "url": "https://open.spotify.com/album/09TCXjNpzMmadwJdLw0x3w"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 235768,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF"
+    },
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
+        "name": "we were fire",
+        "url": "https://open.spotify.com/album/6RFN9IU19eOFxTFE2RKJgb"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Collin",
+          "url": "https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "we were fire",
+      "url": "https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "L'amour enterr\u00e9 vivant",
-        "url": "https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb"
+        "name": "Conversation dans le noir",
+        "url": "https://open.spotify.com/album/2LlFePY2ffrJGGVom2wq4V"
       },
       "artists": [
         {
-          "name": "La Bronze",
-          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
         }
       ],
-      "duration_ms": 134800,
-      "name": "L'amour enterr\u00e9 vivant",
-      "url": "https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK"
+      "duration_ms": 230613,
+      "name": "Conversation dans le noir",
+      "url": "https://open.spotify.com/track/1lKVk8XbAK4NPbyL6Z6Lux"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Conversation dans le noir",
-        "url": "https://open.spotify.com/album/2LlFePY2ffrJGGVom2wq4V"
+        "name": "L'amour enterr\u00e9 vivant",
+        "url": "https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb"
       },
       "artists": [
         {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
         }
       ],
-      "duration_ms": 230613,
-      "name": "Conversation dans le noir",
-      "url": "https://open.spotify.com/track/1lKVk8XbAK4NPbyL6Z6Lux"
+      "duration_ms": 134800,
+      "name": "L'amour enterr\u00e9 vivant",
+      "url": "https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -943,18 +943,22 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Ma Chance",
-        "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
+        "name": "Si les bateaux",
+        "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
       },
       "artists": [
         {
-          "name": "A Girl Named Sue",
-          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
+          "name": "Gilles Vigneault",
+          "url": "https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Ma Chance",
-      "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
+      "duration_ms": 193493,
+      "name": "Si les bateaux",
+      "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -975,18 +979,18 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Isabella",
-        "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
+        "name": "Ma Chance",
+        "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
       },
       "artists": [
         {
-          "name": "Violette & Jordan",
-          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
+          "name": "A Girl Named Sue",
+          "url": "https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ"
         }
       ],
-      "duration_ms": 248366,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
+      "duration_ms": 167500,
+      "name": "Ma Chance",
+      "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -1003,6 +1007,22 @@
       "duration_ms": 134213,
       "name": "Qu'est-ce que je viens faire ici ?",
       "url": "https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R"
+    },
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
+        "name": "Isabella",
+        "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
+      },
+      "artists": [
+        {
+          "name": "Violette & Jordan",
+          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
+        }
+      ],
+      "duration_ms": 248366,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -1051,26 +1071,6 @@
       "duration_ms": 228786,
       "name": "Todas mis amigas",
       "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
-        "name": "Si les bateaux",
-        "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gilles Vigneault",
-          "url": "https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F"
-        },
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Si les bateaux",
-      "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Sad Songs for Grieving",
-        "url": "https://open.spotify.com/album/4HxwCfvEAyY1twUkq9MjF8"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 217351,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q"
-    },
-    {
-      "added_at": "2026-08-21 04:03:29",
-      "album": {
         "name": "Excuse-moi",
         "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 197145,
       "name": "Excuse-moi",
       "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
+    },
+    {
+      "added_at": "2026-08-21 04:03:29",
+      "album": {
+        "name": "Sad Songs for Grieving",
+        "url": "https://open.spotify.com/album/4HxwCfvEAyY1twUkq9MjF8"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 217351,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q"
     },
     {
       "added_at": "2026-08-21 04:03:29",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-08-21 04:03:29",
       "album": {
-        "name": "Sanzaru",
-        "url": "https://open.spotify.com/album/1ekuOtDRjg5ZGVyS8W4xzB"
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO"
       },
       "artists": [
         {
-          "name": "Maelyd\u00e9e",
-          "url": "https://open.spotify.com/artist/6x5vRGtgDI0MZDuKl7Z3UG"
+          "name": "Kamilou",
+          "url": "https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5"
         }
       ],
-      "duration_ms": 189791,
-      "name": "Sanzaru",
-      "url": "https://open.spotify.com/track/2AKMoiJfH9SDy5DamRsozh"
+      "duration_ms": 177106,
+      "name": "Paranormal",
+      "url": "https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L"
     }
   ],
   "unique_name": "Qu\u00e9b\u00e9cois Contemporain",

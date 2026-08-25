@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: <br/>Lilith's Demise
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,849 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,897 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [A Cure For A Knife's Blade](https://open.spotify.com/track/4a4S9OwONHLCMOyIS1A6XX) | [PLUME](https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv) | [A Cure For A Knife's Blade](https://open.spotify.com/album/2R29O43lctyQRjUv29WUWW) | 3:19 |
 | 50 | [Black Rose](https://open.spotify.com/track/6fBk3Z3gIqxWjrbKVAcmtq) | [The Frst](https://open.spotify.com/artist/51pujOHRXZEQWnqgyUviVe), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Bodybox](https://open.spotify.com/artist/0umvpzkCMoxVBy0IoNpN4Q) | [Black Rose](https://open.spotify.com/album/1IZ4lQbx5NxddgZ8SCOgZM) | 3:33 |
 
-Snapshot ID: `AAAAAISRxASH7OwGE69AXDluwjBKNBn6`
+Snapshot ID: `AAAAALYfAyzCYlr3V1ZRDcH2q3vEtxW4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Amor Líquido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,913 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,907 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 14 | [CONEJITA PLAYBOY](https://open.spotify.com/track/42U40DG6b3VVCBfgeBSxGH) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [CONEJITA PLAYBOY](https://open.spotify.com/album/206r467aoLTOWH9u436PKi) | 2:18 |
 | 15 | [ibuprofeno](https://open.spotify.com/track/6K2lKVZS90RrnZcGA1ALGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ibuprofeno](https://open.spotify.com/album/0mTNr1HUhIJYiaWd86FUDl) | 2:48 |
 | 16 | [Culpa del DJ](https://open.spotify.com/track/3GU0y3THGKlB52gvo2yLGj) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Culpa del DJ](https://open.spotify.com/album/0Y6ClleAwGn3ye7FOmT6eF) | 3:31 |
-| 17 | [PARA QUÉ](https://open.spotify.com/track/1Yu0uAHAsHnYXMKtoY9rQV) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [PARA QUÉ](https://open.spotify.com/album/5MhOQMyrw34fVfYaTncudp) | 2:41 |
+| 17 | [Estoy Buscona](https://open.spotify.com/track/7mGw95qIFGc6Bb9LajHRVA) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [Estoy Buscona](https://open.spotify.com/album/3RBnIa108gQWHzImhg35Eh) | 3:16 |
 | 18 | [se te ve feliz](https://open.spotify.com/track/7L9ct6NyuHjrU3tO12CJWZ) | [Farga](https://open.spotify.com/artist/17O0sOUnzCVMrJyKrKLYY7) | [ex/cusas](https://open.spotify.com/album/5jHtHGicQinajiAzIcjd5j) | 2:31 |
-| 19 | [Estoy Buscona](https://open.spotify.com/track/7mGw95qIFGc6Bb9LajHRVA) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [Estoy Buscona](https://open.spotify.com/album/3RBnIa108gQWHzImhg35Eh) | 3:16 |
+| 19 | [PARA QUÉ](https://open.spotify.com/track/1Yu0uAHAsHnYXMKtoY9rQV) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [PARA QUÉ](https://open.spotify.com/album/5MhOQMyrw34fVfYaTncudp) | 2:41 |
 | 20 | [Nadie Se Muere De Amor](https://open.spotify.com/track/4I0dLeI0AQvec7R8J8o5UR) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Nadie Se Muere De Amor](https://open.spotify.com/album/16znfXu7MmZWkLzmecImYL) | 2:57 |
 | 21 | [Kisses Pa las Kitties](https://open.spotify.com/track/1evWqXwWzcPmoFWkXI7Hgx) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3) | [Kisses Pa las Kitties](https://open.spotify.com/album/2STibCPXYfVT5MgJ9KLgzE) | 2:22 |
 | 22 | [Ritmo de la noche](https://open.spotify.com/track/5CnUSPfCLU0lpktXeSv6yo) | [Sofía Cristo](https://open.spotify.com/artist/1BVrVRzHPqy06rF8fA6MSU), [Roi Porto](https://open.spotify.com/artist/7AVryYGZFMkBlsocjl6XzR), [Seiken](https://open.spotify.com/artist/34f48dfVeUd5RbOnFVRKbd) | [Ritmo de la noche](https://open.spotify.com/album/5oqZ28bRnsIrp34g9VzL2B) | 3:10 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 32 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 |
 | 33 | [Bichifokel](https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Bichifokel](https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q) | 3:07 |
 | 34 | [Un Mundo Feliz](https://open.spotify.com/track/2DYuMgoUq4Dyiz7k2UfCJf) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Manual de Belleza](https://open.spotify.com/album/2CgN7GeZdAbOeqsrra7x4b) | 4:31 |
-| 35 | [NOIS](https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [Ouineta Verificada](https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus) | 3:01 |
-| 36 | [Ave de Paso](https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Ave de Paso](https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG) | 3:50 |
+| 35 | [Ave de Paso](https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Ave de Paso](https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG) | 3:50 |
+| 36 | [NOIS](https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [Ouineta Verificada](https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus) | 3:01 |
 | 37 | [desayunarte](https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [pop blandito](https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi) | 3:08 |
 | 38 | [Déjalo Ir](https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [La Insolación](https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j) | 3:07 |
 | 39 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 43 | [21 de enero](https://open.spotify.com/track/6bN2gia9DIeUImuOuQDwH8) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm), [Mía Berlín](https://open.spotify.com/artist/6pHlNGKW4LocYmaU9DFVTX) | [21 de enero](https://open.spotify.com/album/75Rwbds79sTzF4BLxH5stI) | 2:53 |
 | 44 | [Te Perdí](https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EL NENE, VOL 2](https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu) | 2:10 |
 | 45 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
-| 46 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
-| 47 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
+| 46 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
+| 47 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 48 | [NO ERES ASÍ](https://open.spotify.com/track/5xvkvXiMv2dSALNCho2AoH) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [NO ERES ASÍ](https://open.spotify.com/album/16q6SR66jmXRvSURQO8WU7) | 2:43 |
 | 49 | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW) | 2:36 |
 | 50 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:54 |
 
-Snapshot ID: `AAAAAPv4xd+oHZt/Mg4k+acWHtalFmeu`
+Snapshot ID: `AAAAAPXNB7bOGMmCCvWw3VAO972ipXlO`

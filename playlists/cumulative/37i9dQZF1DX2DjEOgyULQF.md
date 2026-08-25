@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-497 songs - 23 hr 28 min
+500 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-04-28 | 2026-03-30 |
 | [Amedeo Nuevo](https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo Nuevo](https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre) | 2:15 | 2023-04-28 | 2026-01-24 |
 | [Amyntas](https://open.spotify.com/track/2LoApskCgehKJwVbl81Ktd) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Amyntas](https://open.spotify.com/album/7eAbD4kq6mCmddMAK5mPft) | 2:20 | 2023-04-28 | 2025-05-21 |
-| [and finally, we reach the summit](https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31) | [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT), [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX) | [AV // TH](https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj) | 3:47 | 2026-04-03 |  |
+| [and finally, we reach the summit](https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31) | [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT), [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX) | [AV // TH](https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj) | 3:47 | 2026-04-03 | 2026-08-25 |
 | [Andrum](https://open.spotify.com/track/6W2zZRhkMxKkXONKO04yGK) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Andrum](https://open.spotify.com/album/1XRkQoTVjfWqw2nuO5rQWk) | 3:31 | 2024-07-19 | 2024-11-05 |
 | [Annapurna](https://open.spotify.com/track/7xdg3SKAh3agUe9Sxrk20D) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Annapurna](https://open.spotify.com/album/7GCO1XgiqlWtdeSIHwaaFY) | 2:34 | 2023-04-28 | 2026-04-04 |
 | [apnoea](https://open.spotify.com/track/2XZOoiOxcItf02RhMQK02f) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [apnoea](https://open.spotify.com/album/3RPPWPbuxp6pR9CgULpGyu) | 2:04 | 2024-05-01 | 2026-07-09 |
@@ -116,7 +116,7 @@
 | [Drift Away](https://open.spotify.com/track/1QqCc5tVFevjAk7WBJAxmv) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Drift Away](https://open.spotify.com/album/0b6E1am1qcZmD4bAobfDwc) | 2:52 | 2025-03-04 | 2025-04-12 |
 | [Drifted Roots](https://open.spotify.com/track/0bHg0FMaPM01Nfw7dc1JuH) | [Silent Glade](https://open.spotify.com/artist/5GiOdqnxL6AeEZMWR0b3cr) | [Drifted Roots](https://open.spotify.com/album/5qFw7xLFqM8smKkcSQAXbP) | 2:47 | 2026-04-03 |  |
 | [Drifter](https://open.spotify.com/track/4I3E6IAdENxyxfoZdeIdW5) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Drifter](https://open.spotify.com/album/6zi83WWOy4rMmWK5hzCiMi) | 2:04 | 2025-02-18 | 2026-04-04 |
-| [Droplets](https://open.spotify.com/track/2N8YZv6azakZK17PRFFOTS) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Droplets](https://open.spotify.com/album/5VOXya4ZeAVZdLwTdTwK1O) | 2:36 | 2026-06-26 |  |
+| [Droplets](https://open.spotify.com/track/2N8YZv6azakZK17PRFFOTS) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Droplets](https://open.spotify.com/album/5VOXya4ZeAVZdLwTdTwK1O) | 2:36 | 2026-06-26 | 2026-08-25 |
 | [Dulcet](https://open.spotify.com/track/7lvWStTudtQ6sy8AW9o1CN) | [Mokusei](https://open.spotify.com/artist/65lB2N7RSIyYSkLyDiFGuu) | [Dulcet](https://open.spotify.com/album/3SOzzSfeGOHvDNla7w5zEN) | 2:15 | 2026-01-08 | 2026-04-04 |
 | [Dusk](https://open.spotify.com/track/1l2nIWTWCAL2vGbMZnLPQb) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Dusk](https://open.spotify.com/album/02FzOAmjWh3mXlw5A0gEp6) | 2:26 | 2025-10-02 |  |
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 | 2026-08-20 |
@@ -150,7 +150,7 @@
 | [Everbound](https://open.spotify.com/track/3ukMCHjdNl8qExi9R9cydc) | [Lore](https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G) | [Everbound](https://open.spotify.com/album/173m3DmZedeHBdzJFY6Sws) | 2:54 | 2026-04-03 | 2026-05-28 |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 | 2026-04-04 |
 | [Exploring Textures](https://open.spotify.com/track/27KqGoyfodOPmOGt7Aw9Z6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Exploring Textures](https://open.spotify.com/album/6uZUjhCErSJ1mlT7OSbbrv) | 2:57 | 2025-07-22 | 2026-04-04 |
-| [Fading Petals](https://open.spotify.com/track/3IJKGZ3iz4kdBcUru29Ucw) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Silver Linen Note](https://open.spotify.com/album/4dqvUtMRYaUvocHdEPz8ca) | 3:14 | 2026-07-03 |  |
+| [Fading Petals](https://open.spotify.com/track/3IJKGZ3iz4kdBcUru29Ucw) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Silver Linen Note](https://open.spotify.com/album/4dqvUtMRYaUvocHdEPz8ca) | 3:14 | 2026-07-03 | 2026-08-25 |
 | [Falling Freely](https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Falling Freely](https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz) | 2:54 | 2025-06-17 | 2026-08-21 |
 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 | 2026-04-03 |  |
 | [Feather](https://open.spotify.com/track/2RzEZIvs2KzxBAzkHXgJZa) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Feather](https://open.spotify.com/album/3zZcMIi0OrREEVvK22os4K) | 2:58 | 2025-05-21 | 2026-08-23 |
@@ -159,6 +159,7 @@
 | [Fire Light](https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Fire Light](https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd) | 2:55 | 2023-04-28 | 2025-05-22 |
 | [First And Foremost](https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2) | [Amaury Arceneaux](https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp) | [First And Foremost](https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ) | 3:01 | 2024-06-03 | 2025-05-22 |
 | [Fjälldrömmar](https://open.spotify.com/track/6FFiYLvQAGVIwqsmVIZEgr) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Fjälldrömmar](https://open.spotify.com/album/1vdbvO1wkYJghGNq7WPxJA) | 2:35 | 2025-06-12 | 2026-04-04 |
+| [Float](https://open.spotify.com/track/6rvlr95VE3vKuUc82rjOwg) | [Novera Rae](https://open.spotify.com/artist/5YvhcITTw5wtc05jMTFCoR) | [Float](https://open.spotify.com/album/4vayVNrCR7ZW9cHmtIVB1o) | 2:56 | 2026-08-19 |  |
 | [Floating](https://open.spotify.com/track/7BXp68Ti7SWwdiLUT0bpuY) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Floating](https://open.spotify.com/album/0jJsEHkuBGqa3lgF41rVtT) | 2:55 | 2025-07-09 | 2026-04-04 |
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2023-04-28 | 2025-05-22 |
 | [Floe](https://open.spotify.com/track/2mdsmyXRZGdzogMfDmTnf4) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Floe](https://open.spotify.com/album/7KeNkCZ64bAfBaRXgUa0IU) | 2:40 | 2026-04-03 |  |
@@ -195,6 +196,7 @@
 | [Gentle Awakening](https://open.spotify.com/track/2Ic1x3G8n6VusjdfiMpbd5) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Gentle Awakening](https://open.spotify.com/album/7LAOipW1fwh42MHfQx2ZH0) | 3:15 | 2025-12-17 | 2026-04-04 |
 | [Gentle Morning](https://open.spotify.com/track/0vHQ59NmH6o1ThlSKxmkX7) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Gentle Morning](https://open.spotify.com/album/4z04eUA80PQF3NXsRqvSrC) | 2:37 | 2026-01-08 | 2026-04-04 |
 | [Gentle River Flow](https://open.spotify.com/track/3T5nOnIbdJMrdgmyMW0SFo) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Gentle River Flow](https://open.spotify.com/album/4rjsv5OQA5vxTTI3DDU90r) | 2:58 | 2025-05-21 |  |
+| [Gentle Stream](https://open.spotify.com/track/7aiiwQw56N7B21TkB33ZB7) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Gentle Stream](https://open.spotify.com/album/1z5WBLGmGPvGbSbRo3waDi) | 2:35 | 2026-08-19 |  |
 | [Gentle Streams](https://open.spotify.com/track/7Jubc6htXiZnuTHz3UKUBj) | [Moonlab](https://open.spotify.com/artist/4bRJSASvzWmN0kH61LUBSu) | [Gentle Streams](https://open.spotify.com/album/6hEx1Yy7xipUYNG4glF8lV) | 3:19 | 2023-11-24 | 2026-04-04 |
 | [Glistening](https://open.spotify.com/track/3gMfpMNUgNIyG3blV26249) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Glistening](https://open.spotify.com/album/5OmofbHR6FOIq0EccUdv8Y) | 2:49 | 2026-04-03 | 2026-08-18 |
 | [Glistening Creek](https://open.spotify.com/track/73GSYyBnRXNq5ZO0dhqzKF) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Glistening Creek](https://open.spotify.com/album/3xFWyfWNk038eJuIeN9C4n) | 2:09 | 2026-06-26 |  |
@@ -356,6 +358,7 @@
 | [Remains](https://open.spotify.com/track/28RxgtMOVactas2AQJHzWv) | [Kharma Initiative](https://open.spotify.com/artist/7BKXObCKvCeZw5tWOFYWe7) | [Remains](https://open.spotify.com/album/0YBXHee7J6d8CjHX2LtnvV) | 2:23 | 2025-10-24 |  |
 | [Renacer en Calma \(Nature\)](https://open.spotify.com/track/15kpyHpO1u89MMGrQLxiEJ) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 3:02 | 2023-06-09 | 2026-07-24 |
 | [Replenishment](https://open.spotify.com/track/1S3ESlCqX7kC0JIUfYMTZs) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Replenishment](https://open.spotify.com/album/1XFw4PQF125xpP1HWG176c) | 3:08 | 2025-12-17 | 2026-04-04 |
+| [Residual Presence Field](https://open.spotify.com/track/0MlrY3mg0iOHSWWK7BOVDD) | [Low Haven](https://open.spotify.com/artist/2gOPRaTiQtGHndW2IXxtXC) | [Residual Presence Field](https://open.spotify.com/album/1hOPK8B0LrmKO7WHQukhHl) | 2:44 | 2026-08-19 |  |
 | [Resonated](https://open.spotify.com/track/6mJ2jGd01xZZ07PNW0rypK) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Resonated](https://open.spotify.com/album/7H9nGdRXUSlxTmdFJCO3P7) | 2:40 | 2023-10-06 | 2025-05-22 |
 | [Restart](https://open.spotify.com/track/7bUtYZp5Nx93HaPPyzk64o) | [Marc Westfield](https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ) | [Restart](https://open.spotify.com/album/4owhXLeFbrS6TxGAIWF3uJ) | 2:37 | 2026-04-03 |  |
 | [Restful Petal \- Spa](https://open.spotify.com/track/2po2Rc8mLumB3CmBY9jrX5) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:12 | 2023-04-28 | 2025-09-11 |

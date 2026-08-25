@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Aishmeen
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,851 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,858 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Novella](https://open.spotify.com/track/2TSL8yfTaoZxrd2Um4Edkx) | [Gill Ranjodh](https://open.spotify.com/artist/4VYsiN2BVC3o8wlmhd1Mu2), [Jeffrick](https://open.spotify.com/artist/5HD6kCaoqjrDx8W5ES0YC3) | [Novella](https://open.spotify.com/album/7yIxyqUTWtWXyTQK1E1HBq) | 2:13 |
 | 50 | [Let Me Go](https://open.spotify.com/track/27Dme4bufvtzLZklVhAxLS) | [EAGLE BEATZ](https://open.spotify.com/artist/1z3q1N6XSG06XXvknr5iU2), [Aniket](https://open.spotify.com/artist/6rDjrU2KLibztNixyM3Kia) | [Let Me Go](https://open.spotify.com/album/2psXgAp4DOpkcqWAObQq9p) | 2:23 |
 
-Snapshot ID: `AAAAADRcoduFFbS532clp5Poq0aVwrTL`
+Snapshot ID: `AAAAACdqur+pla6GDBfppm6Q7rjn8Z69`

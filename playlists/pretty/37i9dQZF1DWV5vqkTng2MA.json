@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Maggie Rose",
-  "num_followers": 427811,
+  "num_followers": 427857,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzkHYoRuMmB8yDWwCXxixWe2U0/",
+  "snapshot_id": "AAAAABMC82jCDHU3KwbgQ8yjrXczIZBl",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:02",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-08-21 04:02:02",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
-    },
-    {
-      "added_at": "2026-08-21 04:02:02",
-      "album": {
         "name": "Fire Drill",
         "url": "https://open.spotify.com/album/2vhA82VBs18qhzEr3yoJ7F"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 222793,
       "name": "Fire Drill",
       "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
+    },
+    {
+      "added_at": "2026-08-21 04:02:02",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
     },
     {
       "added_at": "2026-08-21 04:02:02",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-21 04:02:02",
       "album": {
-        "name": "Weekend Lover & Used To It",
-        "url": "https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
-    },
-    {
-      "added_at": "2026-08-21 04:02:02",
-      "album": {
         "name": "Limerence",
         "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2026-08-21 04:02:02",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+        "name": "Weekend Lover & Used To It",
+        "url": "https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs"
       },
       "artists": [
         {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
         }
       ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+      "duration_ms": 230693,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
     },
     {
       "added_at": "2026-08-21 04:02:02",
@@ -1083,6 +1067,22 @@
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2026-08-21 04:02:02",
+      "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2026-08-21 04:02:02",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-21 04:02:02",
       "album": {
-        "name": "Hard Working Americans",
-        "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
-      },
-      "artists": [
-        {
-          "name": "Hard Working Americans",
-          "url": "https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "Stomp and Holler",
-      "url": "https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn"
-    },
-    {
-      "added_at": "2026-08-21 04:02:02",
-      "album": {
         "name": "Hold On (Hourglass)",
         "url": "https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2026-08-21 04:02:02",
       "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+        "name": "Hard Working Americans",
+        "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
       },
       "artists": [
         {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+          "name": "Hard Working Americans",
+          "url": "https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF"
         }
       ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+      "duration_ms": 288693,
+      "name": "Stomp and Holler",
+      "url": "https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn"
     },
     {
       "added_at": "2026-08-21 04:02:02",
@@ -1227,6 +1211,22 @@
       "duration_ms": 227567,
       "name": "Electric Fever",
       "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
+    },
+    {
+      "added_at": "2026-08-21 04:02:02",
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2026-08-21 04:02:02",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-08-21 04:02:02",
       "album": {
-        "name": "The Dark Of The Morning EP",
-        "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
+        "name": "Who's Gonna Love You When I'm Gone",
+        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
         }
       ],
-      "duration_ms": 239706,
-      "name": "When We Were On Fire",
-      "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
+      "duration_ms": 219920,
+      "name": "Who's Gonna Love You When I'm Gone",
+      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
     }
   ],
   "unique_name": "the new retro",

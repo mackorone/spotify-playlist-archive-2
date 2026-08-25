@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,849 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,877 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 99 | [off rhythm laughter](https://open.spotify.com/track/0fkQhqblpnW60SS0mYUHbn) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [7 piano sketches](https://open.spotify.com/album/3u952Zxzx60qhCoohKSf5k) | 3:31 |
 | 100 | [Ghost of Your Life](https://open.spotify.com/track/5RUISLZ3c6OvdQlg0fDSMb) | [Niall Ashley](https://open.spotify.com/artist/09BUs5wE0LROuF8wuMceSu), [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [Subject Access](https://open.spotify.com/album/0RaBzSNt1dwovrTpTPjsoJ) | 3:15 |
 
-Snapshot ID: `AAAAAKnhsrfWwLbKdgVTl/0Ud6bj/2Ui`
+Snapshot ID: `AAAAAH1gKvPwls7bu0Jqmhsvs/AF/XSa`

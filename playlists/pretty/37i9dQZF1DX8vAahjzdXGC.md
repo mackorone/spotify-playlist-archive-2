@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rex Orange County, Daniel Caesar, BIGBANG, Bunga Citra Lestari, Josh Florentino, Rizwan Fadilah dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,638 likes - 107 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,624 likes - 107 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 106 | [Say Something](https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Say Something](https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i) | 3:48 |
 | 107 | [Amnesia](https://open.spotify.com/track/6twcigHXokNqbYWXKaaYYm) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [Amnesia](https://open.spotify.com/album/6AKBYcMAQrqvKSd6MHSPcF) | 2:36 |
 
-Snapshot ID: `AAAAAOjY8TgfeiglHHpYIVKXnfstLkig`
+Snapshot ID: `AAAAADdOtOvfGxWoUzsxWw97mTweSh4N`

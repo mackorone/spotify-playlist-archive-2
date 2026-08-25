@@ -1,12 +1,12 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 532676,
+  "num_followers": 532654,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAID3ZOLMwdpdguTUvruORvy/ahKY",
+  "snapshot_id": "AAAAAAgdGueT1PEhrE7HK7vXNozxUtRO",
   "tracks": [
     {
       "added_at": "2024-07-25 13:22:22",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "20 Chansons D'or",
+        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Qui saura",
+      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 171640,
       "name": "La chanson d'H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "20 Chansons D'or",
-        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
-      },
-      "artists": [
-        {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Qui saura",
-      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Vu De L'Ext\u00e9rieur",
+        "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Je suis venu te dire que je m'en vais",
+      "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "La Maladie D'Amour",
         "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "N\u00b04",
-        "url": "https://open.spotify.com/album/40C5ZxUE9bB48VhEOqhhNu"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 149240,
-      "name": "La Javanaise",
-      "url": "https://open.spotify.com/track/1JjhnamLSonSLf9RnkmhJV"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "La poup\u00e9e qui fait non",
-      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Infiniment",
         "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
       },
@@ -1039,18 +1023,34 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Santiano",
-        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/40C5ZxUE9bB48VhEOqhhNu"
       },
       "artists": [
         {
-          "name": "Hugues Aufray",
-          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
         }
       ],
-      "duration_ms": 134973,
-      "name": "Santiano",
-      "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
+      "duration_ms": 149240,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/1JjhnamLSonSLf9RnkmhJV"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "La poup\u00e9e qui fait non",
+      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1067,6 +1067,22 @@
       "duration_ms": 212200,
       "name": "Emmenez Moi",
       "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Santiano",
+      "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1099,22 +1115,6 @@
       "duration_ms": 163320,
       "name": "Amoureux de ma femme",
       "url": "https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Vu De L'Ext\u00e9rieur",
-        "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Je suis venu te dire que je m'en vais",
-      "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
     },
     {
       "added_at": "2024-07-25 13:22:22",

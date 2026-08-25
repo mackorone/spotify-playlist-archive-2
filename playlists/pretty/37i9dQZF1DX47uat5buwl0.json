@@ -1,12 +1,12 @@
 {
   "description": "Antoon kiest 20 bangers voor de zomer! <a href=\"spotify:presents:jouwzomerid\">Doe de quiz: welke zomer ID ben jij?</a>",
-  "num_followers": 314002,
+  "num_followers": 313985,
   "original_name": "Studenten Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAjCWj2eWoKyucgrBxtUKdkBtZaB",
+  "snapshot_id": "AAAAALxvd2KI4KVdkli7dgbO7JPsIalO",
   "tracks": [
     {
       "added_at": "2026-08-20 22:00:10",
@@ -415,6 +415,26 @@
     {
       "added_at": "2026-08-20 22:00:10",
       "album": {
+        "name": "Tot Sluit",
+        "url": "https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg"
+      },
+      "artists": [
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        },
+        {
+          "name": "Amelie",
+          "url": "https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Tot Sluit",
+      "url": "https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU"
+    },
+    {
+      "added_at": "2026-08-20 22:00:10",
+      "album": {
         "name": "Draaien",
         "url": "https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 158848,
       "name": "On 2nite",
       "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
-    },
-    {
-      "added_at": "2026-08-20 22:00:10",
-      "album": {
-        "name": "Tot Sluit",
-        "url": "https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg"
-      },
-      "artists": [
-        {
-          "name": "Nachtdienst",
-          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
-        },
-        {
-          "name": "Amelie",
-          "url": "https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Tot Sluit",
-      "url": "https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU"
     },
     {
       "added_at": "2026-08-20 22:00:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 
 > Turn the party on with these hits\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,081 likes - 26 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,085 likes - 26 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 | 25 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
 | 26 | [QUE PRETENDES](https://open.spotify.com/track/7LdXoP2rkbFF0xsPo6fQbg) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [QUE PRETENDES](https://open.spotify.com/album/4KcyXhEqtw6JGkWWq2FQOY) | 3:44 |
 
-Snapshot ID: `AAAAALEv4VvllNnOPW7BIWPlE8lGbx9l`
+Snapshot ID: `AAAAAFGqScLPqI4FUXWiqZu+mx8zI8QI`

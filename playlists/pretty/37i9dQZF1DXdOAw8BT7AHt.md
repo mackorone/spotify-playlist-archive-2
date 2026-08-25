@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Citizen
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,995 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,991 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 124 | [Balloon Man Running](https://open.spotify.com/track/5caj13UPdFrwoLX54LmEm5) | [Public Opinion](https://open.spotify.com/artist/62vfQ1IiuwsEwyqPWiAsWF) | [Balloon Man Running](https://open.spotify.com/album/6bMfExA0QoaY7KgUaRc1i5) | 2:51 |
 | 125 | [ANIMAL](https://open.spotify.com/track/7BlGdTvvVAw2NAJtqoKCT2) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [ANIMAL](https://open.spotify.com/album/3gu3WONQrN70m2mZIAS2q0) | 3:12 |
 
-Snapshot ID: `AAAAAOhEAXheTN/W7ifoRDGP0mjKU/rW`
+Snapshot ID: `AAAAAEbirlJ8GvZeEu3bssLP7GGARHO9`

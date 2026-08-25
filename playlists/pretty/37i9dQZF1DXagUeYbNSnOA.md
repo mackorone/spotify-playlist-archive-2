@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Boca Paila\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,389 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,397 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [La Danza del Despertar](https://open.spotify.com/track/3OjgYnIHpZQpE6qaoIFypC) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [La Danza del Despertar](https://open.spotify.com/album/5ibKQoGqYZYqoea1ZSRICQ) | 3:20 |
 | 50 | [RODEO CLOWN](https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RODEO CLOWN](https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N) | 2:33 |
 
-Snapshot ID: `AAAAAPQYH/pxWPfpBxLYyvniQXUasEHb`
+Snapshot ID: `AAAAAN3aAEyYm5nKwNoS3URZarCGlGMr`

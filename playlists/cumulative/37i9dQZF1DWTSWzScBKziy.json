@@ -26547,6 +26547,24 @@
     },
     {
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4gjgt5M1Z3BYrZGzB83ok3"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594825,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6l2Ol93k1yCbTWvEBKDaJW"
+    },
+    {
+      "album": {
         "name": "Way Out",
         "url": "https://open.spotify.com/album/2mt8DZzMpQUBDkkxUv9wrT"
       },
@@ -27098,7 +27116,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 322192,
       "name": "What Kind Of Love - Live",
       "url": "https://open.spotify.com/track/0KdaQsRsrj2PAXrlagjm6K"

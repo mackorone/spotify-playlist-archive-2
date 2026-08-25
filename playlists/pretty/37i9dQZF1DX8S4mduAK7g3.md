@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S4mduAK7g3.md) - [plain]
 
 > Listen before you watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 83 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAJ+MJmCKYOUwnAFu7ElIRjqLrQiF`
+Snapshot ID: `AAAAAAZaJUVUXYqmo3VhGIX+CNJ1ipDV`

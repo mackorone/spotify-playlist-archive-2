@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Umur Doma
 
-709 songs - 1 day 11 hr 57 min
+710 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Bi' Farkın Var](https://open.spotify.com/track/7yV4NuGTMAwTJyymp7vdrL) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Bi' Farkın Var](https://open.spotify.com/album/3vgV50xyw8ldVEPJEXbZqA) | 2:32 | 2024-10-10 | 2024-10-18 |
 | [Bi' Şey Mi Dedin?](https://open.spotify.com/track/4Sn0YqqmO5urI89XjRMFf4) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Bi' Şey Mi Dedin?](https://open.spotify.com/album/1WYqUROtpwjq0Uy8mpDCIH) | 2:41 | 2026-07-02 |  |
 | [Bil Ki](https://open.spotify.com/track/0QXwA2k5hAD6nWeAzcwjTJ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:18 | 2025-09-25 | 2026-07-12 |
+| [Bilsem Ki](https://open.spotify.com/track/6afIJDjgq6YLjwHoWLD9zc) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Bilsem Ki](https://open.spotify.com/album/42u2gtEhPcL8ycsVliIndv) | 2:47 | 2026-08-20 |  |
 | [Bilsen De](https://open.spotify.com/track/3vfPPNNAOPteFWU9xIwT1R) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bilsen De](https://open.spotify.com/album/0qol5uBtarWXta5lVvDc5h) | 2:40 | 2025-12-11 | 2026-04-10 |
 | [Bir](https://open.spotify.com/track/5n5UzQrxMYAbbnz5kDO9fp) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Can Atayılmaz](https://open.spotify.com/artist/1qkPyuqp2GFBWcRK1HT4rp) | [Bir](https://open.spotify.com/album/7IoECfCapBFFhbtfRYz4Ub) | 3:14 | 2026-05-22 | 2026-07-04 |
 | [Bir Başıma](https://open.spotify.com/track/591vD59s3EeTxLFH9K5OWk) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bir Başıma](https://open.spotify.com/album/3eW6cRPWUdzifoxcHAar8g) | 6:13 | 2025-11-20 | 2026-04-23 |
@@ -166,7 +167,7 @@
 | [Bu Ne Bela](https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Bu Ne Bela](https://open.spotify.com/album/4uZKjVzHBK4xa91rQYdvrT) | 2:35 | 2025-01-23 | 2026-02-27 |
 | [Bu Sana Son Bakışım](https://open.spotify.com/track/6rB0I00lYuWOYeW1ljBaoE) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Bu Sana Son Bakışım](https://open.spotify.com/album/3fjxiXNYYTTCScJGVqXsit) | 2:30 | 2024-06-27 | 2024-10-25 |
 | [Bu Yaz](https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Bu Yaz](https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N) | 3:02 | 2025-06-05 | 2026-07-03 |
-| [Bulunur Elbet](https://open.spotify.com/track/5gGluJAwchn3XyRw1Ctv7d) | [Linet](https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bulunur Elbet](https://open.spotify.com/album/43HoBa7B8pn7We3vVvicLU) | 3:01 | 2026-08-13 |  |
+| [Bulunur Elbet](https://open.spotify.com/track/5gGluJAwchn3XyRw1Ctv7d) | [Linet](https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bulunur Elbet](https://open.spotify.com/album/43HoBa7B8pn7We3vVvicLU) | 3:01 | 2026-08-13 | 2026-08-25 |
 | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/track/6TCoqzZa9jZh4SlpCogpQM) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/album/1Baxuz24nv6BM6Ndnvschw) | 2:43 | 2024-06-27 | 2024-11-18 |
 | [Bundan Gayrı](https://open.spotify.com/track/6UVUuNq21sRH4iAxB0xJf9) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Bundan Gayrı](https://open.spotify.com/album/00ofEoXSgtpcHsBvKMwko5) | 3:24 | 2025-02-13 | 2026-06-27 |
 | [Bunun Adı Aşksa](https://open.spotify.com/track/4cMw6E3noUON6E2zaZ0a3D) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bunun Adı Aşksa](https://open.spotify.com/album/6wLqpSsTp2ggh4a6i9yKtd) | 3:35 | 2026-06-12 | 2026-07-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: !Sooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,413 likes - 65 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,442 likes - 65 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 64 | [Tobetsa 3.0 \(feat\. Shaunmusiq & Ftears\)](https://open.spotify.com/track/7ohMSMZrovYscFvEMkrtzP) | [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Leehleza](https://open.spotify.com/artist/44bCE3ZXxsdBiMp6AHc4B2), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7) | [Tobetsa 3.0 \(feat\. Shaunmusiq & Ftears\)](https://open.spotify.com/album/3Hwj7Le28vi4H7gcCOFlxA) | 6:23 |
 | 65 | [Mali](https://open.spotify.com/track/4nP3JxLWurlrvollaDlxsJ) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [031 Studio Camp 2.0](https://open.spotify.com/album/5aSsTgC8eB50naiNwpxeBw) | 6:48 |
 
-Snapshot ID: `AAAAALZZJ+gwJsgwFAqd+ZjGJtlv76RE`
+Snapshot ID: `AAAAAEaxu3Fj/aC+XAe8lOIDhi/m4l9X`

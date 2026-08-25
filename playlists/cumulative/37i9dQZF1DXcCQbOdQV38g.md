@@ -4,7 +4,7 @@
 
 > Justen de Wildt kiest 25 hits voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-157 songs - 7 hr 23 min
+158 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 | 2025-07-01 | 2026-04-08 |
 | [Nooit Meer Voorbij](https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Nooit Meer Voorbij](https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx) | 2:30 | 2025-07-01 |  |
 | [Oh Ja Ja Ja \(Zon In Mijn Hart\)](https://open.spotify.com/track/06CuCa8iOFYqcENCrRGRKG) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Oh Ja Ja Ja \(Zon In Mijn Hart\)](https://open.spotify.com/album/1P7IqW4XgFZMFRML1aDvai) | 2:44 | 2025-07-01 | 2025-10-17 |
-| [Ontspanje](https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ontspanje](https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N) | 2:40 | 2025-07-01 |  |
+| [Ontspanje](https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ontspanje](https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N) | 2:40 | 2025-07-01 | 2026-08-25 |
 | [Over De Top!](https://open.spotify.com/track/331VL6rgKYhIaj0w6pBfes) | [De Toppers](https://open.spotify.com/artist/77OXNKbzOTqmzhSdHPS187) | [Toppers Mega Party Mix Vol\. 2](https://open.spotify.com/album/0AMRJGtOvvputWXtPYsOCX) | 4:02 | 2026-07-07 | 2026-08-18 |
 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 | 2025-07-01 |  |
 | [Pepas](https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Pepas](https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4) | 3:18 | 2025-07-01 |  |
@@ -163,6 +163,7 @@
 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5) | 2:32 | 2025-07-01 |  |
 | [Zomer, Zon & Strand](https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zomer, Zon & Strand](https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB) | 3:09 | 2026-08-13 |  |
 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 | 2025-07-01 |  |
+| [Zonnebank](https://open.spotify.com/track/5MCBmUeV3b1Rmwzb99fjgK) | [Ray & Beer](https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt) | [Zonnebank](https://open.spotify.com/album/6HGoeSFFyVHFMTis04Td9E) | 3:04 | 2026-08-24 |  |
 | [Zwarte Haren, Zwoele Gitaren](https://open.spotify.com/track/1CgM5H9fz0V82OFEpCBAaW) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [10 Jaar \(Het Beste Van\)](https://open.spotify.com/album/3ppezWZtcDv3O1RB5IGuNV) | 2:49 | 2026-07-07 |  |
 | [Zwoele Zomernachten](https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zwoele Zomernachten](https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT) | 3:15 | 2026-06-08 |  |
 

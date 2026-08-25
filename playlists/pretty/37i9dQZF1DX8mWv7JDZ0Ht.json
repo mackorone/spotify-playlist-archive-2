@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  GIANA",
-  "num_followers": 433650,
+  "num_followers": 433641,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAISMLVh7DBjk/6/bl1nc6wJZJRbI",
+  "snapshot_id": "AAAAAOtKGTE0e6oWey9yFIP94+fsxtZb",
   "tracks": [
     {
       "added_at": "2026-08-14 03:00:28",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
-        "name": "Matchola - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 172779,
-      "name": "BARRIL DOBRADO - Spotify Sessions",
-      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
         "name": "Esquina do Sol",
         "url": "https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 204208,
       "name": "Reza Braba",
       "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
+        "name": "Matchola - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "duration_ms": 172779,
+      "name": "BARRIL DOBRADO - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
+        "name": "te traindo com voc\u00ea",
+        "url": "https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 188150,
+      "name": "te traindo com voc\u00ea",
+      "url": "https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
         "name": "Fa\u00e7o Parar de Chover",
         "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 199711,
       "name": "Fa\u00e7o Parar de Chover",
       "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
-        "name": "te traindo com voc\u00ea",
-        "url": "https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 188150,
-      "name": "te traindo com voc\u00ea",
-      "url": "https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
         "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
         "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 189073,
       "name": "M\u00e1gica - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Noturno",
-      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
         "name": "MINHA J\u00d3IA",
         "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 174139,
       "name": "sofrer por voc\u00ea",
       "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Noturno",
+      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-08-14 03:00:28",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-08-14 03:00:28",
       "album": {
-        "name": "Tudo Pode Mudar (Acusticamente)",
-        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 245009,
-      "name": "Tudo Pode Mudar (Acusticamente)",
-      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
-    },
-    {
-      "added_at": "2026-08-14 03:00:28",
-      "album": {
         "name": "MARIA, MEDUSA",
         "url": "https://open.spotify.com/album/5IPInMeJ1FgVaNDQmIzuHf"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 161386,
       "name": "MARIA, MEDUSA",
       "url": "https://open.spotify.com/track/4xDbnfmae1qivhMtVrZAjt"
+    },
+    {
+      "added_at": "2026-08-14 03:00:28",
+      "album": {
+        "name": "Tudo Pode Mudar (Acusticamente)",
+        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 245009,
+      "name": "Tudo Pode Mudar (Acusticamente)",
+      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
     },
     {
       "added_at": "2026-08-14 03:00:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 768 songs - 2 day 1 hr 30 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 767 songs - 2 day 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -775,6 +775,5 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 765 | [Slip On Through \- Remastered 2009](https://open.spotify.com/track/6BzZvQJsXi68wSvFTHU9bC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:19 |
 | 766 | [PLANET FROG](https://open.spotify.com/track/2MTB6NrHEAHBeNsx389RlI) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [PLANET FROG](https://open.spotify.com/album/5zRHU8HegfzTYosVvihqet) | 0:24 |
 | 767 | [Bella Donna \- 2016 Remaster](https://open.spotify.com/track/67oVj9wKv1T0effsUcny7A) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:22 |
-| 768 | [Feather By Feather](https://open.spotify.com/track/0sIAb5xEdpgOdSs57qtVr9) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Supper](https://open.spotify.com/album/7uk1aaKzZp5c3qsKmWKy73) | 5:36 |
 
-Snapshot ID: `AAAJeuJAi5SMWuqve7Vp7O6EeoCt6LOg`
+Snapshot ID: `AAAJewf+M/PAlssmJlrQTxEemWPk0sVW`

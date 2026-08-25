@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zomer 2026 beleef je hier! <a href="spotify:presents:jouwzomerid">Doe de quiz voor jouw zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,459 likes - 110 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,490 likes - 110 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 109 | [Buzzin'](https://open.spotify.com/track/5CvN2Et62Edz2mhXyk26V9) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Buzzin'](https://open.spotify.com/album/6CCXTxjH1uqCfajK8hykBy) | 2:32 |
 | 110 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
 
-Snapshot ID: `AAAAAN4ZUXMCkifkW9747BZ+a5QeekxA`
+Snapshot ID: `AAAAAFq4BrP4fLsiZtPDiGZ1TotTaklW`

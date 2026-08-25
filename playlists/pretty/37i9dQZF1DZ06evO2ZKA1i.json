@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303345,
+  "num_followers": 303351,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAAALZtg/xxMap2pnYmoAfxp4",
+  "snapshot_id": "aoo4AAAAAACu9TV144sg+ha+0uJZEXln",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 281693,
-      "name": "The Only Horse in Town",
-      "url": "https://open.spotify.com/track/0lhdngV98D9kCOkKvInA41"
+      "duration_ms": 442840,
+      "name": "Lazy - Remastered 2012",
+      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 442840,
-      "name": "Lazy - Remastered 2012",
-      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
+      "duration_ms": 281693,
+      "name": "The Only Horse in Town",
+      "url": "https://open.spotify.com/track/0lhdngV98D9kCOkKvInA41"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
       "duration_ms": 231640,
       "name": "Strange Kind of Woman - 2002 Remaster",
       "url": "https://open.spotify.com/track/3T6TEPxUsMFw9SejwRFe6z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "The Rider",
-      "url": "https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "The Rider",
+      "url": "https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fireball (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 204133,
       "name": "Fireball - 1996 Remaster",
       "url": "https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "The Lunatic",
-      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
     },
     {
       "added_at": null,
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "The Lunatic",
+      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 303894,
       "name": "Pictures Of Home - Remastered 2012",
       "url": "https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "The Beating of Wings",
-      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "The Beating of Wings",
+      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 312826,
       "name": "A Gypsy's Kiss",
       "url": "https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Sacred Land",
-      "url": "https://open.spotify.com/track/0zqwVmMHGh5Imgw2eoALli"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Sacred Land",
+      "url": "https://open.spotify.com/track/0zqwVmMHGh5Imgw2eoALli"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 352293,
       "name": "Sail Away - Remastered 2004",
       "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 196497,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4Ror9FLIzN2CAA55gGaPiW"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 324733,
       "name": "You Keep On Moving - 2010 Digital Remaster",
       "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 196497,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4Ror9FLIzN2CAA55gGaPiW"
     },
     {
       "added_at": null,

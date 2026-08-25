@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-165 songs - 10 hr 30 min
+167 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Count the Silence](https://open.spotify.com/track/4tRtA0Rt8C2uehZ9YwiAP3) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Count the Silence](https://open.spotify.com/album/4uKoOlN6EAWD0igCdXmT0T) | 4:53 | 2026-01-19 | 2026-02-07 |
 | [Cu@110](https://open.spotify.com/track/0pPsxSWgmralFqy7hADfj8) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:59 | 2026-02-06 |  |
 | [Dandelion](https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:10 | 2025-12-17 | 2026-02-07 |
+| [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 | 2026-08-24 |  |
 | [Diré](https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 3:31 | 2026-04-04 | 2026-05-16 |
 | [Distance to Empty](https://open.spotify.com/track/5711xKDW3beA91Cv0KLtAM) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Distance to Empty](https://open.spotify.com/album/4u8gJUVpbtmO5GRbgJDRxr) | 2:20 | 2026-07-07 |  |
 | [Doomed](https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Doomed](https://open.spotify.com/album/22jWWQ2warqg8hh7HpQbmd) | 7:22 | 2026-07-15 |  |
@@ -82,6 +83,7 @@
 | [In The House \- In A Heartbeat](https://open.spotify.com/track/3TnMERbpFoyqd4WVAOKRVN) | [Terrestrial Animal](https://open.spotify.com/artist/75UDNIKbXLmpIGyEuuunjT) | [In The House \- In A Heartbeat](https://open.spotify.com/album/26pBxMWQO0i9vuZDhD9UDW) | 6:04 | 2025-05-04 |  |
 | [Innit ?](https://open.spotify.com/track/1IkHgUGP0jiXoqyZJJzFgr) | [Amaury Laurent Bernier](https://open.spotify.com/artist/3W838tQ7KOuhu6lq0DbKvK) | [Polaroid Revolt](https://open.spotify.com/album/2VigbaNTOIGykpEppCAzz7) | 2:24 | 2026-01-14 | 2026-02-07 |
 | [Into Blue](https://open.spotify.com/track/6cAx77ZP4rAlJq4mgndSpF) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Into Blue](https://open.spotify.com/album/4UhSqi7t5KokI3XCaGwoyd) | 3:17 | 2025-12-17 | 2026-02-07 |
+| [Jesus' Tears \- Crimson Stain Edit](https://open.spotify.com/track/2n4UJK4KOsieCMQPz5XQVc) | [Coma Beach](https://open.spotify.com/artist/0xktqq74a4oPs3L6ITAGaI) | [The Scapegoat's Agony \(Edits, Odds & Ends\)](https://open.spotify.com/album/5JBIVDq10HxLnqN4f6mA06) | 3:03 | 2026-08-24 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-12-17 | 2026-02-07 |
 | [Just a Kiss](https://open.spotify.com/track/3NdMsBPZJxxHZnKsjDRwBt) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Just a Kiss](https://open.spotify.com/album/0gi5x9LzhmWz0hTimUuW8n) | 2:54 | 2025-11-16 | 2026-02-07 |
 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 | 2026-01-14 | 2026-02-07 |

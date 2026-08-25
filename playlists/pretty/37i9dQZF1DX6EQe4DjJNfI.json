@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 191378,
+  "num_followers": 191403,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOdtH88q/1WCma9gXTrNv75TZsm",
+  "snapshot_id": "AAAAAKryMvVpvGmoRadANPc34LYjtjZU",
   "tracks": [
     {
       "added_at": "2026-08-21 22:02:04",
@@ -387,30 +387,6 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "Do Que \u00e9 Feito o Amor?",
-      "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
         "name": "meu particular (remix)",
         "url": "https://open.spotify.com/album/0Ui2F0SvLi7qEqj6UqyJpo"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 204210,
       "name": "meu particular (remix)",
       "url": "https://open.spotify.com/track/1PEWA9tWsSlFUsv0GG9IzA"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "Do Que \u00e9 Feito o Amor?",
+      "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
     },
     {
       "added_at": "2026-08-21 22:02:04",
@@ -835,30 +835,6 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "SEM AR//CAOS",
-        "url": "https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl"
-      },
-      "artists": [
-        {
-          "name": "Gustavvo",
-          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
-        },
-        {
-          "name": "Guiggow",
-          "url": "https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN"
-        },
-        {
-          "name": "Zuchini",
-          "url": "https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "SEM AR",
-      "url": "https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
+        "name": "SEM AR//CAOS",
+        "url": "https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl"
+      },
+      "artists": [
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        },
+        {
+          "name": "Guiggow",
+          "url": "https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN"
+        },
+        {
+          "name": "Zuchini",
+          "url": "https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "SEM AR",
+      "url": "https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9"
     },
     {
       "added_at": "2026-08-21 22:02:04",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
         "name": "Te Faria",
         "url": "https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 184059,
       "name": "Te Faria",
       "url": "https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
     },
     {
       "added_at": "2026-08-21 22:02:04",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
+        "name": "Me Deixa Ser Pausa",
+        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 127389,
+      "name": "Me Deixa Ser Pausa",
+      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
         "name": "Se For Com Voc\u00ea",
         "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 170191,
       "name": "Se For Com Voc\u00ea",
       "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
-        "name": "Me Deixa Ser Pausa",
-        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 127389,
-      "name": "Me Deixa Ser Pausa",
-      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
     },
     {
       "added_at": "2026-08-21 22:02:04",

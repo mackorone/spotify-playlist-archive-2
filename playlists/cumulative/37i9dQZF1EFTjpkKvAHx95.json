@@ -3869,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "SWERVE",
+        "url": "https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171783,
+      "name": "SWERVE",
+      "url": "https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV"
+    },
+    {
+      "album": {
         "name": "Take It Home",
         "url": "https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF"
       },

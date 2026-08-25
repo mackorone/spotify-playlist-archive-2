@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 75 | [Silence](https://open.spotify.com/track/56KHcZ1DEkj3ixRCoxOean) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [Silence](https://open.spotify.com/album/439nkD5urLMoeNQfkIEEYx) | 2:20 |
 | 76 | [taste like candlesticks](https://open.spotify.com/track/2TT0XKIWFIYNCLGscnwxcp) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [It's just a fantasy...](https://open.spotify.com/album/4UzqTezEZpRr7WBdyRkjIF) | 2:20 |
 
-Snapshot ID: `AAAAACfi8O3f5UYWgt3q+vegwpOQyeaF`
+Snapshot ID: `AAAAAFHKs/XZouV8vLN8wrd6R6ztVirX`

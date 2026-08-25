@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 💚 Cover: Birthh
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,982 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,984 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 99 | [Ghiaccio](https://open.spotify.com/track/2QWSGXJm2DstyJ9VnYGZRn) | [Karo](https://open.spotify.com/artist/4t8Wy4slFXJK31m7WpiIB4) | [Artico](https://open.spotify.com/album/4Mw4vIAuG43MC1MjoMpBe3) | 3:32 |
 | 100 | [malalengua](https://open.spotify.com/track/75IEhqTMl96ufVw2O61Vya) | [DIANARA](https://open.spotify.com/artist/6PAvPEmRdQXqiFvOewiN1O) | [malalengua](https://open.spotify.com/album/6OXUzdAOGr2O4rUe6B687A) | 2:22 |
 
-Snapshot ID: `AAAAAKy4i9bsdFjdnBr4ZQvLcQHjtlYN`
+Snapshot ID: `AAAAAJlO29WOA8fsR+AJneB7Vy2DbZwx`

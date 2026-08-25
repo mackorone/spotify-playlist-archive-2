@@ -1,12 +1,12 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117264,
+  "num_followers": 117269,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXrBVWnjohRYRw/Rluu+qq9KB+/",
+  "snapshot_id": "AAAAAMAHGxIRTZmPvmURxsHcc+spzyjL",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:42",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
+        "name": "Harlem River Blues",
+        "url": "https://open.spotify.com/album/1ve8jKdqG5opm9j26Jb8aE"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "Harlem River Blues",
+      "url": "https://open.spotify.com/track/630l6KBVfdgvka6Hv20OM1"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
         "name": "Here We Rest",
         "url": "https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 231883,
       "name": "Alabama Pines",
       "url": "https://open.spotify.com/track/4mBYupeEa1e5Ep2HU7xToZ"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
-        "name": "Harlem River Blues",
-        "url": "https://open.spotify.com/album/1ve8jKdqG5opm9j26Jb8aE"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "Harlem River Blues",
-      "url": "https://open.spotify.com/track/630l6KBVfdgvka6Hv20OM1"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Tomorrow The Green Grass",
-        "url": "https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC"
-      },
-      "artists": [
-        {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Trace (Remastered)",
         "url": "https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 179520,
       "name": "Windfall - 2015 Remaster",
       "url": "https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Tomorrow The Green Grass",
+        "url": "https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "24 Hours A Day",
-        "url": "https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy"
-      },
-      "artists": [
-        {
-          "name": "The Bottle Rockets",
-          "url": "https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Indianapolis",
-      "url": "https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "It Had To Happen",
         "url": "https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 439440,
       "name": "No More Buffalo",
       "url": "https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "24 Hours A Day",
+        "url": "https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy"
+      },
+      "artists": [
+        {
+          "name": "The Bottle Rockets",
+          "url": "https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Indianapolis",
+      "url": "https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1183,8 +1183,8 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "100 Miles of Wreckage",
-        "url": "https://open.spotify.com/album/6dSZmYZTOVUgrsHUMUIChX"
+        "name": "Whiskey Angel",
+        "url": "https://open.spotify.com/album/5c6mKZXRDC5vCKqVTpU9kf"
       },
       "artists": [
         {
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Two Hearts Down",
-      "url": "https://open.spotify.com/track/18i8x1wiccOX6XiHrauIDn"
+      "duration_ms": 292826,
+      "name": "Whiskey Angel",
+      "url": "https://open.spotify.com/track/3Z1BWdwfiXnmLdnNBfRv9u"
     },
     {
       "added_at": "2026-06-19 04:01:42",

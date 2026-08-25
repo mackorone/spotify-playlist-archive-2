@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 293533,
       "name": "Chukwu Oma",
       "url": "https://open.spotify.com/track/7vU6lU4ZNubUeE3yWgTYD6"
@@ -15608,6 +15608,28 @@
       "duration_ms": 553152,
       "name": "Uyabusa (Live at the Durban Icc)",
       "url": "https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU"
+    },
+    {
+      "album": {
+        "name": "Uyinqaba Yami (Live)",
+        "url": "https://open.spotify.com/album/1s0ZK7ptXSnr3SakBh2quF"
+      },
+      "artists": [
+        {
+          "name": "Papa Ndu",
+          "url": "https://open.spotify.com/artist/33a74L52xZRLYRGAEtgVwp"
+        },
+        {
+          "name": "Takie Ndou",
+          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361797,
+      "name": "Uyinqaba Yami - Live",
+      "url": "https://open.spotify.com/track/3FbLOTs1PBGUl1MXiwqIN5"
     },
     {
       "album": {

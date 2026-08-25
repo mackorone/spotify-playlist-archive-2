@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Khontkar, Motive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,426 likes - 49 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,394 likes - 49 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/track/3bfcPN5EAU1CzXIGaWBaUR) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [ASLAN YAKIŞMAZ KAFESTE](https://open.spotify.com/album/2WfdMP5Y3GtlBO857nvF7a) | 1:58 |
 | 49 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
 
-Snapshot ID: `AAAAAI9tGEEYaw9zsBcKi7PwAsxOX12d`
+Snapshot ID: `AAAAAPO15xRX0rmmSsuJu3Q38K59/ZXx`

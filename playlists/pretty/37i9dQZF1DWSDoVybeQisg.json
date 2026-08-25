@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1263030,
+  "num_followers": 1263071,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHpwW5O/Oqy1oi3dM30xvDMlVez",
+  "snapshot_id": "AAAAAGyuspUSzRWoWSmjfahbGHsrIDOH",
   "tracks": [
     {
       "added_at": "2024-07-12 17:17:21",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Buffalo Springfield Again",
-        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Sunshine Superman",
         "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 293933,
       "name": "Season of the Witch",
       "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Buffalo Springfield Again",
+        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "One Rainy Wish",
-      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Sunshine Superman",
         "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 195000,
       "name": "Sunshine Superman",
       "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "One Rainy Wish",
+      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "The Future Starts Here: The Essential Doors Hits",
-        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 390293,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 315040,
       "name": "Comin' Back to Me",
       "url": "https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "The Future Starts Here: The Essential Doors Hits",
+        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 390293,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "The Best of the Lemon Pipers",
-        "url": "https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Pipers",
-          "url": "https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Green Tambourine",
-      "url": "https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Psychedelic Drugstore - Remastered",
         "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 341786,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "The Best of the Lemon Pipers",
+        "url": "https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Pipers",
+          "url": "https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Green Tambourine",
+      "url": "https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr"
     },
     {
       "added_at": "2024-07-12 17:17:21",

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-720 songs - 1 day 16 hr 14 min
+723 songs - 1 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Joan](https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Joan](https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3) | 5:18 | 2022-10-20 | 2023-01-20 |
 | [John Cena](https://open.spotify.com/track/4DKILQtMzmWQe5iWxKfqrE) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Kevin Bedford](https://open.spotify.com/artist/4Db2sZjOrXmsy7upT254sM) | [John Cena](https://open.spotify.com/album/6wgIEc5ueZ7LdkvPiqlUsx) | 2:33 | 2021-09-24 | 2022-01-08 |
 | [JUPITER \- Slow Magic Juno Remix](https://open.spotify.com/track/2m35MFQGUaEJeYlI8C7HBl) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [JUPITER \(Slow Magic Juno Remix\)](https://open.spotify.com/album/0HgzxRbs60fJGk6ynToiOB) | 2:43 | 2021-11-12 | 2022-01-08 |
+| [Keep Your Body Pumpin'](https://open.spotify.com/track/30QbRQyKtBmYGLhBPc1LFE) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [What I Came For](https://open.spotify.com/album/7GAWqY9vCQ37OCDo2TFzS7) | 3:25 | 2026-08-24 |  |
 | [KILLA SOUND](https://open.spotify.com/track/05dEg9CsPGKPhNqwVeUR1H) | [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [KILLA SOUND](https://open.spotify.com/album/7chD0pw2lOJRP5S38ZFEEG) | 3:02 | 2024-03-18 | 2024-03-23 |
 | [Kiss Me Like I'm Drowning](https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Kiss Me Like I'm Drowning](https://open.spotify.com/album/31CUujJDdh2LSbFcyKA93w) | 3:42 | 2022-06-24 | 2023-01-20 |
 | [Kissing Other Boys](https://open.spotify.com/track/35Z1Hr2141V2DLUNtXY3mv) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Kissing Other Boys](https://open.spotify.com/album/5Cj01td2Mh5mgkKNMUXVcP) | 3:03 | 2022-01-18 | 2022-02-05 |
@@ -441,6 +442,7 @@
 | [Nightmare](https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8) | [Nightmare](https://open.spotify.com/album/2Z3uMCXliH7RDx4ab2oMlz) | 2:27 | 2022-10-26 | 2024-08-07 |
 | [Nightmare \- Slow Magic Remix](https://open.spotify.com/track/4VIoiBMQpsIyGH79z1bTKo) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Nightmare \(Slow Magic Remix\)](https://open.spotify.com/album/4Tw8A51yCuX1Slnhs6BC75) | 3:09 | 2024-03-23 | 2025-06-07 |
 | [Nightmares In NYC](https://open.spotify.com/track/3avSZvZd5Cvb2TDyS9yFbb) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Nightmares In NYC](https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph) | 2:57 | 2022-06-28 | 2022-09-19 |
+| [No Air](https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [No Air](https://open.spotify.com/album/2VFS1Gyx1f9abu19Nf7kRd) | 3:17 | 2026-08-24 |  |
 | [No Good Without U](https://open.spotify.com/track/5o4E8YFHl3ggOu1Sv6Y46M) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:07 | 2022-11-04 | 2023-06-23 |
 | [NO JOY](https://open.spotify.com/track/2lg0LnYXyclXEQA0ygfsop) | [Boski](https://open.spotify.com/artist/59cyz7Zo2B3ISbNUVnSIYp), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [NO JOY](https://open.spotify.com/album/5U3Qs2QlAepmJ38IrG5gJI) | 2:35 | 2022-02-28 | 2022-03-31 |
 | [no matter how this ends i'll be just fine](https://open.spotify.com/track/29AWhfeSkjK9h4WrWSJhvQ) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [things i wanna text u](https://open.spotify.com/album/5893KtZcBOjUaqo1RuoRGt) | 2:01 | 2023-07-20 | 2023-10-06 |
@@ -522,6 +524,7 @@
 | [RETURN TO NOTHINGNESS](https://open.spotify.com/track/2huuvkWXprS1pR4VJ8UuG7) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [RETURN TO NOTHINGNESS](https://open.spotify.com/album/2BEk18TPlSSo1Jgbkp999x) | 3:40 | 2022-02-28 | 2022-03-31 |
 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 | 2024-06-28 | 2024-08-07 |
 | [RIDE](https://open.spotify.com/track/2mBYXhbvd9HN1IJtwGARJn) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 3:35 | 2022-03-11 | 2022-04-19 |
+| [Ride \(feat\. Karen Harding\)](https://open.spotify.com/track/2LvrJFOTo9rLYkfGhDcOQV) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Ride \(feat\. Karen Harding\)](https://open.spotify.com/album/2v4r3Pr1BVGql4h89ZkDkS) | 3:20 | 2026-08-24 |  |
 | [Ride Or Die](https://open.spotify.com/track/4cwmGynF3SKhjq4vlGBVTi) | [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju) | [Ride Or Die](https://open.spotify.com/album/6POFris69rMrOUVviVE9Ls) | 3:14 | 2024-02-25 | 2024-08-07 |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2021-11-19 | 2022-01-08 |
 | [RINSE IT \(Feat\. Nevve\)](https://open.spotify.com/track/2GzM7fkgawh6a5KQwMxyCg) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [RINSE IT \(Feat\. Nevve\)](https://open.spotify.com/album/2xPxo5ElY5rM4V5W4GhTDu) | 2:55 | 2025-07-02 |  |

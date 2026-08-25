@@ -1,12 +1,12 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37612,
+  "num_followers": 37611,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAItCmhtZr9YOoO2b+l6fCeAPCtWi",
+  "snapshot_id": "AAAAALPBuZjEcXT8qM0V8N2uH5+mopCp",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:40",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "SOLE",
-        "url": "https://open.spotify.com/album/6aHJtppoC7HW6nWfL5W4gv"
-      },
-      "artists": [
-        {
-          "name": "The Gardener & The Tree",
-          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
-        }
-      ],
-      "duration_ms": 258622,
-      "name": "warm embrace",
-      "url": "https://open.spotify.com/track/34oCJNuVbb7mbbolZZjGjv"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 214404,
       "name": "Fcuk!",
       "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "SOLE",
+        "url": "https://open.spotify.com/album/6aHJtppoC7HW6nWfL5W4gv"
+      },
+      "artists": [
+        {
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+        }
+      ],
+      "duration_ms": 258622,
+      "name": "warm embrace",
+      "url": "https://open.spotify.com/track/34oCJNuVbb7mbbolZZjGjv"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "The One That Got Away",
-        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Backyard By The River",
         "url": "https://open.spotify.com/album/7kdKVcRUFsPY4AagcozeXt"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 169500,
       "name": "River",
       "url": "https://open.spotify.com/track/4rhnAszHuZWU0237E7cdlI"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "The One That Got Away",
+        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Fire To The Sky",
+        "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 165206,
+      "name": "Fire To The Sky",
+      "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "backbone",
         "url": "https://open.spotify.com/album/5oJk44MiQxfydL5aTYU5S0"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 173414,
       "name": "backbone",
       "url": "https://open.spotify.com/track/4DR5gb0S6KOfLx5LGLjyuU"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "HOMECOMING",
-        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 141190,
-      "name": "HOMECOMING",
-      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -559,18 +559,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Fire To The Sky",
-        "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
+        "name": "HOMECOMING",
+        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
       },
       "artists": [
         {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 165206,
-      "name": "Fire To The Sky",
-      "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+      "duration_ms": 141190,
+      "name": "HOMECOMING",
+      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd"
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
       },
       "artists": [
         {
-          "name": "Gabriel Benedek",
-          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
         }
       ],
-      "duration_ms": 157540,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb"
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -711,18 +711,34 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd"
       },
       "artists": [
         {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
         }
       ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
+      "duration_ms": 157540,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Don't Let Him Go",
+        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Don't Let Him Go",
+      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -759,18 +775,18 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Don't Let Him Go",
-        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
       },
       "artists": [
         {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 177250,
-      "name": "Don't Let Him Go",
-      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -787,22 +803,6 @@
       "duration_ms": 167847,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Let Myself Go",
+      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Roommates",
         "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Let Myself Go",
-      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Young Bones",
         "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 184880,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/3EJkFFctLoXCOKrS2O6hKY"
-      },
-      "artists": [
-        {
-          "name": "DJ Antoine",
-          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
-        },
-        {
-          "name": "Tim Moyo",
-          "url": "https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1"
-        }
-      ],
-      "duration_ms": 169930,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1zzrdSKdqTman4sjMyZYpu"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -963,6 +943,26 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3EJkFFctLoXCOKrS2O6hKY"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        {
+          "name": "Tim Moyo",
+          "url": "https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1"
+        }
+      ],
+      "duration_ms": 169930,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1zzrdSKdqTman4sjMyZYpu"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Can't Be Loved",
         "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "House of Glass",
-        "url": "https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 193576,
-      "name": "House of Glass",
-      "url": "https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Dancing Alone Again",
         "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 191432,
       "name": "Dancing Alone Again",
       "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "House of Glass",
+        "url": "https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 193576,
+      "name": "House of Glass",
+      "url": "https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "The World (AR)",
+        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 227651,
+      "name": "The World (AR)",
+      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 201875,
       "name": "Just Like I Love You",
       "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "The World (AR)",
-        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 227651,
-      "name": "The World (AR)",
-      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 163712,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 148410,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 163712,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
     },
     {
       "added_at": "2026-08-06 22:00:40",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-08-06 22:00:40",
       "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Benedek",
-          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
-        }
-      ],
-      "duration_ms": 122410,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
-    },
-    {
-      "added_at": "2026-08-06 22:00:40",
-      "album": {
         "name": "Born With A Broken Heart",
         "url": "https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 186175,
       "name": "Born With A Broken Heart",
       "url": "https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W"
+    },
+    {
+      "added_at": "2026-08-06 22:00:40",
+      "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "duration_ms": 122410,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
     }
   ],
   "unique_name": "Swiss Made",

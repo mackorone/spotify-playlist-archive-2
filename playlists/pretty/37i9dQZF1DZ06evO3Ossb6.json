@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 860864,
+  "num_followers": 860916,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAABoEHJIwBhe1uAzWpggC0Gi",
+  "snapshot_id": "aoo4AAAAAACpb//UlLqQ8uKSqhtwBaFo",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 260853,
-      "name": "Qu\u00e9 L\u00e1stima",
-      "url": "https://open.spotify.com/track/5mqhPFVGkCJ67BtEL52pJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muy Dentro De Mi Corazon",
         "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 197933,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/5uN3aHedE4LXvz2vxwzgLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 260853,
+      "name": "Qu\u00e9 L\u00e1stima",
+      "url": "https://open.spotify.com/track/5mqhPFVGkCJ67BtEL52pJW"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muy Dentro De Mi Corazon",
-        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Es la Mujer",
-      "url": "https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni\u00f1a Amada Mia",
         "url": "https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 192026,
       "name": "Ni\u00f1a Amada M\u00eda",
       "url": "https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muy Dentro De Mi Corazon",
+        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "Es la Mujer",
+      "url": "https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd"
     },
     {
       "added_at": null,

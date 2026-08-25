@@ -4,7 +4,7 @@
 
 > 6 🤷🏼‍♂️7 //  Madame in cover
 
-1,221 songs - 2 day 8 hr 59 min
+1,222 songs - 2 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [GOOD VIBES](https://open.spotify.com/track/0M8pMoPhKVVR8H2spqn6WR) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [GOOD VIBES](https://open.spotify.com/album/2PQxEamcHfVno3b9XqDTZ9) | 2:17 | 2024-11-28 | 2025-03-14 |
 | [Goodbye Lover](https://open.spotify.com/track/2E9wgIcYIg7POy9eBldS3W) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Goodbye Lover](https://open.spotify.com/album/2vq1152LsoFIGXxatJ1Gi4) | 2:56 | 2024-03-28 | 2024-04-19 |
 | [GOOGLEAMORE](https://open.spotify.com/track/6WLqVxJhsjXsCojKjRt2wx) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [LE RAGAZZE DELLA VALLE](https://open.spotify.com/album/1DcCElVfBLCCdQSdqnZHcc) | 2:38 | 2025-05-22 | 2025-08-08 |
-| [GOSSIP](https://open.spotify.com/track/2tluZJcgKr9MV7mOVI18Oi) | [Nahaze](https://open.spotify.com/artist/4lH0PRAS3yV8O05E5lTqwk) | [GOSSIP](https://open.spotify.com/album/5DW7sSwtVr3uzoHFBJTFUx) | 2:17 | 2026-07-09 |  |
+| [GOSSIP](https://open.spotify.com/track/2tluZJcgKr9MV7mOVI18Oi) | [Nahaze](https://open.spotify.com/artist/4lH0PRAS3yV8O05E5lTqwk) | [GOSSIP](https://open.spotify.com/album/5DW7sSwtVr3uzoHFBJTFUx) | 2:17 | 2026-07-09 | 2026-08-25 |
 | [GOVERNO PUNK](https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [GOVERNO PUNK](https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p) | 3:25 | 2024-02-07 | 2024-05-17 |
 | [Graffiti a vela](https://open.spotify.com/track/32lTuogbhdUwVgrSwDd4Kx) | [Gyuse](https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr), [Terso](https://open.spotify.com/artist/68UQjiFaI4yhJwhK9DfLYf) | [Graffiti a vela](https://open.spotify.com/album/7weBguxcwpmluimP9KuwLp) | 2:38 | 2025-07-10 | 2025-10-17 |
 | [Gran Finale](https://open.spotify.com/track/5elZw9mtjjPsXc4ukn3XeH) | [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Indaco](https://open.spotify.com/album/00ALxUXwprONphiPixCN0l) | 2:42 | 2023-03-23 | 2023-03-31 |
@@ -728,6 +728,7 @@
 | [Non me ne frega un cazzo](https://open.spotify.com/track/3pKo8ufvNGhDSJWxMn8Gpa) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:37 | 2023-10-19 | 2023-11-17 |
 | [Non Mi Dimenticherò](https://open.spotify.com/track/3HbwwGqGiHxOJwEnrvkRMe) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Non Mi Dimenticherò](https://open.spotify.com/album/1lP5EHYOFtU1YUHxlfVH0J) | 3:24 | 2024-11-14 | 2025-04-01 |
 | [NON MI IMPORTA PIÙ](https://open.spotify.com/track/7F19ulllw1afmUs2a2R8zU) | [Orfeo](https://open.spotify.com/artist/0qKE4gtUmeZsBMZDgJUvVf) | [NON MI IMPORTA PIÙ](https://open.spotify.com/album/2WIldihdZABOiWHRTl5McA) | 2:00 | 2025-10-30 | 2025-11-14 |
+| [NON MI INNAMORERÓ](https://open.spotify.com/track/0VYXm1KZLDAZFVqHKEim0N) | [Pucho](https://open.spotify.com/artist/5ton3sbMDq2uEanAdRe8Vr), [Mia](https://open.spotify.com/artist/4vMEEtxrl4ZjxQ6uBWuYPc), [Cristy](https://open.spotify.com/artist/5jYnodT8UD7JrZhKisAOA9) | [NON MI INNAMORERÓ](https://open.spotify.com/album/1CNHVED51oAqPKSfsaVZpp) | 2:17 | 2026-08-24 |  |
 | [Non Mi Mancherai](https://open.spotify.com/track/272acVPVqwmcNyHi0J2pmv) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R), [Joe Viegas](https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ) | [Non Mi Mancherai](https://open.spotify.com/album/4PB54tmz9c5AhdIl1LxX10) | 2:30 | 2023-05-04 | 2023-05-19 |
 | [Non mi passa](https://open.spotify.com/track/1kbHcYUr3jpd3zC9A6atGr) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Non mi passa](https://open.spotify.com/album/76GquPKv7KUE4UuhDnE5lP) | 2:32 | 2025-01-16 | 2025-06-20 |
 | [Non Mi Va](https://open.spotify.com/track/3ljUzyyjKC1TWQdbIo2mib) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Non Mi Va](https://open.spotify.com/album/11UvXQ70qJ3ct1kxgzHRRc) | 2:59 | 2023-06-01 | 2023-06-09 |

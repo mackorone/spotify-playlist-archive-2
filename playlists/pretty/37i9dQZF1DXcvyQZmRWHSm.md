@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvyQZmRWHSm.md) - [plain]
 
 > Videos from the most legendary rockstars who inspired generations\. Music videos available only in Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvyQZmRWHSm.md) - [plain]
 | 79 | [Working for the Weekend](https://open.spotify.com/track/6pY88I8vkB0sY3Za4LuTYE) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/7DX38BQ3dzVG01dvMnRuX5) | 3:41 |
 | 80 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 5:54 |
 
-Snapshot ID: `AAAAAGYsMxkn6Wn7K14T4oJwrsUaKHSH`
+Snapshot ID: `AAAAAK5S1j2qkuSSsp5iL7SzYvjhaLdZ`

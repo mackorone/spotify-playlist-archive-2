@@ -1,12 +1,12 @@
 {
   "description": "The most chill instrumental oud sounds.",
-  "num_followers": 95587,
+  "num_followers": 95588,
   "original_name": "Chill-oud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPXI3iKADV3kIZCnZQfiJ7NIBESr",
+  "snapshot_id": "AAAAAAXLVu+D1fP+r/0682hn7wGbmqw8",
   "tracks": [
     {
       "added_at": "2025-10-13 06:31:27",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
+        "name": "Iraq - Irak : The Art of the '\u00fbd (Collection Ocora Radio-France)",
+        "url": "https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x"
+      },
+      "artists": [
+        {
+          "name": "Munir Bashir",
+          "url": "https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A"
+        }
+      ],
+      "duration_ms": 575333,
+      "name": "Taqs\u00eem en maq\u00e2m : Nahawand-kab\u00eer",
+      "url": "https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
         "name": "Nafas",
         "url": "https://open.spotify.com/album/4LwyNUteskctw7AwVmQSQy"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 94000,
       "name": "Nafas",
       "url": "https://open.spotify.com/track/2MOrdaDFhHoyTpefyvQWCF"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
-        "name": "Iraq - Irak : The Art of the '\u00fbd (Collection Ocora Radio-France)",
-        "url": "https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x"
-      },
-      "artists": [
-        {
-          "name": "Munir Bashir",
-          "url": "https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A"
-        }
-      ],
-      "duration_ms": 575333,
-      "name": "Taqs\u00eem en maq\u00e2m : Nahawand-kab\u00eer",
-      "url": "https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Music of Spanish Streets and New Flamenco Gypsy Guitar (For Best Romantic Ambience, Lounge, Dining, Spa, Party)",
-        "url": "https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv"
+        "name": "Souk Okaz",
+        "url": "https://open.spotify.com/album/3af9UPxr1VkRwmp5rPdJcB"
       },
       "artists": [
         {
-          "name": "Andrei Krylov",
-          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
+          "name": "Jean-Marie Riachi",
+          "url": "https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc"
         }
       ],
-      "duration_ms": 251068,
-      "name": "Alhambra Arabic Moorish Princess Song for Flamenco Guitar",
-      "url": "https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu"
+      "duration_ms": 349214,
+      "name": "Souk Okaz",
+      "url": "https://open.spotify.com/track/0M9KszKXLp1kjRTB5td9cT"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -475,18 +475,18 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Souk Okaz",
-        "url": "https://open.spotify.com/album/3af9UPxr1VkRwmp5rPdJcB"
+        "name": "Music of Spanish Streets and New Flamenco Gypsy Guitar (For Best Romantic Ambience, Lounge, Dining, Spa, Party)",
+        "url": "https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv"
       },
       "artists": [
         {
-          "name": "Jean-Marie Riachi",
-          "url": "https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc"
+          "name": "Andrei Krylov",
+          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
         }
       ],
-      "duration_ms": 349214,
-      "name": "Souk Okaz",
-      "url": "https://open.spotify.com/track/0M9KszKXLp1kjRTB5td9cT"
+      "duration_ms": 251068,
+      "name": "Alhambra Arabic Moorish Princess Song for Flamenco Guitar",
+      "url": "https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Khameer",
-        "url": "https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC"
-      },
-      "artists": [
-        {
-          "name": "Basel Rajoub",
-          "url": "https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp"
-        }
-      ],
-      "duration_ms": 264693,
-      "name": "Turkish Coffee",
-      "url": "https://open.spotify.com/track/3169aUzrWTznvVupy1f20E"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
         "name": "Oud (The Legend of Arabic Music)",
         "url": "https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 194186,
       "name": "Nugriz",
       "url": "https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
+        "name": "Khameer",
+        "url": "https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC"
+      },
+      "artists": [
+        {
+          "name": "Basel Rajoub",
+          "url": "https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp"
+        }
+      ],
+      "duration_ms": 264693,
+      "name": "Turkish Coffee",
+      "url": "https://open.spotify.com/track/3169aUzrWTznvVupy1f20E"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Alabanza - Tasabih",
-        "url": "https://open.spotify.com/album/4NsiDOK7VsDTJoEQQvzCK0"
-      },
-      "artists": [
-        {
-          "name": "Saber Abdelsattar",
-          "url": "https://open.spotify.com/artist/2TtJW54EuW7FoqRimKehA5"
-        }
-      ],
-      "duration_ms": 275493,
-      "name": "Sama' Ay Sihr Misr",
-      "url": "https://open.spotify.com/track/3iflS35RQOA8uPKQ9TF455"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
         "name": "O\u011flan Bizim K\u0131z Bizim",
         "url": "https://open.spotify.com/album/1tr6B3iChauvB5MXpZ316V"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 343133,
       "name": "G\u00f6zya\u015f\u0131",
       "url": "https://open.spotify.com/track/7ecoRpurntOKGDj4nL4tIk"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
+        "name": "Alabanza - Tasabih",
+        "url": "https://open.spotify.com/album/4NsiDOK7VsDTJoEQQvzCK0"
+      },
+      "artists": [
+        {
+          "name": "Saber Abdelsattar",
+          "url": "https://open.spotify.com/artist/2TtJW54EuW7FoqRimKehA5"
+        }
+      ],
+      "duration_ms": 275493,
+      "name": "Sama' Ay Sihr Misr",
+      "url": "https://open.spotify.com/track/3iflS35RQOA8uPKQ9TF455"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Aloud Taqaseem Ala",
-        "url": "https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7"
-      },
-      "artists": [
-        {
-          "name": "Ali Hassan",
-          "url": "https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Maqam tour reefy mohammdawiy",
-      "url": "https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG"
-    },
-    {
-      "added_at": "2025-10-13 06:31:27",
-      "album": {
         "name": "Nhaoul'",
         "url": "https://open.spotify.com/album/1ilshQ4SuHvYDETtL8rHB2"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 575973,
       "name": "Hayati - Ma vie / My Life",
       "url": "https://open.spotify.com/track/60635lzVqtNc2lgjLbqH2z"
+    },
+    {
+      "added_at": "2025-10-13 06:31:27",
+      "album": {
+        "name": "Aloud Taqaseem Ala",
+        "url": "https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7"
+      },
+      "artists": [
+        {
+          "name": "Ali Hassan",
+          "url": "https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Maqam tour reefy mohammdawiy",
+      "url": "https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG"
     },
     {
       "added_at": "2025-10-13 06:31:27",
@@ -887,18 +887,18 @@
     {
       "added_at": "2025-10-13 06:31:27",
       "album": {
-        "name": "Arabic Moods",
-        "url": "https://open.spotify.com/album/2RSs9D78seCkdjxP4v0HCq"
+        "name": "ISMET DEMIRHAN",
+        "url": "https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo"
       },
       "artists": [
         {
-          "name": "Soni",
-          "url": "https://open.spotify.com/artist/5PC7uk8MpcC0x1Pf0U6cJV"
+          "name": "ismet Demirhan",
+          "url": "https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV"
         }
       ],
-      "duration_ms": 214018,
-      "name": "Rhythm Stories",
-      "url": "https://open.spotify.com/track/1a1aIaiDhJgw8SztvNe1WP"
+      "duration_ms": 287550,
+      "name": "FIRAT",
+      "url": "https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj"
     }
   ],
   "unique_name": "Chill-oud",

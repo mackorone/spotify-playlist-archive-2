@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QVP0Z2zS3B.md) - [plain]
 | 44 | [Signos \- Remasterizada 2007](https://open.spotify.com/track/62jnuBopQmg4qx6hpYltC9) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto A \(Remastered\)](https://open.spotify.com/album/3QTxxZucih0hympCczXXuO) | 4:31 |
 | 45 | [En El Borde \- Remasterizado 2007](https://open.spotify.com/track/4WOWzyHpoGvlve7qOQiXHf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 4:42 |
 
-Snapshot ID: `AAAAAHzt/PpA0sLMg4KfU7DdBMgSq2T1`
+Snapshot ID: `AAAAACVQ1Rtt1rntL+E8kG3aGhImNXm3`

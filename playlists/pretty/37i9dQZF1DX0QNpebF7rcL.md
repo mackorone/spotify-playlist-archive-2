@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,255 likes - 101 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,281 likes - 101 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 100 | [Come To Find Out](https://open.spotify.com/track/6JAUOcdIdwLQvlw60QKRuW) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Chasing The Sun](https://open.spotify.com/album/3DYC4feYRD2asF8Hndk5E2) | 5:03 |
 | 101 | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi) | 3:14 |
 
-Snapshot ID: `AAAAAHIdC/59K7qNyvq3BvmvYjR9MLn6`
+Snapshot ID: `AAAAALbjj6pHmxIwwX1/GhQ49hLXoENN`

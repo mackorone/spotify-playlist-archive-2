@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 176568,
       "name": "Ah\u00ed",
       "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
@@ -6429,6 +6429,24 @@
     },
     {
       "album": {
+        "name": "Contra quien Sea",
+        "url": "https://open.spotify.com/album/6KgyhHgb7EFL6QzSVGdV2u"
+      },
+      "artists": [
+        {
+          "name": "Dorian Ampie",
+          "url": "https://open.spotify.com/artist/7B6ihAIQ58KBbvtml9LLz7"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188860,
+      "name": "Contra quien Sea",
+      "url": "https://open.spotify.com/track/5k3zrKmE6XoPvnPEeKOaOt"
+    },
+    {
+      "album": {
         "name": "Antes de Ameri",
         "url": "https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU"
       },
@@ -8070,7 +8088,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 226666,
       "name": "Desde Que Te Tengo",
       "url": "https://open.spotify.com/track/27aIkG6qb03S40uNAorXkM"
@@ -18348,7 +18366,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -19032,7 +19050,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 144286,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon"
@@ -28797,6 +28815,32 @@
     },
     {
       "album": {
+        "name": "SIATONTO",
+        "url": "https://open.spotify.com/album/2ryDw5xyH64pNZdETob644"
+      },
+      "artists": [
+        {
+          "name": "4bes",
+          "url": "https://open.spotify.com/artist/73SuBOu3iOokNerNlByLoY"
+        },
+        {
+          "name": "PWater Sounds",
+          "url": "https://open.spotify.com/artist/1Ti5aUoh7R57k3gWtLcORc"
+        },
+        {
+          "name": "Jeybil",
+          "url": "https://open.spotify.com/artist/6LtZCQNjRmsdVzL5jifikS"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122448,
+      "name": "SIATONTO",
+      "url": "https://open.spotify.com/track/0fNUFJPSP5RJ472M5wdtSI"
+    },
+    {
+      "album": {
         "name": "OMAKASE",
         "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
       },
@@ -32020,7 +32064,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 191752,
       "name": "TUKI TUKI",
       "url": "https://open.spotify.com/track/0bn8tRZZtmn6Zdq82T1mOf"
@@ -34294,7 +34338,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

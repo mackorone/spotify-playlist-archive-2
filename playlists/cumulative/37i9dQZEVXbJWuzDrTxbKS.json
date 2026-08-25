@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "25",
       "url": "https://open.spotify.com/track/2JkPzGbdMrftzuvTuGp8ut"
@@ -5670,7 +5670,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -11262,7 +11262,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 242720,
       "name": "Da\u013ca R\u012bgas",
       "url": "https://open.spotify.com/track/6oVyceHNCHCuZlRXXJ1HBY"
@@ -14876,7 +14876,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -25252,7 +25252,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 226640,
       "name": "Kad Izdzis\u012bs",
       "url": "https://open.spotify.com/track/1zLosf3GsDDBM5vaYUm5N0"
@@ -29386,7 +29386,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -31810,7 +31810,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 229180,
       "name": "Meitene",
       "url": "https://open.spotify.com/track/3FZyFfXS4aecdtVDTyYrKv"
@@ -34284,7 +34284,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 197684,
       "name": "M\u016bsu karst\u0101k\u0101 ned\u0113\u013ca Par\u012bz\u0113",
       "url": "https://open.spotify.com/track/4SdHxeMAziWTElwjTK3mHT"
@@ -34364,7 +34364,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "M\u016b\u017eam Jauns",
       "url": "https://open.spotify.com/track/3oQTUYUbPjUZybgQhS6yfW"
@@ -35698,7 +35698,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv"
@@ -35854,7 +35854,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 265500,
       "name": "Nomaina R\u012bti",
       "url": "https://open.spotify.com/track/2rsAcD6CBAWL0aPFaDj48W"
@@ -37893,6 +37893,28 @@
     },
     {
       "album": {
+        "name": "Smaids L\u012bdz Aus\u012bm",
+        "url": "https://open.spotify.com/album/3epao3FKU8gmoDSLMB8JJ1"
+      },
+      "artists": [
+        {
+          "name": "GACHO",
+          "url": "https://open.spotify.com/artist/4ec4Os8XAiwmqZdQga3V7f"
+        },
+        {
+          "name": "Valdis Konstants",
+          "url": "https://open.spotify.com/artist/1CcyXDamTwL3sTmH409kqj"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239395,
+      "name": "Pa Fikso",
+      "url": "https://open.spotify.com/track/2IjnFKsrw1Sg5xCS1a4VtT"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR: HAPPINESS",
         "url": "https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ"
       },
@@ -38382,7 +38404,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 190714,
       "name": "Par Atmi\u0146\u0101m",
       "url": "https://open.spotify.com/track/5KeVphreV2qkvRZupdMFXD"
@@ -42460,7 +42482,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -45112,7 +45134,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
@@ -50507,6 +50529,28 @@
     },
     {
       "album": {
+        "name": "Smaids L\u012bdz Aus\u012bm",
+        "url": "https://open.spotify.com/album/3epao3FKU8gmoDSLMB8JJ1"
+      },
+      "artists": [
+        {
+          "name": "GACHO",
+          "url": "https://open.spotify.com/artist/4ec4Os8XAiwmqZdQga3V7f"
+        },
+        {
+          "name": "Peteris Upelnieks",
+          "url": "https://open.spotify.com/artist/4IRymUmINQIfWYT118gGYG"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230551,
+      "name": "Tava Pasaule",
+      "url": "https://open.spotify.com/track/06V6t9PNcTHpRVCT1CpTsf"
+    },
+    {
+      "album": {
         "name": "Viss ir tie\u0161i t\u0101, k\u0101 tu v\u0113lies",
         "url": "https://open.spotify.com/album/2HojGBrAFx7qYvBdQYM90b"
       },
@@ -54176,7 +54220,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 315280,
       "name": "Tu Saki",
       "url": "https://open.spotify.com/track/3tzNVqoedgEnkeuYzwJ2Xa"
@@ -55882,7 +55926,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 234352,
       "name": "Viktors",
       "url": "https://open.spotify.com/track/0ABOvY9oWhbGZNWQA8GjYI"
@@ -55962,7 +56006,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 221274,
       "name": "Viss Pa \u012astam",
       "url": "https://open.spotify.com/track/2AoUIDi7A7hixQMoWmM5gA"
@@ -55998,7 +56042,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Visu no jauna",
       "url": "https://open.spotify.com/track/5dSMUZJKYqfdpPrdK3ZCTK"

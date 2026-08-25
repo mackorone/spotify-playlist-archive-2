@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, FFAB and the Skulls, David Von Beahm and more",
+  "description": "With The Charlie Marshall Effect, Autoimmune, David Von Beahm and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 298602,
       "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
       "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 193445,
       "name": "After Your Love",
       "url": "https://open.spotify.com/track/0WdGm6My3Tg7qt1Gb71XLs"
@@ -3092,7 +3092,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 208937,
       "name": "Do it again!",
       "url": "https://open.spotify.com/track/28WMizRyK45IcMEANPoqR6"
@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 208490,
       "name": "End of Chocolate",
       "url": "https://open.spotify.com/track/1jEr9qqNs6CHSPi3KwfZpC"
@@ -3964,7 +3964,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 161377,
       "name": "End of your Existence",
       "url": "https://open.spotify.com/track/7BlWU9BYjGtDvuYVk60Ti9"
@@ -4454,7 +4454,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 301250,
       "name": "Fall from Grace",
       "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
@@ -4472,7 +4472,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -4530,7 +4530,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 323278,
       "name": "Fantasmata",
       "url": "https://open.spotify.com/track/7khISxFcHJyyZ21kCSQ3U7"
@@ -4876,7 +4876,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 330737,
       "name": "Flieg Vogel flieg",
       "url": "https://open.spotify.com/track/4D1e1mUnr2huaOxcEZv08G"
@@ -5854,7 +5854,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 172015,
       "name": "Hierro y cristal",
       "url": "https://open.spotify.com/track/4mqrGQa5devAGwCCfGDJpI"
@@ -6146,7 +6146,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 297735,
       "name": "I Consider My Own",
       "url": "https://open.spotify.com/track/0NvwPZNNlbcuiiyyhexD7u"
@@ -6391,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "I've got a pimple on the end of my Nose",
+        "url": "https://open.spotify.com/album/1uvcxF5aRj0pxpNyIAD1GV"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Marshall Effect",
+          "url": "https://open.spotify.com/artist/6qWLUNjrDejYDpi33PnFvJ"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "I've got a pimple on the end of my Nose",
+      "url": "https://open.spotify.com/track/63SLIxTcwnYDJ2pyGXyYKL"
+    },
+    {
+      "album": {
         "name": "I`m a Rocket",
         "url": "https://open.spotify.com/album/380849ReEh9WgiwL3YWvWh"
       },
@@ -6492,7 +6510,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 233333,
       "name": "If We Dance",
       "url": "https://open.spotify.com/track/4m46QNdb5k5TXLOyFumiIV"
@@ -6708,7 +6726,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -6986,7 +7004,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -7152,7 +7170,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -7354,7 +7372,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Last Good Year",
       "url": "https://open.spotify.com/track/5abvZLtaVQlfFNqoeEv5ur"
@@ -7520,7 +7538,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -7574,7 +7592,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -7860,7 +7878,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -8542,7 +8560,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -9112,7 +9130,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 220506,
       "name": "My Black Mirror",
       "url": "https://open.spotify.com/track/06FB6M3MM69kGzK3UneyH5"
@@ -9206,7 +9224,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -9336,7 +9354,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -10528,7 +10546,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 351146,
       "name": "Passage",
       "url": "https://open.spotify.com/track/3i5lFBoCIBlBoo54xIj3gF"
@@ -11268,7 +11286,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 165484,
       "name": "Ridiculously Low White Blood Cells",
       "url": "https://open.spotify.com/track/08BPcBc5XHp4h4DeNB4WRT"
@@ -11654,7 +11672,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 184000,
       "name": "see through",
       "url": "https://open.spotify.com/track/604mDyhrRNBEdiajmudZ39"
@@ -11946,7 +11964,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 175710,
       "name": "She's a Monster",
       "url": "https://open.spotify.com/track/7o51VO13qSZu11iVoVZzPC"
@@ -12890,7 +12908,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 207623,
       "name": "Stum tystnad",
       "url": "https://open.spotify.com/track/4fTHAUI2k7UbwRZrFIapmU"
@@ -14196,7 +14214,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 207800,
       "name": "The Sheep",
       "url": "https://open.spotify.com/track/1Cwu4QK3uBAtL7otbo2bnn"
@@ -14460,7 +14478,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -14850,7 +14868,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 168574,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/2mwTI5QWepywqsrp4YG6QL"
@@ -15234,7 +15252,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 211040,
       "name": "Un like",
       "url": "https://open.spotify.com/track/4tF9BrYphNbdxL87KtAJct"
@@ -15565,6 +15583,24 @@
     },
     {
       "album": {
+        "name": "Vicious Circle (The Remix)",
+        "url": "https://open.spotify.com/album/3tRvnokOslvqryc0Ga702B"
+      },
+      "artists": [
+        {
+          "name": "JZ",
+          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281494,
+      "name": "Vicious Circle - The Remix",
+      "url": "https://open.spotify.com/track/0hAMcrJmELgj72PMjeFqrG"
+    },
+    {
+      "album": {
         "name": "Systeemi",
         "url": "https://open.spotify.com/album/5iDdFI6IZWxoum8Ya5vmd5"
       },
@@ -15728,7 +15764,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 121973,
       "name": "V\u00e6rstev\u00e6nna",
       "url": "https://open.spotify.com/track/4PoNlPin3j1eXYFbJ8P4sV"
@@ -17330,7 +17366,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 501726,
       "name": "\uc0ac\ub3c4",
       "url": "https://open.spotify.com/track/0S6zCcxgLmOc5NS9jepnwe"

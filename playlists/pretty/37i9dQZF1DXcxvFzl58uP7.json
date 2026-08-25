@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGr7SXD1a34/F5+VX4CsQwt0OiYw",
+  "snapshot_id": "AAAAADo6j8RV5IaMq7by5dxcqTqsXZqz",
   "tracks": [
     {
       "added_at": "2026-08-21 04:03:40",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-08-21 04:03:40",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 214504,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2"
-    },
-    {
-      "added_at": "2026-08-21 04:03:40",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 230625,
       "name": "Skin",
       "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
+    },
+    {
+      "added_at": "2026-08-21 04:03:40",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 214504,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2"
     },
     {
       "added_at": "2026-08-21 04:03:40",
@@ -943,18 +943,18 @@
     {
       "added_at": "2026-08-21 04:03:40",
       "album": {
-        "name": "Kiss the Sun",
-        "url": "https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg"
+        "name": "coogie",
+        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
       "artists": [
         {
-          "name": "Asal",
-          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 149479,
-      "name": "for keeps",
-      "url": "https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk"
+      "duration_ms": 189514,
+      "name": "coogie",
+      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     },
     {
       "added_at": "2026-08-21 04:03:40",
@@ -975,34 +975,18 @@
     {
       "added_at": "2026-08-21 04:03:40",
       "album": {
-        "name": "Ease Your Mind",
-        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
+        "name": "Kiss the Sun",
+        "url": "https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
-    },
-    {
-      "added_at": "2026-08-21 04:03:40",
-      "album": {
-        "name": "coogie",
-        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "coogie",
-      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
+      "duration_ms": 149479,
+      "name": "for keeps",
+      "url": "https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk"
     },
     {
       "added_at": "2026-08-21 04:03:40",
@@ -1019,6 +1003,22 @@
       "duration_ms": 147027,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "added_at": "2026-08-21 04:03:40",
+      "album": {
+        "name": "Ease Your Mind",
+        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
     },
     {
       "added_at": "2026-08-21 04:03:40",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-08-21 04:03:40",
       "album": {
-        "name": "Ordinary, Extraordinary",
-        "url": "https://open.spotify.com/album/2jE0K3sXDhqkzaDXm3kcEm"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Ordinary, Extraordinary",
-      "url": "https://open.spotify.com/track/6NWc5cS7mmwRqSy9fviIMd"
-    },
-    {
-      "added_at": "2026-08-21 04:03:40",
-      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 195514,
       "name": "Blue Sea",
       "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
+    },
+    {
+      "added_at": "2026-08-21 04:03:40",
+      "album": {
+        "name": "Ordinary, Extraordinary",
+        "url": "https://open.spotify.com/album/2jE0K3sXDhqkzaDXm3kcEm"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Ordinary, Extraordinary",
+      "url": "https://open.spotify.com/track/6NWc5cS7mmwRqSy9fviIMd"
     },
     {
       "added_at": "2026-08-21 04:03:40",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2026-08-21 04:03:40",
       "album": {
-        "name": "Off and On",
-        "url": "https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU"
+        "name": "Natalie (40 Seasons Later)",
+        "url": "https://open.spotify.com/album/1E2IiNX98czYyc2R5T0vk1"
       },
       "artists": [
         {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
         }
       ],
-      "duration_ms": 250909,
-      "name": "Off and On",
-      "url": "https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s"
+      "duration_ms": 332293,
+      "name": "Natalie (40 Seasons Later)",
+      "url": "https://open.spotify.com/track/1bsLzTJRbc3uUm8PNJV5vM"
     },
     {
       "added_at": "2026-08-21 04:03:40",
@@ -1575,6 +1575,22 @@
       "duration_ms": 268801,
       "name": "Superfan",
       "url": "https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci"
+    },
+    {
+      "added_at": "2026-08-21 04:03:40",
+      "album": {
+        "name": "Off and On",
+        "url": "https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "duration_ms": 250909,
+      "name": "Off and On",
+      "url": "https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s"
     },
     {
       "added_at": "2026-08-21 04:03:40",
@@ -1623,22 +1639,6 @@
       "duration_ms": 157567,
       "name": "Cherry Red Balloon",
       "url": "https://open.spotify.com/track/1fvDKiM3cQ0L4fYBbqfB0q"
-    },
-    {
-      "added_at": "2026-08-21 04:03:40",
-      "album": {
-        "name": "Natalie (40 Seasons Later)",
-        "url": "https://open.spotify.com/album/1E2IiNX98czYyc2R5T0vk1"
-      },
-      "artists": [
-        {
-          "name": "Milk & Bone",
-          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Natalie (40 Seasons Later)",
-      "url": "https://open.spotify.com/track/1bsLzTJRbc3uUm8PNJV5vM"
     }
   ],
   "unique_name": "Bedroom Pop",

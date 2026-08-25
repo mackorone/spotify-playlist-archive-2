@@ -6545,44 +6545,6 @@
     },
     {
       "album": {
-        "name": "Tera Mera Rishta Continues (From \"Awarapan 2\")",
-        "url": "https://open.spotify.com/album/14GJT7Gu8zkP6AFg8wSZ43"
-      },
-      "artists": [
-        {
-          "name": "Mithoon",
-          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Mustafa Zahid",
-          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
-        },
-        {
-          "name": "Sayeed Quadri",
-          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
-        },
-        {
-          "name": "Saaj Bhatt",
-          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
-        },
-        {
-          "name": "Subodhh Sharma",
-          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
-        }
-      ],
-      "date_added": "2026-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215294,
-      "name": "Tera Mera Rishta Continues (From \"Awarapan 2\")",
-      "url": "https://open.spotify.com/track/4YTR76U6J6LnV125YCPtLW"
-    },
-    {
-      "album": {
         "name": "Simmba",
         "url": "https://open.spotify.com/album/3dynRTuVOrAr5O7srr2txN"
       },
@@ -6952,6 +6914,44 @@
       "duration_ms": 218048,
       "name": "Thodi Jagah (From \"Marjaavaan\")",
       "url": "https://open.spotify.com/track/3f0wz6zcA7XkQiGm0qNF5r"
+    },
+    {
+      "album": {
+        "name": "TMRC (From \"Awarapan 2\")",
+        "url": "https://open.spotify.com/album/14GJT7Gu8zkP6AFg8wSZ43"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "TMRC (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/4YTR76U6J6LnV125YCPtLW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Roxy Dekker,  Tino Martin & Billy Dansen, Jorja Smith, Fontaines D.C\. en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,902 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,887 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 15 | [Vang Je Mij](https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Vang Je Mij](https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL) | 3:39 |
 | 16 | [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 |
 | 17 | [Back 2 Back](https://open.spotify.com/track/7AzSpz2cBOFzFfBQwZHSyA) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Eb & Vloed](https://open.spotify.com/album/2R5kRgGUs6vPsAOrYohTaO) | 2:34 |
-| 18 | [Rode WIjn](https://open.spotify.com/track/6l4oieYjnpAtrAFjldrFuF) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Rode Wijn](https://open.spotify.com/album/1pV3ECYqySPV6PbluDQcFt) | 2:51 |
+| 18 | [Rode Wijn](https://open.spotify.com/track/6l4oieYjnpAtrAFjldrFuF) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Rode Wijn](https://open.spotify.com/album/1pV3ECYqySPV6PbluDQcFt) | 2:51 |
 | 19 | [Catch a Fire](https://open.spotify.com/track/7LGJjBZeIJfC7Z3lTbJKtx) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i) | [Giv Dem Wha Dey Wan](https://open.spotify.com/album/1aLZ4uaahchkxYtmT9GVlf) | 2:26 |
 | 20 | [Arcadia](https://open.spotify.com/track/568sHVfdhdW55FWLBptScf) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Arcadia](https://open.spotify.com/album/2JXAsLoPlEknX2ejuNERZK) | 3:21 |
 | 21 | [Papa's Geld](https://open.spotify.com/track/1s6OsKWzYAPdQrF9HJjplT) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Papa's Geld](https://open.spotify.com/album/2SDdUEUN0OOzxV2hhdgrWm) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Vanavond Ben Ik Vrij](https://open.spotify.com/track/4VICuM9mi2zfDUlmm0oJRl) | [Martijn Fischer](https://open.spotify.com/artist/3XcxxF0DcHXaSKutfg7vng) | [Vanavond Ben Ik Vrij](https://open.spotify.com/album/0GHA1eHbaMBav2Kep5HZZP) | 3:00 |
 | 100 | [De Liefde Die blijft](https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [De Liefde Die blijft](https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8) | 2:52 |
 
-Snapshot ID: `AAAAABiSic+0y1df4e3GjkG7by/Dsrgu`
+Snapshot ID: `AAAAAKbFinFBRWnRqCMIMBEctSiMRP3/`

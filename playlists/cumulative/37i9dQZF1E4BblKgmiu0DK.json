@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 159285,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 175846,
       "name": "Animals",
       "url": "https://open.spotify.com/track/4vqhWeI7nbLxZpYBghmrbR"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 173642,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/0cGajDNy4Y8likMbJdTtyt"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 248174,
       "name": "Better in the Day",
       "url": "https://open.spotify.com/track/5cOPGhgJ9y6J6ErrOTKpi5"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 167786,
       "name": "Drawing a Blank",
       "url": "https://open.spotify.com/track/4uq8q972ePu8YT6cy2eTgj"
@@ -3470,7 +3470,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 237080,
       "name": "Freaks Like Us",
       "url": "https://open.spotify.com/track/6FvEXczXsFq0P92Oe3prqs"
@@ -3986,7 +3986,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -4454,7 +4454,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 208666,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/4kXObcVgUu9bQvgQj9pLEp"
@@ -4580,7 +4580,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 254400,
       "name": "Hang On Me",
       "url": "https://open.spotify.com/track/34RCix3Dx61ufZFSDlIyNs"
@@ -4602,6 +4602,24 @@
       "duration_ms": 195724,
       "name": "hate u right back!",
       "url": "https://open.spotify.com/track/1ZA8CfB3mey8cITFAJBH2s"
+    },
+    {
+      "album": {
+        "name": "Calls for Rebellion",
+        "url": "https://open.spotify.com/album/1bBuSOG6lNGCyA3n9RpRpS"
+      },
+      "artists": [
+        {
+          "name": "The Soap Girls",
+          "url": "https://open.spotify.com/artist/1OLHfdAPzzmWwnOVSX67km"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200226,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/0dyrtx0dDhiY2gvvDogbQZ"
     },
     {
       "album": {
@@ -4778,7 +4796,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 237533,
       "name": "Her Song",
       "url": "https://open.spotify.com/track/1rQaA9vOkO3vzrrJEfagd1"
@@ -6098,7 +6116,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -7176,7 +7194,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 190080,
       "name": "Midnight Murderess",
       "url": "https://open.spotify.com/track/4865D6T6UPpfRfpzSXNhQi"
@@ -7954,7 +7972,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 211291,
       "name": "Not Listening",
       "url": "https://open.spotify.com/track/38MVfDV99sgd5GaMvZrxRR"
@@ -8214,6 +8232,24 @@
       "duration_ms": 136788,
       "name": "On My Wave",
       "url": "https://open.spotify.com/track/0i42n0Eri0jNoDQB2clC81"
+    },
+    {
+      "album": {
+        "name": "Tangled Up (Deluxe)",
+        "url": "https://open.spotify.com/album/3BE2Utw33wyYbatR4CEOcy"
+      },
+      "artists": [
+        {
+          "name": "Girls Aloud",
+          "url": "https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245813,
+      "name": "On My Way To Satisfaction",
+      "url": "https://open.spotify.com/track/6MYzjML0jNffn65EWXoLAp"
     },
     {
       "album": {
@@ -8678,7 +8714,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -8718,6 +8754,24 @@
       "duration_ms": 225440,
       "name": "Phase Transition",
       "url": "https://open.spotify.com/track/5126Zi3wuCY7NwZW8dsJIm"
+    },
+    {
+      "album": {
+        "name": "Suck It",
+        "url": "https://open.spotify.com/album/4vRrW6y94BPhKv7PddBJ38"
+      },
+      "artists": [
+        {
+          "name": "The Rumours",
+          "url": "https://open.spotify.com/artist/3AQmUdWyaopctcHvsPtgDC"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205271,
+      "name": "Phone Calls",
+      "url": "https://open.spotify.com/track/7AkKvO5OaTLYoDJq1Z7kDq"
     },
     {
       "album": {
@@ -8898,7 +8952,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -9796,6 +9850,24 @@
       "duration_ms": 159914,
       "name": "Shrivel/Shrink",
       "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
+    },
+    {
+      "album": {
+        "name": "Fractured Signal",
+        "url": "https://open.spotify.com/album/1mv58iR2rrblNmCAvrmsyF"
+      },
+      "artists": [
+        {
+          "name": "Sylvex",
+          "url": "https://open.spotify.com/artist/1mw0mI6MPqsc48zSN8CVE4"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182150,
+      "name": "Signal Born",
+      "url": "https://open.spotify.com/track/0h3KrQMhfOUXhcTdXGgWJI"
     },
     {
       "album": {
@@ -10794,7 +10866,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -11270,7 +11342,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 135163,
       "name": "Turn You Off",
       "url": "https://open.spotify.com/track/11V3BXeXgGUSE5y3JEwXqe"
@@ -11576,7 +11648,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 115480,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/0E70YerfAQ1gbc6f7P2qdC"
@@ -11990,7 +12062,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 187950,
       "name": "WITNESS TO YOUR MOANS",
       "url": "https://open.spotify.com/track/3fj9UnD2lAbAfIO84gt1D0"

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones Cristianas.  Foto: Aline Barros y Danny Gokey",
-  "num_followers": 168587,
+  "num_followers": 168629,
   "original_name": "Todas Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAgrjci/9qyRFYRlx3tr/vFv9ja7",
+  "snapshot_id": "AAAAACSTdamDAGOHV1rtVfyBa5V/gudQ",
   "tracks": [
     {
       "added_at": "2026-08-21 08:36:02",
@@ -195,17 +195,21 @@
     {
       "added_at": "2026-08-21 08:36:02",
       "album": {
-        "name": "Dios no falla (Acustico)",
+        "name": "Dios no falla (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7kXXieoeMmcqWJfbc6pYVf"
       },
       "artists": [
         {
           "name": "Esteban Music",
           "url": "https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH"
+        },
+        {
+          "name": "Isaac Ramos",
+          "url": "https://open.spotify.com/artist/2CM8oWpCey84yaqw4anuks"
         }
       ],
       "duration_ms": 169293,
-      "name": "Dios no falla - Acustico",
+      "name": "Dios no falla - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3MtSQsU2cESeDk3ZU5RMIZ"
     },
     {

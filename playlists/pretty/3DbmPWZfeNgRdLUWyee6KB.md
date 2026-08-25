@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 125 songs - 7 hr 19 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 130 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 102 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 |
 | 103 | [By your side](https://open.spotify.com/track/2PhjsfyyqYKfgwC5LEaFjv) | [Sara Ek](https://open.spotify.com/artist/3a5j3QOGkjno2pwwztoxVG) | [By your side](https://open.spotify.com/album/0PUSyahfMWDhAJyzG3Ep7v) | 3:26 |
 | 104 | [NOUS VS](https://open.spotify.com/track/5SDmLZ1sHna4BaDGOYFPry) | [Nous VS](https://open.spotify.com/artist/20Dm5BMSCH5unIgew8WVwA) | [NOUS VS](https://open.spotify.com/album/1xT3qNjK0YEhgdzcGC1mwS) | 2:17 |
-| 105 | [Caffeine Me](https://open.spotify.com/track/52XPRFSTLxdrsPkPKScvCv) | [Tim Dean](https://open.spotify.com/artist/6ljXhNnXoYGVHFwaUt77OP) | [Caffeine Me](https://open.spotify.com/album/5MiwbuT50w6i4jvY93iizh) | 2:54 |
+| 105 | [Caffeine Me](https://open.spotify.com/track/52XPRFSTLxdrsPkPKScvCv) | [Tim Dean](https://open.spotify.com/artist/6ljXhNnXoYGVHFwaUt77OP) | [Caffeine Me](https://open.spotify.com/album/5MiwbuT50w6i4jvY93iizh) | 2:53 |
 | 106 | [Kapanmayan Yara](https://open.spotify.com/track/3hRkj9UQCZE7yqkQnbFXl9) | [Senfonia Sound](https://open.spotify.com/artist/5lowV6dVoWE3CYVXUxPO5N) | [Kapanmayan Yara](https://open.spotify.com/album/14mtNlJYZwyW5nmE84gw0I) | 4:02 |
 | 107 | [Alibi \- CASA J Remix](https://open.spotify.com/track/1ZvqM46DaPJ9ERa4PJIgOB) | [Jay Hofman](https://open.spotify.com/artist/4WWuKUayc9e9IQm8cAV72x), [CASA J](https://open.spotify.com/artist/6UoFcXpCqCyvykB1eXtZnQ) | [Alibi](https://open.spotify.com/album/1msVNemJrpRm3SXhDHws3W) | 3:12 |
 | 108 | [Lo que vivimos allí](https://open.spotify.com/track/7HsRI48PwiHlUzebkWHALn) | [Saúl](https://open.spotify.com/artist/5CsCXeMtpMq83giGeoGP0r) | [Lo que vivimos allí](https://open.spotify.com/album/0eNIznu3gbDHwUZHFfvXaw) | 4:15 |
@@ -133,5 +133,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 123 | [what you want](https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [what you want](https://open.spotify.com/album/5rncqxKNvPAqA1nZFZ7yCy) | 2:34 |
 | 124 | [Vitanova](https://open.spotify.com/track/0btWnV5EiS7kzDlDbkgsTH) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Vitanova](https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL) | 3:15 |
 | 125 | [Till I Die](https://open.spotify.com/track/5NR5MyDRJjh4SfGe1SIbpe) | [Peter Raadho](https://open.spotify.com/artist/7u8tdfvBBUHAwiqDkmTIUx) | [Till I Die](https://open.spotify.com/album/3kLyxG63lNZ1O6rqKbjr4o) | 4:44 |
+| 126 | [Lay Down Your Arms](https://open.spotify.com/track/7nWjyT8LzLPoY5iDZSBzvE) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade \(Japan Edition\)](https://open.spotify.com/album/11Yy2KflENJe5ohjIIcVsm) | 4:27 |
+| 127 | [It's Not A Love Song](https://open.spotify.com/track/2nYU8y9PJSY6eB2KZvUSUK) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [It's Not A Love Song](https://open.spotify.com/album/4G15K8x7LWsUsoQMLR7A6V) | 4:09 |
+| 128 | [Verlorene Freundschaft](https://open.spotify.com/track/720ycQ3qBl0PfRR07nyk2i) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Verlorene Freundschaft](https://open.spotify.com/album/6fDaEQjkaYAqwHKsDAYslm) | 3:35 |
+| 129 | [circles](https://open.spotify.com/track/6AN1RdJk3621MSbxtvGJJG) | [Abby Hayes](https://open.spotify.com/artist/4uq3sajRfWtL1i1mN2SZA7) | [circles](https://open.spotify.com/album/0nKPivAAFf8tkRBYVNlmeN) | 2:57 |
+| 130 | [A Grave for Your Grief](https://open.spotify.com/track/3YMBzXhzprcuffAsqsWJh1) | [MEERKEIME](https://open.spotify.com/artist/1jDLEyYY7Y17UFRFixE0vT) | [A Grave for Your Grief](https://open.spotify.com/album/60gycvAG35h9DKd1oGN4J8) | 4:59 |
 
-Snapshot ID: `AAAXNyobPclzzFF7i31DOaU7jQICmkqR`
+Snapshot ID: `AAAXPFTQr1zLFTWXgczLjB7GR8SQU9VY`

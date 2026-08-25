@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Robyn Ottolini
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,250 likes - 175 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,257 likes - 175 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 174 | [Fools](https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Paradise & Hurricanes](https://open.spotify.com/album/2r9AsTcJn97CcARYFM8pMx) | 3:24 |
 | 175 | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK) | 3:54 |
 
-Snapshot ID: `AAAAAPrL6Mbm8Zx7+ohAUK5QHP1440XJ`
+Snapshot ID: `AAAAAEqbM1wkuObvQoCHpwx/Vymy3wzW`

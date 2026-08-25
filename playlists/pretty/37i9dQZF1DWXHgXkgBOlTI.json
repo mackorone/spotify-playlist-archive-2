@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Still Caravan",
-  "num_followers": 33255,
+  "num_followers": 33262,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALnpTty5V2JOgeh6EMOfYQGAkfNe",
+  "snapshot_id": "AAAAAKYg/2rI2Bl6zgxERBIe3Psa79P3",
   "tracks": [
     {
       "added_at": "2026-08-04 15:00:25",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
+        "name": "Floating in the midnight sun",
+        "url": "https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 260861,
+      "name": "Ephemeral summer",
+      "url": "https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0"
+    },
+    {
+      "added_at": "2026-04-28 15:00:59",
+      "album": {
         "name": "OUT THERE [Feat. Sonicwonder]",
         "url": "https://open.spotify.com/album/5Z1XM55fh24JfLyDWWzRRl"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 494000,
       "name": "Yes! Ramen!! [Feat. Sonicwonder]",
       "url": "https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s"
-    },
-    {
-      "added_at": "2026-04-28 15:00:59",
-      "album": {
-        "name": "Floating in the midnight sun",
-        "url": "https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 260861,
-      "name": "Ephemeral summer",
-      "url": "https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "Ordinary Landscape",
-        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
-    },
-    {
-      "added_at": "2026-04-28 15:00:59",
-      "album": {
         "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
         "url": "https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 236266,
       "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
       "url": "https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L"
+    },
+    {
+      "added_at": "2026-04-28 15:00:59",
+      "album": {
+        "name": "Ordinary Landscape",
+        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP"
       },
       "artists": [
         {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
         }
       ],
-      "duration_ms": 404426,
-      "name": "\u767d\u9ce5",
-      "url": "https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB"
+      "duration_ms": 245500,
+      "name": "\u54c0\u3057\u3044\u4e88\u611f / \u30ea\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

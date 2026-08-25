@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 72877,
+  "num_followers": 72886,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMBk5XqzTNpt2d01FjVMiIEeJ9Fh",
+  "snapshot_id": "AAAAAAdXq08ds8gpeJIvbBaG1wAP60oQ",
   "tracks": [
     {
       "added_at": "2026-08-14 11:41:04",
@@ -27,6 +27,30 @@
       "duration_ms": 320905,
       "name": "Aaradha Gaaya - From \"Toxic - Kannada\"",
       "url": "https://open.spotify.com/track/0SZ3f2WVfO7w5LyBlWnAOc"
+    },
+    {
+      "added_at": "2026-08-24 14:31:32",
+      "album": {
+        "name": "Onde Chandra (From \"CityLights\")",
+        "url": "https://open.spotify.com/album/3ujR9nyC5ZepQG0hkmbgRE"
+      },
+      "artists": [
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "duration_ms": 263542,
+      "name": "Onde Chandra (From \"CityLights\")",
+      "url": "https://open.spotify.com/track/2p78hMmtnYxRWGwgnKWNWa"
     },
     {
       "added_at": "2026-08-07 06:56:04",
@@ -103,6 +127,30 @@
       "duration_ms": 174801,
       "name": "Hello Hello Neelambari (From \"Toss\")",
       "url": "https://open.spotify.com/track/11KnxP2nh0dLYvABna6945"
+    },
+    {
+      "added_at": "2026-08-24 14:31:32",
+      "album": {
+        "name": "Beda Yaava Sundari (From \"Toss\")",
+        "url": "https://open.spotify.com/album/79SmTCcReoh4v3a0rRUrB8"
+      },
+      "artists": [
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "duration_ms": 194201,
+      "name": "Beda Yaava Sundari (From \"Toss\")",
+      "url": "https://open.spotify.com/track/6PteIaOOUCeM6BrOaFiitS"
     },
     {
       "added_at": "2026-08-19 10:25:41",
@@ -311,6 +359,30 @@
       "duration_ms": 223073,
       "name": "Disturb Madthawalalla (From \"Bentlee\")",
       "url": "https://open.spotify.com/track/5CJfuDbct0i7qaY2Qmb1Ar"
+    },
+    {
+      "added_at": "2026-08-24 14:31:32",
+      "album": {
+        "name": "Eddelu Sobudike (From \"Chandrahaasa'')",
+        "url": "https://open.spotify.com/album/5Cg51z7MerOaXX5NzGsMPY"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        },
+        {
+          "name": "Vijay Raghavendra",
+          "url": "https://open.spotify.com/artist/4w3FrF0a0IVAlEU8huPAyU"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Eddelu Sobudike (From \"Chandrahaasa'')",
+      "url": "https://open.spotify.com/track/2TiYP86FLc3JVkAoECOloZ"
     },
     {
       "added_at": "2026-08-18 08:16:48",

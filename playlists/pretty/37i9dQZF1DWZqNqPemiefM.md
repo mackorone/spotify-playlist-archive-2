@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: maya ongaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,834 likes - 195 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,894 likes - 195 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 30 | [Oslo](https://open.spotify.com/track/2rEozOaQ9KU15bz253g1Cb) | [Tyondai Braxton](https://open.spotify.com/artist/3LxogQGFWIVPpDWNOVlSzK) | [Oslo](https://open.spotify.com/album/4mbnDMvaYSwY2h7WdD1xHY) | 8:36 |
 | 31 | [Abbeycwmhir](https://open.spotify.com/track/1JxboUHhRV1ZVmZlUPMc4G) | [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE) | [Abbeycwmhir](https://open.spotify.com/album/3YRqB5qF55zVjk3UX3e05t) | 3:29 |
 | 32 | [Sing To](https://open.spotify.com/track/5X6zwyutwK7uSj0uFOSpad) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Sing To](https://open.spotify.com/album/0Mk8L0gOTZ0h880gaG43M4) | 3:29 |
-| 33 | [Tera \(K\-LONE Remix\)](https://open.spotify.com/track/55s7NXqFZyYyx6MGpJk9L3) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Body Trip \(Remixed\) \(2026 Remaster\)](https://open.spotify.com/album/1hA7eN2qtlswbfKlbT2odr) | 7:26 |
+| 33 | [Tera \- K\-LONE Remix](https://open.spotify.com/track/55s7NXqFZyYyx6MGpJk9L3) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Body Trip \(Remixed\) \[2026 Remaster\]](https://open.spotify.com/album/1hA7eN2qtlswbfKlbT2odr) | 7:26 |
 | 34 | [A View of the Ocean from My Train Window](https://open.spotify.com/track/4g4z42hv2X9nooDUzmYrb4) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw), [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [A View of the Ocean from My Train Window](https://open.spotify.com/album/6KycaphTjz6mAqoMFXe1bu) | 3:56 |
 | 35 | [Radiant](https://open.spotify.com/track/65sh1WnzLV6k4VcSe20OVR) | [Kenta Tanaka](https://open.spotify.com/artist/0QEKyMa0WTiCpRz5vN0f9K) | [Radiant](https://open.spotify.com/album/6JbsmswmVHUP53fy6gnguW) | 3:37 |
 | 36 | [－－－ －･ ･－･･ －･－－](https://open.spotify.com/track/4XupTIpXQXHehljGjLkiwl) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－－ －･ ･－･･ －･－－](https://open.spotify.com/album/7p8WjXvUzAa4MThnghq0bw) | 4:38 |
 | 37 | [Basil's dream](https://open.spotify.com/track/6jmirL4rbnzVmxdo9XITR3) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Music To Watch Seeds Grow By 008: Salamanda \(Basil\)](https://open.spotify.com/album/21Yh6bO2hOL7wqy5mZsaSs) | 2:26 |
 | 38 | [After the Silence](https://open.spotify.com/track/2cr0AJ48Xk94H0UNjJA1BQ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [After the Silence](https://open.spotify.com/album/6Vv3N7JnzTBBlwdxy3eb2E) | 3:36 |
 | 39 | [tinySketch \#79](https://open.spotify.com/track/4l6ZvMJFleG4BIXTC4lhBV) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [tinySketch \#79](https://open.spotify.com/album/5Gh15IJYgoK6XEfskISjGA) | 3:01 |
-| 40 | [Hotspring \(Leif Remix\)](https://open.spotify.com/track/0Ap7oNo9wLal112PaVk9DW) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV), [Leif](https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D) | [Hotspring \(Leif Remix\)](https://open.spotify.com/album/5zkdvNQa0lX87jUfnEEFNr) | 4:34 |
+| 40 | [Hotspring \- Leif Remix](https://open.spotify.com/track/0Ap7oNo9wLal112PaVk9DW) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV), [Leif](https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D) | [Hotspring \(Leif Remix\)](https://open.spotify.com/album/5zkdvNQa0lX87jUfnEEFNr) | 4:34 |
 | 41 | [Sailing](https://open.spotify.com/track/2iH5SjBAHse4EaO69JbXLf) | [Sorekara](https://open.spotify.com/artist/1iKVCznm9JPkYn8x9xjQw7), [Tanarouge](https://open.spotify.com/artist/565GKMj0rrNhGBPyNR4RUT), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Sailing](https://open.spotify.com/album/5F47UnZcT6I0BIVDtmdHhX) | 4:16 |
 | 42 | [Dim Light](https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Dim Light](https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437) | 2:54 |
 | 43 | [FRAY](https://open.spotify.com/track/46BiNMQYYuCXHa9oQ4APFT) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [FRAY](https://open.spotify.com/album/4xTi5TepfTav3PbkX6Q7j0) | 2:23 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 194 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
 | 195 | [Pray Play](https://open.spotify.com/track/0g31cCYqMBC6tBudGdPlZx) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Fantastic](https://open.spotify.com/album/3USJbLcVYAPEbcRkXz7fYX) | 3:03 |
 
-Snapshot ID: `AAAAAFjzDtutohuUzo+I+gpMOt/0ySlT`
+Snapshot ID: `AAAAAK3sq9SVSTSiTwhETj+2wDKME9so`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 5917,
+  "num_followers": 5951,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIjkfSMP6voskm0peCuwE4exp12o",
+  "snapshot_id": "AAAAAOHtY56Ja5DHZpBxfKVFgrFfaqOi",
   "tracks": [
     {
       "added_at": "2026-04-24 07:22:05",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Chaka Chaka",
-          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "Umqombothi",
-      "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Work of Heart",
         "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 214640,
       "name": "Reach It",
       "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Chaka Chaka",
+          "url": "https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "Umqombothi",
+      "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -511,18 +511,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Ibokwe",
-        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
+        {
+          "name": "ZANO",
+          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Ingoma",
-      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
+      "duration_ms": 274053,
+      "name": "Sondela (feat. Zano)",
+      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -559,22 +563,18 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Family Values",
-        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+        "name": "Ibokwe",
+        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
       },
       "artists": [
         {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
-        },
-        {
-          "name": "ZANO",
-          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
         }
       ],
-      "duration_ms": 274053,
-      "name": "Sondela (feat. Zano)",
-      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
+      "duration_ms": 372000,
+      "name": "Ingoma",
+      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Work of Heart",
+        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
+      },
+      "artists": [
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "S.O.S - Release Me",
+      "url": "https://open.spotify.com/track/5Vv6Qh1oE7WQNkdIDSTeiX"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Zabalaza",
         "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 332720,
       "name": "Dlala Mapantsula",
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Work of Heart",
-        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
-      },
-      "artists": [
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "S.O.S - Release Me",
-      "url": "https://open.spotify.com/track/5Vv6Qh1oE7WQNkdIDSTeiX"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 315266,
       "name": "Palafala (feat. S'bu)",
       "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Work of Heart",
+        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
+      },
+      "artists": [
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 59640,
+      "name": "Grateful - Interlude",
+      "url": "https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Heads and Tales",
         "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 250880,
       "name": "Wozobona",
       "url": "https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Work of Heart",
-        "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
-      },
-      "artists": [
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 59640,
-      "name": "Grateful - Interlude",
-      "url": "https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Heads and Tales",
-        "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
-      },
-      "artists": [
-        {
-          "name": "Pro Kid",
-          "url": "https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli"
-        }
-      ],
-      "duration_ms": 276520,
-      "name": "Ungaphel' Umoya Son",
-      "url": "https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Tsholofelo (Platinum Edition)",
         "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 231839,
       "name": "Doc Shebeleza",
       "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Heads and Tales",
+        "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
+      },
+      "artists": [
+        {
+          "name": "Pro Kid",
+          "url": "https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli"
+        }
+      ],
+      "duration_ms": 276520,
+      "name": "Ungaphel' Umoya Son",
+      "url": "https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt"
     },
     {
       "added_at": "2026-04-24 07:22:05",

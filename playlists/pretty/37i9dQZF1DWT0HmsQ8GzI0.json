@@ -1,12 +1,12 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Jazzbois",
-  "num_followers": 16858,
+  "num_followers": 16859,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIXZhQ4dvxotf0m1FjixdXEsyGU",
+  "snapshot_id": "AAAAANDLwPtaSOiEmMVz+K1WkPu3FqPf",
   "tracks": [
     {
       "added_at": "2026-08-14 08:17:54",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-08-14 08:17:54",
       "album": {
+        "name": "Az a szerelem",
+        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Az a szerelem",
+      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
+    },
+    {
+      "added_at": "2026-08-14 08:17:54",
+      "album": {
         "name": "Vadnyugati",
         "url": "https://open.spotify.com/album/2HOkcyEGG8wrf8bGrLdj1O"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 202065,
       "name": "Vadnyugati",
       "url": "https://open.spotify.com/track/5oPCKEKVVbcu7WwvLr5Lrn"
-    },
-    {
-      "added_at": "2026-08-14 08:17:54",
-      "album": {
-        "name": "Az a szerelem",
-        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Az a szerelem",
-      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
     },
     {
       "added_at": "2026-08-14 08:17:54",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-08-14 08:17:54",
       "album": {
-        "name": "H\u00e9ra",
-        "url": "https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ra Barnab\u00e1s",
-          "url": "https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "4 akkordos sz\u00e1mok",
-      "url": "https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m"
-    },
-    {
-      "added_at": "2026-08-14 08:17:54",
-      "album": {
         "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
         "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 197511,
       "name": "Ak\u00e1rkifia",
       "url": "https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD"
+    },
+    {
+      "added_at": "2026-08-14 08:17:54",
+      "album": {
+        "name": "H\u00e9ra",
+        "url": "https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ra Barnab\u00e1s",
+          "url": "https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "4 akkordos sz\u00e1mok",
+      "url": "https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m"
     },
     {
       "added_at": "2026-08-14 08:17:54",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-08-14 08:17:54",
       "album": {
-        "name": "Hulljanak r\u00e1m az \u00e9vek",
-        "url": "https://open.spotify.com/album/4M6yJbeE626gvo8PcKg77C"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1klik\u0151r",
-          "url": "https://open.spotify.com/artist/1mEClPszmbqTkgnBgQ57Ui"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Sosem el\u00e9g",
-      "url": "https://open.spotify.com/track/2iu6Nf7YsIknHMCs09pxEI"
-    },
-    {
-      "added_at": "2026-08-14 08:17:54",
-      "album": {
         "name": "Magam sem tudom",
         "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 190335,
       "name": "Magam sem tudom",
       "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
+    },
+    {
+      "added_at": "2026-08-14 08:17:54",
+      "album": {
+        "name": "Hulljanak r\u00e1m az \u00e9vek",
+        "url": "https://open.spotify.com/album/4M6yJbeE626gvo8PcKg77C"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1klik\u0151r",
+          "url": "https://open.spotify.com/artist/1mEClPszmbqTkgnBgQ57Ui"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Sosem el\u00e9g",
+      "url": "https://open.spotify.com/track/2iu6Nf7YsIknHMCs09pxEI"
     },
     {
       "added_at": "2026-08-14 08:17:54",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-08-14 08:17:54",
       "album": {
-        "name": "Pillang\u00f3hat\u00e1s",
-        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+        "name": "Utcasarki f\u00e9ny",
+        "url": "https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges"
       },
       "artists": [
         {
-          "name": "T\u00f3th Abig\u00e9l",
-          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+          "name": "Art\u016br Rambo",
+          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
         }
       ],
-      "duration_ms": 138351,
-      "name": "Pillang\u00f3hat\u00e1s",
-      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+      "duration_ms": 190724,
+      "name": "Utcasarki f\u00e9ny",
+      "url": "https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R"
     },
     {
       "added_at": "2026-08-14 08:17:54",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-08-14 08:17:54",
       "album": {
+        "name": "Pillang\u00f3hat\u00e1s",
+        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Abig\u00e9l",
+          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+        }
+      ],
+      "duration_ms": 138351,
+      "name": "Pillang\u00f3hat\u00e1s",
+      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+    },
+    {
+      "added_at": "2026-08-14 08:17:54",
+      "album": {
         "name": "GASOLINE RAINBOW",
         "url": "https://open.spotify.com/album/5nCzO3pTfgQdMArALIJwDx"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 268500,
       "name": "GASOLINE RAINBOW",
       "url": "https://open.spotify.com/track/4ABFmbmuiuzxylf16jBUZB"
-    },
-    {
-      "added_at": "2026-08-14 08:17:54",
-      "album": {
-        "name": "Utcasarki f\u00e9ny",
-        "url": "https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges"
-      },
-      "artists": [
-        {
-          "name": "Art\u016br Rambo",
-          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
-        }
-      ],
-      "duration_ms": 190724,
-      "name": "Utcasarki f\u00e9ny",
-      "url": "https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R"
     },
     {
       "added_at": "2026-08-14 08:17:54",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-08-14 08:17:54",
       "album": {
-        "name": "Kezdetben Ketten",
-        "url": "https://open.spotify.com/album/2IGoo8bL65FuJ8Vywy3RBG"
-      },
-      "artists": [
-        {
-          "name": "ajsa luna",
-          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
-        }
-      ],
-      "duration_ms": 185507,
-      "name": "Tomi Montana",
-      "url": "https://open.spotify.com/track/0YmC2RyX4YD1HVaJQ8F73G"
-    },
-    {
-      "added_at": "2026-08-14 08:17:54",
-      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
+    },
+    {
+      "added_at": "2026-08-14 08:17:54",
+      "album": {
+        "name": "Kezdetben Ketten",
+        "url": "https://open.spotify.com/album/2IGoo8bL65FuJ8Vywy3RBG"
+      },
+      "artists": [
+        {
+          "name": "ajsa luna",
+          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
+        }
+      ],
+      "duration_ms": 185507,
+      "name": "Tomi Montana",
+      "url": "https://open.spotify.com/track/0YmC2RyX4YD1HVaJQ8F73G"
     },
     {
       "added_at": "2026-08-14 08:17:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 590,621 likes - 82 songs - 5 hr 38 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 590,743 likes - 82 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 10 | [Nylon Strings](https://open.spotify.com/track/6O7NsSA8RoSy4w9nb9CC7s) | [Brennan Whalen and the River Rats](https://open.spotify.com/artist/6RfV7eYPX9mhg8SZ99bKHC) | [Vermin](https://open.spotify.com/album/5qbrtc0zbFyD2ZhXOpd5Ty) | 4:56 |
 | 11 | [Window of your soul](https://open.spotify.com/track/6jMETmGvbayaKHlohoQ4eP) | [Antonios Stathis](https://open.spotify.com/artist/70taWpRUMrQOC5G26OUHCX) | [Window of your soul](https://open.spotify.com/album/34NVTRSd6sK5EIe4otlwcI) | 3:38 |
 | 12 | [Saved](https://open.spotify.com/track/0QA4WJCBdZjkyQj2wpWLQ5) | [Ingrid](https://open.spotify.com/artist/03njCp0h4JbdLnwtNp5whL) | [Saved](https://open.spotify.com/album/1vuBOtm3i2huP2nUqR7rhZ) | 3:24 |
-| 13 | [Adrenaline \- Original Mix](https://open.spotify.com/track/3bX9uc35AznJD2BTCiqctd) | [MEEST](https://open.spotify.com/artist/4zzOgZ6EsXLOT4bMDgsvg5) | [Feelings](https://open.spotify.com/album/7LGjZIgyvV1c9atDy3ClDe) | 5:00 |
+| 13 | [Adrenaline \- Original Mix](https://open.spotify.com/track/3bX9uc35AznJD2BTCiqctd) | [MEEST](https://open.spotify.com/artist/6dMOAAKLE3yGxUmOOyIf9J) | [Feelings](https://open.spotify.com/album/7LGjZIgyvV1c9atDy3ClDe) | 5:00 |
 | 14 | [Flowing Water and Nature](https://open.spotify.com/track/2tYDaY7ftcIyQjhIHjhWCs) | [Self and Sounds](https://open.spotify.com/artist/647CorUbg3LholntYEfa4b) | [Sound Bath Waterscapes](https://open.spotify.com/album/0is73lgzpjhSLyOxLG15MC) | 45:27 |
 | 15 | [Bees](https://open.spotify.com/track/65u77Q0wlUw3GjZwkfjNdL) | [Alice Godwin](https://open.spotify.com/artist/6Xg2vVO25hmVzqufWeS3iv) | [Weaver's Tales](https://open.spotify.com/album/5bBmOAaVSLWeusx32XIvvv) | 3:51 |
 | 16 | [Fuck Cancer](https://open.spotify.com/track/2bSJpCg7fOTRdxiymBakUZ) | [Charlie Gibbons](https://open.spotify.com/artist/7lmwtQ1WhHpnx0vxEFkPKm) | [Fuck Cancer](https://open.spotify.com/album/7ErMQzpZHR9kdZu4W2fWqw) | 3:34 |

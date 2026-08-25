@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,767,218 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,767,411 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 50 | [ZEP \(feat\. Uncool MC\)](https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax) | [Dj Smallz](https://open.spotify.com/artist/4TvbQDO2cOQqr9oCKHaGTM), [ZinedinexSguche](https://open.spotify.com/artist/3p375AB4ZQn1HKupXuDCCX), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1) | [ZEP \(feat\. Uncool MC\)](https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39) | 5:08 |
 
-Snapshot ID: `AAAAAK2fq8mtaN2GTCTtglt5GT4ON4hG`
+Snapshot ID: `AAAAAIY2Wch9FJtNOBZ8cy2YB2HOolHw`

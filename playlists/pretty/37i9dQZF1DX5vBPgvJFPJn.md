@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 
 > The best new music videos from independent artists and labels\. Featuring Babehoven\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 | 47 | [Picto](https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Picto](https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN) | 5:09 |
 | 48 | [Just Because](https://open.spotify.com/track/0R6iCCGsHrbh75peQKR3eV) | [Brooke Lee](https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS) | [Just Because](https://open.spotify.com/album/5zC2iBc5qAS8gtLosjIaG3) | 2:59 |
 
-Snapshot ID: `AAAAAEUdee/Fl9ndczBBK5B4RPL2G06b`
+Snapshot ID: `AAAAAEKDB15zPio3yNp7PbE4kbjzmgh+`

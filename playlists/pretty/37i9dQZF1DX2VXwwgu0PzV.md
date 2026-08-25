@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,290 likes - 116 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,301 likes - 116 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 115 | [Without You](https://open.spotify.com/track/4leFpYPiDcf617jC0WXZXu) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Without You](https://open.spotify.com/album/1Qu8w9dRIpI9JIxHRaSphR) | 2:27 |
 | 116 | [Seasons](https://open.spotify.com/track/0Q3xwTX5vEVqr2VmC6HnZs) | [TheTEMI](https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace) | [Seasons](https://open.spotify.com/album/3PvPSFbWP2MWv6A1S26p3x) | 2:45 |
 
-Snapshot ID: `AAAAAEeKs50wVG3wNvA4Y/TfkOYxrvot`
+Snapshot ID: `AAAAAIic38HMuYXCXkpkRh1/8qFvhOS9`

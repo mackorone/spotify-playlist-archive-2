@@ -20547,20 +20547,24 @@
     },
     {
       "album": {
-        "name": "Dios no falla (Acustico)",
+        "name": "Dios no falla (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7kXXieoeMmcqWJfbc6pYVf"
       },
       "artists": [
         {
           "name": "Esteban Music",
           "url": "https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH"
+        },
+        {
+          "name": "Isaac Ramos",
+          "url": "https://open.spotify.com/artist/2CM8oWpCey84yaqw4anuks"
         }
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169293,
-      "name": "Dios no falla - Acustico",
+      "name": "Dios no falla - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3MtSQsU2cESeDk3ZU5RMIZ"
     },
     {

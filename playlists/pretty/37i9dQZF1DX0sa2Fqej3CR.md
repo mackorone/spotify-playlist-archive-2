@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 80 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
 | 81 | [Time of Our Lives](https://open.spotify.com/track/1OPLF48hCfqeEjlFP3e8xX) | [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Time of Our Lives](https://open.spotify.com/album/6zCpB7vF0iCE2TGBpG1wv2) | 3:43 |
 
-Snapshot ID: `AAAAACE21S3ISvE/uZD/hRwz2Rj+zaFB`
+Snapshot ID: `AAAAAGNguITUhHrFQt8EBG4M8UOfTEKJ`

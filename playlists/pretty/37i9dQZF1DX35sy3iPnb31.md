@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,371 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 15 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:21 |
 | 16 | [Ya Hala](https://open.spotify.com/track/4h3QHOlA0cVlN8CSpJehnd) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Ya Hala](https://open.spotify.com/album/09cYavs2exGSaMjJGIcUyE) | 2:22 |
 | 17 | [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 |
-| 18 | [Moment Of Silence](https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Moment Of Silence](https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt) | 3:07 |
-| 19 | [KGB \(Kill Get Back\)](https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [KGB \(Kill Get Back\)](https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo) | 2:13 |
+| 18 | [KGB \(Kill Get Back\)](https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [KGB \(Kill Get Back\)](https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo) | 2:13 |
+| 19 | [Moment Of Silence](https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Moment Of Silence](https://open.spotify.com/album/1NegFauPb9RjieMbg6g0lt) | 3:07 |
 | 20 | [Searchlight \(ft\. Kashus Culpepper\)](https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [In the Hour of Chaos](https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL) | 4:10 |
 | 21 | [intersection](https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu) | [intersection](https://open.spotify.com/album/1QBqcimkOSDc56jvdra679) | 3:18 |
 | 22 | [Sunbleach](https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Sunbleach](https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89) | 3:04 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 28 | [LiveFromTheBoonies.](https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [LiveFromTheBoonies.](https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6) | 1:45 |
 | 29 | [Sun Up](https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Sun Up / Hilly Fields](https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc) | 2:36 |
 | 30 | [Billo](https://open.spotify.com/track/2PrWSD6ZQcygasN8Bk7384) | [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Billo](https://open.spotify.com/album/3E93c87HK1qNpthSVaJ2UV) | 2:31 |
-| 31 | [Bad Timing](https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Bad Timing](https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA) | 4:16 |
-| 32 | [RaGDOLL](https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [RaGDOLL](https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA) | 3:24 |
+| 31 | [RaGDOLL](https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [RaGDOLL](https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA) | 3:24 |
+| 32 | [Bad Timing](https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Bad Timing](https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA) | 4:16 |
 | 33 | [Here & Now](https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Some Kind Of Life](https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3) | 3:16 |
 | 34 | [World Tour Freestyle](https://open.spotify.com/track/4GiJmFhOuGbfPl6gdKErwe) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [World Tour Freestyle](https://open.spotify.com/album/1T6zovINsDE46fupkeHo7a) | 2:11 |
 | 35 | [work](https://open.spotify.com/track/5t9uZJUSpZ4tKrAyFFqZ1Y) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [work](https://open.spotify.com/album/0rYaE3uuSJC6lTRhTXfaCe) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Adam West](https://open.spotify.com/track/2F5b6igudY64NBG42TCDjR) | [Koyo Sur La Prod](https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Adam West](https://open.spotify.com/album/0MgV3Mr6t1dCpgHX9REqSY) | 3:45 |
 | 50 | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z) | 1:56 |
 
-Snapshot ID: `AAAAAIQsyhciy4QO14RizFn7xFWq8rHw`
+Snapshot ID: `AAAAAFME3nX/yiOh4qdhKsKboQWw+OFx`

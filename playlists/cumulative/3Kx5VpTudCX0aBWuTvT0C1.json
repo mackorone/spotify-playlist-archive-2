@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Circuiti e carne",
+        "url": "https://open.spotify.com/album/7gdakhmHT7wLc9e2eYakPi"
+      },
+      "artists": [
+        {
+          "name": "Gin Ozz",
+          "url": "https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Circuiti e carne",
+      "url": "https://open.spotify.com/track/2koWXf42GzdGzto78RLYjP"
+    },
+    {
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k"
       },
@@ -2399,6 +2417,28 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/1qsee7DPTIy5vWAL9e5MZi"
+      },
+      "artists": [
+        {
+          "name": "Nat Longordo",
+          "url": "https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg"
+        },
+        {
+          "name": "Nick Barone",
+          "url": "https://open.spotify.com/artist/1jDa5eIwAZAqVMjV23pLrA"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230071,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6Y593laIPH7qd4Lwz3n7ct"
+    },
+    {
+      "album": {
         "name": "Selfish Song",
         "url": "https://open.spotify.com/album/6ItdXN8Nc1Rj3LnJ5QtW9k"
       },
@@ -3414,6 +3454,24 @@
       "duration_ms": 220137,
       "name": "You Made Me Bad",
       "url": "https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL"
+    },
+    {
+      "album": {
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva"
+      },
+      "artists": [
+        {
+          "name": "PeterLs",
+          "url": "https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md"
     },
     {
       "album": {

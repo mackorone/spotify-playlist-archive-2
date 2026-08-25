@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1228881,
+  "num_followers": 1228920,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAAAG4Cpbl4kiIxRRRskftzih",
+  "snapshot_id": "aoo4AAAAAAA6mGamFwIqrf+tc0WXvdOg",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra The Musical: His Way - The Originals",
-        "url": "https://open.spotify.com/album/5YEThML8feFJpk0c4KDgW7"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 130600,
-      "name": "I've Got The World On A String - Remastered 2000",
-      "url": "https://open.spotify.com/track/7JIylqWWoDdJgP7NQtg7Ok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Man Alone: The Words And Music Of McKuen",
         "url": "https://open.spotify.com/album/6O7UYmA1X6TACiSYBSK8LL"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 204066,
       "name": "Love's Been Good To Me",
       "url": "https://open.spotify.com/track/20dyFIpzzc649Aku3PfXwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra The Musical: His Way - The Originals",
+        "url": "https://open.spotify.com/album/5YEThML8feFJpk0c4KDgW7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 130600,
+      "name": "I've Got The World On A String - Remastered 2000",
+      "url": "https://open.spotify.com/track/7JIylqWWoDdJgP7NQtg7Ok"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "I've Got A Crush On You - Remastered",
-      "url": "https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Dance With Me! (Remastered)",
         "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 211800,
       "name": "My Way",
       "url": "https://open.spotify.com/track/441B5anVFUoLytPQ7BHtAS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "I've Got A Crush On You - Remastered",
+      "url": "https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAADhAlkLX18b3x88RBYKolRT",
+  "snapshot_id": "aoo4AAAAAABp3LNxGuH9vp3hKmHIjSw1",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plot Zero",
+        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 369173,
+      "name": "Organized Confusion",
+      "url": "https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spectre",
         "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 447493,
       "name": "Blood Thirst",
       "url": "https://open.spotify.com/track/6j5m9nfZE0s6Xr2rYZF1vW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plot Zero",
-        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 574293,
-      "name": "Freebasing",
-      "url": "https://open.spotify.com/track/2rOxqqDdR7YrJ9s5RXPQhY"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plot Zero",
+        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 574293,
+      "name": "Freebasing",
+      "url": "https://open.spotify.com/track/2rOxqqDdR7YrJ9s5RXPQhY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quiet Joy / Domestic Peace",
         "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 208986,
       "name": "Domestic Peace",
       "url": "https://open.spotify.com/track/3s7YNaBBYhCHs8ACMmp6JH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plot Zero",
-        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 369173,
-      "name": "Organized Confusion",
-      "url": "https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j"
     },
     {
       "added_at": null,

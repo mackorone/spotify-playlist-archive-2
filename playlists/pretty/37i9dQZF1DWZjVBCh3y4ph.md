@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Mik L
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,012 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,048 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Tout Donner](https://open.spotify.com/track/71VataW4xIxBbczy7ptp7q) | [LordMiike](https://open.spotify.com/artist/6OjF9eo5mIZATUsGiBk0Xk) | [Tout Donner](https://open.spotify.com/album/3zOb84XlFCKQbZaQOrvccv) | 2:30 |
 | 40 | [Tchin tchin](https://open.spotify.com/track/2pdeMRknTu6Ks0GaCBvCgH) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Tchin tchin](https://open.spotify.com/album/6Y0k7P7nKRWHTwrgaizIMu) | 2:54 |
 
-Snapshot ID: `AAAAAFV3PBhKRZPUo+gkdENKSxkaCGVz`
+Snapshot ID: `AAAAANqV866GH04SErheR8mUp4N1eesa`

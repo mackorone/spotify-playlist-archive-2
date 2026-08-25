@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,792 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,865 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 98 | [Bad Advice \- The Pool Sessions](https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Bad Advice \(The Pool Sessions\)](https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ) | 3:28 |
 | 99 | [Never Learnt To Pray](https://open.spotify.com/track/4qKGMdTVoDhKnq1JCHvAAH) | [1ST VOWS](https://open.spotify.com/artist/2DLo7eCypgXm3ViDvElOWE) | [Never Learnt To Pray](https://open.spotify.com/album/26zH5zth76DXIT1qGYyVE8) | 3:25 |
 
-Snapshot ID: `AAAAAM4g3OinwkLCFKL5YPjbAAorszyj`
+Snapshot ID: `AAAAAIV8JogbFJW7l+PQHlJLyPLF98ET`

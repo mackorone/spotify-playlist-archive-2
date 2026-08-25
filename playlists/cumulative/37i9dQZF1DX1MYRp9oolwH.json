@@ -1983,6 +1983,40 @@
     },
     {
       "album": {
+        "name": "Dheem Tha Dhirana (From \"Jagamae Sangeetham\")",
+        "url": "https://open.spotify.com/album/2WrGWGZEmLSysz4IkpXCQ7"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "RR Dhruvan",
+          "url": "https://open.spotify.com/artist/0u8CV5hMxYiKctbYRZy1aW"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224166,
+      "name": "Dheem Tha Dhirana (From \"Jagamae Sangeetham\")",
+      "url": "https://open.spotify.com/track/3KXVnullvdfGoCOuwafSwW"
+    },
+    {
+      "album": {
         "name": "Urvasivo Rakshasivo",
         "url": "https://open.spotify.com/album/1CYUy4WQ2yXvt7OV0ANIbs"
       },

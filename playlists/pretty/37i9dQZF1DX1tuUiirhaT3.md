@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,454 likes - 197 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,133 likes - 197 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 196 | [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 |
 | 197 | [Destination](https://open.spotify.com/track/7xXpydVsZUv86p3SSi3JJ2) | [Cénter](https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S) | [Destination](https://open.spotify.com/album/3Nlj7dS8KAYOz4V077b4cg) | 2:48 |
 
-Snapshot ID: `AAAAANvEqIwDd3y35ccKZ5t37renDOfA`
+Snapshot ID: `AAAAAAfwRLZzG5BCedVbBnvUh0I26/Tx`

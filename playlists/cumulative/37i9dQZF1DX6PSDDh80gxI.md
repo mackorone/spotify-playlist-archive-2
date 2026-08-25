@@ -4,7 +4,7 @@
 
 > se pò spezzà nu ciore 'mmiez'ô viento, 'o viento senza ciore addora 'e niente 🩵
 
-597 songs - 1 day 7 hr 54 min
+598 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Hey](https://open.spotify.com/track/5vZe9uaISFSbNjBkNo9g8U) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [Santa Tenerezza](https://open.spotify.com/album/0xtU9u13hjcAsIQyHEWT39) | 3:29 | 2025-03-27 | 2025-04-18 |
 | [Hiroshima \(feat\. piazzabologna\)](https://open.spotify.com/track/4YlYUNwfcrjro882XpvEJ9) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [DISCO DEFAULT](https://open.spotify.com/album/0fzEQdXr2Z9r5VvnskQUkz) | 2:55 | 2024-06-27 | 2024-07-19 |
 | [Ho perso i sogni](https://open.spotify.com/track/0pb8AUJmhscgKPdhQkX19S) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Ho perso i sogni](https://open.spotify.com/album/7fSezRLrfVlLOeeG8JdxeU) | 3:34 | 2025-11-20 | 2025-12-19 |
-| [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 | 2024-10-31 | 2025-05-20 |
+| [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 | 2024-10-31 |  |
 | [I fatti miei](https://open.spotify.com/track/0zak2hrjNlvhWYiI57Ddqg) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [I fatti miei](https://open.spotify.com/album/3CBpDlfvneuZOna0xnjsBM) | 3:01 | 2025-12-11 | 2026-03-20 |
 | [I LAUREATI](https://open.spotify.com/track/6IL8yNP5qwG3RK4y5D3WRv) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [I LAUREATI](https://open.spotify.com/album/6CXa9c62lkhAUymNVV7NzF) | 3:43 | 2025-11-20 | 2026-01-15 |
 | [I romantici](https://open.spotify.com/track/3X6VETSe1orqobaME0KTzQ) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [I romantici](https://open.spotify.com/album/6QXhh6j3OifW2hTvVWXbVW) | 3:59 | 2026-02-25 |  |
@@ -330,7 +330,7 @@
 | [ME STAJE APPENNENN' AMÒ – di Calcutta](https://open.spotify.com/track/4A7vpGCKxD5B1W3sMD6Gfp) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RADIO LIBERATO](https://open.spotify.com/album/3yrz1WE1LgTBTXJzLW7pd6) | 3:29 | 2026-05-08 | 2026-06-19 |
 | [Meccanismi \(con ARIETE\)](https://open.spotify.com/track/0OsDT1w0mIncDDnaCcM7EO) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Un segno di vita](https://open.spotify.com/album/4l3sjzLqWDUJfZegBkCPqm) | 3:20 | 2024-08-22 | 2024-10-25 |
 | [Meglio di niente](https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Il Male](https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB) | 3:43 | 2025-09-25 | 2025-10-21 |
-| [Melograno](https://open.spotify.com/track/73vjfThTnXEnVmY6O5UwST) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Melograno](https://open.spotify.com/album/7q9eKsOPWe6qwZ6Yz9laSv) | 3:41 | 2026-06-11 |  |
+| [Melograno](https://open.spotify.com/track/73vjfThTnXEnVmY6O5UwST) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Melograno](https://open.spotify.com/album/7q9eKsOPWe6qwZ6Yz9laSv) | 3:41 | 2026-06-11 | 2026-08-25 |
 | [meMory card](https://open.spotify.com/track/6XVj5u9B2TvuV7snQbAiUG) | [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO) | [Stellar\-Boy](https://open.spotify.com/album/3RoeJzZHBIiH3ACqhTAXCh) | 3:37 | 2025-12-04 | 2025-12-19 |
 | [MENTRE IL MONDO ESPLODE ༊࿔ \(con Marco Castello, Ele A\)](https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:17 | 2024-06-27 | 2025-05-30 |
 | [Meravigliosa incoscienza](https://open.spotify.com/track/1SYFFK3hcbQqT4v7Ebnfx0) | [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Meravigliosa incoscienza](https://open.spotify.com/album/6XOUAsdLlX4l0AOf7YkSBC) | 4:16 | 2026-04-09 | 2026-04-24 |
@@ -410,7 +410,7 @@
 | [Pastafrolla](https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pastafrolla](https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ) | 2:39 | 2024-09-26 | 2024-10-18 |
 | [Pastafrolla](https://open.spotify.com/track/4whu9uP24T7xYQtc6Q1OC3) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 2:39 | 2025-05-19 | 2025-05-30 |
 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 | 2024-07-11 | 2024-09-20 |
-| [People of the Moon](https://open.spotify.com/track/0hnet7s0hzoSWozISu4TQ8) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 3:10 | 2026-04-30 |  |
+| [People of the Moon](https://open.spotify.com/track/0hnet7s0hzoSWozISu4TQ8) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 3:10 | 2026-04-30 | 2026-08-25 |
 | [Per La Nostra Età](https://open.spotify.com/track/3dneDFInixJJlVsRDB96s8) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Per La Nostra Età](https://open.spotify.com/album/79HKgXWonC5s5EiFnwiWBw) | 3:30 | 2025-01-23 | 2025-03-12 |
 | [Per me è ok \(feat\. Angelica\)](https://open.spotify.com/track/3t1xFmZjn2a2klm4G9H5k7) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Per me è ok \(feat\. Angelica\)](https://open.spotify.com/album/2j55jiGOigGx65ikcY1tX2) | 2:49 | 2024-10-24 | 2024-11-15 |
 | [Per Non Sentire La Fine Del Mondo](https://open.spotify.com/track/6s67ZfGsYCd0rsAKtLXCiC) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:00 | 2024-12-05 | 2024-12-20 |
@@ -479,7 +479,7 @@
 | [sbalzi d'umore](https://open.spotify.com/track/62mrphhxReT05rlu68jdYL) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [sbalzi d'umore](https://open.spotify.com/album/6qEzXWQHBtiL3g3hcQQ2DB) | 2:54 | 2025-09-04 | 2025-10-31 |
 | [Sboccia il fiore](https://open.spotify.com/track/1K0ndX9B9nETaVGwRYa9XD) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [La fonte](https://open.spotify.com/album/4yREqR8bJsUiO0hLC3ypGA) | 5:51 | 2026-04-16 | 2026-04-24 |
 | [Sbronzi Fuori](https://open.spotify.com/track/54R2mCfqiQ3JHe2GXIB8lf) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Sbronzi Fuori](https://open.spotify.com/album/7bpT4Cf9Kzbh2oy2PXvSxD) | 2:48 | 2025-12-18 | 2026-01-30 |
-| [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 | 2025-06-26 | 2025-11-14 |
+| [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 | 2025-06-26 |  |
 | [Sconosciuti](https://open.spotify.com/track/7G5MGUEldnk7eixgIjaeaY) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Sconosciuti](https://open.spotify.com/album/7fW7qpPuLWgge3SpBUUTlm) | 3:37 | 2025-01-16 | 2025-02-12 |
 | [Sconosciuti](https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:46 | 2024-11-07 | 2025-01-03 |
 | [Se mi succede qualcosa](https://open.spotify.com/track/36F3y9PuRW7JCUU76WwADe) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [1000%](https://open.spotify.com/album/6vQCEFtHhdqwfLjzXTPpe9) | 4:32 | 2026-04-23 | 2026-05-08 |
@@ -604,6 +604,7 @@
 | [Zagara](https://open.spotify.com/track/39t65cFCSsP6XPguuOB2K7) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Zagara](https://open.spotify.com/album/5N9H0fJEfi0WPpZtr0NKq2) | 3:41 | 2025-06-19 | 2025-08-29 |
 | [Zanzare](https://open.spotify.com/track/1mjyb7CoaAWKCNsse0wFrN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Zanzare](https://open.spotify.com/album/3pj3b9jcsYjfXTnzgtXgqs) | 3:34 | 2026-01-16 | 2026-02-27 |
 | [Zenzero \(con Colapesce\)](https://open.spotify.com/track/0lK6Pn6aN9Ce1BCbNFAb7d) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Zenzero \(con Colapesce\)](https://open.spotify.com/album/5T80lWZk7nwZzFwrSSlRuT) | 2:53 | 2024-10-24 | 2025-01-10 |
+| [Zero stare sereno](https://open.spotify.com/track/5MCOAQ3gNReN6bZqrg4ZV6) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [LOVE](https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN) | 3:15 | 2026-08-24 |  |
 | [È solo un momento](https://open.spotify.com/track/6NCYQaMYJ8BM7SscFAcDfF) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [È solo un momento](https://open.spotify.com/album/5w0vtVhoTzKWq8t46pqLwW) | 3:31 | 2025-05-29 | 2025-06-27 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -3261,6 +3261,24 @@
     },
     {
       "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160508,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni"
+    },
+    {
+      "album": {
         "name": "Bigger Than Your Bomb",
         "url": "https://open.spotify.com/album/3B65omtN8OI162OHdK9MlN"
       },
@@ -3622,6 +3640,28 @@
       "duration_ms": 155229,
       "name": "Blame",
       "url": "https://open.spotify.com/track/1pBQ8RbM3wSYcdv273TwrE"
+    },
+    {
+      "album": {
+        "name": "Blank Page",
+        "url": "https://open.spotify.com/album/6atGSsH08cHdpWSrX6aEw6"
+      },
+      "artists": [
+        {
+          "name": "Cas Du Pree",
+          "url": "https://open.spotify.com/artist/4zm8klNA7kodCThJ02HJsL"
+        },
+        {
+          "name": "Mike Harley",
+          "url": "https://open.spotify.com/artist/5Tfzz8gmUwk9DwyFx24KzU"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166491,
+      "name": "Blank Page",
+      "url": "https://open.spotify.com/track/2dJjCiMu7co1WGHDhioDZi"
     },
     {
       "album": {
@@ -4192,7 +4232,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 190375,
       "name": "Bored With Life",
       "url": "https://open.spotify.com/track/7xIRB9gOQXyIs5wSGxzWPV"
@@ -4394,7 +4434,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 165800,
       "name": "Brainrot",
       "url": "https://open.spotify.com/track/5josBrgpHkfKRmQavbuiM7"
@@ -14648,7 +14688,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 221000,
       "name": "Hex Beat",
       "url": "https://open.spotify.com/track/23KnKdnkcuYiCEOLZuzRA0"
@@ -15982,7 +16022,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 191121,
       "name": "I'll Be Damned",
       "url": "https://open.spotify.com/track/0ZPJaRSyn8VITLlCiLn36D"
@@ -16754,6 +16794,24 @@
       "duration_ms": 226850,
       "name": "Insomnio (FT. HIT-GRL)",
       "url": "https://open.spotify.com/track/1xpNvr7dpTMIaI6MSagpAM"
+    },
+    {
+      "album": {
+        "name": "INSTINTOS",
+        "url": "https://open.spotify.com/album/5qA7tHnprPBLmki6WXQKk9"
+      },
+      "artists": [
+        {
+          "name": "REGIO",
+          "url": "https://open.spotify.com/artist/0s0flUIzQsZF0HKCrqX2xL"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262588,
+      "name": "INSTINTOS",
+      "url": "https://open.spotify.com/track/2dz1D6WQn8nZUVCxVuftas"
     },
     {
       "album": {
@@ -20717,6 +20775,24 @@
     },
     {
       "album": {
+        "name": "MENTAL BREAKDOWN",
+        "url": "https://open.spotify.com/album/63z0XcSxHUDp6amwElKGB4"
+      },
+      "artists": [
+        {
+          "name": "Lina Cooper",
+          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242962,
+      "name": "MENTAL BREAKDOWN",
+      "url": "https://open.spotify.com/track/4b8c8onEYWRBFcK7nMpscR"
+    },
+    {
+      "album": {
         "name": "Mental Cure",
         "url": "https://open.spotify.com/album/2gObuMey27FAMfVmoBvqxo"
       },
@@ -20890,7 +20966,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 149629,
       "name": "Michael P. Fossil",
       "url": "https://open.spotify.com/track/1vWVXBKpJC1ZXmhgkEjCKE"
@@ -23828,7 +23904,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 257711,
       "name": "Orynth - Radio Mix",
       "url": "https://open.spotify.com/track/5ynb6HcWZyqnx9vJyJWtNV"

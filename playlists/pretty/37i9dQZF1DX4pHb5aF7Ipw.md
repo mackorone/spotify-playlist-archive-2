@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Jxggi, Ninja and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,161 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,175 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Overlord](https://open.spotify.com/track/2JoRcaMUIFETX7nRXMMSC1) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Overlord](https://open.spotify.com/album/2wnyKYLKRqG07L9Ty0tS5C) | 2:32 |
 | 75 | [God by My Side](https://open.spotify.com/track/5IcBpsOM1jJABjPwrCsZNo) | [Rohi Maroon](https://open.spotify.com/artist/3Uy0nTor2dulBos33pDNq1) | [God by My Side](https://open.spotify.com/album/0ceeYe8x7zMEcFvoaijB0o) | 2:48 |
 
-Snapshot ID: `AAAAADbo1ieSk0LcyvmDpTikYw7ipsAH`
+Snapshot ID: `AAAAAIzoftrtoPsyctCUNAMPyK7gBrCR`

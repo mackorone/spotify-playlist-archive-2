@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Sarai Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,503 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,502 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [The Hallway](https://open.spotify.com/track/7clIwUuQT6pKmx0GsulInQ) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [The Waiting](https://open.spotify.com/album/0Fr1J6gbNMkPYzfDcGO8G0) | 4:06 |
 | 80 | [Meet Me In The Valley \(I Surrender All\)](https://open.spotify.com/track/5WhDzkgyQJN1eaJxXFQ6Ho) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Meet Me In The Valley \(I Surrender All\)](https://open.spotify.com/album/4k2R4uwafkVx72GVjTBcDQ) | 4:24 |
 
-Snapshot ID: `AAAAAGjZ0WmxgfytR/Ald4d1yAZe8UaG`
+Snapshot ID: `AAAAALA/F9K2ur4WqFcxGG26c8CkJhjV`

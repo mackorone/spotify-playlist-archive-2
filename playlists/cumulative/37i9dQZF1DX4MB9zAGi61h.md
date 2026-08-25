@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4MB9zAGi61h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4MB9zAGi61h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX4MB9zAGi61h)
 
-### [Felted Piano](https://open.spotify.com/playlist/37i9dQZF1DX4MB9zAGi61h)
+### [Cozy Felt Piano](https://open.spotify.com/playlist/37i9dQZF1DX4MB9zAGi61h)
 
 > Close Mic, Muted Strings
 
-80 songs - 3 hr 23 min
+83 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,12 +24,14 @@
 | [Bientôt](https://open.spotify.com/track/563RuhgRSelsHsxpBleqdu) | [Lucien des Ombres](https://open.spotify.com/artist/1ZegMobzSe2l8uZOxRhcSI) | [Bientôt](https://open.spotify.com/album/3jYkcw4QMkiXeeuZvZN0wr) | 2:01 | 2026-07-24 |  |
 | [Bird Of Nous](https://open.spotify.com/track/18pVGV0u2MBLrz58rtFjBn) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Bird Of Nous](https://open.spotify.com/album/5JfZ5JIJJyyWhqA5YhhTqd) | 2:15 | 2026-07-31 |  |
 | [Bloom Later](https://open.spotify.com/track/0IoJYjMhJhOiwXqnkkBWoJ) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Bloom Later](https://open.spotify.com/album/4UugupuV93QB32rdUWZciN) | 3:00 | 2026-07-24 |  |
+| [Bramble](https://open.spotify.com/track/6J2H73IdyNJtynPkd3uHG1) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Bramble](https://open.spotify.com/album/01ZnOfWcHnjhobloNWPxac) | 2:53 | 2026-08-24 |  |
 | [Chalford](https://open.spotify.com/track/6CbJQ7uTJjW3RjXBG9sU0o) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Chalford](https://open.spotify.com/album/4QeoYBpW1fA9D9DwxIm06j) | 2:59 | 2026-08-07 |  |
 | [Elysium](https://open.spotify.com/track/0FjEbmuVgksEG1TN1eE0Dk) | [Charlie Westbrook](https://open.spotify.com/artist/7fbHzE2OKP2VIVIr5RZe0E) | [Elysium](https://open.spotify.com/album/07H5h0uPqEH3HVGc2tiGLk) | 2:46 | 2026-07-24 |  |
 | [Floating Between Stars](https://open.spotify.com/track/1bS7vdDehLQ2KDtQfZB2UK) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Floating Between Stars](https://open.spotify.com/album/7g8FrNoShv3oyiiQZwSHSq) | 2:13 | 2026-07-24 |  |
 | [Garden Beneath the Waves](https://open.spotify.com/track/4qBXeJ5rrp5uYO7wMGhRtU) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [Garden Beneath the Waves](https://open.spotify.com/album/3UFPXjWB7d5PyGnksw1nB2) | 2:19 | 2026-07-24 | 2026-08-08 |
 | [Gentle Steps](https://open.spotify.com/track/2lLaaHzk0HxS2cA1Bzcvuk) | [Flian](https://open.spotify.com/artist/2zRtU0pBKJEvw0xx0dIyvq) | [Gentle Steps](https://open.spotify.com/album/2cKsu4aWdkPGz4k7OPBhDz) | 2:52 | 2026-07-24 |  |
 | [Gentle Thoughts](https://open.spotify.com/track/3maX6mCu9JgfUFjP2TRBss) | [Goldana](https://open.spotify.com/artist/5qxFrVV26X1IFNzeaDl9Cw) | [Gentle Thoughts](https://open.spotify.com/album/0mTWbecFD3UPAW4eQTWmph) | 3:01 | 2026-07-24 |  |
+| [Green Mosaic](https://open.spotify.com/track/75DJ5K9J1mbpwN9ze8rk55) | [Theo Solin](https://open.spotify.com/artist/1OX2OAs4EbPsLUxA3Jchly) | [Green Mosaic](https://open.spotify.com/album/5W0klJMX8e8gP479Q9ZxZp) | 2:41 | 2026-08-24 |  |
 | [Hearth](https://open.spotify.com/track/7uk8WqCTD93lYCEKohkMIu) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K), [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Hearth](https://open.spotify.com/album/6Ku23VDzyckQn6aoyZJdYj) | 2:05 | 2026-07-24 |  |
 | [Honeyed](https://open.spotify.com/track/5rgS5R6lMgG3goNwGj17Qh) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Honeyed](https://open.spotify.com/album/37e8e43wVPtfFS9cGqTFgy) | 2:48 | 2026-07-24 |  |
 | [If Only Briefly](https://open.spotify.com/track/5eRsZ4TqauBUcHz04FTCZd) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [If Only Briefly](https://open.spotify.com/album/3PbYdzUubS5rNZ8T9QR0tA) | 2:22 | 2026-08-07 |  |
@@ -39,6 +41,7 @@
 | [Iron Horizon](https://open.spotify.com/track/0PBaJQAHVxfaJ6mRJnwVm4) | [Last Octave](https://open.spotify.com/artist/2bODZoFMtMG0yF5PBL1bRh) | [Iron Horizon](https://open.spotify.com/album/4pc47s8nYBVG2xHoKJYo3D) | 2:12 | 2026-07-24 |  |
 | [It Goes On](https://open.spotify.com/track/6nV6Uj6Mh0nWSGaVCaqcms) | [Noreve](https://open.spotify.com/artist/6bn4pbd1Z3aPJGELTJHYd0) | [It Goes On](https://open.spotify.com/album/6pw6WtTINiZsvVZoyM1txB) | 2:26 | 2026-07-24 |  |
 | [Ivory](https://open.spotify.com/track/0vYdi1h6DxGJPgW0pWeIVX) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Ivory](https://open.spotify.com/album/7FXFGYECtxgM1sNpujpsJP) | 2:50 | 2026-07-24 |  |
+| [Katla](https://open.spotify.com/track/2P2T6tJOvgeox9GhPlYMKu) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Katla](https://open.spotify.com/album/4oTNLxpqANKRBpmojhfoNB) | 2:35 | 2026-08-24 |  |
 | [Le Silence](https://open.spotify.com/track/3UQoMxRBowlYY6Bkp5zskI) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Le Silence](https://open.spotify.com/album/1UtTt0MEqC4FM43PCtDDpe) | 2:10 | 2026-08-07 |  |
 | [Letting Go](https://open.spotify.com/track/4zCMKyYplY8f3EvPMRZWuz) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Letting Go](https://open.spotify.com/album/2bEhEPKQWwJ3u8acrFtJLK) | 2:16 | 2026-07-24 |  |
 | [Long Fold](https://open.spotify.com/track/6DhRY1ZFTT406noY4GFqTT) | [Andrea Neroli](https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO) | [Long Fold](https://open.spotify.com/album/5V2b9EkDXWYsbU5llbbRer) | 2:09 | 2026-07-24 |  |

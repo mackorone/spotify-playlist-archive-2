@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-193 songs - 11 hr 14 min
+196 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 | 2026-06-29 |  |
 | [Charlottetown](https://open.spotify.com/track/3SCi5byZCBZ69icO68dWna) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 2:55 | 2025-11-25 | 2026-06-14 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-06 | 2025-12-09 |
+| [Circuiti e carne](https://open.spotify.com/track/2koWXf42GzdGzto78RLYjP) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Circuiti e carne](https://open.spotify.com/album/7gdakhmHT7wLc9e2eYakPi) | 2:58 | 2026-08-24 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-17 | 2026-03-15 |
 | [Coming Back](https://open.spotify.com/track/7uY20MCgghAw2HWWRNcbJ4) | [Jarju Binks](https://open.spotify.com/artist/0o0t0KdWN2YcpOB7tcvxqp) | [Coming Back](https://open.spotify.com/album/3JPaEVNlWEsFXyacsjkJxK) | 3:38 | 2025-10-31 | 2025-12-09 |
 | [Coming Stars](https://open.spotify.com/track/7EsFMWgc1EVf6NUepID6gd) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Coming Stars](https://open.spotify.com/album/5nRfA7DrRB7FEYswNXIUMy) | 3:10 | 2025-11-27 | 2026-06-14 |
@@ -139,6 +140,7 @@
 | [Rock](https://open.spotify.com/track/77lY028zHQMb93dP5XEYTE) | [MINNA ORA](https://open.spotify.com/artist/76RqksjOb9wTLKq1EUfNOC) | [Rock](https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y) | 2:56 | 2025-11-29 | 2026-06-14 |
 | [Rot](https://open.spotify.com/track/33zYnZAndE0Iv5kEWPmOTz) | [Hollowblades](https://open.spotify.com/artist/6e7RH4eLVsJuoj5eUnzEH6) | [Rot](https://open.spotify.com/album/1ZFNfZLOsZN6iFCLUsA5xa) | 2:49 | 2026-06-21 |  |
 | [save your words](https://open.spotify.com/track/1wQ2R6aecRThAisPlhXkLx) | [michelle gwod](https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL) | [save your words](https://open.spotify.com/album/76rsI0ClezjwUCu4kQQIrx) | 2:30 | 2026-06-13 |  |
+| [Scars](https://open.spotify.com/track/6Y593laIPH7qd4Lwz3n7ct) | [Nat Longordo](https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg), [Nick Barone](https://open.spotify.com/artist/1jDa5eIwAZAqVMjV23pLrA) | [Scars](https://open.spotify.com/album/1qsee7DPTIy5vWAL9e5MZi) | 3:50 | 2026-08-24 |  |
 | [Selfish Song](https://open.spotify.com/track/38lFq4m55EmIGIn39UqluL) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Selfish Song](https://open.spotify.com/album/6ItdXN8Nc1Rj3LnJ5QtW9k) | 3:55 | 2025-11-12 | 2026-03-15 |
 | [Semente \(Cê Mente\)](https://open.spotify.com/track/4GZhUYBuGmrfE9tUQ3weFN) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF), [Iza Molinari](https://open.spotify.com/artist/32oYjzL7UXoGkr75PWDST2) | [Semente \(Cê Mente\)](https://open.spotify.com/album/7vbzb6nkW7SUUOkaLgRiuy) | 3:10 | 2025-11-01 | 2025-12-09 |
 | [Sexy FreakA'Licious](https://open.spotify.com/track/0F6kLRMq4OACLAxyJhYNWk) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 3:07 | 2026-07-04 |  |
@@ -194,6 +196,7 @@
 | [World Of Thirds](https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk) | [MIK's Reaction](https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg) | [MIK's Tape](https://open.spotify.com/album/2fhP1JdNOxSnAjjS739uQL) | 3:49 | 2025-11-25 | 2026-06-14 |
 | [You Got The Chops](https://open.spotify.com/track/4cV8r6HqCU5M237e2E62Gw) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [You Got The Chops](https://open.spotify.com/album/0ruXTwor3TO4B7Y8MZJt0I) | 4:00 | 2026-01-22 |  |
 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-06-03 |  |
+| [You Raise Me Up](https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md) | [PeterLs](https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5) | [You Raise Me Up](https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva) | 3:12 | 2026-08-24 |  |
 | [You Were The One](https://open.spotify.com/track/0RxMAdHlXWQYK8iTPb0Z3C) | [Chain Avenue](https://open.spotify.com/artist/3wGXfF2V7Gole9ALgupdFO) | [You Were The One](https://open.spotify.com/album/3eFt5Sv8i1AqcGskcvK6sX) | 4:45 | 2026-06-18 |  |
 | [Your Way](https://open.spotify.com/track/4QSLf4BxEwJw9T2OyKzAZc) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Your Way](https://open.spotify.com/album/6M71haNo2UkinTsC27uRAn) | 2:56 | 2025-11-03 | 2025-12-09 |
 | [Zero Hour Lunar Phase](https://open.spotify.com/track/6Pwm9LxIHTazwlVz26WMgf) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour Lunar Phase](https://open.spotify.com/album/4DFIgHny809BiD7wZFy76g) | 3:32 | 2025-10-28 | 2025-12-09 |

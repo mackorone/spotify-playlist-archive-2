@@ -1,12 +1,12 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 62319,
+  "num_followers": 62326,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM/4xCnVDlLz/j1TLYtaxlW+knkH",
+  "snapshot_id": "AAAAAHYBqFDzz4xScuYA5bjqDWsU1ZmW",
   "tracks": [
     {
       "added_at": "2026-05-26 09:17:44",
@@ -213,22 +213,6 @@
       "url": "https://open.spotify.com/track/2A3Ivplogx6qpjFdHmg6fR"
     },
     {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Parjanya",
-        "url": "https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM"
-      },
-      "artists": [
-        {
-          "name": "U. Srinivas",
-          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
-        }
-      ],
-      "duration_ms": 1222413,
-      "name": "Ragam Tanam Pallavi",
-      "url": "https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53"
-    },
-    {
       "added_at": "2025-09-05 03:40:50",
       "album": {
         "name": "Only Love is Real",
@@ -251,6 +235,22 @@
       "duration_ms": 448000,
       "name": "White",
       "url": "https://open.spotify.com/track/5SpQIOjCgqakMjIWprztHR"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Parjanya",
+        "url": "https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        }
+      ],
+      "duration_ms": 1222413,
+      "name": "Ragam Tanam Pallavi",
+      "url": "https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "The Best of Carnatic Instrumental",
-        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+        "name": "Classical Flute Collections",
+        "url": "https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2"
       },
       "artists": [
         {
-          "name": "Doraiswamy Iyengar",
-          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+          "name": "Trichy L. Saravanan",
+          "url": "https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2"
         }
       ],
-      "duration_ms": 309968,
-      "name": "Ghana Ragamalika Tanam",
-      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
+      "duration_ms": 562912,
+      "name": "Vathapi - Hamsadwani - Adi",
+      "url": "https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -827,6 +827,22 @@
       "duration_ms": 1169093,
       "name": "Raagam Keeravani - Aalapanai",
       "url": "https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "The Best of Carnatic Instrumental",
+        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+      },
+      "artists": [
+        {
+          "name": "Doraiswamy Iyengar",
+          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+        }
+      ],
+      "duration_ms": 309968,
+      "name": "Ghana Ragamalika Tanam",
+      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -859,22 +875,6 @@
       "duration_ms": 341080,
       "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
       "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Classical Flute Collections",
-        "url": "https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2"
-      },
-      "artists": [
-        {
-          "name": "Trichy L. Saravanan",
-          "url": "https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2"
-        }
-      ],
-      "duration_ms": 562912,
-      "name": "Vathapi - Hamsadwani - Adi",
-      "url": "https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Mahathi Melodies",
-        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
-      },
-      "artists": [
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 318667,
-      "name": "Thevaram Mangayarkarasi - Bowli - Adi",
-      "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Bharathiyar Songs - Veena",
         "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "Mangala Nadaswaram - For Marriages And Auspicious Functions",
+        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
+      },
+      "artists": [
+        {
+          "name": "Kovilur K S G Somanathan",
+          "url": "https://open.spotify.com/artist/1DIXucQfbO3jesaeLZqBI2"
+        }
+      ],
+      "duration_ms": 818860,
+      "name": "Nagumomu - Abheri",
+      "url": "https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "Jugalbandi",
         "url": "https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije"
       },
@@ -991,24 +991,8 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Mangala Nadaswaram - For Marriages And Auspicious Functions",
-        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
-      },
-      "artists": [
-        {
-          "name": "Kovilur K S G Somanathan",
-          "url": "https://open.spotify.com/artist/1DIXucQfbO3jesaeLZqBI2"
-        }
-      ],
-      "duration_ms": 818860,
-      "name": "Nagumomu - Abheri",
-      "url": "https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Veena Gana Murali",
-        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
+        "name": "Mahathi Melodies",
+        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
       },
       "artists": [
         {
@@ -1016,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
         }
       ],
-      "duration_ms": 278831,
-      "name": "Ayarpadi - Kurunji - Tisra Nadai",
-      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
+      "duration_ms": 318667,
+      "name": "Thevaram Mangayarkarasi - Bowli - Adi",
+      "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1041,20 +1025,44 @@
       "url": "https://open.spotify.com/track/0zZ0NYg5T7GBxLNFF49TQn"
     },
     {
-      "added_at": "2025-07-09 11:29:57",
+      "added_at": "2026-08-19 07:26:01",
       "album": {
-        "name": "Entharo Mahanu Bhavulu",
-        "url": "https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG"
+        "name": "JOURNEY (Raga Charukesi)",
+        "url": "https://open.spotify.com/album/10FyRSKSVHLYnC5PMroxWk"
       },
       "artists": [
         {
-          "name": "Anayampatti Ganesan",
-          "url": "https://open.spotify.com/artist/7peRM2HNejEZitLzz6jn7U"
+          "name": "Charu Suri",
+          "url": "https://open.spotify.com/artist/74kDoHOU6cjB6MFeCDsoZX"
+        },
+        {
+          "name": "V. Selvaganesh",
+          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
+        },
+        {
+          "name": "Max ZT",
+          "url": "https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx"
         }
       ],
-      "duration_ms": 304666,
-      "name": "Jagadhodharana",
-      "url": "https://open.spotify.com/track/4NBwL6wloNkYC7ebNKEOiQ"
+      "duration_ms": 399900,
+      "name": "JOURNEY (Raga Charukesi)",
+      "url": "https://open.spotify.com/track/1gAafA1MNoOrlx4oUdRAFy"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Mangala Nadaswaram - For Marriages And Auspicious Functions",
+        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
+      },
+      "artists": [
+        {
+          "name": "Kovilur K S G Somanathan",
+          "url": "https://open.spotify.com/artist/1DIXucQfbO3jesaeLZqBI2"
+        }
+      ],
+      "duration_ms": 223634,
+      "name": "Ayigiri Nandini",
+      "url": "https://open.spotify.com/track/7iCHzlWd2To9Fo54ogIdJf"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1075,18 +1083,34 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Mangala Nadaswaram - For Marriages And Auspicious Functions",
-        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
+        "name": "Veena Gana Murali",
+        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
       },
       "artists": [
         {
-          "name": "Kovilur K S G Somanathan",
-          "url": "https://open.spotify.com/artist/1DIXucQfbO3jesaeLZqBI2"
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
         }
       ],
-      "duration_ms": 223634,
-      "name": "Ayigiri Nandini",
-      "url": "https://open.spotify.com/track/7iCHzlWd2To9Fo54ogIdJf"
+      "duration_ms": 278831,
+      "name": "Ayarpadi - Kurunji - Tisra Nadai",
+      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Entharo Mahanu Bhavulu",
+        "url": "https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG"
+      },
+      "artists": [
+        {
+          "name": "Anayampatti Ganesan",
+          "url": "https://open.spotify.com/artist/7peRM2HNejEZitLzz6jn7U"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Jagadhodharana",
+      "url": "https://open.spotify.com/track/4NBwL6wloNkYC7ebNKEOiQ"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -1117,30 +1141,6 @@
       "url": "https://open.spotify.com/track/5sUcp6R2bgcVFMHn20VicM"
     },
     {
-      "added_at": "2026-08-19 07:26:01",
-      "album": {
-        "name": "JOURNEY (Raga Charukesi)",
-        "url": "https://open.spotify.com/album/10FyRSKSVHLYnC5PMroxWk"
-      },
-      "artists": [
-        {
-          "name": "Charu Suri",
-          "url": "https://open.spotify.com/artist/74kDoHOU6cjB6MFeCDsoZX"
-        },
-        {
-          "name": "V. Selvaganesh",
-          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
-        },
-        {
-          "name": "Max ZT",
-          "url": "https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx"
-        }
-      ],
-      "duration_ms": 399900,
-      "name": "JOURNEY (Raga Charukesi)",
-      "url": "https://open.spotify.com/track/1gAafA1MNoOrlx4oUdRAFy"
-    },
-    {
       "added_at": "2025-07-09 11:29:57",
       "album": {
         "name": "Music from Madras",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Veena Gana Murali",
-        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
-      },
-      "artists": [
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 330422,
-      "name": "Pullanguzhal - Sivaranjani - Adi",
-      "url": "https://open.spotify.com/track/3vYQHX42EySRe4rPWEzlXc"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Subhamuhurtham - Nadaswaram",
         "url": "https://open.spotify.com/album/4i8nApXIIMM8QqzVao74hV"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 512208,
       "name": "Sambho Mahaadeva",
       "url": "https://open.spotify.com/track/6WBqkuNScTjtfOI5XB6cg3"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Veena Gana Murali",
+        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
+      },
+      "artists": [
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 330422,
+      "name": "Pullanguzhal - Sivaranjani - Adi",
+      "url": "https://open.spotify.com/track/3vYQHX42EySRe4rPWEzlXc"
     },
     {
       "added_at": "2025-07-09 11:29:57",

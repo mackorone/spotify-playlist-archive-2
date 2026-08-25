@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 
 > Bu yıl yıldızı parlayanlar, editörlerimizin seçkisiyle\. Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,199 likes - 29 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,197 likes - 29 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 | 28 | [Eski Ben Öldü](https://open.spotify.com/track/5QSOz8bWkWy3argEtNk5Pg) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC) | [Eski Ben Öldü](https://open.spotify.com/album/5aPBAFiN7jXPq8DiEgyRCY) | 2:29 |
 | 29 | [Katilime Aşıktım](https://open.spotify.com/track/1Okel22j5wxQ08BJtdIXGm) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Katilime Aşıktım](https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ) | 2:15 |
 
-Snapshot ID: `AAAAAKue7DeFvblLb4sgolhLPx9c1wBM`
+Snapshot ID: `AAAAAAHF3OdE0PZ8xH8pTq2Vy4MGLrfG`

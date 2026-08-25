@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Time](https://open.spotify.com/track/4vAZFXHHjcHxYTGCuI1HXk) | [Pachanga Boys](https://open.spotify.com/artist/7EqE0DBntJS6OUT4gK9W3P) | [Camping Belgica](https://open.spotify.com/album/6eqr6RWVwLN8WJ9QzEweo1) | 15:13 |
-| 2 | [Skydive \(Kevin de Vries Remix\)](https://open.spotify.com/track/6e8dQ0N8o7e51V76B6EpT2) | [Freefall](https://open.spotify.com/artist/4twzdHZrnfsdn2K646zozJ), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Skydive \(Kevin de Vries Remix\)](https://open.spotify.com/album/7qslur1Eiwhp53h9l57iwC) | 4:39 |
+| 2 | [Skydive \- Kevin de Vries Remix](https://open.spotify.com/track/6e8dQ0N8o7e51V76B6EpT2) | [Freefall](https://open.spotify.com/artist/4twzdHZrnfsdn2K646zozJ), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Skydive \(Kevin de Vries Remix\)](https://open.spotify.com/album/7qslur1Eiwhp53h9l57iwC) | 4:39 |
 | 3 | [Blue Giant](https://open.spotify.com/track/4xgIURDHNTMjX5aXW0gQ3g) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:00 |
 | 4 | [Atlas](https://open.spotify.com/track/1QjPFkuEZPnD7uc34cikuD) | [GNTN](https://open.spotify.com/artist/6guwuHIjpVnmvaBjzertzu) | [Atlas](https://open.spotify.com/album/6qyxTZq9Wxe1HNW47TTins) | 7:06 |
 | 5 | [Diamant](https://open.spotify.com/track/4umLzOBGXqKqNVAuYJqAGi) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Unity](https://open.spotify.com/album/0HrDrQPhOBR04RKmY7DCJj) | 9:07 |

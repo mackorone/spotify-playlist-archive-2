@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFmS2B70BoEXBSIWYFEG/vg9Hmfn",
+  "snapshot_id": "AAAAAKqdwUHJ4d3w2dt4ekhl5sgnfMGG",
   "tracks": [
     {
       "added_at": "2026-08-21 08:52:55",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Yes I'm Changing",
-      "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 283360,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Yes I'm Changing",
+      "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -423,22 +423,18 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Old Lovers (feat. The Lumineers)",
-        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 213188,
-      "name": "Old Lovers (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -459,18 +455,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+        "name": "Old Lovers (feat. The Lumineers)",
+        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 168733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
+      "duration_ms": 213188,
+      "name": "Old Lovers (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Cold Fact",
         "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 154240,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "Things Take Time",
+        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Things Take Time",
+      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 217000,
       "name": "It Didn't Matter",
       "url": "https://open.spotify.com/track/10kxTiNUTo4nlEbH1EzoX1"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "Things Take Time",
-        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Things Take Time",
-      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "LE GROOVE D'UNE CHANSON TRISTE",
+        "url": "https://open.spotify.com/album/2zlXNZdEbQesMpP0PV483s"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "LE GROOVE D'UNE CHANSON TRISTE",
+      "url": "https://open.spotify.com/track/26TR6ha1XZ2lPA30AU8iMV"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "Flamingo Serenades / Flamingo Favorites",
         "url": "https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "LE GROOVE D'UNE CHANSON TRISTE",
-        "url": "https://open.spotify.com/album/2zlXNZdEbQesMpP0PV483s"
-      },
-      "artists": [
-        {
-          "name": "Odetto",
-          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "LE GROOVE D'UNE CHANSON TRISTE",
-      "url": "https://open.spotify.com/track/26TR6ha1XZ2lPA30AU8iMV"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Christina",
         "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Fou de toi",
         "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 140248,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Fool of Myself",
-        "url": "https://open.spotify.com/album/5o55Yaxu8QiZwfCiGkSRrZ"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Fool of Myself",
-      "url": "https://open.spotify.com/track/5HlcHBTefv14obQKWMIxgC"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Ache",
         "url": "https://open.spotify.com/album/1ZglL7piZRwXuAILjndgOz"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 222920,
       "name": "Ache",
       "url": "https://open.spotify.com/track/3cepuSHtaG4aN2EYY4DLwv"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Fool of Myself",
+        "url": "https://open.spotify.com/album/5o55Yaxu8QiZwfCiGkSRrZ"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Fool of Myself",
+      "url": "https://open.spotify.com/track/5HlcHBTefv14obQKWMIxgC"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "SUBURBIA",
-        "url": "https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "pool party",
-      "url": "https://open.spotify.com/track/0NGp0uHiKPWjnd5EKR9K58"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Rapids of Love",
         "url": "https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 165554,
       "name": "Rapids of Love",
       "url": "https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "SUBURBIA",
+        "url": "https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "pool party",
+      "url": "https://open.spotify.com/track/0NGp0uHiKPWjnd5EKR9K58"
     },
     {
       "added_at": "2026-08-21 08:52:55",

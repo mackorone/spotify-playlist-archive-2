@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "cant you see",
+        "url": "https://open.spotify.com/album/1QSOdmHN1AD1amrZlVonJs"
+      },
+      "artists": [
+        {
+          "name": "toadmilk",
+          "url": "https://open.spotify.com/artist/0JLuRzD73XnnlmzQtyp3OU"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161828,
+      "name": "cant you see",
+      "url": "https://open.spotify.com/track/6Jhb9RtpCGwMS8XpmWqn8N"
+    },
+    {
+      "album": {
         "name": ".Temp",
         "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
       },
@@ -568,7 +586,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 100310,
       "name": "dreamcore",
       "url": "https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt"

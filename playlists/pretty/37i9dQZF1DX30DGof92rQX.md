@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Third Fret
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,565 likes - 95 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,584 likes - 95 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marzi](https://open.spotify.com/track/2mmA9toRZsgxte9kzB87YN) | [Third Fret](https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm), [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW) | [Mehmaan](https://open.spotify.com/album/5be6spawAi0nrGm8yzbcHo) | 3:05 |
-| 2 | [HOME](https://open.spotify.com/track/1MKBvwicNG6Udmueu0Suck) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [DESIGNERR](https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa) | 4:36 |
+| 2 | [HOME](https://open.spotify.com/track/1MKBvwicNG6Udmueu0Suck) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [DESIGNERR](https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa) | 4:36 |
 | 3 | [Bhool Gaya](https://open.spotify.com/track/3GfPzRWJWyJZbl25NaatiW) | [izhaar Ali](https://open.spotify.com/artist/3Q2R81iiDAi2VKmbYvjpol) | [Bhool Gaya](https://open.spotify.com/album/0iL1P0t5Rth9zRWpB7VWy0) | 4:06 |
 | 4 | [Intezar](https://open.spotify.com/track/1RABtP0dPLgqI17CnuKEwy) | [Sherry Khattak](https://open.spotify.com/artist/2diSCa9Rt1feixkDPgDWux) | [Intezar](https://open.spotify.com/album/7sWLfQG5yukOrqefhpoX9t) | 4:23 |
 | 5 | [Savera](https://open.spotify.com/track/4QZnO2RX8zBHzPiDwIaRaa) | [Saif Altaf](https://open.spotify.com/artist/2dIHcU5M4hH1kv6xthhqnV), [Seventean](https://open.spotify.com/artist/1KbWZUNoYa35zBcd7LjbRd) | [Savera](https://open.spotify.com/album/7cPrCszA4JW8ZAe03oA6wN) | 2:58 |
 | 6 | [Sajna](https://open.spotify.com/track/1rVbGoMkvHLHeRjfzZXLqH) | [Najaf Ali](https://open.spotify.com/artist/5D04BKowdcEciyByNMzAEX), [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Kabeer Khan](https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt) | [Sajna](https://open.spotify.com/album/7pWb1VrPEDgyjABtPvOJLF) | 3:06 |
-| 7 | [CLOSE 2 U](https://open.spotify.com/track/5qpsXBahwa6Ag9JomJusMZ) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [DESIGNERR](https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa) | 3:28 |
+| 7 | [CLOSE 2 U](https://open.spotify.com/track/5qpsXBahwa6Ag9JomJusMZ) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [DESIGNERR](https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa) | 3:28 |
 | 8 | [Dil Ki Kahani](https://open.spotify.com/track/143l3qpqhvfO7tqW4cEZQW) | [Asad Naeem](https://open.spotify.com/artist/0x0qbiFCy5b2U0jHWX0FeA), [The Hashtags](https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV) | [Dil Ki Kahani](https://open.spotify.com/album/2xXiFYrqq4MQC472yy7oE5) | 4:16 |
 | 9 | [ROOH](https://open.spotify.com/track/5hd69Vbm8UvJqNbh7MkR9S) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROOH](https://open.spotify.com/album/7F3CQrmVXFwru8xBaudzlp) | 2:12 |
 | 10 | [Dil Ka Maamla](https://open.spotify.com/track/3ehjBURi78nxEmCnxBNko1) | [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Dil Ka Maamla](https://open.spotify.com/album/7wpubUaQROa3y81HZeo0lp) | 2:25 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 94 | [Main Wo Nahi](https://open.spotify.com/track/0jg78sSq67ZNtK3bn2mKBN) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Main Wo Nahi](https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ) | 3:51 |
 | 95 | [Jaise Hoor Aasmaani](https://open.spotify.com/track/3hfnqcRYwyXCHBE0NIcckI) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Sajjal Zee](https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E) | [Jaise Hoor Aasmaani](https://open.spotify.com/album/4R5Q1p8qNkXEyKtmOmTnvA) | 2:52 |
 
-Snapshot ID: `AAAAAAYDOD3Eu+vV2aX+5pHl4bT9m0YR`
+Snapshot ID: `AAAAAF9WZtqkmCzkrMS5dgzO6Gqvptyo`

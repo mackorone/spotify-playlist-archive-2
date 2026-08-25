@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 7647,
+  "num_followers": 7652,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+IsloWq+Yafnz9Mp9qRBFYStq6",
+  "snapshot_id": "AAAAAJLohP3BUfN5I6xt9v+4JKYBE4yx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -655,22 +655,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lock Down",
-        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
+        "name": "Big Moves",
+        "url": "https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ"
       },
       "artists": [
         {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        },
-        {
-          "name": "Usain Bolt",
-          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
         }
       ],
-      "duration_ms": 177473,
-      "name": "Lock Down",
-      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
+      "duration_ms": 159477,
+      "name": "Big Moves",
+      "url": "https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -699,18 +695,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Big Moves",
-        "url": "https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ"
+        "name": "Lock Down",
+        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
       },
       "artists": [
         {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
         }
       ],
-      "duration_ms": 159477,
-      "name": "Big Moves",
-      "url": "https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX"
+      "duration_ms": 177473,
+      "name": "Lock Down",
+      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 473591,
+  "num_followers": 473553,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbz/C85X1SWll6L9ttAu0xc9huz",
+  "snapshot_id": "AAAAALNc5bQvt3o5iATcsh8RMagxq5Mn",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Pain Shifter",
+        "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
+      },
+      "artists": [
+        {
+          "name": "W. B. Wooten",
+          "url": "https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Pain Shifter",
+      "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Starting from Scratch",
         "url": "https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 231359,
       "name": "Daylight Push",
       "url": "https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Pain Shifter",
-        "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
-      },
-      "artists": [
-        {
-          "name": "W. B. Wooten",
-          "url": "https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Pain Shifter",
-      "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Are You Listening?",
+      "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Passage Du Desir",
         "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 317333,
       "name": "Right Kind of Dream",
       "url": "https://open.spotify.com/track/4bvsXc61sKgQ8eqrb6Mqhr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Are You Listening?",
-        "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
-      },
-      "artists": [
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Are You Listening?",
-      "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
     },
     {
       "added_at": "2025-02-07 05:00:32",

@@ -1,12 +1,12 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 31990,
+  "num_followers": 32024,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKvwIcE4EBza+TE51r47iIvbeNTo",
+  "snapshot_id": "AAAAABowJGXhzRZ+Osefx3ccuWNnTPMs",
   "tracks": [
     {
       "added_at": "2026-08-07 11:26:05",
@@ -235,18 +235,26 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "Contrast",
-        "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy"
       },
       "artists": [
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
         }
       ],
-      "duration_ms": 219207,
-      "name": "Conflicted",
-      "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
+      "duration_ms": 139320,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -271,26 +279,18 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy"
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
       },
       "artists": [
         {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
         }
       ],
-      "duration_ms": 139320,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk"
+      "duration_ms": 219207,
+      "name": "Conflicted",
+      "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -335,6 +335,34 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
+        "name": "Sunrise at Mount Fuji",
+        "url": "https://open.spotify.com/album/1fyTJhCf41lyaM3lva5rTd"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Hideyuki Mochizuki",
+          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
+        }
+      ],
+      "duration_ms": 139506,
+      "name": "Sunrise at Mount Fuji",
+      "url": "https://open.spotify.com/track/3wtEF6gOrkS1DTT3BPMWdA"
+    },
+    {
+      "added_at": "2026-08-07 11:26:05",
+      "album": {
         "name": "Clair de lune",
         "url": "https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY"
       },
@@ -367,6 +395,46 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
+        "name": "\u6ce2\u7d0b",
+        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "duration_ms": 189878,
+      "name": "\u6ce2\u7d0b",
+      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
+    },
+    {
+      "added_at": "2026-08-07 11:26:05",
+      "album": {
+        "name": "Sasanqua",
+        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
+      },
+      "artists": [
+        {
+          "name": "physis",
+          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
+        },
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 134959,
+      "name": "Sasanqua",
+      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
+    },
+    {
+      "added_at": "2026-08-07 11:26:05",
+      "album": {
         "name": "Distant Lights",
         "url": "https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6"
       },
@@ -395,66 +463,6 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "\u6ce2\u7d0b",
-        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
-        }
-      ],
-      "duration_ms": 189878,
-      "name": "\u6ce2\u7d0b",
-      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
-    },
-    {
-      "added_at": "2026-08-07 11:26:05",
-      "album": {
-        "name": "Stack Wave (feat. STUTS)",
-        "url": "https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Stack Wave (feat. STUTS)",
-      "url": "https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo"
-    },
-    {
-      "added_at": "2026-08-07 11:26:05",
-      "album": {
-        "name": "Sasanqua",
-        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
-      },
-      "artists": [
-        {
-          "name": "physis",
-          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
-        },
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 134959,
-      "name": "Sasanqua",
-      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
-    },
-    {
-      "added_at": "2026-08-07 11:26:05",
-      "album": {
         "name": "Raincoat (Paul Grant Remix)",
         "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
       },
@@ -475,30 +483,22 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "Sunrise at Mount Fuji",
-        "url": "https://open.spotify.com/album/1fyTJhCf41lyaM3lva5rTd"
+        "name": "Stack Wave (feat. STUTS)",
+        "url": "https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV"
       },
       "artists": [
         {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
         },
         {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Hideyuki Mochizuki",
-          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
         }
       ],
-      "duration_ms": 139506,
-      "name": "Sunrise at Mount Fuji",
-      "url": "https://open.spotify.com/track/3wtEF6gOrkS1DTT3BPMWdA"
+      "duration_ms": 271162,
+      "name": "Stack Wave (feat. STUTS)",
+      "url": "https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -587,18 +587,22 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "Sketchbook",
-        "url": "https://open.spotify.com/album/58hj3WxFm2UOKw5s1ukfHY"
+        "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
+        "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
       },
       "artists": [
         {
           "name": "EVISBEATS",
           "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 188866,
-      "name": "\u3086\u308c\u308b - Instrumental-",
-      "url": "https://open.spotify.com/track/6wqBWgnLdQxwjrQOCphIzD"
+      "duration_ms": 181931,
+      "name": "Yosei",
+      "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
     },
     {
       "added_at": "2026-08-07 11:26:05",
@@ -683,22 +687,18 @@
     {
       "added_at": "2026-08-07 11:26:05",
       "album": {
-        "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
-        "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
+        "name": "Sketchbook",
+        "url": "https://open.spotify.com/album/58hj3WxFm2UOKw5s1ukfHY"
       },
       "artists": [
         {
           "name": "EVISBEATS",
           "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 181931,
-      "name": "Yosei",
-      "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
+      "duration_ms": 188866,
+      "name": "\u3086\u308c\u308b - Instrumental-",
+      "url": "https://open.spotify.com/track/6wqBWgnLdQxwjrQOCphIzD"
     },
     {
       "added_at": "2026-08-07 11:26:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Likeboss
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,573 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,566 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 7 | [TETTEH](https://open.spotify.com/track/0yOqiWYx9xb1DY4cRrzPX9) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [RICH BEFORE DEATH](https://open.spotify.com/album/3VA73ZIe1fZsf3CXyVIvdN) | 3:03 |
 | 8 | [ONE NIGHT STANDS](https://open.spotify.com/track/3rmqAO5ZwdeQdtCGdoNl2C) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [I TRIED](https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH) | 2:44 |
 | 9 | [AVANTAGE](https://open.spotify.com/track/2px5Fplo9yVFFBqlFKWn74) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [AVANTAGE](https://open.spotify.com/album/5cwuxnk3TewfALIK5rLUWK) | 3:31 |
-| 10 | [Karma](https://open.spotify.com/track/5AVzm8Zv4NoijNbzYy038a) | [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX), [Nifo.521](https://open.spotify.com/artist/7nPVk9Ce1pTB1E5uxJt1Nk) | [Karma](https://open.spotify.com/album/44ACIkgv73IQc3eE10ungR) | 2:27 |
+| 10 | [Karma](https://open.spotify.com/track/5AVzm8Zv4NoijNbzYy038a) | [Nifo.521](https://open.spotify.com/artist/7nPVk9Ce1pTB1E5uxJt1Nk), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [Karma](https://open.spotify.com/album/44ACIkgv73IQc3eE10ungR) | 2:27 |
 | 11 | [80s](https://open.spotify.com/track/2YfUDAeK634hrKfhEzbZxo) | [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm), [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [80s](https://open.spotify.com/album/0P2nXpqHmhxMsMOsRNwodG) | 2:49 |
 | 12 | [3 KILO](https://open.spotify.com/track/5hJgfWCMOSwJifVlynBQQQ) | [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB), [Mario Cash](https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB), [LAZOS](https://open.spotify.com/artist/54hs0RzBuT3IKOhM4QmIpo) | [3 KILO](https://open.spotify.com/album/266CEwGpfyn1dE1z5znADa) | 3:41 |
 | 13 | [PHUKET](https://open.spotify.com/track/2Vgi5hFpSkiB0yWHRwAWxj) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [RICH BEFORE DEATH](https://open.spotify.com/album/3VA73ZIe1fZsf3CXyVIvdN) | 2:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [Gucci Bag](https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3) | [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [Gucci Bag](https://open.spotify.com/album/1BXZBS4RMQcRTTw7JbSsqu) | 2:16 |
 | 60 | [BADMAN](https://open.spotify.com/track/0JolqNNV3ZfbBuSBbPggQe) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [BADMAN](https://open.spotify.com/album/6Ncs4SvmRDLrvRnubvVcac) | 2:40 |
 
-Snapshot ID: `AAAAAKXXbbcXkUd1YWerA2rC2f9VzaYD`
+Snapshot ID: `AAAAAONxaidplQQnSsGhy0nHXe54Wp2M`

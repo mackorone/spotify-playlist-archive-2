@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: MIK, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,677 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,676 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Petals](https://open.spotify.com/track/4Pcpv4lVRJN63vlAUy34Hs) | [Darlin](https://open.spotify.com/artist/3TM71Q1rt1SOcgoJTpUFwu) | [Petals](https://open.spotify.com/album/0d0gXMXu6UhykQAA4Hp8T1) | 2:49 |
 | 50 | [Sieben](https://open.spotify.com/track/119d15hLCKcPHGoWodfokj) | [Taubenraucher](https://open.spotify.com/artist/5S9ZXP1ahpEL15EhanRbKn) | [Sieben](https://open.spotify.com/album/2yZFakWu6zSTO13cFlKOhi) | 4:07 |
 
-Snapshot ID: `AAAAAOpJjNPDWpV4Fiz1vu6sZ9A106uk`
+Snapshot ID: `AAAAAJuiKEYkRk6nQHQgy6D7rkyhRaIl`

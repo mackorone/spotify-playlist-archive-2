@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > a little rap, a little pop, a little country..\. sometimes\. BabyChiefDoIt on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,588 likes - 53 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,583 likes - 53 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 52 | [700 CLUB](https://open.spotify.com/track/3Jphy67bYJzDwmag3PKDAK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [700 CLUB](https://open.spotify.com/album/4nw9TlcaIoNpw2nE53nXJz) | 3:00 |
 | 53 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 |
 
-Snapshot ID: `AAAAAKfLx1FOcD3szSlYTgEt+CxtpVL6`
+Snapshot ID: `AAAAAIvhlIJHF9Gk7b7g3gySD7PIu408`

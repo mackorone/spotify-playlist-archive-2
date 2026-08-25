@@ -4,7 +4,7 @@
 
 > The official music from the Battlefield franchise
 
-60 songs - 3 hr 38 min
+62 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 | 2026-02-18 |  |
 | [Cowboy](https://open.spotify.com/track/5mp0CFvNgluk4cB5Tx0UbT) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Keys To The City](https://open.spotify.com/album/6R9JatwRXocbajKarpTqPy) | 3:20 | 2026-02-18 |  |
 | [Cyclone 2](https://open.spotify.com/track/1QmrRX1uZgFhv2hcZh15ys) | [Johan Skugge](https://open.spotify.com/artist/0cxIE0a4SKHitNEvJ9rAXm), [Jukka Rintamäki](https://open.spotify.com/artist/0vEK9IIbyIKeoQiN1NvEbC) | [Battlefield 4 \(Original Soundtrack\)](https://open.spotify.com/album/7D9uN16qCeZsxjhksbRA5e) | 1:54 | 2026-02-18 |  |
+| [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 | 2026-08-24 |  |
 | [Domination](https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:05 | 2026-02-18 |  |
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2026-02-18 |  |
 | [Entrance Song](https://open.spotify.com/track/0Bm4fjn2AeXeA1x12hoySt) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Phosphene Dream](https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ) | 3:38 | 2026-07-23 |  |
@@ -66,6 +67,7 @@
 | [The Storm \- Main Theme](https://open.spotify.com/track/2uX3cPTDcFjjBUS7QbM3Pv) | [Mikael Karlsson](https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx) | [Battlefield: Bad Company 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Ng1Pl9BTKiPb8dPwzMpyY) | 4:28 | 2026-02-18 |  |
 | [Tick Tick Boom](https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black And White Album](https://open.spotify.com/album/0kGG0cYU829iWwfpQFm6Ue) | 3:25 | 2026-02-18 |  |
 | [Ticking Bomb](https://open.spotify.com/track/71GzUmdpoVsIL2djM1Ib81) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 3:36 | 2026-02-18 |  |
+| [Top Gun Anthem \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/00Y9r5SfbDdEjJhNg7laQr) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:13 | 2026-08-24 |  |
 | [Vehicle IV](https://open.spotify.com/track/0U0ScQpiJi0b9bLAYR3rak) | [Joel Eriksson](https://open.spotify.com/artist/0LH4rdQVQZvkNjkr40Ae4K) | [Battlefield 1942 \(Original Soundtrack\)](https://open.spotify.com/album/1rz0pZ0UTAP3TLnQ9AmRsX) | 4:08 | 2026-02-18 |  |
 | [You'll Never Guess Who Died](https://open.spotify.com/track/2VF90Ck4mwM5yQgQJv0qO9) | [The Kinison](https://open.spotify.com/artist/0HVw0wS9ujZ77XC1IkurQ9) | [WHAT ARE YOU LISTENING TO? \(Studio\)](https://open.spotify.com/album/3BySgQtyeInd5JWxtXg01q) | 3:29 | 2026-02-18 |  |
 

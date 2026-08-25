@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jorja Smith, Sam Smith, Fontaines D.C., Cleo Sol and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,982 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,881 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [wish u](https://open.spotify.com/track/26IfYU72LrRxfi7sxvYNrl) | [The Twins](https://open.spotify.com/artist/6vsNRwGyyXmphFE9Lu27qi) | [wish u](https://open.spotify.com/album/0aKeyMr8TBJZ87ToNctoqF) | 1:50 |
 | 100 | [Nobody Cares](https://open.spotify.com/track/61q3jK7LepONT21nXLgJLe) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Nobody Cares](https://open.spotify.com/album/5gRKWM2hGzMmQs7OyIejLW) | 2:17 |
 
-Snapshot ID: `AAAAANr0Yhl96TwF/H8HMOqSFuFJCc9x`
+Snapshot ID: `AAAAAEMB5f5/vhPUSzT4R+/XqpgjDJBr`

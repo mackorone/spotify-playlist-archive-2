@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Eves Laurent, Jack, Langa en Siggy & D1ns\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,073 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,012 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jongeman vd Wegen](https://open.spotify.com/track/75muH9PLpaomRaUKBD1nwg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [De Stem van MERLOT](https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy) | 2:43 |
-| 2 | [Rode WIjn](https://open.spotify.com/track/6l4oieYjnpAtrAFjldrFuF) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Rode Wijn](https://open.spotify.com/album/1pV3ECYqySPV6PbluDQcFt) | 2:51 |
+| 2 | [Rode Wijn](https://open.spotify.com/track/6l4oieYjnpAtrAFjldrFuF) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Rode Wijn](https://open.spotify.com/album/1pV3ECYqySPV6PbluDQcFt) | 2:51 |
 | 3 | [Bottega](https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Bottega](https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q) | 2:32 |
 | 4 | [Back 2 Back](https://open.spotify.com/track/7AzSpz2cBOFzFfBQwZHSyA) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Eb & Vloed](https://open.spotify.com/album/2R5kRgGUs6vPsAOrYohTaO) | 2:34 |
 | 5 | [Dylan Klomp](https://open.spotify.com/track/1hXE72kNZzHfLVpPaaPc30) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Dylan Klomp](https://open.spotify.com/album/6CO2svtKVQtbufjL7lQXTU) | 1:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Skyline](https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Skyline](https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0) | 2:37 |
 | 60 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 
-Snapshot ID: `AAAAANcy5mcz03ZCreNAdZD2Im8oTyw/`
+Snapshot ID: `AAAAAOM3ESD/M+qJbNpilSzwHA+7rPSb`

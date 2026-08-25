@@ -6421,6 +6421,28 @@
     },
     {
       "album": {
+        "name": "Pink Lemon (Dam Swindle Remix)",
+        "url": "https://open.spotify.com/album/7dL698OAdonYzcoVyC783e"
+      },
+      "artists": [
+        {
+          "name": "Elder Island",
+          "url": "https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik"
+        },
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217738,
+      "name": "Pink Lemon - Dam Swindle Remix",
+      "url": "https://open.spotify.com/track/0zC9m8AHsI1cCAaoyrQ5Mj"
+    },
+    {
+      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
       },
@@ -9100,7 +9122,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 245938,
       "name": "Wish I Knew You - Poolside Remix",
       "url": "https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx"

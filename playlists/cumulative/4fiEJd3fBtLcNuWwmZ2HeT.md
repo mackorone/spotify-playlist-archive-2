@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-545 songs - 1 day 7 hr 53 min
+551 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [aishiteitanoni](https://open.spotify.com/track/5Z9VT368Dnk4hF1vW0zlMC) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [aishiteitanoni](https://open.spotify.com/album/07XxOcJ5hnvdvqABiIQRMt) | 3:39 | 2026-01-17 |  |
 | [Akujiki](https://open.spotify.com/track/565shq9eUdoknV8W0rUViP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:23 | 2024-12-03 |  |
 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 | 2022-09-02 |  |
+| [Alluring Secret \~Black Vow\~](https://open.spotify.com/track/71e2lIBhyqO1HOVsZlNcM4) | [axopholes](https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [Alluring Secret \~Black Vow\~](https://open.spotify.com/album/5ZmUmdPJMbTKfoN87rjaNE) | 4:16 | 2026-08-24 |  |
 | [Amygdala's Rag Doll](https://open.spotify.com/track/11LOpncQm2hylzwfvG2j7q) | [Ghost and Pals](https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8) | [Thanks to You Song](https://open.spotify.com/album/7jR9LLmvyGevD3hgWa8geY) | 4:35 | 2026-03-14 | 2026-03-26 |
 | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/track/4d219MDLlMdxhBLyOEOoDx) | [Toiki.](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/album/0YSk1A1AnAoUku60Dwc3ja) | 2:22 | 2024-09-07 |  |
 | [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 | 2026-01-01 |  |
@@ -85,6 +86,7 @@
 | [Dance In The Game](https://open.spotify.com/track/7kSYwyMv5dnc5aORNwZb15) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ZAQPOT](https://open.spotify.com/album/623vd5so8U7NFy7tFWmTgV) | 3:28 | 2023-10-07 |  |
 | [Dance of Life](https://open.spotify.com/track/2ECoDhG6Xe9aQ4TuwE22yW) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Dance of Life](https://open.spotify.com/album/5h94Q9larv6crjfGZlWo4B) | 3:47 | 2024-08-08 |  |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-09-12 |  |
+| [Darling](https://open.spotify.com/track/2F10BWg1Wmu2hsxBqutXZn) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Darling](https://open.spotify.com/album/33kmAV4JnR0ZcKbWD9XQS2) | 3:43 | 2026-08-24 |  |
 | [DARLING](https://open.spotify.com/track/2tsKPVmDYAspAyOU2Wjbkd) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:43 | 2025-09-14 |  |
 | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/track/1muALek1dLnnpVzZzDEHfC) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/album/4ntvDwQXImuuKGwFp182Mi) | 3:13 | 2023-08-21 |  |
 | [Dec.](https://open.spotify.com/track/7iYrP7trNTMlH9fbRAnexx) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Dec.](https://open.spotify.com/album/2Ym8AuIyzuVjSgxq81gIvp) | 2:12 | 2025-08-31 |  |
@@ -178,6 +180,7 @@
 | [Kiss the villain](https://open.spotify.com/track/6yZjEE1izAcgaGz29JkBTO) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [The Problem Einstein couldn't solve](https://open.spotify.com/album/6QqB8f8f1rvZmTp3HP1i6b) | 3:48 | 2026-04-07 |  |
 | [Knife of Love](https://open.spotify.com/track/3uA8nw4Jwgdcq6Q8JXTMYx) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [Knife of Love](https://open.spotify.com/album/579EA2TK9INZyfuJ1mH7Y9) | 2:42 | 2025-04-06 |  |
 | [koi \(feat\. 9Lana\)](https://open.spotify.com/track/3QhD3w9JDGsVm18ypnkHEP) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [koi \(feat\. 9Lana\)](https://open.spotify.com/album/4RaGX5JF1XBkHCeysp0Rnn) | 2:42 | 2025-05-27 |  |
+| [Koukatsu](https://open.spotify.com/track/4BeBddCKKwrTvqqyK5XZr5) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Koukatsu](https://open.spotify.com/album/4XvVtXEKOW0NQr9nyeXnoe) | 3:46 | 2026-08-24 |  |
 | [Koukatsu](https://open.spotify.com/track/6EMhoEetT9w5segZQeyBEW) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:46 | 2026-01-17 |  |
 | [Kubiwa Kyouiku no Susume](https://open.spotify.com/track/454m8n2FSYs4jOxJz49REC) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Kubiwa Kyouiku no Susume](https://open.spotify.com/album/0zH8j5cGtsFW4G0Yb1hEdq) | 3:50 | 2025-09-25 |  |
 | [KUCHUBURANKO](https://open.spotify.com/track/1c2CyIh5XLIxbJv0s3z8MI) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [KUCHUBURANKO](https://open.spotify.com/album/2fy2QRd4TmqZyM1cYSVRTN) | 5:24 | 2025-10-16 |  |
@@ -222,6 +225,7 @@
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2021-07-04 |  |
 | [My September](https://open.spotify.com/track/5awD45wQF7zj7ywVw6kKIM) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/36sx9zofL5sI6StsgsB3ms) | 4:40 | 2026-01-18 |  |
 | [My September](https://open.spotify.com/track/79YWz8oV1RZxdi2UVpbrB7) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 4:40 | 2024-08-02 |  |
+| [NAMIDA](https://open.spotify.com/track/4rW2Jk3MZ2uE74mYEQ3Pb3) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [NAMIDA](https://open.spotify.com/album/4MevvGbMQOBhWletiSPIXv) | 4:04 | 2026-08-24 |  |
 | [Necro no Hanayome](https://open.spotify.com/track/228q0rCvDuHo7Mdb1i5z1O) | [KANON69](https://open.spotify.com/artist/5aKVkaAP4dYG7zQeM4z25h) | [RUNWAY](https://open.spotify.com/album/4fYSc5hRJ9VuCASYHPvmns) | 4:05 | 2025-12-16 |  |
 | [Nemurasareta Lineage](https://open.spotify.com/track/0yRoUHkP4ts76WpUhzybUd) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Nemurasareta Lineage](https://open.spotify.com/album/1S4GpGs85seHZTLMaLyOE8) | 4:28 | 2024-06-17 |  |
 | [New Darling](https://open.spotify.com/track/6kYBu05KmbosbgAwGVn5TL) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [New Darling](https://open.spotify.com/album/1iokJXsnh02ILMpripxiUx) | 2:36 | 2026-01-11 |  |
@@ -286,6 +290,7 @@
 | [sifflet](https://open.spotify.com/track/426JELf4IKUDygeeSC2p5Q) | [rillrail](https://open.spotify.com/artist/7poCU746QVt1c794QGAO5d) | [sifflet / identity](https://open.spotify.com/album/5FCe9DeF7McTUnx8Z7msUW) | 3:34 | 2025-04-21 |  |
 | [SISTERS](https://open.spotify.com/track/4vvqRZm4dXnzP07bUGoCj5) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [misérable](https://open.spotify.com/album/1C8X9L62l1qMjyDQjqK5gt) | 2:59 | 2025-06-30 |  |
 | [SIU](https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 4:38 | 2022-03-16 |  |
+| [SIU](https://open.spotify.com/track/7AqPtCvcCx7zgEIHr2RO8B) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/6DOMrPaNqy5Iz5PuponuJz) | 4:38 | 2026-08-24 |  |
 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 | 2023-11-12 | 2026-07-02 |
 | [sneer](https://open.spotify.com/track/49iPWsVzlm4lkcVbeq6pqN) | [KOMEDAWARA](https://open.spotify.com/artist/5IHeMc4VSgGZyQBBeZhY3F), [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp) | [sneer](https://open.spotify.com/album/1DN9zA67aiNNClynWkbwUJ) | 3:59 | 2025-11-18 |  |
 | [Snooze](https://open.spotify.com/track/1Ht0sIJf1IYEiBW9XDLKnF) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [Snooze](https://open.spotify.com/album/0GrWylaTP2A3nDLDIklvWM) | 2:58 | 2025-09-15 |  |
@@ -319,6 +324,7 @@
 | [Toge](https://open.spotify.com/track/11SRHDplDfjSEYgisBy6bp) | [Shinra\-Bansho](https://open.spotify.com/artist/0hvH9m3WODkzWWyW2gktx6) | [ARMAGEDDON](https://open.spotify.com/album/5UD8Yl63ARC5bAX2JXSLvN) | 4:01 | 2023-12-04 |  |
 | [Tokyo Teddy Bear](https://open.spotify.com/track/1OTkrip8I6EW5ap78axkyg) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr), [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Bokukara No Saishuu Teiri](https://open.spotify.com/album/4sVkAuyfAayJ1DQU4oMgLY) | 3:12 | 2021-10-24 |  |
 | [Touch You](https://open.spotify.com/track/6qWEpnyU43Bcrx3vfbGuVm) | [遠野高志](https://open.spotify.com/artist/3dkW1L7GIhispeiHo9uzM8), [加島優](https://open.spotify.com/artist/3ynBix87InXjEn5L9LsAWB), [矢口恭介](https://open.spotify.com/artist/4CkENaPbZ3CSwB7kAbzTE1), [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO), [百合絢斗](https://open.spotify.com/artist/5nEXLz5Qwkcv8d91fP4Cjo), [田村唯](https://open.spotify.com/artist/4tF37PbmfGwti71JKUI1pz), [明美圭一](https://open.spotify.com/artist/6l15fzba4HWiYgbX7ji3NQ), [糸目幸士郎](https://open.spotify.com/artist/0t1H6voah4Js1hbu2EPUqx), [鹿谷樹](https://open.spotify.com/artist/7u0iN4XxPpkIk9KRcLQXDa) | [アニメ『ヤリチン☆ビッチ部』主題歌「Touch You」](https://open.spotify.com/album/2rQlPhe76mnmviBmjHdS89) | 3:26 | 2024-11-30 |  |
+| [Toutetsu](https://open.spotify.com/track/2MsGQOwD0CNkEO6npnbK0Z) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Toutetsu](https://open.spotify.com/album/4SmGvvUIfmEQvC6eOklB2m) | 4:08 | 2026-08-24 |  |
 | [Twilight](https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:48 | 2024-08-15 |  |
 | [Umi no shizuku](https://open.spotify.com/track/0jjz9medFeIXgz1lVOccgZ) | [exist†trace](https://open.spotify.com/artist/2qrNC9noTTHFbNw5SQTh52) | [Ambivalent Symphony](https://open.spotify.com/album/1lPIKPAcpTidL1Xvo78rMI) | 4:51 | 2025-09-16 |  |
 | [Uminaoshi](https://open.spotify.com/track/3QmfIWqIpaceO6S367nFp0) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Uminaoshi](https://open.spotify.com/album/1xIvU9CvBMqTSv8zoLapWi) | 4:07 | 2026-01-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u0627\u0644\u063a\u0644\u0627\u0641: \u0643\u0632\u0628\u0631\u0629 \u0648\u0639\u0635\u0627\u0645 \u0635\u0627\u0635\u0627",
-  "num_followers": 145768,
+  "num_followers": 145891,
   "original_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFu1BFwzRDvfqBRlYiVvTxecr1SH",
+  "snapshot_id": "AAAAAIhZ73tIu6nGDpwIq4mpnxZVz9JT",
   "tracks": [
     {
       "added_at": "2026-08-10 11:58:31",
@@ -29,24 +29,20 @@
       "url": "https://open.spotify.com/track/18VsJIREq7ksTUfqCwKb8V"
     },
     {
-      "added_at": "2026-08-10 11:58:31",
+      "added_at": "2026-08-24 15:14:10",
       "album": {
-        "name": "Hakmel El Meshwar",
-        "url": "https://open.spotify.com/album/106BIGL8XlrGFyoM0c7W5r"
+        "name": "Ya Hawa",
+        "url": "https://open.spotify.com/album/3q4HEHv14teWqfmtsADIzz"
       },
       "artists": [
         {
           "name": "Reda El Bahrawy",
           "url": "https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM"
-        },
-        {
-          "name": "Khalid Sultan",
-          "url": "https://open.spotify.com/artist/262Yrzic2EJaSW2TSdycRH"
         }
       ],
-      "duration_ms": 203181,
-      "name": "Hakmel El Meshwar",
-      "url": "https://open.spotify.com/track/0o2IOLDECPs7wSZjcGiHnr"
+      "duration_ms": 193338,
+      "name": "Ya Hawa",
+      "url": "https://open.spotify.com/track/6sBJDOvGGVOnbFlgPINuXU"
     },
     {
       "added_at": "2026-08-10 11:58:31",
@@ -63,6 +59,22 @@
       "duration_ms": 170700,
       "name": "HABIBI ANA MEN GHERAK",
       "url": "https://open.spotify.com/track/3sNRFOSdmoE1V7oy7YLtwu"
+    },
+    {
+      "added_at": "2026-08-24 15:14:10",
+      "album": {
+        "name": "El Kadabeen",
+        "url": "https://open.spotify.com/album/4OigHhRweszfmuIZaDUR2C"
+      },
+      "artists": [
+        {
+          "name": "Rahal",
+          "url": "https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "El Kadabeen",
+      "url": "https://open.spotify.com/track/4Gy1HXrhp85rOPamZarmb7"
     },
     {
       "added_at": "2026-08-10 11:58:31",
@@ -223,22 +235,6 @@
       "duration_ms": 253714,
       "name": "\u0627\u0644\u0628\u0627\u0628\u0627",
       "url": "https://open.spotify.com/track/12zBlMjcj31RM148PDefNl"
-    },
-    {
-      "added_at": "2026-08-10 11:58:31",
-      "album": {
-        "name": "\u0643\u0641 \u0648\u0631\u0627 \u0643\u0641",
-        "url": "https://open.spotify.com/album/5jG7w9jO7g5EFZ4854DLZ2"
-      },
-      "artists": [
-        {
-          "name": "Hoda",
-          "url": "https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3"
-        }
-      ],
-      "duration_ms": 241270,
-      "name": "\u0643\u0641 \u0648\u0631\u0627 \u0643\u0641",
-      "url": "https://open.spotify.com/track/2wDzXgeDbWOxWUdVXMR0j2"
     },
     {
       "added_at": "2026-08-10 11:58:31",

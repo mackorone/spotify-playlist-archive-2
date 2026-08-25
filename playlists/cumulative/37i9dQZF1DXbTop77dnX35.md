@@ -4,7 +4,7 @@
 
 > New Music from Victony, FOLA, Jorja Smith,  Niniola, ODUMODUBLVCK, Kidd Carder, Destin Conrad and more
 
-6,646 songs - 13 day 23 hr 10 min
+6,647 songs - 13 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1607,7 +1607,7 @@
 | [DYANA](https://open.spotify.com/track/31d1jnHHtwc43kLjZDNuRs) | [ERMA](https://open.spotify.com/artist/2PwK5I2RMc0AL6NIRCIUWG) | [DYANA](https://open.spotify.com/album/4uSyCrq4DNXkkgSJNPLDbr) | 3:10 | 2025-03-28 | 2025-04-04 |
 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 | 2025-07-25 | 2025-08-02 |
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-25 | 2025-08-02 |
-| [Dàjú](https://open.spotify.com/track/0kAoP1m3SIdFSl4inkqkB0) | [Faith Martins](https://open.spotify.com/artist/3zr0bLaSs6iMp2MXaKRlKc) | [Dàjú](https://open.spotify.com/album/7rLwYzAo6VFOcIMAjzC7rW) | 2:12 | 2026-08-21 |  |
+| [Dájú](https://open.spotify.com/track/0kAoP1m3SIdFSl4inkqkB0) | [Faith Martins](https://open.spotify.com/artist/3zr0bLaSs6iMp2MXaKRlKc) | [Dájú](https://open.spotify.com/album/7rLwYzAo6VFOcIMAjzC7rW) | 2:12 | 2026-08-21 |  |
 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 | 2025-10-10 | 2025-10-17 |
 | [DÔNI DÔNI](https://open.spotify.com/track/7fBruPDPsWJaIhnX5jBci4) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [DONI DONI](https://open.spotify.com/album/15Q3TClLlr3rurOsOAOksr) | 3:11 | 2026-01-16 | 2026-01-23 |
 | [E Clear](https://open.spotify.com/track/4MWxbhJb5PcswaRVp9TGXj) | [Mage the Producer](https://open.spotify.com/artist/2sAErjecghuJsdRataXRQN), [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH) | [E Clear](https://open.spotify.com/album/6lBMlgFLJSdBW08Ft4vUlC) | 2:32 | 2025-12-05 | 2025-12-12 |
@@ -5210,6 +5210,7 @@
 | [Selimathunzi \(feat\. DJ Khyber\)](https://open.spotify.com/track/1SLwzFzJulIikotNRP37J7) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Shino Kikai](https://open.spotify.com/artist/6JSU7gW4qNCnKJ2Twfy5jk), [DJ Khyber](https://open.spotify.com/artist/2JktzDzyCcnMdUHeawWMFO) | [Selimathunzi \(feat\. DJ Khyber\)](https://open.spotify.com/album/3KBKx9Fl1FuEmHDPXMHE44) | 7:56 | 2025-02-21 | 2025-02-28 |
 | [Sema Nami](https://open.spotify.com/track/4LH6QfIW1VnCSqVHYiXhO4) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [S'tori](https://open.spotify.com/album/4FxOsz3mcWnGN54Bjftq3e) | 2:29 | 2024-11-08 | 2024-11-15 |
 | [Send Me](https://open.spotify.com/track/0vPgSGYunBbg7sgCrPXb1n) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Sidi](https://open.spotify.com/artist/1z1ghaqp3itYXYwBpCcXr1) | [Send Me](https://open.spotify.com/album/3qauMtgyeqRsJHXKjj0i6Y) | 4:26 | 2026-06-12 | 2026-06-19 |
+| [Send Shots](https://open.spotify.com/track/2l8RyIEP6A1aPkM2EVecNY) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Send Shots](https://open.spotify.com/album/68StQRtOUcywtJN19YKfcZ) | 2:39 | 2026-08-21 |  |
 | [Senegal Rekk \- Remix](https://open.spotify.com/track/0faag8QgnBR1KP1KLmabeL) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Senegal Rekk](https://open.spotify.com/album/0IOWgDKrKrWDtEJu22YhAi) | 2:48 | 2026-05-08 | 2026-05-15 |
 | [Senorita](https://open.spotify.com/track/04C3f1zE0YHypfmg8hF2cY) | [NAEOMI](https://open.spotify.com/artist/6cAU0bJ4IPWG2sT9XzyPkf), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Grown](https://open.spotify.com/album/0NqVsIlCwJbxJHuHuANjSb) | 2:15 | 2024-08-30 | 2024-09-06 |
 | [Sensational](https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Sensational](https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F) | 2:50 | 2025-10-10 | 2025-10-17 |

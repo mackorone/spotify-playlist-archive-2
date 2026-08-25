@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,755 likes - 76 songs - 4 hr 41 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,755 likes - 78 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 74 | [Burnout](https://open.spotify.com/track/3kQXaFWq16QpxZDkKI7R2k) | [Silky Vibe](https://open.spotify.com/artist/4tOHwi0n1qCj5tKL4S52V0) | [Made For Cruising](https://open.spotify.com/album/6RFCGXVP342Uy9H38kEc8L) | 2:08 |
 | 75 | [Laissez Moi Rêver](https://open.spotify.com/track/4OOOeB1cNlHIF5G9p3RX7H) | [Remy Guisset](https://open.spotify.com/artist/2sY5voT3Ysa15gScs6KpiP) | [Laissez Moi Rêver](https://open.spotify.com/album/4ao7cg9YY22fKq0ZGHYaIn) | 3:29 |
 | 76 | [Tennessee Rooftops](https://open.spotify.com/track/2mqu7BjUCtjd2BKU1cRw2Z) | [Colhart](https://open.spotify.com/artist/2Dfe9N3URM7oYuK2jxAHMr), [Ryan Hermann](https://open.spotify.com/artist/6LUSCIdPxrFpm9bl6KDRW0) | [Tennessee Rooftops](https://open.spotify.com/album/0yWMv6kovfXOcu11pFJ88y) | 3:33 |
+| 77 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 |
+| 78 | [Jesus' Tears \- Crimson Stain Edit](https://open.spotify.com/track/2n4UJK4KOsieCMQPz5XQVc) | [Coma Beach](https://open.spotify.com/artist/0xktqq74a4oPs3L6ITAGaI) | [The Scapegoat's Agony \(Edits, Odds & Ends\)](https://open.spotify.com/album/5JBIVDq10HxLnqN4f6mA06) | 3:03 |
 
-Snapshot ID: `AAAO+bznJ1HxXOT3xegPdpDI0ezV9lED`
+Snapshot ID: `AAAO+7d0kilVnLbkhRwBfzbTd4Zw8tU0`

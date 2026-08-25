@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Clayton Nile Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,815 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,822 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 99 | [Weathered and Worn](https://open.spotify.com/track/5eDuOgtupzpY0Wqfvq3aK0) | [Cup O’Joe](https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf) | [Weathered and Worn](https://open.spotify.com/album/1CPNweGhZECEtsPo9lFD5z) | 3:41 |
 | 100 | [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 |
 
-Snapshot ID: `AAAAAE88BCq+3+y8z8sbWEyQrOJmAIN2`
+Snapshot ID: `AAAAAPbOks0XA4B2NBGcxFtHM4qEV3ey`

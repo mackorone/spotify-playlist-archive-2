@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,066 likes - 88 songs - 5 hr 19 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,078 likes - 91 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,8 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 86 | [Odyssey](https://open.spotify.com/track/1gcMBn4OwoXv2idejjCCNp) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Odyssey](https://open.spotify.com/album/59hsbFL5sW2u3NaqlsElv3) | 3:56 |
 | 87 | [Como deve ser](https://open.spotify.com/track/6Kto9r484xrMQZ74XRJfBc) | [Roger Silva](https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP) | [Como deve ser](https://open.spotify.com/album/7tAH2UnXN5GWdR3mOiVm3b) | 3:09 |
 | 88 | [Future \#1 \- 2026 Remix](https://open.spotify.com/track/7JzBGVfqflJK20PwDcxxmM) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Strains \(420 Deluxe EP\)](https://open.spotify.com/album/6DlliTyyxLxtiYZQy8aNys) | 3:21 |
+| 89 | [Circuiti e carne](https://open.spotify.com/track/2koWXf42GzdGzto78RLYjP) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Circuiti e carne](https://open.spotify.com/album/7gdakhmHT7wLc9e2eYakPi) | 2:58 |
+| 90 | [Scars](https://open.spotify.com/track/6Y593laIPH7qd4Lwz3n7ct) | [Nat Longordo](https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg), [Nick Barone](https://open.spotify.com/artist/1jDa5eIwAZAqVMjV23pLrA) | [Scars](https://open.spotify.com/album/1qsee7DPTIy5vWAL9e5MZi) | 3:50 |
+| 91 | [You Raise Me Up](https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md) | [PeterLs](https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5) | [You Raise Me Up](https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva) | 3:12 |
 
-Snapshot ID: `AAACzBrxSxUUcY/ftEDv3otADxvvXeaM`
+Snapshot ID: `AAACz1aLoOafaQ0vIeUlnfwBTPu5aFQ1`

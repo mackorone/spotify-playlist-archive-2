@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-856 songs - 3 day 2 hr 39 min
+857 songs - 3 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 | 2025-10-17 | 2026-01-22 |
 | [Cho Cho Cho](https://open.spotify.com/track/27047xlXrFZFRwXz8Z572d) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Cho Cho Cho](https://open.spotify.com/album/575OoNcUW4gB2tMoJYJj08) | 2:53 | 2025-08-29 | 2026-06-14 |
 | [Chosen](https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Chosen](https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3) | 2:10 | 2025-10-31 | 2026-03-09 |
-| [Chukwu Oma](https://open.spotify.com/track/7vU6lU4ZNubUeE3yWgTYD6) | [Paul Akadi](https://open.spotify.com/artist/2cbc9yq0kt2sTJJQLlMD6s), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Chukwu Oma](https://open.spotify.com/album/4D5EnT3PfPYkjbKpLqsNXW) | 4:53 | 2026-07-17 |  |
+| [Chukwu Oma](https://open.spotify.com/track/7vU6lU4ZNubUeE3yWgTYD6) | [Paul Akadi](https://open.spotify.com/artist/2cbc9yq0kt2sTJJQLlMD6s), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Chukwu Oma](https://open.spotify.com/album/4D5EnT3PfPYkjbKpLqsNXW) | 4:53 | 2026-07-17 | 2026-08-25 |
 | [church](https://open.spotify.com/track/37g9awMmmDKm9g1Ri7nNEQ) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [church](https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV) | 2:52 | 2025-09-12 | 2025-10-03 |
 | [Classic Jesus](https://open.spotify.com/track/523Bo9a3mFwUTxMAhuGeit) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Classic Jesus](https://open.spotify.com/album/25DWj5hOuaAXjPWO5VTXC8) | 2:43 | 2025-06-27 | 2025-08-03 |
 | [Closer](https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Closer](https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3) | 2:13 | 2026-03-20 | 2026-05-12 |
@@ -767,6 +767,7 @@
 | [Unusual \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D) | 6:23 | 2024-03-15 | 2024-06-14 |
 | [uptown](https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [uptown](https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe) | 2:03 | 2026-02-13 | 2026-05-22 |
 | [Uyabusa \(Live at the Durban Icc\)](https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(The Second Set Live at the Durban Icc\)](https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ) | 9:13 | 2024-08-23 | 2024-09-27 |
+| [Uyinqaba Yami \- Live](https://open.spotify.com/track/3FbLOTs1PBGUl1MXiwqIN5) | [Papa Ndu](https://open.spotify.com/artist/33a74L52xZRLYRGAEtgVwp), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [Uyinqaba Yami \(Live\)](https://open.spotify.com/album/1s0ZK7ptXSnr3SakBh2quF) | 6:01 | 2026-07-24 |  |
 | [Victory](https://open.spotify.com/track/4xcMv1iV07YxiEjRPUCHYz) | [Rudo Chakwera](https://open.spotify.com/artist/7sFPtEKL22dH7skEk2Zjt2), [Minister Michael Mahendere](https://open.spotify.com/artist/6v0zo3IWc6Tdfs1AievsNZ) | [Victory](https://open.spotify.com/album/5gxghaLdPLVS5jqgLnA4SH) | 4:11 | 2024-07-26 | 2025-05-30 |
 | [Victory](https://open.spotify.com/track/0vVhuLpWJslUjhKN9YXIIh) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Victory](https://open.spotify.com/album/7ev8lmfEPAaYXNJA01WKZ3) | 3:10 | 2025-07-11 | 2025-08-17 |
 | [Victory Sound](https://open.spotify.com/track/4tzA51379bjf05eXSQbJJD) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Jesufemi](https://open.spotify.com/artist/3Hk1MSEN7hTVpjPdKp8GRA) | [Victory Sound](https://open.spotify.com/album/79zmVYrvzQCbazatZcaHvU) | 3:11 | 2025-05-16 | 2025-06-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > now all I know is the ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,527 likes - 129 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,576 likes - 129 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 128 | [Walls](https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Walls](https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY) | 3:12 |
 | 129 | [Stranger In You](https://open.spotify.com/track/0u1xjU4iiZYgChkqGfIp1y) | [Ebril](https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp) | [In Copula](https://open.spotify.com/album/546vXsHq8uwb1lkrjg3IPR) | 2:13 |
 
-Snapshot ID: `AAAAAExtz4ku9quJhdizN+5UYWIYmVQN`
+Snapshot ID: `AAAAAIJepOanZCdhFTx1VwWx2XLfq2DA`

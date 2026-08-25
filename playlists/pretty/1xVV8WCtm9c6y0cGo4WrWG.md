@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop updated weekly! Cover: Casper TNG
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,837 likes - 66 songs - 3 hr 18 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,836 likes - 66 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

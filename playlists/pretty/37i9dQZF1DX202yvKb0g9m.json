@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 152218,
+  "num_followers": 152249,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA8f9ietE0j9nXRfcnGmNvWMDJf9",
+  "snapshot_id": "AAAAAB6ZD2p7hymyeypnr7lTx9hUpzY9",
   "tracks": [
     {
       "added_at": "2024-07-10 08:16:23",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Alientronic",
-        "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
-      },
-      "artists": [
-        {
-          "name": "Ellen Allien",
-          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
-        }
-      ],
-      "duration_ms": 382531,
-      "name": "Bowie in Harmony",
-      "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Do I Do",
         "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 434999,
       "name": "Do I Do - Extended Mix",
       "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Alientronic",
+        "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        }
+      ],
+      "duration_ms": 382531,
+      "name": "Bowie in Harmony",
+      "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "No Way Back",
         "url": "https://open.spotify.com/album/3KbCMnKbqT2E7iesr9BsXR"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 262978,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
     },
     {
       "added_at": "2024-07-10 08:16:23",

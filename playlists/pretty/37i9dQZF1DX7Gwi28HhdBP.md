@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! الغلاف: كزبرة وعصام صاصا
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,768 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,891 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [بيان هام \- من فيلم محمود التانى](https://open.spotify.com/track/18VsJIREq7ksTUfqCwKb8V) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [بيان هام \(من فيلم محمود التانى\)](https://open.spotify.com/album/50adiYmTKxsL7b5XQByShr) | 3:06 |
-| 2 | [Hakmel El Meshwar](https://open.spotify.com/track/0o2IOLDECPs7wSZjcGiHnr) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Khalid Sultan](https://open.spotify.com/artist/262Yrzic2EJaSW2TSdycRH) | [Hakmel El Meshwar](https://open.spotify.com/album/106BIGL8XlrGFyoM0c7W5r) | 3:23 |
+| 2 | [Ya Hawa](https://open.spotify.com/track/6sBJDOvGGVOnbFlgPINuXU) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ya Hawa](https://open.spotify.com/album/3q4HEHv14teWqfmtsADIzz) | 3:13 |
 | 3 | [HABIBI ANA MEN GHERAK](https://open.spotify.com/track/3sNRFOSdmoE1V7oy7YLtwu) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [HABIBI ANA MEN GHERAK](https://open.spotify.com/album/5hdHZ0Vj1qbHZxAjjBb8MQ) | 2:50 |
-| 4 | [Khodlk Ganb](https://open.spotify.com/track/7rAUpH3UQNF6YWO7GhnY0e) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Khodlk Ganb](https://open.spotify.com/album/1n1ywSM3VljDeZnh3hIPdf) | 2:53 |
-| 5 | [المقص \- من فيلم ريستارت و البوم لينا معاد](https://open.spotify.com/track/5LKRjVzOqlCd5SAa8ZBEhb) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [المقص \(من فيلم ريستارت و البوم لينا معاد\)](https://open.spotify.com/album/5XdfToKX9cO6dOtPxXqf9C) | 3:38 |
-| 6 | [النسخه الاصليه](https://open.spotify.com/track/69eYIHpPKoiTKkQgxlQkg3) | [Mai Mostafa](https://open.spotify.com/artist/30anNvRIZmx6agpOWolWRI) | [النسخه الاصليه](https://open.spotify.com/album/5QpCAnLNBoujicqDZqBCqU) | 2:48 |
-| 7 | [كان علي عيني](https://open.spotify.com/track/3i90c0l4VXRSx219BudvTj) | [Ahmed Nafea](https://open.spotify.com/artist/1tf8Q3S4asM4mbHrrjJ9dH), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [كان علي عيني](https://open.spotify.com/album/1JulGEGkRhsNN8o0AL8E6u) | 3:00 |
-| 8 | [رووووح \- ROO7](https://open.spotify.com/track/5I1sJY3b4QaIY11mOieq7j) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [رووووح \- ROO7](https://open.spotify.com/album/7BBQKGEw4krqnaMJ8RmfQ3) | 2:09 |
-| 9 | [شكلها موضة](https://open.spotify.com/track/5jLwrrtgfcF8yMxFRm8AYH) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW), [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [شكلها موضة](https://open.spotify.com/album/5VkQxPXjHaJFKfV1gsodGq) | 3:07 |
-| 10 | [دنيا لعبه](https://open.spotify.com/track/0ip0MtGTjxxOxja13qyI0m) | [رحاب سليم](https://open.spotify.com/artist/1tkRquDjElKJKzRY15zOWS) | [دنيا لعبه](https://open.spotify.com/album/3DEqdwNhwTYKzGhfn830Lt) | 3:08 |
-| 11 | [هعافر](https://open.spotify.com/track/1UUBs82RVxRGhAOe9WqAcC) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [هعافر](https://open.spotify.com/album/2A4hQ0OBW1n1av8IHatQ0m) | 4:02 |
-| 12 | [البابا](https://open.spotify.com/track/12zBlMjcj31RM148PDefNl) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [البابا](https://open.spotify.com/album/4li8HqWJs1LRbpcGbtFgHo) | 4:13 |
-| 13 | [كف ورا كف](https://open.spotify.com/track/2wDzXgeDbWOxWUdVXMR0j2) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [كف ورا كف](https://open.spotify.com/album/5jG7w9jO7g5EFZ4854DLZ2) | 4:01 |
+| 4 | [El Kadabeen](https://open.spotify.com/track/4Gy1HXrhp85rOPamZarmb7) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [El Kadabeen](https://open.spotify.com/album/4OigHhRweszfmuIZaDUR2C) | 3:13 |
+| 5 | [Khodlk Ganb](https://open.spotify.com/track/7rAUpH3UQNF6YWO7GhnY0e) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Khodlk Ganb](https://open.spotify.com/album/1n1ywSM3VljDeZnh3hIPdf) | 2:53 |
+| 6 | [المقص \- من فيلم ريستارت و البوم لينا معاد](https://open.spotify.com/track/5LKRjVzOqlCd5SAa8ZBEhb) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [المقص \(من فيلم ريستارت و البوم لينا معاد\)](https://open.spotify.com/album/5XdfToKX9cO6dOtPxXqf9C) | 3:38 |
+| 7 | [النسخه الاصليه](https://open.spotify.com/track/69eYIHpPKoiTKkQgxlQkg3) | [Mai Mostafa](https://open.spotify.com/artist/30anNvRIZmx6agpOWolWRI) | [النسخه الاصليه](https://open.spotify.com/album/5QpCAnLNBoujicqDZqBCqU) | 2:48 |
+| 8 | [كان علي عيني](https://open.spotify.com/track/3i90c0l4VXRSx219BudvTj) | [Ahmed Nafea](https://open.spotify.com/artist/1tf8Q3S4asM4mbHrrjJ9dH), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [كان علي عيني](https://open.spotify.com/album/1JulGEGkRhsNN8o0AL8E6u) | 3:00 |
+| 9 | [رووووح \- ROO7](https://open.spotify.com/track/5I1sJY3b4QaIY11mOieq7j) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [رووووح \- ROO7](https://open.spotify.com/album/7BBQKGEw4krqnaMJ8RmfQ3) | 2:09 |
+| 10 | [شكلها موضة](https://open.spotify.com/track/5jLwrrtgfcF8yMxFRm8AYH) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW), [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [شكلها موضة](https://open.spotify.com/album/5VkQxPXjHaJFKfV1gsodGq) | 3:07 |
+| 11 | [دنيا لعبه](https://open.spotify.com/track/0ip0MtGTjxxOxja13qyI0m) | [رحاب سليم](https://open.spotify.com/artist/1tkRquDjElKJKzRY15zOWS) | [دنيا لعبه](https://open.spotify.com/album/3DEqdwNhwTYKzGhfn830Lt) | 3:08 |
+| 12 | [هعافر](https://open.spotify.com/track/1UUBs82RVxRGhAOe9WqAcC) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [هعافر](https://open.spotify.com/album/2A4hQ0OBW1n1av8IHatQ0m) | 4:02 |
+| 13 | [البابا](https://open.spotify.com/track/12zBlMjcj31RM148PDefNl) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [البابا](https://open.spotify.com/album/4li8HqWJs1LRbpcGbtFgHo) | 4:13 |
 | 14 | [بتاع مصلحتك](https://open.spotify.com/track/53mFZHhulp7autUE0kzzGK) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [بتاع مصلحتك](https://open.spotify.com/album/68PL2K2mjuPpK0fX7h8OaD) | 4:28 |
 | 15 | [شر العين](https://open.spotify.com/track/27DPEXDWMQ9qwOBf2B1xbL) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [شر العين](https://open.spotify.com/album/3EwzXwlqARxzbPaUJut9vA) | 3:48 |
 | 16 | [بره حياتي بره](https://open.spotify.com/track/3wUBnP59BWBgnLtp6zuJJv) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [بره حياتي بره](https://open.spotify.com/album/4SCfa6Ge3SIAQP8loYTEvk) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [Ketab Hayaty](https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx) | [Hassan El Asmar](https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax) | [Mesh Hasebak](https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV) | 5:48 |
 | 50 | [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 |
 
-Snapshot ID: `AAAAAFu1BFwzRDvfqBRlYiVvTxecr1SH`
+Snapshot ID: `AAAAAIhZ73tIu6nGDpwIq4mpnxZVz9JT`

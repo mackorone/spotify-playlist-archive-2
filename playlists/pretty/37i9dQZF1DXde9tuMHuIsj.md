@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: FANTA ROSARIO, Jon Z, Hades66, Ñengo Flow, Luar La L
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,981 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,969 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Guele](https://open.spotify.com/track/4fbtdVb5F7BgN1n4avUMqx) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Guele](https://open.spotify.com/album/3hkWFsGhzkj7qOtVRxcdL6) | 2:41 |
 | 100 | [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:39 |
 
-Snapshot ID: `AAAAAJPmH8jISGwMzDPWZRWLDk+3Xj2O`
+Snapshot ID: `AAAAAAvbxMWlqDwo5T/BPrVY4r3S6HXp`

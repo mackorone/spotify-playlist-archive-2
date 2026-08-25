@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166954,
+  "num_followers": 166958,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAApoYn+j5EFXjcOXqOnxAt0aiu3q",
+  "snapshot_id": "AAAAAMvcQCVRDWWjnky+/f31dtWn9DZD",
   "tracks": [
     {
       "added_at": "2026-07-30 23:00:26",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
+        "name": "Inside The Rider",
+        "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Inside The Rider",
+      "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/71sH8ZDzymxmy8N0xHbfRL"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 193793,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/3pZiQdpk32YuxLSU3RTzD2"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
-        "name": "Inside The Rider",
-        "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Inside The Rider",
-      "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -415,30 +415,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Ya Mind",
-        "url": "https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Lock 'N Load",
-          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
-        },
-        {
-          "name": "Harry Bee",
-          "url": "https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ya Mind",
-      "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/2z78ad2f2wX8aFJmI1emFo"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 215172,
       "name": "Reload",
       "url": "https://open.spotify.com/track/1oM52NNGYAT961AgxEgv6E"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Ya Mind",
+        "url": "https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Lock 'N Load",
+          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
+        },
+        {
+          "name": "Harry Bee",
+          "url": "https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ya Mind",
+      "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "King of the Dancefloor",
         "url": "https://open.spotify.com/album/0n1SKP7iUYc8oNjRPVlqQm"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 227657,
       "name": "King of the Dancefloor",
       "url": "https://open.spotify.com/track/7EQXA9lc7yRI3ZUQbPBYgT"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
+        "name": "Badman Talk",
+        "url": "https://open.spotify.com/album/6JXpd9RqKGRUKbYYmgL1ND"
+      },
+      "artists": [
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        },
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Badman Talk",
+      "url": "https://open.spotify.com/track/26Culai82bJKYjljJcncdp"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
         "name": "OH YEAH",
         "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 227657,
       "name": "OH YEAH",
       "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
-        "name": "Badman Talk",
-        "url": "https://open.spotify.com/album/6JXpd9RqKGRUKbYYmgL1ND"
-      },
-      "artists": [
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        },
-        {
-          "name": "Born On Road",
-          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Badman Talk",
-      "url": "https://open.spotify.com/track/26Culai82bJKYjljJcncdp"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
+        "name": "Onslaught",
+        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 181718,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
         "name": "Take Out Your Team",
         "url": "https://open.spotify.com/album/0bN4b10nR6LqR49LBx6GJP"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 179524,
       "name": "Take Out Your Team",
       "url": "https://open.spotify.com/track/77IBgCz11N1VGdh4gkZr1H"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
-        "name": "Onslaught",
-        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 181718,
-      "name": "Onslaught",
-      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Got 2 Feel",
-        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "Got 2 Feel",
-      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Shrine",
         "url": "https://open.spotify.com/album/2BMToCcKq1d8NfujdRTKD5"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 171034,
       "name": "Shrine",
       "url": "https://open.spotify.com/track/4KrJzVt3twq5VFkMFhEr0e"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Got 2 Feel",
+        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "Got 2 Feel",
+      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
-      },
-      "artists": [
-        {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Voicenote Violence",
         "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
       },
@@ -2027,18 +2011,38 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Count That",
-        "url": "https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt"
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
       },
       "artists": [
         {
-          "name": "SHOSH",
-          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
         }
       ],
-      "duration_ms": 216214,
-      "name": "Count That",
-      "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     }
   ],
   "unique_name": "Proper Naughty ",

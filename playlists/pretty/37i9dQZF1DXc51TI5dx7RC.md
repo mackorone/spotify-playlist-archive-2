@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 > ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Z9
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,710 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,744 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [ใจบาง](https://open.spotify.com/track/1znP3iOktHkMy0P8ZFPFe9) | [LUMMUN](https://open.spotify.com/artist/6Qk2g62cWGo8Ji8hSBoriS) | [ใจบาง](https://open.spotify.com/album/2nIEGU77LAyQSuP2oVVtSj) | 3:41 |
 | 50 | [รู้ตัวอีกที](https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t) | [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [รู้ตัวอีกที](https://open.spotify.com/album/4r1iXiLyOrHnfn0v3NADld) | 3:10 |
 
-Snapshot ID: `AAAAAFgQmB0NED7Muh9XrYNLKa12P8Ia`
+Snapshot ID: `AAAAAHfuYT+imhqzbN1Ku4j4i30jhv4w`

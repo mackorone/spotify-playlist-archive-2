@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Lançamentos 100% rock brasileiro\. Foto: Selvagens à Procura da Lei
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,664 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,579 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 49 | [O Sal da Terra](https://open.spotify.com/track/47OlYFYl49Sr1rSFagwpyY) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [O Sal da Terra](https://open.spotify.com/album/7D9zor8ZneQBDcGVrquD0h) | 3:11 |
 | 50 | [o que você quiser](https://open.spotify.com/track/35NplPnYaCevijnRs2bmik) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr) | [o que você quiser](https://open.spotify.com/album/6np4eVJ5I9pzNHYN6ywEkX) | 3:15 |
 
-Snapshot ID: `AAAAAJnolrVS6Peqkw8V6EsoRilD5kZn`
+Snapshot ID: `AAAAAK+calhmudCC1tbMyDcuhufoqBD2`

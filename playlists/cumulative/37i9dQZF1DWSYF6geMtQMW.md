@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר:שאקירה ובורנה בוי
 
-259 songs - 13 hr 55 min
+260 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [בחורות טובות](https://open.spotify.com/track/14uCYjc3tEJmK61fWQl3KK) | [Sarit Hadad](https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בחורות טובות](https://open.spotify.com/album/0UIZz7eUyhrw12rA0dvIt0) | 2:48 | 2025-08-19 | 2026-04-08 |
 | [בחיבק](https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd) | [תמר ריילי](https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i) | [בחיבק](https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s) | 2:27 | 2025-02-10 | 2025-11-25 |
 | [בית ביפו](https://open.spotify.com/track/6xjgjdunz6KkVOGgW81FEd) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [אי](https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw) | 3:16 | 2026-04-27 |  |
-| [בית מזכוכית](https://open.spotify.com/track/1cAVtw64dnLHV6WYQiRFqg) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [בית מזכוכית](https://open.spotify.com/album/0crsmrq13oLGMIdUX6meI0) | 3:20 | 2026-03-23 |  |
+| [בית מזכוכית](https://open.spotify.com/track/1cAVtw64dnLHV6WYQiRFqg) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [בית מזכוכית](https://open.spotify.com/album/0crsmrq13oLGMIdUX6meI0) | 3:20 | 2026-03-23 | 2026-08-25 |
 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 | 2024-09-09 | 2025-04-15 |
 | [בנות כמוני לא בוכות](https://open.spotify.com/track/2gwiDHH38cpSXuMU6Iu53d) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [בנות כמוני לא בוכות](https://open.spotify.com/album/7xlUbVX3KggFMOiLFyCrSM) | 2:36 | 2024-07-01 | 2024-07-23 |
 | [בסיבוב הבא](https://open.spotify.com/track/7n6elf6gl4POlFO2LlyIMy) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [בסיבוב הבא](https://open.spotify.com/album/7fzSjnumrj8Q9kGwR7XFHr) | 3:23 | 2025-06-03 | 2026-05-26 |
@@ -140,6 +140,7 @@
 | [גל עיניי](https://open.spotify.com/track/635ke14KZqjGWRnRpd42w0) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [גל עיניי](https://open.spotify.com/album/5fzolWm4o4kgITLSKpTpAm) | 3:11 | 2025-08-19 | 2025-09-23 |
 | [גן עדן](https://open.spotify.com/track/1qavga0IqdclZ5l21FC821) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [גן עדן](https://open.spotify.com/album/2M7a0WjH1ZmKdFw0TJYxjM) | 2:43 | 2025-07-14 | 2026-02-17 |
 | [גשם](https://open.spotify.com/track/0ckd54NpB6QU3NIBdbkddf) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר כהן](https://open.spotify.com/album/1a8ERuwhbeXpbFF7TKReFX) | 3:04 | 2025-04-14 | 2026-02-10 |
+| [דאון](https://open.spotify.com/track/7sYnUihJysp9eSHUTFq9EP) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אוגוסט דאמפ 2026](https://open.spotify.com/album/2QX7YR9lBSYEtZQoWb6fri) | 3:10 | 2026-08-24 |  |
 | [דאמ](https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [דאמ](https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo) | 2:49 | 2024-08-19 | 2025-06-04 |
 | [החדר מסתובב](https://open.spotify.com/track/5MjRIL2ySrPGoATyTk2ZT9) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [החדר מסתובב](https://open.spotify.com/album/5zt4KurZ2h13Q9XNsoWFpR) | 3:18 | 2025-03-24 | 2025-07-15 |
 | [החדר מסתובב](https://open.spotify.com/track/6kbhnbcZeYz8RvsFlLkhNH) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [אהבה מנצחת הכל](https://open.spotify.com/album/2uAgJT5Ew4CrFcikwitcFT) | 3:18 | 2025-05-05 | 2025-07-22 |

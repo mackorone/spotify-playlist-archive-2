@@ -4499,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/2x8USDi2kVvEplRIAQg6Kq"
+      },
+      "artists": [
+        {
+          "name": "MAYETRIX",
+          "url": "https://open.spotify.com/artist/1mlPKIqrogM91n8i4HuujI"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/5m6jOkcslQMLqylLqQXK4U"
+    },
+    {
+      "album": {
         "name": "close your eyes",
         "url": "https://open.spotify.com/album/1YuOYJ7WHrrX889nLy70Xb"
       },

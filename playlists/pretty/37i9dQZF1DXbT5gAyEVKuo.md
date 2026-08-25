@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Naomi Raine & Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,457 likes - 75 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,506 likes - 75 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 11 | [Praise The Lord \- Live](https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [New Wine \(Live\)](https://open.spotify.com/album/79MOPYNVUE6yG90CnyyhHT) | 14:48 |
 | 12 | [Your Love \(Acoustic\)](https://open.spotify.com/track/7FkJNeeZgyvt7ubqxReYfO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love \(Acoustic\)](https://open.spotify.com/album/660Sxw29q5Cohy30qjBBlz) | 4:38 |
 | 13 | [Abba is for me](https://open.spotify.com/track/7mTilXN91jQQWMvIkOH1nC) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Abba is for me](https://open.spotify.com/album/4ySfRBCswvnXCrHTbkb2rr) | 8:55 |
-| 14 | [Release Control \(Radio\)](https://open.spotify.com/track/3oofzigkObAVBc56KcTGkW) | [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx) | [Release Control \(Radio\)](https://open.spotify.com/album/1B1QidNr812ZThlu69dmr2) | 3:59 |
+| 14 | [Release Control \- Radio](https://open.spotify.com/track/3oofzigkObAVBc56KcTGkW) | [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx) | [Release Control \(Radio\)](https://open.spotify.com/album/1B1QidNr812ZThlu69dmr2) | 3:59 |
 | 15 | [We Say Yes](https://open.spotify.com/track/0tVfx7HiRMh8RipJJmXfmC) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [We Say Yes](https://open.spotify.com/album/7vytuRDjpMSnDOIWPTZcqC) | 5:38 |
 | 16 | [My Daddy Loves Me](https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf) | [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [My Daddy Loves Me](https://open.spotify.com/album/3TIJApif55y5aPz885WiaL) | 5:36 |
 | 17 | [Halleluyah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Halleluyah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 74 | [Hallelujah](https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Hallelujah](https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n) | 8:21 |
 | 75 | [The Name of Jesus](https://open.spotify.com/track/1A0iZtldObmskSY1G1FZwW) | [Warehouse Worship](https://open.spotify.com/artist/1u5xwOxetEbwUOsx5YRwXB), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Name of Jesus](https://open.spotify.com/album/4HNFtdNDZrRPfAs9pW4K3L) | 6:53 |
 
-Snapshot ID: `AAAAAGg4VlLGAPP8WebIjT7axl94hOUY`
+Snapshot ID: `AAAAAPes92sesfsP8S9E3XIAwRusNCRE`

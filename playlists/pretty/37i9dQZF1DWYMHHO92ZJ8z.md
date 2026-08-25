@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 
 > Francis Mercier's favorite tracks\. Updated regularly\. Curated by Francis Mercier\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,197 likes - 63 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,224 likes - 63 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 | 62 | [Inshallah](https://open.spotify.com/track/71menZEYwM0rqWXM4BaAQM) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [MP3](https://open.spotify.com/artist/3mGlF6auEAbK1Z9q0VtsjB), [Shammalee](https://open.spotify.com/artist/0YW1YZUJNiGAZLtJ5ytDG2) | [Inshallah](https://open.spotify.com/album/0hgUzwSbNNVL3KAJszEu1C) | 2:35 |
 | 63 | [MANDUKU](https://open.spotify.com/track/7jX5GPFVFQbW6NU5o0yJ1p) | [Danny Boy](https://open.spotify.com/artist/3giIr9iWEl1y5CI6KgJ9IC) | [MANDUKU](https://open.spotify.com/album/544cwayS3rzIIaJa2QvzOX) | 7:49 |
 
-Snapshot ID: `AAAAAGJIiautijBG4PqAvA2i5xeidFZd`
+Snapshot ID: `AAAAAMrVC+lBUXVdP9JkrznBq4l/RNoO`

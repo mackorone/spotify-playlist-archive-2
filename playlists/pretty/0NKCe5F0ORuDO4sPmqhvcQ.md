@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,363 likes - 49 songs - 2 hr 45 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,362 likes - 52 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 47 | [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 |
 | 48 | [Need U](https://open.spotify.com/track/3j0R42BjneWzl2LKg6Fa6H) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Need U](https://open.spotify.com/album/1D0jl9BsqqD962AhOaP1YG) | 3:26 |
 | 49 | [X2C](https://open.spotify.com/track/4w6tMkhXUsVyi7kgIo5uG1) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [X2C](https://open.spotify.com/album/26vCQZzq5JbOU9pJ1Ujw6e) | 2:11 |
+| 50 | [Ride \(feat\. Karen Harding\)](https://open.spotify.com/track/2LvrJFOTo9rLYkfGhDcOQV) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Ride \(feat\. Karen Harding\)](https://open.spotify.com/album/2v4r3Pr1BVGql4h89ZkDkS) | 3:20 |
+| 51 | [Keep Your Body Pumpin'](https://open.spotify.com/track/30QbRQyKtBmYGLhBPc1LFE) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [What I Came For](https://open.spotify.com/album/7GAWqY9vCQ37OCDo2TFzS7) | 3:25 |
+| 52 | [No Air](https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [No Air](https://open.spotify.com/album/2VFS1Gyx1f9abu19Nf7kRd) | 3:17 |
 
-Snapshot ID: `AAArSt4AHiSM7F//hni7468Fd6T+m750`
+Snapshot ID: `AAArTb5bnI4b7kKzXZRZjCGkBg9m5azO`

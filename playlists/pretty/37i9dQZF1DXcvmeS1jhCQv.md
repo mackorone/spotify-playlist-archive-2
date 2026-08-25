@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,122 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,130 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 99 | [Won't Be Long](https://open.spotify.com/track/2fzdBg7EFqJ9Am0HOHbsLl) | [Emily Doyle](https://open.spotify.com/artist/4ylNHpovRFZlBKqgWRBQV6) | [Fight Or Flight](https://open.spotify.com/album/2wP0LSPgAZ0cw3Xsd7sNpK) | 4:27 |
 | 100 | [Stushhh](https://open.spotify.com/track/4Y4fz9BQS9r9o78KCwlT4g) | [Camiii](https://open.spotify.com/artist/1o14oxpdadzfmBiko3knCE) | [Stushhh](https://open.spotify.com/album/4WGFyUo5bQpxgqbSLX1v2l) | 2:46 |
 
-Snapshot ID: `AAAAALJCOijvHMqoypCRlS2j7TqA5k+K`
+Snapshot ID: `AAAAACrBDrROdFYKF+sJrZ9uWNRGhZtP`

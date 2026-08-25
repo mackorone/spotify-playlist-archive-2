@@ -1,12 +1,12 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 17956,
+  "num_followers": 17984,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJW74KU3cZPxxCEAtkh5JgNvZev",
+  "snapshot_id": "AAAAAJ2rFL17w1g8vqDyopcWGMbg0cD2",
   "tracks": [
     {
       "added_at": "2026-07-24 11:14:20",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Il s'appelait Tayc",
-        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
+        "name": "R\u00c9SONANCE",
+        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
         }
       ],
-      "duration_ms": 220490,
-      "name": "Il s'appelait Tayc",
-      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
+      "duration_ms": 167704,
+      "name": "Woman King (T'as Capt\u00e9)",
+      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -963,6 +963,22 @@
       "duration_ms": 160615,
       "name": "TAPER CREER (feat. Gazo)",
       "url": "https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Il s'appelait Tayc",
+        "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 220490,
+      "name": "Il s'appelait Tayc",
+      "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "R\u00c9SONANCE",
-        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Woman King (T'as Capt\u00e9)",
-      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "BRUT4L",
         "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "D\u00e9sarmer",
-        "url": "https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 158263,
-      "name": "D\u00e9sarmer",
-      "url": "https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Le succ\u00e8s",
         "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 208484,
       "name": "Le succ\u00e8s",
       "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "D\u00e9sarmer",
+        "url": "https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 158263,
+      "name": "D\u00e9sarmer",
+      "url": "https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Chebaba",
-        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
-      },
-      "artists": [
-        {
-          "name": "DOUPI PAPILLON",
-          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Chebaba",
-      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "En Haut",
         "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 172394,
       "name": "En Haut",
       "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Chebaba",
+        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
+      },
+      "artists": [
+        {
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Chebaba",
+      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Nazaland",
-        "url": "https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Une histoire",
-      "url": "https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Emma'a",
         "url": "https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 124906,
       "name": "Katana (feat. Jungeli)",
       "url": "https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Nazaland",
+        "url": "https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Une histoire",
+      "url": "https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1333,38 +1333,6 @@
       "url": "https://open.spotify.com/track/0LnXA52XqGjaITaGmIXJJp"
     },
     {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "Agent Secret",
-        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 164737,
-      "name": "Agent secret",
-      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "Yebisa Bango / Bijou",
-        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 149932,
-      "name": "Yebisa Bango",
-      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
-    },
-    {
       "added_at": "2026-08-21 10:56:34",
       "album": {
         "name": "M\u00c9TAMORPHOSE",
@@ -1383,6 +1351,38 @@
       "duration_ms": 162653,
       "name": "MINIMUM (feat. d\u00f8pelym)",
       "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Yebisa Bango / Bijou",
+        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 149932,
+      "name": "Yebisa Bango",
+      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Agent Secret",
+        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 164737,
+      "name": "Agent secret",
+      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
     },
     {
       "added_at": "2026-07-24 11:14:20",

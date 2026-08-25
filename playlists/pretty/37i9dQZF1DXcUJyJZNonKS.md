@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived! Check back often to discover your next favorite anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,874 likes - 84 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,891 likes - 84 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 83 | [あいらびゅ♡](https://open.spotify.com/track/0sSch6NPpSkMFmw4XiFg8W) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [水萌汐（CV：久住琳）](https://open.spotify.com/artist/5XkizBdJfuqMVYCMEm4LLY), [火威灯（CV：芹澤優）](https://open.spotify.com/artist/5wvykoVQcY09gwfcWNwY3s), [月見るな（CV：平塚紗依）](https://open.spotify.com/artist/3Wm5HRjuFJLTiqOg6WxpOJ), [日向春（CV：山本悠有希）](https://open.spotify.com/artist/2rhaSluQPuyiM4cQSGGhv5) | [あいらびゅ♡](https://open.spotify.com/album/2j8U2kCee4QlcIaoNuE2lw) | 3:25 |
 | 84 | [あまのじゃく](https://open.spotify.com/track/6gaGfVzxJ9abc0hAAK4ieH) | [小玉ひかり](https://open.spotify.com/artist/6jRbqM1pnTraoN4Z122jza) | [あまのじゃく](https://open.spotify.com/album/1Jc7X9NHeIl7p7Ac5htW8p) | 4:11 |
 
-Snapshot ID: `AAAAAGK+6wEtca+7K7rP5DbTeLACih+S`
+Snapshot ID: `AAAAALORU6u5dLWdglV1Pt9VHufklgIo`

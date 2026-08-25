@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQnWEg9G9KW.md) - [plain]
 
 > Camp Rock 3 is available now! Head back to camp with new tracks from the movie and old favorites from Camp Rock 1 & 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,041 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,702 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQnWEg9G9KW.md) - [plain]
 | 59 | [This Is Me](https://open.spotify.com/track/7F22J5u8Qcud2sZWSpGwNv) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 3:46 |
 | 60 | [Introducing Me](https://open.spotify.com/track/5ZpVxxdGVnxTctwSo7uXlO) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:21 |
 
-Snapshot ID: `AAAAANsgkg3iKUhsXcFl02K5n6IVVfBn`
+Snapshot ID: `AAAAAH3vRLyT2PGIIUcbvshgcrgeLSwY`

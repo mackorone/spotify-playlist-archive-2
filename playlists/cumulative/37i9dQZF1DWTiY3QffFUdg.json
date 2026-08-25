@@ -960,7 +960,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 171034,
       "name": "Bounce Like That",
       "url": "https://open.spotify.com/track/4vxyrMlFHBmIFHEHwgcRqR"
@@ -3666,6 +3666,28 @@
       "duration_ms": 122571,
       "name": "Let It Happen (Techno)",
       "url": "https://open.spotify.com/track/6tnCxKCoZWzRKiDiInhKfq"
+    },
+    {
+      "album": {
+        "name": "Let Loose",
+        "url": "https://open.spotify.com/album/6BvywdNBwlvmgf4l1TZLXv"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "DJ Jock",
+          "url": "https://open.spotify.com/artist/59GJRTFK8O0XHSMjx2R2CL"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194307,
+      "name": "Let Loose",
+      "url": "https://open.spotify.com/track/2zJj9ajxjEgKfpE80XoO4N"
     },
     {
       "album": {

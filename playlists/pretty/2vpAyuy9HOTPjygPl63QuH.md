@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > 
 
-[CLUB SUPPLY](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,228 likes - 60 songs - 3 hr 16 min
+[CLUB SUPPLY](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,229 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

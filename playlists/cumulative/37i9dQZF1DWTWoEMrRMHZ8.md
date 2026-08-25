@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Mariana Volker
 
-1,255 songs - 3 day 1 hr 6 min
+1,256 songs - 3 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Fealhá](https://open.spotify.com/track/3sb1yYFxHuPNWDBH499Ut4) | [Pupillo](https://open.spotify.com/artist/2Uo4yafwibiI7doudOWOXK), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [Loren Oden](https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ) | [Pupillo](https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn) | 3:09 | 2026-03-06 | 2026-08-01 |
 | [Feira de Mangaio](https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX) | [Feira de Mangaio](https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA) | 2:13 | 2026-07-03 |  |
 | [Feira do Rolo](https://open.spotify.com/track/2GRy1TOXHzo0cx8vs1gaZF) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Feira do Rolo](https://open.spotify.com/album/4JDiq33ktPKbHFMe6txERy) | 3:31 | 2024-09-20 | 2024-11-09 |
+| [Feitiço](https://open.spotify.com/track/29wwUpwmxfcQEg8hWyQIvd) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Feitiço](https://open.spotify.com/album/3GRJF0oBM0ZPUgdoAyCjtJ) | 3:16 | 2026-08-24 |  |
 | [Feitiço](https://open.spotify.com/track/04Y5KWj5JKfr4IaMoPlQP3) | [Samuca e a Selva](https://open.spotify.com/artist/3xRsjZtEO4W7Y4Wgr4wSLD) | [Feitiço](https://open.spotify.com/album/2U1ngEfcXGXQdAmaPcpnMD) | 4:22 | 2022-08-11 | 2022-09-10 |
 | [Feito A Maré](https://open.spotify.com/track/45LVLF9D3NnQLgRxfAjae7) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Se o Meu Peito Fosse o Mundo](https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO) | 3:12 | 2024-03-15 | 2024-06-29 |
 | [Feito Fumaça](https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1) | [Obinrin Trio](https://open.spotify.com/artist/7vnpP7uPPqCGiS6PrIap7R), [Ju Strassacapa](https://open.spotify.com/artist/1k3OzqzWVyCPRmwcKPpXWH) | [Origem](https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8) | 4:41 | 2021-12-24 | 2023-01-06 |
@@ -1004,7 +1005,7 @@
 | [Saudade É Pouco](https://open.spotify.com/track/4KJkY8dFC4fleO2HbdMHRE) | [Anna Setton](https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L) | [Saudade É Pouco](https://open.spotify.com/album/2govUsjdogvcz0WObu9l41) | 3:15 | 2022-11-04 | 2022-11-26 |
 | [Saudades, Elder](https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Viver e Morrer de Amor na América Latina](https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA) | 3:43 | 2025-12-12 | 2026-07-04 |
 | [Saudação](https://open.spotify.com/track/2bLySWNdJGKjeZRmZqjYJJ) | [Renato Frazão](https://open.spotify.com/artist/6Z32VF1iZSJ9jV6RZ1E2Pn), [Xangai](https://open.spotify.com/artist/1fCdub35SOEgPYVfSrYTI6) | [Saudação](https://open.spotify.com/album/04sgSzlK0R60M8s66J8qyX) | 4:03 | 2022-10-07 | 2022-10-20 |
-| [Saí pra Ver Se a Saudade Fica em Casa](https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Saí pra Ver Se a Saudade Fica em Casa](https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj) | 2:19 | 2026-07-17 |  |
+| [Saí pra Ver Se a Saudade Fica em Casa](https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Saí pra Ver Se a Saudade Fica em Casa](https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj) | 2:19 | 2026-07-17 | 2026-08-25 |
 | [Se Acabou](https://open.spotify.com/track/08LLtcRnpmGk0jXhO0yHvs) | [Luca Argel](https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt) | [Se Acabou](https://open.spotify.com/album/3Wqq7nrFYkF6igVeA23YxH) | 2:39 | 2026-01-16 | 2026-08-01 |
 | [Se Acaso Você Chegasse](https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Se Acaso Você Chegasse](https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz) | 2:19 | 2024-11-01 | 2026-02-28 |
 | [Se Chico Soubesse \- Ao Vivo](https://open.spotify.com/track/2Jye4P8bq0kKVrbhBlSq4f) | [Samantha Jones](https://open.spotify.com/artist/0oHytlFJGfMFsR1MZezSZu), [Pomar](https://open.spotify.com/artist/6ppC4w59igCBSfkmGPEKPC) | [Samantha Jones no Festival Pomar Convida \(Ao Vivo\)](https://open.spotify.com/album/1YPiqQDy6siPzicjhpQofs) | 1:49 | 2021-12-24 | 2022-01-22 |

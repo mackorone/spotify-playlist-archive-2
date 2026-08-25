@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Anne Wilson
 
-1,519 songs - 3 day 21 hr 2 min
+1,520 songs - 3 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1391,6 +1391,7 @@
 | [Watch What God Can Do](https://open.spotify.com/track/0082DGHpaawqnVyoOZklqz) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Watch What God Can Do](https://open.spotify.com/album/6XO8eRVCeK9XsnCuBE81MY) | 3:40 | 2024-08-09 | 2024-11-30 |
 | [Water](https://open.spotify.com/track/5Knkjy1aPJ8jy9FtrTXHbd) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Water](https://open.spotify.com/album/1KRH1xhztA1pXh3WgneFRx) | 3:36 | 2026-02-20 | 2026-03-22 |
 | [Water Into Wine](https://open.spotify.com/track/3yVR7hc7HjtXFnalkgfiK6) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Water Into Wine](https://open.spotify.com/album/0mCLJi59sXFYUCyZnjT4ir) | 3:49 | 2026-03-21 | 2026-04-05 |
+| [Waves](https://open.spotify.com/track/6l2Ol93k1yCbTWvEBKDaJW) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Waves](https://open.spotify.com/album/4gjgt5M1Z3BYrZGzB83ok3) | 9:54 | 2026-08-21 |  |
 | [Way Out](https://open.spotify.com/track/2Og9imc5BDVi9M60QuQzjt) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Way Out](https://open.spotify.com/album/2mt8DZzMpQUBDkkxUv9wrT) | 2:49 | 2024-06-23 | 2024-10-12 |
 | [we all need saving](https://open.spotify.com/track/1uNHA4tsOgrkKNQztsEVE5) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Abraham Osorio](https://open.spotify.com/artist/1NBqDNdNsKIhoORbn8IAkC) | [Juntos](https://open.spotify.com/album/5aY9OqT1l9HrMMK66ZbqKe) | 3:29 | 2022-05-27 | 2022-10-30 |
 | [We Are Alive](https://open.spotify.com/track/1wPXJMxyf4WgApq94cVi3u) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [LEAD](https://open.spotify.com/album/2l5pRI3rtG0NVJfdGREyow) | 3:10 | 2025-08-04 | 2025-09-15 |
@@ -1419,7 +1420,7 @@
 | [What If](https://open.spotify.com/track/1hb6oGNerobTD465qgBvTD) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Common Ground](https://open.spotify.com/album/7ufHFG2CBrkfDKELQ5OQ2F) | 3:59 | 2024-08-09 | 2024-11-30 |
 | [what if i told you?](https://open.spotify.com/track/4iz2gpYykJizD8tyqnhZZw) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [what if i told you?](https://open.spotify.com/album/2dsICzIDzI5meqWD0sXVBx) | 3:02 | 2026-07-17 | 2026-08-08 |
 | [What It's Like Believing](https://open.spotify.com/track/3tQYBQzTG88z5zEJTnFeoP) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [What It's Like Believing](https://open.spotify.com/album/1WG68vJi2pGNXRHf3wFdYg) | 3:59 | 2024-11-29 | 2025-02-23 |
-| [What Kind Of Love \- Live](https://open.spotify.com/track/0KdaQsRsrj2PAXrlagjm6K) | [Northview Worship](https://open.spotify.com/artist/5tqHIr1KQ71ohQkHGxTaQZ) | [What Kind Of Love \(Live\)](https://open.spotify.com/album/7AzOAIKoUXYq43dnvsFSml) | 5:22 | 2026-08-21 |  |
+| [What Kind Of Love \- Live](https://open.spotify.com/track/0KdaQsRsrj2PAXrlagjm6K) | [Northview Worship](https://open.spotify.com/artist/5tqHIr1KQ71ohQkHGxTaQZ) | [What Kind Of Love \(Live\)](https://open.spotify.com/album/7AzOAIKoUXYq43dnvsFSml) | 5:22 | 2026-08-21 | 2026-08-25 |
 | [What Our World Needs](https://open.spotify.com/track/2LNjGAAV7Z42fRp6HBypoc) | [Mark Alan Schoolmeesters](https://open.spotify.com/artist/0mTJxKhV5L8JtQmXHTJZXy) | [What Our World Needs](https://open.spotify.com/album/7HHKviQK2JLqgCcpSQBLtM) | 3:43 | 2026-07-03 | 2026-07-18 |
 | [What Would I Say?](https://open.spotify.com/track/5FDO2lrjfot5TYdlyetPjg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [What Would I Say?](https://open.spotify.com/album/1uetCWs3QmSxRRE1hwJ6kb) | 3:46 | 2026-05-29 | 2026-07-04 |
 | [What You're Worth](https://open.spotify.com/track/10Vmn3TNbRPGxSBdUd1Gyw) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL) | [What You're Worth](https://open.spotify.com/album/6KHrCWJuoylbDsK9F0JvjA) | 3:37 | 2025-10-20 | 2025-12-06 |

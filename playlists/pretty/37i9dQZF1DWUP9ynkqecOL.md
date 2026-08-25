@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,571 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,574 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 30 | [El tiempo de las cosas que frenan](https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [El tiempo de las cosas que frenan](https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY) | 5:00 |
 | 31 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 |
 | 32 | [Dada](https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4), [King Coya](https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [Dada](https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT) | 3:37 |
-| 33 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 |
-| 34 | [Adiós pueblito de Iruya \- Guazú Remix](https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Bárbara Silva](https://open.spotify.com/artist/4faJueSiIAdyws2gEOK3W1), [Guazú](https://open.spotify.com/artist/0eW7AKarke8r1vuzD5x8vK) | [Adiós pueblito de Iruya \(Guazú Remix\)](https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V) | 4:30 |
+| 33 | [Adiós pueblito de Iruya \- Guazú Remix](https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Bárbara Silva](https://open.spotify.com/artist/4faJueSiIAdyws2gEOK3W1), [Guazú](https://open.spotify.com/artist/0eW7AKarke8r1vuzD5x8vK) | [Adiós pueblito de Iruya \(Guazú Remix\)](https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V) | 4:30 |
+| 34 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 |
 | 35 | [Carnabailito](https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Magnetismo](https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU) | 4:01 |
 | 36 | [Unión de los Amantes](https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Camino a la Templanza](https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww) | 4:23 |
 | 37 | [Se que no Vas a Volver](https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 4:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 79 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 |
 | 80 | [Añoranza en las Yungas](https://open.spotify.com/track/6Pv2cSqZXcJVaO8yYa5Co4) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Jallalla](https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c) | 5:38 |
 
-Snapshot ID: `AAAAAAxQrnnVpUgY/3+ti0rGKb67DYEs`
+Snapshot ID: `AAAAAJGaeKgoQu2SFbjefSZw8vTowOpX`

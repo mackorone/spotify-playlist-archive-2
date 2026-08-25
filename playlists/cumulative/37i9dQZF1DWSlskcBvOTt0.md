@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,184 songs - 3 day 23 hr 44 min
+1,185 songs - 3 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 | 2025-06-06 | 2026-07-11 |
 | [Hold It \(feat\. ZenTola\)](https://open.spotify.com/track/5ZYDjHYSe9IOE5MqkqOzuk) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [ZenTola](https://open.spotify.com/artist/3tLl7yUdX8XVzSAnAk27Lm) | [Hold It \(feat\. ZenTola\)](https://open.spotify.com/album/5L4nArWXeaa9kLWXuGNPzW) | 3:05 | 2026-01-23 | 2026-07-26 |
 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 | 2025-02-07 | 2025-11-08 |
+| [Hold On](https://open.spotify.com/track/4G1ja02RESLiJ7SJ9wjmjX) | [Matt Davies](https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV), [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Hold On](https://open.spotify.com/album/2dQmrckBWjvRccjJgcqc5Y) | 4:00 | 2026-08-21 |  |
 | [Holding On](https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Holding On](https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI) | 3:58 | 2024-02-23 | 2024-07-16 |
 | [Holding You](https://open.spotify.com/track/69IGLjobHJWBQUotPlqcsx) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Holding You](https://open.spotify.com/album/6VBIkxNYQ3dW1o6KVJMI8v) | 5:28 | 2024-12-20 | 2025-04-26 |
 | [Holmen](https://open.spotify.com/track/6BSe0z7siNCq6qbkPJm6CJ) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Holmen](https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh) | 4:25 | 2024-03-29 | 2024-07-14 |
@@ -535,7 +536,7 @@
 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 | 2024-02-02 | 2025-07-23 |
 | [Korowai](https://open.spotify.com/track/5nGwt2oUROQtaW1EYxY9hj) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Korowai](https://open.spotify.com/album/3ByTN078vPgKLFKEbmUSr4) | 8:24 | 2021-04-21 | 2022-04-21 |
 | [Kumeleli](https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [ZSS](https://open.spotify.com/artist/0EdHRrvfxXevJFUB3wBVbe), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT) | [Kumeleli](https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z) | 5:24 | 2026-02-20 |  |
-| [Kura](https://open.spotify.com/track/5h2IBXZRH8GYrA0LnQMYGb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8), [Berimbouse](https://open.spotify.com/artist/0WpRvbJzxiOH5NcOgOG9Zi) | [Kura](https://open.spotify.com/album/1QQOpnwDdpK1pBqqH7P9Xu) | 4:30 | 2026-04-24 |  |
+| [Kura](https://open.spotify.com/track/5h2IBXZRH8GYrA0LnQMYGb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8), [Berimbouse](https://open.spotify.com/artist/0WpRvbJzxiOH5NcOgOG9Zi) | [Kura](https://open.spotify.com/album/1QQOpnwDdpK1pBqqH7P9Xu) | 4:30 | 2026-04-24 | 2026-08-25 |
 | [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 | 2024-12-06 | 2026-03-11 |
 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-30 | 2024-09-28 |
 | [La Casa](https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw) | [Souave](https://open.spotify.com/artist/4UhKvEeSMf3oxPvVlkryJw) | [La Casa](https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV) | 4:38 | 2024-09-13 | 2025-02-01 |

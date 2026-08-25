@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 72329,
+  "num_followers": 72331,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMNApTtTBNFp/hp7iQ7n74ItDEgO",
+  "snapshot_id": "AAAAADx3FuXuvN1aAtm/uUjlIe8BaTbd",
   "tracks": [
     {
       "added_at": "2026-06-09 17:29:19",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "DAYBREAK INTERLUDE",
+      "url": "https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95"
+    },
+    {
+      "added_at": "2026-06-09 17:29:19",
+      "album": {
         "name": "\u5348\u524d4\u6642\u306eDusty Love",
         "url": "https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
-        "name": "Bang!Bang!Bang!",
-        "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
         }
       ],
-      "duration_ms": 241200,
-      "name": "ZONE OF OVERLAP",
-      "url": "https://open.spotify.com/track/3G7t21C567I2ryejOVX2ue"
+      "duration_ms": 258013,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo"
     },
     {
       "added_at": "2026-06-09 17:29:19",
@@ -519,22 +535,6 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "DAYBREAK INTERLUDE",
-      "url": "https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95"
-    },
-    {
-      "added_at": "2026-06-09 17:29:19",
-      "album": {
         "name": "\u5343\u5e74\u5148\u3082\u305a\u3063\u3068...",
         "url": "https://open.spotify.com/album/7qaq2mi6O8fycroKkea5P1"
       },
@@ -547,38 +547,6 @@
       "duration_ms": 321440,
       "name": "\u5343\u5e74\u5148\u3082\u305a\u3063\u3068...",
       "url": "https://open.spotify.com/track/2lwmzAiCtQdHthgZeNUtFD"
-    },
-    {
-      "added_at": "2026-06-09 17:29:19",
-      "album": {
-        "name": "BLACK or WHITE 2022",
-        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 258013,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo"
-    },
-    {
-      "added_at": "2026-06-09 17:29:19",
-      "album": {
-        "name": "BLACK or WHITE 2022",
-        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
-      },
-      "artists": [
-        {
-          "name": "Re:vale",
-          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "YOUR RHAPSODY",
-      "url": "https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD"
     },
     {
       "added_at": "2026-06-09 17:29:19",
@@ -603,6 +571,38 @@
       "duration_ms": 269453,
       "name": "\u30d5\u30ec\u30d5\u30ec!\u9752\u6625\u8cdb\u6b4c",
       "url": "https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY"
+    },
+    {
+      "added_at": "2026-06-09 17:29:19",
+      "album": {
+        "name": "Bang!Bang!Bang!",
+        "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 241200,
+      "name": "ZONE OF OVERLAP",
+      "url": "https://open.spotify.com/track/3G7t21C567I2ryejOVX2ue"
+    },
+    {
+      "added_at": "2026-06-09 17:29:19",
+      "album": {
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "YOUR RHAPSODY",
+      "url": "https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD"
     },
     {
       "added_at": "2026-06-09 17:29:19",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5"
-    },
-    {
-      "added_at": "2026-06-09 17:29:19",
-      "album": {
         "name": "NEVER LOSE, MY RULE",
         "url": "https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 282960,
       "name": "NEVER LOSE, MY RULE",
       "url": "https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07"
+    },
+    {
+      "added_at": "2026-06-09 17:29:19",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5"
     },
     {
       "added_at": "2026-06-09 17:29:19",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
-        "name": "IMPERIAL CHAIN",
-        "url": "https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "IMPERIAL CHAIN",
-      "url": "https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1"
-    },
-    {
-      "added_at": "2026-06-09 17:29:19",
-      "album": {
         "name": "Hidden Region",
         "url": "https://open.spotify.com/album/55494sdvbgwzbrFHXTDaDz"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 226746,
       "name": "Hidden Region",
       "url": "https://open.spotify.com/track/2sVguUQGlEUWy57DbGuCU1"
+    },
+    {
+      "added_at": "2026-06-09 17:29:19",
+      "album": {
+        "name": "IMPERIAL CHAIN",
+        "url": "https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 252920,
+      "name": "IMPERIAL CHAIN",
+      "url": "https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1"
     },
     {
       "added_at": "2026-06-09 17:29:19",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-06-09 17:29:19",
       "album": {
-        "name": "einsatZ",
-        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 266373,
-      "name": "\u30b5\u30b5\u30b2\u30ed -You Are Mine-",
-      "url": "https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8"
-    },
-    {
-      "added_at": "2026-06-09 17:29:19",
-      "album": {
         "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
         "url": "https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 212706,
       "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
       "url": "https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz"
+    },
+    {
+      "added_at": "2026-06-09 17:29:19",
+      "album": {
+        "name": "einsatZ",
+        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 266373,
+      "name": "\u30b5\u30b5\u30b2\u30ed -You Are Mine-",
+      "url": "https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8"
     },
     {
       "added_at": "2026-06-09 17:29:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Saroj Kashyap
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,777 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,789 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Behisaab](https://open.spotify.com/track/3j2aNckJSXNJ56gpKmmfvm) | [Niyam](https://open.spotify.com/artist/5gSTgaslwP1tp7SO8cHBYL) | [Behisaab](https://open.spotify.com/album/5OvNBq6bgDMif6VXJiXs1o) | 2:54 |
 | 50 | [alvida](https://open.spotify.com/track/70n9Zs89z8eSSLtRM7F20d) | [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Anubha Kaul](https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [alvida](https://open.spotify.com/album/76dgMixpVYWtb9zxmh8xLg) | 4:05 |
 
-Snapshot ID: `AAAAANlSaAwDqE066q5ey4bg8n9vnY+t`
+Snapshot ID: `AAAAABY6P61/pGInsRJE6RenJihpCx0v`

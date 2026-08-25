@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 72344,
+  "num_followers": 72398,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAT/zOVfIBk5WepFclJFyp5Bs8vT",
+  "snapshot_id": "AAAAAEGBKldgGr8iagbXRd/H5RfCWwzm",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": ")\u2727\u20db*",
-        "url": "https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz"
-      },
-      "artists": [
-        {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "\u01aa. \u25d6\u01aa\u274d\u2281\u25de.|\u25d7\u0449 (*\u3147\u25b3\u208a\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a\u00a8.\u00b7*:\uff65\u2727\u20db(\u0f7d\u0e51",
-      "url": "https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "THIRTY\u4e09\u5341",
         "url": "https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 163047,
       "name": "icosa",
       "url": "https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": ")\u2727\u20db*",
+        "url": "https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "\u01aa. \u25d6\u01aa\u274d\u2281\u25de.|\u25d7\u0449 (*\u3147\u25b3\u208a\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a\u00a8.\u00b7*:\uff65\u2727\u20db(\u0f7d\u0e51",
+      "url": "https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "missing home",
-        "url": "https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N"
+        "name": "morrigan",
+        "url": "https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3"
       },
       "artists": [
         {
-          "name": "nineishuman",
-          "url": "https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm"
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
         }
       ],
-      "duration_ms": 124760,
-      "name": "missing home",
-      "url": "https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q"
+      "duration_ms": 142839,
+      "name": "morrigan",
+      "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "morrigan",
-        "url": "https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3"
+        "name": "missing home",
+        "url": "https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N"
       },
       "artists": [
         {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+          "name": "nineishuman",
+          "url": "https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm"
         }
       ],
-      "duration_ms": 142839,
-      "name": "morrigan",
-      "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"
+      "duration_ms": 124760,
+      "name": "missing home",
+      "url": "https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "PPPP PaPiPuPePo",
-        "url": "https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6"
-      },
-      "artists": [
-        {
-          "name": "emamouse",
-          "url": "https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7"
-        }
-      ],
-      "duration_ms": 208003,
-      "name": "PPPP PaPiPuPePo",
-      "url": "https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "I'll Try Living Like This",
         "url": "https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 343529,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7KTbdZRAZ3q3wYGz5mD4tR"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "PPPP PaPiPuPePo",
+        "url": "https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6"
+      },
+      "artists": [
+        {
+          "name": "emamouse",
+          "url": "https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7"
+        }
+      ],
+      "duration_ms": 208003,
+      "name": "PPPP PaPiPuPePo",
+      "url": "https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "View-Monster",
+        "url": "https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs"
+      },
+      "artists": [
+        {
+          "name": "Lemon Demon",
+          "url": "https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW"
+        }
+      ],
+      "duration_ms": 108027,
+      "name": "Nightmare Fuel",
+      "url": "https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "Empty Hiding World",
         "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 185072,
       "name": "Ascending Red",
       "url": "https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "View-Monster",
-        "url": "https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs"
-      },
-      "artists": [
-        {
-          "name": "Lemon Demon",
-          "url": "https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW"
-        }
-      ],
-      "duration_ms": 108027,
-      "name": "Nightmare Fuel",
-      "url": "https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -809,20 +809,20 @@
       "url": "https://open.spotify.com/track/7u6hkmIzrxaffZULmJQmF2"
     },
     {
-      "added_at": "2023-07-18 20:06:10",
+      "added_at": "2023-09-28 20:20:36",
       "album": {
-        "name": "dreamcore",
-        "url": "https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE"
+        "name": "cant you see",
+        "url": "https://open.spotify.com/album/1QSOdmHN1AD1amrZlVonJs"
       },
       "artists": [
         {
-          "name": "Yandere",
-          "url": "https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr"
+          "name": "toadmilk",
+          "url": "https://open.spotify.com/artist/0JLuRzD73XnnlmzQtyp3OU"
         }
       ],
-      "duration_ms": 100310,
-      "name": "dreamcore",
-      "url": "https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt"
+      "duration_ms": 161828,
+      "name": "cant you see",
+      "url": "https://open.spotify.com/track/6Jhb9RtpCGwMS8XpmWqn8N"
     }
   ],
   "unique_name": "webcore",

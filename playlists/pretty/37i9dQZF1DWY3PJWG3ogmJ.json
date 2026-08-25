@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 723711,
+  "num_followers": 723755,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPBy9LQugZZyh1k0fIiUv2sotU3",
+  "snapshot_id": "AAAAAN1P8vuSRIrQN1qZ/5MYZbLIFV07",
   "tracks": [
     {
       "added_at": "2024-07-19 14:07:01",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT"
     },
     {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
-        "name": "Epitaph",
-        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "Epitaph",
-      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
-    },
-    {
       "added_at": "2023-01-18 15:54:17",
       "album": {
         "name": "Posthuman",
@@ -611,6 +595,22 @@
       "duration_ms": 197879,
       "name": "Human Carrying Capacity",
       "url": "https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Sentenced to Life",
-        "url": "https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb"
-      },
-      "artists": [
-        {
-          "name": "Black Breath",
-          "url": "https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Feast of the Damned",
-      "url": "https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Playing the Victim",
         "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 226500,
       "name": "Playing the Victim",
       "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Sentenced to Life",
+        "url": "https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb"
+      },
+      "artists": [
+        {
+          "name": "Black Breath",
+          "url": "https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Feast of the Damned",
+      "url": "https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Circle of Blood",
-        "url": "https://open.spotify.com/album/07ixHVVwCh3xFvuqWo8LyE"
-      },
-      "artists": [
-        {
-          "name": "Wrong Answer",
-          "url": "https://open.spotify.com/artist/1ojBlwQXvlKyXzXY2uNEEo"
-        }
-      ],
-      "duration_ms": 153661,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Poverty of Self",
         "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 205669,
       "name": "Poverty of Self",
       "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Circle of Blood",
+        "url": "https://open.spotify.com/album/07ixHVVwCh3xFvuqWo8LyE"
+      },
+      "artists": [
+        {
+          "name": "Wrong Answer",
+          "url": "https://open.spotify.com/artist/1ojBlwQXvlKyXzXY2uNEEo"
+        }
+      ],
+      "duration_ms": 153661,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Brotherhood EP",
-        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
-      },
-      "artists": [
-        {
-          "name": "Fallbrawl",
-          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Gamechanger",
         "url": "https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 228572,
       "name": "Seeds of Hate",
       "url": "https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Brotherhood EP",
+        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
+      },
+      "artists": [
+        {
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "All Hail The Void",
-        "url": "https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM"
-      },
-      "artists": [
-        {
-          "name": "Enabler",
-          "url": "https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI"
-        }
-      ],
-      "duration_ms": 216455,
-      "name": "All Hail the Void",
-      "url": "https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "New Salem",
         "url": "https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 203960,
       "name": "New Salem",
       "url": "https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "All Hail The Void",
+        "url": "https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM"
+      },
+      "artists": [
+        {
+          "name": "Enabler",
+          "url": "https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI"
+        }
+      ],
+      "duration_ms": 216455,
+      "name": "All Hail the Void",
+      "url": "https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
-      },
-      "artists": [
-        {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Exit Signs",
-      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Crook",
         "url": "https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr"
       },
@@ -1655,22 +1639,34 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Strength to Draw the Line",
-        "url": "https://open.spotify.com/album/53js4P31lZMSZlINykloRH"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
       },
       "artists": [
         {
-          "name": "Jasta",
-          "url": "https://open.spotify.com/artist/03248d0xYQltNDAF2XongP"
-        },
-        {
-          "name": "Jesse Leach",
-          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
         }
       ],
-      "duration_ms": 168164,
-      "name": "Strength to Draw the Line",
-      "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
+      "duration_ms": 212480,
+      "name": "Exit Signs",
+      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The Antagonist",
+        "url": "https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk"
+      },
+      "artists": [
+        {
+          "name": "Ten Years Too Late",
+          "url": "https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "The Antagonist",
+      "url": "https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1691,18 +1687,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Antagonist",
-        "url": "https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk"
+        "name": "Strength to Draw the Line",
+        "url": "https://open.spotify.com/album/53js4P31lZMSZlINykloRH"
       },
       "artists": [
         {
-          "name": "Ten Years Too Late",
-          "url": "https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x"
+          "name": "Jasta",
+          "url": "https://open.spotify.com/artist/03248d0xYQltNDAF2XongP"
+        },
+        {
+          "name": "Jesse Leach",
+          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
         }
       ],
-      "duration_ms": 228333,
-      "name": "The Antagonist",
-      "url": "https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA"
+      "duration_ms": 168164,
+      "name": "Strength to Draw the Line",
+      "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
     },
     {
       "added_at": "2023-01-18 15:54:17",

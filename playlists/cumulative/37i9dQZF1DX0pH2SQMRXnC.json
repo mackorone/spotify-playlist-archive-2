@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
@@ -4031,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "Danza Kuduro (Remix)",
+        "url": "https://open.spotify.com/album/7nhhL5UzXtQe8B4nAk9jI5"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Danza Kuduro - Remix",
+      "url": "https://open.spotify.com/track/5w9bL15LRbhKYxNwu3qFrq"
+    },
+    {
+      "album": {
         "name": "Dark is All I See (Coone Remix)",
         "url": "https://open.spotify.com/album/4xFPRWDxU3cRQck6WPnq43"
       },
@@ -4666,6 +4684,28 @@
       "duration_ms": 166500,
       "name": "Disco Dip",
       "url": "https://open.spotify.com/track/5T2g57jUjKawm47vvt5rYV"
+    },
+    {
+      "album": {
+        "name": "Discorecord (Galactixx Remix)",
+        "url": "https://open.spotify.com/album/6zMvYeBxaGnry4GQAaI7fd"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156687,
+      "name": "Discorecord - Galactixx Remix",
+      "url": "https://open.spotify.com/track/3GTv9eSn7MKs9dKxtFpXYk"
     },
     {
       "album": {
@@ -6806,7 +6846,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 153000,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K"
@@ -7836,6 +7876,24 @@
       "duration_ms": 162580,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/1d8lzlVNqR6kcYCnsfeaHC"
+    },
+    {
+      "album": {
+        "name": "Good Old Days",
+        "url": "https://open.spotify.com/album/4yBDQ3F928ttYAeJ72jany"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/5qHxitw2vWH96ayqw55f1t"
     },
     {
       "album": {
@@ -10748,7 +10806,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 154639,
       "name": "Kiss Kiss Bang",
       "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
@@ -15818,6 +15876,32 @@
       "duration_ms": 162187,
       "name": "Rebel or Redeem",
       "url": "https://open.spotify.com/track/0AJFoiDPSkGPleUAljfqm1"
+    },
+    {
+      "album": {
+        "name": "Rebels In The Frontline",
+        "url": "https://open.spotify.com/album/1qA89hPlhB7I9rVtKIxXtA"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178838,
+      "name": "Rebels In The Frontline",
+      "url": "https://open.spotify.com/track/1HoYx9NlpBP0TNuYu05Yik"
     },
     {
       "album": {
@@ -22498,7 +22582,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 217303,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/0ZMadpivvZrK3q88POgTpX"

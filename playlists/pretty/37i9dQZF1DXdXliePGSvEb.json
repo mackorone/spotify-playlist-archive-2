@@ -1,12 +1,12 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78517,
+  "num_followers": 78523,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGEEM10ZW4dDWgFoE/UdM/wTqizF",
+  "snapshot_id": "AAAAAEV7U729x4Axzlw7lPMhB5OS6f6u",
   "tracks": [
     {
       "added_at": "2025-12-03 12:15:55",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "yo,",
         "url": "https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 143313,
       "name": "skyskysky",
       "url": "https://open.spotify.com/track/06Nlp5oqdxzvTiZL99lxP8"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Aeoui",
-        "url": "https://open.spotify.com/album/7GiryhyiYis1NEfjEAb4tv"
-      },
-      "artists": [
-        {
-          "name": "Breaka",
-          "url": "https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq"
-        }
-      ],
-      "duration_ms": 285874,
-      "name": "Are We There",
-      "url": "https://open.spotify.com/track/4IC12iWEBhquqm9xcWI7nY"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "nomorejacketsplease",
         "url": "https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 246188,
       "name": "2 Go",
       "url": "https://open.spotify.com/track/0OEdFRb2jr5dNF4kOfl8aq"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Aeoui",
+        "url": "https://open.spotify.com/album/7GiryhyiYis1NEfjEAb4tv"
+      },
+      "artists": [
+        {
+          "name": "Breaka",
+          "url": "https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq"
+        }
+      ],
+      "duration_ms": 285874,
+      "name": "Are We There",
+      "url": "https://open.spotify.com/track/4IC12iWEBhquqm9xcWI7nY"
     },
     {
       "added_at": "2025-12-03 12:15:55",

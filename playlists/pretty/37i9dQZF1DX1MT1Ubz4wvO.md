@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Cruzando el Charco
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,611 likes - 65 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,571 likes - 65 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 64 | [AURA](https://open.spotify.com/track/4DRqeEke8KlH8FU1J3DyCd) | [Oslo Ovnies](https://open.spotify.com/artist/3KSBsxMjBEZCxmrj0GEWJI) | [AURA](https://open.spotify.com/album/11SyyZjjwvrUYJuu0dhl12) | 2:36 |
 | 65 | [Lobo](https://open.spotify.com/track/4RcfJJjy3o9YloE3vof5Ke) | [Sys Malakian](https://open.spotify.com/artist/38HkiEfzlG45wSNIjjvyEk), [Richard Bourque](https://open.spotify.com/artist/5dzkUM5TKfMNWe8t1NLS1b), [Greg Wilson](https://open.spotify.com/artist/3XMjFpEnRHUdd30R3acr91), [Pieter Dedoncker](https://open.spotify.com/artist/5jWsQoAnX8yJot1d1eno1O) | [Lobo](https://open.spotify.com/album/2ccIuEUPSjMrosAhmRUCkI) | 2:06 |
 
-Snapshot ID: `AAAAAKO5hAUD5UjsUHa89PsNUjIo/nZW`
+Snapshot ID: `AAAAAK4YWIwRJCMVgKt113gqk+ClaT7l`

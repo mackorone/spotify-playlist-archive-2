@@ -4,7 +4,7 @@
 
 > The UK's biggest dance playlist! D.O.D, Izzy Bizu
 
-780 songs - 1 day 16 hr 32 min
+781 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [4AM](https://open.spotify.com/track/7JGU6hIqwK94nfqj38BuEn) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa) | [4AM](https://open.spotify.com/album/0YkQTtQcSrVBimOoc3TC8l) | 2:20 | 2025-11-14 |  |
 | [4Get The Girl](https://open.spotify.com/track/6yjyavXzUEkkBsg4ZQAUQr) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [4Get The Girl](https://open.spotify.com/album/06mEYqnxJNqLm5Jh1iX4cb) | 3:34 | 2026-04-30 |  |
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-03 | 2025-04-25 |
-| [909](https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [909](https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT) | 3:57 | 2026-01-30 |  |
+| [909](https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [909](https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT) | 3:57 | 2026-01-30 | 2026-08-25 |
 | [99 Degrees](https://open.spotify.com/track/7EafWuZIL2L0TWAUueBZSd) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [99 Degrees](https://open.spotify.com/album/2cmGrBYepfMbcHvMp93c3K) | 2:35 | 2022-07-14 | 2022-09-23 |
 | [>>>hands on me<<<](https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [>>>hands on me<<<](https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv) | 2:17 | 2026-04-30 |  |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2021-11-19 | 2022-01-14 |
@@ -387,6 +387,7 @@
 | [L.S.D\. \(Love So Damaged\)](https://open.spotify.com/track/593Ul2Jp3P86EXlJy0VTBI) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [L.S.D\. \(Love So Damaged\)](https://open.spotify.com/album/0LmLxx4DrTEScurfaFF0E9) | 2:33 | 2023-03-08 | 2023-03-09 |
 | [Last All Night](https://open.spotify.com/track/7JRnlLPASSHnwz9ntzvqfC) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Last All Night](https://open.spotify.com/album/622SMJPYsk5LiMxckqN1dE) | 3:37 | 2022-03-08 | 2022-03-10 |
 | [Last Thought \(feat\. MKLA\)](https://open.spotify.com/track/1tZC1ktebdhQSlhnFSetLk) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Last Thought \(feat\. MKLA\)](https://open.spotify.com/album/6IeRGYRqUbbfCnxN9Aw8Yg) | 3:58 | 2021-11-03\* | 2021-12-10 |
+| [Late Night Baddies](https://open.spotify.com/track/5r0GbOsD3zxVvmlLcpSeGD) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Late Night Baddies](https://open.spotify.com/album/472s8ntsa8po3LuFl5cvil) | 2:58 | 2026-08-24 |  |
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2021-11-03\* | 2022-03-18 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-06 | 2023-05-12 |
 | [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-06-22 | 2023-12-08 |

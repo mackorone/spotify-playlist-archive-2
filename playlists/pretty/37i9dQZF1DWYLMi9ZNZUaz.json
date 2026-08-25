@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 123745,
+  "num_followers": 123750,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACyR9yJgDMsJH5yLAke/mgOFGtYR",
+  "snapshot_id": "AAAAAJ1xzcp/Wx4CWCP/Idh7/hYkPTNp",
   "tracks": [
     {
       "added_at": "2026-08-20 17:00:23",
@@ -311,26 +311,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "HVL",
-        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Tage",
-          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
-        }
-      ],
-      "duration_ms": 192485,
-      "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
-      "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "B\u1ea1n \u0110\u1eddi",
         "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 300718,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Tage",
+          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
+        }
+      ],
+      "duration_ms": 192485,
+      "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
+      "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
         "name": "HVL",
         "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 173402,
       "name": "Baby (feat. marzuz)",
       "url": "https://open.spotify.com/track/6cZ6NqFHytVdRMG2QB3n8q"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -519,30 +519,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "\u0110O\u00c1 HOA",
-        "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
-      },
-      "artists": [
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "BIG WIND",
-          "url": "https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
-        }
-      ],
-      "duration_ms": 158987,
-      "name": "\u0110O\u00c1 HOA",
-      "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "Em iu",
         "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 176000,
       "name": "Em iu",
       "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "\u0110O\u00c1 HOA",
+        "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
+      },
+      "artists": [
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "BIG WIND",
+          "url": "https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "duration_ms": 158987,
+      "name": "\u0110O\u00c1 HOA",
+      "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "G\u1eb7p L\u1ea1i",
-        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        }
-      ],
-      "duration_ms": 266379,
-      "name": "H\u1eefng H\u1edd",
-      "url": "https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "C\u00f4ng Ty 4",
         "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 254491,
       "name": "C\u00f4ng Ty 4",
       "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        }
+      ],
+      "duration_ms": 266379,
+      "name": "H\u1eefng H\u1edd",
+      "url": "https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -855,22 +855,22 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
       "artists": [
         {
-          "name": "Richie D. ICY",
-          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
         },
         {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+          "name": "Hustlang Robber",
+          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
         }
       ],
-      "duration_ms": 205232,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
+      "duration_ms": 340724,
+      "name": "Mu\u1ed1n anh \u0111au",
+      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -891,22 +891,22 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
       },
       "artists": [
         {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+          "name": "Richie D. ICY",
+          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
         },
         {
-          "name": "Hustlang Robber",
-          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
         }
       ],
-      "duration_ms": 340724,
-      "name": "Mu\u1ed1n anh \u0111au",
-      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
+      "duration_ms": 205232,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
     },
     {
       "added_at": "2026-08-20 17:00:23",

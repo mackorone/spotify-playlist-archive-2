@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Fontaines D.C.,  Sam Smith, PARTYNEXTDOOR, Jorja Smith, Rex Orange County,  and more!
 
-14,858 songs - 34 day 13 hr 41 min
+14,859 songs - 34 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,6 +655,7 @@
 | [AM:PM \- YU\-KA Version](https://open.spotify.com/track/5seoqUPNUTI6OLcWOlCJIX) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [AM:PM \(YU\-KA Version\)](https://open.spotify.com/album/6gKrclhkKqWoFFqSCHI8Qo) | 3:02 | 2023-09-28 | 2023-10-06 |
 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 | 2025-11-13 | 2025-11-21 |
 | [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/track/4LgM9jizqppslT1cYDeUZT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Minami Kizuki](https://open.spotify.com/artist/3iklqyLETq25WsazEFbL29) | [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/album/4Puq2ovCYPcoFX48C10h7u) | 5:24 | 2025-11-20 | 2025-11-28 |
+| [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 | 2026-08-24 |  |
 | [Amazing](https://open.spotify.com/track/4fUMgL19kixzHhrttFZXsD) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 4:05 | 2023-09-28 | 2023-10-06 |
 | [Amazing!!!!!!](https://open.spotify.com/track/0KPpD49xKwTQWSBCZlRqjK) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Amazing!!!!!!](https://open.spotify.com/album/6Up62WHwhBpFvjnlIU7rv3) | 3:43 | 2026-01-23 | 2026-01-30 |
 | [Amber](https://open.spotify.com/track/3e2yxjgbyGUqwRUbpqF4zj) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [TASOGARE SOUL](https://open.spotify.com/album/3eIvYnAyVFDgkjNJpOz0Gw) | 3:02 | 2026-04-16 | 2026-04-24 |

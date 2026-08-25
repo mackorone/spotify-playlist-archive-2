@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! الغلاف: كزبرة وعصام صاصا
 
-304 songs - 21 hr 46 min
+306 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [El Gaw Wallaa](https://open.spotify.com/track/7FY8MdpmT94uz7QEwGuv8W) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Gaw Wallaa](https://open.spotify.com/album/39rh7juYPoYtCjuByeiLIP) | 3:34 | 2023-06-26 | 2025-05-02 |
 | [El Hantoor](https://open.spotify.com/track/4I2RAr4wKPPUOEQW58vjvM) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Bel Balady](https://open.spotify.com/album/5RF7CQDam2yu6UIazT2mQ9) | 3:52 | 2021-12-16 | 2023-09-02 |
 | [El Hekaya Fe Kelmten](https://open.spotify.com/track/0BBLrJ90sO5BGoalyneN3P) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [El Hekaya Fe Kelmten](https://open.spotify.com/album/2c7JeAkcHE6awlSNLZs6Fh) | 3:40 | 2022-02-03 | 2023-05-12 |
+| [El Kadabeen](https://open.spotify.com/track/4Gy1HXrhp85rOPamZarmb7) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [El Kadabeen](https://open.spotify.com/album/4OigHhRweszfmuIZaDUR2C) | 3:13 | 2026-08-24 |  |
 | [El Kbeer](https://open.spotify.com/track/1LCaYiM64miIPTnq9bcahx) | [Hany El Abd](https://open.spotify.com/artist/7l2ig9FhmC0W8N0sZ5FIpu) | [El Kbeer](https://open.spotify.com/album/4bRnoL59VL8hFZfwIJohSE) | 5:15 | 2022-01-20 | 2023-05-12 |
 | [El Keif](https://open.spotify.com/track/4aS9Acxyh86lpyN0sE1IRa) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Tarek El Sheikh](https://open.spotify.com/artist/7nvYEkt93I958ZuboIGgNi) | [Noaata Beida](https://open.spotify.com/album/12ngwNxLOjTaOOsIHZCkib) | 3:45 | 2022-07-14 | 2024-04-19 |
 | [EL Keif](https://open.spotify.com/track/1LttGAXVFilgpA74BxSndf) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Tarek El\-Sheikh](https://open.spotify.com/artist/146oFMnWlkqlpiGVHY5MUU) | [Noaata Beida](https://open.spotify.com/album/2bgL3UrqM8knBxaedpoZbE) | 3:45 | 2021-12-16 |  |
@@ -99,7 +100,7 @@
 | [HABIBI ANA MEN GHERAK](https://open.spotify.com/track/3sNRFOSdmoE1V7oy7YLtwu) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [HABIBI ANA MEN GHERAK](https://open.spotify.com/album/5hdHZ0Vj1qbHZxAjjBb8MQ) | 2:50 | 2026-08-10 |  |
 | [Hagaraan Ala Al Shesha](https://open.spotify.com/track/7mjrovxCbFPlnkJ1aDhtu9) | [Hoba](https://open.spotify.com/artist/3jaVJ8ApcZRzvvKdPhunie) | [Hoba](https://open.spotify.com/album/1b3UdyXzPsjVa93nujVvB8) | 5:25 | 2021-12-16 |  |
 | [Haissah](https://open.spotify.com/track/2tTFS58N5Fk58s2qJ8E3zK) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/6Psz3Qbb1dxxNDaWITkMWf) | 3:15 | 2021-12-16 | 2021-12-31 |
-| [Hakmel El Meshwar](https://open.spotify.com/track/0o2IOLDECPs7wSZjcGiHnr) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Khalid Sultan](https://open.spotify.com/artist/262Yrzic2EJaSW2TSdycRH) | [Hakmel El Meshwar](https://open.spotify.com/album/106BIGL8XlrGFyoM0c7W5r) | 3:23 | 2025-05-08 |  |
+| [Hakmel El Meshwar](https://open.spotify.com/track/0o2IOLDECPs7wSZjcGiHnr) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Khalid Sultan](https://open.spotify.com/artist/262Yrzic2EJaSW2TSdycRH) | [Hakmel El Meshwar](https://open.spotify.com/album/106BIGL8XlrGFyoM0c7W5r) | 3:23 | 2025-05-08 | 2026-08-25 |
 | [Hatgawez](https://open.spotify.com/track/1Vb51CRZbbS333bMwA0csQ) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/4LZuc3vs0btgKFiVczS2zi) | 4:35 | 2021-12-16 | 2025-06-27 |
 | [Hatgawez Tany](https://open.spotify.com/track/3EdA1dPSjYxVSXEqbUGP1O) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Bosy](https://open.spotify.com/artist/5qLw7iz4Ttj3cR07fE3gBZ) | [Hatgawez Tany](https://open.spotify.com/album/5lL7ZvSulnMBdVCMLsZRrA) | 3:29 | 2021-12-16 | 2022-07-28 |
 | [Haty Bosa Ya Beet](https://open.spotify.com/track/6uGJrcFOMI6Z2PIh1i8F3x) | [Osama Ghaly](https://open.spotify.com/artist/3Qlvqpn3QapW1ZZwbvoAxz) | [Osama Ghaly Collection](https://open.spotify.com/album/4jBwuzCtVOJisHosxBu9oN) | 3:53 | 2021-12-30 | 2023-05-12 |
@@ -159,6 +160,7 @@
 | [Ya Bege7](https://open.spotify.com/track/6sZ0YGoIpHx2EQD8ltgFgU) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Bege7](https://open.spotify.com/album/6mPMMYLI5iKMKfE1eGAwbV) | 5:38 | 2021-12-16 | 2022-07-27 |
 | [Ya Chedda Shokran](https://open.spotify.com/track/3trbju41081pF8BuAueGcP) | [Essam Karika](https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW) | [Ya Chedda Shokran](https://open.spotify.com/album/52uugAug1IGmMpOtdjCHJD) | 2:54 | 2025-01-02 | 2026-08-11 |
 | [Ya Dmaghy](https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Ya Dmaghy](https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6) | 4:03 | 2021-12-16 | 2023-05-12 |
+| [Ya Hawa](https://open.spotify.com/track/6sBJDOvGGVOnbFlgPINuXU) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ya Hawa](https://open.spotify.com/album/3q4HEHv14teWqfmtsADIzz) | 3:13 | 2026-08-24 |  |
 | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/track/0PosqExfBBo3NacLexwDly) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/album/1gnWrEMSr6fGOydroYscyu) | 3:16 | 2021-12-16 | 2023-07-12 |
 | [Ya Naker Kheiry](https://open.spotify.com/track/5otYW9ofdZVlXjgQVAo00B) | [Hamza El Saghier](https://open.spotify.com/artist/4Dk2CowpetfKQGv6psvWFr) | [Ya Naker Kheiry](https://open.spotify.com/album/5DeCycvx4r7sHCc1Z7kNNv) | 4:08 | 2021-12-16 | 2024-11-29 |
 | [Ya Nas Haram](https://open.spotify.com/track/60nqr01AaOKkYLatJKB47N) | [Ahmed Shiba](https://open.spotify.com/artist/18kOlOUYz50lsApqT1LIuW) | [Ya Nas Haram](https://open.spotify.com/album/4Ni4IqZnaX90wby10N4t3A) | 3:54 | 2024-12-19 |  |
@@ -285,7 +287,7 @@
 | [كان علي عيني](https://open.spotify.com/track/3i90c0l4VXRSx219BudvTj) | [Ahmed Nafea](https://open.spotify.com/artist/1tf8Q3S4asM4mbHrrjJ9dH), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [كان علي عيني](https://open.spotify.com/album/1JulGEGkRhsNN8o0AL8E6u) | 3:00 | 2026-08-10 |  |
 | [كبير كبير انا ايوة كبير](https://open.spotify.com/track/1nFuVbs2Nrc4YctsmJCRUu) | [عدوية شعبان عبد الرحيم](https://open.spotify.com/artist/05qj74OxicZQjvEiU2ywXp) | [كبير كبير انا ايوة كبير](https://open.spotify.com/album/34NPTEoOIUHb45ZxyQ3Y4T) | 5:03 | 2024-07-11 |  |
 | [كدة لا](https://open.spotify.com/track/2Y1F31MQD5DDakUxAu4qrz) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Hamada EL Lithy](https://open.spotify.com/artist/3bdPUtoaJM9R08UHSgPvRd) | [كدة لا](https://open.spotify.com/album/5EkGNhY1l7ErqHN6wW42ma) | 3:36 | 2024-02-23 | 2024-08-09 |
-| [كف ورا كف](https://open.spotify.com/track/2wDzXgeDbWOxWUdVXMR0j2) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [كف ورا كف](https://open.spotify.com/album/5jG7w9jO7g5EFZ4854DLZ2) | 4:01 | 2025-06-26 |  |
+| [كف ورا كف](https://open.spotify.com/track/2wDzXgeDbWOxWUdVXMR0j2) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [كف ورا كف](https://open.spotify.com/album/5jG7w9jO7g5EFZ4854DLZ2) | 4:01 | 2025-06-26 | 2026-08-25 |
 | [كلام مبتكلمش](https://open.spotify.com/track/1JdiJ4wAMKhPsXGL6iTwoK) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [كلام مبتكلمش](https://open.spotify.com/album/1kwZYe92wXq7AsP5xIepWm) | 3:39 | 2021-12-16 | 2022-04-23 |
 | [لفينا الدنيا](https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لفينا الدنيا](https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq) | 3:20 | 2023-06-27 | 2024-01-26 |
 | [ما تاكلش مال الناس](https://open.spotify.com/track/4E9eVFJ6ZQWFg6WYGusxYh) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe) | [ما تاكلش مال الناس](https://open.spotify.com/album/58lOZluuLZoQVRVb8bqSJT) | 3:27 | 2022-07-14 | 2023-05-12 |

@@ -4,7 +4,7 @@
 
 > The biggest Dancehall playlist in the world\. Cover: Ayetian
 
-620 songs - 1 day 6 hr 9 min
+621 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Anansi](https://open.spotify.com/track/3gPG1wuCzgHMHhDRHqG7Ns) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Prove Them Wrong](https://open.spotify.com/album/4wq0ynVCbHno5QJFuAR1yZ) | 2:49 | 2025-05-22 |  |
 | [Antics](https://open.spotify.com/track/0BRXih9fYu8Uo3cJGfWpNb) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Antics](https://open.spotify.com/album/0KE2rk5ubOixQrVQhwKE8L) | 2:16 | 2022-07-29 | 2022-09-10 |
 | [Anything a Anything](https://open.spotify.com/track/6QenbktBliv0Hqdpk6c5Rl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Adidjaheim Records Presents Introducing Vanessa Bling As Gaza Slim \(feat\. Vybz Kartel\)](https://open.spotify.com/album/3qSkwHeSBwlTttflXNZS2q) | 3:01 | 2023-07-10 | 2023-08-08 |
+| [As a Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/track/1IFCm9IGst6XwLP3KBrMJU) | [Fari](https://open.spotify.com/artist/1xJR8KEobeHT0R5FlWW4Z8) | [As a Friend \(Raw\) \[Jack Hammer Riddim\]](https://open.spotify.com/album/0oEyEjfCkuWUj2SjheSoOX) | 2:15 | 2026-08-24 |  |
 | [Ba Ba Bad Remix](https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad Remix](https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt) | 2:26 | 2025-07-11 |  |
 | [BAD & BBC RICH](https://open.spotify.com/track/3wARNOXPa2RTE8tkmZ7pLV) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [BAD & BBC RICH](https://open.spotify.com/album/3TVrtike7vgZl86oDfEyAW) | 2:24 | 2026-04-23 |  |
 | [Bad Gyal](https://open.spotify.com/track/1cTU8d5IbfxcHD2EXQZPOb) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Bad Gyal](https://open.spotify.com/album/5RhJhnUcVey2apNBGgR3Yl) | 2:43 | 2023-08-07 | 2023-09-25 |
@@ -515,7 +516,7 @@
 | [Stay Clean](https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Stay Clean](https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ) | 2:39 | 2023-05-14 | 2023-07-11 |
 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 | 2021-12-20 | 2023-08-08 |
 | [Step Out](https://open.spotify.com/track/5WaFbatyS9ON8DRxNWv4SA) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Step Out](https://open.spotify.com/album/235DEai3VSuVGE1m2U1iY3) | 2:57 | 2023-07-10 | 2023-08-08 |
-| [Still Alive](https://open.spotify.com/track/0cJBkXNp1ZtkFfzFD0YEPY) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Still Alive](https://open.spotify.com/album/3cwypMjr1OQjOzB0KQ8i2H) | 2:59 | 2025-06-23 |  |
+| [Still Alive](https://open.spotify.com/track/0cJBkXNp1ZtkFfzFD0YEPY) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Still Alive](https://open.spotify.com/album/3cwypMjr1OQjOzB0KQ8i2H) | 2:59 | 2025-06-23 | 2026-08-25 |
 | [Still Dark](https://open.spotify.com/track/4lf0WtFmLN1otyXJ5PkGog) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Still Dark](https://open.spotify.com/album/0a6ribWpQlCoIvTO5e1RmV) | 2:44 | 2023-11-17 | 2024-04-26 |
 | [Still Go Dance](https://open.spotify.com/track/5bKmyrxrvtDHbvDRSzicr4) | [Amanyea](https://open.spotify.com/artist/7z73WPeiR1PkmibIl9w0Qc) | [Still Go Dance](https://open.spotify.com/album/3dNkI7eV7P8a7RMNYhPRQD) | 2:56 | 2026-07-30 |  |
 | [Stop the Talking](https://open.spotify.com/track/50iNtCse0BOpgWH97crBVC) | [Toian](https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Stop the Talking](https://open.spotify.com/album/2j6xRSObURwTRhWDnAKHbF) | 3:15 | 2022-07-29 | 2022-09-10 |

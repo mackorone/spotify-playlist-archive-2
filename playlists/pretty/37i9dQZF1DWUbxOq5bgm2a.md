@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbxOq5bgm2a.md) - [plain]
 
 > The official Supergirl soundtrack — plus songs handpicked by the cast and crew that define Supergirl, Ruthye, and Lobo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,101 likes - 112 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,127 likes - 112 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbxOq5bgm2a.md) - [plain]
 | 73 | [Red Flag](https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent II](https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT) | 3:18 |
 | 74 | [Calling Dr\. Love](https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:44 |
 | 75 | [Rebel Yell](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:48 |
-| 76 | [Wave Of Mutilation](https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:03 |
+| 76 | [Wave of Mutilation](https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:03 |
 | 77 | [Easy Money](https://open.spotify.com/track/6KBwEQIIehy2STQR0aOsmO) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Nine Lives](https://open.spotify.com/album/5nTlWQQ6oQ2Z2oNSaJbRpX) | 3:59 |
 | 78 | [Prime Mover](https://open.spotify.com/track/7mTSjS0dSqOZG7O76t9gzD) | [Zodiac Mindwarp](https://open.spotify.com/artist/7ibCiy5E2kJNpf1zfJsFC9) | [More '80s Hair Metal](https://open.spotify.com/album/3FtE8lTenwojThDmkC7xuz) | 3:47 |
 | 79 | [Ruthye Playlist Introduction](https://open.spotify.com/episode/10FSUCRfzcrMc99DEFNC1P) | [Supergirl Official Playlist Introductions](https://open.spotify.com/show/033yQxI9yLPoJYo7BkgrcZ) | [Supergirl Official Playlist Introductions](https://open.spotify.com/album/033yQxI9yLPoJYo7BkgrcZ) | 0:20 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbxOq5bgm2a.md) - [plain]
 | 111 | [Clark's Apartment](https://open.spotify.com/track/7LGRXJzXAeXHX5w8AsLuAf) | [Claudia Sarne](https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE) | [Supergirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX) | 1:38 |
 | 112 | [Reunited](https://open.spotify.com/track/28VmhXuQ6jvvASKoPQnkyN) | [Claudia Sarne](https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE) | [Supergirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX) | 3:05 |
 
-Snapshot ID: `AAAAAMuV+uJ5l1kiUb0u6zXe0/NrzvHq`
+Snapshot ID: `AAAAADwaQkP8J/vszL7DD4wcUJjMB3fY`

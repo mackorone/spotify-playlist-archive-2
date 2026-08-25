@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-729 songs - 1 day 14 hr 22 min
+730 songs - 1 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,7 +662,7 @@
 | [Sonitus IV](https://open.spotify.com/track/5zI6HBKceSwf4PfRGR8R1f) | [Byonde](https://open.spotify.com/artist/33ceGoMDGHMOenQtt0Ls8q) | [Serenity Noise](https://open.spotify.com/album/45msYzpaKzhNNCLpwRzzBX) | 3:05 | 2021-12-01 | 2022-12-21 |
 | [Soothing Brown Noise](https://open.spotify.com/track/571cKOrpEtTcQnv5uOUqYr) | [Biolume](https://open.spotify.com/artist/398RKZCqh8iuD1nKlZWTZl) | [Soothing Brown Noise](https://open.spotify.com/album/39vv1nbumnQZaBwJ6vSFOa) | 2:46 | 2026-03-31 |  |
 | [Soothing Brown Noise](https://open.spotify.com/track/2FW8YAb6QaMbyLFDpnoFr5) | [Science Noise](https://open.spotify.com/artist/21rKXFXyX0IWKpYmoOaP8Q) | [Soothing Brown Noise](https://open.spotify.com/album/7oU0nNxdUDwEaa4Ddft0l0) | 3:03 | 2022-11-18 |  |
-| [Soothing Brown Noise 304.6 Hz](https://open.spotify.com/track/7FQpbVqEAbbALTGqodrqZL) | [Snore Patrol](https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu) | [137.2 \- 304.6 Hz Soothing Brown Noise](https://open.spotify.com/album/0lSewTsocyGV0ZTEWqeoab) | 3:13 | 2022-11-18 |  |
+| [Soothing Brown Noise 304.6 Hz](https://open.spotify.com/track/7FQpbVqEAbbALTGqodrqZL) | [Snore Patrol](https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu) | [137.2 \- 304.6 Hz Soothing Brown Noise](https://open.spotify.com/album/0lSewTsocyGV0ZTEWqeoab) | 3:13 | 2022-11-18 | 2026-08-25 |
 | [Soothing Brown Noise 8000Hz](https://open.spotify.com/track/6VYRvM6otDqzhPYTAiuHKb) | [The Guru Of Brown Noise](https://open.spotify.com/artist/6YWaFTBKqSSvji5EY9wLpR) | [Fields Of Brown Noise](https://open.spotify.com/album/0rGm2ZKEkht7AjDk3sYUdb) | 2:53 | 2022-09-08 | 2023-01-28 |
 | [Soothing Deep](https://open.spotify.com/track/7onLbJEZjADTmezCnSWND5) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 3:07 | 2025-11-13 |  |
 | [Soothing Deep Pink Noise](https://open.spotify.com/track/5wf3wwLBJj4j46xtJETZ8L) | [White Noise Spa](https://open.spotify.com/artist/2v4Lbdw4AEnnNVVUHi9esf) | [Pink Noise 2017](https://open.spotify.com/album/1TarMiqXyN0uSwpN0rr35s) | 5:00 | 2021-12-01 | 2022-08-16 |
@@ -679,6 +679,7 @@
 | [Spacious Dark Noise](https://open.spotify.com/track/6RrQiWIHxOSKYxQlTZlWhE) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Pink Vibe](https://open.spotify.com/album/4uTMcl47GxYwjOeMHqdEaI) | 4:16 | 2022-11-18 | 2026-04-03 |
 | [Spectral Brown Noise](https://open.spotify.com/track/3dGnQ4bwM78e2F5ixHTJdq) | [Sleep Spectrum](https://open.spotify.com/artist/3QDNGobcxFBC8WfkV1E1TE) | [Spectral Brown Noise](https://open.spotify.com/album/4N6xjIUEQUknyOZsaT34jj) | 2:40 | 2022-11-18 |  |
 | [Sphere of Brown Noise](https://open.spotify.com/track/65e9b8a6P1V1egx9BCfQHT) | [Spheres of Air](https://open.spotify.com/artist/4ocFgSJFk2gM8GdSkAo3jv) | [Sphere of Brown Noise](https://open.spotify.com/album/046R2ZETbw2Mez8HFul45K) | 2:52 | 2026-03-31 |  |
+| [Stable Brown Noise](https://open.spotify.com/track/7tC7EtmkSRWIeibgM3VUkx) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Stable Brown Noise](https://open.spotify.com/album/5F69EWBjikZGRKjXpFZoF8) | 2:24 | 2026-08-14 |  |
 | [Staying Focused with Pink Noise](https://open.spotify.com/track/5hCHngsXGFlQKBl0Ca19VQ) | [Dream Son](https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo) | [Pink Noise Focus](https://open.spotify.com/album/5VGwO2kekC7hk3QjocdzCj) | 4:04 | 2022-06-03 | 2026-04-01 |
 | [Steady Brown Noise](https://open.spotify.com/track/1NFGyzFNw0vQJ6T5sth3va) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Steady Brown Noise](https://open.spotify.com/album/03HoC5zVibwnAUyNEgN4Gc) | 2:30 | 2026-03-31 |  |
 | [Stirring Brown Noise](https://open.spotify.com/track/7goxlmUQdorgNYshYPHIVO) | [Loud Lowness](https://open.spotify.com/artist/1Z06uiXhn2kHV9f5cPlONe) | [Stirring Brown Noise](https://open.spotify.com/album/1aCAC99YhuhxTGL6SXb9tF) | 2:36 | 2023-01-27 |  |

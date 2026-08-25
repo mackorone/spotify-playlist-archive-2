@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,294 songs - 2 day 13 hr 10 min
+1,295 songs - 2 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [Palamaan](https://open.spotify.com/track/7xfSNbCBxTRv5KhOQweOcf) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Palamaan](https://open.spotify.com/album/6DkFG7wc6XPxEiWHY5TctZ) | 2:50 | 2024-02-15 | 2024-03-01 |
 | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy) | 3:03 | 2025-01-02 | 2025-03-07 |
 | [Palkintoi](https://open.spotify.com/track/0fuZ4C5pQvWJD7A2hC18KT) | [Mon\-Sala](https://open.spotify.com/artist/563RJHQJRgjoBBSehPAY5Q) | [Palkintoi](https://open.spotify.com/album/3JR6nOWVX3Y5TmrwJAPOpQ) | 2:34 | 2023-10-26 | 2023-11-10 |
+| [PALOKUNTA](https://open.spotify.com/track/0xdOpyvLhP9uTgHFosrSN7) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [PALOKUNTA](https://open.spotify.com/album/4wOzqHtHcCoqSKMh3Bx4y8) | 2:19 | 2026-08-24 |  |
 | [PamPam \(feat\. Pyrythekid\)](https://open.spotify.com/track/55egEMXsBPx4X3exJdKIWG) | [SMURDHY](https://open.spotify.com/artist/6bSsc7d3xjgKCIaoRe9QtR), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [PamPam \(feat\. Pyrythekid\)](https://open.spotify.com/album/0mLHMZIxclStSKEmNaFENg) | 2:07 | 2024-03-28 | 2024-05-03 |
 | [PAPA \(feat\. Davy\)](https://open.spotify.com/track/1iAS0t6WrGqM4v9xnVxKHk) | [BLANKS](https://open.spotify.com/artist/2IpgPfo9HrBdYvaBQjG3aU), [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [PAPA \(feat\. Davy\)](https://open.spotify.com/album/30LlVSSfc2Yt2Lgd2YdsyW) | 2:27 | 2025-08-14 | 2025-09-13 |
 | [paperihaavoi](https://open.spotify.com/track/5ulRNKhPQ3mrRwqvEpdWWR) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [paperihaavoi](https://open.spotify.com/album/5TqMRza7TbDOG0nkc04Dk6) | 2:08 | 2024-04-11 | 2024-06-14 |

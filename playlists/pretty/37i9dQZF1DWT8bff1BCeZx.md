@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,478 likes - 110 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,483 likes - 110 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 109 | [Walenga](https://open.spotify.com/track/54RArsacpBcRugU06Hc2v1) | [Dominica](https://open.spotify.com/artist/5FtyQahL4dAUs13zlVslU7) | [Walenga](https://open.spotify.com/album/0OBnNLsaGwViorqJmdUovy) | 5:33 |
 | 110 | [No Balance](https://open.spotify.com/track/5iDtPuz9Is75l2jm8IfIcw) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [SOMA](https://open.spotify.com/artist/29ZvqOhWYVbe8lAySfQftL) | [No Balance](https://open.spotify.com/album/2a4aUZyUTHOPe2stZi1MZj) | 3:01 |
 
-Snapshot ID: `AAAAAIoa1p9s0OdFKhGY0fD6/bOg5GsD`
+Snapshot ID: `AAAAAB2Hn1UUUHhcsf++KRsOrr7fiyMk`

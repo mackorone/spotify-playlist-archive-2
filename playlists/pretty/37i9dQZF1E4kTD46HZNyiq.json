@@ -1,12 +1,12 @@
 {
   "description": "With Rhineland, The Wild Wind, VICTORS and more",
-  "num_followers": 2378,
+  "num_followers": 2380,
   "original_name": "NIGHT TRAVELER Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA7mLYnUH+QzdTTP6JLIS/3RFpFJ",
+  "snapshot_id": "AAAAADH5HcPLKsxmPvsxEE+GArtGqPGm",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olympia",
+        "url": "https://open.spotify.com/album/3joUkie2ZoNneYqgM4NpDJ"
+      },
+      "artists": [
+        {
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Olympia",
+      "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lost Years",
         "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 228000,
       "name": "Through the Silence",
       "url": "https://open.spotify.com/track/40pt5JgG38qE0Z2Bqx51lf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Things I Can't Explain",
-        "url": "https://open.spotify.com/album/7wgZmvDWGSc66ldpWFXX6g"
-      },
-      "artists": [
-        {
-          "name": "Dekleyn",
-          "url": "https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI"
-        }
-      ],
-      "duration_ms": 229685,
-      "name": "Things I Can't Explain",
-      "url": "https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq"
     },
     {
       "added_at": null,
@@ -187,18 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olympia",
-        "url": "https://open.spotify.com/album/3joUkie2ZoNneYqgM4NpDJ"
+        "name": "Things I Can't Explain",
+        "url": "https://open.spotify.com/album/7wgZmvDWGSc66ldpWFXX6g"
       },
       "artists": [
         {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+          "name": "Dekleyn",
+          "url": "https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Olympia",
-      "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
+      "duration_ms": 229685,
+      "name": "Things I Can't Explain",
+      "url": "https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq"
     },
     {
       "added_at": null,
@@ -260,57 +260,9 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 217893,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1pkSvMMS7vSTpYNcVhNE4d"
-      },
-      "artists": [
-        {
-          "name": "thebandfriday",
-          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2jW4NPHX8uilq8HtZY7xbR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Ends Up Ending",
-        "url": "https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB"
-      },
-      "artists": [
-        {
-          "name": "Laureline",
-          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "I'm In Love With Everybody",
-      "url": "https://open.spotify.com/track/3iA5hu0pwUx8vP97zLUMoy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lost Years",
-        "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
-      },
-      "artists": [
-        {
-          "name": "The Strike",
-          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
-        }
-      ],
-      "duration_ms": 245511,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
+      "duration_ms": 308266,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/7EeG6iNjAZDpbDs7Gt0BtD"
     },
     {
       "added_at": null,
@@ -331,6 +283,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything Ends Up Ending",
+        "url": "https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "I'm In Love With Everybody",
+      "url": "https://open.spotify.com/track/3iA5hu0pwUx8vP97zLUMoy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
+      },
+      "artists": [
+        {
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Notice",
+      "url": "https://open.spotify.com/track/2l4RX5GHXaoJdKbRZkFji8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lost Years",
+        "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "duration_ms": 245511,
+      "name": "Miles Ahead",
+      "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Night Traveler, Vol. 1",
         "url": "https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu"
       },
@@ -347,34 +347,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Light Fades",
-        "url": "https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb"
+        "name": "Lost In The Everglow",
+        "url": "https://open.spotify.com/album/1tikGiZYjz59UCtaadfoDD"
       },
       "artists": [
         {
-          "name": "Rohin",
-          "url": "https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs"
+          "name": "Chief",
+          "url": "https://open.spotify.com/artist/03rKoyn1N8wUowLCHGcG33"
         }
       ],
-      "duration_ms": 236773,
-      "name": "Chinatown In The Rain",
-      "url": "https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM"
+      "duration_ms": 223932,
+      "name": "Your Weather",
+      "url": "https://open.spotify.com/track/0lTYWQMg4TufelFuXlKwCC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Second Wind",
-        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1pkSvMMS7vSTpYNcVhNE4d"
       },
       "artists": [
         {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
         }
       ],
-      "duration_ms": 175374,
-      "name": "Honey (I believe in us)",
-      "url": "https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C"
+      "duration_ms": 180952,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2jW4NPHX8uilq8HtZY7xbR"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 308266,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/7EeG6iNjAZDpbDs7Gt0BtD"
+      "duration_ms": 217893,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt"
     },
     {
       "added_at": null,
@@ -443,18 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Flight",
-        "url": "https://open.spotify.com/album/2GMQ19WQGxqMHSj9z5iby1"
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/2JGLkLB8ZkqKY0IXVJppIr"
       },
       "artists": [
         {
-          "name": "thebandfriday",
-          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+          "name": "Recent Rumors",
+          "url": "https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn"
         }
       ],
-      "duration_ms": 235312,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/4yTdmwSCBVW3kYbDA2Hr3F"
+      "duration_ms": 193714,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/3RKdsUIRmpcYQRI50CV7Bj"
     },
     {
       "added_at": null,
@@ -475,18 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Dream Through Open Eyes",
-        "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
       },
       "artists": [
         {
-          "name": "The Strike",
-          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
         }
       ],
-      "duration_ms": 243187,
-      "name": "I Wish That You Would",
-      "url": "https://open.spotify.com/track/6fvbcLqImwREQb1l3h5yOg"
+      "duration_ms": 175374,
+      "name": "Honey (I believe in us)",
+      "url": "https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C"
     },
     {
       "added_at": null,
@@ -507,50 +507,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "On the Corner Where You Live",
-        "url": "https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU"
+        "name": "A Dream Through Open Eyes",
+        "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
         }
       ],
-      "duration_ms": 276480,
-      "name": "On the Corner Where You Live",
-      "url": "https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS"
+      "duration_ms": 243187,
+      "name": "I Wish That You Would",
+      "url": "https://open.spotify.com/track/6fvbcLqImwREQb1l3h5yOg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Love is Complicated",
-        "url": "https://open.spotify.com/album/6Tfulm7bKzePnNBUZrzGRt"
+        "name": "As The Light Fades",
+        "url": "https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb"
       },
       "artists": [
         {
-          "name": "Drive!Drive!",
-          "url": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
+          "name": "Rohin",
+          "url": "https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs"
         }
       ],
-      "duration_ms": 163619,
-      "name": "Love Is Complicated",
-      "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
+      "duration_ms": 236773,
+      "name": "Chinatown In The Rain",
+      "url": "https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Second Wind",
-        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
+        "name": "Take Flight",
+        "url": "https://open.spotify.com/album/2GMQ19WQGxqMHSj9z5iby1"
       },
       "artists": [
         {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
         }
       ],
-      "duration_ms": 206624,
-      "name": "Notice",
-      "url": "https://open.spotify.com/track/2l4RX5GHXaoJdKbRZkFji8"
+      "duration_ms": 223216,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/1eQaejluSsEl6ws01MfKEt"
     },
     {
       "added_at": null,
@@ -619,18 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/1y5y5Ckh8V8xjieukn0sah"
+        "name": "Love is Complicated",
+        "url": "https://open.spotify.com/album/6Tfulm7bKzePnNBUZrzGRt"
       },
       "artists": [
         {
-          "name": "thebandfriday",
-          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+          "name": "Drive!Drive!",
+          "url": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
         }
       ],
-      "duration_ms": 245249,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/2iTzHgeAO3YxGuQ3fKZuXk"
+      "duration_ms": 163619,
+      "name": "Love Is Complicated",
+      "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Masse",
+        "url": "https://open.spotify.com/album/5Tt9C5IN4ZPLqKqhxHcjGb"
+      },
+      "artists": [
+        {
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Still Thinking About You",
+      "url": "https://open.spotify.com/track/1g4iJDDM1tBIE0cIVVkscX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Dream Through Open Eyes",
         "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
       },
@@ -683,40 +699,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost In The Everglow",
-        "url": "https://open.spotify.com/album/1tikGiZYjz59UCtaadfoDD"
+        "name": "On the Corner Where You Live",
+        "url": "https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU"
       },
       "artists": [
         {
-          "name": "Chief",
-          "url": "https://open.spotify.com/artist/03rKoyn1N8wUowLCHGcG33"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 223932,
-      "name": "Your Weather",
-      "url": "https://open.spotify.com/track/0lTYWQMg4TufelFuXlKwCC"
+      "duration_ms": 276480,
+      "name": "On the Corner Where You Live",
+      "url": "https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vacation Manor",
-        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
-      },
-      "artists": [
-        {
-          "name": "Vacation Manor",
-          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
-        }
-      ],
-      "duration_ms": 296426,
-      "name": "If Only for Tonight",
-      "url": "https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pale Ash",
-        "url": "https://open.spotify.com/album/5OJo9rpvpcFLhrN9lk2gBN"
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Pale Ash",
-      "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
+      "duration_ms": 187250,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/20FoD7SUV9MIo031ajcuvF"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young and in Love",
-        "url": "https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo"
+        "name": "Cutting Edge Stuff",
+        "url": "https://open.spotify.com/album/1CwW0jNyO2eLdu7Udf6M8D"
       },
       "artists": [
         {
@@ -788,25 +788,25 @@
           "url": "https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y"
         }
       ],
-      "duration_ms": 222750,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1eZfQxzuj9HzQ0SrPJAhOy"
+      "duration_ms": 228260,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Take Flight",
-        "url": "https://open.spotify.com/album/2GMQ19WQGxqMHSj9z5iby1"
+        "name": "Beautiful Dangerous",
+        "url": "https://open.spotify.com/album/4EzK08959kkIicOgW59P7s"
       },
       "artists": [
         {
-          "name": "thebandfriday",
-          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+          "name": "Heart Of Gold",
+          "url": "https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ"
         }
       ],
-      "duration_ms": 193762,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/5xPzrQKFYUMw08gHMJLTgR"
+      "duration_ms": 273509,
+      "name": "To The Blue",
+      "url": "https://open.spotify.com/track/4vzs8fYH9GV7UqnSH6AaGV"
     }
   ],
   "unique_name": "NIGHT TRAVELER Radio",

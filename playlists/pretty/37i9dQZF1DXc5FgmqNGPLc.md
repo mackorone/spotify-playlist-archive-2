@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,217 likes - 100 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,222 likes - 100 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 26 | [Variations of a Bloodline \- Live](https://open.spotify.com/track/2usSemKhVAcu6JUcM9UkTB) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Variations of a Bloodline \(Live\)](https://open.spotify.com/album/3iD3tUauck969gRVKq4Bt5) | 13:42 |
 | 27 | [But Not for Me](https://open.spotify.com/track/7rfKGmNCu9wK0dfShVcOzt) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [But Not For Me](https://open.spotify.com/album/6hOKusm7cMOwYEDyccPull) | 9:32 |
 | 28 | [My One and Only Love \- Live](https://open.spotify.com/track/6eO4Uudsw3t79uCQJFtrta) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Live at Fabrik, Hamburg, 1987](https://open.spotify.com/album/3zV3pERmVFEntiv4j9MCKB) | 10:12 |
-| 29 | [All Alone \(Live\)](https://open.spotify.com/track/6ixVVhh46Z9KPe335caMzm) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Searching in Grenoble : The 1978 Solo Piano Concert \(Live\)](https://open.spotify.com/album/7LijvBcp5Kb23YTAVzbGzW) | 6:51 |
+| 29 | [All Alone \- Live](https://open.spotify.com/track/6ixVVhh46Z9KPe335caMzm) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Searching in Grenoble : The 1978 Solo Piano Concert \(Live\)](https://open.spotify.com/album/7LijvBcp5Kb23YTAVzbGzW) | 6:51 |
 | 30 | [Mali \(Live\)](https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [John Patitucci Trio: Live in Italy](https://open.spotify.com/album/3pxAc3Z4c4RX3y24cHJuA7) | 14:10 |
 | 31 | [Where Do I Go from Here? \- Live](https://open.spotify.com/track/7nkambEulQpS321zfsrbiA) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [On a Clear Day: The Oscar Peterson Trio \- Live in Zurich, 1971](https://open.spotify.com/album/38lO4EZETq8mnXKHi1Nvkl) | 7:38 |
 | 32 | [Sierre \- Live](https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz) | [T.S\. Monk](https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f) | [Two Continents One Groove \(Live\)](https://open.spotify.com/album/3eppyJqKLmkav7Pzhhp9qK) | 8:38 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 44 | [Heart Song \- Live](https://open.spotify.com/track/4auFbiuMrpvqxs3237Asgn) | [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [Heart Song \(Live\)](https://open.spotify.com/album/5abUJ9e8YQ1nuLvldIk96e) | 7:09 |
 | 45 | [Poinciana \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/19CKYnx17KtyWRtmCa5tMf) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 8:08 |
 | 46 | [BLACCK \- Live](https://open.spotify.com/track/0vI6b1bVuS4BRAMLj7gb52) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Chronology Of A Dream: Live At The Village Vanguard](https://open.spotify.com/album/0D5GKNmcgkY8aqokBx4aID) | 4:06 |
-| 47 | [Invitation \(Live\)](https://open.spotify.com/track/4010xdHiZB4pa8IvEYjQmb) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh) | [In Harmony \(Live\)](https://open.spotify.com/album/26YRLzA8FZdZcUD8jpc0uL) | 8:02 |
+| 47 | [Invitation \- Live](https://open.spotify.com/track/4010xdHiZB4pa8IvEYjQmb) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh) | [In Harmony \(Live\)](https://open.spotify.com/album/26YRLzA8FZdZcUD8jpc0uL) | 8:02 |
 | 48 | [India \- Live at Summer House Studios, London, 2021](https://open.spotify.com/track/5HnEmtj3yerLzKXiMaYGvi) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Live at Summer House Studios](https://open.spotify.com/album/2zn3Oz1HeBnwNFpJyPsvM7) | 6:45 |
 | 49 | [Cherokee](https://open.spotify.com/track/1koEJOJBQfadRG5nvQxg8w) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Warren Vaché](https://open.spotify.com/artist/0GWVa7PVBGQTtltgwpf5hw), [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [1995](https://open.spotify.com/album/3m1W0Qonekz3DOL1bNDPLR) | 10:45 |
 | 50 | [Seven Steps to Heaven \- Live](https://open.spotify.com/track/5oas0Hk8vrvFSpPgaALUrs) | [T.S\. Monk](https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f) | [Seven Steps to Heaven \(Live\)](https://open.spotify.com/album/6O70A9t3RODyzLGta83c2i) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [The Drum Battle](https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex) | [Gene Krupa](https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Drum Battle](https://open.spotify.com/album/50xJcwBsAXiQ7qTJNyAebk) | 3:36 |
 | 100 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 
-Snapshot ID: `AAAAAEmMRhMxP/Uu4MHkDV1WIAHc8i92`
+Snapshot ID: `AAAAAA0zveKNzRe3hP1bP/+ZzMh0IyrL`

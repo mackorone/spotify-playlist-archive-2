@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Yuridia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,859,584 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,859,551 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 36 | [Que Gacho](https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Que Gacho](https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i) | 3:13 |
 | 37 | [Medusa](https://open.spotify.com/track/2CDihIzaMKXsFuoypVLAse) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Medusa](https://open.spotify.com/album/2X2jTBYY061b5JajkNPPTk) | 3:09 |
 | 38 | [Fuerte No Soy \(En Vivo\)](https://open.spotify.com/track/0oaZ8iRRefJBWmFcwML7m7) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Fuerte No Soy \(En Vivo\)](https://open.spotify.com/album/2f7Wm1pk93ttXvGrSVtUYP) | 4:07 |
-| 39 | [Necesito Dueña \(En Vivo\)](https://open.spotify.com/track/641brRN9SUipE3Ve8tuLPZ) | [Marco Marroquin](https://open.spotify.com/artist/1HvIYWtS5X45onioOfaSCB) | [Live Session, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3Q9TiCMQhHhPShDQ7kvNRm) | 3:11 |
+| 39 | [Necesito Dueña \- En Vivo](https://open.spotify.com/track/641brRN9SUipE3Ve8tuLPZ) | [Marco Marroquin](https://open.spotify.com/artist/1HvIYWtS5X45onioOfaSCB) | [Live Session, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3Q9TiCMQhHhPShDQ7kvNRm) | 3:11 |
 | 40 | [Tu Falta De Querer](https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Falta De Querer](https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW) | 3:13 |
 | 41 | [MOTA CHERRY](https://open.spotify.com/track/68jkcpiDPPd5zdmE5VLlfq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:45 |
 | 42 | [Eres Mi Nada](https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Eres Mi Nada / Tu Pasado y Tú](https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 49 | [Leña De Pirul](https://open.spotify.com/track/7wj70qg5GF8jj2bpZiNC2Y) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Leña De Pirul](https://open.spotify.com/album/5Yr2KAdhp8yfmqk6PvPq3f) | 2:46 |
 | 50 | [La Birria de Estela](https://open.spotify.com/track/6JHJY5geN9qhsHP7otLWfL) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [La Birria de Estela](https://open.spotify.com/album/0d2fAxdVEZRSEOJ4J6ZHbq) | 2:56 |
 
-Snapshot ID: `AAAAANAuuHwpwGrGH+DQHLFmpWc1KNTl`
+Snapshot ID: `AAAAAKM4cBpa4KQYahmCRRwQg11limA3`

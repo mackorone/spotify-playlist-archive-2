@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: CalledOut Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,443 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,466 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 57 | [JESUS!](https://open.spotify.com/track/2wDBFpmcjJslaVzGve5hSV) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [JESUS!](https://open.spotify.com/album/7KbRUEHy8ejVZ7BxXUBW7r) | 4:00 |
 | 58 | [I Only Look to You](https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 3:08 |
 | 59 | [Drowning](https://open.spotify.com/track/1HJhbVuPkikmPUSSx48n4a) | [Gabby Poli](https://open.spotify.com/artist/4gLuj01C8v07FzdFOkHPFq) | [Drowning](https://open.spotify.com/album/5xZ5eO5YPmdyqyWyrdnc5W) | 2:42 |
-| 60 | [CLEAN](https://open.spotify.com/track/5JG9VY0x8c6IzbkzKXb1xp) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [CLEAN](https://open.spotify.com/album/4OgGS765Eor1GUQUH0cEVH) | 2:16 |
+| 60 | [Clean](https://open.spotify.com/track/5JG9VY0x8c6IzbkzKXb1xp) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [Clean](https://open.spotify.com/album/4OgGS765Eor1GUQUH0cEVH) | 2:16 |
 | 61 | [Checking In](https://open.spotify.com/track/50MW24b6EAvpY1f8sdp8lt) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Checking In](https://open.spotify.com/album/0dp2ECJa0bhJQ884rPHlgv) | 2:17 |
 | 62 | [New Way](https://open.spotify.com/track/5gUYSY4fGxEIbrj5q1Ofmr) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [New Way](https://open.spotify.com/album/1wa5cL0OarjQqOknkPBYTs) | 2:17 |
 | 63 | [Finally Repented](https://open.spotify.com/track/50JnTvGLHvFByTTSQj9Ltp) | [Definitely D](https://open.spotify.com/artist/4Gh8C9Bc8G9r3ntg0XFKIx), [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Homecoming](https://open.spotify.com/album/0E2ZHqN3Dki8r5aLcZZ94i) | 1:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [the Painter](https://open.spotify.com/track/3OOXfFZPUgCHAbxW0gNKKK) | [Brook Abella](https://open.spotify.com/artist/6KKMqashNdRSICeztUJkAJ) | [the Painter](https://open.spotify.com/album/5ysPjhoQS2EQdmj1nLzipf) | 3:47 |
 | 100 | [love always wins](https://open.spotify.com/track/4RXXurvRHOBuyBzWEbxLjV) | [Joshua Fraser](https://open.spotify.com/artist/7KO07Ql1wQPxRzdz8pTzJU) | [love always wins](https://open.spotify.com/album/2TbhoU4ULbQDTCRhRk4Sy5) | 3:58 |
 
-Snapshot ID: `AAAAAG1ap93dLphVlKStF5H+ZBH76aYT`
+Snapshot ID: `AAAAAKvB7/fDVRL0U1Lo/lELEnY+C/6T`

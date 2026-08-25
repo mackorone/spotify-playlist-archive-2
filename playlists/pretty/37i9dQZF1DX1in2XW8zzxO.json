@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 104672,
+  "num_followers": 104712,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJWbfR5ofqG80SnPy09+P8//cgbw",
+  "snapshot_id": "AAAAAPwYAed9BxTP7JupoFEwqIHNz+qM",
   "tracks": [
     {
       "added_at": "2026-06-12 10:05:49",
@@ -323,38 +323,6 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
-        "name": "Straata",
-        "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
-      },
-      "artists": [
-        {
-          "name": "TxC",
-          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
-        },
-        {
-          "name": "Al Xapo",
-          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
-        },
-        {
-          "name": "Ch'cco",
-          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
-        },
-        {
-          "name": "Uncool MC",
-          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
-        },
-        {
-          "name": "Optimist Music ZA",
-          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
-        }
-      ],
-      "duration_ms": 310088,
-      "name": "Mude Mude",
-      "url": "https://open.spotify.com/track/1cm7fPLAmPqI0zNimGbgbG"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
         "name": "Shokozela",
         "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
       },
@@ -383,6 +351,38 @@
       "duration_ms": 492759,
       "name": "Shokozela",
       "url": "https://open.spotify.com/track/1SFAM86VESPzwZbZOY3ndb"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
+        "name": "Straata",
+        "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        }
+      ],
+      "duration_ms": 310088,
+      "name": "Mude Mude",
+      "url": "https://open.spotify.com/track/1cm7fPLAmPqI0zNimGbgbG"
     },
     {
       "added_at": "2026-06-12 10:05:49",

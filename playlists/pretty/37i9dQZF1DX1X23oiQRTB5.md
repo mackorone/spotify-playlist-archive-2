@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Niska au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442,636 likes - 40 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,442,453 likes - 40 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pow Pow / Allo Doudou](https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Pow Pow / Allo Doudou](https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB) | 3:39 |
+| 1 | [Allo Doudou](https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Allo Doudou](https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U) | 2:50 |
 | 2 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 |
 | 3 | [Je pense à toi](https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:52 |
 | 4 | [ATL](https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [ATL](https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2) | 2:43 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [RAP d’arabe](https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [RAP d’arabe](https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ) | 3:01 |
 | 40 | [Charbon & Diamant](https://open.spotify.com/track/5oG155kA2TGH7ZghnnB6XG) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Charbon & Diamant](https://open.spotify.com/album/2Ihpl1sHO4bsbeOhqGPqTy) | 2:39 |
 
-Snapshot ID: `AAAAAJnhl/fFKwwgcln8o6+hZdV7vyF8`
+Snapshot ID: `AAAAAGNmj0b3a1QuHRruUGxQJUzxz0uT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Brandon Flowers
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,720 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,724 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 |
 | 100 | [Before The Soul Goes To Waste](https://open.spotify.com/track/5wlp24waiNLMRFxMZQKd9f) | [Fabrizio](https://open.spotify.com/artist/0PFfIFgLmqHJOlRocks9Cr) | [Before The Soul Goes To Waste](https://open.spotify.com/album/6QOVexxZkj2M9ARrIWd0xO) | 3:40 |
 
-Snapshot ID: `AAAAAD4cwJnPFIL0xeumaEaenH7mdAEs`
+Snapshot ID: `AAAAAK4U+5mq/Zdc0CJrww90783dECiA`

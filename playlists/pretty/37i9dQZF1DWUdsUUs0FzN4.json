@@ -1,12 +1,12 @@
 {
   "description": "bailando en el antro con Karol G, Judeline y Rusowsky hasta el amanecer ",
-  "num_followers": 24615,
+  "num_followers": 24617,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE40JqJnPjui2p3CGsmsUiVjSAQA",
+  "snapshot_id": "AAAAADQzRd9DxA1lYpwzSisYRKrSfufS",
   "tracks": [
     {
       "added_at": "2026-08-21 06:00:37",
@@ -647,18 +647,22 @@
     {
       "added_at": "2026-08-21 06:00:37",
       "album": {
-        "name": "C\u00d3MO QUIERES",
-        "url": "https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r"
+        "name": "ma\u00f1ana, temprano",
+        "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
       },
       "artists": [
         {
           "name": "R\u00d8Z",
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 192990,
-      "name": "C\u00d3MO QUIERES",
-      "url": "https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc"
+      "duration_ms": 211225,
+      "name": "No veo bien",
+      "url": "https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k"
     },
     {
       "added_at": "2026-08-21 06:00:37",
@@ -743,22 +747,18 @@
     {
       "added_at": "2026-08-21 06:00:37",
       "album": {
-        "name": "ma\u00f1ana, temprano",
-        "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
+        "name": "C\u00d3MO QUIERES",
+        "url": "https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r"
       },
       "artists": [
         {
           "name": "R\u00d8Z",
           "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 211225,
-      "name": "No veo bien",
-      "url": "https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k"
+      "duration_ms": 192990,
+      "name": "C\u00d3MO QUIERES",
+      "url": "https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc"
     },
     {
       "added_at": "2026-08-21 06:00:37",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2026-08-21 06:00:37",
       "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+        "name": "Pens\u00e1ndote",
+        "url": "https://open.spotify.com/album/1INSoJE5lu00Fs2zAW90uw"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
         }
       ],
-      "duration_ms": 181200,
-      "name": "BOBOMENSOTONTO",
-      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
+      "duration_ms": 173400,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/5vdtdW6gXrJKzHQZp5CICO"
     },
     {
       "added_at": "2026-08-21 06:00:37",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2026-08-21 06:00:37",
       "album": {
-        "name": "Pens\u00e1ndote",
-        "url": "https://open.spotify.com/album/1INSoJE5lu00Fs2zAW90uw"
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
       "artists": [
         {
-          "name": "Diana Meril",
-          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/5vdtdW6gXrJKzHQZp5CICO"
+      "duration_ms": 181200,
+      "name": "BOBOMENSOTONTO",
+      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
     },
     {
       "added_at": "2026-08-21 06:00:37",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2026-08-21 06:00:37",
       "album": {
-        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
-      },
-      "artists": [
-        {
-          "name": "VV Brujo",
-          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
-      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-08-21 06:00:37",
-      "album": {
         "name": "ITALO MIXTAPE VOL. 3",
         "url": "https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 167462,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT"
+    },
+    {
+      "added_at": "2026-08-21 06:00:37",
+      "album": {
+        "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+        "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
+      "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
     },
     {
       "added_at": "2026-08-21 06:00:37",

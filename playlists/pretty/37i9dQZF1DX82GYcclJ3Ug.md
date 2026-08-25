@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,700 likes - 153 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,739 likes - 153 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 152 | [THE GOLDEN RECORD](https://open.spotify.com/track/2thAXesjKk0g4UQHZTaBdA) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [evidence of you](https://open.spotify.com/album/3hGF9Zgo9RutDoV4pGsz0c) | 4:15 |
 | 153 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
 
-Snapshot ID: `AAAAAN+NHt6/i9EXbEljmChigFLGBIlI`
+Snapshot ID: `AAAAAKAPDWZzdI5mvv9dhZ/q4GiAZPRT`

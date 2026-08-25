@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Laura Schadeck
 
-1,201 songs - 2 day 11 hr 31 min
+1,202 songs - 2 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Aditivada](https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT) | [Júlia Rezende](https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Aditivada](https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU) | 2:29 | 2024-12-13 | 2025-02-08 |
 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 | 2023-06-16 | 2023-07-22 |
 | [AFF](https://open.spotify.com/track/26oPEb5dmO2uSEZHj2Pi6x) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [AFF](https://open.spotify.com/album/4qoLBUT9RETeODpecMewBv) | 2:26 | 2025-10-24 | 2026-01-31 |
-| [afinal o que é um amor tranquilo?](https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF) | [Mafe Peccin](https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6) | [TRANSBORDAR](https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB) | 2:45 | 2026-06-19 |  |
+| [afinal o que é um amor tranquilo?](https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF) | [Mafe Peccin](https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6) | [TRANSBORDAR](https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB) | 2:45 | 2026-06-19 | 2026-08-25 |
 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 | 2023-11-17 | 2024-06-15 |
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2020-10-20 | 2023-02-15 |
 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 | 2025-08-15 |  |
@@ -551,6 +551,7 @@
 | [Lemonade](https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/album/1pFaEu56zqpzSviJc3htZN) | 3:15 | 2020-10-20 | 2023-02-15 |
 | [Leonina](https://open.spotify.com/track/4oQkFOLyAneFVdTHQDcgS7) | [João Lucas](https://open.spotify.com/artist/6uSm5GsSe3BwK9P1Q8aZ2R) | [Leonina](https://open.spotify.com/album/33qJtAn99W9oFjWXJZRC4J) | 2:27 | 2024-09-27 | 2024-11-23 |
 | [Libera a Pressão](https://open.spotify.com/track/1XbEcV9RjfGy3nUoya9yvA) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Libera a Pressão](https://open.spotify.com/album/3gMEKirJ3O9aHoZCxUSkeK) | 2:00 | 2023-06-23 | 2023-07-15 |
+| [Liberdade?](https://open.spotify.com/track/05OSoY5o8YImbjWhU2QRZ8) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0) | [Liberdade?](https://open.spotify.com/album/2WIe2zcaxbqiwltJhyg604) | 2:48 | 2026-08-21 |  |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2020-10-20 | 2023-02-15 |
 | [ligações de alma](https://open.spotify.com/track/3RZ84nOV92gBOQc1iIdIez) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [ligações de alma](https://open.spotify.com/album/2iPtZn1xs1U1uL5VsNxY2a) | 2:59 | 2023-08-25 | 2023-12-16 |
 | [Like That \(feat\. Gucci Mane\)](https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:43 | 2020-10-20 | 2023-02-15 |

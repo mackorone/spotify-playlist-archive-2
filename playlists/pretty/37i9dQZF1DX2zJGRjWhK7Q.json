@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 246857,
+  "num_followers": 246895,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE5cMR0T48FywNU0hN+t8bpu4bRi",
+  "snapshot_id": "AAAAAG/IwjPGT93OPbXZWtPbtXJm6a03",
   "tracks": [
     {
       "added_at": "2024-09-24 20:30:16",
@@ -163,18 +163,18 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Hecho y Derecho (Doin' It Right)",
-        "url": "https://open.spotify.com/album/65EJIebSAXNM4Fu1oHnecX"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
       },
       "artists": [
         {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 295093,
-      "name": "Mujer Divina",
-      "url": "https://open.spotify.com/track/67MXiEsdYo4tYEwIybqgGG"
+      "duration_ms": 407373,
+      "name": "Periodico De Ayer",
+      "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -199,34 +199,18 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
+        "name": "Hecho y Derecho (Doin' It Right)",
+        "url": "https://open.spotify.com/album/65EJIebSAXNM4Fu1oHnecX"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 407373,
-      "name": "Periodico De Ayer",
-      "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Psychedelic Goes Latin",
-        "url": "https://open.spotify.com/album/4p88woLM8wg52uaMXCWc8j"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "Mala Suerte",
-      "url": "https://open.spotify.com/track/0K3LgduOVcSi9Z75bcbihT"
+      "duration_ms": 295093,
+      "name": "Mujer Divina",
+      "url": "https://open.spotify.com/track/67MXiEsdYo4tYEwIybqgGG"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -243,6 +227,22 @@
       "duration_ms": 426746,
       "name": "Vamonos Pal Monte",
       "url": "https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Psychedelic Goes Latin",
+        "url": "https://open.spotify.com/album/4p88woLM8wg52uaMXCWc8j"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/0K3LgduOVcSi9Z75bcbihT"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Sabor",
-        "url": "https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH"
-      },
-      "artists": [
-        {
-          "name": "Angel Canales",
-          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Lejos De Ti",
-      "url": "https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Una Dimension De Exitos",
         "url": "https://open.spotify.com/album/6cEzcbjpmhMhkuO22YNOOD"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 231944,
       "name": "Sigue Tu Camino",
       "url": "https://open.spotify.com/track/6K60uL5wHxDSqKgzScPzAn"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Sabor",
+        "url": "https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH"
+      },
+      "artists": [
+        {
+          "name": "Angel Canales",
+          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Lejos De Ti",
+      "url": "https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ"
     },
     {
       "added_at": "2024-09-24 20:30:16",

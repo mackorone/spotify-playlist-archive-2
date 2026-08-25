@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Breanna Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,555 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,557 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 8 | [all over now](https://open.spotify.com/track/6YHpQmweCZL2ISruvpBzEo) | [Demo Gubbz](https://open.spotify.com/artist/4VjgMsOaLPS7rWx58qxb6X), [Nathan May](https://open.spotify.com/artist/1MSZWYELfRVbVsRH9I8HdT), [Muxy](https://open.spotify.com/artist/05EmqRUGhcKvksYJY7V8AF) | [all over now](https://open.spotify.com/album/6Ng5GjkEUNR3OosabzRpsS) | 3:00 |
 | 9 | [Never Ending Story](https://open.spotify.com/track/17UfeX9M381Xcn76wZ3ck1) | [HARTCOLE](https://open.spotify.com/artist/7027zGFvr9ilbcL48I6rJ8) | [Never Ending Story](https://open.spotify.com/album/3KkyKtjOL4UVt5hIfa1Y0l) | 2:58 |
 | 10 | [Calling Me](https://open.spotify.com/track/6mqzWgXe5mv68jaVaBcVT4) | [Candice Lorrae](https://open.spotify.com/artist/1VaSC946EubmXORtc73L84) | [Calling Me](https://open.spotify.com/album/57qcwdJ6P14xp3n3JfS7ic) | 4:11 |
-| 11 | [Love Potion \- Live at the Sydney Opera House](https://open.spotify.com/track/62H75ewu8uCzEBxwnIaNAJ) | [Zipporah](https://open.spotify.com/artist/3fIJX4DzIFsEtglRgqrmEu) | [Naungu Urui: Extended Cut](https://open.spotify.com/album/72YhWHBAWNvDRESUFqrXSO) | 4:42 |
+| 11 | [Love Potion \- Live at the Sydney Opera House](https://open.spotify.com/track/62H75ewu8uCzEBxwnIaNAJ) | [Zipporah](https://open.spotify.com/artist/3fIJX4DzIFsEtglRgqrmEu) | [Naungu Urui \(Extended Cut\)](https://open.spotify.com/album/72YhWHBAWNvDRESUFqrXSO) | 4:42 |
 | 12 | [Before the Rain](https://open.spotify.com/track/5rlTzsT34KazO5DNLwMAvy) | [Sue Ray](https://open.spotify.com/artist/0X5AzsfEoqLOqtWczOKE3B) | [Before The Rain](https://open.spotify.com/album/110rGWlgwf03frM1abRE61) | 3:41 |
 | 13 | [Look Up](https://open.spotify.com/track/4Zluf3UZvWHcx3nDe6PrXs) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Look Up](https://open.spotify.com/album/4gvR5KMuBMZRFRX6Y0urnk) | 3:04 |
 | 14 | [Sage](https://open.spotify.com/track/2quqmtOxR2QSODDuE43IHt) | [NoKTuRNL](https://open.spotify.com/artist/0QUKRQJwwjtmZ8xfSewrZt) | [Demo](https://open.spotify.com/album/32KPNSSVPF70cUsQSdX4oh) | 3:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 48 | [Hidden Scars](https://open.spotify.com/track/3oQCXYDZNyhhReIgjNutb1) | [Zayne Hall](https://open.spotify.com/artist/0OKtcso7CvUsKI0ELJkAGs) | [Hidden Scars](https://open.spotify.com/album/3B5PBkNP9X42QEAJ1NQSIC) | 2:10 |
 | 49 | [Manapinha](https://open.spotify.com/track/5c9nsMOIymo5aq2dHX2SrX) | [Marimayi](https://open.spotify.com/artist/6JF8d2rK7ohEIDY4K8LI0L) | [Manapinha](https://open.spotify.com/album/7xm6mb7mZJaaq0leAjAgn7) | 2:58 |
 
-Snapshot ID: `AAAAAP/vB6z9Uqvz2ckGS3ApQTKqHk3V`
+Snapshot ID: `AAAAAPxFrqvVKZ+3AyYYmjtr3lgk61tB`

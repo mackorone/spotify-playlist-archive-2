@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Akoth Jumadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,015 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,020 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 49 | [Wickedest Gurl](https://open.spotify.com/track/3e4p80roLJwYAvv2ppmKTp) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Wickedest Gurl](https://open.spotify.com/album/6S8KNgSLgHPQEMk4KI2iye) | 2:52 |
 | 50 | [No Stress](https://open.spotify.com/track/1VQereVv8Flzey3eD9sj6D) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [No Stress](https://open.spotify.com/album/47InAFoqRqQ7E7LdEcrUFt) | 2:35 |
 
-Snapshot ID: `AAAAAJMu1YipOvbQpc0OYUaVgSV8nxyw`
+Snapshot ID: `AAAAABCwRsza0/K+6STKbWIcjhWeWrsH`

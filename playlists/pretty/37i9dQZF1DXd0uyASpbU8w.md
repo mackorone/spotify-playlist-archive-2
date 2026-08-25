@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from Manana, Cleo Sol, Victony, Jorja Smith and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,416 likes - 86 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,441 likes - 86 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 64 | [SEXY & BAD](https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [SEXY & BAD](https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3) | 3:37 |
 | 65 | [Rwanda](https://open.spotify.com/track/497KEgCt6cqKsxxrw5YeP6) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Kusslove](https://open.spotify.com/artist/2TLEUktuuUN5KwujvtdT87) | [Rwanda](https://open.spotify.com/album/0azC32XlyAOFzMXNOVYTE2) | 3:25 |
 | 66 | [Gaou la \(feat\. 6uff\)](https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Gaou la \(feat\. 6uff\)](https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp) | 2:27 |
-| 67 | [Dàjú](https://open.spotify.com/track/0kAoP1m3SIdFSl4inkqkB0) | [Faith Martins](https://open.spotify.com/artist/3zr0bLaSs6iMp2MXaKRlKc) | [Dàjú](https://open.spotify.com/album/7rLwYzAo6VFOcIMAjzC7rW) | 2:12 |
+| 67 | [Dájú](https://open.spotify.com/track/0kAoP1m3SIdFSl4inkqkB0) | [Faith Martins](https://open.spotify.com/artist/3zr0bLaSs6iMp2MXaKRlKc) | [Dájú](https://open.spotify.com/album/7rLwYzAo6VFOcIMAjzC7rW) | 2:12 |
 | 68 | [Call Me](https://open.spotify.com/track/33LD8GfXyE1Fcyh2SGt8cK) | [Drizzy Sam Rsa](https://open.spotify.com/artist/400dgBHAKK7icw1lrKLvBg) | [Call Me](https://open.spotify.com/album/6jqFkx3HCk2syAeot7v1WL) | 3:43 |
 | 69 | [Bad](https://open.spotify.com/track/1tgtF6WzgYOPaIWKKhoBgC) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Bad](https://open.spotify.com/album/3RBTfn38vkZuE2XQ91ja7X) | 2:24 |
 | 70 | [Ditoro](https://open.spotify.com/track/2cXKnaxmYPVWjrmSoQs6OU) | [Tashinga](https://open.spotify.com/artist/4vK7QmXs0G4B62GZbNxqiS), [PnM1505](https://open.spotify.com/artist/4oLR2pbbYVQIxvqCSv10Ia), [Caymill](https://open.spotify.com/artist/1fptIjZjqTKmY16hcdkY1x) | [Ditoro](https://open.spotify.com/album/1e1A6LInkHlVwMF4OHmezW) | 7:14 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 85 | [Centre of Peace](https://open.spotify.com/track/0eXpyRulLKEvTJybiU0nQu) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Centre of Peace](https://open.spotify.com/album/2WUEljT1AkJBw75JJrxoz5) | 3:39 |
 | 86 | [Tiffany](https://open.spotify.com/track/4TKTiYK7k2pEIJTfm5aFrI) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Heavn 777](https://open.spotify.com/artist/1hhI6UuvplpPWZoyjkArF2) | [Tiffany](https://open.spotify.com/album/7aFStcYhhlOtl01TNl64JR) | 2:46 |
 
-Snapshot ID: `AAAAAHfM+6Hq+ZSmlPc0bM1wDpBZAWC7`
+Snapshot ID: `AAAAALHEIq2l8HwftZ46Jo5mGu/k9Iqr`

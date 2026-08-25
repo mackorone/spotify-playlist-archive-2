@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego",
-  "num_followers": 55597,
+  "num_followers": 55599,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG2CkOjxyiHijf6cVIMsAKPuSGZO",
+  "snapshot_id": "AAAAAD+FUpU3fm1YkVgSKNnTUMjR6ErW",
   "tracks": [
     {
       "added_at": "2026-08-13 23:00:32",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
-        "name": "Camisa 10 (Primavera)",
-        "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
-      },
-      "artists": [
-        {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Camisa 10 (Primavera)",
-      "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
-    },
-    {
-      "added_at": "2026-08-13 23:00:32",
-      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 314009,
       "name": "Conversas",
       "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2026-08-13 23:00:32",
+      "album": {
+        "name": "Camisa 10 (Primavera)",
+        "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
+      },
+      "artists": [
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Camisa 10 (Primavera)",
+      "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
     },
     {
       "added_at": "2026-08-13 23:00:32",
@@ -943,30 +943,6 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
-        "name": "FIM DO NADA DELUXE",
-        "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
-      },
-      "artists": [
-        {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        },
-        {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
-      "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
-    },
-    {
-      "added_at": "2026-08-13 23:00:32",
-      "album": {
         "name": "Aguarela",
         "url": "https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 196912,
       "name": "Aguarela",
       "url": "https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S"
+    },
+    {
+      "added_at": "2026-08-13 23:00:32",
+      "album": {
+        "name": "FIM DO NADA DELUXE",
+        "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
+      "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
     },
     {
       "added_at": "2026-08-13 23:00:32",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
-        "name": "Chamadas",
-        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 156672,
-      "name": "Chamadas",
-      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
-    },
-    {
-      "added_at": "2026-08-13 23:00:32",
-      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 171000,
       "name": "Ninfoman\u00edaca",
       "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
+    },
+    {
+      "added_at": "2026-08-13 23:00:32",
+      "album": {
+        "name": "Chamadas",
+        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 156672,
+      "name": "Chamadas",
+      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
     },
     {
       "added_at": "2026-08-13 23:00:32",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-08-13 23:00:32",
       "album": {
-        "name": "Talvez",
-        "url": "https://open.spotify.com/album/0oTPd2PPkUffseXHnoeHcF"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
-        },
-        {
-          "name": "Leonor Barreira",
-          "url": "https://open.spotify.com/artist/5clPclYJpVR9PKaSHNLXkf"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Talvez",
-      "url": "https://open.spotify.com/track/7HNgDJPrtkBhJ6SqUOMMyt"
-    },
-    {
-      "added_at": "2026-08-13 23:00:32",
-      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 229244,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
+    },
+    {
+      "added_at": "2026-08-13 23:00:32",
+      "album": {
+        "name": "Talvez",
+        "url": "https://open.spotify.com/album/0oTPd2PPkUffseXHnoeHcF"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Leonor Barreira",
+          "url": "https://open.spotify.com/artist/5clPclYJpVR9PKaSHNLXkf"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/7HNgDJPrtkBhJ6SqUOMMyt"
     },
     {
       "added_at": "2026-08-13 23:00:32",

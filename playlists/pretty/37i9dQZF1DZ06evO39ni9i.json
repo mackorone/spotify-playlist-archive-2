@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 30664,
+  "num_followers": 30663,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAACBrwi5D4x4Xxk9WGh7f31O",
+  "snapshot_id": "aoo4AAAAAACakzdBWEWVgs1HruFMFhdd",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 197306,
-      "name": "Remember Who You Are",
-      "url": "https://open.spotify.com/track/21zc5vR3zofPz2WZIVLYgJ"
+      "duration_ms": 322360,
+      "name": "I Want to Take You Higher",
+      "url": "https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 322360,
-      "name": "I Want to Take You Higher",
-      "url": "https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd"
+      "duration_ms": 197306,
+      "name": "Remember Who You Are",
+      "url": "https://open.spotify.com/track/21zc5vR3zofPz2WZIVLYgJ"
     },
     {
       "added_at": null,
@@ -167,6 +167,22 @@
       "duration_ms": 322200,
       "name": "Que Sera, Sera (Whatever Will Be, Will Be)",
       "url": "https://open.spotify.com/track/52Xfwd81ZsBMDTW2S2X3zz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Sing a Simple Song - Single Version",
+      "url": "https://open.spotify.com/track/3QbfWiLvHcAMYmdRPd9WnX"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Sing a Simple Song - Single Version",
-      "url": "https://open.spotify.com/track/3QbfWiLvHcAMYmdRPd9WnX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There's a Riot Goin' On",
-        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 313400,
-      "name": "Just Like a Baby",
-      "url": "https://open.spotify.com/track/1aPFLpNNczxjY34qdKVJLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
@@ -283,38 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 191626,
-      "name": "Frisky",
-      "url": "https://open.spotify.com/track/3CG5a5vgvGdsoTlEHNMMc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "The Same Thing (Makes You Laugh, Makes You Cry)",
-      "url": "https://open.spotify.com/track/5FuDvELQSwjYo36HORMqiy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There's a Riot Goin' On",
         "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
       },
@@ -324,25 +276,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 177800,
-      "name": "Runnin' Away - Single Version",
-      "url": "https://open.spotify.com/track/2clHc3VGk2bITHsgPY7atj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "You Can Make It If You Try",
-      "url": "https://open.spotify.com/track/5yb2pWoPheGZgDCO1c6yUx"
+      "duration_ms": 313400,
+      "name": "Just Like a Baby",
+      "url": "https://open.spotify.com/track/1aPFLpNNczxjY34qdKVJLg"
     },
     {
       "added_at": null,
@@ -363,6 +299,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 162440,
+      "name": "The Same Thing (Makes You Laugh, Makes You Cry)",
+      "url": "https://open.spotify.com/track/5FuDvELQSwjYo36HORMqiy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "You Can Make It If You Try",
+      "url": "https://open.spotify.com/track/5yb2pWoPheGZgDCO1c6yUx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There's a Riot Goin' On",
+        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Runnin' Away - Single Version",
+      "url": "https://open.spotify.com/track/2clHc3VGk2bITHsgPY7atj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 191626,
+      "name": "Frisky",
+      "url": "https://open.spotify.com/track/3CG5a5vgvGdsoTlEHNMMc2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There's a Riot Goin' On",
-        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Poet",
-      "url": "https://open.spotify.com/track/6rQ7RXlfojwjHnUbAseB7D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 226146,
       "name": "Loose Booty",
       "url": "https://open.spotify.com/track/2bODSpA5V6atKBN5WKinQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There's a Riot Goin' On",
+        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Poet",
+      "url": "https://open.spotify.com/track/6rQ7RXlfojwjHnUbAseB7D"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There's a Riot Goin' On",
-        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "(You Caught Me) Smilin' - Single Version",
-      "url": "https://open.spotify.com/track/2Q2RWHHUWlrOcot38Q3OPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 181116,
       "name": "Life",
       "url": "https://open.spotify.com/track/0aI5KoqucjqXjPi7bFENFQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There's a Riot Goin' On",
+        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "(You Caught Me) Smilin' - Single Version",
+      "url": "https://open.spotify.com/track/2Q2RWHHUWlrOcot38Q3OPI"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There's a Riot Goin' On",
-        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "Luv N' Haight - Single Version",
-      "url": "https://open.spotify.com/track/2SNjUokqJifysK3qsjyK4F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 144105,
       "name": "Fun",
       "url": "https://open.spotify.com/track/70AM9U6VMFtSyjCYc34srx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There's a Riot Goin' On",
+        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "Luv N' Haight - Single Version",
+      "url": "https://open.spotify.com/track/2SNjUokqJifysK3qsjyK4F"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There's A Riot Goin' On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "That's Pretty Clean - Instrumental",
-      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sly & The Family Stone: The Woodstock Experience",
         "url": "https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 470666,
       "name": "Medley: Higher/Music Lover - Live at The Woodstock Music & Art Fair, August 17, 1969",
       "url": "https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There's A Riot Goin' On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "That's Pretty Clean - Instrumental",
+      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,517 likes - 24 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,518 likes - 24 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 23 | [The Riddle \(feat\. The Kolors\)](https://open.spotify.com/track/0CXKFZkDwVwt67bZTBkXMe) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3), [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [The Riddle \(feat\. The Kolors\)](https://open.spotify.com/album/3sis5ezJJFMLeCZ4Qtoe5z) | 3:13 |
 | 24 | [Portami via](https://open.spotify.com/track/4o27n0ryLEmQvC16wuf1gZ) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR), [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/2Lpwl1Jpsj6U0zAbuJO0LW) | 3:14 |
 
-Snapshot ID: `AAAAACPXG9hkjwozA0AckEVDCaWeZJNn`
+Snapshot ID: `AAAAAP8jgzFqLCcDv7U6nirry+shbi4A`

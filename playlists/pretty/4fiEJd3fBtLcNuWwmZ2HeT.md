@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 513 songs - 1 day 5 hr 25 min
+[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 519 songs - 1 day 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -521,5 +521,11 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 511 | [忘却心中](https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg) | [0\-9](https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn) | [忘却心中](https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG) | 4:13 |
 | 512 | [Aster](https://open.spotify.com/track/1I6TrS3GxQDnDzf479mYW0) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [NeoDreamTraveler](https://open.spotify.com/album/36VBZ7w53MCsXPfh3fyQdz) | 3:50 |
 | 513 | [メロメロイド \(feat\. 初音ミク\)](https://open.spotify.com/track/4yug2vxP12JjgRDOURtvNY) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [メロメロイド](https://open.spotify.com/album/3i0647Ek3aN0vP4WEFgRYA) | 3:03 |
+| 514 | [Alluring Secret \~Black Vow\~](https://open.spotify.com/track/71e2lIBhyqO1HOVsZlNcM4) | [axopholes](https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [Alluring Secret \~Black Vow\~](https://open.spotify.com/album/5ZmUmdPJMbTKfoN87rjaNE) | 4:16 |
+| 515 | [NAMIDA](https://open.spotify.com/track/4rW2Jk3MZ2uE74mYEQ3Pb3) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [NAMIDA](https://open.spotify.com/album/4MevvGbMQOBhWletiSPIXv) | 4:04 |
+| 516 | [Darling](https://open.spotify.com/track/2F10BWg1Wmu2hsxBqutXZn) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Darling](https://open.spotify.com/album/33kmAV4JnR0ZcKbWD9XQS2) | 3:43 |
+| 517 | [Koukatsu](https://open.spotify.com/track/4BeBddCKKwrTvqqyK5XZr5) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Koukatsu](https://open.spotify.com/album/4XvVtXEKOW0NQr9nyeXnoe) | 3:46 |
+| 518 | [Toutetsu](https://open.spotify.com/track/2MsGQOwD0CNkEO6npnbK0Z) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Toutetsu](https://open.spotify.com/album/4SmGvvUIfmEQvC6eOklB2m) | 4:08 |
+| 519 | [SIU](https://open.spotify.com/track/7AqPtCvcCx7zgEIHr2RO8B) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/6DOMrPaNqy5Iz5PuponuJz) | 4:38 |
 
-Snapshot ID: `AAAKYzVXyUHqxZeO9gYfNHGd1LVtAHbv`
+Snapshot ID: `AAAKaamD81lzjROo9Rx/mDFfv0MW7PT0`

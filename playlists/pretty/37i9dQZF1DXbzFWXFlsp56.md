@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Milena Benites
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,929 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,933 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 29 | [Ando Buscandome Un Novio](https://open.spotify.com/track/6OljcHWCrxz3mH5nLa1SVD) | [Duglanny Sosa](https://open.spotify.com/artist/2KfN0pl5Sp6CsMC4aVOSpX) | [Ando Buscandome Un Novio](https://open.spotify.com/album/2qdCczOWeGclPu5a3oiySe) | 2:29 |
 | 30 | [Muchacho de Pelo Negro](https://open.spotify.com/track/3Bjw7HfJuGdd4jGfUcohJQ) | [Milena Benites](https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N) | [Muchacho de Pelo Negro](https://open.spotify.com/album/2dXdX1YvICK0E5Ug5Bvkyk) | 3:59 |
 
-Snapshot ID: `AAAAAIwCzSKA55aD9cfZzDtu2c88N8Qw`
+Snapshot ID: `AAAAANF4XUw+DO5Y5iKdkcM2UHha8tyR`

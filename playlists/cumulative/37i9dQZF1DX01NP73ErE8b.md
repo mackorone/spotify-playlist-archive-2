@@ -4,7 +4,7 @@
 
 > I brani italiani di cui siamo ossessionati 🎧 Angelina Mango e Marco Mengoni in cover
 
-686 songs - 1 day 11 hr 9 min
+688 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [HANGOVER GIRL](https://open.spotify.com/track/4IRpoipsrAESkDp5fxW4b9) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [HANGOVER GIRL](https://open.spotify.com/album/4KzO8wGVIUOguCqVWoG70t) | 3:04 | 2026-06-25 | 2026-07-31 |
 | [HIPPY YA YO \(PERÒ ANCHE NO\)](https://open.spotify.com/track/46trdAZWe5whe77YWstw4G) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [HIPPY YA YO \(PERÒ ANCHE NO\)](https://open.spotify.com/album/0hMv0V7Hl7Sx7ZdJtFbpLJ) | 2:53 | 2026-05-28 |  |
 | [Ho paura di tutto](https://open.spotify.com/track/2tEbPcXP2cKE4txG35XeYo) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Ho paura di tutto](https://open.spotify.com/album/7JYkJb450rOu3HA4BJm0f8) | 3:18 | 2024-10-17 | 2024-11-01 |
+| [HO SBAGLIATO ANCORA](https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [HO SBAGLIATO ANCORA](https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA) | 3:10 | 2026-08-24 |  |
 | [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 | 2024-07-01 | 2024-11-05 |
 | [Hollywood](https://open.spotify.com/track/4DTetGWzcKQ2NGt4cllAkf) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Hollywood](https://open.spotify.com/album/7MGGV3Dlmesw46nfZgbOWh) | 3:23 | 2026-04-02 | 2026-04-10 |
 | [Hooligan](https://open.spotify.com/track/1EHgSsxhARHChEt4mbHDS6) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Hooligan](https://open.spotify.com/album/2nAA78saQypIBDktWAHfXV) | 2:49 | 2025-10-16 | 2025-11-21 |
@@ -549,6 +550,7 @@
 | [sbalzi d'umore](https://open.spotify.com/track/62mrphhxReT05rlu68jdYL) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [sbalzi d'umore](https://open.spotify.com/album/6qEzXWQHBtiL3g3hcQQ2DB) | 2:54 | 2025-09-04 | 2025-10-03 |
 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-11-04 | 2025-06-20 |
 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 | 2025-05-01 | 2025-11-20 |
+| [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 | 2026-08-24 |  |
 | [SE FINISSE L'AMORE](https://open.spotify.com/track/7zAub2y3CBN6flSbXHE28f) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/69mCnKvD4x8fWENzqUbGdU) | 2:46 | 2025-12-11 | 2025-12-30 |
 | [Se t'innamori muori](https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Se t'innamori muori](https://open.spotify.com/album/0dmBgbxifl9HI6bTHoFwx8) | 3:10 | 2025-02-12 | 2025-05-16 |
 | [sei solo tu](https://open.spotify.com/track/2OJ4w8QBNNIeqyfQH9aRES) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [sei solo tu](https://open.spotify.com/album/1wznGiADjF8ERLSC05hq9f) | 3:05 | 2026-03-12 | 2026-03-27 |
@@ -606,7 +608,7 @@
 | [Stupido](https://open.spotify.com/track/7MxofH0jnTTEnCzau5VdJs) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Stupido](https://open.spotify.com/album/5NccRVh2Ds5owdpDfW4Rh5) | 3:10 | 2025-05-08 | 2025-09-05 |
 | [Stupido Me, Stupida Te](https://open.spotify.com/track/4ZRdX5SVm607YkKfn4AM6t) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Stupido Me, Stupida Te](https://open.spotify.com/album/484JBsxzuPXVr1AmLHVyxd) | 2:54 | 2025-05-29 | 2025-08-15 |
 | [Stupido pensiero \(feat\. Elisa\)](https://open.spotify.com/track/4w6JWbj7B7YlhjxHta6hnq) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [io Individuo](https://open.spotify.com/album/31bkDaSjWXeCnc18BfkpaY) | 3:44 | 2026-03-19 | 2026-04-17 |
-| [Su x giù](https://open.spotify.com/track/4wGp5RxRZ5xNPsLMIWyzby) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Su x giù](https://open.spotify.com/album/3jBVpCL4ePAQp4dXTGf66x) | 3:14 | 2026-07-02 |  |
+| [Su x giù](https://open.spotify.com/track/4wGp5RxRZ5xNPsLMIWyzby) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Su x giù](https://open.spotify.com/album/3jBVpCL4ePAQp4dXTGf66x) | 3:14 | 2026-07-02 | 2026-08-25 |
 | [Succo d'ananas](https://open.spotify.com/track/0jo0BEkNflmZBNyHZ4J5tV) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Scarabocchi](https://open.spotify.com/album/4mVj0l7BupieXgxrXzTJ72) | 2:45 | 2025-04-10 | 2025-05-09 |
 | [Sudamerica](https://open.spotify.com/track/7pVk9Mov9OxPyIWp4fOOSB) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Sudamerica](https://open.spotify.com/album/48xyRhgDbvu2yqfubWoNvH) | 2:37 | 2025-07-17 | 2025-09-19 |
 | [Summer Funk](https://open.spotify.com/track/4OG2jxShgHmEHSwjSuxZjY) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Summer Funk](https://open.spotify.com/album/7d4nbbMioCm6I09NtWU1Oq) | 2:46 | 2026-05-07 | 2026-05-29 |
@@ -670,7 +672,7 @@
 | [veramente](https://open.spotify.com/track/3fJ8h4lVHBrAD5VFFNLIdT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [veramente](https://open.spotify.com/album/7jwTIx6Ngo8gbZImPfrXoG) | 3:21 | 2025-06-12 | 2025-08-29 |
 | [Verdeforesta](https://open.spotify.com/track/7bjv3V9G6k9sbTyqVEtYrI) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Silenzio \(tutto di me\)](https://open.spotify.com/album/0j6fIV7o9vPPTUO9mqgsFF) | 3:17 | 2026-01-14 | 2026-02-13 |
 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 | 2024-11-20 | 2025-04-25 |
-| [Vertigo](https://open.spotify.com/track/0Ldpmfvni7AO19NtpY2Xbq) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Vertigo](https://open.spotify.com/album/229v8g1TKywgdNKqoKYp4t) | 2:48 | 2026-06-18 |  |
+| [Vertigo](https://open.spotify.com/track/0Ldpmfvni7AO19NtpY2Xbq) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Vertigo](https://open.spotify.com/album/229v8g1TKywgdNKqoKYp4t) | 2:48 | 2026-06-18 | 2026-08-25 |
 | [via lattea](https://open.spotify.com/track/5CaOMx5BqJmaSDiT5dYUwe) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [via lattea](https://open.spotify.com/album/5KPeMhhOL0FQkeOLslwyCG) | 3:11 | 2025-11-27 | 2025-12-19 |
 | [victoria's secret \(feat\. Tony Effe\)](https://open.spotify.com/track/5V23eJS0UViOQ3vZcACHsv) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [victoria's secret \(feat\. Tony Effe\)](https://open.spotify.com/album/2pE4SGeEyGs4EJY3AYPA70) | 3:14 | 2025-05-29 | 2025-10-03 |
 | [VIENNARÌ](https://open.spotify.com/track/4jiplAN9NaGsapfWZED45b) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [VIENNARÌ](https://open.spotify.com/album/5pnwiqz4zlZOJkLPwOWxIT) | 3:28 | 2025-05-28 | 2025-07-04 |

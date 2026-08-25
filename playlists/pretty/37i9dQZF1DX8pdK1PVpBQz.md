@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Ricky Neil Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,192 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,195 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [out to dry](https://open.spotify.com/track/4uBDWljo6nRoItIArgxHc3) | [Monnie](https://open.spotify.com/artist/15zF5LyP92uIG0bUk8rzOA) | [out to dry](https://open.spotify.com/album/1yvLbgLvrVVfVRXlfdkppM) | 3:01 |
 | 100 | [Belong Here](https://open.spotify.com/track/6xndoEY98rh63ndna1g0IA) | [Joseph G\. Thompson](https://open.spotify.com/artist/4GwWjuASeF6MBuERXvCMuZ), [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Belong Here](https://open.spotify.com/album/1nZ5tUTGVTUohb52oR3ili) | 3:58 |
 
-Snapshot ID: `AAAAAPqpCeDxw1jWEcXWzS/rUYsfNU2x`
+Snapshot ID: `AAAAAMFDRHSgtodQi091AOJ8TBN9wUmB`

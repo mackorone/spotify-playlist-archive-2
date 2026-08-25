@@ -1,12 +1,12 @@
 {
   "description": "Calm piano music for enhanced concentration.",
-  "num_followers": 1447028,
+  "num_followers": 1446983,
   "original_name": "Perfect Concentration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZoUR7AmT0S9UC69Azf3iid4g1q",
+  "snapshot_id": "AAAAALspkT7BT4kdXvJSJ3XtBKQP86vd",
   "tracks": [
     {
       "added_at": "2026-07-24 04:00:40",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "The Heart Remembers",
-        "url": "https://open.spotify.com/album/328whVCkslvYFWvreH7BAJ"
-      },
-      "artists": [
-        {
-          "name": "Kaspar Riedenthal",
-          "url": "https://open.spotify.com/artist/60nYiV2Ny5FO2Z8MhmYlUu"
-        }
-      ],
-      "duration_ms": 153681,
-      "name": "The Heart Remembers",
-      "url": "https://open.spotify.com/track/0yLqLsRqfODfUMYyUbOnqb"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Alder",
         "url": "https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 179682,
       "name": "Alder",
       "url": "https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "The Heart Remembers",
+        "url": "https://open.spotify.com/album/328whVCkslvYFWvreH7BAJ"
+      },
+      "artists": [
+        {
+          "name": "Kaspar Riedenthal",
+          "url": "https://open.spotify.com/artist/60nYiV2Ny5FO2Z8MhmYlUu"
+        }
+      ],
+      "duration_ms": 153681,
+      "name": "The Heart Remembers",
+      "url": "https://open.spotify.com/track/0yLqLsRqfODfUMYyUbOnqb"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Regarde les flammes danser",
-        "url": "https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 131960,
-      "name": "Regarde les flammes danser",
-      "url": "https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Truth Within",
         "url": "https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 141993,
       "name": "Truth Within",
       "url": "https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "Regarde les flammes danser",
+        "url": "https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 131960,
+      "name": "Regarde les flammes danser",
+      "url": "https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "There Is Light",
-        "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
-      },
-      "artists": [
-        {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
-        }
-      ],
-      "duration_ms": 178624,
-      "name": "There Is Light",
-      "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Lysithea",
         "url": "https://open.spotify.com/album/0j6dhJ8LwkmtCbTOYMdTH3"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 134512,
       "name": "Lysithea",
       "url": "https://open.spotify.com/track/4XBdquxpnwZRjFiM55TRkQ"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "There Is Light",
+        "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "duration_ms": 178624,
+      "name": "There Is Light",
+      "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Inside A Dream",
-        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
-      },
-      "artists": [
-        {
-          "name": "Thiago Izan",
-          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Inside A Dream",
-      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Silent Waltz",
         "url": "https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 162968,
       "name": "Silent Waltz",
       "url": "https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "Inside A Dream",
+        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
+      },
+      "artists": [
+        {
+          "name": "Thiago Izan",
+          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Inside A Dream",
+      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
+        "name": "Evanesce",
+        "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
+      },
+      "artists": [
+        {
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "Evanesce",
+      "url": "https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
         "name": "Nostrella",
         "url": "https://open.spotify.com/album/6mnbS5euvB84IagWWvESNB"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 148714,
       "name": "The Pond",
       "url": "https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
-        "name": "Evanesce",
-        "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
-      },
-      "artists": [
-        {
-          "name": "J. Alke",
-          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Evanesce",
-      "url": "https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Rowan",
-        "url": "https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw"
-      },
-      "artists": [
-        {
-          "name": "Ben Moldau",
-          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Rowan",
-      "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 139952,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "Rowan",
+        "url": "https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw"
+      },
+      "artists": [
+        {
+          "name": "Ben Moldau",
+          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Rowan",
+      "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Noct\u00e9",
-        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
-      },
-      "artists": [
-        {
-          "name": "Van Kahloo",
-          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Noct\u00e9",
-      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Secret Meadow",
         "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 147524,
       "name": "Secret Meadow",
       "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "Noct\u00e9",
+        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
+      },
+      "artists": [
+        {
+          "name": "Van Kahloo",
+          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Noct\u00e9",
+      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Como Nights",
-        "url": "https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F"
-      },
-      "artists": [
-        {
-          "name": "Marcello Fiorenza",
-          "url": "https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G"
-        }
-      ],
-      "duration_ms": 150854,
-      "name": "Como Nights",
-      "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Calolziocorte",
         "url": "https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Irenic",
-        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
+        "name": "Como Nights",
+        "url": "https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F"
       },
       "artists": [
         {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+          "name": "Marcello Fiorenza",
+          "url": "https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G"
         }
       ],
-      "duration_ms": 177323,
-      "name": "Irenic",
-      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
+      "duration_ms": 150854,
+      "name": "Como Nights",
+      "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -1207,6 +1191,22 @@
       "duration_ms": 174905,
       "name": "Stigen",
       "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "Irenic",
+        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 177323,
+      "name": "Irenic",
+      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Quietude",
-        "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
-      },
-      "artists": [
-        {
-          "name": "Naskal",
-          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
-        }
-      ],
-      "duration_ms": 156405,
-      "name": "Quietude",
-      "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "solitude",
         "url": "https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 146515,
       "name": "Only Illusions",
       "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "Quietude",
+        "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "duration_ms": 156405,
+      "name": "Quietude",
+      "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Each glorious entity",
-        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
-      },
-      "artists": [
-        {
-          "name": "Eberina",
-          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
-        }
-      ],
-      "duration_ms": 133430,
-      "name": "Each glorious entity",
-      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Ruby Clouds",
         "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 140808,
       "name": "Ruby Clouds",
       "url": "https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "Each glorious entity",
+        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
+      },
+      "artists": [
+        {
+          "name": "Eberina",
+          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
+        }
+      ],
+      "duration_ms": 133430,
+      "name": "Each glorious entity",
+      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -1931,38 +1931,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Within Reach",
-        "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
-      },
-      "artists": [
-        {
-          "name": "Waqar Jachin",
-          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
-        }
-      ],
-      "duration_ms": 153301,
-      "name": "Within Reach",
-      "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
-        "name": "The Magic of a Piano",
-        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
-      },
-      "artists": [
-        {
-          "name": "Pederosa Calafiori",
-          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
-        }
-      ],
-      "duration_ms": 167844,
-      "name": "The Magic of a Piano",
-      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Memoirs",
         "url": "https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652"
       },
@@ -1979,6 +1947,22 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
+        "name": "Within Reach",
+        "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
+      },
+      "artists": [
+        {
+          "name": "Waqar Jachin",
+          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
+        }
+      ],
+      "duration_ms": 153301,
+      "name": "Within Reach",
+      "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
         "name": "Ocean Breeze",
         "url": "https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 131583,
       "name": "Ocean Breeze",
       "url": "https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "The Magic of a Piano",
+        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
+      },
+      "artists": [
+        {
+          "name": "Pederosa Calafiori",
+          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
+        }
+      ],
+      "duration_ms": 167844,
+      "name": "The Magic of a Piano",
+      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
     },
     {
       "added_at": "2026-07-24 04:00:40",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-07-24 04:00:40",
       "album": {
-        "name": "Veiled Memory",
-        "url": "https://open.spotify.com/album/5uaz6CNRu055gCdLSJVLEt"
-      },
-      "artists": [
-        {
-          "name": "Herman Schirmer",
-          "url": "https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm"
-        }
-      ],
-      "duration_ms": 135437,
-      "name": "Veiled Memory",
-      "url": "https://open.spotify.com/track/56owYDwyHyN0211FP8X9UD"
-    },
-    {
-      "added_at": "2026-07-24 04:00:40",
-      "album": {
         "name": "Simple Beauty",
         "url": "https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 168675,
       "name": "Simple Beauty",
       "url": "https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF"
+    },
+    {
+      "added_at": "2026-07-24 04:00:40",
+      "album": {
+        "name": "Veiled Memory",
+        "url": "https://open.spotify.com/album/5uaz6CNRu055gCdLSJVLEt"
+      },
+      "artists": [
+        {
+          "name": "Herman Schirmer",
+          "url": "https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm"
+        }
+      ],
+      "duration_ms": 135437,
+      "name": "Veiled Memory",
+      "url": "https://open.spotify.com/track/56owYDwyHyN0211FP8X9UD"
     },
     {
       "added_at": "2026-07-24 04:00:40",

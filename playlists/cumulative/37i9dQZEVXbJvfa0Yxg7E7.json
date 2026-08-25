@@ -46575,6 +46575,24 @@
     },
     {
       "album": {
+        "name": "Sulten 2 (Live P\u00e5 Nrk P3)",
+        "url": "https://open.spotify.com/album/31h02rfSebTXcda0sWp9lZ"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Sulten 2 - Live p\u00e5 NRK P3",
+      "url": "https://open.spotify.com/track/2jaExQmapjfEB8Y2TJPmrJ"
+    },
+    {
+      "album": {
         "name": "Summer Feeling (feat. Jonah Kagen)",
         "url": "https://open.spotify.com/album/5rNdbGQg68Y8lHtOgEfvfa"
       },
@@ -47886,7 +47904,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ"

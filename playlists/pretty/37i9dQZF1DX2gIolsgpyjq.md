@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Iben
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,239 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,249 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [blue+green](https://open.spotify.com/track/7cLHzL62KYEIDvqhmml7fx) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [blue+green](https://open.spotify.com/album/7dskID1nsNKIaBuA7Kze02) | 4:05 |
 | 50 | [Dreams](https://open.spotify.com/track/4cgha4ghzfm6lLanSfdtHp) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Dreams](https://open.spotify.com/album/4I4IpTNnfFUyh7HCpRt7FS) | 2:55 |
 
-Snapshot ID: `AAAAAGNY7itjYM2nd+XMPVwK82ckHSCW`
+Snapshot ID: `AAAAABgAiXoPe8dBorNRJ76jLcXR89KB`

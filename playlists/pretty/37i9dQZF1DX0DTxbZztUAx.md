@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,402 likes - 130 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,420 likes - 130 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 | 129 | [DIRTY](https://open.spotify.com/track/3MyJ8iwiZOEqhBneh6NBAm) | [TANGELA](https://open.spotify.com/artist/0tDUYf6Kgwje2xTRlJZMwU) | [DIRTY](https://open.spotify.com/album/5tPCTpO4A0Rce05xijhIJT) | 2:39 |
 | 130 | [You is a Dark Cloud](https://open.spotify.com/track/6lKuXGOquwUx7RJaQo9lwL) | [WOW JONES & JIMIJAME$](https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN), [Lambert 'Stereo' Waldrip](https://open.spotify.com/artist/7fYRvGjEjpBZSvLcQACP1Q) | [Tyler Perry's Beauty in Black: Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2) | 1:32 |
 
-Snapshot ID: `AAAAADlJ7bWvGW35E8jYHVtu0x6GBxEl`
+Snapshot ID: `AAAAAP9bWYe5G16kM+B99lzis3L5WRwy`

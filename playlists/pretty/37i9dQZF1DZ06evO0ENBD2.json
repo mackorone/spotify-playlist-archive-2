@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4988992,
+  "num_followers": 4988985,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAADn8PF4aqM+xbhkGs2oPygL",
+  "snapshot_id": "aoo4AAAAAABETOUp6bsyMn2lFA4jCSjH",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladies & Gentlemen",
-        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+        "name": "Innuendo",
+        "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
       },
       "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 318866,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR"
+      "duration_ms": 255042,
+      "name": "These Are The Days Of Our Lives",
+      "url": "https://open.spotify.com/track/1CLSAkvROchcKnY0iR34ya"
     },
     {
       "added_at": null,
@@ -467,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innuendo",
-        "url": "https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj"
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
       },
       "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 255042,
-      "name": "These Are The Days Of Our Lives",
-      "url": "https://open.spotify.com/track/1CLSAkvROchcKnY0iR34ya"
+      "duration_ms": 318866,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Works (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 248705,
-      "name": "It's A Hard Life",
-      "url": "https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen II (Deluxe Edition)",
         "url": "https://open.spotify.com/album/400nUnnOzQdTrdOlFD7Os4"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 168973,
       "name": "Seven Seas Of Rhye",
       "url": "https://open.spotify.com/track/2nbmAdtBKyhw8ghd8tsBVT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Works (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 248705,
+      "name": "It's A Hard Life",
+      "url": "https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz"
     },
     {
       "added_at": null,

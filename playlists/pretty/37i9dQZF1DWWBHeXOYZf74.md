@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,370 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,340 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 |
 | 100 | [Wake Up and Get Sexy](https://open.spotify.com/track/061lImbIi2dyZift5GqtIo) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [SYNY 3 Act I](https://open.spotify.com/album/7HcelJ0xbHNYZ5QaPTg3p9) | 2:33 |
 
-Snapshot ID: `AAAAALjzDOQhaMyzU90i45tkZ1GVj1tz`
+Snapshot ID: `AAAAAMjF6nU3HeGJ+T95c9z14r13P6Ar`

@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 198814,
       "name": "Calming Heights",
       "url": "https://open.spotify.com/track/06bmwa2r36b3XnqrcJ349i"
@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Cold Shoulder",
+        "url": "https://open.spotify.com/album/5wjzpXhXEOheJlkZOwpXpi"
+      },
+      "artists": [
+        {
+          "name": "nuit azul",
+          "url": "https://open.spotify.com/artist/6bAH9T0H6gqY4Q5y4smSN9"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170090,
+      "name": "Cold Shoulder",
+      "url": "https://open.spotify.com/track/6MZxaKidpVl7CkTqahJtCM"
+    },
+    {
+      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/3iFlBrrDy3cfZq4kwl0tZS"
       },
@@ -2094,6 +2112,24 @@
       "duration_ms": 184000,
       "name": "Cosmic Vibe",
       "url": "https://open.spotify.com/track/16YWHIxMQbvfShxpS1eKiR"
+    },
+    {
+      "album": {
+        "name": "Cosmic Winds",
+        "url": "https://open.spotify.com/album/4jVz6cU5rXSYQqsikIWw85"
+      },
+      "artists": [
+        {
+          "name": "somme",
+          "url": "https://open.spotify.com/artist/4uRENGdgkBSJIOxXhgSH3z"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170389,
+      "name": "Cosmic Winds",
+      "url": "https://open.spotify.com/track/01uUe5kkwY0UiIGi9SeFWq"
     },
     {
       "album": {
@@ -3333,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Eternal signs",
+        "url": "https://open.spotify.com/album/5m3hBkcEtgytmNRa5LS8bv"
+      },
+      "artists": [
+        {
+          "name": "Zanderia",
+          "url": "https://open.spotify.com/artist/2zJSxmKDRDe0BlZsdUPzxP"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Eternal signs",
+      "url": "https://open.spotify.com/track/3Z1FLXv1fBTD00XUeKNdCC"
+    },
+    {
+      "album": {
         "name": "Ethereal Sleep",
         "url": "https://open.spotify.com/album/3e0UCZ7yJFghUOoAgojhoX"
       },
@@ -3398,7 +3452,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 216000,
       "name": "Ever-Shifting Reality - Ambient Sleep",
       "url": "https://open.spotify.com/track/0tMemZfcN5Nr7LT8Y0iCaY"
@@ -4237,6 +4291,24 @@
     },
     {
       "album": {
+        "name": "Gradient Haze",
+        "url": "https://open.spotify.com/album/1EfLoTs3uTywbWTTMm8jBt"
+      },
+      "artists": [
+        {
+          "name": "Fabio Secci",
+          "url": "https://open.spotify.com/artist/1hYkH9ClWy5ZfmmTTntt2K"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126727,
+      "name": "Gradient Haze",
+      "url": "https://open.spotify.com/track/0OyX7QvRxsTihDz54TWdkO"
+    },
+    {
+      "album": {
         "name": "Grains of the Golden Sand",
         "url": "https://open.spotify.com/album/7DP6yEBXCyuih8gc5j4G7p"
       },
@@ -4997,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Inward Journey",
+        "url": "https://open.spotify.com/album/6N23C9R6czRw6MzhDBla6G"
+      },
+      "artists": [
+        {
+          "name": "nocten",
+          "url": "https://open.spotify.com/artist/45iMyuL7RzcVYyiqUdewp9"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168240,
+      "name": "Inward Journey",
+      "url": "https://open.spotify.com/track/3zSTwAMBSPTmMPopmshUaC"
+    },
+    {
+      "album": {
         "name": "Ion Glow",
         "url": "https://open.spotify.com/album/2PIEON5MzQSXwlxF7F6y29"
       },
@@ -5592,6 +5682,24 @@
       "duration_ms": 162874,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6lHB4YP1QV67AdlmadzMd4"
+    },
+    {
+      "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/2efyuMyzd6WI7eboSnHIu8"
+      },
+      "artists": [
+        {
+          "name": "cloudveil",
+          "url": "https://open.spotify.com/artist/0ciwucfb2pPaY5YfW3NJ57"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168341,
+      "name": "Lost Frequencies",
+      "url": "https://open.spotify.com/track/1c1CvXah9xixu6A92IlxzS"
     },
     {
       "album": {
@@ -6294,6 +6402,24 @@
       "duration_ms": 142222,
       "name": "Neptune",
       "url": "https://open.spotify.com/track/5FC6ViCqKnLb6Xnjm8UEKQ"
+    },
+    {
+      "album": {
+        "name": "Neptune\u2019s Garden",
+        "url": "https://open.spotify.com/album/23mhKohR015b0UlDR8OUay"
+      },
+      "artists": [
+        {
+          "name": "Munching Lads",
+          "url": "https://open.spotify.com/artist/7r0lF5bpQ2mS3O7AXFYZzK"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167868,
+      "name": "Neptune\u2019s Garden",
+      "url": "https://open.spotify.com/track/5Cv0uy1siGYtD8qh9m3Mpy"
     },
     {
       "album": {
@@ -7446,7 +7572,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 236307,
       "name": "Quasar Quest",
       "url": "https://open.spotify.com/track/48R7cTJP60VuxoMv1orGwn"
@@ -7824,7 +7950,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 208000,
       "name": "Safe Inside",
       "url": "https://open.spotify.com/track/6vM10Qv5vKNpLvfdg4N4j0"
@@ -7932,7 +8058,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 217426,
       "name": "Sea Sketch",
       "url": "https://open.spotify.com/track/16NJqRGQ2k1XV2IM0y7v8I"
@@ -8094,7 +8220,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 160791,
       "name": "Serene Vibrations",
       "url": "https://open.spotify.com/track/6r761WvnXaunu6rFdHu1na"
@@ -8274,7 +8400,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 230552,
       "name": "Sighflow",
       "url": "https://open.spotify.com/track/4SMiHZ1GLqQn20ANwYDbZm"
@@ -8314,6 +8440,24 @@
       "duration_ms": 133193,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR"
+    },
+    {
+      "album": {
+        "name": "Silent Breath",
+        "url": "https://open.spotify.com/album/0DdyZZUh37lU199FAhffbB"
+      },
+      "artists": [
+        {
+          "name": "Aitne",
+          "url": "https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154616,
+      "name": "Silent Breath",
+      "url": "https://open.spotify.com/track/5VqVhaBEDDJ9aXVlOpklmZ"
     },
     {
       "album": {
@@ -8400,7 +8544,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 205232,
       "name": "Sky Bound",
       "url": "https://open.spotify.com/track/74tXOc45B0Th6KT0Ij7tMz"
@@ -8544,7 +8688,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 256388,
       "name": "Sogniare",
       "url": "https://open.spotify.com/track/2lRlv6866bap5dTst95GoN"
@@ -9217,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "Tides of Light",
+        "url": "https://open.spotify.com/album/62RFXYZUc2P39wMZqhuONJ"
+      },
+      "artists": [
+        {
+          "name": "Elysian Woods",
+          "url": "https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144656,
+      "name": "Tides of Light",
+      "url": "https://open.spotify.com/track/6IZTpILNxmJl8FiLzLNgvW"
+    },
+    {
+      "album": {
         "name": "Begynnelse",
         "url": "https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW"
       },
@@ -9325,6 +9487,24 @@
     },
     {
       "album": {
+        "name": "Touched by Wind",
+        "url": "https://open.spotify.com/album/5mmgedpmoqnaRwNas0oimY"
+      },
+      "artists": [
+        {
+          "name": "Luka Vida",
+          "url": "https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158060,
+      "name": "Touched by Wind",
+      "url": "https://open.spotify.com/track/06RVDGeMrhzIfUX9EDavtf"
+    },
+    {
+      "album": {
         "name": "Touches",
         "url": "https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP"
       },
@@ -9430,6 +9610,24 @@
       "duration_ms": 179727,
       "name": "Unendlich",
       "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+    },
+    {
+      "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/4OaFiTaHoHF0oM21PaCYOd"
+      },
+      "artists": [
+        {
+          "name": "Pewmawen",
+          "url": "https://open.spotify.com/artist/43pue6ZWHuPjDyH6vmFkjZ"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Unfold",
+      "url": "https://open.spotify.com/track/3ZqGQV4RLtRKRs4STtiI4f"
     },
     {
       "album": {
@@ -9711,6 +9909,24 @@
     },
     {
       "album": {
+        "name": "Warm Wind",
+        "url": "https://open.spotify.com/album/5JYZKyhwrN4b9pDlnU5zI3"
+      },
+      "artists": [
+        {
+          "name": "Riven Solen",
+          "url": "https://open.spotify.com/artist/22l36qeUSwr8lef0Hn2vw8"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Warm Wind",
+      "url": "https://open.spotify.com/track/3J3Wo9Pd2SZJSEMKDaxsaR"
+    },
+    {
+      "album": {
         "name": "Two Jewels",
         "url": "https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi"
       },
@@ -9848,7 +10064,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 152508,
       "name": "Wherever We Go",
       "url": "https://open.spotify.com/track/0AFJiHFXZLXvM426b05kQA"
@@ -9920,7 +10136,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 192543,
       "name": "Wish upon a star",
       "url": "https://open.spotify.com/track/7LigtIfglRqxxoyezNRJXc"

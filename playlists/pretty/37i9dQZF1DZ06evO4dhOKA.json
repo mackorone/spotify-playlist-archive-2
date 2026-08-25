@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70821,
+  "num_followers": 70829,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAAB2OCyweYy5MB9uUw1+xIl5",
+  "snapshot_id": "aoo4AAAAAAD7ySXudY/oaNV2gci+ob9B",
   "tracks": [
     {
       "added_at": null,
@@ -77,7 +77,7 @@
         }
       ],
       "duration_ms": 196822,
-      "name": "Los Dos Amigos (En Vivo Desde El Domo Care)",
+      "name": "Los Dos Amigos - En Vivo Desde El Domo Care",
       "url": "https://open.spotify.com/track/0TulgteBidfTl6b9LfoVr0"
     },
     {
@@ -153,7 +153,7 @@
         }
       ],
       "duration_ms": 157624,
-      "name": "Aguanta Coraz\u00f3n (En Vivo Desde El Domo Care)",
+      "name": "Aguanta Coraz\u00f3n - En Vivo Desde El Domo Care",
       "url": "https://open.spotify.com/track/1ZEQbmzZqV0KIxEh15zzjQ"
     },
     {
@@ -225,7 +225,7 @@
         }
       ],
       "duration_ms": 217568,
-      "name": "Ramiro Sierra (En Vivo Desde El Domo Care)",
+      "name": "Ramiro Sierra - En Vivo Desde El Domo Care",
       "url": "https://open.spotify.com/track/4sllQRtNemwCtqBVdD2j6s"
     },
     {
@@ -297,7 +297,7 @@
         }
       ],
       "duration_ms": 206222,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n (En Vivo Desde El Domo Care)",
+      "name": "Eslab\u00f3n Por Eslab\u00f3n - En Vivo Desde El Domo Care",
       "url": "https://open.spotify.com/track/4naABEeBszR3S5X8duJby0"
     },
     {
@@ -373,7 +373,7 @@
         }
       ],
       "duration_ms": 240277,
-      "name": "Reproches Del Viento (En Vivo Desde El Domo Care)",
+      "name": "Reproches Del Viento - En Vivo Desde El Domo Care",
       "url": "https://open.spotify.com/track/6AZu9krOGsV9spLU4GkA1G"
     },
     {
@@ -445,7 +445,7 @@
         }
       ],
       "duration_ms": 229133,
-      "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
+      "name": "Coraz\u00f3n de Oro - En Vivo Desde El Domo Care",
       "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
     },
     {
@@ -513,7 +513,7 @@
         }
       ],
       "duration_ms": 174290,
-      "name": "El Rog\u00f3n (En Vivo)",
+      "name": "El Rog\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
     },
     {
@@ -597,7 +597,7 @@
         }
       ],
       "duration_ms": 235260,
-      "name": "El Rey De Mil Coronas (En Vivo)",
+      "name": "El Rey De Mil Coronas - En Vivo",
       "url": "https://open.spotify.com/track/0UkRiOu4M2iiKgl6qFRRUn"
     },
     {
@@ -681,7 +681,7 @@
         }
       ],
       "duration_ms": 204653,
-      "name": "Me Refiero A Ti (En Vivo)",
+      "name": "Me Refiero A Ti - En Vivo",
       "url": "https://open.spotify.com/track/3LXayTO1C92VZRdBz7VGxD"
     },
     {
@@ -699,22 +699,6 @@
       "duration_ms": 197626,
       "name": "Que No Se Apague La Lumbre - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
       "url": "https://open.spotify.com/track/2ZX1GZukgjEmHrh2yyWVuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 149560,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
     },
     {
       "added_at": null,
@@ -739,6 +723,38 @@
       "duration_ms": 198976,
       "name": "El Preso De Nuevo Le\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,
@@ -781,24 +797,8 @@
         }
       ],
       "duration_ms": 178938,
-      "name": "Sin Recompensa Ni Esperanza (En Vivo)",
+      "name": "Sin Recompensa Ni Esperanza - En Vivo",
       "url": "https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,
@@ -889,7 +889,7 @@
         }
       ],
       "duration_ms": 170352,
-      "name": "Sabor De Enga\u00f1o (En Vivo)",
+      "name": "Sabor De Enga\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K"
     },
     {

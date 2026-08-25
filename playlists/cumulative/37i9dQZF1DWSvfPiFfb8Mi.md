@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-452 songs - 1 day 5 hr 12 min
+453 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [phoenix](https://open.spotify.com/track/0JiS119XxHV9RfowD0GnIJ) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [phoenix](https://open.spotify.com/album/43nJVcXlrXfu540KyCab82) | 2:33 | 2023-05-26 | 2023-07-09 |
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:29 | 2023-05-19 | 2024-06-18 |
 | [Piano House](https://open.spotify.com/track/2gA7k44EociDoPIuu96bS9) | [Salary Boy](https://open.spotify.com/artist/597dcoBBKCzpVkbD3CLuG7) | [Piano House](https://open.spotify.com/album/2fFJ05NEdDY261h5pHky1K) | 5:37 | 2021-07-24 | 2023-05-20 |
+| [Pink Lemon \- Dam Swindle Remix](https://open.spotify.com/track/0zC9m8AHsI1cCAaoyrQ5Mj) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Pink Lemon \(Dam Swindle Remix\)](https://open.spotify.com/album/7dL698OAdonYzcoVyC783e) | 3:37 | 2026-08-21 |  |
 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 | 2021-07-24 | 2025-03-30 |
 | [Please Be Mine](https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [Please Be Mine](https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8) | 3:13 | 2024-06-21 |  |
 | [Pleasure, Joy & Happiness \(musclecars remix\)](https://open.spotify.com/track/32jYb2YkMBb61zV87oOofT) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG), [musclecars](https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R) | [Pleasure, Joy & Happiness \(musclecars remix\)](https://open.spotify.com/album/1xbOaDxwz4EobBWHvgzpbQ) | 9:21 | 2025-02-07 | 2026-06-22 |
@@ -444,7 +445,7 @@
 | [Whisper](https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5), [Mischief](https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX) | [Whisper](https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM) | 3:21 | 2025-07-25 |  |
 | [White Rose](https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [White Rose](https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa) | 2:27 | 2025-10-03 |  |
 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 | 2023-05-19 | 2023-07-18 |
-| [Wish I Knew You \- Poolside Remix](https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Wish I Knew You \(Poolside Remix\)](https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj) | 4:05 | 2025-06-27 |  |
+| [Wish I Knew You \- Poolside Remix](https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Wish I Knew You \(Poolside Remix\)](https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj) | 4:05 | 2025-06-27 | 2026-08-25 |
 | [Without You](https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Sacha Vee](https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8) | [Without You](https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh) | 3:47 | 2023-05-19 | 2026-05-16 |
 | [Won't Let U Down](https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Won't Let U Down](https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC) | 4:11 | 2026-05-08 | 2026-08-23 |
 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 | 2024-04-05 | 2024-09-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,046 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,040 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 69 | [Ihan kohta ohi](https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Ihan kohta ohi](https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME) | 3:05 |
 | 70 | [Näytä miten rakkautta tehdään \(feat\. Dilemma & Mesi\)](https://open.spotify.com/track/0oP4VOetjYzizuxP62g6Hk) | [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao), [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Mesi](https://open.spotify.com/artist/68zU74Eh64E8BWVSBYG8JP) | [Näytä miten rakkautta tehdään \(feat\. Dilemma & Mesi\)](https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI) | 3:05 |
 
-Snapshot ID: `AAAAAH5KUFgDgVDXkGNdoDzTaW2vKodc`
+Snapshot ID: `AAAAAFKFWFkNPVdvwd35IOPWvNfe4ebS`

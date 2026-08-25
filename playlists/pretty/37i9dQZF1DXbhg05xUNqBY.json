@@ -1,12 +1,12 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 345634,
+  "num_followers": 345625,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIF4Ium7Aoua2SmQXuu1bblpmZpk",
+  "snapshot_id": "AAAAACgyslLVWT4sboN3HiKG+voxnziR",
   "tracks": [
     {
       "added_at": "2026-07-29 15:30:21",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "The Hymns (Spotify Version)",
-        "url": "https://open.spotify.com/album/3hsmfn4WeVjTgH7A6xx3Lp"
+        "name": "Like Flowers In The Sun",
+        "url": "https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
         }
       ],
-      "duration_ms": 253337,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY"
+      "duration_ms": 238571,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Like Flowers In The Sun",
-        "url": "https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff"
+        "name": "The Hymns (Spotify Version)",
+        "url": "https://open.spotify.com/album/3hsmfn4WeVjTgH7A6xx3Lp"
       },
       "artists": [
         {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 238571,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b"
+      "duration_ms": 253337,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Surpasses My Understanding",
+        "url": "https://open.spotify.com/album/1UVa72WePqqvaA95p9cRYc"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Surpasses My Understanding",
+      "url": "https://open.spotify.com/track/2hvY21OBBw2tt7XXBTuVa3"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "O Faithful One",
         "url": "https://open.spotify.com/album/2JSCGbLM2uqkdmoHeEQqrX"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 240000,
       "name": "O Faithful One",
       "url": "https://open.spotify.com/track/2QZD1KPPOyiL3e13CeLr99"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Surpasses My Understanding",
-        "url": "https://open.spotify.com/album/1UVa72WePqqvaA95p9cRYc"
-      },
-      "artists": [
-        {
-          "name": "Rachel Morley",
-          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Surpasses My Understanding",
-      "url": "https://open.spotify.com/track/2hvY21OBBw2tt7XXBTuVa3"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Here's to the Almosts",
+        "url": "https://open.spotify.com/album/1whhv4WYV1FBw9jjelTIKV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Here's to the Almosts",
+      "url": "https://open.spotify.com/track/1sdqtL34eheja6evtbVSQk"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Show Me Your Ways",
         "url": "https://open.spotify.com/album/2JUBnWoK0UFZNbgSw4GiYd"
       },
@@ -699,38 +715,6 @@
       "duration_ms": 189293,
       "name": "Show Me Your Ways",
       "url": "https://open.spotify.com/track/34a5PARbYreEiW30MIBK0g"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Here's to the Almosts",
-        "url": "https://open.spotify.com/album/1whhv4WYV1FBw9jjelTIKV"
-      },
-      "artists": [
-        {
-          "name": "Rachel Morley",
-          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Here's to the Almosts",
-      "url": "https://open.spotify.com/track/1sdqtL34eheja6evtbVSQk"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "UNION",
-        "url": "https://open.spotify.com/album/0NNV9E7n3DiKP7bUZxXo20"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 246170,
-      "name": "UNION",
-      "url": "https://open.spotify.com/track/1hUMw4pYM4Gy5xDGC4TaNZ"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -771,22 +755,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "What God Can Do",
-        "url": "https://open.spotify.com/album/3PX78BsjrRdKlZvyGtx79f"
-      },
-      "artists": [
-        {
-          "name": "Kaye-Marie",
-          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
-        }
-      ],
-      "duration_ms": 190699,
-      "name": "What God Can Do",
-      "url": "https://open.spotify.com/track/4fVZ0WSgBvxf5lWKzxUTwG"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "All Blessing",
         "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
       },
@@ -803,18 +771,34 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "taking my time",
-        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
+        "name": "UNION",
+        "url": "https://open.spotify.com/album/0NNV9E7n3DiKP7bUZxXo20"
       },
       "artists": [
         {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
         }
       ],
-      "duration_ms": 244109,
-      "name": "taking my time",
-      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
+      "duration_ms": 246170,
+      "name": "UNION",
+      "url": "https://open.spotify.com/track/1hUMw4pYM4Gy5xDGC4TaNZ"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "What God Can Do",
+        "url": "https://open.spotify.com/album/3PX78BsjrRdKlZvyGtx79f"
+      },
+      "artists": [
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "duration_ms": 190699,
+      "name": "What God Can Do",
+      "url": "https://open.spotify.com/track/4fVZ0WSgBvxf5lWKzxUTwG"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -847,6 +831,22 @@
       "duration_ms": 196878,
       "name": "Goodbye Yesterday",
       "url": "https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "taking my time",
+        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 244109,
+      "name": "taking my time",
+      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        }
-      ],
-      "duration_ms": 186558,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Jesus, You\u2019re Enough",
         "url": "https://open.spotify.com/album/0mLZ66xcqSZribygKwuehO"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 224000,
       "name": "Jesus, You\u2019re Enough",
       "url": "https://open.spotify.com/track/3mAMyzElL4P5QQ2UTU1xAK"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 186558,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -959,26 +959,6 @@
       "duration_ms": 238099,
       "name": "God I'm Just Grateful - Acoustic",
       "url": "https://open.spotify.com/track/5l2tYwpRlOsaRiVWvfHjIQ"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "What A Friend We Have In Jesus",
-        "url": "https://open.spotify.com/album/6KipXxVnpw5PqZWdiQ36dX"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "The Getty Girls",
-          "url": "https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a"
-        }
-      ],
-      "duration_ms": 277163,
-      "name": "What A Friend We Have In Jesus",
-      "url": "https://open.spotify.com/track/0CUw2s19Q8prpLiJYsGe0i"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1023,6 +1003,26 @@
       "duration_ms": 307247,
       "name": "Trust In God - Acoustic",
       "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "What A Friend We Have In Jesus",
+        "url": "https://open.spotify.com/album/6KipXxVnpw5PqZWdiQ36dX"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "The Getty Girls",
+          "url": "https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a"
+        }
+      ],
+      "duration_ms": 277163,
+      "name": "What A Friend We Have In Jesus",
+      "url": "https://open.spotify.com/track/0CUw2s19Q8prpLiJYsGe0i"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/2Zy7pl3HNBWDc0ejgIZmP0"
+      },
+      "artists": [
+        {
+          "name": "Harvest",
+          "url": "https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV"
+        },
+        {
+          "name": "Zach Smith",
+          "url": "https://open.spotify.com/artist/47WznCgJt250fTyZV5PbRv"
+        }
+      ],
+      "duration_ms": 396363,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/7axNlttagpPr20UTVoyAny"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "The King Is Coming (Reimagined)",
         "url": "https://open.spotify.com/album/5ICnnanXjdEOP2tHzAlqkH"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 253632,
       "name": "Who You'll Always Be - Reimagined",
       "url": "https://open.spotify.com/track/37QFWIEWsLUyzPDRuUiYhX"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/2Zy7pl3HNBWDc0ejgIZmP0"
-      },
-      "artists": [
-        {
-          "name": "Harvest",
-          "url": "https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV"
-        },
-        {
-          "name": "Zach Smith",
-          "url": "https://open.spotify.com/artist/47WznCgJt250fTyZV5PbRv"
-        }
-      ],
-      "duration_ms": 396363,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/7axNlttagpPr20UTVoyAny"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Faithful (To The End)",
-        "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
-      },
-      "artists": [
-        {
-          "name": "MUCH MORE",
-          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Faithful (To The End)",
-      "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Ordinary Miracle",
         "url": "https://open.spotify.com/album/2QkrEOaBQb6PxUslSGu3Yu"
       },
@@ -1491,22 +1475,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "You Put My Mind at Ease",
-        "url": "https://open.spotify.com/album/0ZcUYUHN4M9zbvSgNIdh4i"
+        "name": "Faithful (To The End)",
+        "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
       },
       "artists": [
         {
-          "name": "Brandon Pak",
-          "url": "https://open.spotify.com/artist/1Q8jZl7si5wjHdPxNIG6Zi"
-        },
-        {
-          "name": "Ashley Hess",
-          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
         }
       ],
-      "duration_ms": 216155,
-      "name": "You Put My Mind at Ease",
-      "url": "https://open.spotify.com/track/5EjFqeH8AtSN2HGMXNXcTR"
+      "duration_ms": 190133,
+      "name": "Faithful (To The End)",
+      "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1551,6 +1531,26 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "You Put My Mind at Ease",
+        "url": "https://open.spotify.com/album/0ZcUYUHN4M9zbvSgNIdh4i"
+      },
+      "artists": [
+        {
+          "name": "Brandon Pak",
+          "url": "https://open.spotify.com/artist/1Q8jZl7si5wjHdPxNIG6Zi"
+        },
+        {
+          "name": "Ashley Hess",
+          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+        }
+      ],
+      "duration_ms": 216155,
+      "name": "You Put My Mind at Ease",
+      "url": "https://open.spotify.com/track/5EjFqeH8AtSN2HGMXNXcTR"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Second To You (Live)",
         "url": "https://open.spotify.com/album/3Q2LSJfX7RzKfa6uFiVgkM"
       },
@@ -1567,6 +1567,26 @@
       "duration_ms": 234000,
       "name": "Second To You - Live",
       "url": "https://open.spotify.com/track/1WnwI6WcScwYtxHlRT55om"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "This Is The Day (Morning Song)",
+        "url": "https://open.spotify.com/album/3i3HIVrIIYPjRPS8QN053B"
+      },
+      "artists": [
+        {
+          "name": "Callan Brown",
+          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
+        },
+        {
+          "name": "Yaz Williams",
+          "url": "https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "This Is The Day (Morning Song)",
+      "url": "https://open.spotify.com/track/0sv1feQALqnoSoEwbTSQ6C"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1603,26 +1623,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "This Is The Day (Morning Song)",
-        "url": "https://open.spotify.com/album/3i3HIVrIIYPjRPS8QN053B"
-      },
-      "artists": [
-        {
-          "name": "Callan Brown",
-          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
-        },
-        {
-          "name": "Yaz Williams",
-          "url": "https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "This Is The Day (Morning Song)",
-      "url": "https://open.spotify.com/track/0sv1feQALqnoSoEwbTSQ6C"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "can we go back?",
         "url": "https://open.spotify.com/album/5EVAsySKxqcy4FbJ2fnuDU"
       },
@@ -1639,26 +1639,6 @@
       "duration_ms": 246838,
       "name": "can we go back?",
       "url": "https://open.spotify.com/track/1sFe6QY3NKZyithQsM8p34"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "The Invitation",
-        "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        },
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 212543,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1691,6 +1671,26 @@
       "duration_ms": 243704,
       "name": "Give Me Rest",
       "url": "https://open.spotify.com/track/69KgH1V1TPLDsYmq9Eu0fn"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "The Invitation",
+        "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 212543,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "interlude",
-        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
-      },
-      "artists": [
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 322813,
-      "name": "it all belongs to You",
-      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/30fP7ylLbRJJVKIkVIBgqo"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 207999,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7wQaAiowCmh3TaTMwv2i46"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "interlude",
+        "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 322813,
+      "name": "it all belongs to You",
+      "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "In Returning and Rest",
-        "url": "https://open.spotify.com/album/749ia6qL8OJmKlQ2YgP7pl"
+        "name": "it is mine",
+        "url": "https://open.spotify.com/album/6aSR7O1rddTf7i6C2S4GP6"
       },
       "artists": [
         {
-          "name": "Doyina",
-          "url": "https://open.spotify.com/artist/73qNTHegO6mcJzMrkaZN91"
+          "name": "Morgan J",
+          "url": "https://open.spotify.com/artist/61kGREOrmdzaTsCVSkVXw1"
         }
       ],
-      "duration_ms": 176386,
-      "name": "In Returning and Rest",
-      "url": "https://open.spotify.com/track/2Xn3rQuKYB24vE05FmVrBT"
+      "duration_ms": 212565,
+      "name": "it is mine",
+      "url": "https://open.spotify.com/track/3fbGJridDDJ9iJC6mjRSrD"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "it is mine",
-        "url": "https://open.spotify.com/album/6aSR7O1rddTf7i6C2S4GP6"
+        "name": "In Returning and Rest",
+        "url": "https://open.spotify.com/album/749ia6qL8OJmKlQ2YgP7pl"
       },
       "artists": [
         {
-          "name": "Morgan J",
-          "url": "https://open.spotify.com/artist/61kGREOrmdzaTsCVSkVXw1"
+          "name": "Doyina",
+          "url": "https://open.spotify.com/artist/73qNTHegO6mcJzMrkaZN91"
         }
       ],
-      "duration_ms": 212565,
-      "name": "it is mine",
-      "url": "https://open.spotify.com/track/3fbGJridDDJ9iJC6mjRSrD"
+      "duration_ms": 176386,
+      "name": "In Returning and Rest",
+      "url": "https://open.spotify.com/track/2Xn3rQuKYB24vE05FmVrBT"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1887,6 +1887,22 @@
       "duration_ms": 200000,
       "name": "Nothing Can Change Your Mind",
       "url": "https://open.spotify.com/track/140DfC12u1IlCu3JIvjNmo"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Who Else (Acoustic Worship)",
+        "url": "https://open.spotify.com/album/5AIOqbo6WaxiDnt8lT9XAO"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 243529,
+      "name": "Who Else - Acoustic Worship",
+      "url": "https://open.spotify.com/track/4bh7WRedFebCSJOxyIqgKU"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1935,22 +1951,6 @@
       "duration_ms": 239750,
       "name": "human",
       "url": "https://open.spotify.com/track/7IsRX80drqVO7TPdNHTUnI"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Who Else (Acoustic Worship)",
-        "url": "https://open.spotify.com/album/5AIOqbo6WaxiDnt8lT9XAO"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 243529,
-      "name": "Who Else - Acoustic Worship",
-      "url": "https://open.spotify.com/track/4bh7WRedFebCSJOxyIqgKU"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Voice So Precious",
+        "url": "https://open.spotify.com/album/7iCHAP9zG7WMiuF6WFXdzD"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "duration_ms": 308269,
+      "name": "Voice So Precious",
+      "url": "https://open.spotify.com/track/5NxUJEBbB0sMvpgzEsq3b2"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Anything, Everything",
         "url": "https://open.spotify.com/album/61TiNOuCHGDJ2s7wVkDhW7"
       },
@@ -2159,18 +2175,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Voice So Precious",
-        "url": "https://open.spotify.com/album/7iCHAP9zG7WMiuF6WFXdzD"
+        "name": "Who Is Greatest?",
+        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
       },
       "artists": [
         {
-          "name": "Victory House Worship",
-          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 308269,
-      "name": "Voice So Precious",
-      "url": "https://open.spotify.com/track/5NxUJEBbB0sMvpgzEsq3b2"
+      "duration_ms": 214046,
+      "name": "Who Is Greatest?",
+      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2191,22 +2207,6 @@
       "duration_ms": 274657,
       "name": "Wonderful, Wonderful Lord (Ps 139)",
       "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Who Is Greatest?",
-        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 214046,
-      "name": "Who Is Greatest?",
-      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2295,6 +2295,26 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/4J1fNs6tW4c8pAulsasoAK"
+      },
+      "artists": [
+        {
+          "name": "eightFour",
+          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
+        },
+        {
+          "name": "Calah Mikal",
+          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
+        }
+      ],
+      "duration_ms": 176672,
+      "name": "444",
+      "url": "https://open.spotify.com/track/13guW1X33I82iJyez9u2OS"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Every Day I Love You",
         "url": "https://open.spotify.com/album/2gQLhZ5ML6OQO8ZZmABpU9"
       },
@@ -2323,26 +2343,6 @@
       "duration_ms": 291590,
       "name": "Where the Warfare Ends",
       "url": "https://open.spotify.com/track/76uuVO1zARyQedDmhJJfdw"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/4J1fNs6tW4c8pAulsasoAK"
-      },
-      "artists": [
-        {
-          "name": "eightFour",
-          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
-        },
-        {
-          "name": "Calah Mikal",
-          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
-        }
-      ],
-      "duration_ms": 176672,
-      "name": "444",
-      "url": "https://open.spotify.com/track/13guW1X33I82iJyez9u2OS"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "How Long?",
-        "url": "https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "How Long?",
-      "url": "https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Faithfulness & Kem Di Hallelujah",
         "url": "https://open.spotify.com/album/3QMYzQvw4pFbV3H5ZUJgw8"
       },
@@ -2419,6 +2403,38 @@
       "duration_ms": 262631,
       "name": "Faithfulness",
       "url": "https://open.spotify.com/track/672qx8wmGouDn56vewnHQn"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "How Long?",
+        "url": "https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "How Long?",
+      "url": "https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "The Mire is Where Grace Abounds",
+        "url": "https://open.spotify.com/album/1I0gK1uCdNtg0pF4aZ4L9f"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "The Mire is Where Grace Abounds",
+      "url": "https://open.spotify.com/track/28teLHHWDvP7PtUORZH6Nq"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2443,22 +2459,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "The Mire is Where Grace Abounds",
-        "url": "https://open.spotify.com/album/1I0gK1uCdNtg0pF4aZ4L9f"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "The Mire is Where Grace Abounds",
-      "url": "https://open.spotify.com/track/28teLHHWDvP7PtUORZH6Nq"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Forever Communion",
         "url": "https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc"
       },
@@ -2471,6 +2471,22 @@
       "duration_ms": 206479,
       "name": "Friend",
       "url": "https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "The Way of Love",
+        "url": "https://open.spotify.com/album/27B6xYGSZ31DjV0XXqeerp"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "The Way of Love",
+      "url": "https://open.spotify.com/track/7dPy7qLhDbkwqsStowDcFq"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2503,22 +2519,6 @@
       "duration_ms": 266815,
       "name": "Cutting Through",
       "url": "https://open.spotify.com/track/3VLyEMI7b12KZFbaMa36YK"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "The Way of Love",
-        "url": "https://open.spotify.com/album/27B6xYGSZ31DjV0XXqeerp"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "The Way of Love",
-      "url": "https://open.spotify.com/track/7dPy7qLhDbkwqsStowDcFq"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/6bSiBldgPvMUW3eWccHInZ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Osenga",
-          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/1RSaA73u5CNtp6x0krraBg"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Easily",
         "url": "https://open.spotify.com/album/58mtJv5vFcgS0NAoPAzAsj"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 227499,
       "name": "Easily",
       "url": "https://open.spotify.com/track/3LVrJBgiKuB7g8g65rg7ny"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/6bSiBldgPvMUW3eWccHInZ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Osenga",
+          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
+        }
+      ],
+      "duration_ms": 338218,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/1RSaA73u5CNtp6x0krraBg"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/3LhAXUSZFq04JsilQy2DeK"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Adelle",
-          "url": "https://open.spotify.com/artist/0vcKygkWT9xuezIG3mSUTy"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/6XUJFuejnO8eUFGSIRnmzW"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "I Choose To Love You",
         "url": "https://open.spotify.com/album/4C97zmMaKdNck3UTXCp5Qs"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 344723,
       "name": "I Choose To Love You",
       "url": "https://open.spotify.com/track/4knNeg5weV8C94KyOTepV5"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/3LhAXUSZFq04JsilQy2DeK"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Adelle",
+          "url": "https://open.spotify.com/artist/0vcKygkWT9xuezIG3mSUTy"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/6XUJFuejnO8eUFGSIRnmzW"
     },
     {
       "added_at": "2026-07-29 15:30:21",

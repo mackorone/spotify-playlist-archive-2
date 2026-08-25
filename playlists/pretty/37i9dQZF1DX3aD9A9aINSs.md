@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Tuğçe Şenoğul
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,752 likes - 88 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,743 likes - 88 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 87 | [Kiracı](https://open.spotify.com/track/7DXyfVhx17Q0YBVOoGDV7R) | [Karya Sezener](https://open.spotify.com/artist/1fw0LMod61UcxWpZnluuxF) | [Kiracı](https://open.spotify.com/album/5eOx0PqeQyIx9abnIb6uvJ) | 3:14 |
 | 88 | [Dön Gel](https://open.spotify.com/track/2LhaHv5L2v9EhDXp3E2pdf) | [Güneş Turhan](https://open.spotify.com/artist/7pYE5FyfLHe4TpzUXzJjeC) | [Dön Gel](https://open.spotify.com/album/2mnazLiuZZTjsx66yglk3M) | 3:53 |
 
-Snapshot ID: `AAAAABQ+qk2ve+0ANYj6mptQPzUiXEjg`
+Snapshot ID: `AAAAAA0x0ZQXAWGulNQEBFMKUj1Sl3Vv`

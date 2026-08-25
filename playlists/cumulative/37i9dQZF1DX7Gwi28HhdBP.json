@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "El Kadabeen",
+        "url": "https://open.spotify.com/album/4OigHhRweszfmuIZaDUR2C"
+      },
+      "artists": [
+        {
+          "name": "Rahal",
+          "url": "https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193636,
+      "name": "El Kadabeen",
+      "url": "https://open.spotify.com/track/4Gy1HXrhp85rOPamZarmb7"
+    },
+    {
+      "album": {
         "name": "El Kbeer",
         "url": "https://open.spotify.com/album/4bRnoL59VL8hFZfwIJohSE"
       },
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 203181,
       "name": "Hakmel El Meshwar",
       "url": "https://open.spotify.com/track/0o2IOLDECPs7wSZjcGiHnr"
@@ -2856,6 +2874,24 @@
       "duration_ms": 243750,
       "name": "Ya Dmaghy",
       "url": "https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY"
+    },
+    {
+      "album": {
+        "name": "Ya Hawa",
+        "url": "https://open.spotify.com/album/3q4HEHv14teWqfmtsADIzz"
+      },
+      "artists": [
+        {
+          "name": "Reda El Bahrawy",
+          "url": "https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193338,
+      "name": "Ya Hawa",
+      "url": "https://open.spotify.com/track/6sBJDOvGGVOnbFlgPINuXU"
     },
     {
       "album": {
@@ -5302,7 +5338,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 241270,
       "name": "\u0643\u0641 \u0648\u0631\u0627 \u0643\u0641",
       "url": "https://open.spotify.com/track/2wDzXgeDbWOxWUdVXMR0j2"

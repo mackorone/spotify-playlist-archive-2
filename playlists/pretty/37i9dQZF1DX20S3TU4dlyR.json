@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 76405,
+  "num_followers": 76410,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIzqC9tUDZARW8ERbE0YVXqiDiLT",
+  "snapshot_id": "AAAAABHEGAjwg6gXRUuqcptvR3UJIiWI",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:11",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
+        "name": "Ra\u00edces Muy Fuertes",
+        "url": "https://open.spotify.com/album/4J2QQWQVgQqnynklIPx3Yq"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 256937,
+      "name": "Se parece mas a ti",
+      "url": "https://open.spotify.com/track/6FjqJmoZSPmH1wc27b3lV1"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
         "name": "Llamado",
         "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "Ra\u00edces Muy Fuertes",
-        "url": "https://open.spotify.com/album/4J2QQWQVgQqnynklIPx3Yq"
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
       },
       "artists": [
         {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 256937,
-      "name": "Se parece mas a ti",
-      "url": "https://open.spotify.com/track/6FjqJmoZSPmH1wc27b3lV1"
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -739,22 +755,6 @@
       "duration_ms": 189485,
       "name": "Vamos Tu y Yo",
       "url": "https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
         "name": "Tippy I Meets Nonpalidece \u2022 Hecho en Jamaica DuB (feat. Tippy I-Grade)",
         "url": "https://open.spotify.com/album/53qaELz2GflEOBS2PUxcPs"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 280839,
       "name": "Revoluci\u00f3n DuB (feat. Tippy I-Grade, Micah Shemaiah & Sly Dunbar)",
       "url": "https://open.spotify.com/track/4jMKxILEpy6gf0SD3Xzsts"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "Vuela Alto",
-        "url": "https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Vuela Alto",
-      "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
         "name": "One Drop",
         "url": "https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 238062,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "Vuela Alto",
+        "url": "https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Vuela Alto",
+      "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
     },
     {
       "added_at": "2026-07-31 03:00:11",

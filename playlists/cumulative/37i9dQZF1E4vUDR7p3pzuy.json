@@ -948,7 +948,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 262000,
       "name": "Ancestral Cry",
       "url": "https://open.spotify.com/track/5wOv3JGrgCa9aPFe8iIHlK"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "bitter farewell",
       "url": "https://open.spotify.com/track/5TVfdngL5Ch8LNbCedvQ0E"
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Breaking Out",
       "url": "https://open.spotify.com/track/4upw5Hwlgyf9H9n2isNEEA"
@@ -2512,6 +2512,28 @@
       "duration_ms": 202821,
       "name": "BURN",
       "url": "https://open.spotify.com/track/6RNkZxvFm4GTfmlW6gfd4x"
+    },
+    {
+      "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/53UVvcrXm3NUbqvtODQ3WT"
+      },
+      "artists": [
+        {
+          "name": "Ki:Theory",
+          "url": "https://open.spotify.com/artist/1mB4aweE1XGdjbFVFC8i5m"
+        },
+        {
+          "name": "DOMINEAUX",
+          "url": "https://open.spotify.com/artist/3n6rEIsXaZUnbAGpA4H3sE"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208166,
+      "name": "Burn Till You Black Out",
+      "url": "https://open.spotify.com/track/598cjxu4LqDdxSJYyb7h4F"
     },
     {
       "album": {
@@ -2964,7 +2986,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Change",
       "url": "https://open.spotify.com/track/4pvqJlnqVunyIf9OqIlG4M"
@@ -3300,7 +3322,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 250020,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3TNsZk954Y1ngBBk1fwitt"
@@ -3690,6 +3712,24 @@
       "duration_ms": 232000,
       "name": "Control the Universe - Definitive Mix",
       "url": "https://open.spotify.com/track/6QI293azblF4fJb9A9JwXo"
+    },
+    {
+      "album": {
+        "name": "Cool people",
+        "url": "https://open.spotify.com/album/3zozuB3yxpbAid1RDhTngr"
+      },
+      "artists": [
+        {
+          "name": "mikiwho",
+          "url": "https://open.spotify.com/artist/1XigASg9MGrRDy1xNu7qS4"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147540,
+      "name": "Cool people",
+      "url": "https://open.spotify.com/track/4YXoXdHe0GChXqNNZqnL3c"
     },
     {
       "album": {
@@ -6420,7 +6460,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 167183,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7KkWtURkvseL9N7mpXLeFT"
@@ -8632,7 +8672,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 179292,
       "name": "I Will Run",
       "url": "https://open.spotify.com/track/2mhcWtEf6pDXm5TNo1llKH"
@@ -9912,7 +9952,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 246761,
       "name": "Kiss (Me)",
       "url": "https://open.spotify.com/track/3OKtkqTikliFqEHjs9hMF1"
@@ -10601,6 +10641,24 @@
     },
     {
       "album": {
+        "name": "Lips Unkissed",
+        "url": "https://open.spotify.com/album/3vZoIuloZnhCc65OJiYws2"
+      },
+      "artists": [
+        {
+          "name": "Another Abyss",
+          "url": "https://open.spotify.com/artist/22SzuMMOo5Yi1NykXUSQzA"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250263,
+      "name": "Lips Unkissed",
+      "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
+    },
+    {
+      "album": {
         "name": "So, this is a thing?",
         "url": "https://open.spotify.com/album/1XTwlXVCPusLV0D0n5KBxS"
       },
@@ -10778,6 +10836,24 @@
       "duration_ms": 197555,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/0OW9VBWdWaW5JTxtU1pgC9"
+    },
+    {
+      "album": {
+        "name": "Lost in you",
+        "url": "https://open.spotify.com/album/0fYyBWqir7U2qHumwq0zzF"
+      },
+      "artists": [
+        {
+          "name": "Me & Melancholy",
+          "url": "https://open.spotify.com/artist/6ZZZwGgM356RFi7YH7uSOs"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lost in you",
+      "url": "https://open.spotify.com/track/71qWqk3oJK9bUH2WGDy0At"
     },
     {
       "album": {
@@ -11464,7 +11540,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 197811,
       "name": "MINOTAUR",
       "url": "https://open.spotify.com/track/47My6EV8qNkxAqYDe1HsxQ"
@@ -11850,7 +11926,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 183524,
       "name": "My Eyes",
       "url": "https://open.spotify.com/track/6zockqopBFey2GojwAb3Kt"
@@ -13938,7 +14014,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 257678,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/2jFA4wH9BKIIvz1B10zixk"
@@ -14764,7 +14840,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
@@ -16352,7 +16428,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 208793,
       "name": "Street",
       "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
@@ -16804,7 +16880,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Takin' Out The Trash",
       "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
@@ -19552,7 +19628,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -20416,7 +20492,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
@@ -20960,7 +21036,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 232727,
       "name": "Your Blood",
       "url": "https://open.spotify.com/track/6akKRWsHi55Qxd9SPLQMSm"
@@ -21014,7 +21090,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 248647,
       "name": "Your Heart In The Serpent's Mouth",
       "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"

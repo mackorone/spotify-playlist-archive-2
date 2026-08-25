@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Rap & Hip Hop today\.  Cover: Canon
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,246 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,261 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CLEAN](https://open.spotify.com/track/5JG9VY0x8c6IzbkzKXb1xp) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [CLEAN](https://open.spotify.com/album/4OgGS765Eor1GUQUH0cEVH) | 2:16 |
+| 1 | [Clean](https://open.spotify.com/track/5JG9VY0x8c6IzbkzKXb1xp) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [Clean](https://open.spotify.com/album/4OgGS765Eor1GUQUH0cEVH) | 2:16 |
 | 2 | [Don't Rob That Man](https://open.spotify.com/track/4UXe3gT5cmd8otr2pSeL6O) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Don't Rob That Man](https://open.spotify.com/album/6XA9clEkBvuBrfXnLaLef5) | 2:21 |
 | 3 | [Spin It](https://open.spotify.com/track/7htAALx5r7yclVr3u5JhXx) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Loose Canon, Vol\. 4](https://open.spotify.com/album/6OkZLiR0MBkYS8qaFNUIRc) | 1:50 |
 | 4 | [Checking In](https://open.spotify.com/track/50MW24b6EAvpY1f8sdp8lt) | [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Checking In](https://open.spotify.com/album/0dp2ECJa0bhJQ884rPHlgv) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 74 | [REVIVAL!](https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [REVIVAL!](https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR) | 3:04 |
 | 75 | [NOBODY BUT GOD \(feat\. Jon Keith\)](https://open.spotify.com/track/0PgnIPWS1eQh1SbneVtFDB) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [NOBODY BUT GOD \(feat\. Jon Keith\)](https://open.spotify.com/album/73L8hD7WvFt2wqzvbxvyh5) | 2:38 |
 
-Snapshot ID: `AAAAACVqf5y8AB7OSivzxAQv0fRqCIMo`
+Snapshot ID: `AAAAAJKNaYQpdjLnCTTvdAw0M4oGIxeC`

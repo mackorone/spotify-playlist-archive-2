@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from STELLA LEFTY, Sam Smith, Cleo Sol, Anuel AA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,618,513 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,618,233 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Dystopian Cemetery](https://open.spotify.com/track/07ajsPPcaQIS6fjF1md3ao) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Dystopian Cemetery](https://open.spotify.com/album/38oiY96BAkseRfcI6UG4Y5) | 3:47 |
 | 100 | [WANNABE](https://open.spotify.com/track/59ZtFO8uChtboZ5bQvfaqF) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [Wear & Tear](https://open.spotify.com/album/5gnyVjuKWSqMcSkjItty9x) | 3:32 |
 
-Snapshot ID: `AAAAAEfQa+yJpXsRYJk4kHncECd8308T`
+Snapshot ID: `AAAAAFKhQsLLx40Mg+DBZx/C8dQVQZo8`

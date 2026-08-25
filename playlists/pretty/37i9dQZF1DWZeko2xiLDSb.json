@@ -1,12 +1,12 @@
 {
   "description": "soundtrack long, dark days with warm favourites",
-  "num_followers": 24879,
+  "num_followers": 24878,
   "original_name": "midwinter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP/248kfQq/0m0Vd+QD8Y121dxqQ",
+  "snapshot_id": "AAAAAG1HmaRndJGdG4+fH8Eqh25QbbNq",
   "tracks": [
     {
       "added_at": "2025-01-31 05:00:45",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-01-31 05:00:45",
       "album": {
+        "name": "BEFORE LOVE CAME TO KILL US",
+        "url": "https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "LOVE IN THE DARK",
+      "url": "https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P"
+    },
+    {
+      "added_at": "2025-01-31 05:00:45",
+      "album": {
         "name": "Kissin' In The Cold",
         "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 224083,
       "name": "Kissin' In The Cold",
       "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
-    },
-    {
-      "added_at": "2025-01-31 05:00:45",
-      "album": {
-        "name": "BEFORE LOVE CAME TO KILL US",
-        "url": "https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "LOVE IN THE DARK",
-      "url": "https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P"
     },
     {
       "added_at": "2025-01-31 05:00:45",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2025-01-31 05:00:45",
       "album": {
-        "name": "Good Stuff",
-        "url": "https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu"
+        "name": "Semblance",
+        "url": "https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i"
       },
       "artists": [
         {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
         }
       ],
-      "duration_ms": 183320,
-      "name": "Good Stuff",
-      "url": "https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt"
+      "duration_ms": 149524,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/3XlKF7jaEQhVc3FcmN6ao1"
     }
   ],
   "unique_name": "midwinter",

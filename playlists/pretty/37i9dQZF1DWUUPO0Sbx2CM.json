@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 238204,
+  "num_followers": 238224,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ3Bd5KYRYAfXvvhgcz4sKMHsZw6",
+  "snapshot_id": "AAAAAEMiJL6/7F5dXuLcLJkPhXtz3K3Q",
   "tracks": [
     {
       "added_at": "2026-08-18 23:12:48",
@@ -387,26 +387,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Like Water",
-        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
+        "name": "Covenant",
+        "url": "https://open.spotify.com/album/6GiboQ1HJHj05vBdjrcmuk"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "BOUE",
+          "url": "https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH"
         },
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/3EkrjQH6KyUDl0weOryOiq"
         }
       ],
-      "duration_ms": 161219,
-      "name": "Like Water",
-      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
+      "duration_ms": 162500,
+      "name": "Covenant",
+      "url": "https://open.spotify.com/track/1ygx5QNNXt5IYhnwy7xuH0"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -431,22 +427,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Covenant",
-        "url": "https://open.spotify.com/album/6GiboQ1HJHj05vBdjrcmuk"
+        "name": "Like Water",
+        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
       "artists": [
         {
-          "name": "BOUE",
-          "url": "https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Praise Lubangu",
-          "url": "https://open.spotify.com/artist/3EkrjQH6KyUDl0weOryOiq"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Covenant",
-      "url": "https://open.spotify.com/track/1ygx5QNNXt5IYhnwy7xuH0"
+      "duration_ms": 161219,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "I Met God On The Dancefloor",
-        "url": "https://open.spotify.com/album/3sp31h8RBw3LJ2MdKh5Ytv"
-      },
-      "artists": [
-        {
-          "name": "Rave Jesus",
-          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "I Met God On The Dancefloor",
-      "url": "https://open.spotify.com/track/6efBvFtOLRvksaFMaWpfC7"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Who You Say I Am (Reyer & Retain Remix)",
         "url": "https://open.spotify.com/album/22dmQnkbUY20t4qas1MSju"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 203772,
       "name": "Who You Say I Am - Reyer & Retain Remix",
       "url": "https://open.spotify.com/track/3MEsc8g0qmBEFIWTtXEFBG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "I Met God On The Dancefloor",
+        "url": "https://open.spotify.com/album/3sp31h8RBw3LJ2MdKh5Ytv"
+      },
+      "artists": [
+        {
+          "name": "Rave Jesus",
+          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "I Met God On The Dancefloor",
+      "url": "https://open.spotify.com/track/6efBvFtOLRvksaFMaWpfC7"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1019,26 +1019,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Back to the Street (L-Side Remix)",
-        "url": "https://open.spotify.com/album/3a9iYbjoFnIphHFNXkEP73"
+        "name": "YOU'RE THE ONE",
+        "url": "https://open.spotify.com/album/552cwuE5jhgdhCxMU6dHNt"
       },
       "artists": [
         {
-          "name": "BCee",
-          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
-        },
-        {
-          "name": "Philippa Hanna",
-          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
-        },
-        {
-          "name": "L-Side",
-          "url": "https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR"
+          "name": "CHRISPY",
+          "url": "https://open.spotify.com/artist/0Nc3YshM5QAM1odnqvE56i"
         }
       ],
-      "duration_ms": 227789,
-      "name": "Back to the Street - L-Side Remix",
-      "url": "https://open.spotify.com/track/2L4qwSWLUjkBiCsoWUYuU1"
+      "duration_ms": 185238,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/6uL2UOksn62dBiQQ8gZdBA"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1059,18 +1051,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "YOU'RE THE ONE",
-        "url": "https://open.spotify.com/album/552cwuE5jhgdhCxMU6dHNt"
+        "name": "Back to the Street (L-Side Remix)",
+        "url": "https://open.spotify.com/album/3a9iYbjoFnIphHFNXkEP73"
       },
       "artists": [
         {
-          "name": "CHRISPY",
-          "url": "https://open.spotify.com/artist/0Nc3YshM5QAM1odnqvE56i"
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        },
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        },
+        {
+          "name": "L-Side",
+          "url": "https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR"
         }
       ],
-      "duration_ms": 185238,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/6uL2UOksn62dBiQQ8gZdBA"
+      "duration_ms": 227789,
+      "name": "Back to the Street - L-Side Remix",
+      "url": "https://open.spotify.com/track/2L4qwSWLUjkBiCsoWUYuU1"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "My Prayer (Micky More & Andy Tee Mixes)",
         "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 228694,
       "name": "My Prayer - Micky More & Andy Tee Classic Edit",
       "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
-      },
-      "artists": [
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 293916,
+      "name": "Love Is All I Know",
+      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 149032,
       "name": "Church",
       "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 293916,
-      "name": "Love Is All I Know",
-      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
+      },
+      "artists": [
+        {
+          "name": "Kislaw",
+          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Beacon of Hope",
         "url": "https://open.spotify.com/album/4vkjpKb2VJsAmHwboaCP6K"
       },
@@ -1543,6 +1559,42 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
+      },
+      "artists": [
+        {
+          "name": "Civilized Creature",
+          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 178764,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Manna (Vitor Maia Remix)",
+        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
+      },
+      "artists": [
+        {
+          "name": "URBAN YOUTH WORSHIP",
+          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Manna - Vitor Maia Remix",
+      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "My Sweet Heaven (feat. Stealth)",
         "url": "https://open.spotify.com/album/70iRS7awE2Q5iQgY8wDzcB"
       },
@@ -1583,22 +1635,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
-      },
-      "artists": [
-        {
-          "name": "Kislaw",
-          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/7oPpTdBDuRZl3zgJsCFRDj"
       },
@@ -1615,38 +1651,30 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Manna (Vitor Maia Remix)",
-        "url": "https://open.spotify.com/album/0ZxexyeUO63s5K36sFLpfT"
+        "name": "Church Doors",
+        "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
       },
       "artists": [
         {
-          "name": "URBAN YOUTH WORSHIP",
-          "url": "https://open.spotify.com/artist/62IHdCijCn8dCCYtMPP17u"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Manna - Vitor Maia Remix",
-      "url": "https://open.spotify.com/track/3fuK4Qx3dDzJvDEsWHTOPs"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
-      },
-      "artists": [
-        {
-          "name": "Civilized Creature",
-          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         },
         {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        },
+        {
+          "name": "Sir the Baptist",
+          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
+        },
+        {
+          "name": "Donald Lawrence",
+          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
         }
       ],
-      "duration_ms": 178764,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
+      "duration_ms": 416093,
+      "name": "Church Doors (feat. J. Ivy, Sir The Baptist & Donald Lawrence) - Terry Hunter Extended Remix",
+      "url": "https://open.spotify.com/track/0XsjihhJ7aVZ2QUF6srogi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1711,34 +1739,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Church Doors",
-        "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        },
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        },
-        {
-          "name": "Sir the Baptist",
-          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
-        },
-        {
-          "name": "Donald Lawrence",
-          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
-        }
-      ],
-      "duration_ms": 416093,
-      "name": "Church Doors (feat. J. Ivy, Sir The Baptist & Donald Lawrence) - Terry Hunter Extended Remix",
-      "url": "https://open.spotify.com/track/0XsjihhJ7aVZ2QUF6srogi"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "He's Alright (David Penn Edit)",
         "url": "https://open.spotify.com/album/3XChj0aXEjhj2ZFmZ3eBmq"
       },
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Lie To You",
-        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
-      },
-      "artists": [
-        {
-          "name": "Alphein",
-          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Lie To You",
-      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
       },
@@ -1807,6 +1791,38 @@
       "duration_ms": 171467,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6RUgbYZv69Kd28d5UO76pK"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Lie To You",
+        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
+      },
+      "artists": [
+        {
+          "name": "Alphein",
+          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Lie To You",
+      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1847,18 +1863,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
+        "name": "GRACE OF GOD",
+        "url": "https://open.spotify.com/album/49ckozfEQnoxWzqcYvZMKc"
       },
       "artists": [
         {
-          "name": "Petrina DeLacey",
-          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+          "name": "Hkmk",
+          "url": "https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg"
+        },
+        {
+          "name": "GOSPEL DRILL",
+          "url": "https://open.spotify.com/artist/6yAw8fwJ63yyaCQMBz3W8n"
+        },
+        {
+          "name": "LOGDRUM.MP3",
+          "url": "https://open.spotify.com/artist/5210wpbS1RfkGrYyylRTgj"
         }
       ],
-      "duration_ms": 174240,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
+      "duration_ms": 164000,
+      "name": "GRACE OF GOD - GOSPEL AMAPIANO",
+      "url": "https://open.spotify.com/track/6wWkqH634OUM6Hm2bwDtli"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1895,46 +1919,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Better Off (Ok Evan Remix)",
-        "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
-      },
-      "artists": [
-        {
-          "name": "Rachel Jane",
-          "url": "https://open.spotify.com/artist/42LKoMQUXBn37kdDeXarFJ"
-        },
-        {
-          "name": "Ok Evan",
-          "url": "https://open.spotify.com/artist/5iJUXaFSPL6usNmx30GNuP"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Better Off (Ok Evan Remix)",
-      "url": "https://open.spotify.com/track/1ybhxQzinBAIKAVKMeLDUG"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Music Comes from God",
-        "url": "https://open.spotify.com/album/1QU3tPc4vf6l21ylcrGuNG"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "R. Gallery",
-          "url": "https://open.spotify.com/artist/3YEHk7kkh4J4o6ICOU9a2g"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Music Comes from God",
-      "url": "https://open.spotify.com/track/2V5cKqjFASygj6yIFdW4eP"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Fire Fall (Paris Jones Remix)",
         "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
       },
@@ -1955,42 +1939,58 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Building \"What are you waiting on?\"",
-        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
+        "name": "Better Off (Ok Evan Remix)",
+        "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
       },
       "artists": [
         {
-          "name": "Erica Reed",
-          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
+          "name": "Rachel Jane",
+          "url": "https://open.spotify.com/artist/42LKoMQUXBn37kdDeXarFJ"
+        },
+        {
+          "name": "Ok Evan",
+          "url": "https://open.spotify.com/artist/5iJUXaFSPL6usNmx30GNuP"
         }
       ],
-      "duration_ms": 231435,
-      "name": "Building \"What are you waiting on?\"",
-      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
+      "duration_ms": 174720,
+      "name": "Better Off (Ok Evan Remix)",
+      "url": "https://open.spotify.com/track/1ybhxQzinBAIKAVKMeLDUG"
     },
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Joy (Hallelujah)",
-        "url": "https://open.spotify.com/album/023cE7Nn2g6cx5ZDXXFxuz"
+        "name": "Floating (okay.benny Remix)",
+        "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
       },
       "artists": [
         {
-          "name": "Marley Marl",
-          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
         },
         {
-          "name": "Lady Alma",
-          "url": "https://open.spotify.com/artist/61DvlgEM6AtszTLLPP4diu"
-        },
-        {
-          "name": "Kenny Bobien",
-          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+          "name": "okay.benny",
+          "url": "https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x"
         }
       ],
-      "duration_ms": 343666,
-      "name": "Joy (Hallelujah) Extended - Extended Version",
-      "url": "https://open.spotify.com/track/525FyfifOZtwPiXxhfTOFT"
+      "duration_ms": 155520,
+      "name": "Floating - okay.benny Remix",
+      "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "You Ain't",
+        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "You Ain't",
+      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
     }
   ],
   "unique_name": "Christian Dance",

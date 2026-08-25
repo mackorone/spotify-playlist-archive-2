@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,058 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,034 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 79 | [Dis\-le](https://open.spotify.com/track/58H3IsZi2NemGRCttisETY) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Dis\-le](https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF) | 4:07 |
 | 80 | [HEAVENS \#1](https://open.spotify.com/track/0nl8sLJ9FywNZu1hJSIYtT) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [HEAVENS \#1](https://open.spotify.com/album/7GerVx0fR4fOHh3aITnOSm) | 2:54 |
 
-Snapshot ID: `AAAAAFXGCU9ZPciVdLDRNEMqaZvgQnM/`
+Snapshot ID: `AAAAALROtnXu/5bl+X/sBs0uvvMk2eyT`

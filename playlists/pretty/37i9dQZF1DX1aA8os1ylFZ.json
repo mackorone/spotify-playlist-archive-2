@@ -1,12 +1,12 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 292400,
+  "num_followers": 292377,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3x4lY7VOqm1ZyfufBglgaK+Boo",
+  "snapshot_id": "AAAAANVkHBvO716FYOH9lukt34Gim6Xg",
   "tracks": [
     {
       "added_at": "2026-06-10 11:59:44",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "TABOO",
-        "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 165558,
-      "name": "TABOO",
-      "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "do what i say",
         "url": "https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 188562,
       "name": "do what i say",
       "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "TABOO",
+        "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 165558,
+      "name": "TABOO",
+      "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "A Mile In My Mind",
         "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 167195,
       "name": "A Mile In My Mind",
       "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9"
+      },
+      "artists": [
+        {
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 232114,
       "name": "Physical (feat.Tink)",
       "url": "https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "From A Distance",
-        "url": "https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG"
-      },
-      "artists": [
-        {
-          "name": "Luna Mae",
-          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
-        }
-      ],
-      "duration_ms": 183463,
-      "name": "From A Distance",
-      "url": "https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Club",
         "url": "https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 159512,
       "name": "Club",
       "url": "https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "From A Distance",
+        "url": "https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG"
+      },
+      "artists": [
+        {
+          "name": "Luna Mae",
+          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
+        }
+      ],
+      "duration_ms": 183463,
+      "name": "From A Distance",
+      "url": "https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe"
     },
     {
       "added_at": "2026-06-10 11:59:44",

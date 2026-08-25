@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 39224,
+  "num_followers": 39231,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAABS8o2L8xL0apQzfjaLFVYs",
+  "snapshot_id": "aoo4AAAAAAAtW9T9kOVIuArF582DRFe2",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 237465,
-      "name": "Behind the Clock",
-      "url": "https://open.spotify.com/track/1ivG7dgrhWN5I1oavQaIMF"
+      "duration_ms": 148580,
+      "name": "VOIDWARD, I BEND BACK",
+      "url": "https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 148580,
-      "name": "VOIDWARD, I BEND BACK",
-      "url": "https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL"
+      "duration_ms": 237465,
+      "name": "Behind the Clock",
+      "url": "https://open.spotify.com/track/1ivG7dgrhWN5I1oavQaIMF"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 815989,
+  "num_followers": 816230,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHU7ktqcL1AxVA03qgj1sLqtgNox",
+  "snapshot_id": "AAAAAIY0v+Hq6TO6FcFpnWKwcpDtMyul",
   "tracks": [
     {
       "added_at": "2024-07-23 09:55:55",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Fitness Beats 2013",
-        "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
-      },
-      "artists": [
-        {
-          "name": "William Orbit",
-          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 220565,
-      "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
-      "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Trance Top 1000 - The Best Of",
         "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 211333,
       "name": "Seven Cities - Solarstone's Atlantis Mix",
       "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Fitness Beats 2013",
+        "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
+      },
+      "artists": [
+        {
+          "name": "William Orbit",
+          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
+      "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
     },
     {
       "added_at": "2024-07-23 09:55:55",

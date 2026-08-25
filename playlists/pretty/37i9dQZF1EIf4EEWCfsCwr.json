@@ -1,12 +1,12 @@
 {
-  "description": "Feel Good Rainy Day music for you. Also try <a href=\"spotify:playlist:37i9dQZF1EIeWlaZZqeNe1\">mollywood</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNtCkV7QswW\">malayalam pop</a>, <a href=\"spotify:playlist:37i9dQZF1EQqkOPvHGajmW\">indie</a>, <a href=\"spotify:playlist:37i9dQZF1EIhia6L7054jp\">medieval</a>, <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a>",
+  "description": "Feel Good Rainy Day music for you. Also try <a href=\"spotify:playlist:37i9dQZF1EIeWlaZZqeNe1\">mollywood</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNtCkV7QswW\">malayalam pop</a>, <a href=\"spotify:playlist:37i9dQZF1EQqkOPvHGajmW\">indie</a>, <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>, <a href=\"spotify:playlist:37i9dQZF1EIhnNKEFGtqqk\">soft rock</a>",
   "num_followers": 0,
   "original_name": "Feel Good Rainy Day Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADTtxGFN3Y0G4HVGn7MxOfkNCVHF",
+  "snapshot_id": "AAAAAKl9pIIVrDG1gm1ckjQM2QJbMfXF",
   "tracks": [
     {
       "added_at": null,
@@ -39,306 +39,186 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mudhugauv",
-        "url": "https://open.spotify.com/album/1OvPYRHs7pRRBhU1tqdSTd"
+        "name": "Shikkari Shambhu",
+        "url": "https://open.spotify.com/album/0VaJjqiL2fkajtCHcSbcFt"
       },
       "artists": [
         {
           "name": "Haricharan",
           "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Roshni Suresh",
+          "url": "https://open.spotify.com/artist/2ov3HEZmB05RKDUIn0N8DW"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        },
+        {
+          "name": "Santhosh Varma",
+          "url": "https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp"
         }
       ],
-      "duration_ms": 295537,
-      "name": "Thoominnal",
-      "url": "https://open.spotify.com/track/6Mk3Saz6OCmOVCvwwAP89S"
+      "duration_ms": 256757,
+      "name": "Mazha",
+      "url": "https://open.spotify.com/track/0NZCYr49uylfaeE5oxgMt7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Madhu Pole (From \"Dear Comrade\")",
-        "url": "https://open.spotify.com/album/2wlRRPa0dqEXDxA9ebd4sD"
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
       },
       "artists": [
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Aishwarya Ravichandran",
-          "url": "https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8"
-        },
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Joe Paul",
-          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 261503,
-      "name": "Madhu Pole (From \"Dear Comrade\")",
-      "url": "https://open.spotify.com/track/10xUfZwNHGEaEe1kJQlJeh"
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "10:30 A.M. Local Call (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Rw5KG6x2Z20DQnPYq3J0z"
+        "name": "LUCA",
+        "url": "https://open.spotify.com/album/4xfJ7sRBl9WgJuTB5oASJ8"
       },
       "artists": [
         {
-          "name": "Gopi Sundar",
-          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+          "name": "Sooraj S. Kurup",
+          "url": "https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p"
         },
         {
-          "name": "Sachin Warrier",
-          "url": "https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK"
-        },
-        {
-          "name": "Rafeeq Ahamed",
-          "url": "https://open.spotify.com/artist/0XeydqmCIhwtjgY4NA8821"
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
         }
       ],
-      "duration_ms": 294604,
-      "name": "Etho Saayaana",
-      "url": "https://open.spotify.com/track/0H8EERH7ifKwQR2t7NO0p1"
+      "duration_ms": 216555,
+      "name": "Neeyilla Neram",
+      "url": "https://open.spotify.com/track/150QIbzsnzGQLLcXVbJaXQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nenjakame (From \"Ambili\")",
-        "url": "https://open.spotify.com/album/7fX0vtbLsCV5JivpKUcZ2N"
+        "name": "Varsham",
+        "url": "https://open.spotify.com/album/2uzqFkMiIqehWSDfbpWfbW"
       },
       "artists": [
         {
-          "name": "Vishnu Vijay",
-          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
         },
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Sumangaly",
+          "url": "https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX"
+        }
+      ],
+      "duration_ms": 319993,
+      "name": "Mellaga",
+      "url": "https://open.spotify.com/track/4F0uq09fKad99msF2x3BQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
+        "url": "https://open.spotify.com/album/2S8ZSnpmlReMfteHNp3zju"
+      },
+      "artists": [
+        {
+          "name": "Aksomaniac",
+          "url": "https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87"
+        },
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Bhumi",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
+        },
+        {
+          "name": "Circle Tone",
+          "url": "https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
+      "url": "https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NERAM",
+        "url": "https://open.spotify.com/album/1RIq1w6lFh176u1TIG3Zky"
+      },
+      "artists": [
+        {
+          "name": "Nazeeb Billu",
+          "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
+        },
+        {
+          "name": "Laika Jamal",
+          "url": "https://open.spotify.com/artist/6j3Q8cauUMoJAGGTfdYShD"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "NERAM",
+      "url": "https://open.spotify.com/track/4QsWLGoGvz1SIHhuqiHE3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Engotta (From \"Balan - The Boy\")",
+        "url": "https://open.spotify.com/album/6ssQ39B1AZhU71M6hfQhCi"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Anwar Ali",
+          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
+        }
+      ],
+      "duration_ms": 203743,
+      "name": "Engotta - From \"Balan - The Boy\"",
+      "url": "https://open.spotify.com/track/2HGBTVv2WPLXuTbF2FoHyw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "June (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zXpy2AS7crC9i1W03SHmT"
+      },
+      "artists": [
+        {
+          "name": "Ifthi",
+          "url": "https://open.spotify.com/artist/1dr6zhUavALTWCV9gIY4qV"
         },
         {
           "name": "Vinayak Sasikumar",
           "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 325650,
-      "name": "Nenjakame - From \"Ambili\"",
-      "url": "https://open.spotify.com/track/4HYiaTXtQLiASRD3H87e7L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awaara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0UKhCWkRL6X4Kwbjz8Pf0q"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
         },
-        {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
-        },
-        {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
-        },
-        {
-          "name": "Vennelakanti",
-          "url": "https://open.spotify.com/artist/2BJEnjcz5E2JuIdpwSXwwQ"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Arere Vaanaa",
-      "url": "https://open.spotify.com/track/62UqZv8jJwfXpKENrnk8OJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chirapunji (From Saina Music Indie)",
-        "url": "https://open.spotify.com/album/626TXwCa6PtZCdXv8yubvQ"
-      },
-      "artists": [
-        {
-          "name": "Nihal Sadiq",
-          "url": "https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh"
-        },
-        {
-          "name": "Hanan Shaah",
-          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Chirapunji - From Saina Music Indie",
-      "url": "https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Athi Bheekara Kaamukan",
-        "url": "https://open.spotify.com/album/0DGz5H46bAmvXJPUA4Z6aE"
-      },
-      "artists": [
-        {
-          "name": "Bibin Ashok",
-          "url": "https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S"
-        },
-        {
-          "name": "Crishna",
-          "url": "https://open.spotify.com/artist/2MH6exyP2K90nuxJ4bqZvi"
-        },
-        {
-          "name": "Haritha Haribabu",
-          "url": "https://open.spotify.com/artist/7LeBWfsKPoNkHzn0zRwdT8"
-        }
-      ],
-      "duration_ms": 191464,
-      "name": "Nanavekathe",
-      "url": "https://open.spotify.com/track/5AbHZ5oYLpe5iOYcuIFyAL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 244880,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aval (From \"Op 160/18 Kakshi: Amminippilla\")",
-        "url": "https://open.spotify.com/album/2iPtpnR7cV5RJYeDgvei46"
-      },
-      "artists": [
-        {
-          "name": "Arun Muraleedharan",
-          "url": "https://open.spotify.com/artist/7pdqSPB4dkmIhAs4TpN6bR"
-        },
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        }
-      ],
-      "duration_ms": 263028,
-      "name": "Aval - From \"Op 160/18 Kakshi: Amminippilla\"",
-      "url": "https://open.spotify.com/track/3cZ1L75hTPcF9Cxr3oEzcj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vettom (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Wchlrq7cvwXheaqgZVE9f"
-      },
-      "artists": [
-        {
-          "name": "Berny-Ignatius",
-          "url": "https://open.spotify.com/artist/425d9RrGSCIqwS6KV5rk1W"
-        },
-        {
-          "name": "M. G. Sreekumar",
-          "url": "https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt"
-        },
-        {
-          "name": "Beeyar Prasad",
-          "url": "https://open.spotify.com/artist/4AyvoDyIONYzXeja6BRoQZ"
-        }
-      ],
-      "duration_ms": 259919,
-      "name": "Mazhathullikal - Version, 1",
-      "url": "https://open.spotify.com/track/2uRo33fBwWmnQAjFW2ukoK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parimitha Neram (From \"Madhuram\")",
-        "url": "https://open.spotify.com/album/2Qdle95yGELSXWatqtKx8J"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
-        },
-        {
-          "name": "Aavani Malhar",
-          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
-        },
-        {
-          "name": "Sharfu",
-          "url": "https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa"
-        }
-      ],
-      "duration_ms": 216504,
-      "name": "Parimitha Neram - From \"Madhuram\"",
-      "url": "https://open.spotify.com/track/6BpvuH6BxCUmkd5nWImt8M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Godha (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3x9o4Eay2ciLKwncRQga8H"
-      },
-      "artists": [
-        {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
-        },
-        {
-          "name": "Gowry Lekshmi",
-          "url": "https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR"
-        },
-        {
-          "name": "Manu Manjith",
-          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
-        }
-      ],
-      "duration_ms": 267876,
-      "name": "Aaro Nenjil",
-      "url": "https://open.spotify.com/track/3pV7GR1Diat03TAXGTDaXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neeru",
-        "url": "https://open.spotify.com/album/6m5fl5M5ErZZzLQDTHzZxF"
-      },
-      "artists": [
         {
           "name": "Sooraj Santhosh",
           "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
         },
         {
-          "name": "After808",
-          "url": "https://open.spotify.com/artist/0vN91EDFofY4KwztohfP8G"
-        },
-        {
-          "name": "Mangosteen Club",
-          "url": "https://open.spotify.com/artist/40EvoVRcJ7rhSe5rkSnWUt"
-        },
-        {
-          "name": "ERI",
-          "url": "https://open.spotify.com/artist/4VQHHsSCQERlJCKrdrSdYB"
+          "name": "Anne Amie",
+          "url": "https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x"
         }
       ],
-      "duration_ms": 250714,
-      "name": "Neeru",
-      "url": "https://open.spotify.com/track/4DgSvoYT8UJBm1XBpYFNhH"
+      "duration_ms": 303585,
+      "name": "Adyam Thammil",
+      "url": "https://open.spotify.com/track/5Ye5VX2e1B61Bx5GwZYPNd"
     },
     {
       "added_at": null,
@@ -371,250 +251,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Of Najim Arshad",
-        "url": "https://open.spotify.com/album/2xPIlnovIZcmAQH9ttuJvV"
+        "name": "HOW TO SAVE A LIFE",
+        "url": "https://open.spotify.com/album/3Brt0TZSCu5y43Pd3Jdb0a"
       },
       "artists": [
         {
-          "name": "Najim Arshad",
-          "url": "https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
-      "duration_ms": 194584,
-      "name": "Kanavukalil (from \"Philips & The Monkey Pen\")",
-      "url": "https://open.spotify.com/track/5TPqA5Ro6Dw4meQy60euxp"
+      "duration_ms": 199000,
+      "name": "HOW TO SAVE A LIFE",
+      "url": "https://open.spotify.com/track/10GIpT7gdfHaiJNCJ98Q1S"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sana - Aaro Nee (From \"Think Specials\")",
-        "url": "https://open.spotify.com/album/77I3U74J8dFJ2T3H1eWCsH"
+        "name": "Sega",
+        "url": "https://open.spotify.com/album/39pfWQJrvXW7AdtQDi8BbG"
       },
       "artists": [
         {
-          "name": "Sharan Rajamohanan",
-          "url": "https://open.spotify.com/artist/1T7PhOdpNZ3sOUM7r6Qqkt"
+          "name": "Joshua Sridhar",
+          "url": "https://open.spotify.com/artist/43IDw3YzwADpAkdEzP81SZ"
         },
         {
-          "name": "Anand Sankar",
-          "url": "https://open.spotify.com/artist/5a6vjcYewFeGYRnHLVF23k"
+          "name": "Sunitha",
+          "url": "https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80"
+        },
+        {
+          "name": "Suzanne",
+          "url": "https://open.spotify.com/artist/0uWl5BUPnXzE2RWQEprHyF"
         }
       ],
-      "duration_ms": 229565,
-      "name": "Sana - Aaro Nee - From \"Think Specials\"",
-      "url": "https://open.spotify.com/track/3sFi34K2RKSTqEFLQ7HVLl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Facing Future",
-        "url": "https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9"
-      },
-      "artists": [
-        {
-          "name": "Israel Kamakawiwo'ole",
-          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
-        }
-      ],
-      "duration_ms": 308026,
-      "name": "Somewhere Over The Rainbow/What A Wonderful World",
-      "url": "https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aadavari Matalaku Ardhalu Veruley",
-        "url": "https://open.spotify.com/album/4DblbW7PigWE3fK5msaiHR"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 319686,
-      "name": "Emaindhi Eevela",
-      "url": "https://open.spotify.com/track/02hoWuAbkaajPREIFQePgZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sedaka's Back",
-        "url": "https://open.spotify.com/album/3Y87sSDrqKGaBbuJJ688Tt"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 173706,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/3BB9X2iano4KjZY1u9Kc12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eeram (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1i46yvjxOnAq0JcgGJRXYU"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Ranjith Govind",
-          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
-        },
-        {
-          "name": "Viveka",
-          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
-        }
-      ],
-      "duration_ms": 249973,
-      "name": "Mazhaiye Mazhaiye",
-      "url": "https://open.spotify.com/track/4jk5H0R3x6MDCLryHuHUN9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sakhiyeee (From \"Thrissur Pooram\")",
-        "url": "https://open.spotify.com/album/1ykaTShNVmXd5o8iUcWu5e"
-      },
-      "artists": [
-        {
-          "name": "Ratheesh Vega",
-          "url": "https://open.spotify.com/artist/0t1SWo8gEEppMdY6IEzRsl"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "B.K. Harinarayanan",
-          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
-        }
-      ],
-      "duration_ms": 294144,
-      "name": "Sakhiyeee (From \"Thrissur Pooram\")",
-      "url": "https://open.spotify.com/track/6v1lIN2biwtz9oCagGe0c6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100 Days of Love (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4NWlsDjNbNkWJ6K8NREouz"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        },
-        {
-          "name": "Mridula Warrier",
-          "url": "https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh"
-        },
-        {
-          "name": "Rafeeq Ahamad",
-          "url": "https://open.spotify.com/artist/1fNpqEGpjBeYXunWw8xLW1"
-        },
-        {
-          "name": "K.V. Vijayakumar",
-          "url": "https://open.spotify.com/artist/5J8MB2F7gMKwUs1YLqSrT3"
-        }
-      ],
-      "duration_ms": 278346,
-      "name": "Hridayathin",
-      "url": "https://open.spotify.com/track/1KG7KGuoWS8PP2O2KMsdLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puthu Mazha (From \"Sarvam Maya\")",
-        "url": "https://open.spotify.com/album/5E9ISq5cIQmCvtefXz0Wn9"
-      },
-      "artists": [
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Manu Manjith",
-          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
-        }
-      ],
-      "duration_ms": 262285,
-      "name": "Puthu Mazha (From \"Sarvam Maya\")",
-      "url": "https://open.spotify.com/track/1T2BaoynY8mttTMb6t51gF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prithviraj Hits",
-        "url": "https://open.spotify.com/album/0n10lgtONOocVHOnXkg6dh"
-      },
-      "artists": [
-        {
-          "name": "Nikhil mathew",
-          "url": "https://open.spotify.com/artist/75IXbZzUYShK1S4MKcnXbb"
-        }
-      ],
-      "duration_ms": 337591,
-      "name": "Azhalinte Azhangalil (From \"Ayalum Njanum Thammil\")",
-      "url": "https://open.spotify.com/track/0azlf1aNWbkd3myesNiMvR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maradona (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4ofLMJdht02T6MNeXwT8zw"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Neha S. Nair",
-          "url": "https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 228484,
-      "name": "Nilapakshi Happy Version",
-      "url": "https://open.spotify.com/track/6GuUpRsSJAhdkwWGoW9Kfx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monsoon Rhapsody",
-        "url": "https://open.spotify.com/album/7qmQ5iYgxZ3oB6f7hygRla"
-      },
-      "artists": [
-        {
-          "name": "Unni Menon",
-          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
-        }
-      ],
-      "duration_ms": 255997,
-      "name": "Mazhaneer Thullikal (Male) (from \"Beautiful (Malayalam Film)\")",
-      "url": "https://open.spotify.com/track/2Zjv5MQK3gds2FRT4sWM9h"
+      "duration_ms": 267675,
+      "name": "Varsham Munduga",
+      "url": "https://open.spotify.com/track/0LZVBuMjBypnzwHLNQVSnv"
     },
     {
       "added_at": null,
@@ -639,6 +311,154 @@
       "duration_ms": 261778,
       "name": "Alare",
       "url": "https://open.spotify.com/track/4xiOtiXXochXwmw3MU946g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Insaanile",
+        "url": "https://open.spotify.com/album/6DuFpr23sFUyAAmh7z8ash"
+      },
+      "artists": [
+        {
+          "name": "Jubair Muhammed",
+          "url": "https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0"
+        },
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Suhail Sulthan",
+          "url": "https://open.spotify.com/artist/1NJ6PqavygiCeOsUlfDccC"
+        }
+      ],
+      "duration_ms": 165060,
+      "name": "Insaanile",
+      "url": "https://open.spotify.com/track/1kl8HxZrfUluGnW5rorqzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Darmiyaan (From \"Musafir Cafe\")",
+        "url": "https://open.spotify.com/album/3GE8PVCSO32TjZYzDDcIzZ"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        },
+        {
+          "name": "Amrita Saluja",
+          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
+        }
+      ],
+      "duration_ms": 270125,
+      "name": "Darmiyaan (From \"Musafir Cafe\")",
+      "url": "https://open.spotify.com/track/37JOhPdeecNxkqpfcj1XcX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Holiday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3zGoA8h9fFC49spg82FrK1"
+      },
+      "artists": [
+        {
+          "name": "Deepak Dev",
+          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+        },
+        {
+          "name": "Arvind Venugopal",
+          "url": "https://open.spotify.com/artist/3HVwgnV1o8772u3BtdhcHF"
+        },
+        {
+          "name": "Aparna Balamurali",
+          "url": "https://open.spotify.com/artist/6943ivF7xl25qWq9DzGZCR"
+        },
+        {
+          "name": "Jis Joy",
+          "url": "https://open.spotify.com/artist/7FHotFfqrNZqZUI12BphiT"
+        }
+      ],
+      "duration_ms": 266102,
+      "name": "Mazha Paadum",
+      "url": "https://open.spotify.com/track/7dI3nM7YEzr214pYfZgei4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 244880,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Premam",
+        "url": "https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu"
+      },
+      "artists": [
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        },
+        {
+          "name": "Rajesh Murugesan",
+          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
+        }
+      ],
+      "duration_ms": 316419,
+      "name": "Malare",
+      "url": "https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambili (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22v9N3FlD4SDIIy7fSFhal"
+      },
+      "artists": [
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Madhuvanthi Narayan",
+          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+        }
+      ],
+      "duration_ms": 360938,
+      "name": "Aaraadhike",
+      "url": "https://open.spotify.com/track/7nHQjVpEncX7NEdA2G6kU1"
     },
     {
       "added_at": null,
@@ -671,110 +491,246 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deja-vu",
-        "url": "https://open.spotify.com/album/6HzO0CWcpbLr5xeHeIysYn"
+        "name": "Kaafi Hai Na (From \"Musafir Cafe\")",
+        "url": "https://open.spotify.com/album/5IYccMBAe0EuOET3USDVvl"
       },
       "artists": [
         {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Aniket Shukla",
+          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/3ee7alUSMkKJ4uPKrfiLez"
+      "duration_ms": 195050,
+      "name": "Kaafi Hai Na (From \"Musafir Cafe\")",
+      "url": "https://open.spotify.com/track/0PKLIjYe9K78lky2LxUz2P"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Khalbinnakame (From \"Abhilasham\")",
-        "url": "https://open.spotify.com/album/5DDu2Ja4EGKpl2MVDSaWHd"
+        "name": "Sana - Aaro Nee (From \"Think Specials\")",
+        "url": "https://open.spotify.com/album/77I3U74J8dFJ2T3H1eWCsH"
       },
       "artists": [
         {
-          "name": "Sreehari K",
-          "url": "https://open.spotify.com/artist/4HEziz1lkW1kFRRMKJh2Kx"
+          "name": "Sharan Rajamohanan",
+          "url": "https://open.spotify.com/artist/1T7PhOdpNZ3sOUM7r6Qqkt"
         },
         {
-          "name": "Mohammed Maqbool Mansoor",
-          "url": "https://open.spotify.com/artist/4Y82LR5X1lk8t9bzoVgnjq"
-        },
-        {
-          "name": "Sharfu",
-          "url": "https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa"
+          "name": "Anand Sankar",
+          "url": "https://open.spotify.com/artist/5a6vjcYewFeGYRnHLVF23k"
         }
       ],
-      "duration_ms": 170070,
-      "name": "Khalbinnakame (From \"Abhilasham\")",
-      "url": "https://open.spotify.com/track/1z6yXgDAujKC9g0f3KPA5f"
+      "duration_ms": 229565,
+      "name": "Sana - Aaro Nee - From \"Think Specials\"",
+      "url": "https://open.spotify.com/track/3sFi34K2RKSTqEFLQ7HVLl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dude (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL"
+        "name": "Vaishali",
+        "url": "https://open.spotify.com/album/5HaQLWQrkkkSrzPi7dHkhY"
       },
       "artists": [
         {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Adesh Krishna",
-          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
         }
       ],
-      "duration_ms": 274374,
-      "name": "Kannukulla (Reprise)",
-      "url": "https://open.spotify.com/track/4WYoahT0BqwCHwssPdnR7y"
+      "duration_ms": 247972,
+      "name": "Kurisey Kurisey",
+      "url": "https://open.spotify.com/track/3XXbe1ksynaJzhfuMaU728"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Thangamagan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3"
+        "name": "Athmavin Akasathil (From \"Njan Prakashan\")",
+        "url": "https://open.spotify.com/album/41BXiIlAzX8YVAQ9AlbgNu"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
         },
         {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+          "name": "Gowry Lekshmi",
+          "url": "https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR"
         }
       ],
-      "duration_ms": 276705,
-      "name": "Oh Oh - The First Love of Tamizh",
-      "url": "https://open.spotify.com/track/3B4Wf3Fo11BXSuVPi1dtDO"
+      "duration_ms": 311124,
+      "name": "Athmavin Akasathil (From \"Njan Prakashan\")",
+      "url": "https://open.spotify.com/track/0BZXlXf0dXhYWmrFupTNpJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Charlie",
-        "url": "https://open.spotify.com/album/1Rgl5JQCH8hG9CdbEIQKV3"
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
       "artists": [
         {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 159068,
+      "name": "She Loves the Rain",
+      "url": "https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aadavari Matalaku Ardhalu Veruley",
+        "url": "https://open.spotify.com/album/4DblbW7PigWE3fK5msaiHR"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
         },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 319686,
+      "name": "Emaindhi Eevela",
+      "url": "https://open.spotify.com/track/02hoWuAbkaajPREIFQePgZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3oWfyFP6WKaDNdx8Dwbiiy"
+      },
+      "artists": [
         {
           "name": "Gopi Sundar",
           "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
         },
         {
-          "name": "Rafeeq Ahammed",
-          "url": "https://open.spotify.com/artist/6uKbk35bA6KTgIbKhPJImJ"
+          "name": "Divya S Menon",
+          "url": "https://open.spotify.com/artist/3fjEU4fb7YikO0zObLz159"
+        },
+        {
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
         }
       ],
-      "duration_ms": 275500,
-      "name": "Puthumazhayai (Shreya Ghoshal) - From \"Charlie\"",
-      "url": "https://open.spotify.com/track/1uHxfi9DfCZte3ferCe65k"
+      "duration_ms": 264852,
+      "name": "Vaarthinkale",
+      "url": "https://open.spotify.com/track/5eVhR6dv8zWw8ON3xPave4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ulaa (feat. Sathyaprakash)",
+        "url": "https://open.spotify.com/album/3Ap0cyHboovhc4Qe83ENL6"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "The Non Violinist Project",
+          "url": "https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 265288,
+      "name": "Ulaa (feat. Sathyaprakash)",
+      "url": "https://open.spotify.com/track/69JfYdRoxrbGLow5T3Q94j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasee Toh Phasee (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Sanam Puri",
+          "url": "https://open.spotify.com/artist/5kiKQJrz4BT7vFWVECAmHH"
+        },
+        {
+          "name": "Shipra Goyal",
+          "url": "https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ"
+        }
+      ],
+      "duration_ms": 303640,
+      "name": "Ishq Bulaava",
+      "url": "https://open.spotify.com/track/1fkjRQA8wXPPyxqYLbxuqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/64LFTJ3Aqog2CYDeiSlbS3"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Anwar Ali",
+          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Anne Amie",
+          "url": "https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x"
+        }
+      ],
+      "duration_ms": 234928,
+      "name": "Uyiril Thodum",
+      "url": "https://open.spotify.com/track/7zpXvT9cxrxPealCnxgUwN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asleep Talking",
+        "url": "https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        }
+      ],
+      "duration_ms": 156329,
+      "name": "Asleep Talking",
+      "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
     },
     {
       "added_at": null,
@@ -803,54 +759,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kadal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3j8iyHi0RxqLLV97ZGOCPm"
+        "name": "Vijay Superum Pournamiyum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2o5ujHPcWrrRmR8UF1Jj6V"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
         },
         {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
         },
         {
-          "name": "Vairamuthu",
-          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+          "name": "Prince George",
+          "url": "https://open.spotify.com/artist/3Xh6eQ2RZtdSvsbpLHFKu0"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Nenjukkule",
-      "url": "https://open.spotify.com/track/7FEWG1bL31YAcnxJQvxJJO"
+      "duration_ms": 218610,
+      "name": "Etho Mazhayil",
+      "url": "https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ennile Punchiri (From \"Phoenix\")",
-        "url": "https://open.spotify.com/album/7zeAZmsGyQ0jhkKnKMwMax"
+        "name": "VadaChennai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/78uqEhVzpdnpBvFMezoxpA"
       },
       "artists": [
         {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+          "name": "Sriram Parthasarathy",
+          "url": "https://open.spotify.com/artist/0Eyu7MSg0N3UtTb9NDDDsW"
         },
         {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
         },
         {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+          "name": "Ananthu",
+          "url": "https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc"
         },
         {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Ennile Punchiri (From \"Phoenix\")",
-      "url": "https://open.spotify.com/track/30NOoFVrVgeqa6otE18Kza"
+      "duration_ms": 312378,
+      "name": "Kaarkuzhal Kadavaiye",
+      "url": "https://open.spotify.com/track/0VUpJnr5VJtuPNx00YXP1g"
     },
     {
       "added_at": null,
@@ -883,58 +847,222 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "Kaahe Mose",
+        "url": "https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 219097,
+      "name": "Kaahe Mose",
+      "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "FEEL GOOD",
-        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
+        "name": "Pesum Mazhai",
+        "url": "https://open.spotify.com/album/1qghOG2ztJsdk3MANENQHH"
       },
       "artists": [
         {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+          "name": "Farhash",
+          "url": "https://open.spotify.com/artist/1ItD3Wb7aZHGyfgNaFU1zq"
+        },
+        {
+          "name": "Ashley Milred",
+          "url": "https://open.spotify.com/artist/0XtbBAgEHkxh36kqmHFXyA"
+        },
+        {
+          "name": "Malavika KV",
+          "url": "https://open.spotify.com/artist/2jTZw7w6iKYd78SI3YvMvq"
+        },
+        {
+          "name": "Arunima Ashok",
+          "url": "https://open.spotify.com/artist/7ncvpbXdMNxo2ZymrOX39e"
         }
       ],
-      "duration_ms": 241946,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/6HiHiMtbBC7IfacvcyK0Kw"
+      "duration_ms": 207932,
+      "name": "Pesum Mazhai",
+      "url": "https://open.spotify.com/track/0DwizovRPoGrkYnSyqQl65"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ulaa (feat. Sathyaprakash)",
-        "url": "https://open.spotify.com/album/3Ap0cyHboovhc4Qe83ENL6"
+        "name": "Dilshad",
+        "url": "https://open.spotify.com/album/1liRfiO6i0jEeosUm4BBNp"
       },
       "artists": [
         {
-          "name": "Shravan Sridhar",
-          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+          "name": "Yawar Abdal",
+          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
         },
         {
-          "name": "The Non Violinist Project",
-          "url": "https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+          "name": "Sifar",
+          "url": "https://open.spotify.com/artist/4lQzaSJjGUm6LfySUnYKEK"
         }
       ],
-      "duration_ms": 265288,
-      "name": "Ulaa (feat. Sathyaprakash)",
-      "url": "https://open.spotify.com/track/69JfYdRoxrbGLow5T3Q94j"
+      "duration_ms": 223714,
+      "name": "Dilshad",
+      "url": "https://open.spotify.com/track/487NdFWy4ie4r5xb0avzKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/26HAAGfOhnc0CqqcHoaQGD"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/14AyWf6y7KlWWLfAjdKMKI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bollywood Love Lounge Vol 1",
+        "url": "https://open.spotify.com/album/1xj1uSVpgy9m4Bvu2XIl33"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Shaarib Toshi",
+          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Ishq de Fanniyar - Female Version",
+      "url": "https://open.spotify.com/track/0KpdEdrrlqV9X58YAbSsY9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guppy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4zA57jFKvNOj1faDEK6orU"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        }
+      ],
+      "duration_ms": 299154,
+      "name": "Thaniye",
+      "url": "https://open.spotify.com/track/34rRV7ynqXCwhUceYStKFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baarish Mein Phir",
+        "url": "https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 176954,
+      "name": "Baarish Mein Phir",
+      "url": "https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2018 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3J2gTFZt1B5DITYXVXCEes"
+      },
+      "artists": [
+        {
+          "name": "Nobin Paul",
+          "url": "https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf"
+        },
+        {
+          "name": "Joe Paul",
+          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        }
+      ],
+      "duration_ms": 195513,
+      "name": "Venmegham - From \"2018\"",
+      "url": "https://open.spotify.com/track/1GcMVclJHbwwbGC6zBc2bJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yevade Subramanyam",
+        "url": "https://open.spotify.com/album/6bO23GNwB0rVPb9fduDb2b"
+      },
+      "artists": [
+        {
+          "name": "Senthil",
+          "url": "https://open.spotify.com/artist/4chi55fx5usXwPsJq1g2a3"
+        },
+        {
+          "name": "Rihitha",
+          "url": "https://open.spotify.com/artist/7HCfn98lJJNkmv6Gn0F2Fc"
+        },
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Ananth Sriram",
+          "url": "https://open.spotify.com/artist/1ptg1bA9WLbmSqByeIwnuz"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Challa Gaali Thakuthunna",
+      "url": "https://open.spotify.com/track/6IWD4Vklpj6wHVGaMB89dO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kinavu Kondu (From \"Sudani from Nigeria\")",
+        "url": "https://open.spotify.com/album/1Bxqjv1YL4gSUA4XIYQQNx"
+      },
+      "artists": [
+        {
+          "name": "Rex Vijayan",
+          "url": "https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ"
+        },
+        {
+          "name": "Imam Majboor",
+          "url": "https://open.spotify.com/artist/13LVlmMKM93b4a4ndrqJkw"
+        }
+      ],
+      "duration_ms": 256475,
+      "name": "Kinavu Kondu - From \"Sudani from Nigeria\"",
+      "url": "https://open.spotify.com/track/3pkS51szEkyV95IzjXzDbV"
     },
     {
       "added_at": null,
@@ -948,131 +1076,43 @@
           "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
         },
         {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
         },
         {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+          "name": "Tanvi Shah",
+          "url": "https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA"
         },
         {
           "name": "Na.Muthukumar",
           "url": "https://open.spotify.com/artist/3xRtandQusLOaCPqLJ0ia2"
         }
       ],
-      "duration_ms": 267120,
-      "name": "Adada Mazhaida",
-      "url": "https://open.spotify.com/track/1wVKhymlMQB1mwVmp2KgAn"
+      "duration_ms": 283346,
+      "name": "Thuli Thuli",
+      "url": "https://open.spotify.com/track/7fUS9gftrrgtaHJUwFnbEt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All That We Needed",
-        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+        "name": "Hits Of Najim Arshad",
+        "url": "https://open.spotify.com/album/2xPIlnovIZcmAQH9ttuJvV"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "Najim Arshad",
+          "url": "https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+      "duration_ms": 194584,
+      "name": "Kanavukalil (from \"Philips & The Monkey Pen\")",
+      "url": "https://open.spotify.com/track/5TPqA5Ro6Dw4meQy60euxp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Power Paandi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2kn9LjF7cWUTlREZU52HQf"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "The Romance Of Power Paandi - Venpani Malare (Male)",
-      "url": "https://open.spotify.com/track/1fXxypihXmL3LElLDg2dok"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shor in the City (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/38YOEn3gTTSSCyk4IU7cpg"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Tochi Raina",
-          "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
-        }
-      ],
-      "duration_ms": 195253,
-      "name": "Saibo",
-      "url": "https://open.spotify.com/track/2dDHtDrDaxTB7QR6EoCSne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dear Comrade [MALAYALAM]",
-        "url": "https://open.spotify.com/album/7p8FV5yzS6bofqqboaPvon"
-      },
-      "artists": [
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        },
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Joe Paul",
-          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
-        }
-      ],
-      "duration_ms": 249534,
-      "name": "Mazhamegham",
-      "url": "https://open.spotify.com/track/4uY3rCTpHlq1enEiFMDrNf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vaagai Sooda Vaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4MyaABQub4NCb6r7vFWT7y"
-      },
-      "artists": [
-        {
-          "name": "Ghibran",
-          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 298848,
-      "name": "Sara Sara Saara Kathu",
-      "url": "https://open.spotify.com/track/04NcPs5V6181I5hvUFY4Vp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pranaya Vilasam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/15HhFiEJr2VdNcBb7SkETf"
+        "name": "Uyire (From \"Minnal Murali\")",
+        "url": "https://open.spotify.com/album/5FzV5fBNAsL0WtfIFkw3Mt"
       },
       "artists": [
         {
@@ -1080,65 +1120,45 @@
           "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
         },
         {
+          "name": "Narayani Gopan",
+          "url": "https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI"
+        },
+        {
           "name": "Mithun Jayaraj",
           "url": "https://open.spotify.com/artist/3mVQkEy8bTczhoTmCWTRbh"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Naruchiriyude Minnayam",
-      "url": "https://open.spotify.com/track/3JKhxzlsYie7OoDBx94Fcd"
+      "duration_ms": 327155,
+      "name": "Uyire - From \"Minnal Murali\"",
+      "url": "https://open.spotify.com/track/0vmxxVMfJN21J3xX2uqzkg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Akasham Pole (From \"Bheeshma Parvam\")",
-        "url": "https://open.spotify.com/album/4V9jFTobSwaHPvcGIqAHyf"
+        "name": "Parimitha Neram (From \"Madhuram\")",
+        "url": "https://open.spotify.com/album/2Qdle95yGELSXWatqtKx8J"
       },
       "artists": [
         {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
         },
         {
-          "name": "Rafeeq Ahammed",
-          "url": "https://open.spotify.com/artist/6uKbk35bA6KTgIbKhPJImJ"
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
         },
         {
-          "name": "Hamsika Iyer",
-          "url": "https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61"
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
         },
         {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+          "name": "Sharfu",
+          "url": "https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa"
         }
       ],
-      "duration_ms": 209094,
-      "name": "Akasham Pole - From \"Bheeshma Parvam\"",
-      "url": "https://open.spotify.com/track/41e3YmSNEKJQ7GlRwqNCxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ezra",
-        "url": "https://open.spotify.com/album/3JqHtKZG9rGWsmZdWhbFbR"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Rahul Raj",
-          "url": "https://open.spotify.com/artist/4kbWDG96QZ2HkyVl9l1EmL"
-        },
-        {
-          "name": "B.K. Harinarayanan",
-          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
-        }
-      ],
-      "duration_ms": 256078,
-      "name": "Lailakame",
-      "url": "https://open.spotify.com/track/6sdFD2tvkP5Pd93y33qaQg"
+      "duration_ms": 216504,
+      "name": "Parimitha Neram - From \"Madhuram\"",
+      "url": "https://open.spotify.com/track/6BpvuH6BxCUmkd5nWImt8M"
     }
   ],
   "unique_name": "Feel Good Rainy Day Mix",

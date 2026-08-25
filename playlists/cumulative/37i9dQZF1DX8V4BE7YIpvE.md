@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-239 songs - 11 hr 55 min
+242 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Afterimage](https://open.spotify.com/track/3m0yVxfMU7W7Mv7XGMThmy) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Afterimage](https://open.spotify.com/album/5qpJu0DYHr0jl9oWmBVJ8W) | 4:50 | 2024-06-06 | 2025-11-26 |
 | [Afterlight](https://open.spotify.com/track/0n3eQd5OwyywONTRfXQ0Ry) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Afterlight](https://open.spotify.com/album/6xn0oEUNjATbwAThgQHyFx) | 3:37 | 2026-04-24 |  |
 | [Afterlight \- Slowed](https://open.spotify.com/track/5cZxROV2WySPJIfU46ZVGw) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [lxst child](https://open.spotify.com/artist/5XG0u0GsaiIvBEzznbjdCj) | [Afterlight](https://open.spotify.com/album/32UABCFumfPYxi7EJVHCpH) | 3:40 | 2025-07-11 |  |
+| [Alaris](https://open.spotify.com/track/35YWT8sOGWZ726NG0li7g6) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Alaris](https://open.spotify.com/album/4GtLNaHwvJTWFXYeMWegeX) | 2:10 | 2026-08-24 |  |
 | [Apiary](https://open.spotify.com/track/0GhNaJ0fKgdZ0rtorNbrpt) | [wavetearz](https://open.spotify.com/artist/6KXxSJSRFwAXN29VPO1hZk) | [Apiary](https://open.spotify.com/album/5bkrDIaKH4xdcqjT6HiPV3) | 2:41 | 2024-06-06 |  |
 | [Asymmetry](https://open.spotify.com/track/2cn0VSSr3B5Oi5OuD2Ggj8) | [Babbage](https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg) | [Asymmetry](https://open.spotify.com/album/26ffpseuoW5Jh5j3jGoczP) | 3:24 | 2025-11-07 |  |
 | [Atlantis](https://open.spotify.com/track/1Ck57y28RGO0G0liJXg5rh) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Astral](https://open.spotify.com/album/1uGa6ryU3GodJXBlFCAqNj) | 4:49 | 2024-06-06 | 2024-08-11 |
@@ -53,7 +54,7 @@
 | [Dream Sync](https://open.spotify.com/track/53qDR5jz1qhcaemVlIe46E) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Synthetic](https://open.spotify.com/album/5a8wgN3tp3cmZdejIofU5M) | 3:02 | 2024-06-06 | 2024-08-11 |
 | [Dream Vector](https://open.spotify.com/track/5xHZJkclaZPKPSfjBx1dG9) | [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Dream Vector](https://open.spotify.com/album/2aj7fxen07WpFoIWi4NzlT) | 2:52 | 2025-01-10 | 2026-03-14 |
 | [Dreaming In Digital](https://open.spotify.com/track/6qlN8LGUnSsQp3fAzzyry0) | [Babbage](https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg) | [Dreaming In Digital](https://open.spotify.com/album/4K1j2dOWSsJ7WWk11hPg4l) | 2:26 | 2024-08-30 | 2025-07-12 |
-| [Drift](https://open.spotify.com/track/2kwIEGhwRDoVcXX5QLUxft) | [Axl Rhodes](https://open.spotify.com/artist/5nlgdELJT2bvwCgU1ZCNf4), [Nightflyer](https://open.spotify.com/artist/1QoMEICpXIL1cNck2dWHIh) | [Drift](https://open.spotify.com/album/3xeoeiLfxVZ3P1QQlByPV7) | 3:50 | 2024-09-05 |  |
+| [Drift](https://open.spotify.com/track/2kwIEGhwRDoVcXX5QLUxft) | [Axl Rhodes](https://open.spotify.com/artist/5nlgdELJT2bvwCgU1ZCNf4), [Nightflyer](https://open.spotify.com/artist/1QoMEICpXIL1cNck2dWHIh) | [Drift](https://open.spotify.com/album/3xeoeiLfxVZ3P1QQlByPV7) | 3:50 | 2024-09-05 | 2026-08-25 |
 | [Drift \- slowed](https://open.spotify.com/track/2GlNSEWLhfJa6NlSCghTZM) | [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Drift](https://open.spotify.com/album/3gI1g8OX11EyMeKnK5cenO) | 3:27 | 2024-09-05 |  |
 | [Duplicated](https://open.spotify.com/track/6ZVxBC5euluubh2iVLKPs6) | [Future Talent Club](https://open.spotify.com/artist/4ccMTOGlE7Y9KBitpUsfCK) | [Duplicated](https://open.spotify.com/album/3iPfXlUbmsSVIJz8OvUfWR) | 2:43 | 2024-06-06 | 2026-01-28 |
 | [Dynasty of Lights](https://open.spotify.com/track/6OOyl4PwytyCI9ITgWy07o) | [Azure Rooms](https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk) | [Dynasty of Lights](https://open.spotify.com/album/5sqpOYhZVKYdLnbfOSOekh) | 3:36 | 2025-11-07 | 2026-04-25 |
@@ -101,7 +102,7 @@
 | [I Won't Forget](https://open.spotify.com/track/0W4fwvKRifncUBB8GCoi4l) | [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [I Won't Forget](https://open.spotify.com/album/1Qmeh3fAtq9IFAvAGSa1jr) | 3:31 | 2025-09-22 |  |
 | [Impact](https://open.spotify.com/track/13nnw50CpsLGQItGP5X2fP) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Impact](https://open.spotify.com/album/4YGzCDmw1Z7kBTPSxSELFi) | 2:35 | 2024-06-06 | 2025-05-10 |
 | [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 | 2024-08-16 | 2025-12-13 |
-| [Infrared](https://open.spotify.com/track/4vgXBdJJ9jCEnAKFhVgCmN) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Infrared](https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt) | 3:08 | 2024-07-16 |  |
+| [Infrared](https://open.spotify.com/track/4vgXBdJJ9jCEnAKFhVgCmN) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Infrared](https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt) | 3:08 | 2024-07-16 | 2026-08-25 |
 | [Infrared](https://open.spotify.com/track/3QptYtzJiY58eQ2LLPlTGI) | [RetroStrike](https://open.spotify.com/artist/02P3vvY3sPom79sSRoYqkD) | [Infrared](https://open.spotify.com/album/1NJmvyARz74cUsVT4zwtyc) | 3:18 | 2026-01-27 | 2026-05-09 |
 | [Infused](https://open.spotify.com/track/5jDyIR1AjD26N3HgkjN4ff) | [Retrophoria](https://open.spotify.com/artist/0NkBsV2lsvsJJXOMx1zRgf) | [Infused](https://open.spotify.com/album/5FHrBGZCtaYxsiPJ8vZlFG) | 3:14 | 2024-10-07 | 2025-08-28 |
 | [Interference](https://open.spotify.com/track/1ujDKIyb8DvN7bzY6dQm9m) | [Faulty Lights](https://open.spotify.com/artist/5YLg2WIm6xedzi2tUGOSU6), [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Interference](https://open.spotify.com/album/3tmGHT5YWB8YfwjIIOa2M1) | 2:50 | 2024-06-06 | 2024-07-17 |
@@ -184,7 +185,7 @@
 | [Rebound](https://open.spotify.com/track/7o7vKcCxfstLnsdhM4OkyD) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Rebound](https://open.spotify.com/album/6LLm6mmVB8tXjpRxSW5BJI) | 3:04 | 2024-06-06 | 2024-12-23 |
 | [Red Red Sea](https://open.spotify.com/track/1eMLvUyt10OOSs2qPLmFSk) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Red Red Sea](https://open.spotify.com/album/5IJZmgMdmoR0ZyC9y7M2Nj) | 2:52 | 2024-06-06 | 2024-06-21 |
 | [Red Signal in the Valley](https://open.spotify.com/track/0KmCLoaHssfEKr19DeomJW) | [Azure Rooms](https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk) | [Red Signal in the Valley](https://open.spotify.com/album/315BLcM5BZO0F729xhfV27) | 2:10 | 2026-03-13 |  |
-| [rescue \- slowed + reverb](https://open.spotify.com/track/2Zva4REc3tRtrl8U1r3iBt) | [trapeia](https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD), [ByErik ヵ](https://open.spotify.com/artist/1I6Mw56K10rObkhBIomvIW) | [rescue](https://open.spotify.com/album/1t5xSIz7cMIFsqDhSPrSPr) | 2:26 | 2025-02-20 |  |
+| [rescue \- slowed + reverb](https://open.spotify.com/track/2Zva4REc3tRtrl8U1r3iBt) | [trapeia](https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD), [ByErik ヵ](https://open.spotify.com/artist/1I6Mw56K10rObkhBIomvIW) | [rescue](https://open.spotify.com/album/1t5xSIz7cMIFsqDhSPrSPr) | 2:26 | 2025-02-20 | 2026-08-25 |
 | [Retrospective](https://open.spotify.com/track/424yw05HVjjPldglLjJtmy) | [YOUTH 83](https://open.spotify.com/artist/5Yn2L5pqTDEymWBHXfor7f) | [Retrospective](https://open.spotify.com/album/1ZDwHFLH5XczqjNJLmgOoM) | 4:19 | 2024-09-27 | 2025-07-12 |
 | [Ring of Tomorrow](https://open.spotify.com/track/6SEE7vwnevV0E2IgRVpm0f) | [Azure Rooms](https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk) | [Ring of Tomorrow](https://open.spotify.com/album/5xBxQ3jKLs7MFwDh8FC1HX) | 2:15 | 2026-04-24 |  |
 | [Roxanne](https://open.spotify.com/track/1Ju6i9d28t9786RVrm1GGz) | [Velvet Pillows](https://open.spotify.com/artist/65CuhifhbwR2bSo6OWTrJM) | [Roxanne](https://open.spotify.com/album/7m2Yo2SlmlBR9nTlU0vrl1) | 3:14 | 2024-06-06 | 2025-02-01 |
@@ -193,6 +194,7 @@
 | [Saga](https://open.spotify.com/track/3GonFKucRqYyY1QRBVqalr) | [High Fedelity Highway](https://open.spotify.com/artist/2iqYU8YJegaHYzs18bs3nG) | [Saga](https://open.spotify.com/album/6CZVMYSLfI1r5sXXCt0b8F) | 3:30 | 2024-06-06 | 2025-11-26 |
 | [See You Next Year \(Slowed\)](https://open.spotify.com/track/4N5CPL89XOc7vmBJaxEI79) | [Arimasen](https://open.spotify.com/artist/7lp5HmV500UD5aKnTzrYcz), [KoruSe](https://open.spotify.com/artist/3EdNJeTXrsR5jbmICchj3R) | [See You Next Year](https://open.spotify.com/album/4g3JGSmunWpfVKtyuJsa3p) | 3:52 | 2025-01-20 | 2026-04-25 |
 | [Selective Memories](https://open.spotify.com/track/06aX8QgWv4uNnogqUVqM4c) | [Afterift](https://open.spotify.com/artist/7vjAlACB6dM1DtOQGHq3ob) | [In The Beginning There Was Driftscape](https://open.spotify.com/album/4COj84ImYNkny0xWNuto24) | 3:44 | 2024-09-05 |  |
+| [Serein](https://open.spotify.com/track/38Im5Mm3bfcL6RyhqYqsnR) | [Azure Rooms](https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk) | [Serein](https://open.spotify.com/album/100PLeXt1TLjZi4hVS2twm) | 2:18 | 2026-08-24 |  |
 | [Shake You Off](https://open.spotify.com/track/5N04YJGla33NiuSKaHfrvX) | [Paisley Pink](https://open.spotify.com/artist/3If1CcrLGqjVA4szNh1q6G) | [Phantom Pulse](https://open.spotify.com/album/3H3wQUhwcbmLlEIh6c98Zp) | 2:49 | 2024-06-06 | 2024-07-19 |
 | [Shapes & Forms](https://open.spotify.com/track/6MY9QEbJR60Ol0JuFlb3LN) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Shapes & Forms](https://open.spotify.com/album/4XcnfbY3SfKYGY8bWuNzD6) | 2:25 | 2025-01-31 | 2025-11-26 |
 | [Shelter](https://open.spotify.com/track/0h1b2NjVMy0ss2Ukzgjbc1) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [elati0n](https://open.spotify.com/artist/2relz1Dexqfbh8tfExyF0i) | [FiLo](https://open.spotify.com/album/0FQ2TdMfvZdoXxJmOf5fz1) | 3:05 | 2024-07-16 |  |
@@ -221,6 +223,7 @@
 | [Tarzana](https://open.spotify.com/track/5CoHu3ekt50n98yuJPlw4t) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Tarzana](https://open.spotify.com/album/4FMXeLzqnZ6t0L6OVVkLu0) | 3:00 | 2024-06-06 | 2025-11-26 |
 | [Teal Dream](https://open.spotify.com/track/5OMyeEC3s9mJt2cnJIpKaN) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [Teal Dream](https://open.spotify.com/album/4CGCLBgGLmKQS0ur1L5V3w) | 3:41 | 2024-06-06 | 2025-02-21 |
 | [Tellurate](https://open.spotify.com/track/1eFyUqcfmxwdQlo74qu9KO) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Tellurate](https://open.spotify.com/album/3Jjh9s8zoUgUOLFrg2sles) | 3:01 | 2024-10-07 |  |
+| [Terminal Romance](https://open.spotify.com/track/0kGJIx3hRmsNZezWkAHhj9) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Terminal Romance](https://open.spotify.com/album/4z8z8e6CtxZCZHK7Rt7kr6) | 2:26 | 2026-08-24 |  |
 | [Textures](https://open.spotify.com/track/1seTo1rP8Y5A9pn9ap92nS) | [DeSantiis](https://open.spotify.com/artist/3nxb4AVWKD3ccJcW858gZt) | [Textures](https://open.spotify.com/album/4d0id8b3ltwYcT4vTtM0gv) | 2:51 | 2024-06-06 | 2026-01-17 |
 | [The Air Between](https://open.spotify.com/track/5t8MQzbfpiAanCd0PdyEiX) | [Ghost in Delay](https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh) | [The Air Between](https://open.spotify.com/album/5D8b27HDwKMUSnSOgt9FF7) | 2:41 | 2025-09-24 |  |
 | [The Arcades](https://open.spotify.com/track/6AB5a0jwNhLSOgByejWM7m) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [The Arcades](https://open.spotify.com/album/48hdi0M6jPYJxKPqhXx63w) | 3:27 | 2024-06-06 | 2025-03-29 |

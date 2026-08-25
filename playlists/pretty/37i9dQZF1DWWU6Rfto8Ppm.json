@@ -1,12 +1,12 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 4030937,
+  "num_followers": 4031415,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFu8bAPmBwf21fxMjGQfZgd7voVs",
+  "snapshot_id": "AAAAALnDiJ3xneP6IuTH9KmpZomr2SrZ",
   "tracks": [
     {
       "added_at": "2026-07-08 14:18:15",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Por Amar A Ciegas",
-      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "The Perfect Melody",
         "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 304091,
       "name": "Zun Da Da",
       "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Por Amar A Ciegas",
+      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "My Destiny",
+        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
+      },
+      "artists": [
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "duration_ms": 288288,
+      "name": "Descara",
+      "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/2XpLbDgssTyK3AmeQlfUL3"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 228053,
       "name": "Nadie Te Amar\u00e1 Como Yo (Remix) (feat. Zion & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/1eoAytqST4MVGz4xdTDqPj"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "My Destiny",
-        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
-      },
-      "artists": [
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
-        }
-      ],
-      "duration_ms": 288288,
-      "name": "Descara",
-      "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2583,26 +2583,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Tocarte Toa (2008 / Remix)",
-        "url": "https://open.spotify.com/album/0rlXTj8oXS1sQbDXHhmBnf"
-      },
-      "artists": [
-        {
-          "name": "Big Yamo",
-          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
-        },
-        {
-          "name": "Natya",
-          "url": "https://open.spotify.com/artist/1eKhdE1BV5isL4SQbXjMTM"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "Tocarte Toa (2008 / Remix)",
-      "url": "https://open.spotify.com/track/72PjUs25nm0G3ECiwOjkOM"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "Masacre Musical",
         "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
       },
@@ -2635,18 +2615,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Nerdside",
-        "url": "https://open.spotify.com/album/34KerrXrPoanlVl1MtO2HG"
+        "name": "Tocarte Toa (2008 / Remix)",
+        "url": "https://open.spotify.com/album/0rlXTj8oXS1sQbDXHhmBnf"
       },
       "artists": [
         {
-          "name": "Jiggy Drama",
-          "url": "https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY"
+          "name": "Big Yamo",
+          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
+        },
+        {
+          "name": "Natya",
+          "url": "https://open.spotify.com/artist/1eKhdE1BV5isL4SQbXjMTM"
         }
       ],
-      "duration_ms": 240000,
-      "name": "La Fuga",
-      "url": "https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0"
+      "duration_ms": 260200,
+      "name": "Tocarte Toa (2008 / Remix)",
+      "url": "https://open.spotify.com/track/72PjUs25nm0G3ECiwOjkOM"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2663,6 +2647,22 @@
       "duration_ms": 181002,
       "name": "Ahora (feat. Angel Doze)",
       "url": "https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "Nerdside",
+        "url": "https://open.spotify.com/album/34KerrXrPoanlVl1MtO2HG"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Drama",
+          "url": "https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "La Fuga",
+      "url": "https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "Quiero Una Chica",
+        "url": "https://open.spotify.com/album/24onBhnqUpvHxa86tmKpNe"
+      },
+      "artists": [
+        {
+          "name": "Latin Dreams",
+          "url": "https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX"
+        }
+      ],
+      "duration_ms": 175673,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1QYQaNlkmzIol3BdqFtGqb"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "It's My Time",
         "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
       },
@@ -2703,18 +2719,18 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Quiero Una Chica",
-        "url": "https://open.spotify.com/album/24onBhnqUpvHxa86tmKpNe"
+        "name": "Motivando A La Yal (Special Edition)",
+        "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
       },
       "artists": [
         {
-          "name": "Latin Dreams",
-          "url": "https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 175673,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/1QYQaNlkmzIol3BdqFtGqb"
+      "duration_ms": 190008,
+      "name": "Doncella",
+      "url": "https://open.spotify.com/track/3BYUW3fviY5RZyNzZhnLO1"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2735,22 +2751,6 @@
       "duration_ms": 239223,
       "name": "Yo Voy A Legar (feat. Zion)",
       "url": "https://open.spotify.com/track/0m2CS9McLcfM6UNtUBagyn"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Motivando A La Yal (Special Edition)",
-        "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 190008,
-      "name": "Doncella",
-      "url": "https://open.spotify.com/track/3BYUW3fviY5RZyNzZhnLO1"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2903,18 +2903,18 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/6e86ZPMiOcQxE8TAC9TBFH"
+      "duration_ms": 214973,
+      "name": "Dame Lo Que Quiero",
+      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2939,18 +2939,18 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
       "artists": [
         {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Dame Lo Que Quiero",
-      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
+      "duration_ms": 214560,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6e86ZPMiOcQxE8TAC9TBFH"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3003,6 +3003,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "The Money Machine Presenta: El Bando Korrupto 2",
+        "url": "https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Prez",
+          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "El Sobreviviente",
         "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
       },
@@ -3019,22 +3035,6 @@
       "duration_ms": 184906,
       "name": "Saoco",
       "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "The Money Machine Presenta: El Bando Korrupto 2",
-        "url": "https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Prez",
-          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Vampiresa",
-      "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3559,22 +3559,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Ag\u00e1rrala - Remix",
-      "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "Desahogo",
         "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
       },
@@ -3591,6 +3575,58 @@
       "duration_ms": 281813,
       "name": "Lo Grande Que Es Perdonar",
       "url": "https://open.spotify.com/track/5JFLXnWbJ0gsLFalPc5vpH"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "Te Pintaron Pajaritos",
+        "url": "https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m"
+      },
+      "artists": [
+        {
+          "name": "Yandar & Yostin",
+          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 172374,
+      "name": "Te Pintaron Pajaritos",
+      "url": "https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala - Remix",
+      "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190512,
+      "name": "\u00bfPor Que Te Demoras?",
+      "url": "https://open.spotify.com/track/6nAlJuLlRlpAcq30xIqKJs"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3619,38 +3655,18 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 190512,
-      "name": "\u00bfPor Que Te Demoras?",
-      "url": "https://open.spotify.com/track/6nAlJuLlRlpAcq30xIqKJs"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Te Pintaron Pajaritos",
-        "url": "https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m"
-      },
-      "artists": [
-        {
-          "name": "Yandar & Yostin",
-          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
-        },
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 172374,
-      "name": "Te Pintaron Pajaritos",
-      "url": "https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa"
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3675,38 +3691,18 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
         }
       ],
-      "duration_ms": 175533,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        },
-        {
-          "name": "Joan",
-          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Gata Fiera (feat. Joan)",
-      "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
+      "duration_ms": 199110,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3727,18 +3723,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
       },
       "artists": [
         {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        },
+        {
+          "name": "Joan",
+          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
         }
       ],
-      "duration_ms": 199110,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
+      "duration_ms": 208106,
+      "name": "Gata Fiera (feat. Joan)",
+      "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3791,18 +3791,18 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Rankiaera",
-        "url": "https://open.spotify.com/album/7JevIXrHqNB7wRPD7Z7Jod"
+        "name": "All Summer Long",
+        "url": "https://open.spotify.com/album/3yTzMpvST867rWlCx4LDg4"
       },
       "artists": [
         {
-          "name": "Kino Rankins",
-          "url": "https://open.spotify.com/artist/0B02ZsmSdJvc5NECwOUZ7A"
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
         }
       ],
-      "duration_ms": 189010,
-      "name": "Sandunguera",
-      "url": "https://open.spotify.com/track/0S0TLhH8s2bMyRt2GXdkAP"
+      "duration_ms": 223186,
+      "name": "Tempted to Touch (Old #2)",
+      "url": "https://open.spotify.com/track/3hWSIQ6kE8o5dcZ4MV74zZ"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

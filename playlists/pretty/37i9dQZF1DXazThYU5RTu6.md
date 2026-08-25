@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazThYU5RTu6.md) - [plain]
 
 > enjoy the IVE WORLD TOUR \[SHOW WHAT I AM\] LIVE SET including the voices of them on stage! \(아이브의 무대 멘트와 목소리가 포함된 \[SHOW WHAT I AM\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,759 likes - 31 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,772 likes - 31 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazThYU5RTu6.md) - [plain]
 | 30 | [Supernova Love](https://open.spotify.com/track/4U9gGfjz3wVSKMPDD4Rp9v) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/6h4ZRW8ptciCijS4IeWYMo) | 3:19 |
 | 31 | [After LIKE](https://open.spotify.com/track/6CV6j2xz54thzlrWML3kAW) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb) | 2:56 |
 
-Snapshot ID: `AAAAANoferYDz0n81hNK5F6mL4TLQ3+8`
+Snapshot ID: `AAAAACuTX0+taigDQEH1w/M3gDtJCoXn`

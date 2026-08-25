@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: 신입사원 강회장\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,625 likes - 37 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,629 likes - 37 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 | 36 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/0bppRVbxbVfZO0QrSdTeJi) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/0OL3dNYRwEE1yCB3DdzLHZ) | 3:12 |
 | 37 | [Fall In Love](https://open.spotify.com/track/09UK5kAe4SNJPOdU10DH73) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Fall In Love](https://open.spotify.com/album/4Z7wwnpo2e2FQplLqLXyNz) | 4:02 |
 
-Snapshot ID: `AAAAAOHPlOPHvBPpltnOzNZYbF4rw6Pm`
+Snapshot ID: `AAAAAC7vmGztkGDxbQKFJizojAU+uZZh`

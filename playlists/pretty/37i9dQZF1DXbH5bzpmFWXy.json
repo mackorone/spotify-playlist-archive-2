@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 310447,
+  "num_followers": 310449,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABfFTlLIgFCWUf21encHW5wFjTZJ",
+  "snapshot_id": "AAAAAF8K4tkNDPzORjbfjxzXj9CXN/SQ",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:07",
@@ -995,30 +995,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Mexican Invasion",
-        "url": "https://open.spotify.com/album/5ksj97hVu25U5lHRov3kkX"
-      },
-      "artists": [
-        {
-          "name": "T-Dre",
-          "url": "https://open.spotify.com/artist/7wGbzHaUlDhx4dUO4PCSmD"
-        },
-        {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4FqhfuOE9gIZuYAVIqEy4f"
-        },
-        {
-          "name": "Cali Life Style",
-          "url": "https://open.spotify.com/artist/3E2UDuBBn7uLqOz30oWEQu"
-        }
-      ],
-      "duration_ms": 288156,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4LLHvfvE21JQFD9ZKVCbd0"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "Skin de Bandida",
         "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "Mexican Invasion",
+        "url": "https://open.spotify.com/album/5ksj97hVu25U5lHRov3kkX"
+      },
+      "artists": [
+        {
+          "name": "T-Dre",
+          "url": "https://open.spotify.com/artist/7wGbzHaUlDhx4dUO4PCSmD"
+        },
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4FqhfuOE9gIZuYAVIqEy4f"
+        },
+        {
+          "name": "Cali Life Style",
+          "url": "https://open.spotify.com/artist/3E2UDuBBn7uLqOz30oWEQu"
+        }
+      ],
+      "duration_ms": 288156,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4LLHvfvE21JQFD9ZKVCbd0"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
+        "name": "Entre las de 20",
+        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 168511,
+      "name": "Entre las de 20",
+      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 188571,
       "name": "B de Bellako",
       "url": "https://open.spotify.com/track/3dZzUQVDLByfxVIStbVOu5"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
-        "name": "Entre las de 20",
-        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 168511,
-      "name": "Entre las de 20",
-      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "GOMIN0LA",
         "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 169440,
       "name": "GOMIN0LA",
       "url": "https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": "2026-07-03 06:00:07",

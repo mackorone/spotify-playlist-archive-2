@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,854 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,890 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 41 | [Pale Light](https://open.spotify.com/track/64F0tid5vwapfuC4ERAHyA) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Pale Light](https://open.spotify.com/album/6maZwUHv4hHHJl4Bzh4Q9k) | 3:45 |
 | 42 | [Tantra](https://open.spotify.com/track/0FIhFH19nbRao16SbzZ5dQ) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [The Chant](https://open.spotify.com/album/7MLHFcsLvgaL9nYzCf0AhL) | 3:35 |
 | 43 | [Viento](https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Viento EP](https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV) | 3:37 |
-| 44 | [So Alive \(VIP\)](https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [So Alive \(VIP\)](https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB) | 4:13 |
+| 44 | [So Alive \- VIP](https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [So Alive \(VIP\)](https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB) | 4:13 |
 | 45 | [RITMO](https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [RITMO](https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q) | 3:13 |
 | 46 | [Vendetta](https://open.spotify.com/track/5Y1SndahLemyQ1M9ydCf6N) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Gipsy Queen EP](https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx) | 3:29 |
 | 47 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 49 | [2084 \- Space 92 Remix](https://open.spotify.com/track/75SedaGZfay5uZffxEzk7M) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [2084 \(Space 92 Remix\)](https://open.spotify.com/album/38Ws4sERTEy1ACzu4CnLFA) | 3:46 |
 | 50 | [Born Again \(Babylonia\) feat\. Widemode](https://open.spotify.com/track/6MziWtIveg3XEYr2VVyW0i) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH), [Widemode](https://open.spotify.com/artist/1oB55C2OgosjV7fLfhNoMS) | [Born Again \(Babylonia\) feat\. Widemode](https://open.spotify.com/album/7zKOmzXqKcDNlHGpE1DnQ1) | 2:17 |
 
-Snapshot ID: `AAAAAF9il9654Of8dVPCazo6H+ZQetwo`
+Snapshot ID: `AAAAALYheh9fTA6f5ZCl8dHTTjY0A4yi`

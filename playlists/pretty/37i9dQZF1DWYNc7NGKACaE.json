@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83119,
+  "num_followers": 83117,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIiWfGLkPYr13Qac4rTg0RLxNDN",
+  "snapshot_id": "AAAAAM3CS5QMqlRY+8g87e5SKgwpnMYY",
   "tracks": [
     {
       "added_at": "2024-07-08 19:10:57",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "SPEED Versions",
+        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 106392,
+      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
+      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Luxo & Crime Speed",
         "url": "https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 140628,
       "name": "Luxo & Crime Speed",
       "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "SPEED Versions",
-        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 106392,
-      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
-      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Manda \u00c1udio (Sped Funk)",
         "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 99759,
       "name": "Manda \u00c1udio (Sped Funk)",
       "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "BOMBEI AQUELA MSC DO INVEJOSO",
-        "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
-      },
-      "artists": [
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "BOMBEI AQUELA MSC DO INVEJOSO",
-      "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 141615,
       "name": "Mas Existe um Lugar - speed",
       "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "BOMBEI AQUELA MSC DO INVEJOSO",
+        "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "BOMBEI AQUELA MSC DO INVEJOSO",
+      "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
-        "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        },
-        {
-          "name": "Dj Kiko Da Vila",
-          "url": "https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
-      "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
         "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 168615,
       "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
       "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
+        "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        },
+        {
+          "name": "Dj Kiko Da Vila",
+          "url": "https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
+      "url": "https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Ametista (Speed Up)",
         "url": "https://open.spotify.com/album/6LdidnaG9Du6NDSMv90mgg"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 107095,
       "name": "Ametista (Speed Up)",
       "url": "https://open.spotify.com/track/51MY4wQdwpyV7m8nW7a8uq"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Agora que eu estou sozinho nesse mal caminho speed up",
         "url": "https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 96548,
       "name": "Agora que eu estou sozinho nesse mal caminho speed up",
       "url": "https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2024-07-08 19:10:57",

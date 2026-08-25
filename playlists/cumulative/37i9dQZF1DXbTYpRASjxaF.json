@@ -7403,28 +7403,6 @@
     },
     {
       "album": {
-        "name": "Lil Tecca",
-        "url": "https://open.spotify.com/album/5G3rPY7clQWQXtnUehZsRA"
-      },
-      "artists": [
-        {
-          "name": "Meyg\u00f4",
-          "url": "https://open.spotify.com/artist/6V17FvnvaDuA6vfnO4uKag"
-        },
-        {
-          "name": "Shigueru",
-          "url": "https://open.spotify.com/artist/0rxJWcxlicSQkWkNGXumXE"
-        }
-      ],
-      "date_added": "2026-08-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221857,
-      "name": "Lil Tecca",
-      "url": "https://open.spotify.com/track/7myEAgjrvcstCvnn4UGDwG"
-    },
-    {
-      "album": {
         "name": "loira de medicina",
         "url": "https://open.spotify.com/album/155LCmJKAVr0ZMGd9pHNdf"
       },
@@ -14246,6 +14224,28 @@
       "duration_ms": 134848,
       "name": "STARS (INTERL\u00daDIO)",
       "url": "https://open.spotify.com/track/5Hl8GKGt1ruEG261KZJKmE"
+    },
+    {
+      "album": {
+        "name": "Status / Lil Tecca",
+        "url": "https://open.spotify.com/album/5G3rPY7clQWQXtnUehZsRA"
+      },
+      "artists": [
+        {
+          "name": "Meyg\u00f4",
+          "url": "https://open.spotify.com/artist/6V17FvnvaDuA6vfnO4uKag"
+        },
+        {
+          "name": "Shigueru",
+          "url": "https://open.spotify.com/artist/0rxJWcxlicSQkWkNGXumXE"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221857,
+      "name": "Status / Lil Tecca",
+      "url": "https://open.spotify.com/track/7myEAgjrvcstCvnn4UGDwG"
     },
     {
       "album": {

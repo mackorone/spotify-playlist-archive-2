@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נונו
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,220 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,227 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [תקופה](https://open.spotify.com/track/3u1Bn1IGwuUIBFzmBO1fQ7) | [משה כורסיה](https://open.spotify.com/artist/2A6k5DwVzqael6S2FYKGZT) | [תקופה](https://open.spotify.com/album/2DMsG0rEM5Q2bH6xZ3FwmY) | 2:43 |
 | 50 | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/track/5jITjgPYZYUieRhS7fUJPP) | [אורי כלטוב](https://open.spotify.com/artist/0Ifr5SPFErAslSPfbPgUNW) | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/album/6vI3qWUMOfguz5kspNiPIo) | 2:30 |
 
-Snapshot ID: `AAAAAEYMNpxfEbOD93pgedcTxrFqJ1fu`
+Snapshot ID: `AAAAAP28uNqzqKTaW2awJ2nTyulN0qcX`

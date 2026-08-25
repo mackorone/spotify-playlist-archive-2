@@ -4,7 +4,7 @@
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-271 songs - 8 hr 30 min
+274 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [kys delete ur songs](https://open.spotify.com/track/07nOL4L0tXqL8O9ufMEeFT) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 0:51 | 2026-01-23 |  |
 | [LFG](https://open.spotify.com/track/4v0LYAYKIfl66eNmKz6pXA) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LFG](https://open.spotify.com/album/4mXKmWhpnjnEl3K3ltodyU) | 2:46 | 2023-12-05 |  |
 | [LIES](https://open.spotify.com/track/42NO1CgBdqn9jm0bZ2zpQp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LIES](https://open.spotify.com/album/6H2AwWRJKRixHw7wcUliAx) | 1:05 | 2023-12-05 |  |
+| [LIFE IS TRANSACTIONAL](https://open.spotify.com/track/1YKtKH6goYFFo1RJ7ZnRmA) | [Meowmaid Squad](https://open.spotify.com/artist/0ICDi877v90BpOrAGuCZAO), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LIFE IS TRANSACTIONAL](https://open.spotify.com/album/1YDfV0UBp40232etcnBn69) | 3:24 | 2026-08-25 |  |
 | [light show](https://open.spotify.com/track/2ecNmSWMWHPuLoqEtmpI2e) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 1:39 | 2026-01-23 |  |
 | [light show](https://open.spotify.com/track/6fcTAFTH4i5wZHPWvsYkM6) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [nekozuna](https://open.spotify.com/artist/6WWwCtl1SwJ2lrrO9h9GDK) | [light show](https://open.spotify.com/album/0NKSXQrINqlKY8uHcnG8ND) | 1:47 | 2024-09-07 |  |
 | [little constellation!](https://open.spotify.com/track/3EC29mW4jbBd5NJfHafrDO) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 3:37 | 2025-07-09 |  |
@@ -184,6 +185,7 @@
 | [miss my call \(cover\)](https://open.spotify.com/track/6V74ZHQefH40T9oKzsCfTl) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [miss my call \(cover\)](https://open.spotify.com/album/6GTEWE9XV0aygoVvQvvDRO) | 1:39 | 2023-12-05 |  |
 | [My Best Friend](https://open.spotify.com/track/1Jm8NcQznEVoaJKTo55lWu) | [Blurain](https://open.spotify.com/artist/1qoYHtGe1GYUzFpoRIse8y), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [What Life Really Means](https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv) | 4:32 | 2024-09-07 |  |
 | [my wedding vows \(bandlab draft\)](https://open.spotify.com/track/20tyjhMlh86gHLvWEglLwc) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [my wedding vows \(bandlab draft\)](https://open.spotify.com/album/4Kj2mizREDHrPPu4e7KSsg) | 1:51 | 2025-01-07 |  |
+| [Naked \(Take It Off\)](https://open.spotify.com/track/0eOFAi3pkOtr0RTtwZbj95) | [Ari Angel](https://open.spotify.com/artist/1ghLMZERLxfWGY22QMtTfv), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Naked \(Take It Off\)](https://open.spotify.com/album/6DOz94e6FkAs114bbe3DQ9) | 2:50 | 2026-08-25 |  |
 | [Naked \(Take It Off\)](https://open.spotify.com/track/7JK1S7nir9iTilzLYnJMun) | [Ari Angel](https://open.spotify.com/artist/1ghLMZERLxfWGY22QMtTfv), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ANGEL](https://open.spotify.com/album/6mYJ8HjTRs8fvLryZyEnmb) | 2:50 | 2026-07-29 |  |
 | [never die](https://open.spotify.com/track/0M7Z4htoGZy9vlasYOCiru) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 0:34 | 2023-12-05 |  |
 | [no inbetween](https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no inbetween](https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp) | 1:51 | 2023-12-05 |  |
@@ -253,6 +255,7 @@
 | [Tell me!!](https://open.spotify.com/track/0pLAxdzTL52Q4g9RvTb3Fl) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:13 | 2025-04-14 |  |
 | [Tell me!!](https://open.spotify.com/track/3iIRxUCaiWHbluydLzfQb2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Tell me!!](https://open.spotify.com/album/1GEwT92iCntlSBBlFwjeki) | 3:13 | 2024-04-12 |  |
 | [Tell me!!](https://open.spotify.com/track/4JqNAoZkRgZZrZPgmQe2PI) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 3:13 | 2026-01-13 |  |
+| [Tell me!!](https://open.spotify.com/track/4vSZYU5TduuNGLbSLOJaKU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Tell me!! with Need to know \(interlude\)](https://open.spotify.com/album/2YP8V2O4uD8e35mHjAbHTJ) | 3:13 | 2026-08-25 |  |
 | [they all hate me](https://open.spotify.com/track/75QJUIqWBe5BIAaOb1Q0Wp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [outcast \(they all hate me\)](https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62) | 1:35 | 2023-12-05 |  |
 | [this song is a coping mechanism](https://open.spotify.com/track/3anrevhFS13kBhosfouHy2) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 0:53 | 2026-01-22 |  |
 | [this ts pmo me off](https://open.spotify.com/track/4MGbrzC5f3dLfSXdjhz4Es) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [this ts pmo me off](https://open.spotify.com/album/26Koe9XUKRUdzsmmz45gyz) | 1:43 | 2025-06-27 |  |

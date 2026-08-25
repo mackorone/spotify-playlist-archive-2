@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including makko, The Chainsmokers, Jorja Smith, Sido, Jazeek, Carly Rae Jepsen & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,083 likes - 96 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,076 likes - 96 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 66 | [Moving On](https://open.spotify.com/track/5Xq1Hw0vnLsTaIoOOPCa1g) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Iñutu](https://open.spotify.com/artist/7xWxXNZbl5zkIgEaVdOW4O) | [Moving On](https://open.spotify.com/album/3CPgLBl4AXdnsYM2ck9NGj) | 3:55 |
 | 67 | [Schwarzer Hund \(Joel's Lieblingslieder\)](https://open.spotify.com/track/2LHCHiSKrX1g3zKyKp3vTs) | [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A), [Katha Rosa](https://open.spotify.com/artist/767iqRy8U8T4rAdDscZt57) | [Schwarzer Hund \(Joel's Lieblingslieder\)](https://open.spotify.com/album/2jXNB1c0zEH8Z9YuJwv6M5) | 2:56 |
 | 68 | [Die 2 Young \(ft\. 100Bandplan\)](https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [Draft Day](https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP) | 2:50 |
-| 69 | [Worshipping the Sun](https://open.spotify.com/track/0NP6gHY2QqvFi0uoGqrpPz) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Worshipping the Sun](https://open.spotify.com/album/3YvzZaB3r4p51588i8HMS3) | 3:03 |
+| 69 | [Worshipping The Sun](https://open.spotify.com/track/0NP6gHY2QqvFi0uoGqrpPz) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Worshipping The Sun](https://open.spotify.com/album/3YvzZaB3r4p51588i8HMS3) | 3:03 |
 | 70 | [dummes klavier](https://open.spotify.com/track/6prZ5pA4NAtnVjCbFZOjef) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [dummes klavier](https://open.spotify.com/album/3RRq7FqNVKTblgANV4Ugp4) | 3:19 |
 | 71 | [Take It Higher](https://open.spotify.com/track/4TcDLZ64D57GAVfLUGBrr4) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Take It Higher](https://open.spotify.com/album/6N4CdLsearJv1Aa5j7nXwu) | 3:13 |
 | 72 | [Ascension](https://open.spotify.com/track/5EzDFL1Wz95Ip4kp4LyuRX) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Ascension](https://open.spotify.com/album/7xNy3cBdyOG52lOEpbJbvy) | 3:02 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 95 | [Aus meinem Kopf](https://open.spotify.com/track/7hwpmjKIMDzADvirA6yQ0I) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Aus meinem Kopf](https://open.spotify.com/album/2OT9kCogQLGvK7TATOcq2q) | 3:24 |
 | 96 | [Crazy Frog \- Axel F](https://open.spotify.com/track/31O0OYNBVsw58u3AgQqYPO) | [The Butcher Sisters](https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM) | [Crazy Frog \- Axel F](https://open.spotify.com/album/6w83dmZPBFyWlCbWhp83EI) | 2:38 |
 
-Snapshot ID: `AAAAAIq6+1EL+00FOsYI9aY4MIAi3+B5`
+Snapshot ID: `AAAAAMpSAsnlyXecYSu8Zs78KgNKFi4x`

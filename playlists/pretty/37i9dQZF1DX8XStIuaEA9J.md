@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Tele
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,212 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,209 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 69 | [たりない](https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [たりない](https://open.spotify.com/album/3lLEAOFcIpzCTZn2ZaGaJk) | 3:27 |
 | 70 | [夏目](https://open.spotify.com/track/4w8wiJW2oaFCfsGJGovNkL) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [満ちた紫](https://open.spotify.com/album/0z6aMqxY8jiSeSwvzyQusA) | 4:34 |
 
-Snapshot ID: `AAAAAHMu2zqs5paUbPq8GBK6I9g6h6V1`
+Snapshot ID: `AAAAACKXXRFWnng7HMu0iu9bU/Zwt+7n`

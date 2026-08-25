@@ -1,12 +1,12 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63248,
+  "num_followers": 63251,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALniHlpVOErkBL3SxMRJbE4vgCGL",
+  "snapshot_id": "AAAAAIdRSapUj3YtUA0cM99plP/pVyud",
   "tracks": [
     {
       "added_at": "2026-04-21 15:00:41",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
-        "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
-      },
-      "artists": [
-        {
-          "name": "TearS",
-          "url": "https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 280665,
-      "name": "\u30bb\u30c4\u30caDrops",
-      "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
         "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 218159,
       "name": "SAKE OF LOVE",
       "url": "https://open.spotify.com/track/5aSdBBubG2yHtVUF7KcNZl"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
+        "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
+      },
+      "artists": [
+        {
+          "name": "TearS",
+          "url": "https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 280665,
+      "name": "\u30bb\u30c4\u30caDrops",
+      "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Mellow Addiction (Short ver.)",
-        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 134100,
-      "name": "Mellow Addiction - Short ver.",
-      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01Bright me up!!\u300f\u30a2\u30d7\u30ea\u4e3b\u984c\u6b4c\u300cBRIGHTEST STARS!!\u300d",
         "url": "https://open.spotify.com/album/5Ctyhj2QjC7DhCikMYdrNt"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 188639,
       "name": "BRIGHTEST STARS!! (ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba ver.)",
       "url": "https://open.spotify.com/track/6goODWB6IHzU96zSBLZEbf"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "Mellow Addiction (Short ver.)",
+        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 134100,
+      "name": "Mellow Addiction - Short ver.",
+      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "Dear World (Short ver.)",
-        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 145300,
-      "name": "Dear World - Short ver.",
-      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300cYeeeeES! JUKEBOX\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/1NssTUwDb3XvecIxuODTPi"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "Dear World (Short ver.)",
+        "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 145300,
+      "name": "Dear World - Short ver.",
+      "url": "https://open.spotify.com/track/4WhbXvkphy7lrFzOVelHqX"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "Switch\u300cWish upon a MUSIC!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/5AZolT2qgm76KwEncevfgK"
       },
@@ -915,6 +915,26 @@
       "duration_ms": 210323,
       "name": "Fairy Tale Library",
       "url": "https://open.spotify.com/track/1IPJ4i89RPAkg3TyRUrtK5"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
+      },
+      "artists": [
+        {
+          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1011,26 +1031,6 @@
       "duration_ms": 210979,
       "name": "ESCAPE",
       "url": "https://open.spotify.com/track/7xEXC32aRjWrLLTGfwto2N"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
-      },
-      "artists": [
-        {
-          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
-      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
     },
     {
       "added_at": "2026-04-21 15:00:41",

@@ -1,12 +1,12 @@
 {
   "description": "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2026 official playlist. Cover: Chappell Roan.",
-  "num_followers": 18877,
+  "num_followers": 18876,
   "original_name": "New Year's Rockin' Eve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADK8sQ5Z+5WnA0f7q3+l8qInG2uo",
+  "snapshot_id": "AAAAABqfjwV3kjYCWZD0iIlui4b+SAEc",
   "tracks": [
     {
       "added_at": "2025-12-29 17:14:31",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-12-29 17:14:31",
       "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Girl Crush",
-      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
-    },
-    {
-      "added_at": "2025-12-29 17:14:31",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2025-12-29 17:14:31",
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Girl Crush",
+      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
     },
     {
       "added_at": "2025-12-29 17:14:31",

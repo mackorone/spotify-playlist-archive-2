@@ -1,12 +1,12 @@
 {
   "description": "New music from Roxy Dekker, Joseph Kamel x Vitaa, Fontaines D.C. and more...",
-  "num_followers": 53217,
+  "num_followers": 53225,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF17iYe6J3sWb4WWqqRsbY6ygmZL",
+  "snapshot_id": "AAAAADWtvE2EWNHsPKeGhxzm4ZD89ETk",
   "tracks": [
     {
       "added_at": "2026-08-20 22:01:13",
@@ -591,34 +591,6 @@
     {
       "added_at": "2026-08-20 22:01:13",
       "album": {
-        "name": "AVE",
-        "url": "https://open.spotify.com/album/58VdxhqKxKMKIZaK2N41Yi"
-      },
-      "artists": [
-        {
-          "name": "joki",
-          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "LE:GEND",
-          "url": "https://open.spotify.com/artist/1i0EEVYkm3H4GF8LccSAB2"
-        },
-        {
-          "name": "Dunnie",
-          "url": "https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "AVE",
-      "url": "https://open.spotify.com/track/3bRkjJimxvXO0q9IMlkFpf"
-    },
-    {
-      "added_at": "2026-08-20 22:01:13",
-      "album": {
         "name": "Happiness Anytime: Part 2",
         "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
       },
@@ -875,22 +847,6 @@
       "duration_ms": 107625,
       "name": "BLOQU\u00c9",
       "url": "https://open.spotify.com/track/3mhQMxC8kOuANTjHMBUnXZ"
-    },
-    {
-      "added_at": "2026-08-20 22:01:13",
-      "album": {
-        "name": "Capuchon",
-        "url": "https://open.spotify.com/album/5t6AEx7uqhIDtYJVGjgeBW"
-      },
-      "artists": [
-        {
-          "name": "Jack",
-          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/5jSmpZ510PLKS25uL17NqH"
     },
     {
       "added_at": "2026-08-20 22:01:13",

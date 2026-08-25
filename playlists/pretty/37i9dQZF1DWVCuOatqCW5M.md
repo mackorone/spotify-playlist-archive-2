@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Goldie Sohel, Asees Kaur, Anurag Saikia and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,684 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,778 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 11 | [Iss Baarish Mein](https://open.spotify.com/track/45SRRK89L134g875lh5cn4) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Faisal Miya Photuwale](https://open.spotify.com/artist/3Fqd8tulb5mkZm3qXJD4th) | [Iss Baarish Mein](https://open.spotify.com/album/77XwGMgmzDHPN8UK3QEQxZ) | 3:19 |
 | 12 | [Cold Showers](https://open.spotify.com/track/6qDLLBWTYcsluamV9L3HO1) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um) | [Cold Showers](https://open.spotify.com/album/2vcu1JmTKHFZKL1CoHzaSH) | 4:17 |
 | 13 | [Jo Koi Pooche](https://open.spotify.com/track/3wzl1dUmYWoOrgqgElh2oF) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Jo Koi Pooche](https://open.spotify.com/album/7ByNYtE7AGDQi3d1zOCVtU) | 2:50 |
-| 14 | [Tere Sang Rehna](https://open.spotify.com/track/560vnIacH4ZnxLwa00DvTi) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [saavi](https://open.spotify.com/artist/1HX8zFZoMjiLD9oXfXwKX4), [Harsh Aviral](https://open.spotify.com/artist/6CubMMfX7jm8MABuC9YKo1) | [Tere Sang Rehna](https://open.spotify.com/album/0Oxdv58bdaOBD5xkHiu0Hi) | 3:13 |
+| 14 | [Tere Sang Rehna](https://open.spotify.com/track/560vnIacH4ZnxLwa00DvTi) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Harsh Aviral](https://open.spotify.com/artist/6CubMMfX7jm8MABuC9YKo1), [Saviimusic](https://open.spotify.com/artist/1ksypzEHG5BZh9DUGs1MLr) | [Tere Sang Rehna](https://open.spotify.com/album/0Oxdv58bdaOBD5xkHiu0Hi) | 3:13 |
 | 15 | [Aadat](https://open.spotify.com/track/2qnZVR8W9RiWIk43Gc609b) | [Soumya Kumaar](https://open.spotify.com/artist/1D1n7hRcCDqWBjlO10E7ZU), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Aadat](https://open.spotify.com/album/3cxtYL0BPYAWFo03RmGgsI) | 2:55 |
 | 16 | [Barsaat Lagdi Ae](https://open.spotify.com/track/7xbRQfVgKHGyp5grJErFop) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Barsaat Lagdi Ae](https://open.spotify.com/album/0DVXVJZHAu4mBhjMxmlN6k) | 3:06 |
 | 17 | [Ishq Tamasha](https://open.spotify.com/track/4xp2oaVZ4gjhV5wKepTilN) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Ishq Tamasha](https://open.spotify.com/album/1KQNSPBTNMU1i2n1tDzQUa) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Meri Saansein](https://open.spotify.com/track/1DgdyYtZjfmBOxLuDLHXyH) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Meri Saansein](https://open.spotify.com/album/45kudbR7PLOdQz52cgP8FW) | 2:39 |
 | 50 | [Qinniya Soni](https://open.spotify.com/track/7EsWEd2s6hUUNw3I2QqKrn) | [QARAN](https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Qinniya Soni](https://open.spotify.com/album/5ltb87tjm7K1V3BHhE5kcT) | 3:11 |
 
-Snapshot ID: `AAAAABuzZgcs4lYxO2XBwfPgEvjuymxB`
+Snapshot ID: `AAAAADt0/srG+DVhVMvyzAaDkllHSBZt`

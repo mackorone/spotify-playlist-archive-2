@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35779,
+  "num_followers": 35784,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAAC+B6ElGLZMn9uZSqbgt7jH",
+  "snapshot_id": "aoo4AAAAAAAyhh6TaVU/t4BZGB7SMmYE",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
+        "name": "Broken Crown Halo",
+        "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 196080,
-      "name": "Delirium",
-      "url": "https://open.spotify.com/track/7q9si83DQmdTuT7zfuus7f"
+      "duration_ms": 247573,
+      "name": "Nothing Stands in Our Way",
+      "url": "https://open.spotify.com/track/20gUq53TwfLsyq7AIUL2tt"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Crown Halo",
-        "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 247573,
-      "name": "Nothing Stands in Our Way",
-      "url": "https://open.spotify.com/track/20gUq53TwfLsyq7AIUL2tt"
+      "duration_ms": 196080,
+      "name": "Delirium",
+      "url": "https://open.spotify.com/track/7q9si83DQmdTuT7zfuus7f"
     },
     {
       "added_at": null,

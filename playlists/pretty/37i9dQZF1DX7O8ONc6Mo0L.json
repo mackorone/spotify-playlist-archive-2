@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 385021,
+  "num_followers": 385059,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM6MDQrf+BjYUeAfjmBkeTq2AZni",
+  "snapshot_id": "AAAAAAabMl23AQVH9qfjrAu0yKSqIZjd",
   "tracks": [
     {
       "added_at": "2026-08-10 15:32:09",
@@ -251,22 +251,18 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Grande \u00e9 o Senhor (Ao Vivo Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0ATcc09leJRsSbZQMe0eOk"
+        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
       },
       "artists": [
         {
-          "name": "D\u00e9bora Buzas",
-          "url": "https://open.spotify.com/artist/6K6aHuOnmEhMwRlmgP6HA7"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
         }
       ],
-      "duration_ms": 246360,
-      "name": "Grande \u00e9 o Senhor - Ao Vivo Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0MqA8iyuwOWym2tWj5qOJc"
+      "duration_ms": 443013,
+      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -303,18 +299,22 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
+        "name": "Grande \u00e9 o Senhor (Ao Vivo Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0ATcc09leJRsSbZQMe0eOk"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "D\u00e9bora Buzas",
+          "url": "https://open.spotify.com/artist/6K6aHuOnmEhMwRlmgP6HA7"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 443013,
-      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
+      "duration_ms": 246360,
+      "name": "Grande \u00e9 o Senhor - Ao Vivo Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0MqA8iyuwOWym2tWj5qOJc"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Quem Te Guarda \u00c9 Deus",
-        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quem Te Guarda \u00c9 Deus",
-      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
         "url": "https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 236031,
       "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
       "url": "https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Quem Te Guarda \u00c9 Deus",
+        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quem Te Guarda \u00c9 Deus",
+      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Minha Ess\u00eancia",
         "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 269354,
       "name": "Descansa",
       "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
+        "name": "Nova Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Valente",
+          "url": "https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Nova Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
         "name": "Me Enche de Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
-        "name": "Nova Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
-      },
-      "artists": [
-        {
-          "name": "Felipe Valente",
-          "url": "https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Nova Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
     },
     {
       "added_at": "2026-08-10 15:32:09",

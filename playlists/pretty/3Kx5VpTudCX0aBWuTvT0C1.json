@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd00 Hit shuffle &amp; meet new artists &amp; pop rock song. \u271a Each track also joins tailored playlists.  By @faceless.diversum \ud83d\udcf8 Insta. Follow, save &amp; share ! Submit here : ",
-  "num_followers": 2066,
+  "num_followers": 2078,
   "original_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",
   "owner": {
     "name": "DIVERSUM WORLD",
     "url": "https://open.spotify.com/user/1163990293"
   },
-  "snapshot_id": "AAACzBrxSxUUcY/ftEDv3otADxvvXeaM",
+  "snapshot_id": "AAACz1aLoOafaQ0vIeUlnfwBTPu5aFQ1",
   "tracks": [
     {
       "added_at": "2026-01-04 15:06:22",
@@ -1435,6 +1435,58 @@
       "duration_ms": 201841,
       "name": "Future #1 - 2026 Remix",
       "url": "https://open.spotify.com/track/7JzBGVfqflJK20PwDcxxmM"
+    },
+    {
+      "added_at": "2026-08-24 06:33:14",
+      "album": {
+        "name": "Circuiti e carne",
+        "url": "https://open.spotify.com/album/7gdakhmHT7wLc9e2eYakPi"
+      },
+      "artists": [
+        {
+          "name": "Gin Ozz",
+          "url": "https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Circuiti e carne",
+      "url": "https://open.spotify.com/track/2koWXf42GzdGzto78RLYjP"
+    },
+    {
+      "added_at": "2026-08-24 12:09:09",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/1qsee7DPTIy5vWAL9e5MZi"
+      },
+      "artists": [
+        {
+          "name": "Nat Longordo",
+          "url": "https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg"
+        },
+        {
+          "name": "Nick Barone",
+          "url": "https://open.spotify.com/artist/1jDa5eIwAZAqVMjV23pLrA"
+        }
+      ],
+      "duration_ms": 230071,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6Y593laIPH7qd4Lwz3n7ct"
+    },
+    {
+      "added_at": "2026-08-24 12:14:55",
+      "album": {
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva"
+      },
+      "artists": [
+        {
+          "name": "PeterLs",
+          "url": "https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5"
+        }
+      ],
+      "duration_ms": 192920,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md"
     }
   ],
   "unique_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",

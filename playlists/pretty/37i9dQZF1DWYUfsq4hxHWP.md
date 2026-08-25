@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: KIANA, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,377 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,397 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Nothin' But A Hangover](https://open.spotify.com/track/5C9GEGZtSHWfwvs3Xcldlv) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Lonestar \(Deluxe\)](https://open.spotify.com/album/6RcqSea3PPNSw1fxYHLti3) | 3:24 |
 | 75 | [Road Signs](https://open.spotify.com/track/7pd7YI3dVDk2odI3h8jJXx) | [Josie](https://open.spotify.com/artist/0lkn1fc0HZVVtrl8otRdT1) | [Road Signs](https://open.spotify.com/album/5xfpPuuV38qotf3AZPdFah) | 3:09 |
 
-Snapshot ID: `AAAAAPNSc22mbrW5rhHoCY/wHOX8CF39`
+Snapshot ID: `AAAAAC7S3E6A/rNGIfRioF+NmNMynu+2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0648\u0648\u0644\u064a\u062a",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0627\u0645\u0631 \u0639\u0627\u0634\u0648\u0631",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 274208,
       "name": "Ana Wel Amar",
       "url": "https://open.spotify.com/track/3ugRZ02LY4JuNeISmv4bv3"
@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "EKDEB W OUL",
+        "url": "https://open.spotify.com/album/4ywsfJ6EGEtwg6TjmnY5MS"
+      },
+      "artists": [
+        {
+          "name": "Khaled Ali",
+          "url": "https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202463,
+      "name": "EKDEB W OUL",
+      "url": "https://open.spotify.com/track/160pEuFoT79CDoQf4q4MDv"
+    },
+    {
+      "album": {
         "name": "Ekhtalafna .. Fara'na .. Eftara'na",
         "url": "https://open.spotify.com/album/1kt8RaftlYDHnL76bpTknX"
       },
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 220858,
       "name": "Eta'akhar Etabna",
       "url": "https://open.spotify.com/track/3r0dbLJAcfplxwmj2ehI7t"
@@ -3717,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "Merayt El Hob",
+        "url": "https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243754,
+      "name": "Merayt El Hob",
+      "url": "https://open.spotify.com/track/5EpEEaHLB2vPYQzP1oSlfr"
+    },
+    {
+      "album": {
         "name": "MESAMA3EEN (Deluxe)",
         "url": "https://open.spotify.com/album/0F05Bs9oMtCyuAd22o4xKQ"
       },
@@ -3913,6 +3949,28 @@
     },
     {
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/6bMRDWTllCiFBjlbVwiKUh"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        },
+        {
+          "name": "Sary Hany",
+          "url": "https://open.spotify.com/artist/4PnNbdBG62BEGFDAKDUrV1"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284106,
+      "name": "Mot Leh",
+      "url": "https://open.spotify.com/track/6gjUxA4kTiQadHyRvCyD0Q"
+    },
+    {
+      "album": {
         "name": "Msh Awl Marra",
         "url": "https://open.spotify.com/album/76Qxrmz6Uxxu4sIds35Kax"
       },
@@ -4102,7 +4160,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 215368,
       "name": "Nesena",
       "url": "https://open.spotify.com/track/43D4HrgNzOW3DOf5Skp7wg"
@@ -4895,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "Tameni Aal Habayeb",
+        "url": "https://open.spotify.com/album/5AsjQL9ljC412GUxmhV4CR"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235258,
+      "name": "Tameni Aal Habayeb",
+      "url": "https://open.spotify.com/track/7mkr8nE8EGXqOkk5O741Cj"
+    },
+    {
+      "album": {
         "name": "Tanteet",
         "url": "https://open.spotify.com/album/2CcLYDhrKezFBuekZilbwi"
       },
@@ -5264,6 +5340,24 @@
       "duration_ms": 148000,
       "name": "Wahshteeny",
       "url": "https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC"
+    },
+    {
+      "album": {
+        "name": "Sadeek El Bernameg",
+        "url": "https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184354,
+      "name": "Wala Ash Wala Kan",
+      "url": "https://open.spotify.com/track/0Bcrb7ZOOxkVgcZEtPWxXy"
     },
     {
       "album": {
@@ -5740,7 +5834,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 190434,
       "name": "\u0623\u0646\u0627 \u0628\u0627\u0628\u0627",
       "url": "https://open.spotify.com/track/5PPphP4W68g1VWhghpGK0U"
@@ -7618,7 +7712,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 245352,
       "name": "\u063a\u0628\u064a",
       "url": "https://open.spotify.com/track/4Xp2xAmjjGvMsmPwoz5aBR"

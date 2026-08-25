@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Cara Delevingne
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,727 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,778 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 124 | [rwm](https://open.spotify.com/track/5KuDuzCVDZqtFz83HMZsLP) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [rwm](https://open.spotify.com/album/7fEre53L3MiyxsBAst0PHY) | 2:30 |
 | 125 | [Love I You](https://open.spotify.com/track/5va7AdTu5BWzZcziPkdxSP) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:22 |
 
-Snapshot ID: `AAAAAFWhEwlw+PhZGpF1+swsV4dNkS12`
+Snapshot ID: `AAAAABFhQUWNDastEtdPbebtXnuwiWGK`

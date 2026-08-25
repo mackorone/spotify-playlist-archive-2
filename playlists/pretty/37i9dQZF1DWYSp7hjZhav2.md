@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:4iBwchw0U0GZv5RfVYSMxN">Anyma</a>'s favorite tracks\. Updated regularly\. Curated by Anyma\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,226 likes - 53 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,245 likes - 53 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 52 | [Tranquilizer](https://open.spotify.com/track/3FFASCZup9WBF9ENFg7RIr) | [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Tranquilizer 2.0](https://open.spotify.com/album/7bNIaugC1V2faSkAS23wnZ) | 7:18 |
 | 53 | [Lady Love](https://open.spotify.com/track/4rYTg8mW6aGhJqZ070nyGx) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [Seoul Bizarre](https://open.spotify.com/album/3NDJ5uQQP5NYUmO9D7DgEj) | 3:20 |
 
-Snapshot ID: `AAAAAHEzRpJicmtI8EKtFWb0kd1aqG8Y`
+Snapshot ID: `AAAAAJARwWt4P7fLvkYXX1roY0V4BkG/`

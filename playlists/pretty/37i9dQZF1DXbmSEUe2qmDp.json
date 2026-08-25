@@ -1,12 +1,12 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 482901,
+  "num_followers": 482891,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKYBPZKbVdJq3AwH9OzHDdJvyQz/",
+  "snapshot_id": "AAAAAF4sgf1TwEcwRjjkn4qrtC/pSo9V",
   "tracks": [
     {
       "added_at": "2026-08-14 03:00:56",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
+        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
+      },
+      "artists": [
+        {
+          "name": "Nando Moreno",
+          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Tanto Faz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
         "name": "Ayala & Julio Cesar (Ao Vivo Em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/3gFNUpamog1CINhbBhcygz"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 191369,
       "name": "Sofrendo no Escuro - Ao Vivo",
       "url": "https://open.spotify.com/track/0HmjUrTo98SR6DHGvXYGwS"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
-        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
-      },
-      "artists": [
-        {
-          "name": "Nando Moreno",
-          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Tanto Faz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Perdid\u00e3o",
-        "url": "https://open.spotify.com/album/4iHT5kTIal0HSj7D00u1nR"
-      },
-      "artists": [
-        {
-          "name": "Guilherme e Alessandro",
-          "url": "https://open.spotify.com/artist/6WiDwiopZPo2Fb5QgZiIC2"
-        },
-        {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        }
-      ],
-      "duration_ms": 150396,
-      "name": "Perdid\u00e3o",
-      "url": "https://open.spotify.com/track/5SPXRFQaHlegG0Cqlitxax"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "S\u00f3 Porque Eu Bebi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2S1BehXiJMwiHwx3Dofo3E"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 235783,
       "name": "Faz um Ano - Ao Vivo",
       "url": "https://open.spotify.com/track/6S0irUulkJl6xmiAYSvQ5S"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Perdid\u00e3o",
+        "url": "https://open.spotify.com/album/4iHT5kTIal0HSj7D00u1nR"
+      },
+      "artists": [
+        {
+          "name": "Guilherme e Alessandro",
+          "url": "https://open.spotify.com/artist/6WiDwiopZPo2Fb5QgZiIC2"
+        },
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        }
+      ],
+      "duration_ms": 150396,
+      "name": "Perdid\u00e3o",
+      "url": "https://open.spotify.com/track/5SPXRFQaHlegG0Cqlitxax"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Primeira L\u00e1grima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
-      },
-      "artists": [
-        {
-          "name": "Arielly Dara",
-          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "Primeira L\u00e1grima - Ao Vivo",
-      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Barzin, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 178356,
       "name": "Porteira Fechada - Ao Vivo",
       "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Primeira L\u00e1grima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
+      },
+      "artists": [
+        {
+          "name": "Arielly Dara",
+          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "Primeira L\u00e1grima - Ao Vivo",
+      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -575,6 +575,30 @@
       "duration_ms": 196994,
       "name": "Casquinha - Ao Vivo",
       "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Ao Vivo no Studio Bar, Vol.1",
+        "url": "https://open.spotify.com/album/2P3xr478xr9eUnpOsfIUQo"
+      },
+      "artists": [
+        {
+          "name": "Hugo e Alex",
+          "url": "https://open.spotify.com/artist/0BXcdgkVWzCQGKzQG3vbZf"
+        },
+        {
+          "name": "Enzo Rabelo",
+          "url": "https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6xTE2Q6MPdXyS5FJ6JGURo"
+        }
+      ],
+      "duration_ms": 228351,
+      "name": "Cacos de Briga - Ao Vivo",
+      "url": "https://open.spotify.com/track/0aTRJjEmWkXicXmzZFeuxS"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -619,46 +643,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Ao Vivo no Studio Bar, Vol.1",
-        "url": "https://open.spotify.com/album/2P3xr478xr9eUnpOsfIUQo"
-      },
-      "artists": [
-        {
-          "name": "Hugo e Alex",
-          "url": "https://open.spotify.com/artist/0BXcdgkVWzCQGKzQG3vbZf"
-        },
-        {
-          "name": "Enzo Rabelo",
-          "url": "https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm"
-        },
-        {
-          "name": "Bruno",
-          "url": "https://open.spotify.com/artist/6xTE2Q6MPdXyS5FJ6JGURo"
-        }
-      ],
-      "duration_ms": 228351,
-      "name": "Cacos de Briga - Ao Vivo",
-      "url": "https://open.spotify.com/track/0aTRJjEmWkXicXmzZFeuxS"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
-        "name": "Uma Dose De Cristinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fb7dfs5e2HKnyKCk6o9iJ"
-      },
-      "artists": [
-        {
-          "name": "Cristinas",
-          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
-        }
-      ],
-      "duration_ms": 182218,
-      "name": "Roteiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pd1yjPwvUoD05twpG7tuY"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/4QFrBTDyMSPwqMXyikYA9R"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 171684,
       "name": "Rastros",
       "url": "https://open.spotify.com/track/25X7VcSsx26elZFaso3vQv"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Uma Dose De Cristinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fb7dfs5e2HKnyKCk6o9iJ"
+      },
+      "artists": [
+        {
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
+        }
+      ],
+      "duration_ms": 182218,
+      "name": "Roteiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pd1yjPwvUoD05twpG7tuY"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
-      },
-      "artists": [
-        {
-          "name": "S\u00e2mi Rico",
-          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
-        }
-      ],
-      "duration_ms": 155496,
-      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
-      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Atitude (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TcCxLMXhOJmANZu0gnIUK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 193891,
       "name": "Atitude - Ao Vivo",
       "url": "https://open.spotify.com/track/0TwG7f7nOry9EVTHdPwhqc"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
+      },
+      "artists": [
+        {
+          "name": "S\u00e2mi Rico",
+          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
+        }
+      ],
+      "duration_ms": 155496,
+      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
+      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2novUiRmG54NHsEmTumUBL"
-      },
-      "artists": [
-        {
-          "name": "Thainara e Thatiane",
-          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/1abnsyQr0I5v6uZWw6YWlz"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Muvuca",
         "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 150051,
       "name": "Muvuca - Ao Vivo",
       "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2novUiRmG54NHsEmTumUBL"
+      },
+      "artists": [
+        {
+          "name": "Thainara e Thatiane",
+          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/1abnsyQr0I5v6uZWw6YWlz"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Guenta o Choro (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/7cHvfn6RrEyHdpWO6GNlgI"
-      },
-      "artists": [
-        {
-          "name": "Thainara e Thatiane",
-          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
-        }
-      ],
-      "duration_ms": 180291,
-      "name": "Guenta o Choro (Ao Vivo em S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/0PhjgvCL3lN6fKrAXbXVtj"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Consequ\u00eancias",
         "url": "https://open.spotify.com/album/0v0p949o5wXUJFPAZxMptv"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 183245,
       "name": "Consequ\u00eancias",
       "url": "https://open.spotify.com/track/1SHcSTa8zLPvKHcHDoPRDh"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Guenta o Choro (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/7cHvfn6RrEyHdpWO6GNlgI"
+      },
+      "artists": [
+        {
+          "name": "Thainara e Thatiane",
+          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
+        }
+      ],
+      "duration_ms": 180291,
+      "name": "Guenta o Choro (Ao Vivo em S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/0PhjgvCL3lN6fKrAXbXVtj"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "No 12 & Sem Freio, Vol. 5 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/27zC5QuiunZPHEbh0J6x0I"
-      },
-      "artists": [
-        {
-          "name": "J\u00falia Mariano",
-          "url": "https://open.spotify.com/artist/1JHXmHgKOpMTwr2B7QACoy"
-        }
-      ],
-      "duration_ms": 176928,
-      "name": "Ningu\u00e9m Me Avisou - Ao Vivo",
-      "url": "https://open.spotify.com/track/3VyiCZwS8E1ByvpAnfhgie"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Amigos com Benef\u00edcios (Ao Vivo)",
         "url": "https://open.spotify.com/album/3dPfSslte8Zcr8V0D1pr5y"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 159238,
       "name": "Amigos com Benef\u00edcios - Ao Vivo",
       "url": "https://open.spotify.com/track/6GzQ8kMSmP2xeSR84k9UXJ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "No 12 & Sem Freio, Vol. 5 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27zC5QuiunZPHEbh0J6x0I"
+      },
+      "artists": [
+        {
+          "name": "J\u00falia Mariano",
+          "url": "https://open.spotify.com/artist/1JHXmHgKOpMTwr2B7QACoy"
+        }
+      ],
+      "duration_ms": 176928,
+      "name": "Ningu\u00e9m Me Avisou - Ao Vivo",
+      "url": "https://open.spotify.com/track/3VyiCZwS8E1ByvpAnfhgie"
     },
     {
       "added_at": "2026-08-14 03:00:56",

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109451,
+  "num_followers": 109453,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEAdKGzn8WPP2itcobfnfSOZf+eI",
+  "snapshot_id": "AAAAAKqECTq02dhpDwpifXdzIUKm+0Us",
   "tracks": [
     {
       "added_at": "2025-10-10 12:01:08",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Nothing's Changed",
+        "url": "https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS"
+      },
+      "artists": [
+        {
+          "name": "JayaHadADream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Nothing's Changed",
+      "url": "https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 171678,
       "name": "Is it too much? (Pray things change)",
       "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Nothing's Changed",
-        "url": "https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS"
-      },
-      "artists": [
-        {
-          "name": "JayaHadADream",
-          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
-        }
-      ],
-      "duration_ms": 159541,
-      "name": "Nothing's Changed",
-      "url": "https://open.spotify.com/track/6DPeYVuMAkOBfKPxy1cHG5"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 203964,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Drunk and Confused 2.0",
         "url": "https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 160490,
       "name": "Venting",
       "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Who Am I?(I Dont Know)",
         "url": "https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 162206,
       "name": "Who Am I?(I Dont Know)",
       "url": "https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
-      },
-      "artists": [
-        {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
-        }
-      ],
-      "duration_ms": 161232,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "2:30AM",
         "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 182937,
       "name": "2:30AM",
       "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "duration_ms": 161232,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
     },
     {
       "added_at": "2025-10-10 12:01:08",

@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 180000,
       "name": "Bloom hour",
       "url": "https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq"
@@ -4918,6 +4918,24 @@
       "duration_ms": 171106,
       "name": "Can\u2019t Stop Shining",
       "url": "https://open.spotify.com/track/0oJZzuHUjpKAFrSHqjJKZM"
+    },
+    {
+      "album": {
+        "name": "ODD YOUTH 3rd Single [can\u2032t go back]",
+        "url": "https://open.spotify.com/album/3OLYx5mUswHihbOinrKetO"
+      },
+      "artists": [
+        {
+          "name": "ODD YOUTH",
+          "url": "https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "can\u2032t go back",
+      "url": "https://open.spotify.com/track/1LpDwT0wUPXPIMMQpF5sYr"
     },
     {
       "album": {
@@ -11618,7 +11636,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 192116,
       "name": "GRLS",
       "url": "https://open.spotify.com/track/5pH6E3QlbwftHiDhekk85d"
@@ -26810,6 +26828,24 @@
       "duration_ms": 157000,
       "name": "Summer's Not Over",
       "url": "https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB"
+    },
+    {
+      "album": {
+        "name": "TUNE & PLAY",
+        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
+      },
+      "artists": [
+        {
+          "name": "TUIDE",
+          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "SUN KISS",
+      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
     },
     {
       "album": {

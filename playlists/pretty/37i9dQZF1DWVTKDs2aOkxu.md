@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,934,718 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,934,548 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Lies](https://open.spotify.com/track/7DD3iOfX65OAFelDaFhHG4) | [walt disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Lies](https://open.spotify.com/album/0FRSTYKATt1EC92YwI2h4J) | 3:38 |
 | 80 | [Try Try Try](https://open.spotify.com/track/37S6RNloIxDDNRkydQflwU) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Try Try Try](https://open.spotify.com/album/7twihH4moGgU0lmsVQFHG7) | 3:54 |
 
-Snapshot ID: `AAAAAJ2Csc0Duq2fWPG+wzuOyY0j7hFj`
+Snapshot ID: `AAAAAPCKF3EbeCaEFl9IgrefJbTdhuDQ`

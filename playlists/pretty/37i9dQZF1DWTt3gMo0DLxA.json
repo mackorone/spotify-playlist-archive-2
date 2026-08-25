@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Irumudi",
-  "num_followers": 643544,
+  "num_followers": 644064,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2MaHKOanUB63EeF2SmVdd4h2Th",
+  "snapshot_id": "AAAAAMk7aXboS4lupoieG5pMuRiHmhr4",
   "tracks": [
     {
       "added_at": "2026-08-19 09:13:49",
@@ -239,6 +239,34 @@
       "duration_ms": 243333,
       "name": "Mamidi Konala Meena Mabbulemo Nilichinayi",
       "url": "https://open.spotify.com/track/59aZKkLRb9jopf2e8P4PRy"
+    },
+    {
+      "added_at": "2026-08-24 14:26:32",
+      "album": {
+        "name": "Gang Leader",
+        "url": "https://open.spotify.com/album/2A3dma29GG3d6PX88B3h4D"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        },
+        {
+          "name": "Bhuvana Chandra",
+          "url": "https://open.spotify.com/artist/6qJdT7Ol8lHV3I2ONq9hBi"
+        }
+      ],
+      "duration_ms": 280842,
+      "name": "Papa Rita",
+      "url": "https://open.spotify.com/track/6k8G41181oEdMYcd4GCfOC"
     },
     {
       "added_at": "2026-08-19 09:13:49",
@@ -1151,30 +1179,6 @@
       "duration_ms": 226751,
       "name": "Gaajuvaka Pilla",
       "url": "https://open.spotify.com/track/0xkyFd47SDoL6GyNzsrJRN"
-    },
-    {
-      "added_at": "2026-08-10 10:28:41",
-      "album": {
-        "name": "Nuvvu Nenu",
-        "url": "https://open.spotify.com/album/3QxCsbQm4lj7PEZF3AxOTd"
-      },
-      "artists": [
-        {
-          "name": "R. P. Patnaik",
-          "url": "https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy"
-        },
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Usha Munukutla",
-          "url": "https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw"
-        }
-      ],
-      "duration_ms": 273954,
-      "name": "Priyathama",
-      "url": "https://open.spotify.com/track/4fqCMwlMd3VXOUvRQKLGYb"
     },
     {
       "added_at": "2026-08-05 10:40:35",

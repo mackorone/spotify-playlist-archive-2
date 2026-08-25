@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Sara Dufour, Francis Degranpré, Rymz, Claudia Bouvette, P'tit Belliveau, kinji00, bombe, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,170 likes - 98 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,171 likes - 98 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 97 | [LA VAR](https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w) | [Supremnova](https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR), [Jemma's Palace](https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ) | [LA VAR](https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7) | 1:42 |
 | 98 | [Enfant beni](https://open.spotify.com/track/1MxCcp0dI1lniCbI5LOpfS) | [0BLACK](https://open.spotify.com/artist/6juoUkkoeYBK1sYjXcfnbq) | [IN THE MIROIR](https://open.spotify.com/album/1yR6XA3io50vDeaXSXGPPl) | 2:51 |
 
-Snapshot ID: `AAAAAM0z/zzTyY9t8nS6/1ft5b6AUjgQ`
+Snapshot ID: `AAAAAJCCUPdYLaNtxvLjSU9i+eg+gxKv`

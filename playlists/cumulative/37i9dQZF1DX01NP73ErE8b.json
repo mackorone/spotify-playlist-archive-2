@@ -4937,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "HO SBAGLIATO ANCORA",
+        "url": "https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190449,
+      "name": "HO SBAGLIATO ANCORA",
+      "url": "https://open.spotify.com/track/33LYvdSbeXaVc5PEIsjR6Z"
+    },
+    {
+      "album": {
         "name": "HO VOGLIA DI TE",
         "url": "https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj"
       },
@@ -10623,6 +10641,24 @@
     },
     {
       "album": {
+        "name": "Sciall\u00e0",
+        "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Sciall\u00e0",
+      "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
+    },
+    {
+      "album": {
         "name": "DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO",
         "url": "https://open.spotify.com/album/69mCnKvD4x8fWENzqUbGdU"
       },
@@ -11752,7 +11788,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 194264,
       "name": "Su x gi\u00f9",
       "url": "https://open.spotify.com/track/4wGp5RxRZ5xNPsLMIWyzby"
@@ -12980,7 +13016,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 168888,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/0Ldpmfvni7AO19NtpY2Xbq"

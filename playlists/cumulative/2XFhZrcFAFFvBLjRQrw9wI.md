@@ -57,6 +57,6 @@
 | [Where Did Our Love Go](https://open.spotify.com/track/18ltaDrNPGhcJkzzXvJoeM) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 2:31 | 2013-06-27 |  |
 | [White On White](https://open.spotify.com/track/6jNSLzZleQ0iprO0seAwun) | [Danny Williams](https://open.spotify.com/artist/7A1PWRIpGKFLKGXB5p0jDY) | [Lost Hits Of The 60's \(All Original Artists & Versions\)](https://open.spotify.com/album/5n3yhXw0DNTRIpSfRE98tT) | 2:18 | 2013-06-27 |  |
 | [Wishin' And Hopin'](https://open.spotify.com/track/36iMcIUc4LZvjhrID5aiMl) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Very Best Of Dusty Springfield](https://open.spotify.com/album/3BMtVA6jcl1GzwfIO4HD48) | 2:56 | 2013-06-27 |  |
-| [You Don't Own Me \(Rerecorded\)](https://open.spotify.com/track/5ILumokzwPbOjc78BovKEZ) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Her Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7s1CsymS8lImRWJ1ua6zxi) | 2:32 | 2013-06-27 |  |
+| [You Don't Own Me \- Rerecorded](https://open.spotify.com/track/5ILumokzwPbOjc78BovKEZ) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Her Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7s1CsymS8lImRWJ1ua6zxi) | 2:32 | 2013-06-27 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

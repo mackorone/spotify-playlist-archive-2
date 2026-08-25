@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140690,
+  "num_followers": 140684,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3Zy96r/2m3RFXWs2nbwFRF9zhi",
+  "snapshot_id": "AAAAAG7oHpv4F5KfOBJpyILIoNyAIEOT",
   "tracks": [
     {
       "added_at": "2026-08-16 20:03:54",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-08-16 20:03:54",
       "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
-    },
-    {
-      "added_at": "2026-08-16 20:03:54",
-      "album": {
         "name": "Vampyr",
         "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 246292,
       "name": "Vampyr",
       "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
+    },
+    {
+      "added_at": "2026-08-16 20:03:54",
+      "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2026-08-16 20:03:54",

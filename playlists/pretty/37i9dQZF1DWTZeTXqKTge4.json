@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Rymz",
-  "num_followers": 89632,
+  "num_followers": 89631,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMzPzQrRc9FJubeTzcL/E5h04KV8",
+  "snapshot_id": "AAAAAAdfV7xT0UcnvlvfyzGym2lr4y7/",
   "tracks": [
     {
       "added_at": "2026-08-21 04:03:32",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
+        "name": "MON TOUR",
+        "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "MON TOUR",
+      "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
         "name": "SEPT ANS DE MALHEUR (titre temporaire)",
         "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 168166,
       "name": "TOUT CE QU'ON FAIT",
       "url": "https://open.spotify.com/track/7CNZPOguLnd1qacee7x58V"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
-        "name": "MON TOUR",
-        "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
-      },
-      "artists": [
-        {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "MON TOUR",
-      "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
     },
     {
       "added_at": "2026-08-21 04:03:32",
@@ -879,6 +879,26 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
+        "name": "Teke Fren",
+        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Teke Fren",
+      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
         "name": "Tel Kel X Boutot",
         "url": "https://open.spotify.com/album/5NXJonVVKssYxQ5SeCutWj"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 246951,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6ERE4MVf0gqXr0FMdyccRx"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
-        "name": "Teke Fren",
-        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 177748,
-      "name": "Teke Fren",
-      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
     },
     {
       "added_at": "2026-08-21 04:03:32",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 160263,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
         "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
         "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 293760,
       "name": "L\u00e9gendaire",
       "url": "https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 160263,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
     },
     {
       "added_at": "2026-08-21 04:03:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
-        "name": "BASSE COUTURE",
-        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "BASSE COUTURE",
-      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
         "name": "N\u00e9m\u00e9sis",
         "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 246810,
       "name": "N\u00e9m\u00e9sis",
       "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
+        "name": "BASSE COUTURE",
+        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "BASSE COUTURE",
+      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
     },
     {
       "added_at": "2026-08-21 04:03:32",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
+        "name": "J'PENSE \u00c0 TOI (SOMETIMES)",
+        "url": "https://open.spotify.com/album/0xdX93kf9cPCYeJCPOhfBC"
+      },
+      "artists": [
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
+        },
+        {
+          "name": "Frisouxx",
+          "url": "https://open.spotify.com/artist/1LuaUt0Zksb4smYvqvf8Dr"
+        }
+      ],
+      "duration_ms": 104307,
+      "name": "J'PENSE \u00c0 TOI (SOMETIMES)",
+      "url": "https://open.spotify.com/track/4Z6ecbTIrzUcj4iXqbhUuj"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
         "name": "D\u00c9TOUR",
         "url": "https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4"
       },
@@ -1303,6 +1323,22 @@
     {
       "added_at": "2026-08-21 04:03:32",
       "album": {
+        "name": "Fanta",
+        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
+      },
+      "artists": [
+        {
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
+        }
+      ],
+      "duration_ms": 125090,
+      "name": "Fanta",
+      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
+    },
+    {
+      "added_at": "2026-08-21 04:03:32",
+      "album": {
         "name": "Smoothie aux bleuets",
         "url": "https://open.spotify.com/album/3TAkY1hpg5TFKmKskLRYVn"
       },
@@ -1319,26 +1355,6 @@
       "duration_ms": 178075,
       "name": "Smoothie aux bleuets",
       "url": "https://open.spotify.com/track/6EWPlzxSNjswZzV3PPeN4H"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
-        "name": "J'PENSE \u00c0 TOI (SOMETIMES)",
-        "url": "https://open.spotify.com/album/0xdX93kf9cPCYeJCPOhfBC"
-      },
-      "artists": [
-        {
-          "name": "ACHEL",
-          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
-        },
-        {
-          "name": "Frisouxx",
-          "url": "https://open.spotify.com/artist/1LuaUt0Zksb4smYvqvf8Dr"
-        }
-      ],
-      "duration_ms": 104307,
-      "name": "J'PENSE \u00c0 TOI (SOMETIMES)",
-      "url": "https://open.spotify.com/track/4Z6ecbTIrzUcj4iXqbhUuj"
     },
     {
       "added_at": "2026-08-21 04:03:32",
@@ -1379,22 +1395,6 @@
       "duration_ms": 227211,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
-    },
-    {
-      "added_at": "2026-08-21 04:03:32",
-      "album": {
-        "name": "Fanta",
-        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
-      },
-      "artists": [
-        {
-          "name": "Yellow Rice",
-          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
-        }
-      ],
-      "duration_ms": 125090,
-      "name": "Fanta",
-      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
     },
     {
       "added_at": "2026-08-21 04:03:32",

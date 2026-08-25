@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7CaxNgoCg.md) - [plain]
 
 > Music that broke barriers and moved souls\. Cover: The Temptations
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,309 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,345 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7CaxNgoCg.md) - [plain]
 | 74 | [Can I Get A Witness](https://open.spotify.com/track/4GWwFW3TkXhhgyt8zUYA93) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Gold](https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9) | 2:47 |
 | 75 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
 
-Snapshot ID: `AAAAABL9iOGcytQ04Wx3KH2JE/FLTnTU`
+Snapshot ID: `AAAAAIWaqCXfmSvtX2o9MWFQEhrL+CZ7`

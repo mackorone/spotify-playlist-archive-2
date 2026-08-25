@@ -1,12 +1,12 @@
 {
   "description": "Music that means it. Cover: Jamie T",
-  "num_followers": 131748,
+  "num_followers": 131757,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5VcJjW31Ft0gwgDpvnQ5Umw5mQ",
+  "snapshot_id": "AAAAACq/3kRmZxrLALAOWW6QqchHxuyw",
   "tracks": [
     {
       "added_at": "2026-08-20 23:00:36",
@@ -47,6 +47,22 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
         "name": "He's My Man",
         "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 212538,
       "name": "Hanging Out To Dry",
       "url": "https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
-        "name": "Marianne",
-        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 225645,
-      "name": "Marianne",
-      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "7563",
-        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 243302,
-      "name": "7563",
-      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -175,18 +159,34 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+        "name": "7563",
+        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
+      "duration_ms": 243302,
+      "name": "7563",
+      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "duration_ms": 194753,
+      "name": "Twist and Turn",
+      "url": "https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
         "name": "Now We Can't Be Friends",
         "url": "https://open.spotify.com/album/2P5tdiMwQUxV5Q0SGsU0K0"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 248480,
       "name": "Thorn",
       "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp"
-      },
-      "artists": [
-        {
-          "name": "Cardinals",
-          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
-        }
-      ],
-      "duration_ms": 194753,
-      "name": "Twist and Turn",
-      "url": "https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Don't Throw Rocks",
-        "url": "https://open.spotify.com/album/6vIgYCy9Q8NkjF3aTTU1n8"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Don't Throw Rocks",
-      "url": "https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "If I Could",
         "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 231716,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Don't Throw Rocks",
+        "url": "https://open.spotify.com/album/6vIgYCy9Q8NkjF3aTTU1n8"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Don't Throw Rocks",
+      "url": "https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
+        "name": "It Goes On",
+        "url": "https://open.spotify.com/album/3KA5QA2o7yMkCAbMQNq0oL"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 204543,
-      "name": "Diamond In The Dark",
-      "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
+      "duration_ms": 238563,
+      "name": "Worried Age",
+      "url": "https://open.spotify.com/track/3wlhh0YM7QZncZezRwEOh2"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Something Else to Give",
-        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 285183,
-      "name": "Something Else to Give",
-      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "Another Round",
         "url": "https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D"
       },
@@ -975,8 +959,40 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "It Goes On",
-        "url": "https://open.spotify.com/album/3KA5QA2o7yMkCAbMQNq0oL"
+        "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 204543,
+      "name": "Diamond In The Dark",
+      "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Something Else to Give",
+        "url": "https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 285183,
+      "name": "Something Else to Give",
+      "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Can\u2019t See",
+        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
       },
       "artists": [
         {
@@ -984,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 238563,
-      "name": "Worried Age",
-      "url": "https://open.spotify.com/track/3wlhh0YM7QZncZezRwEOh2"
+      "duration_ms": 146127,
+      "name": "Can't See",
+      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1055,8 +1071,8 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Can\u2019t See",
-        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+        "name": "So Much Country \u2018Till We Get There",
+        "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
       },
       "artists": [
         {
@@ -1064,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 146127,
-      "name": "Can't See",
-      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
+      "duration_ms": 144286,
+      "name": "The Wahs",
+      "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "So Much Country \u2018Till We Get There",
-        "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
+        "name": "IGNORE THIS",
+        "url": "https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
         }
       ],
-      "duration_ms": 144286,
-      "name": "The Wahs",
-      "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
+      "duration_ms": 189850,
+      "name": "IGNORE THIS",
+      "url": "https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "IGNORE THIS",
-        "url": "https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3"
-      },
-      "artists": [
-        {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
-        }
-      ],
-      "duration_ms": 189850,
-      "name": "IGNORE THIS",
-      "url": "https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "You're Gonna Need A Little Music",
         "url": "https://open.spotify.com/album/2gHgEJZETwfWKV2msyRDRC"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Terror TV",
-        "url": "https://open.spotify.com/album/6GutoOofpiccz3CnPb0WER"
-      },
-      "artists": [
-        {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
-        }
-      ],
-      "duration_ms": 195811,
-      "name": "Terror TV",
-      "url": "https://open.spotify.com/track/7yug9Rrhhz76Nl2dAijt9X"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/4NkwHEXLQ1eTEo0NY9r6hy"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 325400,
       "name": "Change",
       "url": "https://open.spotify.com/track/4jAKnQfdSCC0CILVGtr1nC"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Terror TV",
+        "url": "https://open.spotify.com/album/6GutoOofpiccz3CnPb0WER"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 195811,
+      "name": "Terror TV",
+      "url": "https://open.spotify.com/track/7yug9Rrhhz76Nl2dAijt9X"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Flea Joint",
-        "url": "https://open.spotify.com/album/5x7CBQCZtl6ie7L3GzEojA"
-      },
-      "artists": [
-        {
-          "name": "Mystery Jets",
-          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
-        }
-      ],
-      "duration_ms": 269872,
-      "name": "Flea Joint",
-      "url": "https://open.spotify.com/track/7rFW7B7B6UTB5HsGiqrndr"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "I Was Just A Boy",
         "url": "https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5"
+        "name": "Flea Joint",
+        "url": "https://open.spotify.com/album/5x7CBQCZtl6ie7L3GzEojA"
       },
       "artists": [
         {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
         }
       ],
-      "duration_ms": 201279,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL"
+      "duration_ms": 269872,
+      "name": "Flea Joint",
+      "url": "https://open.spotify.com/track/7rFW7B7B6UTB5HsGiqrndr"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1499,6 +1483,22 @@
       "duration_ms": 264481,
       "name": "Restless in Bloom",
       "url": "https://open.spotify.com/track/4mS6vO5MKQnrv2iObSlU6y"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 201279,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1535,6 +1535,22 @@
       "duration_ms": 156106,
       "name": "Vain",
       "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Wear & Tear",
+        "url": "https://open.spotify.com/album/5gnyVjuKWSqMcSkjItty9x"
+      },
+      "artists": [
+        {
+          "name": "Cruz Beckham",
+          "url": "https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD"
+        }
+      ],
+      "duration_ms": 212590,
+      "name": "WANNABE",
+      "url": "https://open.spotify.com/track/59ZtFO8uChtboZ5bQvfaqF"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1599,22 +1615,6 @@
       "duration_ms": 229656,
       "name": "Love & Money",
       "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
-        "name": "Big Swimmer",
-        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 202048,
-      "name": "New York, Let's Do Nothing",
-      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
     }
   ],
   "unique_name": "Proper Belters",

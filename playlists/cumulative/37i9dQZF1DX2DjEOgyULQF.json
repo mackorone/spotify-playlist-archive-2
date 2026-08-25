@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 227266,
       "name": "and finally, we reach the summit",
       "url": "https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 156500,
       "name": "Droplets",
       "url": "https://open.spotify.com/track/2N8YZv6azakZK17PRFFOTS"
@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 194782,
       "name": "Fading Petals",
       "url": "https://open.spotify.com/track/3IJKGZ3iz4kdBcUru29Ucw"
@@ -2728,6 +2728,24 @@
       "duration_ms": 155874,
       "name": "Fj\u00e4lldr\u00f6mmar",
       "url": "https://open.spotify.com/track/6FFiYLvQAGVIwqsmVIZEgr"
+    },
+    {
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/4vayVNrCR7ZW9cHmtIVB1o"
+      },
+      "artists": [
+        {
+          "name": "Novera Rae",
+          "url": "https://open.spotify.com/artist/5YvhcITTw5wtc05jMTFCoR"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/6rvlr95VE3vKuUc82rjOwg"
     },
     {
       "album": {
@@ -3380,6 +3398,24 @@
       "duration_ms": 178909,
       "name": "Gentle River Flow",
       "url": "https://open.spotify.com/track/3T5nOnIbdJMrdgmyMW0SFo"
+    },
+    {
+      "album": {
+        "name": "Gentle Stream",
+        "url": "https://open.spotify.com/album/1z5WBLGmGPvGbSbRo3waDi"
+      },
+      "artists": [
+        {
+          "name": "Orbit Of Zen",
+          "url": "https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Gentle Stream",
+      "url": "https://open.spotify.com/track/7aiiwQw56N7B21TkB33ZB7"
     },
     {
       "album": {
@@ -6282,6 +6318,24 @@
       "duration_ms": 188105,
       "name": "Replenishment",
       "url": "https://open.spotify.com/track/1S3ESlCqX7kC0JIUfYMTZs"
+    },
+    {
+      "album": {
+        "name": "Residual Presence Field",
+        "url": "https://open.spotify.com/album/1hOPK8B0LrmKO7WHQukhHl"
+      },
+      "artists": [
+        {
+          "name": "Low Haven",
+          "url": "https://open.spotify.com/artist/2gOPRaTiQtGHndW2IXxtXC"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Residual Presence Field",
+      "url": "https://open.spotify.com/track/0MlrY3mg0iOHSWWK7BOVDD"
     },
     {
       "album": {

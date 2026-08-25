@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122928,
+  "num_followers": 122914,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVsF0t3aHl/Wf9akHXMgitRDQQ8e4F",
+  "snapshot_id": "AAAVsSDlA5BLJhEpuw6XIiqZVO3kKVEP",
   "tracks": [
+    {
+      "added_at": "2026-08-24 14:41:31",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/2x8USDi2kVvEplRIAQg6Kq"
+      },
+      "artists": [
+        {
+          "name": "MAYETRIX",
+          "url": "https://open.spotify.com/artist/1mlPKIqrogM91n8i4HuujI"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/5m6jOkcslQMLqylLqQXK4U"
+    },
     {
       "added_at": "2026-08-21 22:03:59",
       "album": {

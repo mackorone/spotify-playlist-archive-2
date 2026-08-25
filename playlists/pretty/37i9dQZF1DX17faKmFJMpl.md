@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,459 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,464 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 57 | [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 |
 | 58 | [이 구역에 미친놈은 나야 \(feat\. Geegooin & New Champ\)](https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 3:51 |
 | 59 | [Around Us](https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy) | [K.O.D](https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:36 |
-| 60 | [Radio \- 2021 Remaster](https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:44 |
+| 60 | [Interlude \- 2021 Remaster](https://open.spotify.com/track/3L0p9O4EUOaZ4RfbHXWOfg) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 0:32 |
 | 61 | [박교주 전성시대](https://open.spotify.com/track/471yf20erR95AOOzVeGcZU) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [Another Level](https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h) | 2:46 |
 | 62 | [Be Free \(feat\. Verbal Jint, Sean2Slow\)](https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA) | [Infinite Flow \(I.F\)](https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [We Are Music](https://open.spotify.com/album/42MwGnXRAsCAdqHiy0sZcJ) | 4:19 |
 | 63 | [B.L.K\. \(feat\. New Champ, Wutan, Carry Diamond, CeeJay, Swings, Okasian, Rocky L & Vasco\) \[Bonus Track\]](https://open.spotify.com/track/5Aa65H6ueFTucHVZcSV4Bf) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x), [Wutan](https://open.spotify.com/artist/6X4GGufs8OhbUC1fy1xuUn), [Carry Diamond](https://open.spotify.com/artist/668WLxdywDsMAFUBhA1qNU), [Aggy](https://open.spotify.com/artist/5hbb9WTByfALU419TtemEE), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO), [Rocky L](https://open.spotify.com/artist/2PfohzKLBaecNEJfvSCPA6), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:57 |
 | 64 | [Platonic](https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4) | [Side B](https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:23 |
-| 65 | [Interlude \- 2021 Remaster](https://open.spotify.com/track/3L0p9O4EUOaZ4RfbHXWOfg) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 0:32 |
+| 65 | [Radio \- 2021 Remaster](https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:44 |
 | 66 | [Beatz 4 Da Streetz](https://open.spotify.com/track/5YkF8ZCdSM0ISElJx2pig7) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:09 |
 | 67 | [외톨이](https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI) | [Outsider](https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr) | [MAESTRO](https://open.spotify.com/album/0Gvs9QjSpaLHFtu5DcxrR7) | 3:11 |
 | 68 | [생긴대로 놀아 \(feat\. Juvie Train & Koonta\)](https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [Guilty](https://open.spotify.com/track/7rUURVpd1ucUhkbnYNlJbw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band of Dynamic Brothers](https://open.spotify.com/album/1v5PBEn1CygICPOdOuJfSc) | 3:44 |
 | 100 | [One Way \(feat\. Verbal Jint & Soulman\)](https://open.spotify.com/track/00Q0kI5etexakqmNEF0Coh) | [Kebee](https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt), [Soulman](https://open.spotify.com/artist/2byXk8UtNJKEyt9qHnd7SH), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Poetree Syndrome](https://open.spotify.com/album/1PhD5hTJu0nZe3RTktDaXQ) | 3:54 |
 
-Snapshot ID: `AAAAAAqFMnLEK68YUWM85V4ADCmNsb1g`
+Snapshot ID: `AAAAABaSp4rMg5tIs+sdcRA0E9tU/jBg`

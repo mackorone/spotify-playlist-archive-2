@@ -4,7 +4,7 @@
 
 > This is Glen Hansard\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 43 min
+54 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Didn't He Ramble \(Funkhaus Version\)](https://open.spotify.com/track/52mNViayZN6tYChVWmaX01) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 1 \- Transmissions East\)](https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1) | 5:23 | 2026-08-01 |  |
 | [Don't Settle \(Funkhaus Version\)](https://open.spotify.com/track/4bRMhJtSuS55q7M0mkuhxu) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 1 \- Transmissions East\)](https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1) | 6:06 | 2026-08-01 | 2026-08-03 |
 | [Drive All Night](https://open.spotify.com/track/2GmJP1FWraZ6XQaKUTkUSP) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Drive All Night](https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z) | 8:36 | 2026-08-01 |  |
+| [Factory Street Bells](https://open.spotify.com/track/38Ucsa7LdzsD41YI5ggudF) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Forward](https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ) | 4:10 | 2026-08-25 |  |
 | [Fake](https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Burn the Maps](https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu) | 3:59 | 2026-08-01 |  |
 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Once \(Music From The Motion Picture\)](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 | 2026-08-01 |  |
 | [Falling Slowly](https://open.spotify.com/track/2GsPNtDbbTLnQ0nISq9MmC) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [The Cost](https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH) | 4:35 | 2026-08-01 |  |
@@ -25,7 +26,7 @@
 | [In These Arms](https://open.spotify.com/track/1qHB7ObGoYmYEVall8JZIq) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX) | 3:33 | 2026-08-01 |  |
 | [Just to Be the One \(Funkhaus Version\)](https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 3:09 | 2026-08-01 |  |
 | [Lay Me Down](https://open.spotify.com/track/2grwAOEFS0Z6eLAysVimSn) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [For the Birds](https://open.spotify.com/album/2NRW4KJ2HxFS57Dg6nVTHl) | 3:11 | 2026-08-01 |  |
-| [Lay Me Down \| Ring of Fire](https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Set List \(Live\)](https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u) | 4:06 | 2026-08-01 |  |
+| [Lay Me Down \| Ring of Fire](https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Set List \(Live\)](https://open.spotify.com/album/51sspDtslM7swwOhQoOF7u) | 4:06 | 2026-08-01 | 2026-08-25 |
 | [Leave](https://open.spotify.com/track/6nh6zDSvONACUF6M2st4iH) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Once \(Music From The Motion Picture\)](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 2:46 | 2026-08-01 |  |
 | [Leave A Light \(Funkhaus Version\)](https://open.spotify.com/track/2wX6erJuE2Yf76fPid4gam) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:18 | 2026-08-01 |  |
 | [Lies](https://open.spotify.com/track/0lkEvsJLWu7HjurNUnMYqt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Once \(Music From The Motion Picture\)](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 3:59 | 2026-08-01 |  |

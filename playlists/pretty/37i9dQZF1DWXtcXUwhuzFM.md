@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Korelon & Ares, Nathanael & Robin Packalen, MOMO & keiju.\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,128 likes - 96 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,115 likes - 96 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 95 | [Lonely Phone People](https://open.spotify.com/track/7k41haZtnkm5qlZOoVbiDL) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Lonely Phone People](https://open.spotify.com/album/0vXdh9MU6p3Zvu1niGsHLU) | 3:00 |
 | 96 | [Participation Award](https://open.spotify.com/track/2kVvIH7mSnPiH68B9SEnbx) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Participation Award](https://open.spotify.com/album/18Auq72Udu7nX6JLQbrGzd) | 2:17 |
 
-Snapshot ID: `AAAAAPhxZgc33hQIASOJ8PrgE9XlN7k0`
+Snapshot ID: `AAAAAI1gxlH/coqrG8O8ExAGh6f0bttO`

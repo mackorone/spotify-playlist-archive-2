@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,650 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,803 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 | 99 | [Back Home](https://open.spotify.com/track/1A8PSrSpKl1hHDpQKgU9vd) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Back Home](https://open.spotify.com/album/2vW1TY9g69JevrR0pzkbH6) | 2:22 |
 | 100 | [Eternity Present](https://open.spotify.com/track/6cbiH9ayUzdB3AZsO9GdNs) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Lotus River](https://open.spotify.com/album/1E6wsfpKLEbiDmd5j3ea0b) | 2:30 |
 
-Snapshot ID: `AAAAAIywAfSLQOsQy5o4N9ryOMFtvJfO`
+Snapshot ID: `AAAAALgwCL8bXDYK0bcXvIfHE7E/3lya`

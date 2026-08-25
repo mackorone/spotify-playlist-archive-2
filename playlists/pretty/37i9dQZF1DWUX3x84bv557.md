@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Juwls
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,320 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,311 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LOLA](https://open.spotify.com/track/5fgpgfjqrntiwZM4xLI7vy) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [LOLA](https://open.spotify.com/album/3g0mN6piv5CWYz1KbLgiO8) | 2:15 |
-| 2 | [Online](https://open.spotify.com/track/47W5ccGF0rF08j1YtsTql0) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 2:03 |
+| 2 | [Wauw](https://open.spotify.com/track/3A08L1HFsnHKyFQep0AWyY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 1:58 |
 | 3 | [Schoonzoon](https://open.spotify.com/track/19KOz48sq8Je3VCbqsPHXT) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Schoonzoon](https://open.spotify.com/album/3sWH67UbTeVacTK79uSaz4) | 2:18 |
 | 4 | [Vang Je Mij](https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Vang Je Mij](https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL) | 3:39 |
 | 5 | [Niets Is Alleen](https://open.spotify.com/track/538pOIiSvDAARtTnJmyL9H) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Niets Is Alleen](https://open.spotify.com/album/6EZGkBGbz37IvUKcNsufDy) | 2:16 |
 | 6 | [Designertas](https://open.spotify.com/track/0fbTnbITwXNU5zpWre4xv8) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Designertas](https://open.spotify.com/album/2WXvF4oED8Ja7GoRjiYB93) | 2:24 |
-| 7 | [Ik Hoor Niks Geks](https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Hoor Niks Geks](https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw) | 2:16 |
-| 8 | [Bare Minimum](https://open.spotify.com/track/3aj18nggqoyQrlKPMvfOYd) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 2:32 |
+| 7 | [Online](https://open.spotify.com/track/47W5ccGF0rF08j1YtsTql0) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 2:03 |
+| 8 | [Ik Hoor Niks Geks](https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Hoor Niks Geks](https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw) | 2:16 |
 | 9 | [Plaats Delict](https://open.spotify.com/track/6fyr7vZ3O3GKeUpuoLfnbg) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Binnenspiegel](https://open.spotify.com/album/2ANcQk5JnfSECKKOt8hdtR) | 2:20 |
 | 10 | [Contactloos](https://open.spotify.com/track/45kAXiP2TF8jlyjLuit8pN) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Contactloos](https://open.spotify.com/album/0IDujmV9TeuiMCLHF6344g) | 2:47 |
 | 11 | [Teveel Is Niet Genoeg](https://open.spotify.com/track/2yFAJ5JEKQ0msRjrYc7Fw3) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Teveel Is Niet Genoeg](https://open.spotify.com/album/3IcpCBmUs6zX19sMv9Xdgj) | 2:56 |
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 14 | [Wacht even](https://open.spotify.com/track/3Jiw4t9B8LoExE5jfzZD7G) | [Emma Annelie](https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX) | [Wacht even](https://open.spotify.com/album/1HhUBVgMCQo6dJuKMEt0ka) | 2:45 |
 | 15 | [We Zijn Er](https://open.spotify.com/track/5ugSvzED7o85U4TaMktaqk) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [We Zijn Er](https://open.spotify.com/album/49LywfHBRIWur1tPzZJ6gJ) | 2:42 |
 | 16 | [Morgen Weer](https://open.spotify.com/track/5wHrY42MYVXzpN4LXdCjVJ) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Morgen Weer](https://open.spotify.com/album/54bYnPZ4VJZ2gBbXt6NlUA) | 2:59 |
-| 17 | [Hartenbreker](https://open.spotify.com/track/5MJEH4CwlbbsSjNR5k1k4s) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Hartenbreker](https://open.spotify.com/album/0lGHnncRE7ZX2fbPNnpC6e) | 2:49 |
-| 18 | [Witte Vlag](https://open.spotify.com/track/4MLkKngyX9JcwT2jLBa2UM) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Witte Vlag](https://open.spotify.com/album/6uNJDFBp2c2iYpSajs0GbR) | 2:53 |
-| 19 | [Van Mij Is Van Mij](https://open.spotify.com/track/0mCEu9fbPqgiZQg0tfpEt6) | [JANEY](https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN) | [Van Mij Is Van Mij](https://open.spotify.com/album/11R5qWO3agKNnsm4K7WER4) | 2:58 |
-| 20 | [Jij](https://open.spotify.com/track/5eNFNNZwywwe1jOoUxjYo2) | [Déon](https://open.spotify.com/artist/07JmpwuHsFUhLMKM4cLW1r) | [Jij](https://open.spotify.com/album/331eZ0z317dghOY7eMJBLw) | 3:00 |
-| 21 | [Hij](https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht bij mij](https://open.spotify.com/album/4xShdvdEyq1s2zHAWwQJIN) | 2:31 |
-| 22 | [1 Keer Jong](https://open.spotify.com/track/3zoJ0fxDe4sBaoscj2gTtO) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd) | [1 Keer Jong](https://open.spotify.com/album/5oEXATrAKnC3GIibVi6Bh9) | 2:20 |
-| 23 | [Streng](https://open.spotify.com/track/7wh79PKQkDZwyoK2Q3DkML) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Streng](https://open.spotify.com/album/0KGKFUPWyYSxDEczLYQDtl) | 3:56 |
-| 24 | [Jasmine](https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Jasmine](https://open.spotify.com/album/5v8BCqVyeuRbXHOpsLxhzl) | 3:17 |
-| 25 | [Hallo, met mij.](https://open.spotify.com/track/4CHsDxBt3xstJcLQ1pPu8E) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Hallo, met mij.](https://open.spotify.com/album/48IS1Jgvw3T6aqqDiTegpo) | 2:43 |
-| 26 | [Feestje Op Mijn Graf](https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Feestje Op Mijn Graf](https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt) | 2:42 |
-| 27 | [Wauw](https://open.spotify.com/track/3A08L1HFsnHKyFQep0AWyY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 1:58 |
+| 17 | [Bare Minimum](https://open.spotify.com/track/3aj18nggqoyQrlKPMvfOYd) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 2:32 |
+| 18 | [Hartenbreker](https://open.spotify.com/track/5MJEH4CwlbbsSjNR5k1k4s) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Hartenbreker](https://open.spotify.com/album/0lGHnncRE7ZX2fbPNnpC6e) | 2:49 |
+| 19 | [Witte Vlag](https://open.spotify.com/track/4MLkKngyX9JcwT2jLBa2UM) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Witte Vlag](https://open.spotify.com/album/6uNJDFBp2c2iYpSajs0GbR) | 2:53 |
+| 20 | [Van Mij Is Van Mij](https://open.spotify.com/track/0mCEu9fbPqgiZQg0tfpEt6) | [JANEY](https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN) | [Van Mij Is Van Mij](https://open.spotify.com/album/11R5qWO3agKNnsm4K7WER4) | 2:58 |
+| 21 | [Jij](https://open.spotify.com/track/5eNFNNZwywwe1jOoUxjYo2) | [Déon](https://open.spotify.com/artist/07JmpwuHsFUhLMKM4cLW1r) | [Jij](https://open.spotify.com/album/331eZ0z317dghOY7eMJBLw) | 3:00 |
+| 22 | [Hij](https://open.spotify.com/track/7G7M3z6EYoH83YPPHevMvx) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht bij mij](https://open.spotify.com/album/4xShdvdEyq1s2zHAWwQJIN) | 2:31 |
+| 23 | [1 Keer Jong](https://open.spotify.com/track/3zoJ0fxDe4sBaoscj2gTtO) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd) | [1 Keer Jong](https://open.spotify.com/album/5oEXATrAKnC3GIibVi6Bh9) | 2:20 |
+| 24 | [Streng](https://open.spotify.com/track/7wh79PKQkDZwyoK2Q3DkML) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Streng](https://open.spotify.com/album/0KGKFUPWyYSxDEczLYQDtl) | 3:56 |
+| 25 | [Jasmine](https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Jasmine](https://open.spotify.com/album/5v8BCqVyeuRbXHOpsLxhzl) | 3:17 |
+| 26 | [Hallo, met mij.](https://open.spotify.com/track/4CHsDxBt3xstJcLQ1pPu8E) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Hallo, met mij.](https://open.spotify.com/album/48IS1Jgvw3T6aqqDiTegpo) | 2:43 |
+| 27 | [Feestje Op Mijn Graf](https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Feestje Op Mijn Graf](https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt) | 2:42 |
 | 28 | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/track/3ly2ySmmZPnHQrLrt5HTe9) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/album/1LDTEdjLM3XzyZN6a8BpbZ) | 2:25 |
 | 29 | [Oh Zo Hopeloos](https://open.spotify.com/track/2tA6LB7Cyh8Z4oI3LY6AnH) | [Renee Rose](https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI) | [Oh Zo Hopeloos](https://open.spotify.com/album/4UEP0PWLVj8kPoXcIrEOik) | 2:46 |
 | 30 | [Allang Van Mij](https://open.spotify.com/track/6cmxD3gXSujTVgEqEygqTL) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Allang Van Mij](https://open.spotify.com/album/6ZK2NXTLHNzid9R826LbCC) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [de laatste zomer](https://open.spotify.com/track/38CzuqJ1HtzsPinaZLmNy7) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [lieve monsters: epiloog](https://open.spotify.com/album/6xMq7H65IFjuxIJ5JWLnmr) | 3:24 |
 | 80 | [Vergeten](https://open.spotify.com/track/6Yj1i2nGfRgGQTslGK5But) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vergeten](https://open.spotify.com/album/4eqi0DD0szFvErxaNCwX9R) | 2:48 |
 
-Snapshot ID: `AAAAAJOZU4OReK1W/9djYd+vkoi+HWHw`
+Snapshot ID: `AAAAAPt/OeVw8Jz/IQh2A28S6gKAS1oy`

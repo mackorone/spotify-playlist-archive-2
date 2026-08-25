@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 69213,
+  "num_followers": 69242,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aojmgAAAAACjlwbllQDaEdF+PuVN4Kuj",
+  "snapshot_id": "aoo4AAAAAAD4gJfwNab8SrhONjcWCItb",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Belikada",
-        "url": "https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw"
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 153106,
-      "name": "La Belikada",
-      "url": "https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa"
+      "duration_ms": 200573,
+      "name": "Apenas Es Martes",
+      "url": "https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf"
     },
     {
       "added_at": null,
@@ -687,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Belikada",
+        "url": "https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 153106,
+      "name": "La Belikada",
+      "url": "https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1quina del tiempo",
         "url": "https://open.spotify.com/album/5tVx4LaB6lu9sMCpcwNBda"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 152181,
       "name": "M\u00e1quina del tiempo",
       "url": "https://open.spotify.com/track/0yzVvnRgFhY6L9tLuOwTGC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Apenas Es Martes",
-      "url": "https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REGRESA",
         "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 146032,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Los Placeres De Archivaldo",
-      "url": "https://open.spotify.com/track/0R5v32TLIxi5ueBqBxO89o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 191600,
       "name": "Las Facetas de Arturo (En Vivo)",
       "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/0R5v32TLIxi5ueBqBxO89o"
     },
     {
       "added_at": null,

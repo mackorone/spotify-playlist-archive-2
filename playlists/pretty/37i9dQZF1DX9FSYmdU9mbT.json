@@ -1,12 +1,12 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1469812,
+  "num_followers": 1469808,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExzkIOlpRi8rpmhCd/dH6xHVwDq",
+  "snapshot_id": "AAAAAJbiYkC64EW2ZwlmCqd5M8zFBRXz",
   "tracks": [
     {
       "added_at": "2026-05-22 11:20:59",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Top Hits",
-        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "Lenha",
-      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Outra Vez",
         "url": "https://open.spotify.com/album/2NylFxVu73peifK68z2fuc"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 254795,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Top Hits",
+        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Lenha",
+      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Lenine In Cit\u00e9 (Deluxe)",
-        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
-      },
-      "artists": [
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 231572,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Racional (Vol 1)",
         "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 305693,
       "name": "Bom-Senso",
       "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Lenine In Cit\u00e9 (Deluxe)",
+        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 231572,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Belchior Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
-      },
-      "artists": [
-        {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        },
-        {
-          "name": "Gilvan de Oliveira",
-          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Meus Caros Amigos",
         "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 166573,
       "name": "O Que Ser\u00e1 (A Flor Da Terra)",
       "url": "https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Belchior Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
+      },
+      "artists": [
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        },
+        {
+          "name": "Gilvan de Oliveira",
+          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
     },
     {
       "added_at": "2026-05-22 11:20:59",

@@ -9133,6 +9133,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2dQmrckBWjvRccjJgcqc5Y"
+      },
+      "artists": [
+        {
+          "name": "Matt Davies",
+          "url": "https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV"
+        },
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240063,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4G1ja02RESLiJ7SJ9wjmjX"
+    },
+    {
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
       },
@@ -11598,7 +11620,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 270000,
       "name": "Kura",
       "url": "https://open.spotify.com/track/5h2IBXZRH8GYrA0LnQMYGb"

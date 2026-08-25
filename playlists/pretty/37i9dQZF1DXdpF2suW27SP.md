@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Prodígio & Edgar Domingos entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,869 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,881 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [SAKELE](https://open.spotify.com/track/7G1wpRIZCTYNAx5ZnmGEH3) | [Harley KSD](https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D) | [SAKELE](https://open.spotify.com/album/6jeWSPrD80a1krwqiTacfB) | 2:16 |
 | 70 | [Ipanema](https://open.spotify.com/track/3dGuHCcyjt9vBSWwJMlbMc) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Ipanema](https://open.spotify.com/album/2IqWfktBGpArfSn2uKSmbo) | 2:27 |
 
-Snapshot ID: `AAAAAFWD1XNzrFuRfwC/+mE7VXtYkTLm`
+Snapshot ID: `AAAAAFLezEvdaEYISdGmyBQyt4Gj+Jrt`

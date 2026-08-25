@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21607,
+  "num_followers": 21612,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJFB1990kODYd9xuRB6R7MhkhMzA",
+  "snapshot_id": "AAAAAJrcUtkSqIFIU/mVRMNblC7Mux7m",
   "tracks": [
     {
       "added_at": "2026-06-29 08:20:19",
@@ -395,18 +395,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "You Never Walk Alone",
-        "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb"
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
       "artists": [
         {
           "name": "BTS",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 231859,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X"
+      "duration_ms": 307675,
+      "name": "MIC Drop (Steve Aoki Remix) (Full Length Edition)",
+      "url": "https://open.spotify.com/track/01380RE6UfsPSdiUIwrCoH"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -487,22 +491,18 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+        "name": "You Never Walk Alone",
+        "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb"
       },
       "artists": [
         {
           "name": "BTS",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 307675,
-      "name": "MIC Drop (Steve Aoki Remix) (Full Length Edition)",
-      "url": "https://open.spotify.com/track/01380RE6UfsPSdiUIwrCoH"
+      "duration_ms": 231859,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -2023,26 +2023,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 306477,
-      "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
-      "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "Street Woman Fighter2 (SWF2) Crew Songs",
         "url": "https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY"
       },
@@ -2063,6 +2043,30 @@
       "duration_ms": 194893,
       "name": "SHOW YOU CAN (Prod. Czaer, JAKOPS)",
       "url": "https://open.spotify.com/track/5XdxtGNFQTxDiTygagtrWi"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "LLLM",
+        "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
+      },
+      "artists": [
+        {
+          "name": "Tray B",
+          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 225610,
+      "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B]",
+      "url": "https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng"
     }
   ],
   "unique_name": "3\ub300 1000",

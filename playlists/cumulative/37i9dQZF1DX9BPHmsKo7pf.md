@@ -4,7 +4,7 @@
 
 > Cele mai de succes 50 de hituri în România\. Cover: MADATORRICELLI
 
-357 songs - 16 hr 58 min
+358 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ALL RED](https://open.spotify.com/track/3WQfLuSH0Az2tzVoCz6OCE) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/65TLpR9CjyYqBL8Os2pmlY) | 2:28 | 2024-09-23 | 2024-10-01 |
 | [ALL THE LOVE \(feat\. Andre Troutman\)](https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Andre Troutman](https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:49 | 2026-04-07 | 2026-04-21 |
 | [Alo, mama](https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Alo, mama](https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp) | 2:49 | 2025-02-03 | 2025-06-25 |
+| [Am intrebat un om \(Nebunu\)](https://open.spotify.com/track/2Qvl3q2nNNDAOHuT652h5w) | [Leo de la Rosiori](https://open.spotify.com/artist/1jA2b2NGlnvvoENpJt7To6) | [Am intrebat un om \(Nebunu\)](https://open.spotify.com/album/4SUjaRSm5Ce8iEw8E5JsTi) | 3:33 | 2026-08-24 |  |
 | [Am un secret](https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Am un secret](https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV) | 2:50 | 2025-03-03 | 2025-09-16 |
 | [Amo, Amo](https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Amo, Amo](https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh) | 2:27 | 2024-07-08 | 2025-08-05 |
 | [Amore](https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Amore](https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9) | 2:38 | 2024-07-01 | 2024-12-03 |
@@ -67,7 +68,7 @@
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-10 | 2025-02-25 |
 | [Brasileiro](https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Brasileiro](https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7) | 2:38 | 2025-07-28 | 2026-04-08 |
 | [BROTHERZ](https://open.spotify.com/track/0Uy0EB6nRRcXVh7aR23tEc) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [BROTHERZ](https://open.spotify.com/album/1CIwgqZtLdUjNcaINuizy5) | 3:56 | 2025-03-24 | 2025-06-10 |
-| [Bruce Wayne](https://open.spotify.com/track/37s5QkCWISriONU66pPXey) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [888](https://open.spotify.com/album/0nOx92YDM4B6KLWeTVhbhc) | 2:22 | 2026-08-10 |  |
+| [Bruce Wayne](https://open.spotify.com/track/37s5QkCWISriONU66pPXey) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [888](https://open.spotify.com/album/0nOx92YDM4B6KLWeTVhbhc) | 2:22 | 2026-08-10 | 2026-08-25 |
 | [Băieți de Oraș \- From "Băieți De Oraș \| Golden Boyz" The Movie](https://open.spotify.com/track/33XJD6EhI9Od8gFhLsbdGi) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy), [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ), [Arkanian](https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Băieți de Oraș \(From "Băieți De Oraș \| Golden Boyz" The Movie\)](https://open.spotify.com/album/68Fxy6NY4xXvI7p13MwcFy) | 2:35 | 2026-02-02 | 2026-06-10 |
 | [Cairo](https://open.spotify.com/track/3aEmoz3HFNEYOYZZSwVB9W) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Cairo](https://open.spotify.com/album/3MPR02jqOp0YPmNZ7aJbMz) | 2:48 | 2026-04-20 | 2026-08-18 |
 | [CALIFORNIA](https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [CALIFORNIA](https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy) | 2:19 | 2025-04-14 | 2025-09-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Joseph Kamel et Vitaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,517 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,487 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Pain au Lait](https://open.spotify.com/track/7iQWvqXbYehMTVSRLg2fTI) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pain au Lait](https://open.spotify.com/album/4VyHdSw3DrrOcbPyOOqvjo) | 2:45 |
 | 50 | [Los Angeles](https://open.spotify.com/track/6bS1rp9GfTxDLy4oAiyHle) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Los Angeles](https://open.spotify.com/album/5zQKqBsuShCcKgCMe6gHnW) | 2:54 |
 
-Snapshot ID: `AAAAACqHFQMZCbqzZh2aXBw+A0KYRyPO`
+Snapshot ID: `AAAAADTmqHuk4giyjAY45brCoCAnWsnx`

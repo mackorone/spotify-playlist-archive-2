@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2026-07-29",
   "description": "Close Mic, Muted Strings",
-  "name": "Felted Piano",
+  "name": "Cozy Felt Piano",
   "tracks": [
     {
       "album": {
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Bramble",
+        "url": "https://open.spotify.com/album/01ZnOfWcHnjhobloNWPxac"
+      },
+      "artists": [
+        {
+          "name": "Quentin Noire",
+          "url": "https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173744,
+      "name": "Bramble",
+      "url": "https://open.spotify.com/track/6J2H73IdyNJtynPkd3uHG1"
+    },
+    {
+      "album": {
         "name": "Chalford",
         "url": "https://open.spotify.com/album/4QeoYBpW1fA9D9DwxIm06j"
       },
@@ -398,6 +416,24 @@
       "duration_ms": 181394,
       "name": "Gentle Thoughts",
       "url": "https://open.spotify.com/track/3maX6mCu9JgfUFjP2TRBss"
+    },
+    {
+      "album": {
+        "name": "Green Mosaic",
+        "url": "https://open.spotify.com/album/5W0klJMX8e8gP479Q9ZxZp"
+      },
+      "artists": [
+        {
+          "name": "Theo Solin",
+          "url": "https://open.spotify.com/artist/1OX2OAs4EbPsLUxA3Jchly"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "Green Mosaic",
+      "url": "https://open.spotify.com/track/75DJ5K9J1mbpwN9ze8rk55"
     },
     {
       "album": {
@@ -564,6 +600,24 @@
       "duration_ms": 170000,
       "name": "Ivory",
       "url": "https://open.spotify.com/track/0vYdi1h6DxGJPgW0pWeIVX"
+    },
+    {
+      "album": {
+        "name": "Katla",
+        "url": "https://open.spotify.com/album/4oTNLxpqANKRBpmojhfoNB"
+      },
+      "artists": [
+        {
+          "name": "Waylen Orson",
+          "url": "https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155791,
+      "name": "Katla",
+      "url": "https://open.spotify.com/track/2P2T6tJOvgeox9GhPlYMKu"
     },
     {
       "album": {

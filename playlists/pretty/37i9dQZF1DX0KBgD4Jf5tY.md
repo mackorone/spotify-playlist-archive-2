@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:4vA9K7BZzkqFAh9hQfXwiD">Gioac</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,892 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,899 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Restituire](https://open.spotify.com/track/4a02hrhdKCbz14iNmfXVKZ) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Tuona / Restituire](https://open.spotify.com/album/2g1iBvlTNC9onQoO3Qs0KX) | 3:13 |
 | 50 | [Distruggere un amore](https://open.spotify.com/track/178sk2KA9TX9EgchAmGbBs) | [Gloria Tricamo](https://open.spotify.com/artist/58lKFq1ZTU6IH6NWkmObn0) | [Distruggere un amore](https://open.spotify.com/album/1u3BuuiOPubsgJ9vMryTZv) | 3:41 |
 
-Snapshot ID: `AAAAANksB9S0jRc1Ai/Cf/Yh3FFCsR/Y`
+Snapshot ID: `AAAAACJeDUsZPbJTwDYnkcYGSpXTcwF6`

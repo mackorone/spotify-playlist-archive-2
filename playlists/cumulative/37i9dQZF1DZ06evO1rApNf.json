@@ -442,7 +442,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 193072,
       "name": "Cantinero",
       "url": "https://open.spotify.com/track/47Lhr8ZLlIJYGPbDY7v7RF"
@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Ricky y Mau",
+        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179980,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/3Whi7ZFkEc21gRmahglUf3"
+    },
+    {
+      "album": {
         "name": "Las Flores",
         "url": "https://open.spotify.com/album/4rYkjbia1gDi2BUi4dIY01"
       },
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-25",
       "duration_ms": 179980,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/4uRYuPIcuRedAHptdTaF3L"
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 184763,
       "name": "noche de luna",
       "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"

@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61543,
+  "num_followers": 61538,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKQxmzrR2W1Mklqh07hIiwqh3bjg",
+  "snapshot_id": "AAAAAIrYAuuspvFr4skod71KnXMxEozD",
   "tracks": [
     {
       "added_at": "2026-02-09 02:43:04",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Standards Trio: Reflections",
         "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "Songbook",
         "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 303160,
       "name": "Tranquillity - Remastered 1994",
       "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Remembering Billie",
+        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 336373,
       "name": "Good Morning.Goodbye",
       "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Remembering Billie",
-        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Night in the City",
-        "url": "https://open.spotify.com/album/7I9Av7XYxponwKOHUJqmd4"
-      },
-      "artists": [
-        {
-          "name": "Richard Freeman",
-          "url": "https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ"
-        }
-      ],
-      "duration_ms": 180621,
-      "name": "Endless Mind",
-      "url": "https://open.spotify.com/track/5MTg1t0AdyxaIvSKv2Zchn"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Walk The Dog",
         "url": "https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Reacquainted",
-        "url": "https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD"
+        "name": "Night in the City",
+        "url": "https://open.spotify.com/album/7I9Av7XYxponwKOHUJqmd4"
       },
       "artists": [
         {
-          "name": "Eric Rowland",
-          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
+          "name": "Richard Freeman",
+          "url": "https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ"
         }
       ],
-      "duration_ms": 209594,
-      "name": "Reacquainted",
-      "url": "https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2"
+      "duration_ms": 180621,
+      "name": "Endless Mind",
+      "url": "https://open.spotify.com/track/5MTg1t0AdyxaIvSKv2Zchn"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1279,6 +1263,22 @@
       "duration_ms": 763466,
       "name": "Gloomy Sunday",
       "url": "https://open.spotify.com/track/1E8CLofdHL6FVq4PXIIw9x"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Reacquainted",
+        "url": "https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD"
+      },
+      "artists": [
+        {
+          "name": "Eric Rowland",
+          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
+        }
+      ],
+      "duration_ms": 209594,
+      "name": "Reacquainted",
+      "url": "https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2"
     },
     {
       "added_at": "2026-02-09 02:43:04",

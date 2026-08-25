@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: Kiismet\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,398 likes - 55 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,400 likes - 55 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 54 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
 | 55 | [โคตรสวย โคตรอันตราย](https://open.spotify.com/track/0j235rUOTOJnGDiq4Ez16S) | [ax’an](https://open.spotify.com/artist/6ZpMsyqO6kymsc0cyPpRuB) | [โคตรสวย โคตรอันตราย](https://open.spotify.com/album/2qKLhYSQRbBQoH6WzwaEAr) | 3:17 |
 
-Snapshot ID: `AAAAAIWn6YEgdvR9JCuzQkJr6R8jPsCA`
+Snapshot ID: `AAAAAMkXE5fJ3Rpct2IbNVURLgP0T557`

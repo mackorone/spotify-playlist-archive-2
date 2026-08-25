@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Wolves In the Throne Room
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,634 likes - 200 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,766 likes - 200 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 199 | [Il Paradiso Della Regina Sibilla, Atto I: L’arrivo Del Cavaliere A\. De La Sale A Mons Daemoniacus](https://open.spotify.com/track/6GxutaLTUYfJmA0TJJyLXA) | [Hesperia](https://open.spotify.com/artist/0jeCh42LIdsAuU7YE4Xa6D) | [Il Paradiso Della Regina Sibilla, Atto I: L’arrivo Del Cavaliere A\. De La Sale A Mons Daemoniacus](https://open.spotify.com/album/2kgjp0dQjMTfegAvLWSPm3) | 6:15 |
 | 200 | [Losing You TEMP \- 09 \| 26](https://open.spotify.com/track/73jUURKPQq5VGEdbFvNV2B) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dead by April \(09 \| 26\)](https://open.spotify.com/album/1WgC73wFUEgI16mrz2Ytr6) | 3:48 |
 
-Snapshot ID: `AAAAACFQyAPpAMQwQKl1PHvu2NpAh0uh`
+Snapshot ID: `AAAAAHJ12cD0Ev5Skixh7XyiW9XLfy0F`
